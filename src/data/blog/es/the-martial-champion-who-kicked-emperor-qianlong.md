@@ -1,0 +1,19 @@
+---
+pubDatetime: 2026-10-26 09:37:00
+title: "El campeón marcial que pateó al emperador Qianlong"
+featured: false
+draft: false
+description: "Durante el período Qianlong de la dinastía Qing, los eunucos y las damas del palacio regañaban a menudo al campeón Wu Mandekun por proteger la puerta del palacio. Bajo la dirección de Liu Yong, su ciudad natal, aprovechó la oportunidad que le ofrecía el emperador Qianlong para escabullirse por la muralla del palacio por la noche, derribarlo y fingir que se declaraba culpable. Qianlong se quejó de que era un buen chico. Pronto, ordenó que trasladaran a Man Dekun para vigilar la frontera, satirizando el acoso judicial y mostrando la inteligencia del hombrecito."
+---
+
+
+
+
+ Durante el período Qianlong de la dinastía Qing, había un campeón de artes marciales en el condado de Tengxian. Se llamaba Man Dekun.
+En ese momento, el país todavía era demasiado pacífico. Aunque Man Dekun era el campeón, no dirigió el ejército ni vigiló la ciudad durante un período de tiempo. Solo se trata de vigilar la puerta del palacio, es decir, un recado de bajo nivel de guardia.
+Como dice el refrán, los perros tienen que ver con el carácter. Tanto la doncella del palacio como el eunuco despreciaban a Man Champion. Cada vez que el emperador, la esposa y la concubina entran y salen por la puerta del palacio, Man Dekun se queda de brazos cruzados y es a menudo regañado por eunucos y doncellas del palacio. Man Dekun tiene excelentes artes marciales y también es un imponente campeón de artes marciales. Realmente no quiere hacer este tipo de obra misional. Sin embargo, no podía hablar con nadie, y mucho menos sugerirlo al emperador; tenía que esconderlo en mi corazón.
+Un día, cuando se reunió con el ministro Lianli y con Liu Yong, que también es un compatriota, Man Dekun le dijo en secreto que no estaba dispuesto a vigilar la puerta del palacio. Liu Yong meditó durante mucho tiempo, pero no se le ocurrió una buena solución. Luego hubo algunos chismes. Cuando Man Dekun no tenía intención de hablar sobre Qianlong, dijo: «Viva el día de hoy. Puedes entrar al palacio por la noche sin entrar ni salir por la puerta del palacio. Como está muy versado en literatura y artes marciales, a menudo vuela para robar por encima de las paredes del palacio, así que puedo fingir que no lo he visto». De acuerdo con las reglas de la corte imperial, el emperador debe informar al eunuco cada noche en qué palacio se encuentra, y el eunuco se ocupará de ello. Sin embargo, Qianlong amaba no solo a sus concubinas, sino también a Nishinomiya. Pasé la noche en dos palacios. A pesar de que era un emperador, siempre pensé que no era bueno que las cosas salieran a la luz. Con este fin, Qianlong adoptó el método de robar la muralla del palacio.
+Liu Yong se enteró de que Qianlong cruzaba la muralla del palacio a altas horas de la noche y le dijo a Man Zhuangyuan: «Ya no quieres usar el método de la puerta del palacio». Luego le dije esto una y otra vez a Man Dekun, y Man Dekun asintió repetidamente y dijo que sí.
+Unos días más tarde, Man Dekun estaba de guardia a altas horas de la noche. Al ver que el vehículo ligero Qianlong tenía que volver a cruzar la muralla del palacio. Man Dekun alcanzó una flecha, dio un paso y lo tiró al suelo. Se sujetó del hombro con la mano izquierda y tuvo que luchar con puño de hierro con la mano derecha. Hablando de llegar tarde, fue rápido. Qianlong dijo apresuradamente: «No pelees, es una viuda». Man Dekun inmediatamente lo agarró con las manos y se arrodilló en el suelo: «¡Hurra! ¡Malditos secuaces!» En ese momento, Qianlong tuvo que decir: «Eres un buen chico. No alces la voz; me disculpo por no ser culpable».
+Man Dekun pateó a Qianlong con pies voladores. Qianlong pensó que había hecho lo correcto. Sin embargo, era un inconveniente para él. Finalmente, se ordenó una misión sagrada para cuidar la frontera.   
+

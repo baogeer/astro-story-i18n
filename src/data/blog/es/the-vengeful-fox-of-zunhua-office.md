@@ -1,0 +1,16 @@
+---
+pubDatetime: 2026-10-30 00:32:42
+title: "La vengativa zorra de la oficina de Zunhua"
+featured: false
+draft: false
+description: "Qiu Gong era un funcionario en Zunhua. Bombardeó a un grupo de zorros con artillería. Solo escapó un zorro. Dos años más tarde, el fugitivo se convirtió en un anciano que acusaba a Qiu Gong de sobornar y fue ejecutado. La historia sugiere que el bien y el mal tienen su recompensa; no hay que intimidar a los débiles."
+---
+
+
+
+
+ Cuando Qiu Gong, del condado de Zhucheng, se convirtió en funcionario en Zunhua, había muchos zorros en la oficina gubernamental. En el piso al final del edificio de oficinas viven grandes grupos de zorros. Se han convertido en el antiguo nido del zorro. También suelen salir para acosar a la gente. Cuanto más los alejan, más problemas tienen. En el pasado, todos los que servían de palacio aquí hacían ofrendas y rezaban respetuosamente por ellos; nadie se atrevía a ofender a estos zorros.
+Después de que Qiu Gong asumió el cargo aquí, escuchó que había sucedido algo así y se enojó mucho. Estos zorros también temían el fuerte temperamento de Qiu Gong, por lo que se convirtieron en viejas esposas y le dijeron a la familia de Qiu Gong: «Por favor, dígales a los adultos que no finjamos. En tres días, hicimos que toda la familia, jóvenes y mayores, se mudara». Gong Qiu escuchó pero no dijo una palabra.
+Al día siguiente, Qiu Gong había terminado su desfile militar. Les dijo a todos que no se disolvieran. Pidió a los soldados que se llevaran todos los batallones de artillería y, de repente, rodeó el edificio detrás de la estación. Qiu Gong ordenó que se dispararan miles de cañones de artillería al unísono. En un abrir y cerrar de ojos, el alto edificio fue destruido hasta los cimientos. El pelaje y la carne de una bandada de zorros caen del cielo como lluvia. Vi una gota de gas blanco corriendo por el cielo entre el humo ondulante. Todos miraron al cielo y dijeron: «¡Se ha escapado un zorro!» Sin embargo, desde entonces, el departamento ha estado sano y salvo.
+Dos años más tarde, Gong Qiu envió dinero de sus poderosos sirvientes a Kioto. Planeaba confiar a alguien la gestión del ascenso. Antes de que se resolviera el asunto, escondió temporalmente el dinero en la casa de Banji. De repente, un anciano fue al palacio para quejarse, diciendo que su esposa había sido asesinada, y también reveló que Qiu Gongke retenía los salarios militares y sobornaba a altos funcionarios. El dinero ahora estaba escondido en la casa de alguien, por lo que se puede comprobar. El emperador ordenó al anciano que fuera a la banjiya para inspeccionarlo, pero no importaba cómo lo buscara, no podía encontrar dinero. El anciano puso un pie en el suelo y envió a alguien para que entendiera lo que quería decir. Una vez que cavó el suelo y echó un vistazo, sin duda desenterró la plata. La leyenda «Cierto asentamiento del condado» todavía estaba grabada en la plata. Entonces busca al viejo, pero ya no está. El gobierno tomó el registro de cuentas local y quiso encontrar a este anciano, pero no había nadie. El príncipe Qiu fue ejecutado en este caso. La gente solo sabe que este viejo es un zorro que se escapó en ese entonces.   
+

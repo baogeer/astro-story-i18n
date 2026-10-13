@@ -104,17 +104,23 @@ db_tool = DbMysqlHelper(param=save_database_config)
 
 
 
+def yaml_safe(value: str) -> str:
+    """把字符串转成 YAML 安全的值（用 JSON 双引号包裹并转义）"""
+    if value is None:
+        return '""'
+    return json.dumps(str(value), ensure_ascii=False)
+
+
 def build_markdown(language_code, article):
     newline = '\r\n'
     content_str = newline.join(article['content'])
 
-    article_content = f"""
----
+    article_content = f"""---
 pubDatetime: {article['publish_time']}
-title: {article['title']}
+title: {yaml_safe(article['title'])}
 featured: false
 draft: false
-description: {article['description']}
+description: {yaml_safe(article['description'])}
 ---
 
 
@@ -130,20 +136,30 @@ description: {article['description']}
     file_path = f"{dir_path}/{article['file_name']}.md"
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(article_content)
+LANG_FIELDS = {
+    'zh': {'title': 'title_zh', 'summary': 'ai_summary_zh', 'content': 'article_content_zh'},
+    'en': {'title': 'title_en', 'summary': 'ai_summary_en', 'content': 'article_content_en'},
+    'ar': {'title': 'title_ar', 'summary': 'ai_summary_ar', 'content': 'article_content_ar'},
+    'es': {'title': 'title_es', 'summary': 'ai_summary_es', 'content': 'article_content_es'},
+    'fr': {'title': 'title_fr', 'summary': 'ai_summary_fr', 'content': 'article_content_fr'},
+    'ru': {'title': 'title_ru', 'summary': 'ai_summary_ru', 'content': 'article_content_ru'},
+}
+
+
 def main_run():
-    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` LIMIT 0, 10;"
+    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` LIMIT 0, 10000;"
     for article in db_tool.query(task_sql):
-        article_zh = {
-            'file_name': article['file_name'],
-            'title': article['title_zh'],
-            'description': article['ai_summary_zh'],
-            'content': article['article_content_zh'],
-            'publish_time': article['created_at'],
-        }
-        build_markdown(
-            language_code='zh',
-            article=article_zh
-        )
+        for lang_code, fields in LANG_FIELDS.items():
+            build_markdown(
+                language_code=lang_code,
+                article={
+                    'file_name': article['file_name'],
+                    'title': article[fields['title']],
+                    'description': article[fields['summary']],
+                    'content': article[fields['content']],
+                    'publish_time': article['created_at'],
+                }
+            )
 
 
 if __name__ == '__main__':

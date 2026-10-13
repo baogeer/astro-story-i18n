@@ -1,0 +1,54 @@
+---
+pubDatetime: 2026-12-27 18:29:15
+title: "Le méchant taoïste et la fée renarde"
+featured: false
+draft: false
+description: "Chen Tian a été emprisonné alors qu'il se précipitait pour l'examen. Il a été secouru par une fée renard alors qu'il coupait du bois de chauffage. La fée renard punit le mal et demande à Chen Tian d'être mari et femme pendant un an. Un an plus tard, la fée renard a accouché et s'est envolée. Chen Tian est retourné dans sa ville natale avec ses enfants et est ensuite passé au collège. L'histoire est pleine de bien et de mal."
+---
+
+
+
+
+ Le testament de Liao Zhai, un nouveau chapitre de Jingyue | Louez les sentiments des temps anciens, soyez décents dans le présent
+Pendant les années Wanli de la dynastie Ming, il y avait une famille Shuxiang portant le nom de famille Chen à Laizhou. De génération en génération, la famille Chen avait un style académique simple et une famille extrêmement noble, et de nombreuses personnes ont été promues. Dans la génération de Chen Tian, ils sont encore plus prospères.
+En tant que fils aîné de la famille Chen, Chen Tian est brillant depuis son enfance. À l'âge de 17 ans, il a pris les devants dans sa ville natale.
+Après avoir été renvoyé par les habitants de Laizhou, il s'est rendu à Pékin à cheval à cheval pour passer l'examen. Avant de partir, le père Chen l'a tranquillement bourré de 32 lingots d'argent pour qu'il puisse manger et rester en bonne santé en cours de route, sans se maltraiter.
+Le père Chen a conseillé à son fils de ne pas révéler l'argent, sinon cela pourrait être un désastre financier. Chen Tian a démissionné après sa descente.
+Ce jour-là, Chen Tian est arrivé au pied d'une montagne à cheval. Voyant le magnifique paysage environnant, il s'est arrêté et a prévu d'en profiter.
+Lorsqu'il est sorti de son sac avec du vin et des légumes, il a accidentellement renversé les lingots d'argent qu'il contenait. À ce moment-là, il se trouve qu'un taoïste en costume en lambeaux est passé et a dit à Chen Tianxa0: «xa0Le client était à Pékin pour se précipiter pour passer l'examen.xa0»
+Chen Tian a affirmé oui, et le taoïste a également déclaréxa0: «xa0Le sommet de la montagne est un bon trésor de Feng Shui. Si le donateur est prêt à donner de l'argent pour y construire une maison taoïste pour y adorer Dieu, je bénirai votre champion de lycée.xa0»
+Chen Tianzhen était jeune et naïfxa0; il a accepté sans trop réfléchir, puis a fait don d'un sou d'argent au taoïste. Le taoïste a souri et a invité Chen Tian à séjourner dans un hôtel voisin en tant que témoin, puis a demandé à quelqu'un de construire le temple taoïste.
+Chen Tian est resté quelques jours, a apprécié les magnifiques paysages à proximité, puis est monté la montagne pour dire au revoir au taoïste.
+À ce stade, le temple taoïste au sommet de la montagne avait déjà construit les fondations et les murs, et le taoïste a dit à Chen Timxa0: «xa0Les deux pièces d'argent données par le client ne suffisent que pour couvrir la moitié. Pourquoi les bonnes choses n'aident-elles pas jusqu'au bout, alors donne-moi deux autres pièces d'argentxa0!xa0»
+Chen Tian était un peu gêné de l'entendre, mais quand il a vu que le taoïste avait une expression sérieuse, il lui a donné deux autres lingots d'argent.
+Après avoir reçu l'argent, le taoïste a de nouveau abandonné de force Chen Tian, disant qu'il assisterait à la cérémonie d'ouverture de la salle taoïstexa0; sinon, cela ne fonctionnerait pas. Chen Tian a planifié les dates de son prochain voyage. Voyant qu'il restait encore du temps avant l'examen, il a accepté.
+Après dix jours en un clin d'œil, une toute nouvelle salle de boue a finalement été construite. Cependant, les trois véritables statues célestes du temple ne sont que des statues d'argile. Le taoïste est retourné voir Chen Tian et lui a ditxa0: «xa0Si la statue doit être peinte en or aujourd'hui, pourquoi le client ne me donne-t-il pas 22 dollars de plus pour le fairexa0?xa0»
+Chen Tian a refusé. Quand le taoïste a vu qu'il n'avait pas donné, il l'a maudit, et quand il n'a vu personne, il a essayé de battre Chen Tian.
+Le pauvre Chen Tianshen est fier et riche. Il n'a jamais vu une personne méchante depuis sa naissance jusqu'à ce qu'il grandisse. Il était si effrayé qu'il a rapidement donné tout son argent au méchant, puis a voulu lui dire au revoir le plus tôt possible.
+De façon inattendue, le taoïste s'est approché de lui, l'a attrapé et lui a dit sévèrementxa0: «xa0Je n'ai toujours pas de taoïste dans ce taoïste, alors restez et soyez mon taoïste. À l'avenir, c'est mieux que d'être officiel à l'examen.xa0» À ce stade, Chen Tian a fondu en sanglots et a supplié l'autre partie de se laisser aller. Mais le taoïste n'a pas écouté et l'a traîné dans une maison en bois et l'a enfermé au bout de quelques instants.
+De l'automne à l'hiver, six mois se sont écoulés et l'examen académique est déjà terminé, et le savant Chen Tian est toujours emprisonné par de mauvais esprits.
+Un jour, Chen Tian s'est endormie dans la pièce à bois. Il a été soudainement réveillé par un taoïste et lui a ordonné de monter dans la montagne pour couper du bois de chauffage. Chen Tian avait peur de le battrexa0; il n'avait pas d'autre choix que d'écouter. Après m'être levée et avoir bu deux bols de porridge, je suis allée à la montagne pour couper du bois de chauffage avec un couteau à bois en corde de chanvre.
+Après avoir été coupée pendant un certain temps, les mains de Chen Tian ont ressenti beaucoup de douleur, alors le chagrin en est venu, et elle a pleuré tout de suite.
+Chen Tian a été triste pendant un moment. Son estomac avait une faim insupportable. En pensant ne plus manger, elle pourrait mourir de faim. J'ai donc dû prendre un couteau à bois et me préparer à commencer à couper du bois de chauffage.
+À ce moment-là, sur la route de montagne devant moi, une femme incroyablement belle est soudainement arrivée. La femme est venue voir Chen Tian et l'a regardéxa0: «xa0Eh bien, érudit, pourquoi n'as-tu pas étudié pour couper du bois de chauffage dans les montagnesxa0; es-tu victime d'intimidationxa0?xa0»
+Chen Tian a essuyé ses larmes à la hâte et a raconté comment elle avait été trompée.
+La femme l'a regardé et a ditxa0: «xa0Je ne le vois pas. Je pense que c'est Xiao Xiu qui a été réprimandée par sa belle-fillexa0? Tu agis toujours seulxa0? Ce taoïste est également si abominable. Tu veux que je t'aide à te vengerxa0?xa0»
+Chen Tianyi a écouté et a hoché la têtexa0: «xa0Si ma sœur est prête à m'aider à me venger et à me sauver d'une mer de souffrances, je te rembourserai certainement.xa0»
+Cependant, Chen Tien avait également des doutes dans son cœur. Bien que cette femme soit très belle, elle a l'air faible. Est-elle la fille d'une famille influentexa0? Ne pourrait-elle pas combattre ce mal toute seulexa0?
+La femme a souri et a ditxa0: «xa0Je suis une fée renard des montagnes. C'est facile de te sauver, mais je veux savoir comment tu peux me rembourserxa0? Vous devez savoir qu'il n'y a pas de repas gratuits dans le monde, et vous sauver est une grande bénédiction.xa0»
+Chen Tian a été choqué d'apprendre qu'il était une fée renard des montagnes. Il a dit que sa famille est très riche et que si vous pouvez le sauver, vous pouvez le remercier pour mille et deux.
+La femme s'est moquée et a ditxa0: «xa0Ce taoïste est avide de votre argent, pourquoi ne me soucierais-je pas d'une telle vulgaritéxa0? OK, après t'avoir sauvé, j'ai posé une condition pour garantir que tu puisses le faire, et ce ne sera pas une mauvaise chose. Es-tu d'accordxa0?xa0»
+Chen Tian a rapidement accepté, puis a ramené la fée renard à Daoguan.
+À ce moment-là, le taoïste était en train de sortir. Voyant que Chen Tian avait ramené une belle femme, il a réprimandé avec colèrexa0: «xa0D'accord, petit salaud. Je t'ai dit de couper du bois de chauffagexa0; au lieu de cela, tu agresses une femme de bonne famille.xa0»
+Il suffit de lancer le fouet et de choisir Chen Tian. À ce stade, la fée renard a récité le mantra. Une fumée blanche est tombée du ciel et a instantanément attaché le corps du taoïste. Le taoïste ne pouvait pas le contrôler. Il s'est giflé les bras à gauche et à droite et a continué à se gifler. Bientôt, son visage s'est gonflé comme une tête de cochon et a perdu quelques dents.
+Dès que la fée renard a pointé du doigt, le taoïste a été attaché avec une corde et s'est envolé vers la montagne devant moi.
+Quelques instants plus tard, il y a eu quelques rugissements de tigres et des cris de taoïstes dans les montagnes. Chen Tian était effrayé et avait l'air sombre. Elle pensait que même si cette fée renard était belle, elle avait un cœur un peu effrayant, mais ce n'était pas facile de dire quoi que ce soit quand elle est venue la chercher elle-même.
+Après l'incident, la femme a applaudi et lui a ditxa0: «xa0Allons me rendre la pareillexa0!xa0»
+Chen Tian était impuissant et a dû suivre la femme au plus profond des montagnes et dans une grotte.
+La femme l'a regardé et a dit avec émotionxa0: «xa0Bon sang, tu es ma personne pour l'année prochaine. Est-ce que c'est normal pour nous de nous amuser en couplexa0? Je m'entraîne depuis des milliers de kilomètres dans les montagnes et je suis sur le point de monter en flèche. Je n'ai jamais connu la joie entre les hommes et les femmes, et je veux l'essayer pour ne pas avoir de regrets. Êtes-vous d'accord avec cette conditionxa0?xa0»
+Chen Tian a été surpris. Il y avait une certaine réticence dans son cœur, mais il venait de voir à quel point la Fée Fox était puissante. En y réfléchissant, c'était mieux que le taoïste qui le battaitxa0; il était d'accord avec la tête raide.
+La femme s'est avancée et l'a serré dans ses bras, et les deux sont tombés dans une botte de foin dans la grotte. Ils étaient très contents.
+Un an plus tard, Fox Fairy a donné naissance à un fils. Elle est très affectueuse avec Chen Tian. Cependant, lorsqu'ils ont été convoqués par le supérieur, ils n'ont eu d'autre choix que de s'envoler. Chen Tian tenait son bambin qui venait d'atteindre la pleine lune. Elle était triste et impuissante. Après avoir quitté la montagne, elle n'a eu d'autre choix que de retourner dans sa ville natale.
+Le père Chen a vu son fils revenir avec son petit-fils dans ses bras. Il était très contentxa0! Après quelques années, Chen Tian s'est de nouveau précipité à l'examen et s'est finalement présenté à l'examen.
+Déclarationxa0: Cet article a été initialement écrit par Jing Yuezhai (Auteur | Tang Youshi). Les histoires populaires sont de la littérature fictive. Le but est d'utiliser des histoires pour voir la vie, comprendre les faits et promouvoir les vertus traditionnelles chinoises. S'il vous plaît, ne prenez pas parti pour les superstitions féodales. Les images proviennent d'Internet.   
+
