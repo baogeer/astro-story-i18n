@@ -1,51 +1,60 @@
 import type { I18nStrings } from "@/i18n/types";
 
 const baseStrings = {
-  "site.title": "AstroPaper Multilingue",
-  "site.desc": "Un fork du thème AstroPaper avec prise en charge du multilingue",
+  "site.title": "Contes Populaires",
+  "site.desc": "Une bibliothèque numérique multilingue de contes populaires chinois, de légendes et d'histoires de personnages célèbres.",
 };
 
 const FRLocale: I18nStrings = {
   ...baseStrings,
-  "hero.title": "Bonjour",
+
+  // Hero
+  "hero.title": "Contes Populaires",
   "hero.body": `
-        AstroPaper est un thème de blog Astro minimaliste, responsive, accessible et optimisé pour le SEO.
-        Ce thème suit les meilleures pratiques et offre une prise en charge de l'accessibilité dès le départ.
-        Il prend en charge les modes clair et sombre par défaut, et permet également de configurer d'autres schémas de couleurs.
+        Contes Populaires est une bibliothèque numérique multilingue qui rassemble
+        des contes populaires chinois, des légendes et des histoires de personnages célèbres.
+        Nous sélectionnons avec soin les contes populaires chinois et les présentons
+        en anglais, espagnol, français, arabe et russe,
+        afin que davantage de lecteurs dans le monde puissent découvrir
+        les histoires chinoises et ressentir le charme des légendes populaires.
 `,
-  "hero.beforeReadme": "Lisez les articles du blog ou consultez le",
-  "hero.readme": "README",
+  "hero.beforeReadme": "Commencez à lire les contes ou consultez",
+  "hero.readme": "À propos",
   "hero.afterReadme": "pour plus d'informations.",
+
+  // General
   copy: "Copier",
   copied: "Copié",
   by: "par",
   about: "À propos",
   socialLinks: "Liens sociaux",
   home: "Accueil",
-  posts: "Articles",
-  "posts.desc": "Tous les articles que j'ai publiés.",
+  posts: "Contes",
+  "posts.desc": "Tous les contes recueillis dans Contes Populaires.",
   tag: "Étiquette",
-  "tag.desc": 'Tous les articles avec l\'étiquette "{name}".',
+  "tag.desc": 'Tous les contes avec l\'étiquette "{name}".',
   tags: "Étiquettes",
-  "tags.desc": "Toutes les étiquettes utilisées dans les articles",
+  "tags.desc": "Toutes les étiquettes utilisées dans les contes",
   archives: "Archives",
-  "archives.desc": "Tous les articles que j'ai archivés.",
+  "archives.desc": "Tous les contes archivés dans Contes Populaires.",
   featured: "À la une",
-  recentPosts: "Articles récents",
+  recentPosts: "Contes récents",
   tableOfContents: "Table des matières",
   "tableOfContents.desc": "Ouvrir la table des matières",
-  allPosts: "Tous les articles",
+  allPosts: "Tous les contes",
   search: "Rechercher",
-  "search.desc": "Rechercher n'importe quel article",
-  "search.placeholder": "Rechercher...",
+  "search.desc": "Rechercher n'importe quel conte",
+  "search.placeholder": "Rechercher des titres, résumés ou textes...",
   pages: "Pages",
   page: "Page",
   pageWithNo: "Page {no}",
+
+  // Navigation
   "navigation.goBack": "Retour",
   "navigation.goBackHome": "Retour à l'accueil",
   "navigation.backToTop": "Retour en haut",
-  "navigation.nextPost": "Article suivant",
-  "navigation.prevPost": "Article précédent",
+  "navigation.nextPost": "Conte suivant",
+  "navigation.prevPost": "Conte précédent",
   pageNotFound: "Page introuvable",
   notFound: "Introuvable",
   rssFeed: "Flux RSS",
@@ -53,7 +62,11 @@ const FRLocale: I18nStrings = {
   toggleLightAndDark: "Basculer entre le mode clair et sombre",
   "pagination.prev": "Précédent",
   "pagination.next": "Suivant",
-  "footer.text": "Copyright © {year} | Tous droits réservés",
+
+  // Footer
+  "footer.text": "Copyright © {year} Contes Populaires | Tous droits réservés",
+
+  // Date
   "date.published": "Publié",
   "date.updated": "Mis à jour",
   "date.month.1": "janvier",
@@ -68,6 +81,8 @@ const FRLocale: I18nStrings = {
   "date.month.10": "octobre",
   "date.month.11": "novembre",
   "date.month.12": "décembre",
+
+  // Socials
   "socials.github": `Github de ${baseStrings["site.title"]}`,
   "socials.facebook": `Facebook de ${baseStrings["site.title"]}`,
   "socials.instagram": `Instagram de ${baseStrings["site.title"]}`,
@@ -75,8 +90,8 @@ const FRLocale: I18nStrings = {
   "socials.mail": `Envoyer un e-mail à ${baseStrings["site.title"]}`,
   "socials.x": `X de ${baseStrings["site.title"]}`,
   "socials.twitch": `Twitch de ${baseStrings["site.title"]}`,
-  "socials.youtube": `Youtube de ${baseStrings["site.title"]}`,
-  "socials.whatsapp": `Whatsapp de ${baseStrings["site.title"]}`,
+  "socials.youtube": `YouTube de ${baseStrings["site.title"]}`,
+  "socials.whatsapp": `WhatsApp de ${baseStrings["site.title"]}`,
   "socials.snapchat": `Snapchat de ${baseStrings["site.title"]}`,
   "socials.pinterest": `Pinterest de ${baseStrings["site.title"]}`,
   "socials.tiktok": `TikTok de ${baseStrings["site.title"]}`,
@@ -88,9 +103,13 @@ const FRLocale: I18nStrings = {
   "socials.steam": `Steam de ${baseStrings["site.title"]}`,
   "socials.telegram": `Telegram de ${baseStrings["site.title"]}`,
   "socials.mastodon": `Mastodon de ${baseStrings["site.title"]}`,
-  "sharePost.desc": "Partager cet article sur",
-  "sharePost.on": "Partager cet article sur {media}",
-  "sharePost.via": "Partager cet article via {media}",
+
+  // Share
+  "sharePost.desc": "Partager ce conte sur",
+  "sharePost.on": "Partager ce conte sur {media}",
+  "sharePost.via": "Partager ce conte via {media}",
+
+  // A11y
   "a11y.skipToContent": "Aller au contenu",
   "a11y.rssFeed": "Flux RSS",
   "a11y.openMenu": "Ouvrir le menu",

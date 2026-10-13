@@ -1,78 +1,97 @@
 import type { I18nStrings } from "@/i18n/types";
 
 const baseStrings = {
-  "site.title": "استرو بيبر مترجم",
-  "site.desc": "ثيمة متفرعة من استروبيبر مع دعم للترجمة",
+  "site.title": "حكايات شعبية",
+  "site.desc": "مكتبة رقمية متعددة اللغات للحكايات الشعبية الصينية، تجمع الحكايات الشعبية والأساطير وقصص الشخصيات الشهيرة.",
 };
 
 const ARLocale: I18nStrings = {
   ...baseStrings,
-  "hero.title": "أهلاً و سهلاً",
-  "hero.body": `استروبيبر هو قالب مدونة Astro بسيط، سريع الاستجابة، سهل الاستخدام، ومتوافق مع محركات البحث. يتبع هذا القالب أفضل الممارسات ويوفر إمكانية الوصول للأشخاص ذوى الهمم. يدعم الوضعان الفاتح والداكن افتراضيًا. كما يمكن أيضًا تكوين أنظمة ألوان إضافية.`,
-  "hero.beforeReadme": "اقرأ مقالات المدونة أو اطّلع على",
-  "hero.readme": "اقرأنى",
-  "hero.afterReadme": "لمزيد من المعلومات.",
+
+  // Hero
+  "hero.title": "حكايات شعبية",
+  "hero.body": `
+        حكايات شعبية هي مكتبة رقمية متعددة اللغات تجمع الحكايات الشعبية الصينية
+        والأساطير وقصص الشخصيات الشهيرة.
+        نعمل على اختيار الحكايات الشعبية الصينية وتقديمها باللغات الإنجليزية
+        والإسبانية والفرنسية والعربية والروسية،
+        ليتمكن المزيد من القراء حول العالم من اكتشاف القصص الصينية
+        والاستمتاع بسحر الأساطير الشعبية.
+`,
+  "hero.beforeReadme": "ابدأ بقراءة الحكايات، أو اطّلع على",
+  "hero.readme": "من نحن",
+  "hero.afterReadme": "لمعرفة المزيد.",
+
+  // General
   copy: "نسخ",
   copied: "تم النسخ",
   by: "بواسطة",
-  about: "عنى",
-  socialLinks: "تابعنى على",
+  about: "عن الموقع",
+  socialLinks: "تابعنا على",
   home: "الصفحة الرئيسية",
-  posts: "المقالات",
-  "posts.desc": "كل ما نشرت من مقالات",
-  tag: "موضوع",
-  "tag.desc": 'كل المقالات المتعلقة بموضوع "{name}".',
-  tags: "المواضيع",
-  "tags.desc": "كل المواضيع التى كتبت بها",
+  posts: "الحكايات",
+  "posts.desc": "جميع الحكايات المنشورة في حكايات شعبية.",
+  tag: "وسم",
+  "tag.desc": 'جميع الحكايات التي تحمل وسم "{name}".',
+  tags: "الوسوم",
+  "tags.desc": "جميع الوسوم المستخدمة في الحكايات",
   archives: "الأرشيف",
-  "archives.desc": "جميع المقالات المؤرشفة",
-  featured: "المميزة",
-  recentPosts: "أحدث المقالات",
+  "archives.desc": "جميع الحكايات المؤرشفة في حكايات شعبية.",
+  featured: "مختارة",
+  recentPosts: "أحدث الحكايات",
   tableOfContents: "جدول المحتويات",
   "tableOfContents.desc": "افتح جدول المحتويات",
-  allPosts: "جميع المقالات",
+  allPosts: "جميع الحكايات",
   search: "البحث",
-  "search.desc": "ابحث عن أي مقالة تريدها",
-  "search.placeholder": "ابحث عن ما تريد",
+  "search.desc": "ابحث عن أي حكاية",
+  "search.placeholder": "ابحث في العناوين أو الملخصات أو النصوص...",
   pages: "الصفحات",
   page: "الصفحة",
   pageWithNo: "صفحة رقم {no}",
-  "navigation.goBack": "اذهب للخلف",
-  "navigation.goBackHome": "اذهب للصفحة الرئيسية",
-  "navigation.backToTop": "للأعلى",
-  "navigation.nextPost": "المقالة التالية",
-  "navigation.prevPost": "المقالة السابقة",
-  pageNotFound: "هذه الصفحة غير موجودة",
+
+  // Navigation
+  "navigation.goBack": "رجوع",
+  "navigation.goBackHome": "العودة إلى الصفحة الرئيسية",
+  "navigation.backToTop": "إلى الأعلى",
+  "navigation.nextPost": "الحكاية التالية",
+  "navigation.prevPost": "الحكاية السابقة",
+  pageNotFound: "الصفحة غير موجودة",
   notFound: "غير موجود",
-  rssFeed: "تغذية  بواسطة RSS",
-  suggestChanges: "اقترح تعديل",
-  toggleLightAndDark: "بدل بين الصبح و الليل",
+  rssFeed: "خلاصة RSS",
+  suggestChanges: "اقترح تعديلاً",
+  toggleLightAndDark: "التبديل بين الوضع الفاتح والداكن",
   "pagination.prev": "السابق",
-  "pagination.next": "التالى",
-  "footer.text": "حقوق الطبع والنشر © {year} | جميع الحقوق محفوظة",
-  "date.published": "نشر فى",
-  "date.updated": "تم التحديث فى",
+  "pagination.next": "التالي",
+
+  // Footer
+  "footer.text": "حقوق النشر © {year} حكايات شعبية | جميع الحقوق محفوظة",
+
+  // Date
+  "date.published": "نُشر في",
+  "date.updated": "حُدّث في",
   "date.month.1": "يناير",
   "date.month.2": "فبراير",
   "date.month.3": "مارس",
   "date.month.4": "أبريل",
   "date.month.5": "مايو",
-  "date.month.6": "يونيه",
+  "date.month.6": "يونيو",
   "date.month.7": "يوليو",
   "date.month.8": "أغسطس",
   "date.month.9": "سبتمبر",
   "date.month.10": "أكتوبر",
   "date.month.11": "نوفمبر",
   "date.month.12": "ديسمبر",
-  "socials.github": `${baseStrings["site.title"]} على Github`,
+
+  // Socials
+  "socials.github": `${baseStrings["site.title"]} على GitHub`,
   "socials.facebook": `${baseStrings["site.title"]} على Facebook`,
   "socials.instagram": `${baseStrings["site.title"]} على Instagram`,
   "socials.linkedin": `${baseStrings["site.title"]} على LinkedIn`,
-  "socials.mail": `أرسل رسالة إلكترونيى إلى ${baseStrings["site.title"]}`,
+  "socials.mail": `أرسل بريدًا إلكترونيًا إلى ${baseStrings["site.title"]}`,
   "socials.x": `${baseStrings["site.title"]} على X`,
   "socials.twitch": `${baseStrings["site.title"]} على Twitch`,
-  "socials.youtube": `${baseStrings["site.title"]} على Youtube`,
-  "socials.whatsapp": `${baseStrings["site.title"]} على Whatsapp`,
+  "socials.youtube": `${baseStrings["site.title"]} على YouTube`,
+  "socials.whatsapp": `${baseStrings["site.title"]} على WhatsApp`,
   "socials.snapchat": `${baseStrings["site.title"]} على Snapchat`,
   "socials.pinterest": `${baseStrings["site.title"]} على Pinterest`,
   "socials.tiktok": `${baseStrings["site.title"]} على TikTok`,
@@ -84,19 +103,23 @@ const ARLocale: I18nStrings = {
   "socials.steam": `${baseStrings["site.title"]} على Steam`,
   "socials.telegram": `${baseStrings["site.title"]} على Telegram`,
   "socials.mastodon": `${baseStrings["site.title"]} على Mastodon`,
-  "sharePost.desc": "شارك هذه المقالة على",
-  "sharePost.on": "شارك هذه المقالة على {media}",
-  "sharePost.via": "شارك هذه المقالة بواسطة {media}",
+
+  // Share
+  "sharePost.desc": "شارك هذه الحكاية على",
+  "sharePost.on": "شارك هذه الحكاية على {media}",
+  "sharePost.via": "شارك هذه الحكاية عبر {media}",
+
+  // A11y
   "a11y.skipToContent": "تجاوز إلى المحتوى",
-  "a11y.rssFeed": "تغذية  بواسطة rss",
+  "a11y.rssFeed": "خلاصة RSS",
   "a11y.openMenu": "افتح القائمة",
-  "a11y.closeMenu": "اغلق القائمة",
+  "a11y.closeMenu": "أغلق القائمة",
   "a11y.archives": "الأرشيف",
   "a11y.search": "البحث",
-  "a11y.themeButtonDefaultLabel": "تلقائى",
+  "a11y.themeButtonDefaultLabel": "تلقائي",
   "a11y.pagination": "ترقيم الصفحات",
-  "a11y.breadcrumb": "اثار الطريق",
-  "a11y.languagePicker": "اختر لغة الموقع",
+  "a11y.breadcrumb": "مسار التنقل",
+  "a11y.languagePicker": "اختيار اللغة",
 };
 
 export default ARLocale;

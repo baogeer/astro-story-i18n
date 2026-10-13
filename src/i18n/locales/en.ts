@@ -1,52 +1,59 @@
 import type { I18nStrings } from "@/i18n/types";
 
 const baseStrings = {
-  "site.title": "AstroPaper I18n",
-  "site.desc": "A fork of AstroPaper theme with support for I18n",
+  "site.title": "Folk Tales",
+  "site.desc": "A multilingual digital collection of Chinese folk tales, legendary stories and stories of notable figures.",
 };
 
 const ENLocale: I18nStrings = {
   ...baseStrings,
-  "hero.title": "Mingalaba",
+
+  // Hero
+  "hero.title": "Folk Tales",
   "hero.body": `
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        Folk Tales is a multilingual digital collection of Chinese folk tales,
+        legendary stories and stories of notable figures.
+        We carefully curate Chinese folk tales and present them in English, Spanish,
+        French, Arabic and Russian, so that more readers around the world can
+        discover Chinese stories and feel the charm of folk legends.
 `,
-  "hero.beforeReadme": "Read the blog posts or check",
-  "hero.readme": "README",
-  "hero.afterReadme": "for more info.",
+  "hero.beforeReadme": "Start reading stories, or check",
+  "hero.readme": "About Us",
+  "hero.afterReadme": "to learn more.",
+
+  // General
   copy: "copy",
   copied: "copied",
   by: "by",
   about: "About",
   socialLinks: "Social Links",
   home: "Home",
-  posts: "Posts",
-  "posts.desc": "All the articles I've posted.",
+  posts: "Stories",
+  "posts.desc": "All the stories collected in Folk Tales.",
   tag: "Tag",
-  "tag.desc": 'All the articles with the tag "{name}".',
+  "tag.desc": 'All the stories with the tag "{name}".',
   tags: "Tags",
-  "tags.desc": "All the tags used in posts",
+  "tags.desc": "All the tags used in stories",
   archives: "Archives",
-  "archives.desc": "All the articles I've archived.",
+  "archives.desc": "All the stories archived in Folk Tales.",
   featured: "Featured",
-  recentPosts: "Recent Posts",
+  recentPosts: "Recent Stories",
   tableOfContents: "Table of contents",
   "tableOfContents.desc": "Open Table of contents",
-  allPosts: "All Posts",
+  allPosts: "All Stories",
   search: "Search",
-  "search.desc": "Search any article",
-  "search.placeholder": "Search for anything",
+  "search.desc": "Search any story",
+  "search.placeholder": "Search story titles, summaries or content...",
   pages: "Pages",
   page: "Page",
   pageWithNo: "Page {no}",
+
+  // Navigation
   "navigation.goBack": "Go back",
   "navigation.goBackHome": "Go Back Home",
   "navigation.backToTop": "Back to Top",
-  "navigation.nextPost": "Next Post",
-  "navigation.prevPost": "Previous Post",
+  "navigation.nextPost": "Next Story",
+  "navigation.prevPost": "Previous Story",
   pageNotFound: "Page Not Found",
   notFound: "Not Found",
   rssFeed: "RSS Feed",
@@ -54,7 +61,11 @@ const ENLocale: I18nStrings = {
   toggleLightAndDark: "Toggles light & dark",
   "pagination.prev": "Prev",
   "pagination.next": "Next",
-  "footer.text": "Copyright © {year} | All rights reserved",
+
+  // Footer
+  "footer.text": "Copyright © {year} Folk Tales | All rights reserved",
+
+  // Date
   "date.published": "Published",
   "date.updated": "Updated",
   "date.month.1": "January",
@@ -69,6 +80,8 @@ const ENLocale: I18nStrings = {
   "date.month.10": "October",
   "date.month.11": "November",
   "date.month.12": "December",
+
+  // Socials
   "socials.github": `${baseStrings["site.title"]} on Github`,
   "socials.facebook": `${baseStrings["site.title"]} on Facebook`,
   "socials.instagram": `${baseStrings["site.title"]} on Instagram`,
@@ -89,9 +102,13 @@ const ENLocale: I18nStrings = {
   "socials.steam": `${baseStrings["site.title"]} on Steam`,
   "socials.telegram": `${baseStrings["site.title"]} on Telegram`,
   "socials.mastodon": `${baseStrings["site.title"]} on Mastodon`,
-  "sharePost.desc": "Share this post on",
-  "sharePost.on": "Share this post on {media}",
-  "sharePost.via": "Share this post via {media}",
+
+  // Share
+  "sharePost.desc": "Share this story on",
+  "sharePost.on": "Share this story on {media}",
+  "sharePost.via": "Share this story via {media}",
+
+  // A11y
   "a11y.skipToContent": "Skip to content",
   "a11y.rssFeed": "rss feed",
   "a11y.openMenu": "Open Menu",
