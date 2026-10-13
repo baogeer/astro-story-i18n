@@ -146,7 +146,7 @@ LANG_FIELDS = {
 
 
 def main_run():
-    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` LIMIT 0, 100;"
+    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` LIMIT 0, 1000;"
     for article in db_tool.query(task_sql):
         for lang_code, fields in LANG_FIELDS.items():
             build_markdown(

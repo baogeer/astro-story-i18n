@@ -1,0 +1,35 @@
+---
+pubDatetime: 2026-12-07 06:31:12
+title: "El barbero Magic Razor vence a los invasores"
+featured: false
+draft: false
+description: "«King Sword» es una afeitadora en la ciudad de Tianzi, en la República de China. Es famoso por su increíble método con la espada y su ley de sonido. Tras la invasión del demonio japonés, fingió afeitarle la cabeza al capitán Yamamoto para rescatar a la cantante, y tocó «Ambush on Ten Faces», que enfureció a su oponente hasta la muerte. Diez días después, Yamamoto murió de una manera extraña y aparecieron diez manchas de sangre en su cabeza. Cuenta la leyenda que el «Rey de las Espadas Mágicas» usó sus acrobacias para vengar su odio."
+---
+
+
+
+
+ La ciudad de Tianzi nunca ha tenido un emperador, ni siquiera un funcionario decente. En cambio, fue una afeitadora famosa durante la República de China.
+El apellido de esta afeitadora es Wang. Tiene más de cincuenta años. No solo es excelente para afeitarse la cabeza, sino que también sabe cómo masajearla. Lo que es aún más interesante es que cada vez que su navaja toca su cabello o cuero cabelludo, hace un ruido increíble. Por lo tanto, la gente no lo llama Maestro Wang, sino «Rey de la Espada Mágica».
+Aunque «King of Magic Swords» se afeita la cabeza, tiene bastante talento. Le gusta mucho la música. Se le da bien tocar el guqin y el erhu, y también escribe canciones folclóricas él mismo, que es todo un artista de medio tiempo. Sin embargo, para ganarse la vida, su amor por la música es solo ocasional. Como su único hijo murió en el incidente de Lugouqiao, y desde que murió su antigua pareja, todos los días oscurecía, no hacía ningún trabajo, ni guqin ni erhu, y tocaba canciones con las que estaba familiarizado una y otra vez... ese sonido pausado de la música era como un llanto.
+Así de simple, afeita y masajea a la gente durante el día, y juega solo al Guqin y al erhu por la noche. Día tras día, han pasado varios años.
+Ese día, después de una ráfaga de disparos, un grupo de demonios japoneses irrumpió aturdidos en la ciudad de Tianzi. El demonio japonés asesinó a personas, prendió fuego y robó cosas, armó un gran alboroto y usó esto como fortaleza para establecerse. La ciudad de Tianzi, que originalmente era tranquila y armoniosa, de repente se convirtió en un infierno en la tierra.
+Como resultado, el negocio de las tiendas de afeitar «Magic Sword King» obviamente se ha enfriado mucho. Sin embargo, «Magic Sword King» abre la puerta todos los días como de costumbre, afeita y masajea cuidadosamente la cabeza de las personas y toca el guqin y el erhu como de costumbre desde el principio hasta la noche.
+Una mañana, «Magic Sword King» se quedó en la tienda. De repente, irrumpió en una chica, se arrodilló frente a él y le dijo: «¡Maestro! ¡Ayuda!» Viendo «El rey de la espada mágica», ¿no es esta la niña que canta en la calle todos los días con su padre ciego? Se acomodó y rápidamente la recogió y le preguntó: «¿Cómo estás? ¿Qué hay de tu padre?» La niña dijo: «Mi padre hizo que el diablo lo matara. Los demonios me persiguen. ¡Estás listo para irte, sálvame!» «El Rey de la Espada Mágica» se mordió los dientes y, sin decir una palabra, arrastró a la niña a la habitación de atrás y la escondió.
+«King Sword» se instaló en una buena chica. Tan pronto como salió de la habitación trasera, vio a un oficial militar japonés que llevaba un intérprete y a dos soldados que entraban corriendo a la tienda de afeitados de manera amenazadora. El oficial militar habló japonés durante un rato, pero no pudo entender la frase «El rey de la espada mágica», pero se quedó quieto.
+El intérprete le dijo a «King Sword»: «Este es el Capitán Yamamoto». Preguntó si viste a una chica atropellar».
+«Magic Sword King» sacudió la cabeza y dijo: «No, no he visto a una chica. Soy una tienda de afeitado de cabeza. Si el Ejército Imperial quiere afeitarse o recibir un masaje, puedo ayudar».
+El intérprete tenía prisa por traducir para Yamamoto. Tan pronto como Yamamoto escuchó que se estaba afeitando la cabeza, también se masajeó. Después de gritar «oh, hola», se sentó en la silla. Los dos guardias inmediatamente dieron un paso adelante y se pararon en la ladera de la propia montaña, uno a la izquierda y otro a la derecha.
+El intérprete le dio una palmada en el hombro a «El rey de la espada mágica» y dijo: «Viejo, Taijun solo quería afeitarse la cabeza. Por cierto, tienes que sopesar tu destreza. Si haces que Taijun se enoje, entonces...»
+«Magic Sword King» asintió y dijo: «No te preocupes por eso». A propósito de eso, le quité la gorra militar a Yamamoto, sacudí la tela blanca que rodeaba su pecho, cogí un cuchillo y lo pegué en un trozo de cuero varias veces, y luego lo mantuve en alto.
+El «Rey de las Espadas Mágicas» pensó: si esta espada cae, ¡el demonio del Día del Perro morirá por el resto de su vida! Esto también se considera una venganza por mi hijo, que murió de forma tan horrible... pero en vez de eso preguntó: «Taijun, ¿te gustaría escuchar música mientras te afeitas la cabeza?» El intérprete tradujo apresuradamente para Yamamoto.
+Yamamoto se rió un rato y el intérprete dijo: «Mientras suene bien, todo vale».
+«Eso está bien». Cuando «El rey de las espadas sagradas» terminó, cogió su navaja y solo escuchó un «clic». El cabello de Yamamoto flotaba hacia abajo e inmediatamente sonó un agradable sonido de música. Este sonido hizo que Yamamoto cerrara los ojos cómodamente...
+La brillante navaja flota rápidamente de un lado a otro alrededor de la cabeza de Yamamoto, y se voltea hacia arriba y hacia abajo rítmicamente mientras suena la navaja. Los dos soldados japoneses que estaban junto a la propia montaña parecían nerviosos y miraban fijamente la afilada navaja de afeitar con cuatro ojos.
+Poco después, la música se detuvo abruptamente y «Magic Sword King» dijo: «Está bien, he terminado de afeitarme la cabeza». A Yamamoto le gustó abrir los ojos y le pidió al intérprete que le preguntara qué canción era «King of the Sacred Sword». «El rey de la espada sagrada» se rió: «¿No eres Taigun? ¡Sé que esta es la famosa canción «Ambush on Ten Faces»!»
+El intérprete tradujo cuidadosamente las palabras «Rey de la Espada Sagrada» a Yamamoto. De repente, Yamamoto abrió mucho los ojos, saltó de su silla y gritó: «¡Ocho dientes rechinados!»
+Al escuchar solo un «rugido», Yamamoto sacó su sable, tomó su mano y se dejó caer, y la sangre roja salpicó la pared blanca como la nieve.
+«King Sword» cayó lentamente hacia atrás. Tenía los ojos redondos y miraba fijamente a Yamamoto, todavía sosteniendo la navaja con fuerza en su mano.
+Yamamoto levantó la espada y dijo «abre el camino», y luego se llevó al intérprete y a los soldados con él.
+Diez días después, la noticia se difundió repentinamente en la ciudad de Tianzi: el capitán Yamamoto, el jefe del soldado demonio en la fortaleza, murió repentina e inesperadamente. Los médicos no pudieron averiguar la causa de su muerte; solo encontraron diez manchas de sangre en la parte superior de la cabeza de Yamamoto desde adentro hacia afuera.   
+

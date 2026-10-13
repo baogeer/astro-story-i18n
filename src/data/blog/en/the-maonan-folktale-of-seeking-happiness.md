@@ -1,0 +1,39 @@
+---
+pubDatetime: 2026-11-02 09:49:47
+title: "The Maonan Folktale of Seeking Happiness"
+featured: false
+draft: false
+description: "In search of happiness, the young man Lemmy traveled thousands of miles to find the Antarctic fairy. On the way, he asked questions for the dumb girl, the old man, and the carp. Xian Weng only answered three questions. He asked all the others and forgot about himself. On the way back, I relayed the answers one by one. After helping people solve their problems, the dumb woman spoke up. Peach Grove ended up, and the carp jumped over the dragon gate. In the end, he won love and happiness by helping others. The story says: If you seek happiness for others, you will also reap happiness yourself."
+---
+
+
+
+
+ At the foot of Baying Mountain, next to Liu Shui Creek, there is a small, dilapidated hut where a lonely little Lemmy lives. Lemmy grew up slowly, but despite his hard work, he still couldn't eat enough or keep his body warm. He asked how many elderly people can they find happiness in the world? The old man said, “You can find it.” He also asked, “Where can I find it?” The old man told him to walk south and walk to Nantianmen. The Antarctic fairy will complain about how he can find happiness. But the old man didn't know how long it would take to get to Nantianmen. Because he wanted to find happiness, no matter how far the road was, Lemmy followed the direction the old man said and carried his baggage and walked south.
+Lemmy walked for several days and was so thirsty that he couldn't find any water. He had no choice but to keep up his thirst and move on. At noon one day, Lemmy walked to Baicao Cave and found a family home on the side of the road, so he went to ask for water to drink. The owner brought him a bowl of tea. After he finished his tea, the owner's dad asked, “Ah, where are you going?” Lemmy said he wanted to go to the South Tianmen Gate to find the Antarctic fairy, to find happiness. Grandpa said, “That's great. Please feel free to ask me a question. I have an only daughter who is 18 years old, why is she still dumb?” Lemmy agreed, said goodbye to Grandpa, and continued on his way.
+Having crossed many ridges and many rivers, Lemmy stayed at Taohuazhai this day.
+That night, the owner of the village, Arb, knew he was going to visit the Antarctic Fairy Weng in Nantianmen. He said, “A peach tree in the back garden of my house blooms every year and never bears fruit. I don't know why? Please help me, OK?” Lemmy nodded in agreement.
+Walking back and forth, climbing mountain after mountain, Lemmy walked to the edge of Donglong River. As soon as he saw, the surface of the river was wide and the river was bursting with water. There were no bridges or ferries. He was in a hurry, figuring out how he could cross the river. At this point, I saw Jiang Xin leap out a big carp, swayed his head and tail swam to the shore, and asked him with a smile, “Where are you going?” Lemmy said, “Brother Carp, I want to go to the South Tianmen Gate to find the Antarctic fairy and ask about happiness on earth. Please help me cross the river!” The carp nodded, “OK, OK, I'll carry you across the river!” As a result, Lemmy sat on the back of the carp and crossed the opposite bank safely and steadily. When ashore, the carp said, “Please help me ask the Antarctic Fairy. I've been practicing here for over 800 years. Why can't I skip Dragon Gate?” Lemmy even nodded: “OK, OK, I'll definitely help you ask questions.”
+After crossing the river, Lemmy climbed countless mountains. One mountain was taller than one mountain, and finally arrived at Nantianmen. When I met the Antarctic Fairy Weng, Lemmy first asked the three questions, and Xian Weng all answered them one by one. After a short pause, Lemmy asked about his happiness again, but Xian Weng said, “I can only answer three things. These are the rules set by heaven.” When I finished speaking, I disappeared. Lemmy regrets not asking about himself first, but he changed his mind. Alright, Xian Weng can only answer three questions at a time. If you ask about yourself first, you won't be able to ask one less question about others. Now that Xian Weng has answered three of the four things, it was not in vain to take this trip. Thinking about this, he happily hummed “Luo Hi Ge >” and went back home.
+Back at the riverside, the carp was already waiting there. As soon as Lemmy saw the carp, he smiled and said, “Brother Carp, Xianweng said, you only need to pull out two of the 12 long whiskers around your mouth. Keep it steady and you can skip the dragon gate.” The carp was very grateful. After crossing the river, it spit out a Pearl of the Night from its mouth and gave it to Lemmy: “You have worked so hard to help me find happiness, and you will definitely enjoy human happiness in the future. Bye!”
+Lemmy went back to Taohuazhai. He said to Arbor, “There is something buried under your big peach tree. Just dig it down three feet three inches deep and remove it, and the peach grove will come to fruition.” Arbor spent the night carrying a hoe to dig. Dig and dig. When he dug to a depth of three feet and three inches, the golden light suddenly sparkled and was very dazzling. If you take a close look, it was actually a big pot full of gold! He hurriedly brought a basket from home, which was full of two burdens. Suddenly, the garden was full of peach trees, and bright red peaches were hanging all over the branches. Old Arb smiled and patted Lemmy's broad shoulder and said, “Ah Ya, you're a really nice person. I have a garden full of peaches. It's all thanks to you. You should enjoy human happiness. I'll give you these two bags of gold!” Lemmy thanked him a thousand times and didn't pay any money. He stayed overnight and hurriedly hit the road early the next morning.
+After walking for many more days, I went back to Mogusato. When Lemmy first stepped into Grandpa's courtyard, the dumb girl drying her clothes in the courtyard smiled with emotion as soon as she saw Lemmy. She turned her head and shouted at the hall: “Dad, dad, come out soon! Your son-in-law is back.” Dad heard the sound and rushed to the courtyard to take a look. Great! Looking for happiness, Lemmy came back and invited Lemmy into the hall. At this point, the girl was busy praising tea and smoking while talking nonstop in her mouth, as if to make up for what she hadn't said in 18 years. Grandpa saw his daughter talking today. He was so well-behaved and smart that he couldn't get along with his mouth.
+Killing chicken and sieving wine for Lemmy that night said, “You are a great benefactor to my family, and you should enjoy happiness with us. The little girl already called you my son-in-law, so just be my son-in-law! Be sure, don't speculate.” Remy was surprised and delighted, and even nodded in thanks.
+After the news spread, close relatives and neighbors all came to celebrate the occasion. Abe from Taohuazhai also arrived after hearing the news, and invited someone to pick those two loads of gold to congratulate Lemmy. On the night of the chapel, Lemmy also took out the Pearl of the Night that the carp had given him and hung it high in the middle hall. The lights flashed brightly, illuminating all the guests. The male and female singers then sang “Luo Yu Song” to congratulate Lemmy on finding happiness for others and finding happiness for themselves:
+Sing a happy song to the owner,
+Good trees bear sweet fruits,
+Marriage of a good person,
+Family and friends came one after another,
+Happy song to the owner, Hello Luo!
+Peach and Li laughed hehehe,
+Helping others to enjoy themselves,
+Everyone rejoiced,
+From tomorrow spring to today,
+Tao Li laughed hehe, hello Luo!
+Collection location: Xianan Township Zhongnan Dongxintun
+Collection time: 1962
+Oral description: Tan Tongchun (Maonan)
+Record: Luo Xianchu (Zhuang people)
+Date of compilation: 1980
+Editor: Yuan Fengchen (Maonan)   
+
