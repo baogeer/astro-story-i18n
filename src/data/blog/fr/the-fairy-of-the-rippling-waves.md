@@ -1,0 +1,21 @@
+---
+pubDatetime: 2026-11-28 05:00:09
+title: "La fée des vagues ondulantes"
+featured: false
+draft: false
+description: "Pendant les années Jingtai de la dynastie Ming, Zhang Guanghui a quitté son travail et est retourné dans sa ville natale. Après avoir traversé le lac Dongting, il a vu une étrange fleur flotter dans l'eau et n'a pas pu l'attraper. Il s'est réveillé pour ne pas blasphémer et a brûlé de l'encens pour exprimer son respect. Puis la fleur est retournée vers le sud le long du bateau, a pris racine à Biwazaka à Zhangzhou et est devenue une jonquille. L'histoire suggère que les choses nobles doivent être traitées avec courtoisie et que ce n'est qu'avec sincérité qu'elles peuvent être obtenues."
+---
+
+
+
+
+ Sur les rives de la rivière Jiulong, au sud-ouest de la ville de Zhangzhou, une montagne ronde se dresse au-dessus du sol. Maruyama compte douze faces vues de face et de dos, et le paysage n'est pas le même. Comme le dit le proverbe, «xa0Maruyama a douze visages, et chaque visage possède un trésorxa0». En parlant des contreforts nord-est de Maruyama, il y a une pente bordée de bois luxuriants entourée en forme de biwa. L'endroit s'appelle Biwazaka. Un jet d'eau de source claire jaillit de Sakagami, nourrissant la campagne de Yamashita. C'est une zone de production réputée pour les jonquilles d'âge moyen. Mais connaissez-vous l'origine des jonquillesxa0? C'est assez incroyable à dire.
+La légende raconte que pendant les années Jing Tai de la dynastie Ming, il y avait un homme du nom de Zhang Guanghui. Il était une personne intègre et a travaillé comme fonctionnaire mineur dans le comté de Ji, dans la province du Henan. Au cours de sa carrière en tant que Shi Huan, il a surmonté l'obscurité et la corruption du gouvernement. Il a donc quitté son travail et est retourné dans sa ville natale. Sa ville natale est Yuanshan Biwazakashita, dans le canton de Funan, à Zhangzhou. Ce jour-là, il a dépassé en bateau le vaste lac Dongting.
+Je m'appuyais tranquillement sur le côté du bateau, admirant les couleurs du lac et des montagnes, regardant le ciel bleu clair, le lac vert et les montagnes verdoyantes. Je n'ai pas pu m'empêcher de me sentir rafraîchie. J'ai oublié tous les soins et je me suis plongée involontairement dans un rêve tranquille. Maintenant, en transe, il a vu une belle fée, vêtue d'un manteau de plumes dorées, d'une robe en jade blanc et de chaussettes, debout sur un nœud en ivoire avec une voile de soie verte derrière lui et volant à travers les vagues. Il s'est levé de surprise, s'est frotté les yeux et a regardé attentivement le spectacle. En un instant, la fée et le bateau féerique ont disparu. J'ai vu une fleur flotter dans le lac argenté étincelant. Une tige de flèche, une inflorescence blanche en forme de parapluie et une douzaine de boutons floraux n'étaient toujours pas épanouis. Seule une petite fleur blanche, blanche comme neige et pétales de cristal, a formé une plaque de jade à six faces. Le cœur fleuri soulevait un verre à vin doré. C'était très mignon.
+Zhang Guanghui aimait tellement cette fleur inconnue qu'elle a tendu la main et a voulu la ramasser dans l'eau. Qui aurait cru que cette fleur féerique se comportait très bien. Elle a quitté tranquillement le bord du bateau et a flotté au centre du lac au loin. Zhang Guanghui était très triste et regardait le lac avec consternation. À ce stade, cette fleur féerique espiègle s'est approchée tranquillement du côté du bateau, mais elle a toujours gardé une distance ni loin ni près, et a même nagé avec le bateau. Zhang Guanghui a voulu venir la chercher à quelques reprises, mais elle n'arrivait toujours pas à mettre la main sur elle. Elle était très inquiète, mais elle ne pouvait rien y faire. Lentement, son humeur s'est calmée et il s'est reproché de penserxa0: tout a ses propres objectifs. Comme c'est une fée dans l'eau, vous ne pouvez pas la traiter avec une attitude indécente, 1
+Il faut les accueillir poliment, heinxa0! En conséquence, il a secoué son arme avec admiration, a placé respectueusement trois bâtonnets d'encens et a prié silencieusement la fée de l'eauxa0:
+Le parfum coloré de Limbo Fairy Country,
+Où souhaitez-vous vous rendre sur le lacxa0?
+N'aimerais-tu pas retourner dans le sud avec moi,
+Biwa Sakashita est Senkyoxa0!   
+

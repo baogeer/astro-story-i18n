@@ -1,0 +1,16 @@
+---
+pubDatetime: 2026-09-27 15:16:48
+title: "La leyenda del rey Miao"
+featured: false
+draft: false
+description: "Ade, un antepasado de la tribu Miao, fue adoptado por una anciana de una vasija de cobre en el río. Cuando llegó a la edad adulta, las inundaciones comenzaron a hacer estragos y el Pájaro del Sol lo llevó a trasladarse al sur, a las montañas. Estableció los Tres Mandamientos del Clan Guangda, la prohibición de descender a la ladera y los trajes difíciles. Tras su muerte, fue venerado como el rey Miao. Las generaciones posteriores tocaron tambores, cantaron y bailaron en conmemoración, explicando el origen del pueblo miao, que vivía en las montañas y vestía trajes miao."
+---
+
+
+
+
+ Cuenta la leyenda que hay una anciana sin hijos que vive en un lugar llamado «Gu Hong Gu Liu» en el norte. Un día, el anciano lavó ropa en la orilla del río, frente a su casa, y vio un pájaro colorido que la cubría con dos alas. Cuando el viejo la rescató, resultó ser solo una vasija de cobre. Había un niño acostado en la olla con cejas gruesas y ojos grandes, nariz grande y labios cuadrados, lo cual es muy lindo. El anciano lo llevó a su casa, lo crió y llamó al niño «Ade». «Alemania», la palabra miao significa dragón. El niño lo rescató del río. El pájaro colorido también siguió al anciano hasta su casa e hizo un nido en un árbol grande al lado de la casa. Todos los días que sale el sol, llora. Todos dicen que el sol cambia y lo llaman «pájaro del sol». Día a día, Ade se ha convertido en un joven fuerte y fuerte. Trabaja en el terreno con el viejo durante el día. Tan pronto como tiene tiempo libre, golpea la olla de cobre que está en el suelo. Cuando oye el sonido de la vasija de cobre, el pájaro del árbol cae volando y salta al suelo, atrayendo a un grupo de hombres y mujeres jóvenes a reunirse en el primer piso. La puerta de la niña imita a un pájaro del sol para lanzarse y saltar.
+Un día del año, de repente, el cielo se cubrió de nubes oscuras, cayeron fuertes lluvias y las inundaciones se dispararon. Los pájaros del sol vuelan sobre las ramas, picotean las hojas caídas, se convierten en nubes blancas y flotan en el aire. Las nubes blancas llevaron a la gente hacia el noroeste. El noroeste estaba lleno de hielo y nieve, y Ade tuvo que volar hacia el sureste con los pájaros del sol. ¡Vuela! ¡Vuela! Cuando volé hacia el sur, vi una gran montaña que mostraba la superficie del agua. Pronto se produjeron inundaciones y aparecieron bosques, montañas y valles. Comenzaron a establecerse, a talar casas en los árboles y a cultivar montañas y campos. Tras la llegada de Adnan, 500 hombres y mujeres formaron pareja.
+Cuando Adnan llegó, estableció los Tres Mandamientos para enseñar a las generaciones futuras: primero, hacer prosperar al clan; segundo, no bajar nunca la ladera de la colina; y tres, usar ropa que no fuera fácil. Por eso, hoy en día, muchos miao viven en zonas montañosas. Les encanta la ropa miao, respetan a sus antepasados y aman a su clan.
+Tras la muerte de Ade, sus nietos lo llamaron «rey» y le construyeron un templo a los pies de «Ga Liang» Xishan. En el pasado, cada año miao y el 2 de febrero, la gente de Miao se reunía frente al templo Miao Wang para tocar tambores de bronce, tocar Lu Sheng, cantar y bailar para conmemorar al «rey Miao».   
+

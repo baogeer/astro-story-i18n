@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-09-26 17:28:22
+title: "The Legend of the Lotus Fairy Who Drew the Great Wall"
+featured: false
+draft: false
+description: "During the Apocalypse in the Ming Dynasty, Wang Bingzhen and Zhao Wenkui supervised the Great Wall. They were distressed by the difficult terrain and lost drawings, and often scolded migrant workers. The Lianhuashan Fairy turned into a village girl and disappeared after drawing a pattern of the Great Wall on paper with a pen. The two adults followed the picture to build this section of the finely crafted Great Wall and built a beacon to commemorate the fairies. Since then, they have treated the migrant workers kindly. The story praises kindness and wisdom to resolve difficult situations."
+---
+
+
+
+
+ Speaking of the story of the Lotus Woman painting the Great Wall on Lianhua Mountain, it happened during the Apocalypse years.
+According to stone monument records, the section of the Great Wall from Dongliangtou to Erdaoguan in Yangshugou was supervised by two adults, Wang Bingzhen and Zhao Wenkui. At the time, they received the Holy Promise. When they visited the construction site, they couldn't help but wrinkle their eyebrows. On the third day, the sun blew oil on the bark, and firewood smoke. The villagers are all yellow and thin, with large thick cloth pants and patches piled up with patches.
+The terrain in this area is high, the cliffs are steep, and construction drawings were accidentally lost. According to the above requirements, preparations must be made at the beginning of the month, and construction must commence on schedule by the end of the month. This saddens the two adults. They drank alcohol every day, and after a few days of hard work, they were sad, but they still had no clue. The two adults will only take offense at the migrant workers. They will fight this today and that tomorrow. If this continues, they will have to kill all the migrant workers. Not far from Liangtou in the east of Yangshugou, there is a Lotus Mountain. The lotus fairy lives in the patio at the top of the mountain. Every night, the patio shines golden, illuminating nearby villages. This fairy woman is gentle and kind-hearted. She often becomes a village lady to save people from disasters. There is no rain, and ordinary people burn incense to supply and demand her; any woman who doesn't have children is looking for her; if she moves to get married, she has to go to Lianhua Mountain to ask for her blessings.
+One day, two adults, Wang and Zhao, were worried about how to build the city wall again. Suddenly, the scent blew in for a while. The two adults were stunned. When they looked up, a girl in a pink dress stood in front of them: “Let the two adults rest their anger. I am from Lianhuashan. As long as adults stop working as migrant workers, I have an idea, and I can't use it because I don't know.” The two adults were furious. No matter what mountain she was in, just grinning and about to go wild, the girl hurriedly knelt down: “Let the adults stop being angry...”
+“As long as you act on your ideas, we will never treat people badly. If there is malice, heaven and earth will not allow it.”
+After hearing this, the girl looked up and said softly and carefully, “Talk and count, write it down with a pen.”
+“Pen and ink are waiting for you!” Two adults ordered. The attendant brought pen, ink, and paper. The girl unwrapped the paper, opened the cartridge, dragged the lower end of her right jacket sleeve with her left hand, looked east, meditated for a while, and drew on the paper...
+The two adults opened their eyes and were about to take a closer look. They only saw a white fog in front of them, and they couldn't see anything. The two adults were puzzled; they only heard the girl say, “Thank you.” The white fog soon disappeared, and there were no people.
+The two adults looked down. It wasn't spectacular. Following the mountain, a ribbon winds from Yangshugou to the Erdaoguan Pass. There are also a few small squares on the ribbon. Looking at the picture, the two adults were amazed. After a while, they suddenly remembered that it must have been the Lotus Fairy who helped. The two adults immediately knelt down and prayed three prayers to Lianhua Mountain.
+The two adults are no longer worried; the migrant workers are no longer beaten and scolded. They repaired this section of the Great Wall after a few years of hard work, following the pattern of the Lotus Girl painting. Moreover, the workmanship is more detailed than the other sections, which is very unique.
+To commemorate the immortal exploits of the Lotus Lady, Wang and Zhao, also specially built a beacon on the Dongliang of Yangshugou, opposite Haruharu Lianhua Yamaguchi to show their nostalgia.   
+
