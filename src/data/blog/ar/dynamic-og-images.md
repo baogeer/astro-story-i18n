@@ -7,6 +7,8 @@ description: How you can enable/disable light & dark mode; and customize color s
 ---
 
 
+
+
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
 
 ## Table of contents
