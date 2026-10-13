@@ -21,14 +21,14 @@ export const localeToProfile = {
     ar: {
         name: "العربية", // Name presented in language picker
         messages: ARLocale, // Locale translations
-        langTag: "ar-EG", // Extremly important used in localizing dates, numbers and sitemap,  only English alphabet and hyphen allowed
+        langTag: "ar", // Extremly important used in localizing dates, numbers and sitemap,  only English alphabet and hyphen allowed
         direction: "rtl", // UI layout direction
         googleFontName: "Cairo", // For OG image generation, font must support 400 and 700 weights, write name as it should goes in a URL, words separated with '+' instead of spaces
     },
     en: {
         name: "English",
         messages: ENLocale,
-        langTag: "en-US",
+        langTag: "en",
         direction: "ltr",
         googleFontName: "IBM+Plex+Mono",
         default: true,
@@ -36,21 +36,21 @@ export const localeToProfile = {
     fr: {
         name: "Français", // Name presented in language picker
         messages: FRLocale, // Locale translations
-        langTag: "fr-FR", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
+        langTag: "fr", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
         direction: "ltr", // UI layout direction
         googleFontName: "Noto+Sans", // For OG image generation, font must support 400 and 700 weights, write name as it should goes in a URL, words separated with '+' instead of spaces
     },
     es: {
         name: "Español", // Name presented in language picker
         messages: ESLocale, // Locale translations
-        langTag: "es-ES", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
+        langTag: "es", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
         direction: "ltr", // UI layout direction
         googleFontName: "Noto+Sans", // For OG image generation, font must support 400 and 700 weights, write name as it should goes in a URL, words separated with '+' instead of spaces
     },
     ru: {
         name: "Русский", // Name presented in language picker
         messages: RULocale, // Locale translations
-        langTag: "ru-RU", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
+        langTag: "ru", // Extremly important used in localizing dates, numbers and sitemap, only English alphabet and hyphen allowed
         direction: "ltr", // UI layout direction
         googleFontName: "Noto+Sans", // For OG image generation, font must support 400 and 700 weights, write name as it should goes in a URL, words separated with '+' instead of spaces
     },
