@@ -1,7 +1,7 @@
 import type { I18nStrings } from "@/i18n/types";
 
 const baseStrings = {
-  "site.title": "Folk Tales",
+  "site.title": "China Folk Tales",
   "site.desc": "A multilingual digital collection of Chinese folk tales, legendary stories and stories of notable figures.",
 };
 
@@ -9,7 +9,7 @@ const ENLocale: I18nStrings = {
   ...baseStrings,
 
   // Hero
-  "hero.title": "Folk Tales",
+  "hero.title": "China Folk Tales",
   "hero.body": `
         Folk Tales is a multilingual digital collection of Chinese folk tales,
         legendary stories and stories of notable figures.

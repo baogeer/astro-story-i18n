@@ -26,6 +26,7 @@ export const getStaticPaths = (async ({ paginate }) => {
       pageSize: SITE.postPerPage,
     });
   });
+  console.log(paths[0].props);
 
   return paths;
 }) satisfies GetStaticPaths;

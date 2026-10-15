@@ -1,7 +1,7 @@
 import type { I18nStrings } from "@/i18n/types";
 
 const baseStrings = {
-  "site.title": "Contes Populaires",
+  "site.title": "Contes Populaires Chinois",
   "site.desc": "Une bibliothèque numérique multilingue de contes populaires chinois, de légendes et d'histoires de personnages célèbres.",
 };
 
@@ -9,9 +9,9 @@ const FRLocale: I18nStrings = {
   ...baseStrings,
 
   // Hero
-  "hero.title": "Contes Populaires",
+  "hero.title": "Contes Populaires Chinois",
   "hero.body": `
-        Contes Populaires est une bibliothèque numérique multilingue qui rassemble
+        Contes Populaires Chinois est une bibliothèque numérique multilingue qui rassemble
         des contes populaires chinois, des légendes et des histoires de personnages célèbres.
         Nous sélectionnons avec soin les contes populaires chinois et les présentons
         en anglais, espagnol, français, arabe et russe,
@@ -30,13 +30,13 @@ const FRLocale: I18nStrings = {
   socialLinks: "Liens sociaux",
   home: "Accueil",
   posts: "Contes",
-  "posts.desc": "Tous les contes recueillis dans Contes Populaires.",
+  "posts.desc": "Tous les contes recueillis dans Contes Populaires Chinois.",
   tag: "Étiquette",
   "tag.desc": 'Tous les contes avec l\'étiquette "{name}".',
   tags: "Étiquettes",
   "tags.desc": "Toutes les étiquettes utilisées dans les contes",
   archives: "Archives",
-  "archives.desc": "Tous les contes archivés dans Contes Populaires.",
+  "archives.desc": "Tous les contes archivés dans Contes Populaires Chinois.",
   featured: "À la une",
   recentPosts: "Contes récents",
   tableOfContents: "Table des matières",
@@ -64,7 +64,7 @@ const FRLocale: I18nStrings = {
   "pagination.next": "Suivant",
 
   // Footer
-  "footer.text": "Copyright © {year} Contes Populaires | Tous droits réservés",
+  "footer.text": "Copyright © {year} Contes Populaires Chinois | Tous droits réservés",
 
   // Date
   "date.published": "Publié",
