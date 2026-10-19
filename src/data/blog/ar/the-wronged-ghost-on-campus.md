@@ -8,7 +8,7 @@ description: "في المساء، أخذت قيلولة أثناء الاستم�
 
 
 
-![AstroPaper I18n](/public/the-wronged-ghost-on-campus.png)
+![AstroPaper I18n](/the-wronged-ghost-on-campus.png)
 
 
 

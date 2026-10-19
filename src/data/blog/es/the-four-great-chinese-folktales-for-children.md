@@ -8,7 +8,7 @@ description: "Los cuatro principales cuentos populares chinos incluyen El vaquer
 
 
 
-![AstroPaper I18n](/public/the-four-great-chinese-folktales-for-children.png)
+![AstroPaper I18n](/the-four-great-chinese-folktales-for-children.png)
 
 
 

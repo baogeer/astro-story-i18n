@@ -8,7 +8,7 @@ description: "The author takes stock of ten famous ministers from Western Zhou t
 
 
 
-![AstroPaper I18n](/public/ten-great-chancellors-of-ancient-china.png)
+![AstroPaper I18n](/ten-great-chancellors-of-ancient-china.png)
 
 
 

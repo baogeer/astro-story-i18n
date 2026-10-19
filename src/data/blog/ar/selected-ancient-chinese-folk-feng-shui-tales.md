@@ -8,7 +8,7 @@ description: "هناك العديد من عجائب فنغ شوي المتوار
 
 
 
-![AstroPaper I18n](/public/selected-ancient-chinese-folk-feng-shui-tales.png)
+![AstroPaper I18n](/selected-ancient-chinese-folk-feng-shui-tales.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد الموت العنيف لشخص يدعى تشانغ، أم
 
 
 
-![AstroPaper I18n](/public/the-monk-s-sin.png)
+![AstroPaper I18n](/the-monk-s-sin.png)
 
 
 

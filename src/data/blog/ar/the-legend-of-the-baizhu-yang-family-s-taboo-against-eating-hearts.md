@@ -8,7 +8,7 @@ description: "ألقى الإخوة الثلاثة باي تشو يانغ بال
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
+![AstroPaper I18n](/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
 
 
 

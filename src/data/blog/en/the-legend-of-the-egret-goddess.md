@@ -8,7 +8,7 @@ description: "The goddess Shirasagi was attracted to the sound of Prince Manshi'
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-egret-goddess.png)
 
 
 

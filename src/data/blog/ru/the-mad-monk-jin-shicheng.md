@@ -8,7 +8,7 @@ description: "Ким Се Сен поступил безрассудно. Вый
 
 
 
-![AstroPaper I18n](/public/the-mad-monk-jin-shicheng.png)
+![AstroPaper I18n](/the-mad-monk-jin-shicheng.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Тэн Сяого был затоплен, а гигантский
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-state-of-teng.png)
+![AstroPaper I18n](/the-legend-of-the-little-state-of-teng.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La leyenda de los ladrillos de Dingcheng cuenta que cuando se repa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-city-guarding-brick.png)
+![AstroPaper I18n](/the-legend-of-the-city-guarding-brick.png)
 
 
 

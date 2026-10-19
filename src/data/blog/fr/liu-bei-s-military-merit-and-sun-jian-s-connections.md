@@ -8,7 +8,7 @@ description: "Liu Bei et Sun Jian ont assiégé les foulards jaunes à Wancheng 
 
 
 
-![AstroPaper I18n](/public/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
+![AstroPaper I18n](/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
 
 
 

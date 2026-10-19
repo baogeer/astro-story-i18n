@@ -8,7 +8,7 @@ description: "Les pivoines chinoises ont une longue histoire. Elles ont été in
 
 
 
-![AstroPaper I18n](/public/peony-culture.png)
+![AstroPaper I18n](/peony-culture.png)
 
 
 

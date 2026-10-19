@@ -8,7 +8,7 @@ description: "Зелин Нима поняла, что, несмотря на в
 
 
 
-![AstroPaper I18n](/public/zelin-nima-gunjue.png)
+![AstroPaper I18n](/zelin-nima-gunjue.png)
 
 
 

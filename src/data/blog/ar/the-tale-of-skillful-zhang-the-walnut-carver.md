@@ -8,7 +8,7 @@ description: "زانغ البارع هو سليل النحات النووي لـ
 
 
 
-![AstroPaper I18n](/public/the-tale-of-skillful-zhang-the-walnut-carver.png)
+![AstroPaper I18n](/the-tale-of-skillful-zhang-the-walnut-carver.png)
 
 
 

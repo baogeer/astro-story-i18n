@@ -8,7 +8,7 @@ description: "Después de que los cazadores de caballos ridiculizaran a Xi Ling,
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuando los antepasados del acuario se mudaron a las tres capitales
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
 
 
 

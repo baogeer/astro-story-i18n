@@ -8,7 +8,7 @@ description: "رأى ياو شيزهي، وهو مسؤول في أسرة تشي�
 
 
 
-![AstroPaper I18n](/public/magistrate-yao-puts-a-stone-on-trial.png)
+![AstroPaper I18n](/magistrate-yao-puts-a-stone-on-trial.png)
 
 
 

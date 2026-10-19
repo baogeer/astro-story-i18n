@@ -8,7 +8,7 @@ description: "من أجل تحديد الموسم الزراعي، صنع الش
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-spring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-spring-festival.png)
 
 
 

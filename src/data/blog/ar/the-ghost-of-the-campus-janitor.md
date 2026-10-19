@@ -8,7 +8,7 @@ description: "كان مبنى السكن القديم لكلية الطب في �
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-the-campus-janitor.png)
+![AstroPaper I18n](/the-ghost-of-the-campus-janitor.png)
 
 
 

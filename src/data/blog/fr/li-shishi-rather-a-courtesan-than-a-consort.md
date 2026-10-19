@@ -8,7 +8,7 @@ description: "Confrontée à l'opportunité d'entrer dans le palais et de deveni
 
 
 
-![AstroPaper I18n](/public/li-shishi-rather-a-courtesan-than-a-consort.png)
+![AstroPaper I18n](/li-shishi-rather-a-courtesan-than-a-consort.png)
 
 
 

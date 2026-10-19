@@ -8,7 +8,7 @@ description: "فقد الصياد ليوهي والده عندما كان صغي
 
 
 
-![AstroPaper I18n](/public/liuhe-fills-the-qiantang-river.png)
+![AstroPaper I18n](/liuhe-fills-the-qiantang-river.png)
 
 
 

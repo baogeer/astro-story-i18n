@@ -8,7 +8,7 @@ description: "Les chasseurs de Yi sont des parias. Ils sont naturellement aveugl
 
 
 
-![AstroPaper I18n](/public/the-legend-of-loubei-the-mountain-king.png)
+![AstroPaper I18n](/the-legend-of-loubei-the-mountain-king.png)
 
 
 

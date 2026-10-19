@@ -8,7 +8,7 @@ description: "Zhang Sheng recorrió la histórica isla en solitario en Dengzhou.
 
 
 
-![AstroPaper I18n](/public/the-sea-gentleman.png)
+![AstroPaper I18n](/the-sea-gentleman.png)
 
 
 

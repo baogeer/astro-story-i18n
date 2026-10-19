@@ -8,7 +8,7 @@ description: "Pendant la rébellion d'Anshi, Zhang Guan a dirigé plus de 1 000 
 
 
 
-![AstroPaper I18n](/public/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
+![AstroPaper I18n](/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
 
 
 

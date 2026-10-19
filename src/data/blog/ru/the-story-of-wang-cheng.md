@@ -8,7 +8,7 @@ description: "Ван Чэн — ребенок из старой семьи. О�
 
 
 
-![AstroPaper I18n](/public/the-story-of-wang-cheng.png)
+![AstroPaper I18n](/the-story-of-wang-cheng.png)
 
 
 

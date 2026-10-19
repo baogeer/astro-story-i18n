@@ -8,7 +8,7 @@ description: "Се Лянь признали виновной за ложное 
 
 
 
-![AstroPaper I18n](/public/the-zhangzhou-folktale-of-xie-nengshe-and-the-upright-divination-block.png)
+![AstroPaper I18n](/the-zhangzhou-folktale-of-xie-nengshe-and-the-upright-divination-block.png)
 
 
 

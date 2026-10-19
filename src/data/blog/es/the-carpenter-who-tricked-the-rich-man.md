@@ -8,7 +8,7 @@ description: "Carpenter Nima fue contratado para rehacerlo después de romper su
 
 
 
-![AstroPaper I18n](/public/the-carpenter-who-tricked-the-rich-man.png)
+![AstroPaper I18n](/the-carpenter-who-tricked-the-rich-man.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Emperor Sui was in critical condition. Prince Yang Guang molested 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lady-xuanhua-who-served-both-father-and-son-emperors.png)
+![AstroPaper I18n](/the-tale-of-lady-xuanhua-who-served-both-father-and-son-emperors.png)
 
 
 

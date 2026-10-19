@@ -8,7 +8,7 @@ description: "في عهد أسرة مينغ، زار تشو يوان تشانغ 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wei-purple-peony.png)
+![AstroPaper I18n](/the-legend-of-the-wei-purple-peony.png)
 
 
 

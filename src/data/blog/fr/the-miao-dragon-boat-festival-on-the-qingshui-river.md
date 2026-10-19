@@ -8,7 +8,7 @@ description: "Les Miao de Qingshuijiang du Guizhou célèbrent le festival des b
 
 
 
-![AstroPaper I18n](/public/the-miao-dragon-boat-festival-on-the-qingshui-river.png)
+![AstroPaper I18n](/the-miao-dragon-boat-festival-on-the-qingshui-river.png)
 
 
 

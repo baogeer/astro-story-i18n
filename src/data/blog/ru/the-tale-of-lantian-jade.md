@@ -8,7 +8,7 @@ description: "Дождливой ночью Чун Бао укрылась от 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lantian-jade.png)
+![AstroPaper I18n](/the-tale-of-lantian-jade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تزوج زاو شوتون والأميرة لان وولونا و
 
 
 
-![AstroPaper I18n](/public/the-peacock-princess.png)
+![AstroPaper I18n](/the-peacock-princess.png)
 
 
 

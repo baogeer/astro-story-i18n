@@ -8,7 +8,7 @@ description: "Las Siete Hadas sospechaban que Dong Yong era pobre y lloraron y l
 
 
 
-![AstroPaper I18n](/public/the-seventh-fairy-s-divorce.png)
+![AstroPaper I18n](/the-seventh-fairy-s-divorce.png)
 
 
 

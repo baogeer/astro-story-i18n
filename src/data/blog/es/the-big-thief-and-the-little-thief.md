@@ -8,7 +8,7 @@ description: "Érase una vez, el anciano enseñó un oficio a sus cuatro hijos. 
 
 
 
-![AstroPaper I18n](/public/the-big-thief-and-the-little-thief.png)
+![AstroPaper I18n](/the-big-thief-and-the-little-thief.png)
 
 
 

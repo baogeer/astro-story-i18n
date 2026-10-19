@@ -8,7 +8,7 @@ description: "Zhang Fei sold meat and set up a “grab the stone for nothing” 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-peach-garden-oath.png)
+![AstroPaper I18n](/the-legend-of-the-peach-garden-oath.png)
 
 
 

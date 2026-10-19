@@ -8,7 +8,7 @@ description: "Dans la Chine ancienne, Fu Xi a vécu avec le frère et la sœur d
 
 
 
-![AstroPaper I18n](/public/fuxi-draws-the-eight-trigrams.png)
+![AstroPaper I18n](/fuxi-draws-the-eight-trigrams.png)
 
 
 

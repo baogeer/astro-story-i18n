@@ -8,7 +8,7 @@ description: "In order to save the doctor who died innocently because the king s
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-king-who-wanted-to-be-young-again.png)
+![AstroPaper I18n](/agudengba-and-the-king-who-wanted-to-be-young-again.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El héroe Yi, Zhige Aaron, derribó el sol y la luna adicionales, 
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-yi-people.png)
 
 
 

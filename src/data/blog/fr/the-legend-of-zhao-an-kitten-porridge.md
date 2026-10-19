@@ -8,7 +8,7 @@ description: "La nouvelle belle-fille de la famille de Zhaoan pendant la dynasti
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhao-an-kitten-porridge.png)
+![AstroPaper I18n](/the-legend-of-zhao-an-kitten-porridge.png)
 
 
 

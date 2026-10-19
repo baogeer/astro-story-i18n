@@ -8,7 +8,7 @@ description: "Lorsque Gong Gong était dans la province de Qizhou, il a sévère
 
 
 
-![AstroPaper I18n](/public/zeng-gong-in-qizhou.png)
+![AstroPaper I18n](/zeng-gong-in-qizhou.png)
 
 
 

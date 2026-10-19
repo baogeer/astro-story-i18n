@@ -8,7 +8,7 @@ description: "Les mentors et les apprentis de Confucius n'avaient plus de nourri
 
 
 
-![AstroPaper I18n](/public/yan-hui-borrows-grain.png)
+![AstroPaper I18n](/yan-hui-borrows-grain.png)
 
 
 

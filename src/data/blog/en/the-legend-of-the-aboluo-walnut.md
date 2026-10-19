@@ -8,7 +8,7 @@ description: "Ah Bao is suffering from a strange illness. According to her grand
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-aboluo-walnut.png)
+![AstroPaper I18n](/the-legend-of-the-aboluo-walnut.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Qing, le joueur de fléchettes Lu Lianju 
 
 
 
-![AstroPaper I18n](/public/the-heart-kick.png)
+![AstroPaper I18n](/the-heart-kick.png)
 
 
 

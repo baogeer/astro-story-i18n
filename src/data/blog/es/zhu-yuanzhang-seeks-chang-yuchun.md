@@ -8,7 +8,7 @@ description: "Al final de la dinastía Yuan, Zhu Yuanzhang y Liu Bowen y Hu Daha
 
 
 
-![AstroPaper I18n](/public/zhu-yuanzhang-seeks-chang-yuchun.png)
+![AstroPaper I18n](/zhu-yuanzhang-seeks-chang-yuchun.png)
 
 
 

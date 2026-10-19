@@ -8,7 +8,7 @@ description: "Белая змея Бай Сучжэнь посетила Зап�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-1685.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-1685.png)
 
 
 

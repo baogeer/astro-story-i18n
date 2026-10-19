@@ -8,7 +8,7 @@ description: "Ma Ji salió al mar y se dirigió al país de Raksha, donde la vie
 
 
 
-![AstroPaper I18n](/public/the-rakshasa-country-and-the-sea-market.png)
+![AstroPaper I18n](/the-rakshasa-country-and-the-sea-market.png)
 
 
 

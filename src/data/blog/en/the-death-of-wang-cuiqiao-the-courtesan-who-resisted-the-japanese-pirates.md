@@ -8,7 +8,7 @@ description: "During the Ming and Jiajing years, the famous prostitute Wang Cuiq
 
 
 
-![AstroPaper I18n](/public/the-death-of-wang-cuiqiao-the-courtesan-who-resisted-the-japanese-pirates.png)
+![AstroPaper I18n](/the-death-of-wang-cuiqiao-the-courtesan-who-resisted-the-japanese-pirates.png)
 
 
 

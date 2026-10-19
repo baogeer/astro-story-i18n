@@ -8,7 +8,7 @@ description: "Gu Yu, un joven de la dinastía Tang, rescató una planta de peon�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-guyu-and-the-peony.png)
+![AstroPaper I18n](/the-tale-of-guyu-and-the-peony.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La légende raconte que dans les temps anciens, il y avait un oise
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-yangtze-river.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-yangtze-river.png)
 
 
 

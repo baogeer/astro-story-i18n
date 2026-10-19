@@ -8,7 +8,7 @@ description: "La fête «xa0Miao Ainaxa0» du peuple Hani a lieu un jour de cong
 
 
 
-![AstroPaper I18n](/public/the-hani-festival-of-rest-for-the-plowing-oxen.png)
+![AstroPaper I18n](/the-hani-festival-of-rest-for-the-plowing-oxen.png)
 
 
 

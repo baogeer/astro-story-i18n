@@ -8,7 +8,7 @@ description: "В древние времена король-дракон Вос�
 
 
 
-![AstroPaper I18n](/public/the-water-of-the-heavenly-lake.png)
+![AstroPaper I18n](/the-water-of-the-heavenly-lake.png)
 
 
 

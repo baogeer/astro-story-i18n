@@ -8,7 +8,7 @@ description: "Zhang Gu was bullied after breaking up with his older brother Lei 
 
 
 
-![AstroPaper I18n](/public/zhang-gulao-battles-the-thunder-god.png)
+![AstroPaper I18n](/zhang-gulao-battles-the-thunder-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le texte principal de l'histoire est manquant et ne peut pas être
 
 
 
-![AstroPaper I18n](/public/the-song-of-the-red-fox.png)
+![AstroPaper I18n](/the-song-of-the-red-fox.png)
 
 
 

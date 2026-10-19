@@ -8,7 +8,7 @@ description: "ينتمي تشانغ يو إلى عائلة ثرية في سيت�
 
 
 
-![AstroPaper I18n](/public/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
+![AstroPaper I18n](/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
 
 
 

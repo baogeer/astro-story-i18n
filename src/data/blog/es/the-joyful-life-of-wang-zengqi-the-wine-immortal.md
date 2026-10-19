@@ -8,7 +8,7 @@ description: "Wang Zengqi fue adicto al alcohol toda su vida. Desde que la Asamb
 
 
 
-![AstroPaper I18n](/public/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
+![AstroPaper I18n](/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
 
 
 

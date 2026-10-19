@@ -8,7 +8,7 @@ description: "Les inondations ont fait rage et, comme elles n'ont pas réussi à
 
 
 
-![AstroPaper I18n](/public/the-story-of-yu-the-great-taming-the-flood.png)
+![AstroPaper I18n](/the-story-of-yu-the-great-taming-the-flood.png)
 
 
 

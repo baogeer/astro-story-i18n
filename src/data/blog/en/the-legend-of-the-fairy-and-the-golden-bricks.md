@@ -8,7 +8,7 @@ description: "A fairy promised marriage during the disaster year to induce corru
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fairy-and-the-golden-bricks.png)
+![AstroPaper I18n](/the-legend-of-the-fairy-and-the-golden-bricks.png)
 
 
 

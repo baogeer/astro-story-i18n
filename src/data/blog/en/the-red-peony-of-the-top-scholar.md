@@ -8,7 +8,7 @@ description: "Zhao Laoshang took Sister Hua, who had escaped hardship, as his da
 
 
 
-![AstroPaper I18n](/public/the-red-peony-of-the-top-scholar.png)
+![AstroPaper I18n](/the-red-peony-of-the-top-scholar.png)
 
 
 

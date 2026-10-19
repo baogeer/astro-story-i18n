@@ -8,7 +8,7 @@ description: "Une fée a donné des dés à un pauvre vieillard. En les lançant
 
 
 
-![AstroPaper I18n](/public/the-magic-dice.png)
+![AstroPaper I18n](/the-magic-dice.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La Gran Sequía en el río Yangtze reveló monumentos de piedra. T
 
 
 
-![AstroPaper I18n](/public/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
+![AstroPaper I18n](/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
 
 
 

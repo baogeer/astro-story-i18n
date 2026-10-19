@@ -8,7 +8,7 @@ description: "أحضر ياو جي 11 جنية إلى العرش لمساعدة 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-peak.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-peak.png)
 
 
 

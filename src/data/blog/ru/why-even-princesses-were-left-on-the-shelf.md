@@ -8,7 +8,7 @@ description: "Со времен династии Тан принцессы пр�
 
 
 
-![AstroPaper I18n](/public/why-even-princesses-were-left-on-the-shelf.png)
+![AstroPaper I18n](/why-even-princesses-were-left-on-the-shelf.png)
 
 
 

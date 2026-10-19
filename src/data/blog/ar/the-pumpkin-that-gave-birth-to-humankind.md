@@ -8,7 +8,7 @@ description: "في العصور القديمة، سقطت الآلهة من أس
 
 
 
-![AstroPaper I18n](/public/the-pumpkin-that-gave-birth-to-humankind.png)
+![AstroPaper I18n](/the-pumpkin-that-gave-birth-to-humankind.png)
 
 
 

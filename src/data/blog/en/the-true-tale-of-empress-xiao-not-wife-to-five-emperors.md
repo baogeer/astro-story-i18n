@@ -8,7 +8,7 @@ description: "Emperor Sui Yang was docile and talented after Xiao, and advised E
 
 
 
-![AstroPaper I18n](/public/the-true-tale-of-empress-xiao-not-wife-to-five-emperors.png)
+![AstroPaper I18n](/the-true-tale-of-empress-xiao-not-wife-to-five-emperors.png)
 
 
 

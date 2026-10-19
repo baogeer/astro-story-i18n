@@ -8,7 +8,7 @@ description: "بعد هزيمته، تم مطاردة لوه تشينجبينغ 
 
 
 
-![AstroPaper I18n](/public/the-tragic-death-of-luo-cheng-in-the-muddy-river.png)
+![AstroPaper I18n](/the-tragic-death-of-luo-cheng-in-the-muddy-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Baizhu Mountain is named after the three silver white bamboo shoot
 
 
 
-![AstroPaper I18n](/public/how-white-bamboo-mountain-got-its-name.png)
+![AstroPaper I18n](/how-white-bamboo-mountain-got-its-name.png)
 
 
 

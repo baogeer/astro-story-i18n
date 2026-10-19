@@ -8,7 +8,7 @@ description: "قام تشين شي هوانغ بتعطيل البحر بتعوي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
 
 
 

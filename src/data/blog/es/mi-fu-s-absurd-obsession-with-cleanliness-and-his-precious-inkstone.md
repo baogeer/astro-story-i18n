@@ -8,7 +8,7 @@ description: "Mi Yu tiene la seria costumbre de mantenerse limpia y ha sido degr
 
 
 
-![AstroPaper I18n](/public/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
+![AstroPaper I18n](/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
 
 
 

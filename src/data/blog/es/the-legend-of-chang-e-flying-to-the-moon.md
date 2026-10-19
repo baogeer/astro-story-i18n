@@ -8,7 +8,7 @@ description: "Hou Yi le entregó la medicina de la inmortalidad a su esposa Chan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-legend-of-chang-e-flying-to-the-moon.png)
 
 
 

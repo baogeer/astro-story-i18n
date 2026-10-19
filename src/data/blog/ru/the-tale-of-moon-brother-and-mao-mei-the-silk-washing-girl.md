@@ -8,7 +8,7 @@ description: "Брат Мун и Мао Мэй оказались в трудн�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
+![AstroPaper I18n](/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
 
 
 

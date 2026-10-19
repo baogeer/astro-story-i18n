@@ -8,7 +8,7 @@ description: "Après avoir réussi à récupérer Taïwan, Zheng n'avait que 38 
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
+![AstroPaper I18n](/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
 
 
 

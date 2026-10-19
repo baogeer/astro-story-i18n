@@ -8,7 +8,7 @@ description: "Сказочная скала Цзинмэйшань в Тайбэ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-footprints.png)
+![AstroPaper I18n](/the-legend-of-the-footprints.png)
 
 
 

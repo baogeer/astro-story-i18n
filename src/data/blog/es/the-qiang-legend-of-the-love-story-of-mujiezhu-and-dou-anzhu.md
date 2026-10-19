@@ -8,7 +8,7 @@ description: "Mu Jie-zhu es hija de Dios. Todos los que estaban en apuros fueron
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
 
 
 

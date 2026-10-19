@@ -8,7 +8,7 @@ description: "وفقًا لأساطير ماونان، يصعد الأطفال �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-monkey-drum-dance.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
 
 
 

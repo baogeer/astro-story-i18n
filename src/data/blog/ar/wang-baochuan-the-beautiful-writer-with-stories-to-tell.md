@@ -8,7 +8,7 @@ description: "قامت وانغ باوشوان برمي زهور الكوبية 
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
+![AstroPaper I18n](/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
 
 
 

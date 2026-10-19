@@ -8,7 +8,7 @@ description: "Durante los años Jingtai de la dinastía Ming, Zhang Guanghui dej
 
 
 
-![AstroPaper I18n](/public/the-fairy-of-the-rippling-waves.png)
+![AstroPaper I18n](/the-fairy-of-the-rippling-waves.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Среди этих ублюдков Чэнь Цзыкуня на�
 
 
 
-![AstroPaper I18n](/public/the-quack-doctor-s-cure.png)
+![AstroPaper I18n](/the-quack-doctor-s-cure.png)
 
 
 

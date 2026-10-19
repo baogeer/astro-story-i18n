@@ -8,7 +8,7 @@ description: "عثر فونغ بينغ أون على سلحفاة عملاقة،
 
 
 
-![AstroPaper I18n](/public/the-softshell-turtle-treasure.png)
+![AstroPaper I18n](/the-softshell-turtle-treasure.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يركب طواقي النهر الأصفر طوافات من جل
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-boatmen-s-song.png)
+![AstroPaper I18n](/the-yellow-river-boatmen-s-song.png)
 
 
 

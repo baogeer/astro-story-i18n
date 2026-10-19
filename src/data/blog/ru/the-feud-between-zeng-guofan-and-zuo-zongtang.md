@@ -8,7 +8,7 @@ description: "Цанг Квок-фан и Тонг Цо изначально д�
 
 
 
-![AstroPaper I18n](/public/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
+![AstroPaper I18n](/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
 
 
 

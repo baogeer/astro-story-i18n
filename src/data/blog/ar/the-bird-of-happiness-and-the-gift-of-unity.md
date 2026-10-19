@@ -8,7 +8,7 @@ description: "ذات مرة، كان على Happy Bird ترك عائلة ثري�
 
 
 
-![AstroPaper I18n](/public/the-bird-of-happiness-and-the-gift-of-unity.png)
+![AstroPaper I18n](/the-bird-of-happiness-and-the-gift-of-unity.png)
 
 
 

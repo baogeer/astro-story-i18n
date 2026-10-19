@@ -8,7 +8,7 @@ description: "Лян Шаньбо и Чжу Интай изначально ро
 
 
 
-![AstroPaper I18n](/public/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
+![AstroPaper I18n](/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
 
 
 

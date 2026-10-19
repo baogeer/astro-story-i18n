@@ -8,7 +8,7 @@ description: "يو جي هي آي جي لشيانغ يو. سحبت سيفها ل
 
 
 
-![AstroPaper I18n](/public/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
+![AstroPaper I18n](/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
 
 
 

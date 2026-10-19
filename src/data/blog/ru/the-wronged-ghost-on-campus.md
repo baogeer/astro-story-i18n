@@ -8,7 +8,7 @@ description: "Вечером я вздремнул, слушая рассказ 
 
 
 
-![AstroPaper I18n](/public/the-wronged-ghost-on-campus.png)
+![AstroPaper I18n](/the-wronged-ghost-on-campus.png)
 
 
 

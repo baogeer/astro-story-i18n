@@ -8,7 +8,7 @@ description: "Мистер Ху хотел запутать преступный
 
 
 
-![AstroPaper I18n](/public/the-way-of-the-human-world.png)
+![AstroPaper I18n](/the-way-of-the-human-world.png)
 
 
 

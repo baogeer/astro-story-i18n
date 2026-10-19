@@ -8,7 +8,7 @@ description: "استخدمت الإمبراطورة الأرملة تشين شو
 
 
 
-![AstroPaper I18n](/public/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
+![AstroPaper I18n](/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
 
 
 

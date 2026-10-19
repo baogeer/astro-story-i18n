@@ -8,7 +8,7 @@ description: "La leyenda de la tribu Shes es que el antepasado era el dios perro
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-descent-from-panhu.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-descent-from-panhu.png)
 
 
 

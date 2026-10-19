@@ -8,7 +8,7 @@ description: "Вдоль реки Янъи подросток из Йи во в�
 
 
 
-![AstroPaper I18n](/public/the-beach-where-a-mother-waits-for-her-dragon-son.png)
+![AstroPaper I18n](/the-beach-where-a-mother-waits-for-her-dragon-son.png)
 
 
 

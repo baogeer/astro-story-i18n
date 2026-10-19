@@ -8,7 +8,7 @@ description: "Ученый узнал, что по дороге на экзам�
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
+![AstroPaper I18n](/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
 
 
 

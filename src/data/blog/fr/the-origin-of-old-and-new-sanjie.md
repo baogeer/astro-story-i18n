@@ -8,7 +8,7 @@ description: "Le chemin de fer de Jinpu devait initialement traverser la tombe a
 
 
 
-![AstroPaper I18n](/public/the-origin-of-old-and-new-sanjie.png)
+![AstroPaper I18n](/the-origin-of-old-and-new-sanjie.png)
 
 
 

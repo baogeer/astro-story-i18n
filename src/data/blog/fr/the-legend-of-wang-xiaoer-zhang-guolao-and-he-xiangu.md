@@ -8,7 +8,7 @@ description: "Wang Xiaoer est loyal et gentil. Il s'allonge sur la glace pour sa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
+![AstroPaper I18n](/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
 
 
 

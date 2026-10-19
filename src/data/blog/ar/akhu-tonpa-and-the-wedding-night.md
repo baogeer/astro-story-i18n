@@ -8,7 +8,7 @@ description: "تنكر أغوتومبا في زي مخرج واختلط بحفل
 
 
 
-![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+![AstroPaper I18n](/akhu-tonpa-and-the-wedding-night.png)
 
 
 

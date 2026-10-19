@@ -8,7 +8,7 @@ description: "Deux moines occidentaux ont eu beaucoup de mal à visiter les cél
 
 
 
-![AstroPaper I18n](/public/the-two-monks-from-the-western-regions.png)
+![AstroPaper I18n](/the-two-monks-from-the-western-regions.png)
 
 
 

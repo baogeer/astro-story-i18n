@@ -8,7 +8,7 @@ description: "Li Chong primero invitó al Sr. Feng Shui, Liu Banxian, a elegir u
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
 
 
 

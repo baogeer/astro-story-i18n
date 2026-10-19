@@ -8,7 +8,7 @@ description: "Batu is famous for training horses, but they are struggling to fin
 
 
 
-![AstroPaper I18n](/public/taming-the-fire-dragon-horse.png)
+![AstroPaper I18n](/taming-the-fire-dragon-horse.png)
 
 
 

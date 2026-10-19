@@ -8,7 +8,7 @@ description: "Шангуань Ванер происходила из извес
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-shangguan-wan-er.png)
+![AstroPaper I18n](/the-rise-and-fall-of-shangguan-wan-er.png)
 
 
 

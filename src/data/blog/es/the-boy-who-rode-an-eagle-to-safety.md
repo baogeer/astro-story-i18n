@@ -8,7 +8,7 @@ description: "Liu Yu se cayó al acantilado para recoger su sombrero y cayó en 
 
 
 
-![AstroPaper I18n](/public/the-boy-who-rode-an-eagle-to-safety.png)
+![AstroPaper I18n](/the-boy-who-rode-an-eagle-to-safety.png)
 
 
 

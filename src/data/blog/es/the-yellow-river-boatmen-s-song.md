@@ -8,7 +8,7 @@ description: "Los navegantes del río Amarillo viajan en balsas de piel de vaca 
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-boatmen-s-song.png)
+![AstroPaper I18n](/the-yellow-river-boatmen-s-song.png)
 
 
 

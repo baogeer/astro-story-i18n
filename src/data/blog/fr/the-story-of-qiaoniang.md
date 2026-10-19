@@ -8,7 +8,7 @@ description: "Fu Lian est née castrante. Elle a quitté l'école et s'est rendu
 
 
 
-![AstroPaper I18n](/public/the-story-of-qiaoniang.png)
+![AstroPaper I18n](/the-story-of-qiaoniang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Братья и сестры Панхе Гу выращивали 
 
 
 
-![AstroPaper I18n](/public/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
+![AstroPaper I18n](/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
 
 
 

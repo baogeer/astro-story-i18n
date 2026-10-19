@@ -8,7 +8,7 @@ description: "Подросток Ван Янмин вместе со своей 
 
 
 
-![AstroPaper I18n](/public/the-young-wang-yangming-outwits-the-monk.png)
+![AstroPaper I18n](/the-young-wang-yangming-outwits-the-monk.png)
 
 
 

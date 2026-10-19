@@ -8,7 +8,7 @@ description: "Taiwanese scholar Nan Huaijin questioned that the culprit behind Y
 
 
 
-![AstroPaper I18n](/public/who-really-killed-yue-fei.png)
+![AstroPaper I18n](/who-really-killed-yue-fei.png)
 
 
 

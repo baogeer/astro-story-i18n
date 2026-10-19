@@ -8,7 +8,7 @@ description: "Yi peasant, Ejia, ploughed the ground and harshly cultivated the c
 
 
 
-![AstroPaper I18n](/public/the-ploughing-song-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-ploughing-song-a-yi-folktale-from-yangbi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "She Shanha Laowei was hardworking and enthusiastic. Unfortunately,
 
 
 
-![AstroPaper I18n](/public/the-she-folktale-of-sending-a-measure-of-rice.png)
+![AstroPaper I18n](/the-she-folktale-of-sending-a-measure-of-rice.png)
 
 
 

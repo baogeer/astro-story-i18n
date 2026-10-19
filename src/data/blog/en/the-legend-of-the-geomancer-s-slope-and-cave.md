@@ -8,7 +8,7 @@ description: "Legend has it that Liu Jiapo in Xinhuang has a “teacher slope”
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-slope-and-cave.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-slope-and-cave.png)
 
 
 

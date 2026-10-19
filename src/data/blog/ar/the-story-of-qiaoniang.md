@@ -8,7 +8,7 @@ description: "ولد فو ليان كشخص خصي. تغيبت عن المدرس
 
 
 
-![AstroPaper I18n](/public/the-story-of-qiaoniang.png)
+![AstroPaper I18n](/the-story-of-qiaoniang.png)
 
 
 

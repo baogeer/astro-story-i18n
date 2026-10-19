@@ -8,7 +8,7 @@ description: "Лу Сяоман сначала вышла замуж за Ван
 
 
 
-![AstroPaper I18n](/public/the-romantic-affairs-of-lu-xiaoman.png)
+![AstroPaper I18n](/the-romantic-affairs-of-lu-xiaoman.png)
 
 
 

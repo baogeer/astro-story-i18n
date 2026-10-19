@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن امرأة على طول نهر ي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
 
 
 

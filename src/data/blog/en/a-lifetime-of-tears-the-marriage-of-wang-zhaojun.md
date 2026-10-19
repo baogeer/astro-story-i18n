@@ -8,7 +8,7 @@ description: "Wang Zhaojun married the Huns and relatives from a long time ago. 
 
 
 
-![AstroPaper I18n](/public/a-lifetime-of-tears-the-marriage-of-wang-zhaojun.png)
+![AstroPaper I18n](/a-lifetime-of-tears-the-marriage-of-wang-zhaojun.png)
 
 
 

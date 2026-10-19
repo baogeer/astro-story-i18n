@@ -8,7 +8,7 @@ description: "The daughter of the Kazakh tribe Bayi falls in love with poor herd
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maiden-s-tomb.png)
+![AstroPaper I18n](/the-origin-of-the-maiden-s-tomb.png)
 
 
 

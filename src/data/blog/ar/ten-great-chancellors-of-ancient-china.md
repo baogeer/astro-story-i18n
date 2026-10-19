@@ -8,7 +8,7 @@ description: "يقيّم المؤلف عشرة وزراء مشهورين من ز
 
 
 
-![AstroPaper I18n](/public/ten-great-chancellors-of-ancient-china.png)
+![AstroPaper I18n](/ten-great-chancellors-of-ancient-china.png)
 
 
 

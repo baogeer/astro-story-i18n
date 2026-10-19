@@ -8,7 +8,7 @@ description: "Dans les prairies le long du Brahmapoutre, Luo Zhu a utilisé l'as
 
 
 
-![AstroPaper I18n](/public/the-clever-little-rabbit-luozhu.png)
+![AstroPaper I18n](/the-clever-little-rabbit-luozhu.png)
 
 
 

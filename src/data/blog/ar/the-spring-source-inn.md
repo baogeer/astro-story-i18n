@@ -8,7 +8,7 @@ description: "أمضى مالك الفندق، ليونغ كا تشو، عشر �
 
 
 
-![AstroPaper I18n](/public/the-spring-source-inn.png)
+![AstroPaper I18n](/the-spring-source-inn.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Предки этнической группы цян были в�
 
 
 
-![AstroPaper I18n](/public/the-great-war-between-the-qiang-and-the-geji.png)
+![AstroPaper I18n](/the-great-war-between-the-qiang-and-the-geji.png)
 
 
 

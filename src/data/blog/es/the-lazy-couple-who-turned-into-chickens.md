@@ -8,7 +8,7 @@ description: "Una pareja sabrosa y perezosa pidió a los dioses que trajeran arr
 
 
 
-![AstroPaper I18n](/public/the-lazy-couple-who-turned-into-chickens.png)
+![AstroPaper I18n](/the-lazy-couple-who-turned-into-chickens.png)
 
 
 

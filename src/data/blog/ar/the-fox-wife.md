@@ -8,7 +8,7 @@ description: "عائلة وانغ شياو فقيرة. إنها تكسب رزق�
 
 
 
-![AstroPaper I18n](/public/the-fox-wife.png)
+![AstroPaper I18n](/the-fox-wife.png)
 
 
 

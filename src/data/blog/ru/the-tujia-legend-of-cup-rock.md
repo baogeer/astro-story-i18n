@@ -8,7 +8,7 @@ description: "На горах Эмей и Бамиан происходят бе
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-cup-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-cup-rock.png)
 
 
 

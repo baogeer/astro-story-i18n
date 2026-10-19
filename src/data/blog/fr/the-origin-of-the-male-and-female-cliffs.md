@@ -8,7 +8,7 @@ description: "Il y a la falaise de Gongmu dans le village de Changshou, dans le 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-male-and-female-cliffs.png)
+![AstroPaper I18n](/the-origin-of-the-male-and-female-cliffs.png)
 
 
 

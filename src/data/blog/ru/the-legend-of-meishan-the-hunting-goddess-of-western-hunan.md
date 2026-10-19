@@ -8,7 +8,7 @@ description: "Девушка из Мэйшаня — охотница из Ту�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
 
 
 

@@ -8,7 +8,7 @@ description: "ذات مرة، كان لدي شقيقان. أحدهما كان ت
 
 
 
-![AstroPaper I18n](/public/the-tale-of-diligence-and-thrift.png)
+![AstroPaper I18n](/the-tale-of-diligence-and-thrift.png)
 
 
 

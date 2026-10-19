@@ -8,7 +8,7 @@ description: "Taiwán cena alrededor de la estufa durante el Año Nuevo Lunar. C
 
 
 
-![AstroPaper I18n](/public/taiwanese-folk-customs-of-the-new-year.png)
+![AstroPaper I18n](/taiwanese-folk-customs-of-the-new-year.png)
 
 
 

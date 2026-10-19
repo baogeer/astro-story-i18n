@@ -8,7 +8,7 @@ description: "Songjiang Zhang Lirong and her neighbor's boy Li Yulang shared a r
 
 
 
-![AstroPaper I18n](/public/the-eternal-romance-of-zhang-lirong.png)
+![AstroPaper I18n](/the-eternal-romance-of-zhang-lirong.png)
 
 
 

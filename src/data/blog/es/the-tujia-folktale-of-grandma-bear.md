@@ -8,7 +8,7 @@ description: "En la cabaña de Tujia, los padres salieron. La abuela Kuzikabu se
 
 
 
-![AstroPaper I18n](/public/the-tujia-folktale-of-grandma-bear.png)
+![AstroPaper I18n](/the-tujia-folktale-of-grandma-bear.png)
 
 
 

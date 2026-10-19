@@ -8,7 +8,7 @@ description: "Taipei's Jingmeishan Fairy Rock has a huge footprint. Legend has i
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-footprints.png)
+![AstroPaper I18n](/the-legend-of-the-footprints.png)
 
 
 

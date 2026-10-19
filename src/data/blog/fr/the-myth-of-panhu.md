@@ -8,7 +8,7 @@ description: "Pan Yu était à l'origine un chien-dragon transformé par un inse
 
 
 
-![AstroPaper I18n](/public/the-myth-of-panhu.png)
+![AstroPaper I18n](/the-myth-of-panhu.png)
 
 
 

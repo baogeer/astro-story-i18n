@@ -8,7 +8,7 @@ description: "La célèbre capture Luo Qi de la dynastie Ming a formé un frère
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-famous-detective.png)
+![AstroPaper I18n](/the-strange-case-of-the-famous-detective.png)
 
 
 

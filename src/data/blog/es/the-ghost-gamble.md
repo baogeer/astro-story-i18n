@@ -8,7 +8,7 @@ description: "Wu es adicto al juego. Tras pagar el dividendo de fin de año, se 
 
 
 
-![AstroPaper I18n](/public/the-ghost-gamble.png)
+![AstroPaper I18n](/the-ghost-gamble.png)
 
 
 

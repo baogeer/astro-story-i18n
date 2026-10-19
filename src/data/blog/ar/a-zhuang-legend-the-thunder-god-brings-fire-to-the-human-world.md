@@ -8,7 +8,7 @@ description: "في العصور القديمة، لم تكن هناك حرائق
 
 
 
-![AstroPaper I18n](/public/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
+![AstroPaper I18n](/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
 
 
 

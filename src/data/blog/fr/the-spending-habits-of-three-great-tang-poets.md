@@ -8,7 +8,7 @@ description: "Li Bai est détendue et détendue. Il boit de l'alcool et dépense
 
 
 
-![AstroPaper I18n](/public/the-spending-habits-of-three-great-tang-poets.png)
+![AstroPaper I18n](/the-spending-habits-of-three-great-tang-poets.png)
 
 
 

@@ -8,7 +8,7 @@ description: "У Цинхуань, талантливая женщина из д
 
 
 
-![AstroPaper I18n](/public/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
+![AstroPaper I18n](/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
 
 
 

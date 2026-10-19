@@ -8,7 +8,7 @@ description: "Tang Yin had a difficult life; he was not a merry person. He lost 
 
 
 
-![AstroPaper I18n](/public/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
+![AstroPaper I18n](/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
 
 
 

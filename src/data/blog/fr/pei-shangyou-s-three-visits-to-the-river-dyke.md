@@ -8,7 +8,7 @@ description: "Pei Shangyou a remonté le remblai tard dans la nuit pour sauver s
 
 
 
-![AstroPaper I18n](/public/pei-shangyou-s-three-visits-to-the-river-dyke.png)
+![AstroPaper I18n](/pei-shangyou-s-three-visits-to-the-river-dyke.png)
 
 
 

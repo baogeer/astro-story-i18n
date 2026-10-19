@@ -8,7 +8,7 @@ description: "Cui Yingying a rencontré Zhang Sheng et a été mariée pour le r
 
 
 
-![AstroPaper I18n](/public/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
+![AstroPaper I18n](/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
 
 
 

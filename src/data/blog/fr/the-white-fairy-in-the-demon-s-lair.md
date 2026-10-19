@@ -8,7 +8,7 @@ description: "Niu Biao, célibataire sur la plage, a postulé pour un poste de c
 
 
 
-![AstroPaper I18n](/public/the-white-fairy-in-the-demon-s-lair.png)
+![AstroPaper I18n](/the-white-fairy-in-the-demon-s-lair.png)
 
 
 

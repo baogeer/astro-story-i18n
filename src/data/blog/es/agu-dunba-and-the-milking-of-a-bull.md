@@ -8,7 +8,7 @@ description: "El propietario, rico y calvo, obligó al pastor Zaxipengtso a past
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-milking-of-a-bull.png)
+![AstroPaper I18n](/agu-dunba-and-the-milking-of-a-bull.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le Bai Niang Zi était à l'origine un serpent blanc pratiqué à 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
 
 
 

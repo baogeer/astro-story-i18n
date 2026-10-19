@@ -8,7 +8,7 @@ description: "Houyi l'a tiré le 9 et les gens l'ont respecté. Sa femme, Chang'
 
 
 
-![AstroPaper I18n](/public/the-myth-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-myth-of-chang-e-flying-to-the-moon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Жители Цян называют себя Эрмой. Они �
 
 
 
-![AstroPaper I18n](/public/the-qiang-an-ancient-people-above-the-clouds.png)
+![AstroPaper I18n](/the-qiang-an-ancient-people-above-the-clouds.png)
 
 
 

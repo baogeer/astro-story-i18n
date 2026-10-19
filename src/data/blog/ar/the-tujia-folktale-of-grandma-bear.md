@@ -8,7 +8,7 @@ description: "في كوخ Tujia، خرج الوالدان. تظاهرت الجد
 
 
 
-![AstroPaper I18n](/public/the-tujia-folktale-of-grandma-bear.png)
+![AstroPaper I18n](/the-tujia-folktale-of-grandma-bear.png)
 
 
 

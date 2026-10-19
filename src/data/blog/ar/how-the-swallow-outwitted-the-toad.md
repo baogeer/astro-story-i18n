@@ -8,7 +8,7 @@ description: "كان الضفدع يشعر بالغيرة من السنونو و
 
 
 
-![AstroPaper I18n](/public/how-the-swallow-outwitted-the-toad.png)
+![AstroPaper I18n](/how-the-swallow-outwitted-the-toad.png)
 
 
 

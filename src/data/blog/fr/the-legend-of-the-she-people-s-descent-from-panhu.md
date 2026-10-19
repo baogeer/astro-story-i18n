@@ -8,7 +8,7 @@ description: "La légende de la tribu Shes raconte que l'ancêtre était le dieu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-descent-from-panhu.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-descent-from-panhu.png)
 
 
 

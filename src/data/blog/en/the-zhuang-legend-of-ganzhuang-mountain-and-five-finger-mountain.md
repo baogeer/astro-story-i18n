@@ -8,7 +8,7 @@ description: "Brotto and Milocia created everything under the orders of Emperor 
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
+![AstroPaper I18n](/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
 
 
 

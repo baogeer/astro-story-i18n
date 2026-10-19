@@ -8,7 +8,7 @@ description: "Шангуань Ванер стала официальной ра
 
 
 
-![AstroPaper I18n](/public/the-scandalous-life-of-shangguan-wan-er-the-beautiful-female-prime-minister.png)
+![AstroPaper I18n](/the-scandalous-life-of-shangguan-wan-er-the-beautiful-female-prime-minister.png)
 
 
 

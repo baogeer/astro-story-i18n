@@ -8,7 +8,7 @@ description: "In order to surrender as a pangolin in Pantong Baishan, Lu Dongbin
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-teases-the-peony-fairy.png)
+![AstroPaper I18n](/lu-dongbin-teases-the-peony-fairy.png)
 
 
 

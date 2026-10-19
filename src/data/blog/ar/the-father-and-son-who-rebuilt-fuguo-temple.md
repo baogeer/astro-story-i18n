@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة مينغ، تخلى تايشو م�
 
 
 
-![AstroPaper I18n](/public/the-father-and-son-who-rebuilt-fuguo-temple.png)
+![AstroPaper I18n](/the-father-and-son-who-rebuilt-fuguo-temple.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un grupo de ladrones que se hacían pasar por un equipo de televis
 
 
 
-![AstroPaper I18n](/public/the-bank-robbery-that-no-one-believed-was-real.png)
+![AstroPaper I18n](/the-bank-robbery-that-no-one-believed-was-real.png)
 
 
 

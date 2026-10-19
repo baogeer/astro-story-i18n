@@ -8,7 +8,7 @@ description: "عاشت منغ هاوران في عزلة في جبل لومن و
 
 
 
-![AstroPaper I18n](/public/meng-haoran-the-tang-poet-whose-career-failed-but-friendships-flourished.png)
+![AstroPaper I18n](/meng-haoran-the-tang-poet-whose-career-failed-but-friendships-flourished.png)
 
 
 

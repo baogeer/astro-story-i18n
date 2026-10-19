@@ -8,7 +8,7 @@ description: "Cet article décrit six célébrités féminines, dont l'impératr
 
 
 
-![AstroPaper I18n](/public/chinese-heroines-who-defied-the-humiliation-of-being-stripped-naked.png)
+![AstroPaper I18n](/chinese-heroines-who-defied-the-humiliation-of-being-stripped-naked.png)
 
 
 

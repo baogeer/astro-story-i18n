@@ -8,7 +8,7 @@ description: "كانت النساء من أسرة تانغ جميلات وموه
 
 
 
-![AstroPaper I18n](/public/bu-feiyan-s-secret-affair.png)
+![AstroPaper I18n](/bu-feiyan-s-secret-affair.png)
 
 
 

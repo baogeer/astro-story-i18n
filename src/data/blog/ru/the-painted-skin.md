@@ -8,7 +8,7 @@ description: "Ван Шэнлу из Тайюаня привез домой кр
 
 
 
-![AstroPaper I18n](/public/the-painted-skin.png)
+![AstroPaper I18n](/the-painted-skin.png)
 
 
 

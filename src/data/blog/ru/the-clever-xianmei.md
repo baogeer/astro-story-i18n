@@ -8,7 +8,7 @@ description: "Сяньмэй, девушка из этнической груп�
 
 
 
-![AstroPaper I18n](/public/the-clever-xianmei.png)
+![AstroPaper I18n](/the-clever-xianmei.png)
 
 
 

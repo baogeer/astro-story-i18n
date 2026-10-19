@@ -8,7 +8,7 @@ description: "Legend has it that in Hangzhou, Southern Song, Xu Xian married Bai
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-and-xu-xian.png)
 
 
 

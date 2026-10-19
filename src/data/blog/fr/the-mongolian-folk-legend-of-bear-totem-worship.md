@@ -8,7 +8,7 @@ description: "Dans les légendes mongoles, les ours sont considérés comme des 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-bear-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-bear-totem-worship.png)
 
 
 

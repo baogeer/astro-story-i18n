@@ -8,7 +8,7 @@ description: "تم خداع وانغ لان، وهو مواطن من ريتسو�
 
 
 
-![AstroPaper I18n](/public/the-ghost-immortal-wang-lan.png)
+![AstroPaper I18n](/the-ghost-immortal-wang-lan.png)
 
 
 

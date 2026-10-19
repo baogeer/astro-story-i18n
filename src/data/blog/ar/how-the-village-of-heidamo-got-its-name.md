@@ -8,7 +8,7 @@ description: "في الحكاية الشعبية لقبيلة يي في يانغ
 
 
 
-![AstroPaper I18n](/public/how-the-village-of-heidamo-got-its-name.png)
+![AstroPaper I18n](/how-the-village-of-heidamo-got-its-name.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Два западных монаха выглядели стран
 
 
 
-![AstroPaper I18n](/public/the-monks-with-miraculous-powers.png)
+![AstroPaper I18n](/the-monks-with-miraculous-powers.png)
 
 
 

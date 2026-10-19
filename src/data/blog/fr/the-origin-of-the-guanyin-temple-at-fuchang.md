@@ -8,7 +8,7 @@ description: "Lors de la foire du temple de Baizhushan, les habitants de Yoshimu
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
 
 
 

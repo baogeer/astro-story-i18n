@@ -8,7 +8,7 @@ description: "Тибетские купцы и индийские купцы п�
 
 
 
-![AstroPaper I18n](/public/the-tibetan-merchant-and-the-indian-merchant.png)
+![AstroPaper I18n](/the-tibetan-merchant-and-the-indian-merchant.png)
 
 
 

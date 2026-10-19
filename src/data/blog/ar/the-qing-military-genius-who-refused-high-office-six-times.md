@@ -8,7 +8,7 @@ description: "كان بنغ يولين قائد البحرية لجيش شيان
 
 
 
-![AstroPaper I18n](/public/the-qing-military-genius-who-refused-high-office-six-times.png)
+![AstroPaper I18n](/the-qing-military-genius-who-refused-high-office-six-times.png)
 
 
 

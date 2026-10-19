@@ -8,7 +8,7 @@ description: "واجه أفانتي سؤالين: سأل الصياد العجو
 
 
 
-![AstroPaper I18n](/public/selected-xinjiang-uyghur-folk-tales.png)
+![AstroPaper I18n](/selected-xinjiang-uyghur-folk-tales.png)
 
 
 

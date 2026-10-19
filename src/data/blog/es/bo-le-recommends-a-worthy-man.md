@@ -8,7 +8,7 @@ description: "Bole es viejo y recomendó a su amigo Jiufang Gaozongma a Qin Mugo
 
 
 
-![AstroPaper I18n](/public/bo-le-recommends-a-worthy-man.png)
+![AstroPaper I18n](/bo-le-recommends-a-worthy-man.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يجمع فيلم «New Liaozhai (3)» خمس قصص غريبة م
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-age-part-three.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-age-part-three.png)
 
 
 

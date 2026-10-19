@@ -8,7 +8,7 @@ description: "Li Hao, un estudiante que prestaba atención a la comida, recordó
 
 
 
-![AstroPaper I18n](/public/the-mentor-s-menu.png)
+![AstroPaper I18n](/the-mentor-s-menu.png)
 
 
 

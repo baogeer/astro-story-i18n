@@ -8,7 +8,7 @@ description: "El maestro Jin Zhu fue muy inteligente cuando adoró a Bamboo como
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-golden-bamboo-master.png)
+![AstroPaper I18n](/the-miao-legend-of-the-golden-bamboo-master.png)
 
 
 

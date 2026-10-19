@@ -8,7 +8,7 @@ description: "Лю Чунь пожертвовал собой, чтобы най
 
 
 
-![AstroPaper I18n](/public/the-first-sunrise-terrace.png)
+![AstroPaper I18n](/the-first-sunrise-terrace.png)
 
 
 

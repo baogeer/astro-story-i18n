@@ -8,7 +8,7 @@ description: "La belle-fille du Shijia de Wan Cun a été empêtrée par Fox Jin
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-in-the-bottle.png)
+![AstroPaper I18n](/the-fox-spirit-in-the-bottle.png)
 
 
 

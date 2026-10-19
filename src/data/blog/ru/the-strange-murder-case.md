@@ -8,7 +8,7 @@ description: "Финансовый менеджер Ван Наньян из-з�
 
 
 
-![AstroPaper I18n](/public/the-strange-murder-case.png)
+![AstroPaper I18n](/the-strange-murder-case.png)
 
 
 

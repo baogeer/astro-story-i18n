@@ -8,7 +8,7 @@ description: "Yang Shihou was General Liang. He saved the army with a silver gun
 
 
 
-![AstroPaper I18n](/public/the-unorthodox-loyalist-who-terrified-two-emperors.png)
+![AstroPaper I18n](/the-unorthodox-loyalist-who-terrified-two-emperors.png)
 
 
 

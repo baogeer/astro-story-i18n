@@ -8,7 +8,7 @@ description: "In the Qing dynasty, a county official in Dongping, Shandong was e
 
 
 
-![AstroPaper I18n](/public/never-dig-within-three-feet-of-a-grave.png)
+![AstroPaper I18n](/never-dig-within-three-feet-of-a-grave.png)
 
 
 

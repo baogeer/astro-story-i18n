@@ -8,7 +8,7 @@ description: "Mudan's family lives under Longmen Mountain. Her wife, Mudan, was 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-peony-spring.png)
+![AstroPaper I18n](/the-legend-of-peony-spring.png)
 
 
 

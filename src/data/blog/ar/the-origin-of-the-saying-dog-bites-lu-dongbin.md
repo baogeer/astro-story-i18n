@@ -8,7 +8,7 @@ description: "لإلهام صديقه غو ياو للدراسة، تعمد لو
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
+![AstroPaper I18n](/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
 
 
 

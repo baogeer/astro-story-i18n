@@ -8,7 +8,7 @@ description: "Après le déluge, le frère et la sœur se sont échappés avec u
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-millstone-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-millstone-rock.png)
 
 
 

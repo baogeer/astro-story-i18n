@@ -8,7 +8,7 @@ description: "Lao Qi, una joven tribu Hani, usó hierba de hadas para salvar a l
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-hani-legend-of-the-sun-and-the-moon.png)
 
 
 

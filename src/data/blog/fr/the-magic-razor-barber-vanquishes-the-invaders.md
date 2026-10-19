@@ -8,7 +8,7 @@ description: "«xa0King Swordxa0» est un rasoir situé dans la ville de Tianzi,
 
 
 
-![AstroPaper I18n](/public/the-magic-razor-barber-vanquishes-the-invaders.png)
+![AstroPaper I18n](/the-magic-razor-barber-vanquishes-the-invaders.png)
 
 
 

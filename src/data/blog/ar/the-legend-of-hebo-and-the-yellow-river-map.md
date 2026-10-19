@@ -8,7 +8,7 @@ description: "غرق فنغ يي في النهر الأصفر بحثًا عن أ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hebo-and-the-yellow-river-map.png)
+![AstroPaper I18n](/the-legend-of-hebo-and-the-yellow-river-map.png)
 
 
 

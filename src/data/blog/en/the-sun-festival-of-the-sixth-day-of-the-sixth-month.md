@@ -8,7 +8,7 @@ description: "When ancient times came out together on the 10th, Asan brought som
 
 
 
-![AstroPaper I18n](/public/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
+![AstroPaper I18n](/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
 
 
 

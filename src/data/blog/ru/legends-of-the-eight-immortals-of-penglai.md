@@ -8,7 +8,7 @@ description: "Такие легенды, как «Восемь бессмерт�
 
 
 
-![AstroPaper I18n](/public/legends-of-the-eight-immortals-of-penglai.png)
+![AstroPaper I18n](/legends-of-the-eight-immortals-of-penglai.png)
 
 
 

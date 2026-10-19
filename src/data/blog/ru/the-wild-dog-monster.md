@@ -8,7 +8,7 @@ description: "Во время «Восстания семи» Ли Хуалун 
 
 
 
-![AstroPaper I18n](/public/the-wild-dog-monster.png)
+![AstroPaper I18n](/the-wild-dog-monster.png)
 
 
 

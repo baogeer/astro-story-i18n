@@ -8,7 +8,7 @@ description: "El hermano y la hermana de Luban llevaron a su aprendiz a Hangzhou
 
 
 
-![AstroPaper I18n](/public/the-stone-censer.png)
+![AstroPaper I18n](/the-stone-censer.png)
 
 
 

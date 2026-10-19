@@ -8,7 +8,7 @@ description: "Il y a trois filles qui travaillent dur dans la famille Yangyi, ma
 
 
 
-![AstroPaper I18n](/public/the-three-lisping-sisters-and-the-starry-night.png)
+![AstroPaper I18n](/the-three-lisping-sisters-and-the-starry-night.png)
 
 
 

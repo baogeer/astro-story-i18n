@@ -8,7 +8,7 @@ description: "La familia de Mudan vive bajo la montaña Longmen. Otros maltratar
 
 
 
-![AstroPaper I18n](/public/the-legend-of-peony-spring.png)
+![AstroPaper I18n](/the-legend-of-peony-spring.png)
 
 
 

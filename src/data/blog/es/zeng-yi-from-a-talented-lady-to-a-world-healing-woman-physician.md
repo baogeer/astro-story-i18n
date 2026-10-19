@@ -8,7 +8,7 @@ description: "Zeng Yi, una joven de finales de la dinastía Qing, se involucró 
 
 
 
-![AstroPaper I18n](/public/zeng-yi-from-a-talented-lady-to-a-world-healing-woman-physician.png)
+![AstroPaper I18n](/zeng-yi-from-a-talented-lady-to-a-world-healing-woman-physician.png)
 
 
 

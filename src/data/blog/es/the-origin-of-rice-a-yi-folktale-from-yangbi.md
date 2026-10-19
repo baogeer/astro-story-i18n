@@ -8,7 +8,7 @@ description: "En la antigüedad, los humanos no tenían cereales y los perros er
 
 
 
-![AstroPaper I18n](/public/the-origin-of-rice-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-origin-of-rice-a-yi-folktale-from-yangbi.png)
 
 
 

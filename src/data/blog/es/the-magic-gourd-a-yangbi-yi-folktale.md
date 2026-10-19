@@ -8,7 +8,7 @@ description: "Ah Long, un grupo étnico joven de la etnia yi, es amable y filial
 
 
 
-![AstroPaper I18n](/public/the-magic-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-magic-gourd-a-yangbi-yi-folktale.png)
 
 
 

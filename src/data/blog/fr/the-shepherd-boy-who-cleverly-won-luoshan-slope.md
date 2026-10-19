@@ -8,7 +8,7 @@ description: "Le berger a volé un œuf dans les yeux de Quan et a trompé M. Fe
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
+![AstroPaper I18n](/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم تلفيق التهمة لعناب عندما اشتكت لز
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thousand-buddha-nunnery.png)
+![AstroPaper I18n](/the-legend-of-the-thousand-buddha-nunnery.png)
 
 
 

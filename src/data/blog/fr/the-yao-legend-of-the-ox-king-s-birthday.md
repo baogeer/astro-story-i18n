@@ -8,7 +8,7 @@ description: "Selon la légende de l'ethnie Yao, le roi des vaches aidait les ge
 
 
 
-![AstroPaper I18n](/public/the-yao-legend-of-the-ox-king-s-birthday.png)
+![AstroPaper I18n](/the-yao-legend-of-the-ox-king-s-birthday.png)
 
 
 

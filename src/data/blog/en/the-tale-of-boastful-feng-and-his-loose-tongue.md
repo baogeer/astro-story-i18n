@@ -8,7 +8,7 @@ description: "In the Ming dynasty, Feng loved to brag and starved to death, but 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Durante los años de Qing y Xuantong, Wang Ke, del condado de Teng
 
 
 
-![AstroPaper I18n](/public/the-shopkeeper-who-refused-ill-gotten-gains.png)
+![AstroPaper I18n](/the-shopkeeper-who-refused-ill-gotten-gains.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Érase una vez, un pescador huérfano cogió un tornillo grande po
 
 
 
-![AstroPaper I18n](/public/the-regret-of-a-broken-promise.png)
+![AstroPaper I18n](/the-regret-of-a-broken-promise.png)
 
 
 

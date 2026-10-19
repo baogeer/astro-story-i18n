@@ -8,7 +8,7 @@ description: "Обезьяны жаждут персиков на другом �
 
 
 
-![AstroPaper I18n](/public/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chang Dayong está obsesionado con las peonías. Conoció al demon
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy-gejin.png)
+![AstroPaper I18n](/the-peony-fairy-gejin.png)
 
 
 

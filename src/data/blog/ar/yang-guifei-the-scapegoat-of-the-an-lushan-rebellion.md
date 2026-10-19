@@ -8,7 +8,7 @@ description: "بعد عيد ميلاد يانغ جويفي الثامن والث
 
 
 
-![AstroPaper I18n](/public/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
+![AstroPaper I18n](/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Après avoir fréquenté l'école primaire, Shen Congwen a quitté
 
 
 
-![AstroPaper I18n](/public/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
+![AstroPaper I18n](/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
 
 
 

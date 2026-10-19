@@ -8,7 +8,7 @@ description: "أنفق المدير المالي وانغ نانيان بشكل 
 
 
 
-![AstroPaper I18n](/public/the-strange-murder-case.png)
+![AstroPaper I18n](/the-strange-murder-case.png)
 
 
 

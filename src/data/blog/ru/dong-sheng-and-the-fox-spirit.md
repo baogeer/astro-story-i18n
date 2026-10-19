@@ -8,7 +8,7 @@ description: "Дун Шэн был обманут псевдонимом дев�
 
 
 
-![AstroPaper I18n](/public/dong-sheng-and-the-fox-spirit.png)
+![AstroPaper I18n](/dong-sheng-and-the-fox-spirit.png)
 
 
 

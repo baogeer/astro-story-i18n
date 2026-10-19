@@ -8,7 +8,7 @@ description: "Afin de s'assurer le pouvoir dans le harem, Shangguan Waner a d'ab
 
 
 
-![AstroPaper I18n](/public/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
+![AstroPaper I18n](/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
 
 
 

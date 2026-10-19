@@ -8,7 +8,7 @@ description: "A mouse's companion was swallowed by a snake. It glared at the sna
 
 
 
-![AstroPaper I18n](/public/the-righteous-mouse.png)
+![AstroPaper I18n](/the-righteous-mouse.png)
 
 
 

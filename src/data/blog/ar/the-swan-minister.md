@@ -8,7 +8,7 @@ description: "قام الملك سوان بحماية البلاد وتم اخت
 
 
 
-![AstroPaper I18n](/public/the-swan-minister.png)
+![AstroPaper I18n](/the-swan-minister.png)
 
 
 

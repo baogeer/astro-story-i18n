@@ -8,7 +8,7 @@ description: "Zhu Qiyu, el emperador Jing de la dinastía Ming, convocó al pala
 
 
 
-![AstroPaper I18n](/public/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
+![AstroPaper I18n](/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
 
 
 

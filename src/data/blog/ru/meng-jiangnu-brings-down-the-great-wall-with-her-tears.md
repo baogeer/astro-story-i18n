@@ -8,7 +8,7 @@ description: "Женщина Мэн Цзян вышла замуж за бегл
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
+![AstroPaper I18n](/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
 
 
 

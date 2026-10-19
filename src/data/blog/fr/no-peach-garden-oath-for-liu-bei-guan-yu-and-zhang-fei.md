@@ -8,7 +8,7 @@ description: "L'histoire de Liu Bei, Guan Yu et Zhang Fei se réunissant à Taoy
 
 
 
-![AstroPaper I18n](/public/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
 
 
 

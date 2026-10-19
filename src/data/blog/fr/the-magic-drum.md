@@ -8,7 +8,7 @@ description: "Il était une fois deux frères. Le deuxième frère a été expul
 
 
 
-![AstroPaper I18n](/public/the-magic-drum.png)
+![AstroPaper I18n](/the-magic-drum.png)
 
 
 

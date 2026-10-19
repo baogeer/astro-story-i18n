@@ -8,7 +8,7 @@ description: "Чжао Шутунь и принцесса Лан Улона по
 
 
 
-![AstroPaper I18n](/public/the-peacock-princess.png)
+![AstroPaper I18n](/the-peacock-princess.png)
 
 
 

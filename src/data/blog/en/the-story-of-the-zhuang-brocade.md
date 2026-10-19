@@ -8,7 +8,7 @@ description: "The old mother of the Zhuang family weaved beautiful Zhuang Jin an
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-zhuang-brocade.png)
+![AstroPaper I18n](/the-story-of-the-zhuang-brocade.png)
 
 
 

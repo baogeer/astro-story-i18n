@@ -8,7 +8,7 @@ description: "En la antigüedad, las montañas de Boras y Minotos fueron dividid
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origins-of-the-han-zhuang-and-yao-peoples.png)
+![AstroPaper I18n](/the-legend-of-the-origins-of-the-han-zhuang-and-yao-peoples.png)
 
 
 

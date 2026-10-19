@@ -8,7 +8,7 @@ description: "Según la leyenda de la tribu Yi, Roba luchó sabiamente contra el
 
 
 
-![AstroPaper I18n](/public/why-the-yi-people-are-carried-feet-first-at-funerals.png)
+![AstroPaper I18n](/why-the-yi-people-are-carried-feet-first-at-funerals.png)
 
 
 

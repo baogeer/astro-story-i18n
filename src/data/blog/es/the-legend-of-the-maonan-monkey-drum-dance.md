@@ -8,7 +8,7 @@ description: "Según las leyendas maonanas, los niños suben a la montaña para 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-monkey-drum-dance.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
 
 
 

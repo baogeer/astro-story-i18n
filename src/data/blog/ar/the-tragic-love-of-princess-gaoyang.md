@@ -8,7 +8,7 @@ description: "الأميرة جويانج هي ابنة تانغ تايزونغ.
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-tragic-love-of-princess-gaoyang.png)
 
 
 

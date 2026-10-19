@@ -8,7 +8,7 @@ description: "صعد أوبر الجبل لمشاهدة الخالدين يلع�
 
 
 
-![AstroPaper I18n](/public/you-bo-s-tears.png)
+![AstroPaper I18n](/you-bo-s-tears.png)
 
 
 

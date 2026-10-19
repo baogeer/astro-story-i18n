@@ -8,7 +8,7 @@ description: "Selon la légende du thé Longjing, la vieille tante solitaire pr�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea.png)
 
 
 

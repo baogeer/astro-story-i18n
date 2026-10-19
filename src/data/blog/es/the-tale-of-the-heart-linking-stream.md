@@ -8,7 +8,7 @@ description: "El príncipe Shule se enamoró de la pastora. El rey lo detuvo y l
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-heart-linking-stream.png)
+![AstroPaper I18n](/the-tale-of-the-heart-linking-stream.png)
 
 
 

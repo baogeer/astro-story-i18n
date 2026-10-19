@@ -8,7 +8,7 @@ description: "El apellido Luo Changji de Yangyi Daimai fue acusado en secreto y 
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-the-luo-and-chang-families-of-damaidi.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-the-luo-and-chang-families-of-damaidi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Il y a un petit dragon blanc qui peut être transformé en figure 
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-of-laguo-dragon-pool.png)
+![AstroPaper I18n](/the-white-dragon-of-laguo-dragon-pool.png)
 
 
 

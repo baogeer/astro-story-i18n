@@ -8,7 +8,7 @@ description: "Le texte de l'histoire est manquant et le résumé ne peut pas êt
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-cheng.png)
+![AstroPaper I18n](/the-story-of-zhang-cheng.png)
 
 
 

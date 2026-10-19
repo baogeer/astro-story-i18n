@@ -8,7 +8,7 @@ description: "Джинню, второй младший дедушка в сем
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-and-the-morning-glory.png)
+![AstroPaper I18n](/the-golden-ox-and-the-morning-glory.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Jiang Shixiong found it difficult to start a family because of his
 
 
 
-![AstroPaper I18n](/public/the-legend-of-eryi-lou-king-of-tulou.png)
+![AstroPaper I18n](/the-legend-of-eryi-lou-king-of-tulou.png)
 
 
 

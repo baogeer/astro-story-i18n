@@ -8,7 +8,7 @@ description: "Pendant les années Qing Jiaqing, le fleuve Jaune est inondé. Le 
 
 
 
-![AstroPaper I18n](/public/the-death-of-the-disaster-relief-inspector.png)
+![AstroPaper I18n](/the-death-of-the-disaster-relief-inspector.png)
 
 
 

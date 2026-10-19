@@ -8,7 +8,7 @@ description: "هي شيانغو، المعروفة أصلاً باسم هي كي
 
 
 
-![AstroPaper I18n](/public/how-he-xiangu-became-an-immortal.png)
+![AstroPaper I18n](/how-he-xiangu-became-an-immortal.png)
 
 
 

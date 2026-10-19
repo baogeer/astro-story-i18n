@@ -8,7 +8,7 @@ description: "تم اختيار تشين يوان يوان، وهي مومس م�
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-chen-yuanyuan-s-whereabouts.png)
+![AstroPaper I18n](/the-mystery-of-chen-yuanyuan-s-whereabouts.png)
 
 
 

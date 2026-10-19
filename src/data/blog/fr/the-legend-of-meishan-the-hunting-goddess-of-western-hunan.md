@@ -8,7 +8,7 @@ description: "La fille de Meishan est une chasseuse de Tujia à Xiangxi. Elle pa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
 
 
 

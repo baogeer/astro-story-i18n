@@ -8,7 +8,7 @@ description: "أنفق وو شوجي، وهو رجل أعمال ثري من مق
 
 
 
-![AstroPaper I18n](/public/mao-ying-s-lawsuit.png)
+![AstroPaper I18n](/mao-ying-s-lawsuit.png)
 
 
 

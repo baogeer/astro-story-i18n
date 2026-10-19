@@ -8,7 +8,7 @@ description: "While the Huaxiu tribe was migrating, black yaks missed their home
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-yak.png)
+![AstroPaper I18n](/the-legend-of-the-white-yak.png)
 
 
 

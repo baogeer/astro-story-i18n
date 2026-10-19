@@ -8,7 +8,7 @@ description: "نجا الإخوة والأخوات من قبيلة يي بعد �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-flower-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-flower-festival.png)
 
 
 

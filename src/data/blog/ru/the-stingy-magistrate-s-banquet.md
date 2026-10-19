@@ -8,7 +8,7 @@ description: "Чтобы устроить людям скупой праздни
 
 
 
-![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+![AstroPaper I18n](/the-stingy-magistrate-s-banquet.png)
 
 
 

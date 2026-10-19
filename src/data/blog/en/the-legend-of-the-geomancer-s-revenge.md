@@ -8,7 +8,7 @@ description: "During the Kangxi years of the Qing Dynasty, wealthy people from M
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-revenge.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-revenge.png)
 
 
 

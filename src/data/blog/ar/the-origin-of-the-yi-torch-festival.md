@@ -8,7 +8,7 @@ description: "قام بطل يي، أبو، بإزالة «شيا» للشيطا
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-yi-torch-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Hua, de Changzhou, envejeció y fue asesinada por el malvado mo
 
 
 
-![AstroPaper I18n](/public/zhu-er.png)
+![AstroPaper I18n](/zhu-er.png)
 
 
 

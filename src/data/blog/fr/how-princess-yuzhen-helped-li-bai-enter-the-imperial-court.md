@@ -8,7 +8,7 @@ description: "Quand Li Bai avait 42 ans, Tang Xuanzong a ordonné de recruter de
 
 
 
-![AstroPaper I18n](/public/how-princess-yuzhen-helped-li-bai-enter-the-imperial-court.png)
+![AstroPaper I18n](/how-princess-yuzhen-helped-li-bai-enter-the-imperial-court.png)
 
 
 

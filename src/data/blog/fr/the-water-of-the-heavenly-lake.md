@@ -8,7 +8,7 @@ description: "Dans les temps anciens, le roi dragon de la mer de Chine orientale
 
 
 
-![AstroPaper I18n](/public/the-water-of-the-heavenly-lake.png)
+![AstroPaper I18n](/the-water-of-the-heavenly-lake.png)
 
 
 

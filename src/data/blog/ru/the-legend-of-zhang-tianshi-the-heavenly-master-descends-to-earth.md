@@ -8,7 +8,7 @@ description: "Чжана Тяньши унизили за то, что его п
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
 
 
 

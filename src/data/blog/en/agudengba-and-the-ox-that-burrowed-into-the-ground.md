@@ -8,7 +8,7 @@ description: "In order for the poor guys to eat beef, Agutomba borrowed cows fro
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
+![AstroPaper I18n](/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
 
 
 

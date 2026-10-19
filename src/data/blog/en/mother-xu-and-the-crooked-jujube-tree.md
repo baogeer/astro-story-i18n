@@ -8,7 +8,7 @@ description: "Xu Mu always got her son Xu 40. She only praised her son for steal
 
 
 
-![AstroPaper I18n](/public/mother-xu-and-the-crooked-jujube-tree.png)
+![AstroPaper I18n](/mother-xu-and-the-crooked-jujube-tree.png)
 
 
 

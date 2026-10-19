@@ -8,7 +8,7 @@ description: "Agutomba se disfrazó de director y se mezcló con la boda del abu
 
 
 
-![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+![AstroPaper I18n](/akhu-tonpa-and-the-wedding-night.png)
 
 
 

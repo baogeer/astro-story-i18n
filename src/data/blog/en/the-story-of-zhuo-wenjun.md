@@ -8,7 +8,7 @@ description: "Zhuo Wenjun, a talented woman from the Han Dynasty, is newly widow
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhuo-wenjun.png)
+![AstroPaper I18n](/the-story-of-zhuo-wenjun.png)
 
 
 

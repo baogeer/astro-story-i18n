@@ -8,7 +8,7 @@ description: "أُمر المستغل القديم باستدعاء الحيوا
 
 
 
-![AstroPaper I18n](/public/how-the-chinese-zodiac-was-chosen.png)
+![AstroPaper I18n](/how-the-chinese-zodiac-was-chosen.png)
 
 
 

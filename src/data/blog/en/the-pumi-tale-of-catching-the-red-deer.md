@@ -8,7 +8,7 @@ description: "The giant, Jian Jianzu, shot dead red deer with six sacred dogs, a
 
 
 
-![AstroPaper I18n](/public/the-pumi-tale-of-catching-the-red-deer.png)
+![AstroPaper I18n](/the-pumi-tale-of-catching-the-red-deer.png)
 
 
 

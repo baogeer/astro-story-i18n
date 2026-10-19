@@ -8,7 +8,7 @@ description: "El hijo de la viuda pidió dinero prestado tres veces para hacer n
 
 
 
-![AstroPaper I18n](/public/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
+![AstroPaper I18n](/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
 
 
 

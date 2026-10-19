@@ -8,7 +8,7 @@ description: "Cuando las Fuerzas Aliadas de Ocho Naciones invadieron China, Cixi
 
 
 
-![AstroPaper I18n](/public/the-little-palace-maid-and-the-pearls.png)
+![AstroPaper I18n](/the-little-palace-maid-and-the-pearls.png)
 
 
 

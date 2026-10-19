@@ -8,7 +8,7 @@ description: "A Lu Fengning le gustan las sabrosas serpientes. La pequeña serpi
 
 
 
-![AstroPaper I18n](/public/the-snake-eater.png)
+![AstroPaper I18n](/the-snake-eater.png)
 
 
 

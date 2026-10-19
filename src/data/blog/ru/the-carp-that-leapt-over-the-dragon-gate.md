@@ -8,7 +8,7 @@ description: "Чтобы избавиться от злого желтого д�
 
 
 
-![AstroPaper I18n](/public/the-carp-that-leapt-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
 
 
 

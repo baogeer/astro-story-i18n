@@ -8,7 +8,7 @@ description: "تروي ثلاث أساطير عن مجموعة ياو العرق
 
 
 
-![AstroPaper I18n](/public/three-mythical-stories-of-king-pan-ancestor-of-the-yao.png)
+![AstroPaper I18n](/three-mythical-stories-of-king-pan-ancestor-of-the-yao.png)
 
 
 

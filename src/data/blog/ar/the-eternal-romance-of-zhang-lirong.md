@@ -8,7 +8,7 @@ description: "شاركت سونغجيانغ تشانغ ليرونغ وصبي ج�
 
 
 
-![AstroPaper I18n](/public/the-eternal-romance-of-zhang-lirong.png)
+![AstroPaper I18n](/the-eternal-romance-of-zhang-lirong.png)
 
 
 

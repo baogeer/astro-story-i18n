@@ -8,7 +8,7 @@ description: "Mongolian legends reflect the cult of wolves and deer totems, star
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A child who can't talk learned his tongue with his teacher. He mis
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أخطأ تانغ شوانزونغ شاعر أسرة تانغ لي
 
 
 
-![AstroPaper I18n](/public/no-chess-allowed.png)
+![AstroPaper I18n](/no-chess-allowed.png)
 
 
 

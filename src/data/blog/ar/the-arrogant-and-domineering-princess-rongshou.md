@@ -8,7 +8,7 @@ description: "الأميرة رونغشو غولون هي ابنة الأمير 
 
 
 
-![AstroPaper I18n](/public/the-arrogant-and-domineering-princess-rongshou.png)
+![AstroPaper I18n](/the-arrogant-and-domineering-princess-rongshou.png)
 
 
 

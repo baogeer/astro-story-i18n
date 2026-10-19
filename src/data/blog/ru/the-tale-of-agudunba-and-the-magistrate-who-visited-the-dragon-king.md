@@ -8,7 +8,7 @@ description: "Мунемото повесил Агутомбу под мосто
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
+![AstroPaper I18n](/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
 
 
 

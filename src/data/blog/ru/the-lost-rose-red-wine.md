@@ -8,7 +8,7 @@ description: "Чтобы отомстить за своего отца, Мэй �
 
 
 
-![AstroPaper I18n](/public/the-lost-rose-red-wine.png)
+![AstroPaper I18n](/the-lost-rose-red-wine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عندما حفرت الأخوات الثلاث الأرض، ما�
 
 
 
-![AstroPaper I18n](/public/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
+![AstroPaper I18n](/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
 
 
 

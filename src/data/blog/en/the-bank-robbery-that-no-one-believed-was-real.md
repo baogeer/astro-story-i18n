@@ -8,7 +8,7 @@ description: "A group of robbers pretending to be a TV crew robbed a bank in bro
 
 
 
-![AstroPaper I18n](/public/the-bank-robbery-that-no-one-believed-was-real.png)
+![AstroPaper I18n](/the-bank-robbery-that-no-one-believed-was-real.png)
 
 
 

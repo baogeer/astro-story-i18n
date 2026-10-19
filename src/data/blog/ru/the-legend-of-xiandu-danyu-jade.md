@@ -8,7 +8,7 @@ description: "Сюаньюань Хуанди занимался магией н
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiandu-danyu-jade.png)
+![AstroPaper I18n](/the-legend-of-xiandu-danyu-jade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le mari aîné Zhang du Shanxi a traversé la rivière avec sa fam
 
 
 
-![AstroPaper I18n](/public/old-master-zhang-and-the-giant-turtle.png)
+![AstroPaper I18n](/old-master-zhang-and-the-giant-turtle.png)
 
 
 

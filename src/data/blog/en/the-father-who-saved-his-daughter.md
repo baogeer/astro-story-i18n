@@ -8,7 +8,7 @@ description: "After Qiu Xia married the Wang family, her mother-in-law, Wang Wid
 
 
 
-![AstroPaper I18n](/public/the-father-who-saved-his-daughter.png)
+![AstroPaper I18n](/the-father-who-saved-his-daughter.png)
 
 
 

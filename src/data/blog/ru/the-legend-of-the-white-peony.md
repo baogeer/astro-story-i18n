@@ -8,7 +8,7 @@ description: "Сяо Чжэньцзы из Лояна во времена дин
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony.png)
 
 
 

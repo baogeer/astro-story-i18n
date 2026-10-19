@@ -8,7 +8,7 @@ description: "La Serpiente Blanca Bai Su-jeong se casó con Xu Xian a cambio de 
 
 
 
-![AstroPaper I18n](/public/the-new-legend-of-madame-white-snake.png)
+![AstroPaper I18n](/the-new-legend-of-madame-white-snake.png)
 
 
 

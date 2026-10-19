@@ -8,7 +8,7 @@ description: "В городе Гусу Любань увидел, как дер�
 
 
 
-![AstroPaper I18n](/public/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
+![AstroPaper I18n](/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في الحرب التي دارت في نهاية عهد أسرة 
 
 
 
-![AstroPaper I18n](/public/choosing-a-son-in-law-in-turbulent-times.png)
+![AstroPaper I18n](/choosing-a-son-in-law-in-turbulent-times.png)
 
 
 

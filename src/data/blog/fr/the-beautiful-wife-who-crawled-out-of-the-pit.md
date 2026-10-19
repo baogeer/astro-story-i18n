@@ -8,7 +8,7 @@ description: "Liu Zhongli a séduit Ho Lee et la famille du locataire a été as
 
 
 
-![AstroPaper I18n](/public/the-beautiful-wife-who-crawled-out-of-the-pit.png)
+![AstroPaper I18n](/the-beautiful-wife-who-crawled-out-of-the-pit.png)
 
 
 

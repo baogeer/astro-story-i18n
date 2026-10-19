@@ -8,7 +8,7 @@ description: "تشانغ دايونغ مهووس بالفاوانيا. التق�
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy-gejin.png)
+![AstroPaper I18n](/the-peony-fairy-gejin.png)
 
 
 

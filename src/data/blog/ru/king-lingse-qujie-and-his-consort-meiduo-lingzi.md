@@ -8,7 +8,7 @@ description: "Мэй Дуолинцзы, тщеславную наложницу
 
 
 
-![AstroPaper I18n](/public/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
+![AstroPaper I18n](/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
 
 
 

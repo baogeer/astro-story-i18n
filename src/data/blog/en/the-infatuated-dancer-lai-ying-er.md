@@ -8,7 +8,7 @@ description: "At the end of the Eastern Han Dynasty, when Cao Cao's master kabuk
 
 
 
-![AstroPaper I18n](/public/the-infatuated-dancer-lai-ying-er.png)
+![AstroPaper I18n](/the-infatuated-dancer-lai-ying-er.png)
 
 
 

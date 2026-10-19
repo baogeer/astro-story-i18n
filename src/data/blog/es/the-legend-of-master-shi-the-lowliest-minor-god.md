@@ -8,7 +8,7 @@ description: "Al abuelo Shi se le da bien el vino y se atreve a hablar. No cree 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-shi-the-lowliest-minor-god.png)
+![AstroPaper I18n](/the-legend-of-master-shi-the-lowliest-minor-god.png)
 
 
 

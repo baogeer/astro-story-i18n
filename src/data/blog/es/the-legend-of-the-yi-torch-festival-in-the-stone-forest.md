@@ -8,7 +8,7 @@ description: "Para luchar contra la tiranía del dios negro de las tostadas, Zak
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
 
 
 

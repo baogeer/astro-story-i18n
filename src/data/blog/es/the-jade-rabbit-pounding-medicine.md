@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que hay un conejo blanco como el jade en Tsukimi
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-pounding-medicine.png)
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
 
 
 

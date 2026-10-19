@@ -8,7 +8,7 @@ description: "تم تسمية نودلز جينيون المصنوعة يدوي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-refreshing-noodles.png)
+![AstroPaper I18n](/the-legend-of-jinyun-refreshing-noodles.png)
 
 
 

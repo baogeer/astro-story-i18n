@@ -8,7 +8,7 @@ description: "Princess Wencheng was originally a daughter of the Tang dynasty. S
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-the-last-impostor-princess.png)
+![AstroPaper I18n](/princess-wencheng-the-last-impostor-princess.png)
 
 
 

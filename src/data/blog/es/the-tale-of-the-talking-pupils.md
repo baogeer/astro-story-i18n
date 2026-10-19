@@ -8,7 +8,7 @@ description: "El erudito Fang Dong siguió a la mujer debido a su frivolidad, y 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-talking-pupils.png)
+![AstroPaper I18n](/the-tale-of-the-talking-pupils.png)
 
 
 

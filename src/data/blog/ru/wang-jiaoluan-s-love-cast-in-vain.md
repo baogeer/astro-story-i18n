@@ -8,7 +8,7 @@ description: "В годы правления династии Мин, воена
 
 
 
-![AstroPaper I18n](/public/wang-jiaoluan-s-love-cast-in-vain.png)
+![AstroPaper I18n](/wang-jiaoluan-s-love-cast-in-vain.png)
 
 
 

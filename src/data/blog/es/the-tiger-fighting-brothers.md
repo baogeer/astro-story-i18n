@@ -8,7 +8,7 @@ description: "Tres hermanos de la zona montañosa de Minnan. El jefe se fue al O
 
 
 
-![AstroPaper I18n](/public/the-tiger-fighting-brothers.png)
+![AstroPaper I18n](/the-tiger-fighting-brothers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عثر وانغ شياو، وهو حطاب نزيه ومخلص، �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-luofeng-mountain.png)
+![AstroPaper I18n](/the-legend-of-luofeng-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "وُلد Qi Jiguang في جيانغمن، وشكل Qi Jiajun وأ�
 
 
 
-![AstroPaper I18n](/public/qi-jiguang-the-invincible-general-who-crushed-invaders.png)
+![AstroPaper I18n](/qi-jiguang-the-invincible-general-who-crushed-invaders.png)
 
 
 

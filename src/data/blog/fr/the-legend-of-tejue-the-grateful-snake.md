@@ -8,7 +8,7 @@ description: "Dans les temps anciens, Ling Yingpo, un vieil homme solitaire, a s
 
 
 
-![AstroPaper I18n](/public/the-legend-of-tejue-the-grateful-snake.png)
+![AstroPaper I18n](/the-legend-of-tejue-the-grateful-snake.png)
 
 
 

@@ -8,7 +8,7 @@ description: "During the Tianbao years, in order to consolidate her position, Ya
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-story-of-yang-guifei-bathing-an-lushan.png)
 
 
 

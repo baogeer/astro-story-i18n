@@ -8,7 +8,7 @@ description: "Сюй Вэньчан с детства отличался умо�
 
 
 
-![AstroPaper I18n](/public/three-witty-stories-of-xu-wenchang.png)
+![AstroPaper I18n](/three-witty-stories-of-xu-wenchang.png)
 
 
 

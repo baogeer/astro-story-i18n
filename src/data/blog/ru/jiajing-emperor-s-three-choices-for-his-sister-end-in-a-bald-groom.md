@@ -8,7 +8,7 @@ description: "Император Цзяцзин выбрал лошадь для
 
 
 
-![AstroPaper I18n](/public/jiajing-emperor-s-three-choices-for-his-sister-end-in-a-bald-groom.png)
+![AstroPaper I18n](/jiajing-emperor-s-three-choices-for-his-sister-end-in-a-bald-groom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "When Qiang women gathered on early May 5, Goddess Sharon fell from
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-shalang-dance.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-shalang-dance.png)
 
 
 

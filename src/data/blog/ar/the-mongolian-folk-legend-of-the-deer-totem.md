@@ -8,7 +8,7 @@ description: "وفقًا للأساطير المنغولية، تم تبني ش�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-the-deer-totem.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-the-deer-totem.png)
 
 
 

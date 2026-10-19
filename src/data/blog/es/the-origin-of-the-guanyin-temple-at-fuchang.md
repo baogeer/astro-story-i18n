@@ -8,7 +8,7 @@ description: "En la Feria del Templo de Baizhushan, las personas de Yoshimura y 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
 
 
 

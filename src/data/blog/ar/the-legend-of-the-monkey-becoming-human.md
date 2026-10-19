@@ -8,7 +8,7 @@ description: "أمر كانون بوديساتفا قرود المكاك بال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-monkey-becoming-human.png)
+![AstroPaper I18n](/the-legend-of-the-monkey-becoming-human.png)
 
 
 

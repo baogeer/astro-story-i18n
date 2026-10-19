@@ -8,7 +8,7 @@ description: "L'adolescent Jing Heng a vengé le dieu de la peste et a passé di
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-ninth-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-ninth-festival.png)
 
 
 

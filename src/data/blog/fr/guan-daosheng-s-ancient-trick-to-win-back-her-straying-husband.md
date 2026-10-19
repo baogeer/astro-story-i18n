@@ -8,7 +8,7 @@ description: "Face à l'intention de son mari Zhao Mengyi de prendre une concubi
 
 
 
-![AstroPaper I18n](/public/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
+![AstroPaper I18n](/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
 
 
 

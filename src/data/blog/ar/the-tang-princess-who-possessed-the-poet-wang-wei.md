@@ -8,7 +8,7 @@ description: "كانت الأميرة يو تشين من أسرة تانغ قو�
 
 
 
-![AstroPaper I18n](/public/the-tang-princess-who-possessed-the-poet-wang-wei.png)
+![AstroPaper I18n](/the-tang-princess-who-possessed-the-poet-wang-wei.png)
 
 
 

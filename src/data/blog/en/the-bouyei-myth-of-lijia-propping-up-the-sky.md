@@ -8,7 +8,7 @@ description: "In Buyei mythology, ancient heaven and earth were extremely close,
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
+![AstroPaper I18n](/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
 
 
 

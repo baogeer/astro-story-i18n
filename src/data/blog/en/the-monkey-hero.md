@@ -8,7 +8,7 @@ description: "Prince Xu was commissioned to deliver 3,000 yuan of money back to 
 
 
 
-![AstroPaper I18n](/public/the-monkey-hero.png)
+![AstroPaper I18n](/the-monkey-hero.png)
 
 
 

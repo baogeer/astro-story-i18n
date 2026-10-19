@@ -8,7 +8,7 @@ description: "Le roi Swan a protégé le pays et le ministre Miao Rong a été k
 
 
 
-![AstroPaper I18n](/public/the-swan-minister.png)
+![AstroPaper I18n](/the-swan-minister.png)
 
 
 

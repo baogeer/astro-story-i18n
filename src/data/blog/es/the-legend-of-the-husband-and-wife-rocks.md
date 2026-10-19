@@ -8,7 +8,7 @@ description: "Huaxian Mountain Hexiang Xia Fan se enamoró del apicultor Tian Hu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-husband-and-wife-rocks.png)
+![AstroPaper I18n](/the-legend-of-the-husband-and-wife-rocks.png)
 
 
 

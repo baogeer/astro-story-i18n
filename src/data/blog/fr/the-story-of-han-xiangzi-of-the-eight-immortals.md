@@ -8,7 +8,7 @@ description: "Han Xiang Zi est le neveu de Han Yu. Il n'aime pas lire, mais il b
 
 
 
-![AstroPaper I18n](/public/the-story-of-han-xiangzi-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-story-of-han-xiangzi-of-the-eight-immortals.png)
 
 
 

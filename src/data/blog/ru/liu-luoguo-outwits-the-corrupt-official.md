@@ -8,7 +8,7 @@ description: "Лю Юн (Лю Лого) во времена династии Ц�
 
 
 
-![AstroPaper I18n](/public/liu-luoguo-outwits-the-corrupt-official.png)
+![AstroPaper I18n](/liu-luoguo-outwits-the-corrupt-official.png)
 
 
 

@@ -8,7 +8,7 @@ description: "ضحى ليو تشون للعثور على الشمس، التي �
 
 
 
-![AstroPaper I18n](/public/the-first-sunrise-terrace.png)
+![AstroPaper I18n](/the-first-sunrise-terrace.png)
 
 
 

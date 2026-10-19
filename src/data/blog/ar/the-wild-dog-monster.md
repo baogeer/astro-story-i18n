@@ -8,7 +8,7 @@ description: "في التمرد السبعة، اختبأ لي هوالونغ ف
 
 
 
-![AstroPaper I18n](/public/the-wild-dog-monster.png)
+![AstroPaper I18n](/the-wild-dog-monster.png)
 
 
 

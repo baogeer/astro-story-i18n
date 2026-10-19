@@ -8,7 +8,7 @@ description: "After the long-distance driver picked up the silver ring, she was 
 
 
 
-![AstroPaper I18n](/public/the-ghost-girl-s-ride-home.png)
+![AstroPaper I18n](/the-ghost-girl-s-ride-home.png)
 
 
 

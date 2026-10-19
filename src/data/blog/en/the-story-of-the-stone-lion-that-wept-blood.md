@@ -8,7 +8,7 @@ description: "As the king and the monks say, the stone lion's eyes are bloody, a
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-stone-lion-that-wept-blood.png)
+![AstroPaper I18n](/the-story-of-the-stone-lion-that-wept-blood.png)
 
 
 

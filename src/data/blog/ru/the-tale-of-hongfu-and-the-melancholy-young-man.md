@@ -8,7 +8,7 @@ description: "Хунфу — молодая певица по имени Ян С
 
 
 
-![AstroPaper I18n](/public/the-tale-of-hongfu-and-the-melancholy-young-man.png)
+![AstroPaper I18n](/the-tale-of-hongfu-and-the-melancholy-young-man.png)
 
 
 

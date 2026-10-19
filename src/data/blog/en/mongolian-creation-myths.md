@@ -8,7 +8,7 @@ description: "Mongolian mythology says that the world was originally a vast ocea
 
 
 
-![AstroPaper I18n](/public/mongolian-creation-myths.png)
+![AstroPaper I18n](/mongolian-creation-myths.png)
 
 
 

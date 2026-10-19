@@ -8,7 +8,7 @@ description: "Xie Daoyun هو من عائلة مشهورة في عهد أسرة 
 
 
 
-![AstroPaper I18n](/public/xie-daoyun-s-calm-in-crisis.png)
+![AstroPaper I18n](/xie-daoyun-s-calm-in-crisis.png)
 
 
 

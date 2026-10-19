@@ -8,7 +8,7 @@ description: "Gong Yin era valiente cuando era joven. Se quedó en una casa desi
 
 
 
-![AstroPaper I18n](/public/the-fox-s-wedding.png)
+![AstroPaper I18n](/the-fox-s-wedding.png)
 
 
 

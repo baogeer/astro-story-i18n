@@ -8,7 +8,7 @@ description: "Группа карпов в Восточно-Китайском �
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
 
 
 

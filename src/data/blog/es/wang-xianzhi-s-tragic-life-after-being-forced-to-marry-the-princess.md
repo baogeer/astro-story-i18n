@@ -8,7 +8,7 @@ description: "Wang Xianzhi y su esposa, Lu Daomao, son profundamente afectuosos.
 
 
 
-![AstroPaper I18n](/public/wang-xianzhi-s-tragic-life-after-being-forced-to-marry-the-princess.png)
+![AstroPaper I18n](/wang-xianzhi-s-tragic-life-after-being-forced-to-marry-the-princess.png)
 
 
 

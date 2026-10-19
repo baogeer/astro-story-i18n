@@ -8,7 +8,7 @@ description: "Cet article parle de cinq choses cachées dans l'histoire des Troi
 
 
 
-![AstroPaper I18n](/public/the-five-darkest-deeds-in-the-three-kingdoms.png)
+![AstroPaper I18n](/the-five-darkest-deeds-in-the-three-kingdoms.png)
 
 
 

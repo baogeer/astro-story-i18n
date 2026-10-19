@@ -8,7 +8,7 @@ description: "Fung Ping-on a trouvé une tortue géante et, après l'avoir tuée
 
 
 
-![AstroPaper I18n](/public/the-softshell-turtle-treasure.png)
+![AstroPaper I18n](/the-softshell-turtle-treasure.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chen Erren and his wife, Lotus, were originally affectionate. The 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-garden-lake-and-erleng-mountain.png)
+![AstroPaper I18n](/the-legend-of-garden-lake-and-erleng-mountain.png)
 
 
 

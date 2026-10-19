@@ -8,7 +8,7 @@ description: "Le directeur financier Wang Nanyan a dépensé impulsivement 60 00
 
 
 
-![AstroPaper I18n](/public/the-strange-murder-case.png)
+![AstroPaper I18n](/the-strange-murder-case.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Наводнения затопили землю в древние
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-great-flood.png)
+![AstroPaper I18n](/the-miao-legend-of-the-great-flood.png)
 
 
 

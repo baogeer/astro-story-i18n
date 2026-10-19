@@ -8,7 +8,7 @@ description: "Zhang Guolao affirme qu'il est né à Yao, qu'il a vécu dans l'is
 
 
 
-![AstroPaper I18n](/public/zhang-guolao-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhang-guolao-one-of-the-eight-immortals.png)
 
 
 

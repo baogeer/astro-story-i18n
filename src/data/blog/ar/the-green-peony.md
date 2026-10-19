@@ -8,7 +8,7 @@ description: "من أجل العثور على زهور الفاوانيا الخ
 
 
 
-![AstroPaper I18n](/public/the-green-peony.png)
+![AstroPaper I18n](/the-green-peony.png)
 
 
 

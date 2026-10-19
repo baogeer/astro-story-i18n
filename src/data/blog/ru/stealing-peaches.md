@@ -8,7 +8,7 @@ description: "В детстве я смотрела «Яньчунь» в Цзи
 
 
 
-![AstroPaper I18n](/public/stealing-peaches.png)
+![AstroPaper I18n](/stealing-peaches.png)
 
 
 

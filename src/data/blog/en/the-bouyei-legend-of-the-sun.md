@@ -8,7 +8,7 @@ description: "In ancient times, the 12 suns in the sky burned the earth to smoke
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sun.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sun.png)
 
 
 

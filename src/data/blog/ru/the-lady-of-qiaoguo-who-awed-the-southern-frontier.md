@@ -8,7 +8,7 @@ description: "Госпожа Цяо Го происходила из племе�
 
 
 
-![AstroPaper I18n](/public/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
+![AstroPaper I18n](/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
 
 
 

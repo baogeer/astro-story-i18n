@@ -8,7 +8,7 @@ description: "في الأرض القاحلة خارج بوابة تشينغتش�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huajia-pond.png)
+![AstroPaper I18n](/the-legend-of-huajia-pond.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tras la inundación, el hermano y la hermana escaparon en una cala
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-millstone-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-millstone-rock.png)
 
 
 

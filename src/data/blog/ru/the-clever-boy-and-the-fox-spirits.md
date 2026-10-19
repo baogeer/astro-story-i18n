@@ -8,7 +8,7 @@ description: "Чтобы спасти свою мать, которую зако
 
 
 
-![AstroPaper I18n](/public/the-clever-boy-and-the-fox-spirits.png)
+![AstroPaper I18n](/the-clever-boy-and-the-fox-spirits.png)
 
 
 

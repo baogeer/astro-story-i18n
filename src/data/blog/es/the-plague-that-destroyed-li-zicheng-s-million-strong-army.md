@@ -8,7 +8,7 @@ description: "Li Zicheng contrajo la peste tras entrar en Beijing y su eficacia 
 
 
 
-![AstroPaper I18n](/public/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
+![AstroPaper I18n](/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
 
 
 

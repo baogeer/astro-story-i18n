@@ -8,7 +8,7 @@ description: "Lady Lan Xiang collected medicine alone in order to save her illne
 
 
 
-![AstroPaper I18n](/public/the-girl-lanxiang-saves-her-mother-in-law.png)
+![AstroPaper I18n](/the-girl-lanxiang-saves-her-mother-in-law.png)
 
 
 

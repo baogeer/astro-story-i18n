@@ -8,7 +8,7 @@ description: "The three princesses of the cruel Khan River on the Aomulun River 
 
 
 
-![AstroPaper I18n](/public/the-moon-princess.png)
+![AstroPaper I18n](/the-moon-princess.png)
 
 
 

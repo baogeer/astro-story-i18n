@@ -8,7 +8,7 @@ description: "Al final de la dinastía Song del Sur, Cheng Wanli huyó porque en
 
 
 
-![AstroPaper I18n](/public/the-loyalty-and-devotion-of-bai-yuniang.png)
+![AstroPaper I18n](/the-loyalty-and-devotion-of-bai-yuniang.png)
 
 
 

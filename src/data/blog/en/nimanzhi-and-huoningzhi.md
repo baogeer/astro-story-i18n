@@ -8,7 +8,7 @@ description: "Nimanji was abused by her stepmother and was helped by an old cow.
 
 
 
-![AstroPaper I18n](/public/nimanzhi-and-huoningzhi.png)
+![AstroPaper I18n](/nimanzhi-and-huoningzhi.png)
 
 
 

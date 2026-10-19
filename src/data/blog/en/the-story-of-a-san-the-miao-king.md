@@ -8,7 +8,7 @@ description: "Ah San, the third son of an old Miao workman, left home to learn h
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-san-the-miao-king.png)
+![AstroPaper I18n](/the-story-of-a-san-the-miao-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhong Mei se casó con el pobre erudito Chen Yu, crió sola a su f
 
 
 
-![AstroPaper I18n](/public/the-stone-maiden.png)
+![AstroPaper I18n](/the-stone-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In order to get rid of the demon king who steals cows and horses, 
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-evil-exterminating-festival.png)
+![AstroPaper I18n](/the-miao-legend-of-the-evil-exterminating-festival.png)
 
 
 

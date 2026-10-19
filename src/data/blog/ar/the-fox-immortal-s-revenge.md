@@ -8,7 +8,7 @@ description: "لم يؤمن تشيو غونغ بجنية الثعلب. بعد ا
 
 
 
-![AstroPaper I18n](/public/the-fox-immortal-s-revenge.png)
+![AstroPaper I18n](/the-fox-immortal-s-revenge.png)
 
 
 

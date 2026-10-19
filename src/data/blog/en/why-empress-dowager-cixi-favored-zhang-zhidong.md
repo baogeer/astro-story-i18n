@@ -8,7 +8,7 @@ description: "Zhang Zhidong, a teenager, was unable to take the test because his
 
 
 
-![AstroPaper I18n](/public/why-empress-dowager-cixi-favored-zhang-zhidong.png)
+![AstroPaper I18n](/why-empress-dowager-cixi-favored-zhang-zhidong.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تطوع وانغ تشاو جون للزواج من الهون و�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
 
 
 

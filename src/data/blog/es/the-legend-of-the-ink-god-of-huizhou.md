@@ -8,7 +8,7 @@ description: "El padre y el hijo de la familia Moon engañaron a Gu Yu Ting para
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ink-god-of-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-ink-god-of-huizhou.png)
 
 
 

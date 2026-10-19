@@ -8,7 +8,7 @@ description: "The story text is missing, and the summary cannot be generated."
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-cheng.png)
+![AstroPaper I18n](/the-story-of-zhang-cheng.png)
 
 
 

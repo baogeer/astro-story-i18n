@@ -8,7 +8,7 @@ description: "Los trabajadores de larga data son acosados por propietarios adine
 
 
 
-![AstroPaper I18n](/public/the-clever-wife.png)
+![AstroPaper I18n](/the-clever-wife.png)
 
 
 

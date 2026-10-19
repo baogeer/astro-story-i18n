@@ -8,7 +8,7 @@ description: "Wei Gu's marriage proposals in the Tang dynasty failed many times,
 
 
 
-![AstroPaper I18n](/public/wei-gu-s-wife-a-tale-of-predestined-marriage.png)
+![AstroPaper I18n](/wei-gu-s-wife-a-tale-of-predestined-marriage.png)
 
 
 

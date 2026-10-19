@@ -8,7 +8,7 @@ description: "Меч дракона — это оружие, украденно�
 
 
 
-![AstroPaper I18n](/public/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
+![AstroPaper I18n](/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
 
 
 

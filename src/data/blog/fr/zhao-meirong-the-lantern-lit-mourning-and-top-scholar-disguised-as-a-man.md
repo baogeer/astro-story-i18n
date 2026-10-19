@@ -8,7 +8,7 @@ description: "Sous la dynastie Ming, Zhao Mei et Xu ont égalé Sun Jigao. Le p�
 
 
 
-![AstroPaper I18n](/public/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
+![AstroPaper I18n](/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
 
 
 

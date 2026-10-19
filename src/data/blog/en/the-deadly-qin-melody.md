@@ -8,7 +8,7 @@ description: "In the early years of the Republic of China, Chen Yan, an antique 
 
 
 
-![AstroPaper I18n](/public/the-deadly-qin-melody.png)
+![AstroPaper I18n](/the-deadly-qin-melody.png)
 
 
 

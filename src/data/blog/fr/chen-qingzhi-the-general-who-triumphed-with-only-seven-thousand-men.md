@@ -8,7 +8,7 @@ description: "Le général Chen Qingzhi de la dynastie du Sud était mauvais à 
 
 
 
-![AstroPaper I18n](/public/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
+![AstroPaper I18n](/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
 
 
 

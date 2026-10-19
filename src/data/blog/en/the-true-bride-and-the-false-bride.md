@@ -8,7 +8,7 @@ description: "The two families in front of the mountain in front of the mountain
 
 
 
-![AstroPaper I18n](/public/the-true-bride-and-the-false-bride.png)
+![AstroPaper I18n](/the-true-bride-and-the-false-bride.png)
 
 
 

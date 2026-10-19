@@ -8,7 +8,7 @@ description: "Meng Jingui a été reconnu coupable de vol. Il a fui le chantier 
 
 
 
-![AstroPaper I18n](/public/the-unfulfilled-revenge.png)
+![AstroPaper I18n](/the-unfulfilled-revenge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cet article décrit un certain nombre d'anecdotes sur Internetxa0:
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-part-two.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-two.png)
 
 
 

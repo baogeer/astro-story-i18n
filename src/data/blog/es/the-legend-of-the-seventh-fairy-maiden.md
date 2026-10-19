@@ -8,7 +8,7 @@ description: "Las Siete Hadas usaron el chiste de la madre real «Senrikusa, cie
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-seventh-fairy-maiden.png)
 
 
 

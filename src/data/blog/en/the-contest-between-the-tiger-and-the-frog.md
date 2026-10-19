@@ -8,7 +8,7 @@ description: "The frog competed with the tiger in the long jump. It quietly bit 
 
 
 
-![AstroPaper I18n](/public/the-contest-between-the-tiger-and-the-frog.png)
+![AstroPaper I18n](/the-contest-between-the-tiger-and-the-frog.png)
 
 
 

@@ -8,7 +8,7 @@ description: "درس غو هونغ مينغ الصين والغرب. وقد در
 
 
 
-![AstroPaper I18n](/public/the-most-erudite-man-in-modern-china.png)
+![AstroPaper I18n](/the-most-erudite-man-in-modern-china.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Song Jiang est à la tête de la montagne Liangshan et a beaucoup 
 
 
 
-![AstroPaper I18n](/public/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
+![AstroPaper I18n](/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда Ни Вэн читал книгу по ночам, ты
 
 
 
-![AstroPaper I18n](/public/the-story-of-ni-weng-and-the-white-ape.png)
+![AstroPaper I18n](/the-story-of-ni-weng-and-the-white-ape.png)
 
 
 

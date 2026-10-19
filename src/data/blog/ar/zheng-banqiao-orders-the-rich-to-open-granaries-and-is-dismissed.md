@@ -8,7 +8,7 @@ description: "عندما كان Zheng Banqiao في مقاطعة Zhi في شان�
 
 
 
-![AstroPaper I18n](/public/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
+![AstroPaper I18n](/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
 
 
 

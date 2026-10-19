@@ -8,7 +8,7 @@ description: "قام الراهب العجوز من كهف جينشي في جب�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-colt.png)
+![AstroPaper I18n](/the-legend-of-the-golden-colt.png)
 
 
 

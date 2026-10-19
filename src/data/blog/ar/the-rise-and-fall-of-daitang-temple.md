@@ -8,7 +8,7 @@ description: "قام تانغ شوانزونغ من أسرة تانغ ببناء
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-daitang-temple.png)
+![AstroPaper I18n](/the-rise-and-fall-of-daitang-temple.png)
 
 
 

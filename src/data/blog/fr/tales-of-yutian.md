@@ -8,7 +8,7 @@ description: "«xa0L'anecdote de Tamadaxa0» est une histoire populaire collect�
 
 
 
-![AstroPaper I18n](/public/tales-of-yutian.png)
+![AstroPaper I18n](/tales-of-yutian.png)
 
 
 

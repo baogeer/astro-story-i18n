@@ -8,7 +8,7 @@ description: "في عالم مضطرب في نهاية سوي، تم تحصين 
 
 
 
-![AstroPaper I18n](/public/cheng-yaojin-swears-brotherhood-at-chendui.png)
+![AstroPaper I18n](/cheng-yaojin-swears-brotherhood-at-chendui.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zuo Guangdou, un fonctionnaire de la dynastie Ming, a suivi la vol
 
 
 
-![AstroPaper I18n](/public/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
+![AstroPaper I18n](/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
 
 
 

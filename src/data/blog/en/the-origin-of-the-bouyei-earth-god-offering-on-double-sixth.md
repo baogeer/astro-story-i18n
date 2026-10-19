@@ -8,7 +8,7 @@ description: "Aaron, a descendant of the Buyei tribe, fell in love with the Seve
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
 
 
 

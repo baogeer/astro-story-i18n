@@ -8,7 +8,7 @@ description: "Ashima, a girl from the Sani tribe, is beautiful and hardworking, 
 
 
 
-![AstroPaper I18n](/public/the-sani-legend-of-ashima.png)
+![AstroPaper I18n](/the-sani-legend-of-ashima.png)
 
 
 

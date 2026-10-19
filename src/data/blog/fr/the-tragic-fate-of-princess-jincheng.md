@@ -8,7 +8,7 @@ description: "La princesse Jincheng a épousé Tufan en tant qu'empereur. Son fi
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-princess-jincheng.png)
+![AstroPaper I18n](/the-tragic-fate-of-princess-jincheng.png)
 
 
 

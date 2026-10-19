@@ -8,7 +8,7 @@ description: "Фестиваль фонарей, тайваньская деву
 
 
 
-![AstroPaper I18n](/public/the-lantern-festival-tale-of-chair-girl.png)
+![AstroPaper I18n](/the-lantern-festival-tale-of-chair-girl.png)
 
 
 

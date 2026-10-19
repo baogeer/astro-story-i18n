@@ -8,7 +8,7 @@ description: "قامت الأخت تشون بحفظ طيور السنونو لل
 
 
 
-![AstroPaper I18n](/public/the-gourd-boy-and-the-green-faced-monster.png)
+![AstroPaper I18n](/the-gourd-boy-and-the-green-faced-monster.png)
 
 
 

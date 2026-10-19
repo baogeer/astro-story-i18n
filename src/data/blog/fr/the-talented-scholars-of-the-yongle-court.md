@@ -8,7 +8,7 @@ description: "Après l'invasion de Nankin par l'empereur Yongle Zhu Di, sept jeu
 
 
 
-![AstroPaper I18n](/public/the-talented-scholars-of-the-yongle-court.png)
+![AstroPaper I18n](/the-talented-scholars-of-the-yongle-court.png)
 
 
 

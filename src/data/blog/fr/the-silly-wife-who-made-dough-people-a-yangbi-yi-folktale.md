@@ -8,7 +8,7 @@ description: "Il y a une vieille femme dans les montagnes Yi. Son mari la répri
 
 
 
-![AstroPaper I18n](/public/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
 
 
 

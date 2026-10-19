@@ -8,7 +8,7 @@ description: "في العصور القديمة، كان هناك وحش شرس �
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-the-legend-of-the-new-year-s-eve-vigil.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-the-legend-of-the-new-year-s-eve-vigil.png)
 
 
 

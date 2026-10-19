@@ -8,7 +8,7 @@ description: "Cuando Ding Qianxi se protegió de la lluvia, la anfitriona de la 
 
 
 
-![AstroPaper I18n](/public/the-story-of-ding-qianxi.png)
+![AstroPaper I18n](/the-story-of-ding-qianxi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تظاهر اللص بأنه زميل لاقتحام المنزل�
 
 
 
-![AstroPaper I18n](/public/a-dormitory-anecdote.png)
+![AstroPaper I18n](/a-dormitory-anecdote.png)
 
 
 

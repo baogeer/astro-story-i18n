@@ -8,7 +8,7 @@ description: "Tras la entrada de la princesa Wencheng en el Tíbet, hubo armoní
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
+![AstroPaper I18n](/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
 
 
 

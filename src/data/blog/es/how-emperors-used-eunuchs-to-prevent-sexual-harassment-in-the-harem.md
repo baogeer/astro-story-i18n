@@ -8,7 +8,7 @@ description: "Para evitar el acoso sexual en el harén, los antiguos emperadores
 
 
 
-![AstroPaper I18n](/public/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
+![AstroPaper I18n](/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
 
 
 

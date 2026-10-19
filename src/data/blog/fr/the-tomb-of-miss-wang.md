@@ -8,7 +8,7 @@ description: "La tombe de Mlle Wang est la tombe de la princesse aînée de Taiy
 
 
 
-![AstroPaper I18n](/public/the-tomb-of-miss-wang.png)
+![AstroPaper I18n](/the-tomb-of-miss-wang.png)
 
 
 

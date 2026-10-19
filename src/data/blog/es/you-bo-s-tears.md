@@ -8,7 +8,7 @@ description: "Uber subió a la montaña para ver a los dos inmortales jugar uno 
 
 
 
-![AstroPaper I18n](/public/you-bo-s-tears.png)
+![AstroPaper I18n](/you-bo-s-tears.png)
 
 
 

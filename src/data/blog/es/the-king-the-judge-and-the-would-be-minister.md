@@ -8,7 +8,7 @@ description: "El juez fingió que quería ser ministro y trató de ver al rey di
 
 
 
-![AstroPaper I18n](/public/the-king-the-judge-and-the-would-be-minister.png)
+![AstroPaper I18n](/the-king-the-judge-and-the-would-be-minister.png)
 
 
 

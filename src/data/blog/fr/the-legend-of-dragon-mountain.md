@@ -8,7 +8,7 @@ description: "Little Black Dragon a mal agi apr√®s avoir pris en charge la rivi√
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-mountain.png)
+![AstroPaper I18n](/the-legend-of-dragon-mountain.png)
 
 
 

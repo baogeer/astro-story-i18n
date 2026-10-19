@@ -8,7 +8,7 @@ description: "The Yi brothers and sisters relied on wooden troughs to survive th
 
 
 
-![AstroPaper I18n](/public/the-grateful-yi-people-of-yangbi.png)
+![AstroPaper I18n](/the-grateful-yi-people-of-yangbi.png)
 
 
 

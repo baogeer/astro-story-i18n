@@ -8,7 +8,7 @@ description: "Le nouveau comté de Dingzhi a dû faire face à une bagarre avec 
 
 
 
-![AstroPaper I18n](/public/magistrate-ding-judges-the-goose.png)
+![AstroPaper I18n](/magistrate-ding-judges-the-goose.png)
 
 
 

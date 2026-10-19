@@ -8,7 +8,7 @@ description: "بعد هزيمته، استولى الجنرال في جيش تا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhai-mountain.png)
+![AstroPaper I18n](/the-legend-of-zhai-mountain.png)
 
 
 

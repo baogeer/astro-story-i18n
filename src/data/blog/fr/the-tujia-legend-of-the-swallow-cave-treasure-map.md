@@ -8,7 +8,7 @@ description: "En 1938, le Kuomintang a assassiné des personnes après avoir col
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
+![AstroPaper I18n](/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
 
 
 

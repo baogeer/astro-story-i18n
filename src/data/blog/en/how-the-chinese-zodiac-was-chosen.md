@@ -8,7 +8,7 @@ description: "The old scalper was ordered to summon domestic animals to select r
 
 
 
-![AstroPaper I18n](/public/how-the-chinese-zodiac-was-chosen.png)
+![AstroPaper I18n](/how-the-chinese-zodiac-was-chosen.png)
 
 
 

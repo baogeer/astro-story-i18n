@@ -8,7 +8,7 @@ description: "Along the Yangyi River, a Yi teenager, dug up the Pearl of the Nig
 
 
 
-![AstroPaper I18n](/public/the-beach-where-a-mother-waits-for-her-dragon-son.png)
+![AstroPaper I18n](/the-beach-where-a-mother-waits-for-her-dragon-son.png)
 
 
 

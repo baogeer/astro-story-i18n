@@ -8,7 +8,7 @@ description: "Luban's brother and sister took their apprentice to Hangzhou, when
 
 
 
-![AstroPaper I18n](/public/the-stone-censer.png)
+![AstroPaper I18n](/the-stone-censer.png)
 
 
 

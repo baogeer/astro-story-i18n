@@ -8,7 +8,7 @@ description: "El vaquero fue maltratado por su hermano y su hermana, y se encont
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-tale-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

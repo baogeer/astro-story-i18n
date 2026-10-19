@@ -8,7 +8,7 @@ description: "Après le déménagement des ancêtres des aquariums dans la capit
 
 
 
-![AstroPaper I18n](/public/the-origin-of-house-sweeping-before-the-mao-festival.png)
+![AstroPaper I18n](/the-origin-of-house-sweeping-before-the-mao-festival.png)
 
 
 

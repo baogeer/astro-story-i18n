@@ -8,7 +8,7 @@ description: "En las praderas a lo largo del río Brahmaputra, Luo Zhu usó el i
 
 
 
-![AstroPaper I18n](/public/the-clever-little-rabbit-luozhu.png)
+![AstroPaper I18n](/the-clever-little-rabbit-luozhu.png)
 
 
 

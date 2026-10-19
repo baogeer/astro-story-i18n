@@ -8,7 +8,7 @@ description: "In order to save Xu Xian, who was frightened to death, Baek Su-jeo
 
 
 
-![AstroPaper I18n](/public/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
+![AstroPaper I18n](/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
 
 
 

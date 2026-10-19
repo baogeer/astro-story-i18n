@@ -8,7 +8,7 @@ description: "La maestra cosechó una buena cosecha de serpientes en flor. Las s
 
 
 
-![AstroPaper I18n](/public/the-greedy-man-who-was-swallowed-by-a-snake.png)
+![AstroPaper I18n](/the-greedy-man-who-was-swallowed-by-a-snake.png)
 
 
 

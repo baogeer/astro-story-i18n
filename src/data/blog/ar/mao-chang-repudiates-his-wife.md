@@ -8,7 +8,7 @@ description: "قام ماو يي بفرز «شيجينغ» في هيجيان. ك
 
 
 
-![AstroPaper I18n](/public/mao-chang-repudiates-his-wife.png)
+![AstroPaper I18n](/mao-chang-repudiates-his-wife.png)
 
 
 

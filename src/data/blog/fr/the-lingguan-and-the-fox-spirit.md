@@ -8,7 +8,7 @@ description: "M. Chaotian Guan a noué une amitié taoïste avec la Fée Renard.
 
 
 
-![AstroPaper I18n](/public/the-lingguan-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-lingguan-and-the-fox-spirit.png)
 
 
 

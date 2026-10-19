@@ -8,7 +8,7 @@ description: "Le prince Li de Jiahe a rendu visite à ses amis en bateau et a ai
 
 
 
-![AstroPaper I18n](/public/the-old-man-who-took-a-free-boat-ride.png)
+![AstroPaper I18n](/the-old-man-who-took-a-free-boat-ride.png)
 
 
 

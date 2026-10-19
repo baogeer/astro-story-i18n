@@ -8,7 +8,7 @@ description: "كانت ليو بيو المحظية المفضلة لرونان 
 
 
 
-![AstroPaper I18n](/public/the-only-beauty-whose-name-appears-in-classical-poetry-and-idioms.png)
+![AstroPaper I18n](/the-only-beauty-whose-name-appears-in-classical-poetry-and-idioms.png)
 
 
 

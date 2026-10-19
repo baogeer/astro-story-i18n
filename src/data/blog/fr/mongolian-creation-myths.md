@@ -8,7 +8,7 @@ description: "La mythologie mongole dit que le monde était à l'origine un vast
 
 
 
-![AstroPaper I18n](/public/mongolian-creation-myths.png)
+![AstroPaper I18n](/mongolian-creation-myths.png)
 
 
 

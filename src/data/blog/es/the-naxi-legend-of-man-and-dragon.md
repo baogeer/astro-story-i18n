@@ -8,7 +8,7 @@ description: "Según las leyendas naxi, los humanos y los dragones son hermanast
 
 
 
-![AstroPaper I18n](/public/the-naxi-legend-of-man-and-dragon.png)
+![AstroPaper I18n](/the-naxi-legend-of-man-and-dragon.png)
 
 
 

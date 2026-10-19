@@ -8,7 +8,7 @@ description: "Gu Sheng's family is poor, and a chivalrous woman and her deaf mot
 
 
 
-![AstroPaper I18n](/public/the-female-knight-errant.png)
+![AstroPaper I18n](/the-female-knight-errant.png)
 
 
 

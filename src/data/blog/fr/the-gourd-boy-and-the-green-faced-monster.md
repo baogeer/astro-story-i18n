@@ -8,7 +8,7 @@ description: "Sœur Chun a sauvé des hirondelles pour obtenir des graines de co
 
 
 
-![AstroPaper I18n](/public/the-gourd-boy-and-the-green-faced-monster.png)
+![AstroPaper I18n](/the-gourd-boy-and-the-green-faced-monster.png)
 
 
 

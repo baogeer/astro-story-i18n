@@ -8,7 +8,7 @@ description: "في أواخر عهد أسرة تانغ، أصبح Yu Xuanji مش
 
 
 
-![AstroPaper I18n](/public/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
+![AstroPaper I18n](/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
 
 
 

@@ -8,7 +8,7 @@ description: "David se encontró con un anciano rodeado de guardaespaldas mientr
 
 
 
-![AstroPaper I18n](/public/the-strange-running-encounter-with-president-carter.png)
+![AstroPaper I18n](/the-strange-running-encounter-with-president-carter.png)
 
 
 

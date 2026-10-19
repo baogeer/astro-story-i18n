@@ -8,7 +8,7 @@ description: "При очистке древней тропы через Жел�
 
 
 
-![AstroPaper I18n](/public/the-copper-bell-full-of-little-snakes.png)
+![AstroPaper I18n](/the-copper-bell-full-of-little-snakes.png)
 
 
 

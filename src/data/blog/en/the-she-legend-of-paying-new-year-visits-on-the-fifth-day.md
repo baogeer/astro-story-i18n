@@ -8,7 +8,7 @@ description: "The young Shes ethnic group had stomach pain in his second year an
 
 
 
-![AstroPaper I18n](/public/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
+![AstroPaper I18n](/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
 
 
 

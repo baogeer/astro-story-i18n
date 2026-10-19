@@ -8,7 +8,7 @@ description: "Sun Yunfeng, a talented girl from the Qing Dynasty, studied under 
 
 
 
-![AstroPaper I18n](/public/the-talented-sun-yunfeng-and-her-mistaken-marriage-to-a-boorish-husband.png)
+![AstroPaper I18n](/the-talented-sun-yunfeng-and-her-mistaken-marriage-to-a-boorish-husband.png)
 
 
 

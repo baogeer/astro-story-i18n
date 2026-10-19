@@ -8,7 +8,7 @@ description: "نسجت الأم العجوز لعائلة تشوانغ جين ا
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-zhuang-brocade.png)
+![AstroPaper I18n](/the-story-of-the-zhuang-brocade.png)
 
 
 

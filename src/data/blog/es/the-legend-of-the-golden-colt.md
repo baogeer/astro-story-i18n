@@ -8,7 +8,7 @@ description: "El viejo monje de la cueva Jinshi en la montaña Hongshan levantó
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-colt.png)
+![AstroPaper I18n](/the-legend-of-the-golden-colt.png)
 
 
 

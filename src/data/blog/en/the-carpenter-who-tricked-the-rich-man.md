@@ -8,7 +8,7 @@ description: "Carpenter Nima was hired to redo it after smashing his gate in ret
 
 
 
-![AstroPaper I18n](/public/the-carpenter-who-tricked-the-rich-man.png)
+![AstroPaper I18n](/the-carpenter-who-tricked-the-rich-man.png)
 
 
 

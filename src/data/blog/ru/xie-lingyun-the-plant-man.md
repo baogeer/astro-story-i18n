@@ -8,7 +8,7 @@ description: "Поскольку она любит ландшафтные рас
 
 
 
-![AstroPaper I18n](/public/xie-lingyun-the-plant-man.png)
+![AstroPaper I18n](/xie-lingyun-the-plant-man.png)
 
 
 

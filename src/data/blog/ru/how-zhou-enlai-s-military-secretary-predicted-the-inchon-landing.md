@@ -8,7 +8,7 @@ description: "Лэй Инфу — военный секретарь Чжоу Э�
 
 
 
-![AstroPaper I18n](/public/how-zhou-enlai-s-military-secretary-predicted-the-inchon-landing.png)
+![AstroPaper I18n](/how-zhou-enlai-s-military-secretary-predicted-the-inchon-landing.png)
 
 
 

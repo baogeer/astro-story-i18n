@@ -8,7 +8,7 @@ description: "En la antigüedad, la gente no podía cultivar la tierra; tenía h
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-the-hunting-gods.png)
+![AstroPaper I18n](/the-hani-tale-of-the-hunting-gods.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Mme Qiao Guo est issue de la tribu Lingnan. Elle a épousé Gao Li
 
 
 
-![AstroPaper I18n](/public/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
+![AstroPaper I18n](/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
 
 
 

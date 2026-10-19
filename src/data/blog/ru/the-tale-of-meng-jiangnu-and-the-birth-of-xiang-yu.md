@@ -8,7 +8,7 @@ description: "Чтобы защитить кровь Ван Силяна, жен
 
 
 
-![AstroPaper I18n](/public/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
+![AstroPaper I18n](/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
 
 
 

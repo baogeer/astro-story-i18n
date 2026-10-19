@@ -8,7 +8,7 @@ description: "شو، صياد من زيتشوان، غرق في الكحول و�
 
 
 
-![AstroPaper I18n](/public/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
+![AstroPaper I18n](/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
 
 
 

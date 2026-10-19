@@ -8,7 +8,7 @@ description: "Two young dragons frolic in Hongze Lake from the Yellow Sea, leavi
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-paired-dragons.png)
+![AstroPaper I18n](/the-origin-of-the-paired-dragons.png)
 
 
 

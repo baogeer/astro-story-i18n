@@ -8,7 +8,7 @@ description: "Император Хань Юань использовал Ван
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
+![AstroPaper I18n](/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
 
 
 

@@ -8,7 +8,7 @@ description: "После выпаса коровы не нужно было бе
 
 
 
-![AstroPaper I18n](/public/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
+![AstroPaper I18n](/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
 
 
 

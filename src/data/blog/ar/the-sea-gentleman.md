@@ -8,7 +8,7 @@ description: "قام Zhang Sheng بجولة في الجزيرة التاريخي
 
 
 
-![AstroPaper I18n](/public/the-sea-gentleman.png)
+![AstroPaper I18n](/the-sea-gentleman.png)
 
 
 

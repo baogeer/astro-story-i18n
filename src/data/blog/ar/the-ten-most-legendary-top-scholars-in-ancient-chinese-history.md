@@ -8,7 +8,7 @@ description: "القصة الغريبة للفائزين العشرة: أُجب�
 
 
 
-![AstroPaper I18n](/public/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Она героиня Лан Фэнгао возглавила а�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
+![AstroPaper I18n](/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يتصف زاو، المتدرب لدى لبان، بالغطرس�
 
 
 
-![AstroPaper I18n](/public/lu-ban-teaches-his-apprentice-a-lesson.png)
+![AstroPaper I18n](/lu-ban-teaches-his-apprentice-a-lesson.png)
 
 
 

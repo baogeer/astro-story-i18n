@@ -8,7 +8,7 @@ description: "Le mal du Dragon noir a asséché le lac, mais lorsque la fille dr
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-cave.png)
+![AstroPaper I18n](/the-white-dragon-cave.png)
 
 
 

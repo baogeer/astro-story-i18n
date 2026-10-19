@@ -8,7 +8,7 @@ description: "كانت فتاة داي معجبة بشاب في نفس القر�
 
 
 
-![AstroPaper I18n](/public/why-firewood-stopped-walking.png)
+![AstroPaper I18n](/why-firewood-stopped-walking.png)
 
 
 

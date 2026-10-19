@@ -8,7 +8,7 @@ description: "Para resistir a los invasores extranjeros, el rey Yang Guru celebr
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-tujia-custom-of-celebrating-the-new-year-early.png)
+![AstroPaper I18n](/the-origin-of-the-tujia-custom-of-celebrating-the-new-year-early.png)
 
 
 

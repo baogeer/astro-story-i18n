@@ -8,7 +8,7 @@ description: "После понижения Су Дунпо с поста губ
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-anecdotes-in-dingzhou.png)
+![AstroPaper I18n](/su-dongpo-s-anecdotes-in-dingzhou.png)
 
 
 

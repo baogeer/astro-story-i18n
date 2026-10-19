@@ -8,7 +8,7 @@ description: "La famille de Chen Jiazhuang et Chen Yuanwai prétend être des «
 
 
 
-![AstroPaper I18n](/public/the-scholarly-family.png)
+![AstroPaper I18n](/the-scholarly-family.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Директор школы купил красную ткань �
 
 
 
-![AstroPaper I18n](/public/the-red-bed-curtains.png)
+![AstroPaper I18n](/the-red-bed-curtains.png)
 
 
 

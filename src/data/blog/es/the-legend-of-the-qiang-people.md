@@ -8,7 +8,7 @@ description: "Mu Jiezhu, un antepasado de la tribu Qiang, se enamoró de Dou Anz
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-people.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-people.png)
 
 
 

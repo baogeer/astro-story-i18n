@@ -8,7 +8,7 @@ description: "Lan Tianfeng, una joven de la etnia Shes, robó granos para ayudar
 
 
 
-![AstroPaper I18n](/public/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
+![AstroPaper I18n](/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
 
 
 

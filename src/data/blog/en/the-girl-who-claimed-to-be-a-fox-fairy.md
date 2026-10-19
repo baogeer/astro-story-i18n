@@ -8,7 +8,7 @@ description: "The painter Du Feng'e from Sizhou specializes in painting foxes, r
 
 
 
-![AstroPaper I18n](/public/the-girl-who-claimed-to-be-a-fox-fairy.png)
+![AstroPaper I18n](/the-girl-who-claimed-to-be-a-fox-fairy.png)
 
 
 

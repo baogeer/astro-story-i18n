@@ -8,7 +8,7 @@ description: "هناك العديد من الأساطير حول أصل الخط
 
 
 
-![AstroPaper I18n](/public/the-origin-story-of-the-sani-script.png)
+![AstroPaper I18n](/the-origin-story-of-the-sani-script.png)
 
 
 

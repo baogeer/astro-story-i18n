@@ -8,7 +8,7 @@ description: "La princesse Yongtai de Northern Wei est devenue religieuse à Son
 
 
 
-![AstroPaper I18n](/public/yongtai-temple-s-evolution-and-princess-yongtai-s-ordination.png)
+![AstroPaper I18n](/yongtai-temple-s-evolution-and-princess-yongtai-s-ordination.png)
 
 
 

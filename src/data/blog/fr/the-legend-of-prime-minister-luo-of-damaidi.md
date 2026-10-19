@@ -8,7 +8,7 @@ description: "Le Premier ministre Luo a fait tout son possible, mais il a été 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prime-minister-luo-of-damaidi.png)
+![AstroPaper I18n](/the-legend-of-prime-minister-luo-of-damaidi.png)
 
 
 

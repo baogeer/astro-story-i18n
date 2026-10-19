@@ -8,7 +8,7 @@ description: "Двенадцать древних солнц выжгли зем
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-fuxi-and-his-sister.png)
+![AstroPaper I18n](/the-bouyei-myth-of-fuxi-and-his-sister.png)
 
 
 

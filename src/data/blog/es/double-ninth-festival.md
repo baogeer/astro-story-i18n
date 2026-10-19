@@ -8,7 +8,7 @@ description: "El 9 de septiembre del calendario lunar es el Festival de Chung Ye
 
 
 
-![AstroPaper I18n](/public/double-ninth-festival.png)
+![AstroPaper I18n](/double-ninth-festival.png)
 
 
 

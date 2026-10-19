@@ -8,7 +8,7 @@ description: "زار تشو جورين المعبد في مينجلونجتان 
 
 
 
-![AstroPaper I18n](/public/the-painted-wall.png)
+![AstroPaper I18n](/the-painted-wall.png)
 
 
 

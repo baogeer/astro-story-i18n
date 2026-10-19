@@ -8,7 +8,7 @@ description: "Принц округа Цзюсянь познакомился с
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yingning.png)
+![AstroPaper I18n](/the-tale-of-yingning.png)
 
 
 

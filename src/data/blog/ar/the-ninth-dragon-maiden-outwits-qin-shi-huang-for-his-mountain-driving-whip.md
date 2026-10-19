@@ -8,7 +8,7 @@ description: "استخدم تشين شي هوانغ سوطًا جبليًا لد
 
 
 
-![AstroPaper I18n](/public/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
+![AstroPaper I18n](/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
 
 
 

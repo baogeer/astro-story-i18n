@@ -8,7 +8,7 @@ description: "Mi prometida, Ah Niu, salió a trabajar y murió en un accidente d
 
 
 
-![AstroPaper I18n](/public/the-muntjac-husband-a-yi-folktale.png)
+![AstroPaper I18n](/the-muntjac-husband-a-yi-folktale.png)
 
 
 

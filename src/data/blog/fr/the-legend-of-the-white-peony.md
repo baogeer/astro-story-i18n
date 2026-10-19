@@ -8,7 +8,7 @@ description: "Xiao Zhenzi de Luoyang sous la dynastie Tang et son partenaire Wan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony.png)
 
 
 

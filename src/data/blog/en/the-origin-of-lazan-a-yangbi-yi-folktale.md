@@ -8,7 +8,7 @@ description: "In the folk tales of the Yangyi Yi tribe, “” means “the son 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-lazan-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-origin-of-lazan-a-yangbi-yi-folktale.png)
 
 
 

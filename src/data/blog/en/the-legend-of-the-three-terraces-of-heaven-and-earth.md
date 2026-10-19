@@ -8,7 +8,7 @@ description: "The nephew of the Su family of the Yi ethnic group took good care 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhu'e se vio obligada a saltar a un río y llevar un arcoíris par
 
 
 
-![AstroPaper I18n](/public/the-bouyei-tale-of-yangang-and-zhue.png)
+![AstroPaper I18n](/the-bouyei-tale-of-yangang-and-zhue.png)
 
 
 

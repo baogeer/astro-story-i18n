@@ -8,7 +8,7 @@ description: "Ma Yuan, célèbre général des Han de l'Est, a écrit une lettre
 
 
 
-![AstroPaper I18n](/public/ma-yuan-s-admonition-to-his-nephews.png)
+![AstroPaper I18n](/ma-yuan-s-admonition-to-his-nephews.png)
 
 
 

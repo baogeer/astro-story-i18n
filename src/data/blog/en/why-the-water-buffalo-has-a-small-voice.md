@@ -8,7 +8,7 @@ description: "The water buffalo originally sounded shocking. It was feared that 
 
 
 
-![AstroPaper I18n](/public/why-the-water-buffalo-has-a-small-voice.png)
+![AstroPaper I18n](/why-the-water-buffalo-has-a-small-voice.png)
 
 
 

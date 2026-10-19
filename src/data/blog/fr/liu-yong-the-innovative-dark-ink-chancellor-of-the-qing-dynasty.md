@@ -8,7 +8,7 @@ description: "Liu Yong, calligraphe de la dynastie Qing, est surnommé le «xa0P
 
 
 
-![AstroPaper I18n](/public/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
+![AstroPaper I18n](/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
 
 
 

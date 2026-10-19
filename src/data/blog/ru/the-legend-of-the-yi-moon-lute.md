@@ -8,7 +8,7 @@ description: "Чтобы найти Чжишуя, сирота Йи спасла
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-moon-lute.png)
+![AstroPaper I18n](/the-legend-of-the-yi-moon-lute.png)
 
 
 

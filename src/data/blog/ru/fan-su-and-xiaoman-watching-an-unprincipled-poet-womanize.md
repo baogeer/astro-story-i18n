@@ -8,7 +8,7 @@ description: "Поэт династии Тан Бай Цзюи воспитал 
 
 
 
-![AstroPaper I18n](/public/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
+![AstroPaper I18n](/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
 
 
 

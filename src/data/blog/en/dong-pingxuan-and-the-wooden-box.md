@@ -8,7 +8,7 @@ description: "A wooden box dug up under an acacia tree in his hometown, Dong Pin
 
 
 
-![AstroPaper I18n](/public/dong-pingxuan-and-the-wooden-box.png)
+![AstroPaper I18n](/dong-pingxuan-and-the-wooden-box.png)
 
 
 

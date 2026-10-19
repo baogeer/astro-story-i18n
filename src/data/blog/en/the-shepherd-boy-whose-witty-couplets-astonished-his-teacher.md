@@ -8,7 +8,7 @@ description: "Zhu Xiao, a shepherd boy, hid outside the academy to eavesdrop, ca
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-whose-witty-couplets-astonished-his-teacher.png)
+![AstroPaper I18n](/the-shepherd-boy-whose-witty-couplets-astonished-his-teacher.png)
 
 
 

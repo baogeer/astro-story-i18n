@@ -8,7 +8,7 @@ description: "После увольнения Лао Гэн познакомил
 
 
 
-![AstroPaper I18n](/public/a-hole-in-the-iou.png)
+![AstroPaper I18n](/a-hole-in-the-iou.png)
 
 
 

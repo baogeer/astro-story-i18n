@@ -8,7 +8,7 @@ description: "Les quatre principaux contes populaires chinois sont Le vacher et 
 
 
 
-![AstroPaper I18n](/public/the-four-great-chinese-folktales-for-children.png)
+![AstroPaper I18n](/the-four-great-chinese-folktales-for-children.png)
 
 
 

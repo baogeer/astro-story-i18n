@@ -8,7 +8,7 @@ description: "«New Liaozhai (3)» reúne cinco historias extrañas de Internet:
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-age-part-three.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-age-part-three.png)
 
 
 

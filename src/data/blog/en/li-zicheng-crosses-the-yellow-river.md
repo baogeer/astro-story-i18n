@@ -8,7 +8,7 @@ description: "The story text is missing, and the summary cannot be generated."
 
 
 
-![AstroPaper I18n](/public/li-zicheng-crosses-the-yellow-river.png)
+![AstroPaper I18n](/li-zicheng-crosses-the-yellow-river.png)
 
 
 

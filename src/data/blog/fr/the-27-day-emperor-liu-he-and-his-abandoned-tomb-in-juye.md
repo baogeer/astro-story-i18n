@@ -8,7 +8,7 @@ description: "Liu He, originaire des Han occidentaux, a été aboli 27 jours seu
 
 
 
-![AstroPaper I18n](/public/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
+![AstroPaper I18n](/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Голландский пилот Фик прыгнул с пар�
 
 
 
-![AstroPaper I18n](/public/the-dolphins-who-saved-a-pilot.png)
+![AstroPaper I18n](/the-dolphins-who-saved-a-pilot.png)
 
 
 

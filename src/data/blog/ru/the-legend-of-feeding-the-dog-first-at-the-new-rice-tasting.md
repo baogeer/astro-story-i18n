@@ -8,7 +8,7 @@ description: "Согласно легенде народа И, в древние
 
 
 
-![AstroPaper I18n](/public/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
 
 
 

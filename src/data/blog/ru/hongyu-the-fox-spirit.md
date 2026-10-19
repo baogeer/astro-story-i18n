@@ -8,7 +8,7 @@ description: "Фэн Шэн провел частную встречу с дев
 
 
 
-![AstroPaper I18n](/public/hongyu-the-fox-spirit.png)
+![AstroPaper I18n](/hongyu-the-fox-spirit.png)
 
 
 

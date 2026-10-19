@@ -8,7 +8,7 @@ description: "Fari is hardworking and kind. After saving a white snake, she was 
 
 
 
-![AstroPaper I18n](/public/zhamuli-the-rose-maiden.png)
+![AstroPaper I18n](/zhamuli-the-rose-maiden.png)
 
 
 

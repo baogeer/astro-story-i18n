@@ -8,7 +8,7 @@ description: "Сюкай Юэ Чэн купил мертвый цветок вл
 
 
 
-![AstroPaper I18n](/public/the-lovelorn-flower-spirit.png)
+![AstroPaper I18n](/the-lovelorn-flower-spirit.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Agutomba disguised himself as a director and mixed in with Grandpa
 
 
 
-![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+![AstroPaper I18n](/akhu-tonpa-and-the-wedding-night.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A couple wanted to abandon their children and let them use gourds 
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
+![AstroPaper I18n](/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
 
 
 

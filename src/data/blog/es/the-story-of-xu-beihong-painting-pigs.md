@@ -8,7 +8,7 @@ description: "Xu Beihong rompió la vieja tradición de «Los cerdos no se pinta
 
 
 
-![AstroPaper I18n](/public/the-story-of-xu-beihong-painting-pigs.png)
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يتم إنتاج خنزير بورونج في جيانغشي. و�
 
 
 
-![AstroPaper I18n](/public/the-porpoise-dragon.png)
+![AstroPaper I18n](/the-porpoise-dragon.png)
 
 
 

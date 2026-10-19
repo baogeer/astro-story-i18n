@@ -8,7 +8,7 @@ description: "Цяньтан Цзян Цаолун спас людей и хот
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jade-spring.png)
+![AstroPaper I18n](/the-legend-of-jade-spring.png)
 
 
 

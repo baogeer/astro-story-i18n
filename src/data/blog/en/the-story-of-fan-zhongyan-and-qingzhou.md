@@ -8,7 +8,7 @@ description: "In his later years, Fan Zhongyuan was in charge of Qingzhou for on
 
 
 
-![AstroPaper I18n](/public/the-story-of-fan-zhongyan-and-qingzhou.png)
+![AstroPaper I18n](/the-story-of-fan-zhongyan-and-qingzhou.png)
 
 
 

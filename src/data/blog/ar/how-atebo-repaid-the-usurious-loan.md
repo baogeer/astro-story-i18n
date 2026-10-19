@@ -8,7 +8,7 @@ description: "أراد المسؤولون الأتراك استخدام «الح
 
 
 
-![AstroPaper I18n](/public/how-atebo-repaid-the-usurious-loan.png)
+![AstroPaper I18n](/how-atebo-repaid-the-usurious-loan.png)
 
 
 

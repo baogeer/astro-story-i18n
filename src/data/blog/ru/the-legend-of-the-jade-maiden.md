@@ -8,7 +8,7 @@ description: "Старый каменщик нашел ланолиновый н
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-jade-maiden.png)
 
 
 

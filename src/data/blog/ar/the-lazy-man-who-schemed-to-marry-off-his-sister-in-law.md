@@ -8,7 +8,7 @@ description: "بعد خسارة ممتلكات العائلة، تآمر الر�
 
 
 
-![AstroPaper I18n](/public/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
+![AstroPaper I18n](/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
 
 
 

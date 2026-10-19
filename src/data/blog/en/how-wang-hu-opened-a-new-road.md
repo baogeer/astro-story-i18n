@@ -8,7 +8,7 @@ description: "In order to break the impasse at Longhua Temple where it is prohib
 
 
 
-![AstroPaper I18n](/public/how-wang-hu-opened-a-new-road.png)
+![AstroPaper I18n](/how-wang-hu-opened-a-new-road.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن فطائر جينيون نشأت ع
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jinyun-flatbread.png)
+![AstroPaper I18n](/the-legend-of-the-jinyun-flatbread.png)
 
 
 

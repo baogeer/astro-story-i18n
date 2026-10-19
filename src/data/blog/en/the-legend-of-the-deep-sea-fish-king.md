@@ -8,7 +8,7 @@ description: "At the end of the Ming dynasty, fisherman Li Bukong mistakenly kil
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-deep-sea-fish-king.png)
+![AstroPaper I18n](/the-legend-of-the-deep-sea-fish-king.png)
 
 
 

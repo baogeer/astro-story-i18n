@@ -8,7 +8,7 @@ description: "Chai Lang recibió instrucciones de salvar al hada y usó una olla
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-a-yi-folktale.png)
+![AstroPaper I18n](/the-dragon-maiden-a-yi-folktale.png)
 
 
 

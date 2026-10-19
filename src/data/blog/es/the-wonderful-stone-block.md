@@ -8,7 +8,7 @@ description: "Cuando se construyó el puente Nishikura en la dinastía Ming, al 
 
 
 
-![AstroPaper I18n](/public/the-wonderful-stone-block.png)
+![AstroPaper I18n](/the-wonderful-stone-block.png)
 
 
 

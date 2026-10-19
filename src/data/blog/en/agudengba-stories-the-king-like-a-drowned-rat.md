@@ -8,7 +8,7 @@ description: "Agutomba used a clever plan to take revenge on the selfish king: h
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-king-like-a-drowned-rat.png)
+![AstroPaper I18n](/agudengba-stories-the-king-like-a-drowned-rat.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Les eaux de marée de la rivière Qiantang ont détruit à plusieu
 
 
 
-![AstroPaper I18n](/public/king-qian-shoots-the-tidal-bore.png)
+![AstroPaper I18n](/king-qian-shoots-the-tidal-bore.png)
 
 
 

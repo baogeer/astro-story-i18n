@@ -8,7 +8,7 @@ description: "Бедная старушка с запада лечила ран�
 
 
 
-![AstroPaper I18n](/public/the-swallow-s-gratitude.png)
+![AstroPaper I18n](/the-swallow-s-gratitude.png)
 
 
 

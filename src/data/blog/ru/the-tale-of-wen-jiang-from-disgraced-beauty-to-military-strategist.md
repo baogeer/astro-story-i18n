@@ -8,7 +8,7 @@ description: "Ци Вэньцзян — принцесса Чуньцю. Она 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-wen-jiang-from-disgraced-beauty-to-military-strategist.png)
+![AstroPaper I18n](/the-tale-of-wen-jiang-from-disgraced-beauty-to-military-strategist.png)
 
 
 

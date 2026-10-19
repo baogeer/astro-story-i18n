@@ -8,7 +8,7 @@ description: "Lu Molin was designed and invited by the guerrillas to treat his u
 
 
 
-![AstroPaper I18n](/public/dripping-blood-to-save-an-enemy.png)
+![AstroPaper I18n](/dripping-blood-to-save-an-enemy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Legend has it that in ancient times, there was a giant bird that a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-yangtze-river.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-yangtze-river.png)
 
 
 

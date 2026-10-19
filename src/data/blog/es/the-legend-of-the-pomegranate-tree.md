@@ -8,7 +8,7 @@ description: "La historia se centra en el granado y tiene como objetivo contar s
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pomegranate-tree.png)
+![AstroPaper I18n](/the-legend-of-the-pomegranate-tree.png)
 
 
 

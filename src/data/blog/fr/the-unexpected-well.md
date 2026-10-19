@@ -8,7 +8,7 @@ description: "Zhou Sheng, un ancien collectionneur de drogue, est gentil et aide
 
 
 
-![AstroPaper I18n](/public/the-unexpected-well.png)
+![AstroPaper I18n](/the-unexpected-well.png)
 
 
 

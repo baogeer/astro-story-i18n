@@ -8,7 +8,7 @@ description: "تم السخرية من الصياد توفو لكسر الشبك
 
 
 
-![AstroPaper I18n](/public/the-fish-maiden.png)
+![AstroPaper I18n](/the-fish-maiden.png)
 
 
 

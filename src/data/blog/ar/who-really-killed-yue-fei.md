@@ -8,7 +8,7 @@ description: "تساءل الباحث التايواني نان هوايجين �
 
 
 
-![AstroPaper I18n](/public/who-really-killed-yue-fei.png)
+![AstroPaper I18n](/who-really-killed-yue-fei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Shih Tzu encarna la belleza del «pez que se hunde», pero este ar
 
 
 
-![AstroPaper I18n](/public/xi-shi-china-s-greatest-beauty.png)
+![AstroPaper I18n](/xi-shi-china-s-greatest-beauty.png)
 
 
 

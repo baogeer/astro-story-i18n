@@ -8,7 +8,7 @@ description: "Una niña llamada Ran Zi fue embrujada por un hermoso hombre hecho
 
 
 
-![AstroPaper I18n](/public/the-lustful-centipede-spirit.png)
+![AstroPaper I18n](/the-lustful-centipede-spirit.png)
 
 
 

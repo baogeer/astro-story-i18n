@@ -8,7 +8,7 @@ description: "Zhu Yuanzhang did not establish Zhu Di as Prince because his birth
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-zhu-di-s-birth.png)
+![AstroPaper I18n](/the-mystery-of-zhu-di-s-birth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La princesse Yongtai est la fille de Tang Zhongzong et la petite-f
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-princess-yongtai-s-death.png)
+![AstroPaper I18n](/the-mystery-of-princess-yongtai-s-death.png)
 
 
 

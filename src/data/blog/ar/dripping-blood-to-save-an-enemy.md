@@ -8,7 +8,7 @@ description: "تم تصميم لو مولين ودعوته من قبل رجال 
 
 
 
-![AstroPaper I18n](/public/dripping-blood-to-save-an-enemy.png)
+![AstroPaper I18n](/dripping-blood-to-save-an-enemy.png)
 
 
 

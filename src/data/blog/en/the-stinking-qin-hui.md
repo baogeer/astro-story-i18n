@@ -8,7 +8,7 @@ description: "Futai in Hangzhou in the Ming dynasty was a descendant of Qin Hui.
 
 
 
-![AstroPaper I18n](/public/the-stinking-qin-hui.png)
+![AstroPaper I18n](/the-stinking-qin-hui.png)
 
 
 

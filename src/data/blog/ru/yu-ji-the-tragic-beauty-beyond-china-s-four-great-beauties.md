@@ -8,7 +8,7 @@ description: "Ю Цзи — это Ай Цзи в исполнении Сян Ю
 
 
 
-![AstroPaper I18n](/public/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
+![AstroPaper I18n](/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
 
 
 

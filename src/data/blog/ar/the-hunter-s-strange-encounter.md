@@ -8,7 +8,7 @@ description: "زار هانتر فانغ كونكون كهف لاوشي ليلا
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-strange-encounter.png)
+![AstroPaper I18n](/the-hunter-s-strange-encounter.png)
 
 
 

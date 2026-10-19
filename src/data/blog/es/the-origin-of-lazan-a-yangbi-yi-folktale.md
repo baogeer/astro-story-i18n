@@ -8,7 +8,7 @@ description: "En los cuentos populares de la tribu Yangyi, «» significa «el h
 
 
 
-![AstroPaper I18n](/public/the-origin-of-lazan-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-origin-of-lazan-a-yangbi-yi-folktale.png)
 
 
 

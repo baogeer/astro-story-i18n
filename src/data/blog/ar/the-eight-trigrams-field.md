@@ -8,7 +8,7 @@ description: "بعد أن فر إمبراطور سونغ الجنوبية إلى
 
 
 
-![AstroPaper I18n](/public/the-eight-trigrams-field.png)
+![AstroPaper I18n](/the-eight-trigrams-field.png)
 
 
 

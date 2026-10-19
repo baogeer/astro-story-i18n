@@ -8,7 +8,7 @@ description: "Шива поймал золотую улитку во время 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-snail-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-snail-maiden.png)
 
 
 

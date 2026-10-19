@@ -8,7 +8,7 @@ description: "تم التعاقد مع كاربنتر نيما لإعادة بن
 
 
 
-![AstroPaper I18n](/public/the-carpenter-who-tricked-the-rich-man.png)
+![AstroPaper I18n](/the-carpenter-who-tricked-the-rich-man.png)
 
 
 

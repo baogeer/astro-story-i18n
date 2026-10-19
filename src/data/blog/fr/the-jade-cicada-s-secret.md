@@ -8,7 +8,7 @@ description: "Yang Ping est un expert en évaluation d'antiquités. Son ex-femme
 
 
 
-![AstroPaper I18n](/public/the-jade-cicada-s-secret.png)
+![AstroPaper I18n](/the-jade-cicada-s-secret.png)
 
 
 

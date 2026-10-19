@@ -8,7 +8,7 @@ description: "La rivière Shijihe à Laiyang est également connue sous les noms
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xian-river-the-virtuous-river.png)
+![AstroPaper I18n](/the-legend-of-xian-river-the-virtuous-river.png)
 
 
 

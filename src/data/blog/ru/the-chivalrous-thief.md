@@ -8,7 +8,7 @@ description: "Сан Юньшэн — вор из Баодина. Он огра�
 
 
 
-![AstroPaper I18n](/public/the-chivalrous-thief.png)
+![AstroPaper I18n](/the-chivalrous-thief.png)
 
 
 

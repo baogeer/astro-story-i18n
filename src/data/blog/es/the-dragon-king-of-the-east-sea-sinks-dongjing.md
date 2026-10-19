@@ -8,7 +8,7 @@ description: "El rey dragón Aoguang del Mar de China Oriental expandió su terr
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
+![AstroPaper I18n](/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
 
 
 

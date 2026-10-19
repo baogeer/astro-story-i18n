@@ -8,7 +8,7 @@ description: "Feng Xiaoqing era originalmente hija de la familia Guangling. Fue 
 
 
 
-![AstroPaper I18n](/public/feng-xiaoqing-the-narcissist-who-went-to-heaven.png)
+![AstroPaper I18n](/feng-xiaoqing-the-narcissist-who-went-to-heaven.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В народной сказке Янъи И «Чжан Плотн
 
 
 
-![AstroPaper I18n](/public/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
+![AstroPaper I18n](/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
 
 
 

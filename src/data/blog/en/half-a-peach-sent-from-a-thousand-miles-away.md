@@ -8,7 +8,7 @@ description: "Ding's sister-in-law is virtuous. She planted peach trees with her
 
 
 
-![AstroPaper I18n](/public/half-a-peach-sent-from-a-thousand-miles-away.png)
+![AstroPaper I18n](/half-a-peach-sent-from-a-thousand-miles-away.png)
 
 
 

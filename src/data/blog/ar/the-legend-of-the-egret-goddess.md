@@ -8,7 +8,7 @@ description: "انجذبت الإلهة شيراساجي إلى صوت بيان�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-egret-goddess.png)
 
 
 

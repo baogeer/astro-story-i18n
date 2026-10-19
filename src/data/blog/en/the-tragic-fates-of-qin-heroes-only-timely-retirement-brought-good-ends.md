@@ -8,7 +8,7 @@ description: "Wang Jian achieved great success for Qin's unification. After defe
 
 
 
-![AstroPaper I18n](/public/the-tragic-fates-of-qin-heroes-only-timely-retirement-brought-good-ends.png)
+![AstroPaper I18n](/the-tragic-fates-of-qin-heroes-only-timely-retirement-brought-good-ends.png)
 
 
 

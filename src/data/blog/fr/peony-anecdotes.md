@@ -8,7 +8,7 @@ description: "Les anecdotes sur les pivoines rassemblent de nombreuses allusions
 
 
 
-![AstroPaper I18n](/public/peony-anecdotes.png)
+![AstroPaper I18n](/peony-anecdotes.png)
 
 
 

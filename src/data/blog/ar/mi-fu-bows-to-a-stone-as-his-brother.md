@@ -8,7 +8,7 @@ description: "يتصرف Miyu بغرابة. يرتدي زيًا صينيًا، �
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-a-stone-as-his-brother.png)
+![AstroPaper I18n](/mi-fu-bows-to-a-stone-as-his-brother.png)
 
 
 

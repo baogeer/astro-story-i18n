@@ -8,7 +8,7 @@ description: "Брат и сестра Любана отвезли своего 
 
 
 
-![AstroPaper I18n](/public/the-stone-censer.png)
+![AstroPaper I18n](/the-stone-censer.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A woman was washing clothes by the river. Three large bamboo tubes
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
 
 
 

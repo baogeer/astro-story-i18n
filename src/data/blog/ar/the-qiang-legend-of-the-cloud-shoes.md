@@ -8,7 +8,7 @@ description: "تقع جنية الكارب في حب صبي الراعي حاف�
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-cloud-shoes.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-cloud-shoes.png)
 
 
 

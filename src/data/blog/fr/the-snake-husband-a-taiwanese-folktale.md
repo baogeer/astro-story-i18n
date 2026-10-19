@@ -8,7 +8,7 @@ description: "La troisième sœur a vécu une vie riche après avoir épousé Sn
 
 
 
-![AstroPaper I18n](/public/the-snake-husband-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-snake-husband-a-taiwanese-folktale.png)
 
 
 

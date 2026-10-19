@@ -8,7 +8,7 @@ description: "Zhang Guolao rode a donkey road when he met a fortune teller black
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
+![AstroPaper I18n](/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
 
 
 

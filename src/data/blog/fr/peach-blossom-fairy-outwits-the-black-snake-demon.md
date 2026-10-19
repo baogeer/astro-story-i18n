@@ -8,7 +8,7 @@ description: "La fée Peach a été empêtrée par le Black Snake Master et sauv
 
 
 
-![AstroPaper I18n](/public/peach-blossom-fairy-outwits-the-black-snake-demon.png)
+![AstroPaper I18n](/peach-blossom-fairy-outwits-the-black-snake-demon.png)
 
 
 

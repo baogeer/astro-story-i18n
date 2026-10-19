@@ -8,7 +8,7 @@ description: "Born from a well, Yang Asha is beautiful and smart, and was tricke
 
 
 
-![AstroPaper I18n](/public/the-legend-of-yang-asha-the-miao-maiden.png)
+![AstroPaper I18n](/the-legend-of-yang-asha-the-miao-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Вождь племени Калькахадер был ранен
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-swan-who-saved-the-hero.png)
+![AstroPaper I18n](/the-legend-of-the-white-swan-who-saved-the-hero.png)
 
 
 

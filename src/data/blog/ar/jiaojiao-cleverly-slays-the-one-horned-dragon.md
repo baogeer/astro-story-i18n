@@ -8,7 +8,7 @@ description: "تحول الأمير تشي من وحيد القرن في بحر 
 
 
 
-![AstroPaper I18n](/public/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
+![AstroPaper I18n](/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
 
 
 

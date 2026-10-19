@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة هان الشرقية، كان د�
 
 
 
-![AstroPaper I18n](/public/diaochan-the-beauty-who-eclipsed-the-moon.png)
+![AstroPaper I18n](/diaochan-the-beauty-who-eclipsed-the-moon.png)
 
 
 

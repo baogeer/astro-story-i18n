@@ -8,7 +8,7 @@ description: "Люди в Наньчжао были заколдованы пр�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nuwa-s-descendants.png)
+![AstroPaper I18n](/the-legend-of-nuwa-s-descendants.png)
 
 
 

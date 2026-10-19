@@ -8,7 +8,7 @@ description: "أخرج تاجر أبقار البقرة من المعبد وتن
 
 
 
-![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
 
 
 

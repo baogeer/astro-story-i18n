@@ -8,7 +8,7 @@ description: "На мосту из натурального камня в вос
 
 
 
-![AstroPaper I18n](/public/the-immortal-bridge.png)
+![AstroPaper I18n](/the-immortal-bridge.png)
 
 
 

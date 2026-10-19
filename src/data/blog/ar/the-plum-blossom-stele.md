@@ -8,7 +8,7 @@ description: "عثر الباني القديم على حجر غريب يعكس �
 
 
 
-![AstroPaper I18n](/public/the-plum-blossom-stele.png)
+![AstroPaper I18n](/the-plum-blossom-stele.png)
 
 
 

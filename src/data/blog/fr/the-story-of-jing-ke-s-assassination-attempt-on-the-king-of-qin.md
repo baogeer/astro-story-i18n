@@ -8,7 +8,7 @@ description: "À la fin de la période des Royaumes combattants, le prince Yan Z
 
 
 
-![AstroPaper I18n](/public/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
+![AstroPaper I18n](/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le neveu de la famille Su de l'ethnie Yi s'est bien occupé du Hun
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
 
 
 

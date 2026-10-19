@@ -8,7 +8,7 @@ description: "خلال فترة الممالك المتحاربة، اكتشف X
 
 
 
-![AstroPaper I18n](/public/ximen-bao-governs-ye.png)
+![AstroPaper I18n](/ximen-bao-governs-ye.png)
 
 
 

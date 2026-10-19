@@ -8,7 +8,7 @@ description: "Selon les légendes maonanes, les enfants gravissent la montagne p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-monkey-drum-dance.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Liu Bei a été expulsée de Xiao Pei par Lu Bu, a été privée d
 
 
 
-![AstroPaper I18n](/public/three-kingdoms-most-horrifying-hospitality-liu-an-s-wife-fed-to-liu-bei.png)
+![AstroPaper I18n](/three-kingdoms-most-horrifying-hospitality-liu-an-s-wife-fed-to-liu-bei.png)
 
 
 

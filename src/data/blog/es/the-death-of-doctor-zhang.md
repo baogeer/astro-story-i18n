@@ -8,7 +8,7 @@ description: "El Dr. Zhang, un antiguo practicante de medicina tradicional china
 
 
 
-![AstroPaper I18n](/public/the-death-of-doctor-zhang.png)
+![AstroPaper I18n](/the-death-of-doctor-zhang.png)
 
 
 

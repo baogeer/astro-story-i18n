@@ -8,7 +8,7 @@ description: "Una dragona hembra y cuatro dragones viven en la cueva de Wulong, 
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-five-dragon-cave.png)
+![AstroPaper I18n](/the-tujia-legend-of-five-dragon-cave.png)
 
 
 

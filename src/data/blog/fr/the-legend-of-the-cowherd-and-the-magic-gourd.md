@@ -8,7 +8,7 @@ description: "L'éleveur de vaches et le style et Yu Shun recherchent Mlle Zhang
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-magic-gourd.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-magic-gourd.png)
 
 
 

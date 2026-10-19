@@ -8,7 +8,7 @@ description: "La hija de la tribu kazaja Bayi se enamora del pobre pastor Baiken
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maiden-s-tomb.png)
+![AstroPaper I18n](/the-origin-of-the-maiden-s-tomb.png)
 
 
 

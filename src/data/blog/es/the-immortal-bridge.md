@@ -8,7 +8,7 @@ description: "En un puente de piedra natural en las estribaciones orientales de 
 
 
 
-![AstroPaper I18n](/public/the-immortal-bridge.png)
+![AstroPaper I18n](/the-immortal-bridge.png)
 
 
 

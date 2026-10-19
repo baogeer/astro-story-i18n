@@ -8,7 +8,7 @@ description: "فارق السن بين يانغ جويفي ولي باي هو 18
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-li-bai-and-emperor-xuanzong-s-love-triangle.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-li-bai-and-emperor-xuanzong-s-love-triangle.png)
 
 
 

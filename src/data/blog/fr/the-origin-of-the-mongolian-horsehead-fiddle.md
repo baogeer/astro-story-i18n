@@ -8,7 +8,7 @@ description: "Su He est un petit berger dans la prairie de Chahar. Il a adopté 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-mongolian-horsehead-fiddle.png)
+![AstroPaper I18n](/the-origin-of-the-mongolian-horsehead-fiddle.png)
 
 
 

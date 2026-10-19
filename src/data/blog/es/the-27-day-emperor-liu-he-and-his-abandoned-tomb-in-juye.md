@@ -8,7 +8,7 @@ description: "Liu He, de la etnia Han occidental, fue abolido solo 27 días desp
 
 
 
-![AstroPaper I18n](/public/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
+![AstroPaper I18n](/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xu Beihong broke the old tradition of “Pigs Don't Get Painted”
 
 
 
-![AstroPaper I18n](/public/the-story-of-xu-beihong-painting-pigs.png)
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
 
 
 

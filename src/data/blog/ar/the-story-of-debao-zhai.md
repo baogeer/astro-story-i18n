@@ -8,7 +8,7 @@ description: "اقتحم لي تشنغ فو عن طريق الخطأ وانغ ي
 
 
 
-![AstroPaper I18n](/public/the-story-of-debao-zhai.png)
+![AstroPaper I18n](/the-story-of-debao-zhai.png)
 
 
 

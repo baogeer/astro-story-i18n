@@ -8,7 +8,7 @@ description: "عاشت الأخت الثالثة حياة غنية بعد زوا
 
 
 
-![AstroPaper I18n](/public/the-snake-husband-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-snake-husband-a-taiwanese-folktale.png)
 
 
 

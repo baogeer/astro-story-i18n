@@ -8,7 +8,7 @@ description: "Entre los bastardos, Chen Zikun fue llevado por la fuerza a Jingwa
 
 
 
-![AstroPaper I18n](/public/the-quack-doctor-s-cure.png)
+![AstroPaper I18n](/the-quack-doctor-s-cure.png)
 
 
 

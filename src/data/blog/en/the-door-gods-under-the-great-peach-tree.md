@@ -8,7 +8,7 @@ description: "The gate under the large peach tree on Mount Saku in the East Sea 
 
 
 
-![AstroPaper I18n](/public/the-door-gods-under-the-great-peach-tree.png)
+![AstroPaper I18n](/the-door-gods-under-the-great-peach-tree.png)
 
 
 

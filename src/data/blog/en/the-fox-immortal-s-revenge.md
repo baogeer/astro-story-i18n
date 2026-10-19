@@ -8,7 +8,7 @@ description: "Qiu Gong didn't believe in the fox fairy; after pretending to get 
 
 
 
-![AstroPaper I18n](/public/the-fox-immortal-s-revenge.png)
+![AstroPaper I18n](/the-fox-immortal-s-revenge.png)
 
 
 

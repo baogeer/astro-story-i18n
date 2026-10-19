@@ -8,7 +8,7 @@ description: "من أجل إنقاذ والدتها، تعلمت مادونا ا
 
 
 
-![AstroPaper I18n](/public/chenxiang-splits-mount-hua-to-save-his-mother.png)
+![AstroPaper I18n](/chenxiang-splits-mount-hua-to-save-his-mother.png)
 
 
 

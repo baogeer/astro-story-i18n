@@ -8,7 +8,7 @@ description: "Su Xiaoxiao, une célèbre prostituée de Qiantang, est belle à l
 
 
 
-![AstroPaper I18n](/public/su-xiaoxiao-the-famous-courtesan-of-qiantang.png)
+![AstroPaper I18n](/su-xiaoxiao-the-famous-courtesan-of-qiantang.png)
 
 
 

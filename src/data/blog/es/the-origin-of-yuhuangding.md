@@ -8,7 +8,7 @@ description: "Esta historia cuenta la historia del origen del topónimo Yuhuangd
 
 
 
-![AstroPaper I18n](/public/the-origin-of-yuhuangding.png)
+![AstroPaper I18n](/the-origin-of-yuhuangding.png)
 
 
 

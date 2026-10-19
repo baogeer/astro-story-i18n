@@ -8,7 +8,7 @@ description: "Qinglong était à l'origine garde du corps au Dragon Palace en me
 
 
 
-![AstroPaper I18n](/public/the-azure-stone-dragon.png)
+![AstroPaper I18n](/the-azure-stone-dragon.png)
 
 
 

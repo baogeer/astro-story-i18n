@@ -8,7 +8,7 @@ description: "A girl with long hair from the Dong ethnic group discovered that t
 
 
 
-![AstroPaper I18n](/public/the-long-haired-maiden-a-dong-folktale.png)
+![AstroPaper I18n](/the-long-haired-maiden-a-dong-folktale.png)
 
 
 

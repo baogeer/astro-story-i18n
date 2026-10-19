@@ -8,7 +8,7 @@ description: "Meng Liangli pudo compartir su fuerza. Jiao elogió y no estuvo de
 
 
 
-![AstroPaper I18n](/public/the-first-meeting-of-meng-liang-and-jiao-zan.png)
+![AstroPaper I18n](/the-first-meeting-of-meng-liang-and-jiao-zan.png)
 
 
 

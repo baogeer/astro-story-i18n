@@ -8,7 +8,7 @@ description: "En 1929, Xu Beihong est devenu doyen de l'école d'art de l'univer
 
 
 
-![AstroPaper I18n](/public/the-master-invites-the-carpenter.png)
+![AstroPaper I18n](/the-master-invites-the-carpenter.png)
 
 
 

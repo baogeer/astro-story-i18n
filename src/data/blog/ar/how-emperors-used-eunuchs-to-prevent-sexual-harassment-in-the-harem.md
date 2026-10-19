@@ -8,7 +8,7 @@ description: "من أجل منع التحرش الجنسي في الحريم، �
 
 
 
-![AstroPaper I18n](/public/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
+![AstroPaper I18n](/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
 
 
 

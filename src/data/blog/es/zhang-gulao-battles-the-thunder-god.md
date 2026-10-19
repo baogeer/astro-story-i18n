@@ -8,7 +8,7 @@ description: "Zhang Gu fue acosado después de romper con su hermano mayor Lei G
 
 
 
-![AstroPaper I18n](/public/zhang-gulao-battles-the-thunder-god.png)
+![AstroPaper I18n](/zhang-gulao-battles-the-thunder-god.png)
 
 
 

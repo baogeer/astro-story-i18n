@@ -8,7 +8,7 @@ description: "Saver is the bodyguard of King Wu Sangui, and is as agile as an ap
 
 
 
-![AstroPaper I18n](/public/bao-zhu-retrieves-the-pipa.png)
+![AstroPaper I18n](/bao-zhu-retrieves-the-pipa.png)
 
 
 

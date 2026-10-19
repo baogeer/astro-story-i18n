@@ -8,7 +8,7 @@ description: "Kong Sizheng is the daughter of King Kong Youde of Dingnan in the 
 
 
 
-![AstroPaper I18n](/public/the-only-han-princess-of-the-qing-dynasty.png)
+![AstroPaper I18n](/the-only-han-princess-of-the-qing-dynasty.png)
 
 
 

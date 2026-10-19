@@ -8,7 +8,7 @@ description: "Wan Qiu was elected to the palace and blinded by Consort Zhen for 
 
 
 
-![AstroPaper I18n](/public/wanqiu-and-the-bitter-herb.png)
+![AstroPaper I18n](/wanqiu-and-the-bitter-herb.png)
 
 
 

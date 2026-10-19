@@ -8,7 +8,7 @@ description: "Принцесса Цзиньчэн вышла замуж за Т�
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-princess-jincheng.png)
+![AstroPaper I18n](/the-tragic-fate-of-princess-jincheng.png)
 
 
 

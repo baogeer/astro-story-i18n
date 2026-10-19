@@ -8,7 +8,7 @@ description: "Chen Miaoshang, la dinastía Song del Sur, es hermosa y talentosa.
 
 
 
-![AstroPaper I18n](/public/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
+![AstroPaper I18n](/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
 
 
 

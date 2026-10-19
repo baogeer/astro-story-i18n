@@ -8,7 +8,7 @@ description: "تم تكليف الأمير شو بتسليم 3000 يوان من 
 
 
 
-![AstroPaper I18n](/public/the-monkey-hero.png)
+![AstroPaper I18n](/the-monkey-hero.png)
 
 
 

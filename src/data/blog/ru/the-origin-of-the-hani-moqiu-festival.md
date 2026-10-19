@@ -8,7 +8,7 @@ description: "Давным-давно, чтобы Солнце и Луна по�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-moqiu-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-moqiu-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Song du Nord, les filles jumelles de 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
+![AstroPaper I18n](/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
 
 
 

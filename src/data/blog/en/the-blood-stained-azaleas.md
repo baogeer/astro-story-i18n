@@ -8,7 +8,7 @@ description: "Emperor Shun toured Mount Jiulong in the south and saw the people 
 
 
 
-![AstroPaper I18n](/public/the-blood-stained-azaleas.png)
+![AstroPaper I18n](/the-blood-stained-azaleas.png)
 
 
 

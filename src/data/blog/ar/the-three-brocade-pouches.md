@@ -8,7 +8,7 @@ description: "في نهاية حياته، ترك Xiucai ثلاث نصائح. أ
 
 
 
-![AstroPaper I18n](/public/the-three-brocade-pouches.png)
+![AstroPaper I18n](/the-three-brocade-pouches.png)
 
 
 

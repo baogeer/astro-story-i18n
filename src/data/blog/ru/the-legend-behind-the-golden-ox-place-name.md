@@ -8,7 +8,7 @@ description: "У Джинниу есть хороший демон, которы
 
 
 
-![AstroPaper I18n](/public/the-legend-behind-the-golden-ox-place-name.png)
+![AstroPaper I18n](/the-legend-behind-the-golden-ox-place-name.png)
 
 
 

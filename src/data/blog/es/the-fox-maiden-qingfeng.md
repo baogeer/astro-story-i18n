@@ -8,7 +8,7 @@ description: "Geng enloqueció y se volvió loco. Entró en la casa del zorro po
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-qingfeng.png)
+![AstroPaper I18n](/the-fox-maiden-qingfeng.png)
 
 
 

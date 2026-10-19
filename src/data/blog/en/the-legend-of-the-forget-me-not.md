@@ -8,7 +8,7 @@ description: "The old servant of the weaver, Xiunyu, dreamed of escaping from th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-forget-me-not.png)
+![AstroPaper I18n](/the-legend-of-the-forget-me-not.png)
 
 
 

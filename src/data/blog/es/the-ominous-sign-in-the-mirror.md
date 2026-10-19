@@ -8,7 +8,7 @@ description: "El poema de la recién casada no puede ver en el espejo que su esp
 
 
 
-![AstroPaper I18n](/public/the-ominous-sign-in-the-mirror.png)
+![AstroPaper I18n](/the-ominous-sign-in-the-mirror.png)
 
 
 

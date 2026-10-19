@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, Cui Sheng a consulté un médecin et la cha
 
 
 
-![AstroPaper I18n](/public/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
+![AstroPaper I18n](/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
 
 
 

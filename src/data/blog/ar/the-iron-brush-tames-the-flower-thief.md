@@ -8,7 +8,7 @@ description: "يروي فيلم «Iron Pen Flower Thief» قصة شخص مذهل
 
 
 
-![AstroPaper I18n](/public/the-iron-brush-tames-the-flower-thief.png)
+![AstroPaper I18n](/the-iron-brush-tames-the-flower-thief.png)
 
 
 

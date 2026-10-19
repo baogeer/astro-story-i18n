@@ -8,7 +8,7 @@ description: "Когда в детстве автор прочитала сти�
 
 
 
-![AstroPaper I18n](/public/ai-qing-s-golden-carriage.png)
+![AstroPaper I18n](/ai-qing-s-golden-carriage.png)
 
 
 

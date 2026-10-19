@@ -8,7 +8,7 @@ description: "Desde la dinastía Tang, las princesas han sido arrogantes y más 
 
 
 
-![AstroPaper I18n](/public/why-even-princesses-were-left-on-the-shelf.png)
+![AstroPaper I18n](/why-even-princesses-were-left-on-the-shelf.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم دفن الأخوين يانغ وين ويانغ وو تحت 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nine-immortals-mountain.png)
+![AstroPaper I18n](/the-legend-of-nine-immortals-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Во времена династии Южная Сун хулиг�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-vinegar-fish.png)
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
 
 
 

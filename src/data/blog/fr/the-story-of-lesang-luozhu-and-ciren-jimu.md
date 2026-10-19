@@ -8,7 +8,7 @@ description: "Leshan Luozhu et Ciren Jim se sont mariés grâce à une relation 
 
 
 
-![AstroPaper I18n](/public/the-story-of-lesang-luozhu-and-ciren-jimu.png)
+![AstroPaper I18n](/the-story-of-lesang-luozhu-and-ciren-jimu.png)
 
 
 

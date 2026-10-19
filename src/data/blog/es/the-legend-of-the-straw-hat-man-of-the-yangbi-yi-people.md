@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que una mujer a lo largo del río Yangyi en Yunn
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
 
 
 

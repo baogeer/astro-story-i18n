@@ -8,7 +8,7 @@ description: "Lorsque Li Bing est devenu fonctionnaire local dans le comté de S
 
 
 
-![AstroPaper I18n](/public/li-bing-slays-the-river-god.png)
+![AstroPaper I18n](/li-bing-slays-the-river-god.png)
 
 
 

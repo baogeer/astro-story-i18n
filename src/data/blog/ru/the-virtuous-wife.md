@@ -8,7 +8,7 @@ description: "Ци Гун бросил мудрую жену, потому чт�
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife.png)
+![AstroPaper I18n](/the-virtuous-wife.png)
 
 
 

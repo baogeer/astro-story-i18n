@@ -8,7 +8,7 @@ description: "По дороге Ан Нин, потомок семьи Донг,
 
 
 
-![AstroPaper I18n](/public/the-devil-and-the-man.png)
+![AstroPaper I18n](/the-devil-and-the-man.png)
 
 
 

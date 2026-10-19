@@ -8,7 +8,7 @@ description: "مسقط رأس المؤلف هو هوتادي، قرية جينغ
 
 
 
-![AstroPaper I18n](/public/the-birthplace-of-lord-hu.png)
+![AstroPaper I18n](/the-birthplace-of-lord-hu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Застенчив и создав семью с феей лото
 
 
 
-![AstroPaper I18n](/public/the-folktale-of-the-sensitive-plant.png)
+![AstroPaper I18n](/the-folktale-of-the-sensitive-plant.png)
 
 
 

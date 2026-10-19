@@ -8,7 +8,7 @@ description: "When she was a young girl, Zhao Feiyan had an affair with a bird s
 
 
 
-![AstroPaper I18n](/public/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
+![AstroPaper I18n](/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
 
 
 

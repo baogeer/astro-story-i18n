@@ -8,7 +8,7 @@ description: "Госпожа Ва, женщина-генерал Чжуан из
 
 
 
-![AstroPaper I18n](/public/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
+![AstroPaper I18n](/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
 
 
 

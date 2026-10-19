@@ -8,7 +8,7 @@ description: "Au printemps et à l'automne, après avoir été vaincu par Wu Guo
 
 
 
-![AstroPaper I18n](/public/the-story-of-xi-shi-and-the-sinking-fish.png)
+![AstroPaper I18n](/the-story-of-xi-shi-and-the-sinking-fish.png)
 
 
 

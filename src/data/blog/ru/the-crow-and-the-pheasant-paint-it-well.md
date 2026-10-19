@@ -8,7 +8,7 @@ description: "Кроу и Цинцзиюань — пара белоснежны
 
 
 
-![AstroPaper I18n](/public/the-crow-and-the-pheasant-paint-it-well.png)
+![AstroPaper I18n](/the-crow-and-the-pheasant-paint-it-well.png)
 
 
 

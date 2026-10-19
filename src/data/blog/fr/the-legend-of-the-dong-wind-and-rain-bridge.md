@@ -8,7 +8,7 @@ description: "Lorsque Buka, un descendant de la tribu Dong, a traversé un pont 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-wind-and-rain-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-dong-wind-and-rain-bridge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "قامت مجموعة من القرود بأخذ مزارع في �
 
 
 
-![AstroPaper I18n](/public/the-old-monkey-mocks-a-man-for-having-no-tail.png)
+![AstroPaper I18n](/the-old-monkey-mocks-a-man-for-having-no-tail.png)
 
 
 

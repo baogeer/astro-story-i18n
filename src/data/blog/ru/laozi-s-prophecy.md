@@ -8,7 +8,7 @@ description: "Лаоцзы Ли И был гостем в доме Хань Гу
 
 
 
-![AstroPaper I18n](/public/laozi-s-prophecy.png)
+![AstroPaper I18n](/laozi-s-prophecy.png)
 
 
 

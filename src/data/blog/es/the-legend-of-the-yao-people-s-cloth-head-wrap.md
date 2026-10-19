@@ -8,7 +8,7 @@ description: "Un perro dragón ancestral de la tribu Yao mordió la cabeza de Zi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
+![AstroPaper I18n](/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
 
 
 

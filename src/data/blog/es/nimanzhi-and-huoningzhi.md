@@ -8,7 +8,7 @@ description: "Nimanji fue maltratada por su madrastra y fue ayudada por una vaca
 
 
 
-![AstroPaper I18n](/public/nimanzhi-and-huoningzhi.png)
+![AstroPaper I18n](/nimanzhi-and-huoningzhi.png)
 
 
 

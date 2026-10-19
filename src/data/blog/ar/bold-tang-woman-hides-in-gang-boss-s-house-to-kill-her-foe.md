@@ -8,7 +8,7 @@ description: "في عهد أسرة تانغ، كانت هناك امرأة قو�
 
 
 
-![AstroPaper I18n](/public/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
+![AstroPaper I18n](/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
 
 
 

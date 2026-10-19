@@ -8,7 +8,7 @@ description: "بعد الفيضان، هرب الأخ والأخت على قرع
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-millstone-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-millstone-rock.png)
 
 
 

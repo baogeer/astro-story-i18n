@@ -8,7 +8,7 @@ description: "In order to prevent sexual harassment in the harem, ancient empero
 
 
 
-![AstroPaper I18n](/public/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
+![AstroPaper I18n](/how-emperors-used-eunuchs-to-prevent-sexual-harassment-in-the-harem.png)
 
 
 

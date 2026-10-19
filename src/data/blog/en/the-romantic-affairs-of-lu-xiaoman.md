@@ -8,7 +8,7 @@ description: "Lu Xiaoman first married Wang Geng, then fell in love with Xu Zhim
 
 
 
-![AstroPaper I18n](/public/the-romantic-affairs-of-lu-xiaoman.png)
+![AstroPaper I18n](/the-romantic-affairs-of-lu-xiaoman.png)
 
 
 

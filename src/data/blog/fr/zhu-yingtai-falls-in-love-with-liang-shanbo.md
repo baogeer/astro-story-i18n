@@ -8,7 +8,7 @@ description: "Zhu Yingtai, une femme déguisée en homme, et Liang Shanbo, ont p
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-falls-in-love-with-liang-shanbo.png)
+![AstroPaper I18n](/zhu-yingtai-falls-in-love-with-liang-shanbo.png)
 
 
 

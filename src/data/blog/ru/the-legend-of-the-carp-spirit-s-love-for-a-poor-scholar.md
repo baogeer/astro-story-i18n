@@ -8,7 +8,7 @@ description: "Бедная ученая Чан Джин сдалась свое�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
+![AstroPaper I18n](/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
 
 
 

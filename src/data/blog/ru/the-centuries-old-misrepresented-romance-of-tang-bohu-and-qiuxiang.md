@@ -8,7 +8,7 @@ description: "У Тан Иня была трудная жизнь; он не б�
 
 
 
-![AstroPaper I18n](/public/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
+![AstroPaper I18n](/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
 
 
 

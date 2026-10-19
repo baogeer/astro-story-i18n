@@ -8,7 +8,7 @@ description: "Король и Аванти провели ночь на охот
 
 
 
-![AstroPaper I18n](/public/the-king-and-afanti.png)
+![AstroPaper I18n](/the-king-and-afanti.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Pour gagner de l'argent, l'impératrice douairière Cixi a secrèt
 
 
 
-![AstroPaper I18n](/public/empress-dowager-cixi-sells-the-imperial-hunting-grounds.png)
+![AstroPaper I18n](/empress-dowager-cixi-sells-the-imperial-hunting-grounds.png)
 
 
 

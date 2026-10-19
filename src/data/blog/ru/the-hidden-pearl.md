@@ -8,7 +8,7 @@ description: "В годы правления династии Мин Хэ Юйч
 
 
 
-![AstroPaper I18n](/public/the-hidden-pearl.png)
+![AstroPaper I18n](/the-hidden-pearl.png)
 
 
 

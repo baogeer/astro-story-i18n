@@ -8,7 +8,7 @@ description: "من أجل تجنب ضمهم من قبل منغوليا، تزو�
 
 
 
-![AstroPaper I18n](/public/the-goryeo-dynasty-that-survived-through-women.png)
+![AstroPaper I18n](/the-goryeo-dynasty-that-survived-through-women.png)
 
 
 

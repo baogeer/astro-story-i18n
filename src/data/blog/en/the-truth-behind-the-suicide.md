@@ -8,7 +8,7 @@ description: "Detective Yang Xin investigated medical professor Zhang Lao's suic
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-the-suicide.png)
+![AstroPaper I18n](/the-truth-behind-the-suicide.png)
 
 
 

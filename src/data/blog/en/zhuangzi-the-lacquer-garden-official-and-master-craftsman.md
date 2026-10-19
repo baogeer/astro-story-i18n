@@ -8,7 +8,7 @@ description: "When Zhuangzi worked as a paint garden clerk in Mongolia, he didn'
 
 
 
-![AstroPaper I18n](/public/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
+![AstroPaper I18n](/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
 
 
 

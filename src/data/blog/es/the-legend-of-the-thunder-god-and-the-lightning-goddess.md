@@ -8,7 +8,7 @@ description: "La madre eléctrica de Leigong son los míticos dioses del marido 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
 
 
 

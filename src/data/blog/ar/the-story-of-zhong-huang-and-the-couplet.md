@@ -8,7 +8,7 @@ description: "وتصدر زونغ هوانغ، شيوكاي من مقاطعة ت
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhong-huang-and-the-couplet.png)
+![AstroPaper I18n](/the-story-of-zhong-huang-and-the-couplet.png)
 
 
 

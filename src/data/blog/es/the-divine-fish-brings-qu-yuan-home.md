@@ -8,7 +8,7 @@ description: "Cuando Qu Yigu soñó que un pez sagrado se llevaba el cuerpo de Q
 
 
 
-![AstroPaper I18n](/public/the-divine-fish-brings-qu-yuan-home.png)
+![AstroPaper I18n](/the-divine-fish-brings-qu-yuan-home.png)
 
 
 

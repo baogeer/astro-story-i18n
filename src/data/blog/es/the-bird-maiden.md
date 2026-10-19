@@ -8,7 +8,7 @@ description: "El rico propietario oblig√≥ a su sirvienta Ada a subir a la monta√
 
 
 
-![AstroPaper I18n](/public/the-bird-maiden.png)
+![AstroPaper I18n](/the-bird-maiden.png)
 
 
 

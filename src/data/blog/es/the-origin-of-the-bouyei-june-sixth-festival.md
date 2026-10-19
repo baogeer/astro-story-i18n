@@ -8,7 +8,7 @@ description: "El origen de la fiesta del «6 de junio» del pueblo buyei: los an
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-june-sixth-festival.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-june-sixth-festival.png)
 
 
 

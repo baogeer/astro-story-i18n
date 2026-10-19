@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Sui, Luo Cheng de Wagangzhai a utilisé d
 
 
 
-![AstroPaper I18n](/public/luo-cheng-s-clever-stone-formation.png)
+![AstroPaper I18n](/luo-cheng-s-clever-stone-formation.png)
 
 
 

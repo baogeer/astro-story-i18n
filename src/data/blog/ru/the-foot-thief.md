@@ -8,7 +8,7 @@ description: "Гуань Сан полагался на украденный и�
 
 
 
-![AstroPaper I18n](/public/the-foot-thief.png)
+![AstroPaper I18n](/the-foot-thief.png)
 
 
 

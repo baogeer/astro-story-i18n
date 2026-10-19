@@ -8,7 +8,7 @@ description: "خلال الفترة التي قضاها ضد يوان هوغو،
 
 
 
-![AstroPaper I18n](/public/cai-e-and-xiao-fengxian.png)
+![AstroPaper I18n](/cai-e-and-xiao-fengxian.png)
 
 
 

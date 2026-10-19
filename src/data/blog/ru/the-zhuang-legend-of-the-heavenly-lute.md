@@ -8,7 +8,7 @@ description: "Давным-давно юные Чжуан Нонг Дуань и
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-heavenly-lute.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-heavenly-lute.png)
 
 
 

@@ -8,7 +8,7 @@ description: "An old monk from Cangshan Ancient Temple in Yangjiao met a cow-rid
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-and-the-great-black-ox.png)
+![AstroPaper I18n](/the-great-black-dragon-and-the-great-black-ox.png)
 
 
 

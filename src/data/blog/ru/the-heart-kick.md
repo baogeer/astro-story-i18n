@@ -8,7 +8,7 @@ description: "Во времена поздней династии Цин мас�
 
 
 
-![AstroPaper I18n](/public/the-heart-kick.png)
+![AstroPaper I18n](/the-heart-kick.png)
 
 
 

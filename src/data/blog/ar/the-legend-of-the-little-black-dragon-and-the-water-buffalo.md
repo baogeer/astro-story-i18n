@@ -8,7 +8,7 @@ description: "اكتشف راعي بقر عجوز في مينجكو من قبي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
+![AstroPaper I18n](/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
 
 
 

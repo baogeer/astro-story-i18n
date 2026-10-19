@@ -8,7 +8,7 @@ description: "A Liu Danting, un estudiante de posgrado de Luoyang, le encantaba 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-liu-yellow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-dai-liu-yellow-peony.png)
 
 
 

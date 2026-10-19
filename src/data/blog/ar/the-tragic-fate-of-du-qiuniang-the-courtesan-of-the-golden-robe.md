@@ -8,7 +8,7 @@ description: "تم تفضيل دو كيونيانغ من قبل لي وي وتا
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
+![AstroPaper I18n](/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Десятый сын Чжу Юаньчжана, Чжу Тан, п
 
 
 
-![AstroPaper I18n](/public/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
+![AstroPaper I18n](/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
 
 
 

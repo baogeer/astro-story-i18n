@@ -8,7 +8,7 @@ description: "Одинокая тетя из деревни Лунцзин ох�
 
 
 
-![AstroPaper I18n](/public/the-ancestor-of-longjing-tea.png)
+![AstroPaper I18n](/the-ancestor-of-longjing-tea.png)
 
 
 

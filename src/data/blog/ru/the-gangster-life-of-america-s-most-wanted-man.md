@@ -8,7 +8,7 @@ description: "Американский главарь банды Джеймс Б
 
 
 
-![AstroPaper I18n](/public/the-gangster-life-of-america-s-most-wanted-man.png)
+![AstroPaper I18n](/the-gangster-life-of-america-s-most-wanted-man.png)
 
 
 

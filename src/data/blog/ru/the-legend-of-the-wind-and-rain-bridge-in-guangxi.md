@@ -8,7 +8,7 @@ description: "Пэйгуань, жену Буки, потомка племени
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
+![AstroPaper I18n](/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
 
 
 

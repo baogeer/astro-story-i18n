@@ -8,7 +8,7 @@ description: "L'Aïd al-Adha est un Aïd al-Adha pour des groupes ethniques tels
 
 
 
-![AstroPaper I18n](/public/muslim-customs-of-eid-al-adha.png)
+![AstroPaper I18n](/muslim-customs-of-eid-al-adha.png)
 
 
 

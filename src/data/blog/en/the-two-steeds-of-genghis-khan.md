@@ -8,7 +8,7 @@ description: "Genghis Khan's two horses were successful in hunting, but no one p
 
 
 
-![AstroPaper I18n](/public/the-two-steeds-of-genghis-khan.png)
+![AstroPaper I18n](/the-two-steeds-of-genghis-khan.png)
 
 
 

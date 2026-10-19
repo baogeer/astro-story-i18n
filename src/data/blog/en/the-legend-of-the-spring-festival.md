@@ -8,7 +8,7 @@ description: "In order to set the agricultural season, the young man made a sund
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-spring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-spring-festival.png)
 
 
 

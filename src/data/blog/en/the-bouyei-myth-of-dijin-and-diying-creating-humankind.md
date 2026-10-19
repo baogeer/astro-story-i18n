@@ -8,7 +8,7 @@ description: "Brother Di Jin and Di Ying grew giant gourds. When the flood died 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
+![AstroPaper I18n](/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
 
 
 

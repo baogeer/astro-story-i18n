@@ -8,7 +8,7 @@ description: "في العصور القديمة، قدم الملك غاو شين
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dog-king-of-the-she-people.png)
+![AstroPaper I18n](/the-legend-of-the-dog-king-of-the-she-people.png)
 
 
 

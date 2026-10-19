@@ -8,7 +8,7 @@ description: "Originally the daughter of King Huo, Huo Xiaoyu was an exile and s
 
 
 
-![AstroPaper I18n](/public/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
+![AstroPaper I18n](/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
 
 
 

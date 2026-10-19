@@ -8,7 +8,7 @@ description: "Legend has it that the Himalayas mountains were originally a sea. 
 
 
 
-![AstroPaper I18n](/public/the-vast-sea-became-fields.png)
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Afin de surmonter la grande sécheresse sur l'île, Qiao Mei s'est
 
 
 
-![AstroPaper I18n](/public/qiaomei-and-the-embroidered-dragon.png)
+![AstroPaper I18n](/qiaomei-and-the-embroidered-dragon.png)
 
 
 

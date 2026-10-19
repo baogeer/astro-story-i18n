@@ -8,7 +8,7 @@ description: "El pastor era hijo de Soma y fue azotado por su dueño por conocer
 
 
 
-![AstroPaper I18n](/public/the-herd-boy-and-the-swift-horse.png)
+![AstroPaper I18n](/the-herd-boy-and-the-swift-horse.png)
 
 
 

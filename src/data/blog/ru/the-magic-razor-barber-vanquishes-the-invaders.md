@@ -8,7 +8,7 @@ description: "«King Sword» — это бритва в городе Тяньц�
 
 
 
-![AstroPaper I18n](/public/the-magic-razor-barber-vanquishes-the-invaders.png)
+![AstroPaper I18n](/the-magic-razor-barber-vanquishes-the-invaders.png)
 
 
 

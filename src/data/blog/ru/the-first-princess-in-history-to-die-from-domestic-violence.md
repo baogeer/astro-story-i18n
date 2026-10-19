@@ -8,7 +8,7 @@ description: "Принцесса Лю И из Лийи, дочь Лю Сю, им
 
 
 
-![AstroPaper I18n](/public/the-first-princess-in-history-to-die-from-domestic-violence.png)
+![AstroPaper I18n](/the-first-princess-in-history-to-die-from-domestic-violence.png)
 
 
 

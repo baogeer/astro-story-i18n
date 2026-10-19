@@ -8,7 +8,7 @@ description: "The young swordsman practiced his sword skills hard in the mountai
 
 
 
-![AstroPaper I18n](/public/the-ancient-sword.png)
+![AstroPaper I18n](/the-ancient-sword.png)
 
 
 

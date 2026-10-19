@@ -8,7 +8,7 @@ description: "Papy Shi est doué pour le vin et ose parler. Il ne croit pas en V
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-shi-the-lowliest-minor-god.png)
+![AstroPaper I18n](/the-legend-of-master-shi-the-lowliest-minor-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dong Yong, que fue vendida por las Siete Hadas para ayudar a enter
 
 
 
-![AstroPaper I18n](/public/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
+![AstroPaper I18n](/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
 
 
 

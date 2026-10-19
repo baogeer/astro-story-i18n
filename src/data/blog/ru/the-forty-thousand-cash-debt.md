@@ -8,7 +8,7 @@ description: "У слуги семьи Симы Ванга родился сын
 
 
 
-![AstroPaper I18n](/public/the-forty-thousand-cash-debt.png)
+![AstroPaper I18n](/the-forty-thousand-cash-debt.png)
 
 
 

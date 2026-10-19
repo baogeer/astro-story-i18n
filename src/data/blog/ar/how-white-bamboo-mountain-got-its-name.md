@@ -8,7 +8,7 @@ description: "تم تسمية جبل Baizhu على اسم براعم الخيز�
 
 
 
-![AstroPaper I18n](/public/how-white-bamboo-mountain-got-its-name.png)
+![AstroPaper I18n](/how-white-bamboo-mountain-got-its-name.png)
 
 
 

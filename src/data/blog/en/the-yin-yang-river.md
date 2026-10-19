@@ -8,7 +8,7 @@ description: "During the war of resistance, pharmacist Jiang Chun was forced by 
 
 
 
-![AstroPaper I18n](/public/the-yin-yang-river.png)
+![AstroPaper I18n](/the-yin-yang-river.png)
 
 
 

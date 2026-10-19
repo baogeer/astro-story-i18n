@@ -8,7 +8,7 @@ description: "Xue Tao fue una poetisa y prostituta oficial de la dinastía Tang.
 
 
 
-![AstroPaper I18n](/public/xue-tao-the-inventor-who-lived-as-a-confidante.png)
+![AstroPaper I18n](/xue-tao-the-inventor-who-lived-as-a-confidante.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Liang ayudó a Liu Bang a ser indiferente a la fama y la for
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-bang-and-zhang-liang-in-zhen-an.png)
+![AstroPaper I18n](/the-legend-of-liu-bang-and-zhang-liang-in-zhen-an.png)
 
 
 

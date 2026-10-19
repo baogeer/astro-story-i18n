@@ -8,7 +8,7 @@ description: "À l'origine, Yin Jiao était le toponyme «xa0Yin Jiaoxa0» à la
 
 
 
-![AstroPaper I18n](/public/king-zhou-s-son-who-became-the-god-of-tai-sui.png)
+![AstroPaper I18n](/king-zhou-s-son-who-became-the-god-of-tai-sui.png)
 
 
 

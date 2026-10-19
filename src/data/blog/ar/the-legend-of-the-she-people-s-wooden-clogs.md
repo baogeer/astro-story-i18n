@@ -8,7 +8,7 @@ description: "يعيش زوجان من Shes في أعماق الجبال وغا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-wooden-clogs.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-wooden-clogs.png)
 
 
 

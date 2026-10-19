@@ -8,7 +8,7 @@ description: "Zhu Yingtai, une femme déguisée en homme, est allée étudier à
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers.png)
+![AstroPaper I18n](/the-butterfly-lovers.png)
 
 
 

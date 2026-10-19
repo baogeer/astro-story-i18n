@@ -8,7 +8,7 @@ description: "On the banks of the Oqu River, the young Wrangler Meng Pei Jiwu an
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-oqu-river.png)
+![AstroPaper I18n](/the-legend-by-the-oqu-river.png)
 
 
 

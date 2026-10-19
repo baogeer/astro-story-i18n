@@ -8,7 +8,7 @@ description: "Le travailleur migrant Liu Sanfu n'avait pas d'argent pour acheter
 
 
 
-![AstroPaper I18n](/public/the-misdelivered-greeting-card.png)
+![AstroPaper I18n](/the-misdelivered-greeting-card.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Guo Kai était le chouchou des deux rois de Zhao Guo. Il s'est app
 
 
 
-![AstroPaper I18n](/public/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
+![AstroPaper I18n](/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
 
 
 

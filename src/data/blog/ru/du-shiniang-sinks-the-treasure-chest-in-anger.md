@@ -8,7 +8,7 @@ description: "Ду Шиньян, известная проститутка из 
 
 
 
-![AstroPaper I18n](/public/du-shiniang-sinks-the-treasure-chest-in-anger.png)
+![AstroPaper I18n](/du-shiniang-sinks-the-treasure-chest-in-anger.png)
 
 
 

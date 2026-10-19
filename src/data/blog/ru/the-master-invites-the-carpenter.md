@@ -8,7 +8,7 @@ description: "В 1929 году Сюй Бэйхун стал деканом Шк�
 
 
 
-![AstroPaper I18n](/public/the-master-invites-the-carpenter.png)
+![AstroPaper I18n](/the-master-invites-the-carpenter.png)
 
 
 

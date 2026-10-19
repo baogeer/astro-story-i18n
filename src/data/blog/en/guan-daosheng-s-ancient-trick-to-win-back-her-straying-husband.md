@@ -8,7 +8,7 @@ description: "In the face of her husband Zhao Mengyi's intention to take a concu
 
 
 
-![AstroPaper I18n](/public/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
+![AstroPaper I18n](/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
 
 
 

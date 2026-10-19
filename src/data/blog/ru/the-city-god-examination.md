@@ -8,7 +8,7 @@ description: "Сун Тао пригласили сдать экзамен в п
 
 
 
-![AstroPaper I18n](/public/the-city-god-examination.png)
+![AstroPaper I18n](/the-city-god-examination.png)
 
 
 

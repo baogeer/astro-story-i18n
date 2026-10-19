@@ -8,7 +8,7 @@ description: "Grandpa Cat was originally the darling of the Jade Emperor. He was
 
 
 
-![AstroPaper I18n](/public/the-master-cat-s-complaint.png)
+![AstroPaper I18n](/the-master-cat-s-complaint.png)
 
 
 

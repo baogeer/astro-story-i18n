@@ -8,7 +8,7 @@ description: "Migrant worker Liu Sanfu had no money to buy a watch for his girlf
 
 
 
-![AstroPaper I18n](/public/the-misdelivered-greeting-card.png)
+![AstroPaper I18n](/the-misdelivered-greeting-card.png)
 
 
 

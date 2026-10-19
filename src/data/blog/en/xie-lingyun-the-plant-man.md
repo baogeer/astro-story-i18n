@@ -8,7 +8,7 @@ description: "Because she loves landscape plants, Xie Lingyun visited plants and
 
 
 
-![AstroPaper I18n](/public/xie-lingyun-the-plant-man.png)
+![AstroPaper I18n](/xie-lingyun-the-plant-man.png)
 
 
 

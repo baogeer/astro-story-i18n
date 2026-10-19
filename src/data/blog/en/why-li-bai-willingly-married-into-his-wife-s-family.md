@@ -8,7 +8,7 @@ description: "Li Bai's wife, Xu Zongpu, is a famous family. She is gentle and vi
 
 
 
-![AstroPaper I18n](/public/why-li-bai-willingly-married-into-his-wife-s-family.png)
+![AstroPaper I18n](/why-li-bai-willingly-married-into-his-wife-s-family.png)
 
 
 

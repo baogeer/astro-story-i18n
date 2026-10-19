@@ -8,7 +8,7 @@ description: "The old man was dissatisfied with his son's laziness and promised 
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-gold-coin.png)
+![AstroPaper I18n](/the-story-of-a-gold-coin.png)
 
 
 

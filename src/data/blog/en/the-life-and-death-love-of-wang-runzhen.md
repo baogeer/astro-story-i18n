@@ -8,7 +8,7 @@ description: "Wang Runzhen married the Shen family with her mother, and her adop
 
 
 
-![AstroPaper I18n](/public/the-life-and-death-love-of-wang-runzhen.png)
+![AstroPaper I18n](/the-life-and-death-love-of-wang-runzhen.png)
 
 
 

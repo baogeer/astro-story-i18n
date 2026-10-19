@@ -8,7 +8,7 @@ description: "في عهد أسرة تانغ، تم إغلاق طريق ليان�
 
 
 
-![AstroPaper I18n](/public/the-clever-magistrate-and-the-whirlwind.png)
+![AstroPaper I18n](/the-clever-magistrate-and-the-whirlwind.png)
 
 
 

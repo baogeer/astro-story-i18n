@@ -8,7 +8,7 @@ description: "В конце Суя Лю Ши, молодая девушка из
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
 
 
 

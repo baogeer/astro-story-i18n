@@ -8,7 +8,7 @@ description: "L'impératrice douairière Qin Xuan de la période Sengoku a utili
 
 
 
-![AstroPaper I18n](/public/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
+![AstroPaper I18n](/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم أخذ فتاة مياو ديانهوا من قبل القر�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pleated-skirt.png)
+![AstroPaper I18n](/the-legend-of-the-pleated-skirt.png)
 
 
 

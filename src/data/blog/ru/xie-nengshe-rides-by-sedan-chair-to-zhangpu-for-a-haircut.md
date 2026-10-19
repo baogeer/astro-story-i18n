@@ -8,7 +8,7 @@ description: "Се Нэншэ сбрила голову ради провинц�
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
+![AstroPaper I18n](/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
 
 
 

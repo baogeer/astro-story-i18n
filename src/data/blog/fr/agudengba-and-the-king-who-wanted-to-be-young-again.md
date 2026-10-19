@@ -8,7 +8,7 @@ description: "Afin de sauver le médecin mort innocemment parce que le roi cherc
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-king-who-wanted-to-be-young-again.png)
+![AstroPaper I18n](/agudengba-and-the-king-who-wanted-to-be-young-again.png)
 
 
 

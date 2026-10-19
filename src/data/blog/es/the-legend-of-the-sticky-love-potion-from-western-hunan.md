@@ -8,7 +8,7 @@ description: "La pobre niña de Xiangxi tiene seis años, está sola y no tiene 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
 
 
 

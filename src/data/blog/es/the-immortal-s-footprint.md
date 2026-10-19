@@ -8,7 +8,7 @@ description: "Laozi Li Er montó una vaca verde y cabildeó en el municipio de M
 
 
 
-![AstroPaper I18n](/public/the-immortal-s-footprint.png)
+![AstroPaper I18n](/the-immortal-s-footprint.png)
 
 
 

@@ -8,7 +8,7 @@ description: "On a rainy night, the taxi driver kindly carried a woman in white 
 
 
 
-![AstroPaper I18n](/public/a-rainy-night-fright.png)
+![AstroPaper I18n](/a-rainy-night-fright.png)
 
 
 

@@ -8,7 +8,7 @@ description: "رأى حاكم هانغتشو الراهب العجوز يلعب 
 
 
 
-![AstroPaper I18n](/public/the-monkey-summoning-cave.png)
+![AstroPaper I18n](/the-monkey-summoning-cave.png)
 
 
 

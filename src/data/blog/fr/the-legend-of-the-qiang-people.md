@@ -8,7 +8,7 @@ description: "Mu Jiezhu, un ancêtre de la tribu Qiang, est tombé amoureux de D
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-people.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-people.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yao Ji a conduit onze fées sur le trône. Voyant que Dayu était 
 
 
 
-![AstroPaper I18n](/public/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
+![AstroPaper I18n](/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A lo largo del río Yangyi, un adolescente yi desenterró la Perla
 
 
 
-![AstroPaper I18n](/public/the-beach-where-a-mother-waits-for-her-dragon-son.png)
+![AstroPaper I18n](/the-beach-where-a-mother-waits-for-her-dragon-son.png)
 
 
 

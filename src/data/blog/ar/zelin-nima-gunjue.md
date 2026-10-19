@@ -8,7 +8,7 @@ description: "أدركت زيلين نيما أنه على الرغم من اع�
 
 
 
-![AstroPaper I18n](/public/zelin-nima-gunjue.png)
+![AstroPaper I18n](/zelin-nima-gunjue.png)
 
 
 

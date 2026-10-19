@@ -8,7 +8,7 @@ description: "Из-за зла Черного дракона озеро высо
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-cave.png)
+![AstroPaper I18n](/the-white-dragon-cave.png)
 
 
 

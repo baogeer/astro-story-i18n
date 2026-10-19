@@ -8,7 +8,7 @@ description: "The son suspected that his father was seriously ill, and he rubbed
 
 
 
-![AstroPaper I18n](/public/the-straw-rope-that-dragged-grandpa-and-dad.png)
+![AstroPaper I18n](/the-straw-rope-that-dragged-grandpa-and-dad.png)
 
 
 

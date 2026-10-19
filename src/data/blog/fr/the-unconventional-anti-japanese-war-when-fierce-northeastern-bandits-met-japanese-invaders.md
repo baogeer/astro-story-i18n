@@ -8,7 +8,7 @@ description: "Après la chute du Tohoku, certains bandits, le «xa0Mustangxa0» 
 
 
 
-![AstroPaper I18n](/public/the-unconventional-anti-japanese-war-when-fierce-northeastern-bandits-met-japanese-invaders.png)
+![AstroPaper I18n](/the-unconventional-anti-japanese-war-when-fierce-northeastern-bandits-met-japanese-invaders.png)
 
 
 

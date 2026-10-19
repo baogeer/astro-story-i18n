@@ -8,7 +8,7 @@ description: "Раньше Ханчжоу был сухим пляжем, и л�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-stone-man-ridge.png)
+![AstroPaper I18n](/the-legend-of-stone-man-ridge.png)
 
 
 

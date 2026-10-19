@@ -8,7 +8,7 @@ description: "Las inundaciones hicieron estragos y, al no poder bloquear el agua
 
 
 
-![AstroPaper I18n](/public/the-story-of-yu-the-great-taming-the-flood.png)
+![AstroPaper I18n](/the-story-of-yu-the-great-taming-the-flood.png)
 
 
 

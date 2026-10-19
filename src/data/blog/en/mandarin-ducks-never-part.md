@@ -8,7 +8,7 @@ description: "Sorry, it looks like you only provided a title, not the main text 
 
 
 
-![AstroPaper I18n](/public/mandarin-ducks-never-part.png)
+![AstroPaper I18n](/mandarin-ducks-never-part.png)
 
 
 

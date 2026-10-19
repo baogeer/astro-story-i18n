@@ -8,7 +8,7 @@ description: "Guanyin Bodhisattva est devenue une belle femme qui a collecté de
 
 
 
-![AstroPaper I18n](/public/guanyin-s-gift-of-the-painting.png)
+![AstroPaper I18n](/guanyin-s-gift-of-the-painting.png)
 
 
 

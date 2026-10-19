@@ -8,7 +8,7 @@ description: "El Buda viviente de Ji Gong era originalmente Li Xiuyuan, originar
 
 
 
-![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+![AstroPaper I18n](/ji-gong-the-living-buddha.png)
 
 
 

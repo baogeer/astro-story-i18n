@@ -8,7 +8,7 @@ description: "Wu Gang a été puni pour avoir tué Boling ou Xuexian. Il a abatt
 
 
 
-![AstroPaper I18n](/public/wu-gang-chops-the-laurel-tree.png)
+![AstroPaper I18n](/wu-gang-chops-the-laurel-tree.png)
 
 
 

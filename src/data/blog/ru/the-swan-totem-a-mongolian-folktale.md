@@ -8,7 +8,7 @@ description: "На берегу Байкала Хори Томерт украл�
 
 
 
-![AstroPaper I18n](/public/the-swan-totem-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-swan-totem-a-mongolian-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Jinniu tiene un buen demonio que ara los campos para la gente los 
 
 
 
-![AstroPaper I18n](/public/the-legend-behind-the-golden-ox-place-name.png)
+![AstroPaper I18n](/the-legend-behind-the-golden-ox-place-name.png)
 
 
 

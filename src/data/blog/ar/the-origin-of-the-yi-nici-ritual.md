@@ -8,7 +8,7 @@ description: "ذات مرة، كان أحد الأبناء يوبخ والدته
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-nici-ritual.png)
+![AstroPaper I18n](/the-origin-of-the-yi-nici-ritual.png)
 
 
 

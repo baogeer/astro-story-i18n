@@ -8,7 +8,7 @@ description: "En el cuento popular de Yangyi Yi, la nuera del abuelo Han es inte
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
 
 
 

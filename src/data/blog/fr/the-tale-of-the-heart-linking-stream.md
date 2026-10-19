@@ -8,7 +8,7 @@ description: "Le prince Shule est tombé amoureux de la bergère. Il a été arr
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-heart-linking-stream.png)
+![AstroPaper I18n](/the-tale-of-the-heart-linking-stream.png)
 
 
 

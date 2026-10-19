@@ -8,7 +8,7 @@ description: "Полуэкранная гора Тайваня имеет фор
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain.png)
 
 
 

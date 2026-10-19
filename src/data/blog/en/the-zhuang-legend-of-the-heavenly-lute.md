@@ -8,7 +8,7 @@ description: "Long ago, young Zhuang Nong Duan and Nong Ya heard a pleasant “d
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-heavenly-lute.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-heavenly-lute.png)
 
 
 

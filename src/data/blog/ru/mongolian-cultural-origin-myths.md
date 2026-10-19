@@ -8,7 +8,7 @@ description: "В мифологии происхождения монгольс�
 
 
 
-![AstroPaper I18n](/public/mongolian-cultural-origin-myths.png)
+![AstroPaper I18n](/mongolian-cultural-origin-myths.png)
 
 
 

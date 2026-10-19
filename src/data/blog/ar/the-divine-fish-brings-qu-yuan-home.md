@@ -8,7 +8,7 @@ description: "عندما حلمت Qu Yigu بأن سمكة مقدسة تحمل ج
 
 
 
-![AstroPaper I18n](/public/the-divine-fish-brings-qu-yuan-home.png)
+![AstroPaper I18n](/the-divine-fish-brings-qu-yuan-home.png)
 
 
 

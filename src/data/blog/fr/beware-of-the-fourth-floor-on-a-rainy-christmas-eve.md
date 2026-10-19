@@ -8,7 +8,7 @@ description: "La veille de Noël, «xa0moixa0» et Gao Chu sommes retournés dan
 
 
 
-![AstroPaper I18n](/public/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
+![AstroPaper I18n](/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ouyang Boyun, un érudit de la dynastie Ming, était pauvre et a �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ten-thousand-scrolls-peony.png)
+![AstroPaper I18n](/the-legend-of-the-ten-thousand-scrolls-peony.png)
 
 
 

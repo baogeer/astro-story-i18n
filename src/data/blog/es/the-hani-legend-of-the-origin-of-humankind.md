@@ -8,7 +8,7 @@ description: "Según las leyendas Hani, el Padre Celestial y la Madre Tierra die
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-origin-of-humankind.png)
+![AstroPaper I18n](/the-hani-legend-of-the-origin-of-humankind.png)
 
 
 

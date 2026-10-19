@@ -8,7 +8,7 @@ description: "Ши Ва влюбилась в Цветочницу, но Тор 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thread-of-sky.png)
+![AstroPaper I18n](/the-legend-of-the-thread-of-sky.png)
 
 
 

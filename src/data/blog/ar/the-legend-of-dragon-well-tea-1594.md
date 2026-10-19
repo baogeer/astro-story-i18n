@@ -8,7 +8,7 @@ description: "عندما زار الإمبراطور تشيان لونغ من أ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea-1594.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea-1594.png)
 
 
 

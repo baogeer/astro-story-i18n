@@ -8,7 +8,7 @@ description: "Érase una vez, un hijo regañaba a menudo a su madre; más tarde,
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-nici-ritual.png)
+![AstroPaper I18n](/the-origin-of-the-yi-nici-ritual.png)
 
 
 

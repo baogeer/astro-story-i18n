@@ -8,7 +8,7 @@ description: "Лян Хунъюй восстановился после пора
 
 
 
-![AstroPaper I18n](/public/the-horse-drawn-tomb-of-liang-hongyu.png)
+![AstroPaper I18n](/the-horse-drawn-tomb-of-liang-hongyu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A loving couple from Bamian Mountain in Tujia. Their husband went 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sleeping-beauty-peak.png)
+![AstroPaper I18n](/the-legend-of-the-sleeping-beauty-peak.png)
 
 
 

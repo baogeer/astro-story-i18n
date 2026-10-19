@@ -8,7 +8,7 @@ description: "Pearls are abundant along the Hepu coast. Due to excessive harvest
 
 
 
-![AstroPaper I18n](/public/the-return-of-the-hepu-pearls.png)
+![AstroPaper I18n](/the-return-of-the-hepu-pearls.png)
 
 
 

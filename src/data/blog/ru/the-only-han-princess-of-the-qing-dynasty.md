@@ -8,7 +8,7 @@ description: "Кун Сычжэн — дочь короля Диннаня Ко�
 
 
 
-![AstroPaper I18n](/public/the-only-han-princess-of-the-qing-dynasty.png)
+![AstroPaper I18n](/the-only-han-princess-of-the-qing-dynasty.png)
 
 
 

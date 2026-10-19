@@ -8,7 +8,7 @@ description: "The legend of the Northern Shaanxi Tale originated during the reig
 
 
 
-![AstroPaper I18n](/public/the-legend-of-northern-shaanxi-storytelling.png)
+![AstroPaper I18n](/the-legend-of-northern-shaanxi-storytelling.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xu Da, the founding commander of the Ming dynasty, led an army to 
 
 
 
-![AstroPaper I18n](/public/xu-da-the-great-wall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/xu-da-the-great-wall-of-the-ming-dynasty.png)
 
 
 

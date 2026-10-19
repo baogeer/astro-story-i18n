@@ -8,7 +8,7 @@ description: "L'impératrice Xiao a passé toute sa vie entre l'empereur Sui Yan
 
 
 
-![AstroPaper I18n](/public/empress-xiao-and-consort-xuanhua-peerless-beauties-passed-from-hand-to-hand.png)
+![AstroPaper I18n](/empress-xiao-and-consort-xuanhua-peerless-beauties-passed-from-hand-to-hand.png)
 
 
 

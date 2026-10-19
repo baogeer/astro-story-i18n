@@ -8,7 +8,7 @@ description: "Le jeune Buryat Hori Tomert a volé la robe en plumes de la fée d
 
 
 
-![AstroPaper I18n](/public/the-mongolian-myth-of-the-swan-totem.png)
+![AstroPaper I18n](/the-mongolian-myth-of-the-swan-totem.png)
 
 
 

@@ -8,7 +8,7 @@ description: "August 15 of the lunar calendar is the Mid-Autumn Festival, also k
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mid-autumn-festival.png)
+![AstroPaper I18n](/the-story-of-the-mid-autumn-festival.png)
 
 
 

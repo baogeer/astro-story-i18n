@@ -8,7 +8,7 @@ description: "Zhu'e a été forcée de sauter dans une rivière et de porter un 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-tale-of-yangang-and-zhue.png)
+![AstroPaper I18n](/the-bouyei-tale-of-yangang-and-zhue.png)
 
 
 

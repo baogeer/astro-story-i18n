@@ -8,7 +8,7 @@ description: "خلال سنوات تيانباو، ومن أجل تعزيز مك
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-story-of-yang-guifei-bathing-an-lushan.png)
 
 
 

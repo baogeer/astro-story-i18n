@@ -8,7 +8,7 @@ description: "A Pan, la esposa de Yang Dajian, del norte de Wei, se le da bien m
 
 
 
-![AstroPaper I18n](/public/the-remarkable-woman-warrior-greater-than-mulan.png)
+![AstroPaper I18n](/the-remarkable-woman-warrior-greater-than-mulan.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Faced with the opportunity to enter the palace and become a concub
 
 
 
-![AstroPaper I18n](/public/li-shishi-rather-a-courtesan-than-a-consort.png)
+![AstroPaper I18n](/li-shishi-rather-a-courtesan-than-a-consort.png)
 
 
 

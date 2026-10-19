@@ -8,7 +8,7 @@ description: "Su He es un pequeño pastor en la pradera de Chahar. Adoptó y cui
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-mongolian-horsehead-fiddle.png)
+![AstroPaper I18n](/the-origin-of-the-mongolian-horsehead-fiddle.png)
 
 
 

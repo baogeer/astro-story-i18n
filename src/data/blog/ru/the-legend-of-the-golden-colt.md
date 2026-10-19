@@ -8,7 +8,7 @@ description: "Старый монах из пещеры Цзиньши на го
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-colt.png)
+![AstroPaper I18n](/the-legend-of-the-golden-colt.png)
 
 
 

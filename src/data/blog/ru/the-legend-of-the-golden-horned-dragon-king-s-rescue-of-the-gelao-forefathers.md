@@ -8,7 +8,7 @@ description: "Предки этнической группы Илао встре
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
+![AstroPaper I18n](/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
 
 
 

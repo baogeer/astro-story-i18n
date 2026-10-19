@@ -8,7 +8,7 @@ description: "عندما عمل Zhuangzi كعامل طلاء للحدائق في
 
 
 
-![AstroPaper I18n](/public/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
+![AstroPaper I18n](/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
 
 
 

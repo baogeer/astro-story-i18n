@@ -8,7 +8,7 @@ description: "The giant beast of Lake Tailai repeatedly attacked people and anim
 
 
 
-![AstroPaper I18n](/public/the-hidden-killer-of-lake-tele.png)
+![AstroPaper I18n](/the-hidden-killer-of-lake-tele.png)
 
 
 

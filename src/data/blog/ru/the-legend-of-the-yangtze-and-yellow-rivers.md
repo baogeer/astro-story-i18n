@@ -8,7 +8,7 @@ description: "В древние времена голубых и желтых д
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-and-yellow-rivers.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-and-yellow-rivers.png)
 
 
 

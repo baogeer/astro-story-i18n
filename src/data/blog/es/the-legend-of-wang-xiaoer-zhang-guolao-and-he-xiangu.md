@@ -8,7 +8,7 @@ description: "Wang Xiaoer es leal y amable. Se acuesta en el hielo para salvar a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
+![AstroPaper I18n](/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "لم يلتزم الراهب بقواعد بوذا وهرب دون
 
 
 
-![AstroPaper I18n](/public/the-monk-who-fled-behind-the-nun-s-back.png)
+![AstroPaper I18n](/the-monk-who-fled-behind-the-nun-s-back.png)
 
 
 

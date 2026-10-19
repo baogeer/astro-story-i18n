@@ -8,7 +8,7 @@ description: "كان الابن العاشر لتشو يوان تشانغ، تش
 
 
 
-![AstroPaper I18n](/public/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
+![AstroPaper I18n](/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
 
 
 

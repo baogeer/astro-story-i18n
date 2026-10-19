@@ -8,7 +8,7 @@ description: "Les frères et sœurs de Panhe Gu cultivaient des gourdes géantes
 
 
 
-![AstroPaper I18n](/public/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
+![AstroPaper I18n](/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Falta el texto principal y no se puede generar el resumen."
 
 
 
-![AstroPaper I18n](/public/the-purple-peony.png)
+![AstroPaper I18n](/the-purple-peony.png)
 
 
 

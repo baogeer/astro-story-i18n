@@ -8,7 +8,7 @@ description: "Когда Чжэн Баньцяо находился в уезд�
 
 
 
-![AstroPaper I18n](/public/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
+![AstroPaper I18n](/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
 
 
 

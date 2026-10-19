@@ -8,7 +8,7 @@ description: "Zhang también fue incriminado y falsificado para investigar el ca
 
 
 
-![AstroPaper I18n](/public/the-zither-challenge.png)
+![AstroPaper I18n](/the-zither-challenge.png)
 
 
 

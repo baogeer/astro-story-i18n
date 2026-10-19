@@ -8,7 +8,7 @@ description: "خشي تينجين من أن زعيم جيولي، الأخوان
 
 
 
-![AstroPaper I18n](/public/chiyou-s-great-battle-with-the-heavenly-god.png)
+![AstroPaper I18n](/chiyou-s-great-battle-with-the-heavenly-god.png)
 
 
 

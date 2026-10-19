@@ -8,7 +8,7 @@ description: "تزوجت غو تانغ، وهي فتاة من مياو، من ز
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Songjiang Zhang Lirong et le garçon de sa voisine Li Yulang ont p
 
 
 
-![AstroPaper I18n](/public/the-eternal-romance-of-zhang-lirong.png)
+![AstroPaper I18n](/the-eternal-romance-of-zhang-lirong.png)
 
 
 

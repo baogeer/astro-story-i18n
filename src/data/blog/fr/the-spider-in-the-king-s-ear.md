@@ -8,7 +8,7 @@ description: "L'adolescent a pu comprendre le langage des oiseaux après avoir m
 
 
 
-![AstroPaper I18n](/public/the-spider-in-the-king-s-ear.png)
+![AstroPaper I18n](/the-spider-in-the-king-s-ear.png)
 
 
 

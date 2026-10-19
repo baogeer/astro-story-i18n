@@ -8,7 +8,7 @@ description: "يوجد بئر في الجزء العلوي من جبل ليجو�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-well-on-the-summit-of-leigong-mountain.png)
+![AstroPaper I18n](/the-legend-of-the-well-on-the-summit-of-leigong-mountain.png)
 
 
 

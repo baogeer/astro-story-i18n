@@ -8,7 +8,7 @@ description: "El Aqua Suning Festival tiene su origen en una leyenda: en la anti
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-suningxi-festival-of-the-sui-people.png)
+![AstroPaper I18n](/the-origin-of-the-suningxi-festival-of-the-sui-people.png)
 
 
 

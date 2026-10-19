@@ -8,7 +8,7 @@ description: "En la dinastía Ming, para evitar que parientes extranjeros dirigi
 
 
 
-![AstroPaper I18n](/public/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
+![AstroPaper I18n](/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Гао Фэнци отправился в Гуанчжоу, что
 
 
 
-![AstroPaper I18n](/public/squire-gao-suns-his-silver-ingots.png)
+![AstroPaper I18n](/squire-gao-suns-his-silver-ingots.png)
 
 
 

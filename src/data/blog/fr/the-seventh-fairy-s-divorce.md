@@ -8,7 +8,7 @@ description: "Les Sept Fées soupçonnaient Dong Yong d'être pauvre et ont pleu
 
 
 
-![AstroPaper I18n](/public/the-seventh-fairy-s-divorce.png)
+![AstroPaper I18n](/the-seventh-fairy-s-divorce.png)
 
 
 

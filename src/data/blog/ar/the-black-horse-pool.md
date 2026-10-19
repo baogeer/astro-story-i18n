@@ -8,7 +8,7 @@ description: "آه زهي، فتاة يتيمة من مجموعة يي العر�
 
 
 
-![AstroPaper I18n](/public/the-black-horse-pool.png)
+![AstroPaper I18n](/the-black-horse-pool.png)
 
 
 

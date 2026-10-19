@@ -8,7 +8,7 @@ description: "وبتوجيه من Dream White Rabbit، سافر صياد يي إ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sapilu-and-the-little-walnut.png)
+![AstroPaper I18n](/the-legend-of-sapilu-and-the-little-walnut.png)
 
 
 

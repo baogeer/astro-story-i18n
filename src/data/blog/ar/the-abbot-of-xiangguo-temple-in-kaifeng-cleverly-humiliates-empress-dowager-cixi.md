@@ -8,7 +8,7 @@ description: "قدم تشي تشينغ، شيخ معبد شوكو-جي، دلو�
 
 
 
-![AstroPaper I18n](/public/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
+![AstroPaper I18n](/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
 
 
 

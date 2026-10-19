@@ -8,7 +8,7 @@ description: "Чжу Гелян женился на Хуан Шуо, уродл�
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-s-ugly-wife.png)
+![AstroPaper I18n](/zhuge-liang-s-ugly-wife.png)
 
 
 

@@ -8,7 +8,7 @@ description: "هناك معارك خالدة في جبل إيمي وجبل با�
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-cup-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-cup-rock.png)
 
 
 

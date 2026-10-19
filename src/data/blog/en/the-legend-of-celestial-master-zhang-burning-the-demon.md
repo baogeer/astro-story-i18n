@@ -8,7 +8,7 @@ description: "Zhang Tianshi's niece got married. Local fairies harassed the brid
 
 
 
-![AstroPaper I18n](/public/the-legend-of-celestial-master-zhang-burning-the-demon.png)
+![AstroPaper I18n](/the-legend-of-celestial-master-zhang-burning-the-demon.png)
 
 
 

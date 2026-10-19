@@ -8,7 +8,7 @@ description: "Jiang Manzi dejó un petrolero que contenía plata en la casa de Z
 
 
 
-![AstroPaper I18n](/public/the-debt-repaid.png)
+![AstroPaper I18n](/the-debt-repaid.png)
 
 
 

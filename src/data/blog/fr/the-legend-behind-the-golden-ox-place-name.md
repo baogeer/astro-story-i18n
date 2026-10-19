@@ -8,7 +8,7 @@ description: "Jinniu a un bon démon qui laboure les champs pour les gens en sem
 
 
 
-![AstroPaper I18n](/public/the-legend-behind-the-golden-ox-place-name.png)
+![AstroPaper I18n](/the-legend-behind-the-golden-ox-place-name.png)
 
 
 

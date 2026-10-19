@@ -8,7 +8,7 @@ description: "El pintor Du Feng'e de Sizhou se especializa en pintar zorros, res
 
 
 
-![AstroPaper I18n](/public/the-girl-who-claimed-to-be-a-fox-fairy.png)
+![AstroPaper I18n](/the-girl-who-claimed-to-be-a-fox-fairy.png)
 
 
 

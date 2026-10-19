@@ -8,7 +8,7 @@ description: "La hermana Liu era una cantante de la dinastía Zhuang. Cantaba bu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie.png)
 
 
 

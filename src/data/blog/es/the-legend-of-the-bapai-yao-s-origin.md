@@ -8,7 +8,7 @@ description: "Los antepasados de Bapaiyao vivieron originalmente en Huguang Daoz
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bapai-yao-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-bapai-yao-s-origin.png)
 
 
 

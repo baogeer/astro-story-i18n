@@ -8,7 +8,7 @@ description: "El diablo Kaká rompe la cadena dorada, cae el sol y la tierra se 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sunflower.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sunflower.png)
 
 
 

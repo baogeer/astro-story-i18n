@@ -8,7 +8,7 @@ description: "Una mujer lavaba ropa junto al río. Tres grandes tubos de bambú 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
 
 
 

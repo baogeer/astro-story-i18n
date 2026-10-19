@@ -8,7 +8,7 @@ description: "Zhong Kui era originalmente un cazafantasmas en la dinastía Tang.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
+![AstroPaper I18n](/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
 
 
 

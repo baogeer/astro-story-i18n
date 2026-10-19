@@ -8,7 +8,7 @@ description: "Los Ocho Inmortales cruzaron el mar hasta Penglai en un barco drag
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-battle-the-flower-dragon.png)
+![AstroPaper I18n](/the-eight-immortals-battle-the-flower-dragon.png)
 
 
 

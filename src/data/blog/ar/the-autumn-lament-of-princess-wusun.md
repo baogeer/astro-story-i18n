@@ -8,7 +8,7 @@ description: "الأميرة وو سون ليو شيجون هي ابنة ملك 
 
 
 
-![AstroPaper I18n](/public/the-autumn-lament-of-princess-wusun.png)
+![AstroPaper I18n](/the-autumn-lament-of-princess-wusun.png)
 
 
 

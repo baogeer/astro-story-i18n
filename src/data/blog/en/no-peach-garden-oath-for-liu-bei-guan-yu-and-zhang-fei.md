@@ -8,7 +8,7 @@ description: "The story of Liu Bei, Guan Yu, and Zhang Fei getting together in T
 
 
 
-![AstroPaper I18n](/public/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
 
 
 

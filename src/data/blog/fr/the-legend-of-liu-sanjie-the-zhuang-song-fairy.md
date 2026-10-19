@@ -8,7 +8,7 @@ description: "Liu Sanjie, une fille Zhuang de la dynastie Tang, chantait bien de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
 
 
 

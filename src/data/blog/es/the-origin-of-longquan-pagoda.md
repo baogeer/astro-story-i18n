@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que todos los dragones blancos del condado de Te
 
 
 
-![AstroPaper I18n](/public/the-origin-of-longquan-pagoda.png)
+![AstroPaper I18n](/the-origin-of-longquan-pagoda.png)
 
 
 

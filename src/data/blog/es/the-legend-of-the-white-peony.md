@@ -8,7 +8,7 @@ description: "Xiao Zhenzi, de Luoyang en la dinastía Tang, y su pareja Wang Che
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony.png)
 
 
 

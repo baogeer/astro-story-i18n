@@ -8,7 +8,7 @@ description: "Hay varias leyendas sobre el origen de la escritura sani: se dice 
 
 
 
-![AstroPaper I18n](/public/the-origin-story-of-the-sani-script.png)
+![AstroPaper I18n](/the-origin-story-of-the-sani-script.png)
 
 
 

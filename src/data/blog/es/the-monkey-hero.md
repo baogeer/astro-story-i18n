@@ -8,7 +8,7 @@ description: "El príncipe Xu recibió el encargo de entregar 3.000 yuanes de di
 
 
 
-![AstroPaper I18n](/public/the-monkey-hero.png)
+![AstroPaper I18n](/the-monkey-hero.png)
 
 
 

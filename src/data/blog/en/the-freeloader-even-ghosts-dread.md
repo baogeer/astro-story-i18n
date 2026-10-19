@@ -8,7 +8,7 @@ description: "Mr. Baek Chi cheated on eating and drinking everywhere. Couplets c
 
 
 
-![AstroPaper I18n](/public/the-freeloader-even-ghosts-dread.png)
+![AstroPaper I18n](/the-freeloader-even-ghosts-dread.png)
 
 
 

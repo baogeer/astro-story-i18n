@@ -8,7 +8,7 @@ description: "Durante los años de Jiajing de la dinastía Ming, para entrenar y
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-zhuang-plank-shoe-dance.png)
+![AstroPaper I18n](/the-legend-of-the-zhuang-plank-shoe-dance.png)
 
 
 

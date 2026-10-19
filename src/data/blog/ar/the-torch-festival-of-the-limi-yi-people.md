@@ -8,7 +8,7 @@ description: "ينبع مهرجان Yi Liyi للشعلة الشعبية من أ�
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-limi-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-limi-yi-people.png)
 
 
 

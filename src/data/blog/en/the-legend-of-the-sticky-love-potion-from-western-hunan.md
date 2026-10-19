@@ -8,7 +8,7 @@ description: "The poor girl from Xiangxi is six lonely and without a wife. In he
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
 
 
 

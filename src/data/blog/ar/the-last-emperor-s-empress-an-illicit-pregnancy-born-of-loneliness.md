@@ -8,7 +8,7 @@ description: "حصلت الإمبراطورة وان رونغ من الإمبر�
 
 
 
-![AstroPaper I18n](/public/the-last-emperor-s-empress-an-illicit-pregnancy-born-of-loneliness.png)
+![AstroPaper I18n](/the-last-emperor-s-empress-an-illicit-pregnancy-born-of-loneliness.png)
 
 
 

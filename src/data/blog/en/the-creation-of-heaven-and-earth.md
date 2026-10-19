@@ -8,7 +8,7 @@ description: "Pangu was instructed by the fortune teller to hunt down the Dragon
 
 
 
-![AstroPaper I18n](/public/the-creation-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-creation-of-heaven-and-earth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qin Shi Huang usó un látigo de montaña para arrojar la montaña
 
 
 
-![AstroPaper I18n](/public/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
+![AstroPaper I18n](/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
 
 
 

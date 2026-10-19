@@ -8,7 +8,7 @@ description: "يقوم صيادو ثعبان دونغ غون بتدجين الث
 
 
 
-![AstroPaper I18n](/public/the-snake-charmer.png)
+![AstroPaper I18n](/the-snake-charmer.png)
 
 
 

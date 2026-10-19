@@ -8,7 +8,7 @@ description: "“Jiemai Ling” is a folklore spread in Jinyun. The author was d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jiemai-ridge.png)
+![AstroPaper I18n](/the-legend-of-jiemai-ridge.png)
 
 
 

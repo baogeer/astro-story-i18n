@@ -8,7 +8,7 @@ description: "Un étudiant a sauvé le renard blanc et celui-ci l'a récompensé
 
 
 
-![AstroPaper I18n](/public/the-student-s-strange-romance.png)
+![AstroPaper I18n](/the-student-s-strange-romance.png)
 
 
 

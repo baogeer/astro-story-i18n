@@ -8,7 +8,7 @@ description: "Tras asistir a la escuela primaria, Shen Congwen dejó el ejércit
 
 
 
-![AstroPaper I18n](/public/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
+![AstroPaper I18n](/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
 
 
 

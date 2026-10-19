@@ -8,7 +8,7 @@ description: "Empress Xiao spent her whole life between Emperor Sui Yang, Yu Wen
 
 
 
-![AstroPaper I18n](/public/empress-xiao-and-consort-xuanhua-peerless-beauties-passed-from-hand-to-hand.png)
+![AstroPaper I18n](/empress-xiao-and-consort-xuanhua-peerless-beauties-passed-from-hand-to-hand.png)
 
 
 

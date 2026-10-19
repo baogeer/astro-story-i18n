@@ -8,7 +8,7 @@ description: "After getting married, Cheung Suk-yee had no children for five yea
 
 
 
-![AstroPaper I18n](/public/zhang-shuyi-plays-matchmaker-for-her-husband.png)
+![AstroPaper I18n](/zhang-shuyi-plays-matchmaker-for-her-husband.png)
 
 
 

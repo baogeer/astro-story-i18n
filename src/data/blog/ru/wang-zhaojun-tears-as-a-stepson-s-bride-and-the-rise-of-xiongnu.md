@@ -8,7 +8,7 @@ description: "Ван Чжаоцзюнь была избрана во дворе�
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
+![AstroPaper I18n](/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
 
 
 

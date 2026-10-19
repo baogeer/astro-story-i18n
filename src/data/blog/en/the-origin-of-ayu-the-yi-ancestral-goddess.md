@@ -8,7 +8,7 @@ description: "The ancient female ancestor of the Yi people, Ayu God, was both a 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-ayu-the-yi-ancestral-goddess.png)
+![AstroPaper I18n](/the-origin-of-ayu-the-yi-ancestral-goddess.png)
 
 
 

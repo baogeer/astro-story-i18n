@@ -8,7 +8,7 @@ description: "Guo Lu, an orphan from the Yilao tribe, learned to save fruit and 
 
 
 
-![AstroPaper I18n](/public/the-gelao-love-story-of-luosipo.png)
+![AstroPaper I18n](/the-gelao-love-story-of-luosipo.png)
 
 
 

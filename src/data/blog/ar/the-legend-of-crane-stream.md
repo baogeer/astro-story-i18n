@@ -8,7 +8,7 @@ description: "اختبأ فوميكيوبوكو وشوانغي في عزلة ف�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-stream.png)
+![AstroPaper I18n](/the-legend-of-crane-stream.png)
 
 
 

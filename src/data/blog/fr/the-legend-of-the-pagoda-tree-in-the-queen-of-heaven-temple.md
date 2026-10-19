@@ -8,7 +8,7 @@ description: "La légende raconte que lorsque Tieguai Li et Zhang Guolao se sont
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
+![AstroPaper I18n](/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
 
 
 

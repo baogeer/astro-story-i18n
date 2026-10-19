@@ -8,7 +8,7 @@ description: "Zhou Sheng, an old drug collector, is kind and often helps the poo
 
 
 
-![AstroPaper I18n](/public/the-unexpected-well.png)
+![AstroPaper I18n](/the-unexpected-well.png)
 
 
 

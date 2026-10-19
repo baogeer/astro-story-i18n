@@ -8,7 +8,7 @@ description: "مو جي تشو هي ابنة الله. تم إنقاذ كل شخ
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
 
 
 

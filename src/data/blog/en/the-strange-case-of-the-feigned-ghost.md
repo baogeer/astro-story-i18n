@@ -8,7 +8,7 @@ description: "Governor Tang Zhiyu, who is directly subordinate to the governor, 
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-feigned-ghost.png)
+![AstroPaper I18n](/the-strange-case-of-the-feigned-ghost.png)
 
 
 

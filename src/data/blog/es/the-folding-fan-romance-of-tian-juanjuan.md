@@ -8,7 +8,7 @@ description: "Cuando Sanin Saiko Mumoto viajó por el monte Taishan, soñó con 
 
 
 
-![AstroPaper I18n](/public/the-folding-fan-romance-of-tian-juanjuan.png)
+![AstroPaper I18n](/the-folding-fan-romance-of-tian-juanjuan.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أمسكت المرأة التي قطفت اللؤلؤ بلح ال
 
 
 
-![AstroPaper I18n](/public/the-pearl-maiden.png)
+![AstroPaper I18n](/the-pearl-maiden.png)
 
 
 

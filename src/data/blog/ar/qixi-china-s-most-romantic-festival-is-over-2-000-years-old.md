@@ -8,7 +8,7 @@ description: "يعود تاريخ تاناباتا، المعروف أيضًا �
 
 
 
-![AstroPaper I18n](/public/qixi-china-s-most-romantic-festival-is-over-2-000-years-old.png)
+![AstroPaper I18n](/qixi-china-s-most-romantic-festival-is-over-2-000-years-old.png)
 
 
 

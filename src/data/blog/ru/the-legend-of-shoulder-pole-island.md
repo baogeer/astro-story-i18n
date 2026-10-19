@@ -8,7 +8,7 @@ description: "Пастух Танабата занимается ткачест�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shoulder-pole-island.png)
+![AstroPaper I18n](/the-legend-of-shoulder-pole-island.png)
 
 
 

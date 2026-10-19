@@ -8,7 +8,7 @@ description: "En la antigüedad, el rey Gao Xin daba recompensas por conquistar 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dog-king-of-the-she-people.png)
+![AstroPaper I18n](/the-legend-of-the-dog-king-of-the-she-people.png)
 
 
 

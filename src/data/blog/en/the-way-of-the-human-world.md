@@ -8,7 +8,7 @@ description: "Mr. Hu wanted to confuse the underworld. He was sent to swamps and
 
 
 
-![AstroPaper I18n](/public/the-way-of-the-human-world.png)
+![AstroPaper I18n](/the-way-of-the-human-world.png)
 
 
 

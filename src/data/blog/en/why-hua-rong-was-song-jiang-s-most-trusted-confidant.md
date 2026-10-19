@@ -8,7 +8,7 @@ description: "Song Jiang is the head of Liangshan Mountain and has many hearts, 
 
 
 
-![AstroPaper I18n](/public/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
+![AstroPaper I18n](/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
 
 
 

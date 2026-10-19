@@ -8,7 +8,7 @@ description: "أطلق العملاق، جيان جيانزو، النار عل�
 
 
 
-![AstroPaper I18n](/public/the-pumi-tale-of-catching-the-red-deer.png)
+![AstroPaper I18n](/the-pumi-tale-of-catching-the-red-deer.png)
 
 
 

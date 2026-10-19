@@ -8,7 +8,7 @@ description: "Ли Чун сначала предложил г-ну Фэн-шу�
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
 
 
 

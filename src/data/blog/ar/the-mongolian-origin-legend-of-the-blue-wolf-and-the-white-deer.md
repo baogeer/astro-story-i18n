@@ -8,7 +8,7 @@ description: "عندما كانت طفلة، نشأت كورتي شينا على
 
 
 
-![AstroPaper I18n](/public/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
+![AstroPaper I18n](/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
 
 
 

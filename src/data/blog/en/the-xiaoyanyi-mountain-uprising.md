@@ -8,7 +8,7 @@ description: "In the second year of the proclamation of unification in the late 
 
 
 
-![AstroPaper I18n](/public/the-xiaoyanyi-mountain-uprising.png)
+![AstroPaper I18n](/the-xiaoyanyi-mountain-uprising.png)
 
 
 

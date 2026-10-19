@@ -8,7 +8,7 @@ description: "Бай Ньян Цзы изначально была белой з
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
 
 
 

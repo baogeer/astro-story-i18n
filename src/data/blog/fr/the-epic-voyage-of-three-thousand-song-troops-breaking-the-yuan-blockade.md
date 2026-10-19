@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Song du Sud, Xiangyang a été assié
 
 
 
-![AstroPaper I18n](/public/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
+![AstroPaper I18n](/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
 
 
 

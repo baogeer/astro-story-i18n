@@ -8,7 +8,7 @@ description: "At the end of the Qing dynasty, a housekeeper escorted over 20 pac
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
+![AstroPaper I18n](/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
 
 
 

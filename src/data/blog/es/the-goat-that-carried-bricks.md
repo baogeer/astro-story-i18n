@@ -8,7 +8,7 @@ description: "Cuando se construyó Jiayuguan, las murallas de la ciudad eran tan
 
 
 
-![AstroPaper I18n](/public/the-goat-that-carried-bricks.png)
+![AstroPaper I18n](/the-goat-that-carried-bricks.png)
 
 
 

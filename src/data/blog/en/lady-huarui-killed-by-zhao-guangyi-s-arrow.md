@@ -8,7 +8,7 @@ description: "Mrs. Huarui was the favorite concubine of the later Shu lord Meng 
 
 
 
-![AstroPaper I18n](/public/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
+![AstroPaper I18n](/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
 
 
 

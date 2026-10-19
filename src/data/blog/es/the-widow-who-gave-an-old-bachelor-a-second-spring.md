@@ -8,7 +8,7 @@ description: "Al final de la dinastía Qing, Wang Erzhuang, un soltero del sur d
 
 
 
-![AstroPaper I18n](/public/the-widow-who-gave-an-old-bachelor-a-second-spring.png)
+![AstroPaper I18n](/the-widow-who-gave-an-old-bachelor-a-second-spring.png)
 
 
 

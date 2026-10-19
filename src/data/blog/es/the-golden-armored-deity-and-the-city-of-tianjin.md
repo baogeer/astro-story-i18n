@@ -8,7 +8,7 @@ description: "Tianjin se conoce comúnmente como «Ciudad del Ábaco». Durante 
 
 
 
-![AstroPaper I18n](/public/the-golden-armored-deity-and-the-city-of-tianjin.png)
+![AstroPaper I18n](/the-golden-armored-deity-and-the-city-of-tianjin.png)
 
 
 

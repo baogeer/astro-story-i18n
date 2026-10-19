@@ -8,7 +8,7 @@ description: "Му Цзечжу — дочь Бога. Всех, кто попа
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
 
 
 

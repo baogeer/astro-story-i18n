@@ -8,7 +8,7 @@ description: "Afin de venger son père, Mei Niang a enfreint les règles de la f
 
 
 
-![AstroPaper I18n](/public/the-lost-rose-red-wine.png)
+![AstroPaper I18n](/the-lost-rose-red-wine.png)
 
 
 

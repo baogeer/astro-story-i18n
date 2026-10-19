@@ -8,7 +8,7 @@ description: "ذهب Gao Fengqi إلى قوانغتشو لكسب ثروة من �
 
 
 
-![AstroPaper I18n](/public/squire-gao-suns-his-silver-ingots.png)
+![AstroPaper I18n](/squire-gao-suns-his-silver-ingots.png)
 
 
 

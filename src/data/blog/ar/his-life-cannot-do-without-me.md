@@ -8,7 +8,7 @@ description: "سُئل يو جوانجزونغ عن سبب عدم رده على 
 
 
 
-![AstroPaper I18n](/public/his-life-cannot-do-without-me.png)
+![AstroPaper I18n](/his-life-cannot-do-without-me.png)
 
 
 

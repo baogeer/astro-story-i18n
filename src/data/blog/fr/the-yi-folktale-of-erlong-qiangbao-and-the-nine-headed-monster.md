@@ -8,7 +8,7 @@ description: "Dans les contes populaires Yi, Erlong, le fils d'une femme et d'un
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
+![AstroPaper I18n](/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
 
 
 

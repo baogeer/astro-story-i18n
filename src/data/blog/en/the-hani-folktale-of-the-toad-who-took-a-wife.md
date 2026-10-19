@@ -8,7 +8,7 @@ description: "An old Hani couple got toad sons from pumpkins. When the toad grew
 
 
 
-![AstroPaper I18n](/public/the-hani-folktale-of-the-toad-who-took-a-wife.png)
+![AstroPaper I18n](/the-hani-folktale-of-the-toad-who-took-a-wife.png)
 
 
 

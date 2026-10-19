@@ -8,7 +8,7 @@ description: "Чжун Лицюань родился в бытность ген�
 
 
 
-![AstroPaper I18n](/public/zhongli-quan-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhongli-quan-one-of-the-eight-immortals.png)
 
 
 

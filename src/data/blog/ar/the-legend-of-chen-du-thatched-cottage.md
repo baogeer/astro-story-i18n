@@ -8,7 +8,7 @@ description: "عاش تانغ جينغتشوان طفولة عنيدة وكان 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chen-du-thatched-cottage.png)
+![AstroPaper I18n](/the-legend-of-chen-du-thatched-cottage.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La fille de l'empereur Yan est partie en bateau vers la mer de Chi
 
 
 
-![AstroPaper I18n](/public/the-story-of-jingwei-filling-the-sea.png)
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
 
 
 

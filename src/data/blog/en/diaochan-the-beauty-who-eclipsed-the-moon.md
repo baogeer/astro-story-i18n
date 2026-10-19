@@ -8,7 +8,7 @@ description: "At the end of the Eastern Han dynasty, Dong Zhuo was authoritarian
 
 
 
-![AstroPaper I18n](/public/diaochan-the-beauty-who-eclipsed-the-moon.png)
+![AstroPaper I18n](/diaochan-the-beauty-who-eclipsed-the-moon.png)
 
 
 

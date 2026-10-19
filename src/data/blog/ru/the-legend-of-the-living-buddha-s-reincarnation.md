@@ -8,7 +8,7 @@ description: "После смерти Кармы он захотел реинк�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-living-buddha-s-reincarnation.png)
+![AstroPaper I18n](/the-legend-of-the-living-buddha-s-reincarnation.png)
 
 
 

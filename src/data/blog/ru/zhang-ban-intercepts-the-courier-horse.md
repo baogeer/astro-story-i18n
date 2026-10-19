@@ -8,7 +8,7 @@ description: "Чжан — конфуцианский студент перио�
 
 
 
-![AstroPaper I18n](/public/zhang-ban-intercepts-the-courier-horse.png)
+![AstroPaper I18n](/zhang-ban-intercepts-the-courier-horse.png)
 
 
 

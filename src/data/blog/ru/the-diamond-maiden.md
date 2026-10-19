@@ -8,7 +8,7 @@ description: "Пантай, бедный мальчик, благодаря св
 
 
 
-![AstroPaper I18n](/public/the-diamond-maiden.png)
+![AstroPaper I18n](/the-diamond-maiden.png)
 
 
 

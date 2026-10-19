@@ -8,7 +8,7 @@ description: "Le peuple Hani a organisé des funérailles grandioses pour les pe
 
 
 
-![AstroPaper I18n](/public/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
+![AstroPaper I18n](/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
 
 
 

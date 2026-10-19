@@ -8,7 +8,7 @@ description: "Après avoir épousé Li Yi, une fille talentueuse de la dynastie 
 
 
 
-![AstroPaper I18n](/public/the-death-of-yu-xuanji-the-tang-dynasty-poetess-ruined-by-jealousy.png)
+![AstroPaper I18n](/the-death-of-yu-xuanji-the-tang-dynasty-poetess-ruined-by-jealousy.png)
 
 
 

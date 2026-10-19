@@ -8,7 +8,7 @@ description: "ذهب وانغ شوانزي إلى الهند وتعرض لكمي
 
 
 
-![AstroPaper I18n](/public/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
+![AstroPaper I18n](/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
 
 
 

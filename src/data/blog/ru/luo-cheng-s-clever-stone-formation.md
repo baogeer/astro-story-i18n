@@ -8,7 +8,7 @@ description: "В конце правления династии Суй Ло Чэ
 
 
 
-![AstroPaper I18n](/public/luo-cheng-s-clever-stone-formation.png)
+![AstroPaper I18n](/luo-cheng-s-clever-stone-formation.png)
 
 
 

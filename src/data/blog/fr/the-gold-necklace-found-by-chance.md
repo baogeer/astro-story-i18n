@@ -8,7 +8,7 @@ description: "Lorsque Sun Chaoren est sorti avec Li Xiaoqing dans le dos, il a m
 
 
 
-![AstroPaper I18n](/public/the-gold-necklace-found-by-chance.png)
+![AstroPaper I18n](/the-gold-necklace-found-by-chance.png)
 
 
 

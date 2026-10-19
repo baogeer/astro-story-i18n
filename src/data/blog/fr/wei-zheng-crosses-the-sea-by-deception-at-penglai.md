@@ -8,7 +8,7 @@ description: "Wei Zheng a accompagné Tang Taizong à Goryeo et était stationn�
 
 
 
-![AstroPaper I18n](/public/wei-zheng-crosses-the-sea-by-deception-at-penglai.png)
+![AstroPaper I18n](/wei-zheng-crosses-the-sea-by-deception-at-penglai.png)
 
 
 

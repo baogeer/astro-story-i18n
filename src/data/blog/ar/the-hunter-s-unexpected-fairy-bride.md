@@ -8,7 +8,7 @@ description: "أنقذ الصياد الأرنب عن طريق الصدفة، و
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-unexpected-fairy-bride.png)
+![AstroPaper I18n](/the-hunter-s-unexpected-fairy-bride.png)
 
 
 

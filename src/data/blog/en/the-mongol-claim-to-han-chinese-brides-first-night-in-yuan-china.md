@@ -8,7 +8,7 @@ description: "The Mongols in the Yuan dynasty ruled over the Han people, occupie
 
 
 
-![AstroPaper I18n](/public/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
+![AstroPaper I18n](/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
 
 
 

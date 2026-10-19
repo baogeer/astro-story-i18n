@@ -8,7 +8,7 @@ description: "Prince Shule fell in love with the shepherdess. He was stopped by 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-heart-linking-stream.png)
+![AstroPaper I18n](/the-tale-of-the-heart-linking-stream.png)
 
 
 

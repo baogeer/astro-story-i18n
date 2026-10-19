@@ -8,7 +8,7 @@ description: "Когда Сюаньюань Хуанди вознесся в р�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+![AstroPaper I18n](/the-legend-of-jinyun-yellow-tea.png)
 
 
 

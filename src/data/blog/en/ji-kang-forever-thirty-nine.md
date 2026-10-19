@@ -8,7 +8,7 @@ description: "Ji Kang is a famous person from Wei Jin. On the surface, he advoca
 
 
 
-![AstroPaper I18n](/public/ji-kang-forever-thirty-nine.png)
+![AstroPaper I18n](/ji-kang-forever-thirty-nine.png)
 
 
 

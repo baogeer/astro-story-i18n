@@ -8,7 +8,7 @@ description: "Les oiseaux se sont rassemblés pour choisir le roi et les chauves
 
 
 
-![AstroPaper I18n](/public/the-bat-who-would-be-king.png)
+![AstroPaper I18n](/the-bat-who-would-be-king.png)
 
 
 

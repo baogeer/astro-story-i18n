@@ -8,7 +8,7 @@ description: "Zhuo Wenjun corre pobre e indigente por la noche debido a la canci
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-sells-wine-only-for-love.png)
+![AstroPaper I18n](/zhuo-wenjun-sells-wine-only-for-love.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Les marchands tibétains et indiens vendaient chacun des produits 
 
 
 
-![AstroPaper I18n](/public/the-tibetan-merchant-and-the-indian-merchant.png)
+![AstroPaper I18n](/the-tibetan-merchant-and-the-indian-merchant.png)
 
 
 

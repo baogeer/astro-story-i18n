@@ -8,7 +8,7 @@ description: "Peony anecdotes bring together many allusions from the Tang Dynast
 
 
 
-![AstroPaper I18n](/public/peony-anecdotes.png)
+![AstroPaper I18n](/peony-anecdotes.png)
 
 
 

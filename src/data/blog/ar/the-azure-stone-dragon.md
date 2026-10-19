@@ -8,7 +8,7 @@ description: "كان Qinglong في الأصل حارسًا شخصيًا في ق�
 
 
 
-![AstroPaper I18n](/public/the-azure-stone-dragon.png)
+![AstroPaper I18n](/the-azure-stone-dragon.png)
 
 
 

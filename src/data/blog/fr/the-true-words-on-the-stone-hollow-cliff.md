@@ -8,7 +8,7 @@ description: "Lors du festival de la pêche de Yuhuangge, Tieguai Li Huazuo est 
 
 
 
-![AstroPaper I18n](/public/the-true-words-on-the-stone-hollow-cliff.png)
+![AstroPaper I18n](/the-true-words-on-the-stone-hollow-cliff.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El anciano no estaba satisfecho con la pereza de su hijo y le prom
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-gold-coin.png)
+![AstroPaper I18n](/the-story-of-a-gold-coin.png)
 
 
 

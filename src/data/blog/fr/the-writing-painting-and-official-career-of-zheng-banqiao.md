@@ -8,7 +8,7 @@ description: "Zheng Banqiao est né dans la pauvreté et a appris à lire et à 
 
 
 
-![AstroPaper I18n](/public/the-writing-painting-and-official-career-of-zheng-banqiao.png)
+![AstroPaper I18n](/the-writing-painting-and-official-career-of-zheng-banqiao.png)
 
 
 

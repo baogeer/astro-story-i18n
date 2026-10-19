@@ -8,7 +8,7 @@ description: "Selon certaines rumeurs, le prédécesseur de Su Shi était les Ci
 
 
 
-![AstroPaper I18n](/public/the-past-and-future-incarnations-of-su-shi.png)
+![AstroPaper I18n](/the-past-and-future-incarnations-of-su-shi.png)
 
 
 

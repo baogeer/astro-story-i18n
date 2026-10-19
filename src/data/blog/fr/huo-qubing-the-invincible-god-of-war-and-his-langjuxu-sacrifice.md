@@ -8,7 +8,7 @@ description: "À l'âge de 17 ans, Huo Gubiao a accompagné Wei Qing et a condui
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
+![AstroPaper I18n](/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
 
 
 

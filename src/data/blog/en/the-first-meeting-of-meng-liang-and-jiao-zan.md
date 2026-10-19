@@ -8,7 +8,7 @@ description: "Meng Liangli was able to share his strength. Jiao praised and disa
 
 
 
-![AstroPaper I18n](/public/the-first-meeting-of-meng-liang-and-jiao-zan.png)
+![AstroPaper I18n](/the-first-meeting-of-meng-liang-and-jiao-zan.png)
 
 
 

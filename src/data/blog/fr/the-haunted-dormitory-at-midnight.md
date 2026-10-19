@@ -8,7 +8,7 @@ description: "Il y a eu un cas où une fille s'est pendue dans le dortoir d'une 
 
 
 
-![AstroPaper I18n](/public/the-haunted-dormitory-at-midnight.png)
+![AstroPaper I18n](/the-haunted-dormitory-at-midnight.png)
 
 
 

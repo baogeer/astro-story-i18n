@@ -8,7 +8,7 @@ description: "15 августа по лунному календарю отме�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mid-autumn-festival.png)
+![AstroPaper I18n](/the-story-of-the-mid-autumn-festival.png)
 
 
 

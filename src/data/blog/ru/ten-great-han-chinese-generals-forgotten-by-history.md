@@ -8,7 +8,7 @@ description: "Хотя десять ведущих ханьских генера
 
 
 
-![AstroPaper I18n](/public/ten-great-han-chinese-generals-forgotten-by-history.png)
+![AstroPaper I18n](/ten-great-han-chinese-generals-forgotten-by-history.png)
 
 
 

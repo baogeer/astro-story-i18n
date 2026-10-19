@@ -8,7 +8,7 @@ description: "The heat was unbearable during the construction of Badaling, and t
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-treasure-bottle-and-the-holy-spring.png)
+![AstroPaper I18n](/the-legend-of-the-treasure-bottle-and-the-holy-spring.png)
 
 
 

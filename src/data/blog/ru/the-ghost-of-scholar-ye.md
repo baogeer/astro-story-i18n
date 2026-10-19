@@ -8,7 +8,7 @@ description: "Е Шэн был чрезвычайно талантлив, но �
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-scholar-ye.png)
+![AstroPaper I18n](/the-ghost-of-scholar-ye.png)
 
 
 

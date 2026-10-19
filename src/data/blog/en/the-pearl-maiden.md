@@ -8,7 +8,7 @@ description: "The woman who picked pearls caught the mussel and released the mot
 
 
 
-![AstroPaper I18n](/public/the-pearl-maiden.png)
+![AstroPaper I18n](/the-pearl-maiden.png)
 
 
 

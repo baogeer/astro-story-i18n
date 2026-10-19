@@ -8,7 +8,7 @@ description: "Su Hui (Zi Ruolan), una talentosa mujer de Dong Jin, se casó con 
 
 
 
-![AstroPaper I18n](/public/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
+![AstroPaper I18n](/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
 
 
 

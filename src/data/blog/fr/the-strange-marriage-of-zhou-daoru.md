@@ -8,7 +8,7 @@ description: "Zhou Daoru a enseigné dans la famille de Yuan Shikai pendant plus
 
 
 
-![AstroPaper I18n](/public/the-strange-marriage-of-zhou-daoru.png)
+![AstroPaper I18n](/the-strange-marriage-of-zhou-daoru.png)
 
 
 

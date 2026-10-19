@@ -8,7 +8,7 @@ description: "После вторжения императора Юнлэ Чжу
 
 
 
-![AstroPaper I18n](/public/the-talented-scholars-of-the-yongle-court.png)
+![AstroPaper I18n](/the-talented-scholars-of-the-yongle-court.png)
 
 
 

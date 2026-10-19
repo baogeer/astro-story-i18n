@@ -8,7 +8,7 @@ description: "The Yilao people obtained grain seeds from rescued dogs and reclai
 
 
 
-![AstroPaper I18n](/public/the-gelao-legend-of-the-field-mother.png)
+![AstroPaper I18n](/the-gelao-legend-of-the-field-mother.png)
 
 
 

@@ -8,7 +8,7 @@ description: "When the ancestors of the Yilao tribe were stranded in a tree, the
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-horned-dragon-king-saving-the-gelao-ancestors.png)
+![AstroPaper I18n](/the-legend-of-the-golden-horned-dragon-king-saving-the-gelao-ancestors.png)
 
 
 

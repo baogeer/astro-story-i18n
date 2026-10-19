@@ -8,7 +8,7 @@ description: "Los antiguos hui cultivaban pepinos, y los dexianos enseñaban a l
 
 
 
-![AstroPaper I18n](/public/the-cucumber-that-tamed-the-yellow-river.png)
+![AstroPaper I18n](/the-cucumber-that-tamed-the-yellow-river.png)
 
 
 

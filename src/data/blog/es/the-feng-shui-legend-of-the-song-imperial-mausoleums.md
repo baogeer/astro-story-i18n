@@ -8,7 +8,7 @@ description: "El mausoleo imperial de la dinastía Song del Norte solía elegir 
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
 
 
 

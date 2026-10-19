@@ -8,7 +8,7 @@ description: "Ван Сяо, честный и преданный дровосе
 
 
 
-![AstroPaper I18n](/public/the-legend-of-luofeng-mountain.png)
+![AstroPaper I18n](/the-legend-of-luofeng-mountain.png)
 
 
 

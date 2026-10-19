@@ -8,7 +8,7 @@ description: "Tanabata, also known as the Beggar Festival, has a history of more
 
 
 
-![AstroPaper I18n](/public/qixi-china-s-most-romantic-festival-is-over-2-000-years-old.png)
+![AstroPaper I18n](/qixi-china-s-most-romantic-festival-is-over-2-000-years-old.png)
 
 
 

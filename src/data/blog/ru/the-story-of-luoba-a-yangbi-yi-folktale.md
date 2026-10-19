@@ -8,7 +8,7 @@ description: "Луоба, молодая этническая группа Йи,
 
 
 
-![AstroPaper I18n](/public/the-story-of-luoba-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-story-of-luoba-a-yangbi-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В монгольских легендах отражен куль
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
 
 
 

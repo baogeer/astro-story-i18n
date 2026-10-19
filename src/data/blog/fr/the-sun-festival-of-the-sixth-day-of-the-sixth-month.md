@@ -8,7 +8,7 @@ description: "Lorsque les temps anciens sont apparus le 10, Asan a amené quelqu
 
 
 
-![AstroPaper I18n](/public/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
+![AstroPaper I18n](/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
 
 
 

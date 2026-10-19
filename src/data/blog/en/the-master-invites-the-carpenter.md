@@ -8,7 +8,7 @@ description: "In 1929, Xu Beihong became the dean of the School of Art at Beipin
 
 
 
-![AstroPaper I18n](/public/the-master-invites-the-carpenter.png)
+![AstroPaper I18n](/the-master-invites-the-carpenter.png)
 
 
 

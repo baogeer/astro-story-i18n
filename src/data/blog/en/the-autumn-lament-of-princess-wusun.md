@@ -8,7 +8,7 @@ description: "Princess Wu Sun Liu Xijun is the daughter of the King of the Weste
 
 
 
-![AstroPaper I18n](/public/the-autumn-lament-of-princess-wusun.png)
+![AstroPaper I18n](/the-autumn-lament-of-princess-wusun.png)
 
 
 

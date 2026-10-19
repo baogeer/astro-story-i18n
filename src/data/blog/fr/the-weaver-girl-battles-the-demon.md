@@ -8,7 +8,7 @@ description: "Le vacher est tombé aux mains du diable et a fait du mal aux gens
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-battles-the-demon.png)
+![AstroPaper I18n](/the-weaver-girl-battles-the-demon.png)
 
 
 

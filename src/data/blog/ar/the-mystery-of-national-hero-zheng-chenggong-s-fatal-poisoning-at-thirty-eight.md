@@ -8,7 +8,7 @@ description: "بعد أن نجح Zheng في استعادة تايوان، كان
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
+![AstroPaper I18n](/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Old flower farmers are obsessed with painting peonies; paintings c
 
 
 
-![AstroPaper I18n](/public/the-peony-in-the-painting.png)
+![AstroPaper I18n](/the-peony-in-the-painting.png)
 
 
 

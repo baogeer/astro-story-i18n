@@ -8,7 +8,7 @@ description: "Anciennement connue sous le nom de Dazhaozhuang, la collection Fen
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-fengshanji.png)
+![AstroPaper I18n](/the-rise-and-fall-of-fengshanji.png)
 
 
 

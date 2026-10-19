@@ -8,7 +8,7 @@ description: "Лу Дунбинь был тронут добрыми делам�
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-taiping-river.png)
+![AstroPaper I18n](/the-legend-by-the-taiping-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Xilie, un general rebelde de la dinastía Tang, atacó la ciuda
 
 
 
-![AstroPaper I18n](/public/the-wife-who-helped-her-husband-defend-the-city.png)
+![AstroPaper I18n](/the-wife-who-helped-her-husband-defend-the-city.png)
 
 
 

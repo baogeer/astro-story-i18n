@@ -8,7 +8,7 @@ description: "تم إلقاء منزل دونغ مو آن بالطوب والب�
 
 
 
-![AstroPaper I18n](/public/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
+![AstroPaper I18n](/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
 
 
 

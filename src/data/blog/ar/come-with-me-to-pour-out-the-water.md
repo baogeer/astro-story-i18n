@@ -8,7 +8,7 @@ description: "طلب مني رفيقي في الغرفة، تينغ تينغ، �
 
 
 
-![AstroPaper I18n](/public/come-with-me-to-pour-out-the-water.png)
+![AstroPaper I18n](/come-with-me-to-pour-out-the-water.png)
 
 
 

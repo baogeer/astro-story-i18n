@@ -8,7 +8,7 @@ description: "The legend of the extermination of corpses from Xiangxi is related
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiangxi-corpse-driving.png)
+![AstroPaper I18n](/the-legend-of-xiangxi-corpse-driving.png)
 
 
 

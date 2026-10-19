@@ -8,7 +8,7 @@ description: "Hu Lanqi هي أول امرأة برتبة لواء في الصي�
 
 
 
-![AstroPaper I18n](/public/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
+![AstroPaper I18n](/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
 
 
 

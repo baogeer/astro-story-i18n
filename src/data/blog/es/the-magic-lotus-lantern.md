@@ -8,7 +8,7 @@ description: "Las Tres Madonna se enamoraron del mortal Liu Yanchang. Fueron apl
 
 
 
-![AstroPaper I18n](/public/the-magic-lotus-lantern.png)
+![AstroPaper I18n](/the-magic-lotus-lantern.png)
 
 
 

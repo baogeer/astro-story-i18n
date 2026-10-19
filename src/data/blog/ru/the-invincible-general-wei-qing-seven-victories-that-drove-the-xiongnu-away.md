@@ -8,7 +8,7 @@ description: "Вэй Цин происходил из скромных семе�
 
 
 
-![AstroPaper I18n](/public/the-invincible-general-wei-qing-seven-victories-that-drove-the-xiongnu-away.png)
+![AstroPaper I18n](/the-invincible-general-wei-qing-seven-victories-that-drove-the-xiongnu-away.png)
 
 
 

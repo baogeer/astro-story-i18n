@@ -8,7 +8,7 @@ description: "Сяомэй Су и ее старший брат Су Ши час
 
 
 
-![AstroPaper I18n](/public/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
+![AstroPaper I18n](/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
 
 
 

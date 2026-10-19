@@ -8,7 +8,7 @@ description: "Xiucai Yue Cheng a acheté la fleur morte de l'engouement, et le d
 
 
 
-![AstroPaper I18n](/public/the-lovelorn-flower-spirit.png)
+![AstroPaper I18n](/the-lovelorn-flower-spirit.png)
 
 
 

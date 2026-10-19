@@ -8,7 +8,7 @@ description: "Las anécdotas sobre peonías reúnen muchas alusiones a la dinast
 
 
 
-![AstroPaper I18n](/public/peony-anecdotes.png)
+![AstroPaper I18n](/peony-anecdotes.png)
 
 
 

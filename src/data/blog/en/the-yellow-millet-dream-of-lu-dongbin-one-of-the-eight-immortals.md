@@ -8,7 +8,7 @@ description: "At the age of 64, Lu Dongbin lost his career and met Zhong Leequon
 
 
 
-![AstroPaper I18n](/public/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
 
 
 

@@ -8,7 +8,7 @@ description: "An old man surnamed Zhu from Zhujiacun in Jiyang came back to life
 
 
 
-![AstroPaper I18n](/public/the-story-of-old-man-zhu.png)
+![AstroPaper I18n](/the-story-of-old-man-zhu.png)
 
 
 

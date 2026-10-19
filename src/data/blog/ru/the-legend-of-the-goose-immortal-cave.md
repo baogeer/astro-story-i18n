@@ -8,7 +8,7 @@ description: "До того, как Лорен отправился на экз�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goose-immortal-cave.png)
+![AstroPaper I18n](/the-legend-of-the-goose-immortal-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Macaques were ordered by Kannon Bodhisattva to practice in a snowy
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-monkey-becoming-human.png)
+![AstroPaper I18n](/the-legend-of-the-monkey-becoming-human.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Деревня Хепин была порабощена банди
 
 
 
-![AstroPaper I18n](/public/the-dragon-and-phoenix-bring-blessings.png)
+![AstroPaper I18n](/the-dragon-and-phoenix-bring-blessings.png)
 
 
 

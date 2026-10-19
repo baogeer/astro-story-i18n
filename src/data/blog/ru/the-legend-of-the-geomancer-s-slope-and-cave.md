@@ -8,7 +8,7 @@ description: "Легенда гласит, что у Лю Цзяпо в Синь
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-slope-and-cave.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-slope-and-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "People in Lin'an, Southern Song hated Qin Hui and harmed Yue Fei. 
 
 
 
-![AstroPaper I18n](/public/the-story-of-fried-hui.png)
+![AstroPaper I18n](/the-story-of-fried-hui.png)
 
 
 

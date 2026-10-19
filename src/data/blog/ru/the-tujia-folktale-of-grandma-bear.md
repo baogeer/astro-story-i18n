@@ -8,7 +8,7 @@ description: "В коттедже Tujia родители вышли на ули�
 
 
 
-![AstroPaper I18n](/public/the-tujia-folktale-of-grandma-bear.png)
+![AstroPaper I18n](/the-tujia-folktale-of-grandma-bear.png)
 
 
 

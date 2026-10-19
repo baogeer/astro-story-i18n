@@ -8,7 +8,7 @@ description: "Known as the “East China Sea Chess Monster,” Chen Qi's superb 
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-loses-at-chess.png)
+![AstroPaper I18n](/the-dragon-king-loses-at-chess.png)
 
 
 

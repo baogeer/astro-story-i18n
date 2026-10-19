@@ -8,7 +8,7 @@ description: "Легенда гласит, что в западных предг
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
 
 
 

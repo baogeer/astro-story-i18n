@@ -8,7 +8,7 @@ description: "Ji Xiaolan, a Qing dynasty scholar, is famous for eating only pork
 
 
 
-![AstroPaper I18n](/public/ji-xiaolan-sex-crazed-scholar-who-lived-on-meat-and-bedded-women-daily.png)
+![AstroPaper I18n](/ji-xiaolan-sex-crazed-scholar-who-lived-on-meat-and-bedded-women-daily.png)
 
 
 

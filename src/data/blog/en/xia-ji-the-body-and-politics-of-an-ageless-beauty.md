@@ -8,7 +8,7 @@ description: "Xia Ji is Princess Zheng Guo of Chunqiu. She first had an affair w
 
 
 
-![AstroPaper I18n](/public/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
+![AstroPaper I18n](/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
 
 
 

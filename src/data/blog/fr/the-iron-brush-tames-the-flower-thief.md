@@ -8,7 +8,7 @@ description: "«xa0Iron Pen Flower Thiefxa0» raconte l'histoire d'une personne 
 
 
 
-![AstroPaper I18n](/public/the-iron-brush-tames-the-flower-thief.png)
+![AstroPaper I18n](/the-iron-brush-tames-the-flower-thief.png)
 
 
 

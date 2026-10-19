@@ -8,7 +8,7 @@ description: "في المعرض، رأى شو بيهونغ أن «صورة مي 
 
 
 
-![AstroPaper I18n](/public/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
+![AstroPaper I18n](/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
 
 
 

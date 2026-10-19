@@ -8,7 +8,7 @@ description: "Tortuga y Serpiente 2 serán castigados por Longwang Town a ambos 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-turtle-and-snake-mountains.png)
+![AstroPaper I18n](/the-legend-of-turtle-and-snake-mountains.png)
 
 
 

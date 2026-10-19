@@ -8,7 +8,7 @@ description: "Deux carpes de Yaochi, dans le royaume céleste, sont tombées amo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-stones.png)
+![AstroPaper I18n](/the-legend-of-the-carp-stones.png)
 
 
 

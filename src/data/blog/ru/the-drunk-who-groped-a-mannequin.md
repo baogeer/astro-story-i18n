@@ -8,7 +8,7 @@ description: "Да Ли и Да Лю сделали ставку после вы
 
 
 
-![AstroPaper I18n](/public/the-drunk-who-groped-a-mannequin.png)
+![AstroPaper I18n](/the-drunk-who-groped-a-mannequin.png)
 
 
 

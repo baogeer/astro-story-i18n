@@ -8,7 +8,7 @@ description: "«Я», которая с детства была одержима
 
 
 
-![AstroPaper I18n](/public/a-modern-liaozhai-tale.png)
+![AstroPaper I18n](/a-modern-liaozhai-tale.png)
 
 
 

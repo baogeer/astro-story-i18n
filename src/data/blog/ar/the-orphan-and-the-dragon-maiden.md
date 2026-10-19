@@ -8,7 +8,7 @@ description: "آه زاو، يتيم من مجموعة يي العرقية، ك�
 
 
 
-![AstroPaper I18n](/public/the-orphan-and-the-dragon-maiden.png)
+![AstroPaper I18n](/the-orphan-and-the-dragon-maiden.png)
 
 
 

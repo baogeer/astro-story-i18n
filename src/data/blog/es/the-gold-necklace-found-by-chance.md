@@ -8,7 +8,7 @@ description: "Cuando Sun Chaoren tuvo una cita con Li Xiaoqing boca arriba, enfu
 
 
 
-![AstroPaper I18n](/public/the-gold-necklace-found-by-chance.png)
+![AstroPaper I18n](/the-gold-necklace-found-by-chance.png)
 
 
 

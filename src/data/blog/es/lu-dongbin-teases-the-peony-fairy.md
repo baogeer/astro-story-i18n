@@ -8,7 +8,7 @@ description: "Para rendirse como pangol√≠n en Pantong Baishan, Lu Dongbin fingi√
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-teases-the-peony-fairy.png)
+![AstroPaper I18n](/lu-dongbin-teases-the-peony-fairy.png)
 
 
 

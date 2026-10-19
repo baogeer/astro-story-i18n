@@ -8,7 +8,7 @@ description: "Los antepasados de la etnia qiang se vieron obligados a emigrar de
 
 
 
-![AstroPaper I18n](/public/the-great-war-between-the-qiang-and-the-geji.png)
+![AstroPaper I18n](/the-great-war-between-the-qiang-and-the-geji.png)
 
 
 

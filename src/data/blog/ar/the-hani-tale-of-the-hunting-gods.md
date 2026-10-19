@@ -8,7 +8,7 @@ description: "في العصور القديمة، لم يكن الناس قادر
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-the-hunting-gods.png)
+![AstroPaper I18n](/the-hani-tale-of-the-hunting-gods.png)
 
 
 

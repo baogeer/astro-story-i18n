@@ -8,7 +8,7 @@ description: "Чжан Чэн, богатый человек из династи
 
 
 
-![AstroPaper I18n](/public/the-ghost-who-borrowed-silver.png)
+![AstroPaper I18n](/the-ghost-who-borrowed-silver.png)
 
 
 

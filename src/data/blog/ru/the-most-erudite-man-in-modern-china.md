@@ -8,7 +8,7 @@ description: "Гу Хунмин изучал Китай и Запад. Он по
 
 
 
-![AstroPaper I18n](/public/the-most-erudite-man-in-modern-china.png)
+![AstroPaper I18n](/the-most-erudite-man-in-modern-china.png)
 
 
 

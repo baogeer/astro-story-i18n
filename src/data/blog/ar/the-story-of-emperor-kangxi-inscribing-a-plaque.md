@@ -8,7 +8,7 @@ description: "كُتبت لوحة تحمل عنوان «المطر» عن طري
 
 
 
-![AstroPaper I18n](/public/the-story-of-emperor-kangxi-inscribing-a-plaque.png)
+![AstroPaper I18n](/the-story-of-emperor-kangxi-inscribing-a-plaque.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В реке Янцзяо обитают злые драконы, �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-dragon-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-dragon-bridge.png)
 
 
 

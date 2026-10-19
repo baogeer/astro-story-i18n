@@ -8,7 +8,7 @@ description: "According to Hani legends, Heavenly Father and Mother Earth gave b
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-origin-of-humankind.png)
+![AstroPaper I18n](/the-hani-legend-of-the-origin-of-humankind.png)
 
 
 

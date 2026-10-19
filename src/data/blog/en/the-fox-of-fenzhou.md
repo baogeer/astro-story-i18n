@@ -8,7 +8,7 @@ description: "Fenzhou State determined that Zhu Gong was in love with a fox girl
 
 
 
-![AstroPaper I18n](/public/the-fox-of-fenzhou.png)
+![AstroPaper I18n](/the-fox-of-fenzhou.png)
 
 
 

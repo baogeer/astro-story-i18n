@@ -8,7 +8,7 @@ description: "В фильме рассказывается о четырех о�
 
 
 
-![AstroPaper I18n](/public/extreme-joy-begets-sorrow.png)
+![AstroPaper I18n](/extreme-joy-begets-sorrow.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أجبرت والدتها آه تشياو على قطع العشب
 
 
 
-![AstroPaper I18n](/public/the-silkworm-maiden.png)
+![AstroPaper I18n](/the-silkworm-maiden.png)
 
 
 

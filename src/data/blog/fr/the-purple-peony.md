@@ -8,7 +8,7 @@ description: "Le texte principal est manquant et le résumé ne peut pas être g
 
 
 
-![AstroPaper I18n](/public/the-purple-peony.png)
+![AstroPaper I18n](/the-purple-peony.png)
 
 
 

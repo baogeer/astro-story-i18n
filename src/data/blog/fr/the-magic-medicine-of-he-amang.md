@@ -8,7 +8,7 @@ description: "Une étrange maladie a éclaté à Miaozhai et le jeune homme He A
 
 
 
-![AstroPaper I18n](/public/the-magic-medicine-of-he-amang.png)
+![AstroPaper I18n](/the-magic-medicine-of-he-amang.png)
 
 
 

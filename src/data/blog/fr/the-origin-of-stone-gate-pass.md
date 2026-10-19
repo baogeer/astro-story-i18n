@@ -8,7 +8,7 @@ description: "Après la défaite, le Grand Dragon Noir a tenté de bloquer le fl
 
 
 
-![AstroPaper I18n](/public/the-origin-of-stone-gate-pass.png)
+![AstroPaper I18n](/the-origin-of-stone-gate-pass.png)
 
 
 

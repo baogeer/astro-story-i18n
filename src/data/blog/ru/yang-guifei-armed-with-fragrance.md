@@ -8,7 +8,7 @@ description: "Тан Сюаньцзун встретил Ян Юхуаня, у �
 
 
 
-![AstroPaper I18n](/public/yang-guifei-armed-with-fragrance.png)
+![AstroPaper I18n](/yang-guifei-armed-with-fragrance.png)
 
 
 

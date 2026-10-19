@@ -8,7 +8,7 @@ description: "After the death of his parents, the older brother took over the fa
 
 
 
-![AstroPaper I18n](/public/the-story-of-selling-fragrant-farts.png)
+![AstroPaper I18n](/the-story-of-selling-fragrant-farts.png)
 
 
 

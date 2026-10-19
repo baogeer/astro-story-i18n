@@ -8,7 +8,7 @@ description: "À l'époque des samouraïs japonais, les épouses de samouraïs o
 
 
 
-![AstroPaper I18n](/public/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
+![AstroPaper I18n](/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
 
 
 

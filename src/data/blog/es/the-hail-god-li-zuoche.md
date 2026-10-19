@@ -8,7 +8,7 @@ description: "Tang Jiwu no escuchó la disuasión del taoísta. Golpeó el pez r
 
 
 
-![AstroPaper I18n](/public/the-hail-god-li-zuoche.png)
+![AstroPaper I18n](/the-hail-god-li-zuoche.png)
 
 
 

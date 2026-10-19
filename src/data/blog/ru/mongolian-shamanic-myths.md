@@ -8,7 +8,7 @@ description: "В монгольской шаманской мифологии п
 
 
 
-![AstroPaper I18n](/public/mongolian-shamanic-myths.png)
+![AstroPaper I18n](/mongolian-shamanic-myths.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Yangjiangjiang Fisherman's Calf Cow was originally a golden co
 
 
 
-![AstroPaper I18n](/public/the-bronze-ox-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-bronze-ox-a-yi-folktale-from-yangbi.png)
 
 
 

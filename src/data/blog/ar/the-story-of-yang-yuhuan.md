@@ -8,7 +8,7 @@ description: "كانت يانغ يوهوان في الأصل الملكة شو،
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-yuhuan.png)
+![AstroPaper I18n](/the-story-of-yang-yuhuan.png)
 
 
 

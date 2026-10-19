@@ -8,7 +8,7 @@ description: "Wang Cheng, de la dinastía Ming, regresó de casa, creyendo erró
 
 
 
-![AstroPaper I18n](/public/wait-for-me-at-the-naihe-bridge.png)
+![AstroPaper I18n](/wait-for-me-at-the-naihe-bridge.png)
 
 
 

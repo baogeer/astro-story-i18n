@@ -8,7 +8,7 @@ description: "Поскольку текст истории не был пред�
 
 
 
-![AstroPaper I18n](/public/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
+![AstroPaper I18n](/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wang Zhaojun was ordered to leave Saihe and played pipa on the way
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhaojun-and-the-falling-geese.png)
+![AstroPaper I18n](/the-story-of-zhaojun-and-the-falling-geese.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Люди губернатора укусили пионовый с
 
 
 
-![AstroPaper I18n](/public/the-peony-of-the-cinnabar-furnace-flame.png)
+![AstroPaper I18n](/the-peony-of-the-cinnabar-furnace-flame.png)
 
 
 

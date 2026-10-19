@@ -8,7 +8,7 @@ description: "Xiong Xin, nieto del rey Chu Huai, pastoreaba ovejas de incógnito
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shepherd-mountain.png)
+![AstroPaper I18n](/the-legend-of-shepherd-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "فتاة تدعى ران زي سحرها رجل جميل مصنو�
 
 
 
-![AstroPaper I18n](/public/the-lustful-centipede-spirit.png)
+![AstroPaper I18n](/the-lustful-centipede-spirit.png)
 
 
 

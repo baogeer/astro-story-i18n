@@ -8,7 +8,7 @@ description: "نص القصة مفقود، ولا يمكن إنشاء الملخ
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-cheng.png)
+![AstroPaper I18n](/the-story-of-zhang-cheng.png)
 
 
 

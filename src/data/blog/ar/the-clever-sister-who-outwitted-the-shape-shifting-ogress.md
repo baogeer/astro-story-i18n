@@ -8,7 +8,7 @@ description: "ذهبت الأخت والأخ إلى منزل الجدة بمفر
 
 
 
-![AstroPaper I18n](/public/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
+![AstroPaper I18n](/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
 
 
 

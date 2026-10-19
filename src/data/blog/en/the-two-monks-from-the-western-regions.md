@@ -8,7 +8,7 @@ description: "Two Western monks have gone through hardships to visit famous moun
 
 
 
-![AstroPaper I18n](/public/the-two-monks-from-the-western-regions.png)
+![AstroPaper I18n](/the-two-monks-from-the-western-regions.png)
 
 
 

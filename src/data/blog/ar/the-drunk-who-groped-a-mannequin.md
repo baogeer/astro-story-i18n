@@ -8,7 +8,7 @@ description: "راهن دا لي ودا ليو بعد الشرب. ذهب دا ل
 
 
 
-![AstroPaper I18n](/public/the-drunk-who-groped-a-mannequin.png)
+![AstroPaper I18n](/the-drunk-who-groped-a-mannequin.png)
 
 
 

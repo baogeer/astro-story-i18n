@@ -8,7 +8,7 @@ description: "Agutomba a été pendu sous un pont par Munemoto, attirant le méc
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
+![AstroPaper I18n](/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
 
 
 

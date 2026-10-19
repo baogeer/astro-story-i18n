@@ -8,7 +8,7 @@ description: "استخدم أتيرابا، وهو من هرقل قبيلة يي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival.png)
 
 
 

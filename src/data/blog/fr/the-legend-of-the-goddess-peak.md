@@ -8,7 +8,7 @@ description: "Yao Ji a fait monter 11 fées sur le trône pour aider Dayu à soi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-peak.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-peak.png)
 
 
 

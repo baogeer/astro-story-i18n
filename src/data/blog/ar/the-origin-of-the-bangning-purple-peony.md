@@ -8,7 +8,7 @@ description: "يحب Zhao Bangning الزهور مثل حياته. التقى ب
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bangning-purple-peony.png)
+![AstroPaper I18n](/the-origin-of-the-bangning-purple-peony.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Shiwa caught a golden snail while fishing in the Fujiang River. Sh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-snail-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-snail-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Народные сказки из Южной Фуцзяни: бо
 
 
 
-![AstroPaper I18n](/public/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
+![AstroPaper I18n](/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
 
 
 

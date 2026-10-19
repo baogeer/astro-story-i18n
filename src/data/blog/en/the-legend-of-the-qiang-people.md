@@ -8,7 +8,7 @@ description: "Mu Jiezhu, an ancestor of the Qiang tribe, fell in love with Dou A
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-people.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-people.png)
 
 
 

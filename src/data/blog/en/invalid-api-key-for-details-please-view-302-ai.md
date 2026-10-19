@@ -8,7 +8,7 @@ description: "The clever daughter-in-law of Wangjiazhuang is able to handle all 
 
 
 
-![AstroPaper I18n](/public/invalid-api-key-for-details-please-view-302-ai.png)
+![AstroPaper I18n](/invalid-api-key-for-details-please-view-302-ai.png)
 
 
 

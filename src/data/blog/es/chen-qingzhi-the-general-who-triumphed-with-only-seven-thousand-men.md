@@ -8,7 +8,7 @@ description: "El general Chen Qingzhi, de la dinastía del sur, era malo para mo
 
 
 
-![AstroPaper I18n](/public/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
+![AstroPaper I18n](/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
 
 
 

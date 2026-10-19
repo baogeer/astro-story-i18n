@@ -8,7 +8,7 @@ description: "في حكايات يي الشعبية، قام إيرلونج، و
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
+![AstroPaper I18n](/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
 
 
 

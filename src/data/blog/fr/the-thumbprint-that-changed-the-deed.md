@@ -8,7 +8,7 @@ description: "Yang Seyan, avocat plaideur √† la fin de la dynastie Ming et au d√
 
 
 
-![AstroPaper I18n](/public/the-thumbprint-that-changed-the-deed.png)
+![AstroPaper I18n](/the-thumbprint-that-changed-the-deed.png)
 
 
 

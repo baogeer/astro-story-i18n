@@ -8,7 +8,7 @@ description: "Xiao Zhenzi from Luoyang in the Tang dynasty and her partner Wang 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony.png)
 
 
 

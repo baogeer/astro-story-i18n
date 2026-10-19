@@ -8,7 +8,7 @@ description: "Un couple acharné a abandonné ses enfants et le frère et la sœ
 
 
 
-![AstroPaper I18n](/public/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
+![AstroPaper I18n](/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
 
 
 

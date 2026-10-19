@@ -8,7 +8,7 @@ description: "Wang Dazhi pensó en el viejo cuenco de porcelana azul y blanca de
 
 
 
-![AstroPaper I18n](/public/the-porcelain-shard-on-the-root-carving.png)
+![AstroPaper I18n](/the-porcelain-shard-on-the-root-carving.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El rey arrojó al niño a una cueva profunda debido a su sueño. M
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-cuomei.png)
+![AstroPaper I18n](/the-dragon-maiden-cuomei.png)
 
 
 

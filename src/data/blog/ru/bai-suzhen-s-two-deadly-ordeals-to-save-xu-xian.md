@@ -8,7 +8,7 @@ description: "Чтобы спасти испуганного до смерти �
 
 
 
-![AstroPaper I18n](/public/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
+![AstroPaper I18n](/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
 
 
 

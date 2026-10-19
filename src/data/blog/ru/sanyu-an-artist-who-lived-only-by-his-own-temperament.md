@@ -8,7 +8,7 @@ description: "Чан Ю родом из богатой семьи из пров�
 
 
 
-![AstroPaper I18n](/public/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
+![AstroPaper I18n](/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
 
 
 

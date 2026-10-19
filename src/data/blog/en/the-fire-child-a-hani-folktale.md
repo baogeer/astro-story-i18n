@@ -8,7 +8,7 @@ description: "Minza, a teenager from the Hani tribe, went through hardships and 
 
 
 
-![AstroPaper I18n](/public/the-fire-child-a-hani-folktale.png)
+![AstroPaper I18n](/the-fire-child-a-hani-folktale.png)
 
 
 

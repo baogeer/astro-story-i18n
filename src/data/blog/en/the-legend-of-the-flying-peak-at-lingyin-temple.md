@@ -8,7 +8,7 @@ description: "The crazy monk at Lingyin Temple predicted that the mountain peak 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-flying-peak-at-lingyin-temple.png)
+![AstroPaper I18n](/the-legend-of-the-flying-peak-at-lingyin-temple.png)
 
 
 

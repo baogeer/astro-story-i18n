@@ -8,7 +8,7 @@ description: "Ши-тцу изначально была женщиной из Х
 
 
 
-![AstroPaper I18n](/public/xi-shi-and-the-overturned-boat.png)
+![AstroPaper I18n](/xi-shi-and-the-overturned-boat.png)
 
 
 

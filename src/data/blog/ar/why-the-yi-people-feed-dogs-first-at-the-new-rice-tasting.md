@@ -8,7 +8,7 @@ description: "وفقًا لحكايات يي الشعبية، أرسل تينج�
 
 
 
-![AstroPaper I18n](/public/why-the-yi-people-feed-dogs-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/why-the-yi-people-feed-dogs-first-at-the-new-rice-tasting.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Юаньзай Тан Линг, Бэйтоу, Тайбэй. Фея
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-s-rice-ball-test.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-s-rice-ball-test.png)
 
 
 

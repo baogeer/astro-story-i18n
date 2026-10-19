@@ -8,7 +8,7 @@ description: "Stubborn 3 a envoyé une lettre à la fée renarde Hu Laohan et a 
 
 
 
-![AstroPaper I18n](/public/stubborn-san-and-the-fox.png)
+![AstroPaper I18n](/stubborn-san-and-the-fox.png)
 
 
 

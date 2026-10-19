@@ -8,7 +8,7 @@ description: "Las peonías blancas y moradas de la montaña Lushan en Luoyang se
 
 
 
-![AstroPaper I18n](/public/the-story-in-the-peony-garden.png)
+![AstroPaper I18n](/the-story-in-the-peony-garden.png)
 
 
 

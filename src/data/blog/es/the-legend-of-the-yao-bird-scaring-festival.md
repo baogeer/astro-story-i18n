@@ -8,7 +8,7 @@ description: "El Festival de las Aves de Yao se debe a los graves daños causado
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-bird-scaring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-bird-scaring-festival.png)
 
 
 

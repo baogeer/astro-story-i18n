@@ -8,7 +8,7 @@ description: "من أجل إنقاذ الطبيب الذي مات ببراءة �
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-king-who-wanted-to-be-young-again.png)
+![AstroPaper I18n](/agudengba-and-the-king-who-wanted-to-be-young-again.png)
 
 
 

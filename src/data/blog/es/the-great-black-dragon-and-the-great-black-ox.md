@@ -8,7 +8,7 @@ description: "Un viejo monje del antiguo templo de Cangshan en Yangjiao conoció
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-and-the-great-black-ox.png)
+![AstroPaper I18n](/the-great-black-dragon-and-the-great-black-ox.png)
 
 
 

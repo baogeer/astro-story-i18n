@@ -8,7 +8,7 @@ description: "التقى ذكور الماعز والكباش بالذئاب ف�
 
 
 
-![AstroPaper I18n](/public/the-rabbit-and-the-gray-wolf.png)
+![AstroPaper I18n](/the-rabbit-and-the-gray-wolf.png)
 
 
 

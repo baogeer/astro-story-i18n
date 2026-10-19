@@ -8,7 +8,7 @@ description: "تتمتع جينغميشان فيري روك في تايبيه ب
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-footprints.png)
+![AstroPaper I18n](/the-legend-of-the-footprints.png)
 
 
 

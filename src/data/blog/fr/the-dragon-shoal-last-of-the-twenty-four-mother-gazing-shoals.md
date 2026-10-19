@@ -8,7 +8,7 @@ description: "Après avoir élevé la vache, il n'y avait pas lieu de s'inquiét
 
 
 
-![AstroPaper I18n](/public/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
+![AstroPaper I18n](/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
 
 
 

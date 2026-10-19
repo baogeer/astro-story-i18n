@@ -8,7 +8,7 @@ description: "El hermano Moon y Mao Mei están en una situación difícil. Ye La
 
 
 
-![AstroPaper I18n](/public/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
+![AstroPaper I18n](/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Aguton Baru a rencontré un arrogant lama Iron Rod, et l'autre par
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudengba-goodbye.png)
+![AstroPaper I18n](/the-tale-of-agudengba-goodbye.png)
 
 
 

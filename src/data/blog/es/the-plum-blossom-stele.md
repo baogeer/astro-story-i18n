@@ -8,7 +8,7 @@ description: "El viejo cantero encontró una extraña piedra que reflejaba la so
 
 
 
-![AstroPaper I18n](/public/the-plum-blossom-stele.png)
+![AstroPaper I18n](/the-plum-blossom-stele.png)
 
 
 

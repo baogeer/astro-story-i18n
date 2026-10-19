@@ -8,7 +8,7 @@ description: "La légende raconte que la vilaine fille Begging a été aidée pa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-seventh-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-seventh-festival.png)
 
 
 

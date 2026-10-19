@@ -8,7 +8,7 @@ description: "قادت السيدة وا، وهي جنرالات من قبيلة
 
 
 
-![AstroPaper I18n](/public/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
+![AstroPaper I18n](/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
 
 
 

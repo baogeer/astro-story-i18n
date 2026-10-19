@@ -8,7 +8,7 @@ description: "أرسل العنيد 3 رسالة إلى جنية الثعلب ه
 
 
 
-![AstroPaper I18n](/public/stubborn-san-and-the-fox.png)
+![AstroPaper I18n](/stubborn-san-and-the-fox.png)
 
 
 

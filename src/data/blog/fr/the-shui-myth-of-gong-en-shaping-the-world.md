@@ -8,7 +8,7 @@ description: "Après que le diable ait créé le ciel et la terre, la terre éta
 
 
 
-![AstroPaper I18n](/public/the-shui-myth-of-gong-en-shaping-the-world.png)
+![AstroPaper I18n](/the-shui-myth-of-gong-en-shaping-the-world.png)
 
 
 

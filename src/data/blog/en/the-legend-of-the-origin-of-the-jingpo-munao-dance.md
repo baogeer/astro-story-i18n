@@ -8,7 +8,7 @@ description: "The Children of the Sun will dance the “Menau Song” and invite
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-jingpo-munao-dance.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-jingpo-munao-dance.png)
 
 
 

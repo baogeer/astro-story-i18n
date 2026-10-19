@@ -8,7 +8,7 @@ description: "Shih Tzu incarne la beauté du «xa0poisson coulantxa0», mais cet
 
 
 
-![AstroPaper I18n](/public/xi-shi-china-s-greatest-beauty.png)
+![AstroPaper I18n](/xi-shi-china-s-greatest-beauty.png)
 
 
 

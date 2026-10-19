@@ -8,7 +8,7 @@ description: "Zizi stole wheat and was shot dead by the hunter Rob. After his de
 
 
 
-![AstroPaper I18n](/public/the-muntjac-sues-luoba.png)
+![AstroPaper I18n](/the-muntjac-sues-luoba.png)
 
 
 

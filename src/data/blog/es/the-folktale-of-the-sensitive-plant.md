@@ -8,7 +8,7 @@ description: "Después de ser tímido y formar una familia con el hada del loto,
 
 
 
-![AstroPaper I18n](/public/the-folktale-of-the-sensitive-plant.png)
+![AstroPaper I18n](/the-folktale-of-the-sensitive-plant.png)
 
 
 

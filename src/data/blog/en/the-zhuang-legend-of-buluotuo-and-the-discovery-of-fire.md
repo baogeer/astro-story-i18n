@@ -8,7 +8,7 @@ description: "In ancient times, the ancestors of the Zhuang people had no fire, 
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
+![AstroPaper I18n](/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
 
 
 

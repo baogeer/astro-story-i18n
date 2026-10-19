@@ -8,7 +8,7 @@ description: "Il existe une plante «xa0Peony Kingxa0» dans le village de Zhaol
 
 
 
-![AstroPaper I18n](/public/the-peony-king.png)
+![AstroPaper I18n](/the-peony-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The legend of the Luodong Flower Girl circulates in Phoenix in Xia
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
+![AstroPaper I18n](/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
 
 
 

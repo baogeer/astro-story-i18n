@@ -8,7 +8,7 @@ description: "Li Xuan emprendió un viaje espiritual. Ordenó a su aprendiz Yang
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/iron-crutch-li-one-of-the-eight-immortals.png)
 
 
 

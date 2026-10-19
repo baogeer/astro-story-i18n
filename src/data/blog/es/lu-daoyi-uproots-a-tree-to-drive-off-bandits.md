@@ -8,7 +8,7 @@ description: "Lu Daoyi, un Hércules maonano de la dinastía Qing, llevó rocas 
 
 
 
-![AstroPaper I18n](/public/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
+![AstroPaper I18n](/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
 
 
 

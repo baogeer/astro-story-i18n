@@ -8,7 +8,7 @@ description: "Legend has it that when Tieguai Li and Zhang Guolao played against
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
+![AstroPaper I18n](/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
 
 
 

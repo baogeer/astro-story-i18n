@@ -8,7 +8,7 @@ description: "Li Fei a dirigé une équipe de 6 personnes pour bloquer deux bata
 
 
 
-![AstroPaper I18n](/public/the-six-man-squad-that-defeated-two-american-battalions.png)
+![AstroPaper I18n](/the-six-man-squad-that-defeated-two-american-battalions.png)
 
 
 

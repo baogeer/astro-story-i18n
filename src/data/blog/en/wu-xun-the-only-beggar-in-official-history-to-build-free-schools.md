@@ -8,7 +8,7 @@ description: "Wu Xun has been begging since childhood and has suffered from illi
 
 
 
-![AstroPaper I18n](/public/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
+![AstroPaper I18n](/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
 
 
 

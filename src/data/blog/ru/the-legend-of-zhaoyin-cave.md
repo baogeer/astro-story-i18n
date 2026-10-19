@@ -8,7 +8,7 @@ description: "В пещере Чжаоинь хранятся восемь ст�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhaoyin-cave.png)
+![AstroPaper I18n](/the-legend-of-zhaoyin-cave.png)
 
 
 

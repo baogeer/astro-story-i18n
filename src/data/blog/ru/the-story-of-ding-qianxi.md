@@ -8,7 +8,7 @@ description: "Когда Дин Цяньси укрыли от дождя, хо�
 
 
 
-![AstroPaper I18n](/public/the-story-of-ding-qianxi.png)
+![AstroPaper I18n](/the-story-of-ding-qianxi.png)
 
 
 

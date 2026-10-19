@@ -8,7 +8,7 @@ description: "Император Цяньлун отправился в Цзян
 
 
 
-![AstroPaper I18n](/public/the-monk-who-mocked-emperor-qianlong.png)
+![AstroPaper I18n](/the-monk-who-mocked-emperor-qianlong.png)
 
 
 

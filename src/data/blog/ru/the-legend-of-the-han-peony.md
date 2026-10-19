@@ -8,7 +8,7 @@ description: "Легенда гласит, что пионы и пионы в х
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-han-peony.png)
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
 
 
 

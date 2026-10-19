@@ -8,7 +8,7 @@ description: "امرأة تبلغ من العمر 24 عامًا تمارس ال�
 
 
 
-![AstroPaper I18n](/public/the-art-of-ventriloquism.png)
+![AstroPaper I18n](/the-art-of-ventriloquism.png)
 
 
 

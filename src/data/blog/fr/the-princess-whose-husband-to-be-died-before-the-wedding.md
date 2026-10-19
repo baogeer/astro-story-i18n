@@ -8,7 +8,7 @@ description: "La princesse Lone Stone a secouru un homme qui avait été pourcha
 
 
 
-![AstroPaper I18n](/public/the-princess-whose-husband-to-be-died-before-the-wedding.png)
+![AstroPaper I18n](/the-princess-whose-husband-to-be-died-before-the-wedding.png)
 
 
 

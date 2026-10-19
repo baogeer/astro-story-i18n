@@ -8,7 +8,7 @@ description: "Yue Fei aprendió literatura y artes marciales desde la infancia, 
 
 
 
-![AstroPaper I18n](/public/yue-fei-the-loyal-patriot.png)
+![AstroPaper I18n](/yue-fei-the-loyal-patriot.png)
 
 
 

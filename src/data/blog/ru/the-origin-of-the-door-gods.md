@@ -8,7 +8,7 @@ description: "Эта история называется «Происхожде�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-door-gods.png)
+![AstroPaper I18n](/the-origin-of-the-door-gods.png)
 
 
 

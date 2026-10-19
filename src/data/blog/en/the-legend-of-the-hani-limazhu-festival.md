@@ -8,7 +8,7 @@ description: "The Hani people regard cuckoo as a “heboama”. Legend has it th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hani-limazhu-festival.png)
+![AstroPaper I18n](/the-legend-of-the-hani-limazhu-festival.png)
 
 
 

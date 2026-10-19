@@ -8,7 +8,7 @@ description: "La princesa Ning Guo es la hija de Zhu Yuanzhang, el antepasado de
 
 
 
-![AstroPaper I18n](/public/the-helpless-sorrow-of-princess-ningguo.png)
+![AstroPaper I18n](/the-helpless-sorrow-of-princess-ningguo.png)
 
 
 

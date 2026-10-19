@@ -8,7 +8,7 @@ description: "À l'hôtel de Yangzhou, une personne a amené cinq ânes, puis ci
 
 
 
-![AstroPaper I18n](/public/the-sorcery-of-turning-people-into-beasts.png)
+![AstroPaper I18n](/the-sorcery-of-turning-people-into-beasts.png)
 
 
 

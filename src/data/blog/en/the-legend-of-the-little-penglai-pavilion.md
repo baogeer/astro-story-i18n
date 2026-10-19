@@ -8,7 +8,7 @@ description: "The folktale “The Legend of Little Horai-kaku” tells the origi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-penglai-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-little-penglai-pavilion.png)
 
 
 

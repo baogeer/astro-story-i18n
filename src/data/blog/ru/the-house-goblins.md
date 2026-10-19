@@ -8,7 +8,7 @@ description: "В доме Нагаямы Ли Гуна много демонов
 
 
 
-![AstroPaper I18n](/public/the-house-goblins.png)
+![AstroPaper I18n](/the-house-goblins.png)
 
 
 

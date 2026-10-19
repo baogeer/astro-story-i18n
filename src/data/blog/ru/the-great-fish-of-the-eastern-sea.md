@@ -8,7 +8,7 @@ description: "В Восточно-Китайском море нет гор. О�
 
 
 
-![AstroPaper I18n](/public/the-great-fish-of-the-eastern-sea.png)
+![AstroPaper I18n](/the-great-fish-of-the-eastern-sea.png)
 
 
 

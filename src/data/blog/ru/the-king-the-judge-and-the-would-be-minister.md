@@ -8,7 +8,7 @@ description: "Судья сделал вид, что хочет стать св�
 
 
 
-![AstroPaper I18n](/public/the-king-the-judge-and-the-would-be-minister.png)
+![AstroPaper I18n](/the-king-the-judge-and-the-would-be-minister.png)
 
 
 

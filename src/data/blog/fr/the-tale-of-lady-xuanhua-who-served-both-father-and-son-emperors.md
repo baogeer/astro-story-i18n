@@ -8,7 +8,7 @@ description: "L'empereur Sui était dans un état critique. Le prince Yang Guang
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lady-xuanhua-who-served-both-father-and-son-emperors.png)
+![AstroPaper I18n](/the-tale-of-lady-xuanhua-who-served-both-father-and-son-emperors.png)
 
 
 

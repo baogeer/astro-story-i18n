@@ -8,7 +8,7 @@ description: "Легенда гласит, что Гималаи изначал�
 
 
 
-![AstroPaper I18n](/public/the-vast-sea-became-fields.png)
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
 
 
 

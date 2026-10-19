@@ -8,7 +8,7 @@ description: "Le pont de Jirai, initialement connu sous le nom de Taiheian, a é
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zilai-bridge.png)
+![AstroPaper I18n](/the-legend-of-zilai-bridge.png)
 
 
 

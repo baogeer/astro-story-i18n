@@ -8,7 +8,7 @@ description: "L'impératrice Hsiao est naturellement belle et a une fleur de pê
 
 
 
-![AstroPaper I18n](/public/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
+![AstroPaper I18n](/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
 
 
 

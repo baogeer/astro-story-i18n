@@ -8,7 +8,7 @@ description: "Al final de la dinastía Song del Norte, las hijas gemelas de Tang
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
+![AstroPaper I18n](/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
 
 
 

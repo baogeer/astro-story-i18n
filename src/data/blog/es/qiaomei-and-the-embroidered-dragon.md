@@ -8,7 +8,7 @@ description: "Para superar la Gran Sequía en la isla, Qiao Mei se fue sola a la
 
 
 
-![AstroPaper I18n](/public/qiaomei-and-the-embroidered-dragon.png)
+![AstroPaper I18n](/qiaomei-and-the-embroidered-dragon.png)
 
 
 

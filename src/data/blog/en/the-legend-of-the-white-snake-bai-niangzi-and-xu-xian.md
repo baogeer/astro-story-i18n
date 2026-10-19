@@ -8,7 +8,7 @@ description: "Bai Niang Zi was originally a white snake practiced in West Lake. 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В народной сказке племени Йи из Янъи
 
 
 
-![AstroPaper I18n](/public/how-the-village-of-heidamo-got-its-name.png)
+![AstroPaper I18n](/how-the-village-of-heidamo-got-its-name.png)
 
 
 

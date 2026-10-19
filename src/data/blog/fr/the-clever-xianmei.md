@@ -8,7 +8,7 @@ description: "Xianmei, une fille de l'ethnie Dong, est extrêmement intelligente
 
 
 
-![AstroPaper I18n](/public/the-clever-xianmei.png)
+![AstroPaper I18n](/the-clever-xianmei.png)
 
 
 

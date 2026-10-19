@@ -8,7 +8,7 @@ description: "Hay tres hijas trabajadoras en la familia Yangyi, pero han fracasa
 
 
 
-![AstroPaper I18n](/public/the-three-lisping-sisters-and-the-starry-night.png)
+![AstroPaper I18n](/the-three-lisping-sisters-and-the-starry-night.png)
 
 
 

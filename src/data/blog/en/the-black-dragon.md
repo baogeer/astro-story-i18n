@@ -8,7 +8,7 @@ description: "Kier found a dragon ball by the creek and accidentally swallowed i
 
 
 
-![AstroPaper I18n](/public/the-black-dragon.png)
+![AstroPaper I18n](/the-black-dragon.png)
 
 
 

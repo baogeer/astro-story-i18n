@@ -8,7 +8,7 @@ description: "Une fée a promis le mariage pendant l'année de la catastrophe po
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fairy-and-the-golden-bricks.png)
+![AstroPaper I18n](/the-legend-of-the-fairy-and-the-golden-bricks.png)
 
 
 

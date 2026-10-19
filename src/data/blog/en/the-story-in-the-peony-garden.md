@@ -8,7 +8,7 @@ description: "White peonies and purple peonies from Lushan Mountain in Luoyang t
 
 
 
-![AstroPaper I18n](/public/the-story-in-the-peony-garden.png)
+![AstroPaper I18n](/the-story-in-the-peony-garden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le dixième fils de Zhu Yuanzhang, Zhu Tan, a été favorisé depu
 
 
 
-![AstroPaper I18n](/public/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
+![AstroPaper I18n](/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Mao Yi resolvió el «Shijing» en Hejian. Su vida fue difícil. S
 
 
 
-![AstroPaper I18n](/public/mao-chang-repudiates-his-wife.png)
+![AstroPaper I18n](/mao-chang-repudiates-his-wife.png)
 
 
 

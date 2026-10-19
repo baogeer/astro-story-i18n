@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que el Hombre Dorado trajo una vaca sagrada, un 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
 
 
 

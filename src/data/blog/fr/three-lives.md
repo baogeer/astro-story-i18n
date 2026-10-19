@@ -8,7 +8,7 @@ description: "Hu Mu se souvient de la troisième génération. Il a été examin
 
 
 
-![AstroPaper I18n](/public/three-lives.png)
+![AstroPaper I18n](/three-lives.png)
 
 
 

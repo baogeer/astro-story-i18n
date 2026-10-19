@@ -8,7 +8,7 @@ description: "Mi Fei es hija de Fuxi. Vino al mundo porque estaba fascinada por 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-luo-river-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-luo-river-goddess.png)
 
 
 

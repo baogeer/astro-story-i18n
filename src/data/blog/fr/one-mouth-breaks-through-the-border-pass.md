@@ -8,7 +8,7 @@ description: "Wang Zhaojun a été contraint de se remarier après la mort des H
 
 
 
-![AstroPaper I18n](/public/one-mouth-breaks-through-the-border-pass.png)
+![AstroPaper I18n](/one-mouth-breaks-through-the-border-pass.png)
 
 
 

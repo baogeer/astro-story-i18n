@@ -8,7 +8,7 @@ description: "Сама по себе попавшая монета в один �
 
 
 
-![AstroPaper I18n](/public/the-one-yuan-coin.png)
+![AstroPaper I18n](/the-one-yuan-coin.png)
 
 
 

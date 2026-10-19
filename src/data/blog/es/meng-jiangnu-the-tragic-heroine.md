@@ -8,7 +8,7 @@ description: "Se casó con Meng Jiang cuando Wan Qiliang la vio bañándose en e
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-the-tragic-heroine.png)
+![AstroPaper I18n](/meng-jiangnu-the-tragic-heroine.png)
 
 
 

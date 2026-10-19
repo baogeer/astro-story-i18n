@@ -8,7 +8,7 @@ description: "Сын заподозрил, что его отец тяжело �
 
 
 
-![AstroPaper I18n](/public/the-straw-rope-that-dragged-grandpa-and-dad.png)
+![AstroPaper I18n](/the-straw-rope-that-dragged-grandpa-and-dad.png)
 
 
 

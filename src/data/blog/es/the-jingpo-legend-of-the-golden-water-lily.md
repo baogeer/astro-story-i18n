@@ -8,7 +8,7 @@ description: "La pobre huérfana llamada flauta Kaima alentó a los nenúfares d
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-golden-water-lily.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-golden-water-lily.png)
 
 
 

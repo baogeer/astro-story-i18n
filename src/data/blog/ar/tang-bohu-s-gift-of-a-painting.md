@@ -8,7 +8,7 @@ description: "في مدينة شو، جيانغنينغ، في عهد أسرة �
 
 
 
-![AstroPaper I18n](/public/tang-bohu-s-gift-of-a-painting.png)
+![AstroPaper I18n](/tang-bohu-s-gift-of-a-painting.png)
 
 
 

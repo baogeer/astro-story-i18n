@@ -8,7 +8,7 @@ description: "В первую брачную ночь жену Мэн Цзяна
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-topples-the-great-wall-with-tears.png)
+![AstroPaper I18n](/meng-jiangnu-topples-the-great-wall-with-tears.png)
 
 
 

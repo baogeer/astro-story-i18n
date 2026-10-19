@@ -8,7 +8,7 @@ description: "Un Niu, un maestro artesano de la montaña Cangshan, desafió la n
 
 
 
-![AstroPaper I18n](/public/snow-geese-to-the-rescue-in-the-snowy-mountains.png)
+![AstroPaper I18n](/snow-geese-to-the-rescue-in-the-snowy-mountains.png)
 
 
 

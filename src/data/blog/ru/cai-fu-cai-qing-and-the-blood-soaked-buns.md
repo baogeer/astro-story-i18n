@@ -8,7 +8,7 @@ description: "Брат Цай Фу, палач, из-за поручений о�
 
 
 
-![AstroPaper I18n](/public/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
 
 
 

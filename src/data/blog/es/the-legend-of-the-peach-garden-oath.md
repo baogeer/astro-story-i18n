@@ -8,7 +8,7 @@ description: "Zhang Fei vendió carne y creó una tarjeta de «agarra la piedra 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-peach-garden-oath.png)
+![AstroPaper I18n](/the-legend-of-the-peach-garden-oath.png)
 
 
 

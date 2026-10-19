@@ -8,7 +8,7 @@ description: "Il y a des dragons dans la rivière Jiulong à Zhangzhou. Le jeune
 
 
 
-![AstroPaper I18n](/public/jinzhan-and-baiye-slay-the-evil-dragon.png)
+![AstroPaper I18n](/jinzhan-and-baiye-slay-the-evil-dragon.png)
 
 
 

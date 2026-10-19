@@ -8,7 +8,7 @@ description: "تان جينكوان عبقري. إنه مهووس بممارسة
 
 
 
-![AstroPaper I18n](/public/the-man-in-the-ear.png)
+![AstroPaper I18n](/the-man-in-the-ear.png)
 
 
 

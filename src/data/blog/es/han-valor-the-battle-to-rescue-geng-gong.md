@@ -8,7 +8,7 @@ description: "En el primer año del emperador Zhang de la dinastía Han del Este
 
 
 
-![AstroPaper I18n](/public/han-valor-the-battle-to-rescue-geng-gong.png)
+![AstroPaper I18n](/han-valor-the-battle-to-rescue-geng-gong.png)
 
 
 

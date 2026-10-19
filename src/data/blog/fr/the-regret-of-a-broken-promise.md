@@ -8,7 +8,7 @@ description: "Il était une fois un pêcheur orphelin qui a ramassé une grosse 
 
 
 
-![AstroPaper I18n](/public/the-regret-of-a-broken-promise.png)
+![AstroPaper I18n](/the-regret-of-a-broken-promise.png)
 
 
 

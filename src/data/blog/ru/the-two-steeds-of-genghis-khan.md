@@ -8,7 +8,7 @@ description: "Две лошади Чингисхана успешно охоти
 
 
 
-![AstroPaper I18n](/public/the-two-steeds-of-genghis-khan.png)
+![AstroPaper I18n](/the-two-steeds-of-genghis-khan.png)
 
 
 

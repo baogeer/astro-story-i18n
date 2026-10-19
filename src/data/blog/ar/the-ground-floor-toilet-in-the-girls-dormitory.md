@@ -8,7 +8,7 @@ description: "في الليل في غرفة نوم الفتيات في إحدى 
 
 
 
-![AstroPaper I18n](/public/the-ground-floor-toilet-in-the-girls-dormitory.png)
+![AstroPaper I18n](/the-ground-floor-toilet-in-the-girls-dormitory.png)
 
 
 

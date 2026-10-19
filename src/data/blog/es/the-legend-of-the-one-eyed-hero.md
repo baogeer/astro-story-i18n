@@ -8,7 +8,7 @@ description: "Durante la era Qing Xianfeng, el samurái Dazhen fue engañado por
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-one-eyed-hero.png)
+![AstroPaper I18n](/the-legend-of-the-one-eyed-hero.png)
 
 
 

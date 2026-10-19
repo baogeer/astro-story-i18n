@@ -8,7 +8,7 @@ description: "At the end of the Southern Song Dynasty, Xiangyang was besieged by
 
 
 
-![AstroPaper I18n](/public/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
+![AstroPaper I18n](/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
 
 
 

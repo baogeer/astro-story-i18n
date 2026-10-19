@@ -8,7 +8,7 @@ description: "Wu Zetian pasó de ser monja a estar en palacio. Fue el favorito d
 
 
 
-![AstroPaper I18n](/public/wu-zetian-delicate-hands-deadly-deeds.png)
+![AstroPaper I18n](/wu-zetian-delicate-hands-deadly-deeds.png)
 
 
 

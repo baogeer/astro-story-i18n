@@ -8,7 +8,7 @@ description: "Старый монах из древнего храма Цанш�
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-and-the-great-black-ox.png)
+![AstroPaper I18n](/the-great-black-dragon-and-the-great-black-ox.png)
 
 
 

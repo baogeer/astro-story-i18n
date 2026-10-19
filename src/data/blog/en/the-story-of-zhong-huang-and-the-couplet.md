@@ -8,7 +8,7 @@ description: "Zhong Huang, Xiucai from Tengxian County in the Qing dynasty, topp
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhong-huang-and-the-couplet.png)
+![AstroPaper I18n](/the-story-of-zhong-huang-and-the-couplet.png)
 
 
 

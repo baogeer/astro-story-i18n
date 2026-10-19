@@ -8,7 +8,7 @@ description: "La emperatriz viuda Lou de Qi del Norte dio a luz a cuatro emperad
 
 
 
-![AstroPaper I18n](/public/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
+![AstroPaper I18n](/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
 
 
 

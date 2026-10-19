@@ -8,7 +8,7 @@ description: "Donggun snake hunters domesticate the blue snake Erqing. The red s
 
 
 
-![AstroPaper I18n](/public/the-snake-charmer.png)
+![AstroPaper I18n](/the-snake-charmer.png)
 
 
 

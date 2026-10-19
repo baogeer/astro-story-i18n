@@ -8,7 +8,7 @@ description: "Los aldeanos de Jiangnan se casaron. El novio vio a la novia salir
 
 
 
-![AstroPaper I18n](/public/the-bridegroom.png)
+![AstroPaper I18n](/the-bridegroom.png)
 
 
 

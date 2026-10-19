@@ -8,7 +8,7 @@ description: "Tang dynasty pianist Tao Miande helped Spider Fine Red Silk make s
 
 
 
-![AstroPaper I18n](/public/the-heartstrings-of-the-guqin.png)
+![AstroPaper I18n](/the-heartstrings-of-the-guqin.png)
 
 
 

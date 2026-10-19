@@ -8,7 +8,7 @@ description: "Fan Lihua marchó hacia el oeste hasta el condado de Mulei en Xinj
 
 
 
-![AstroPaper I18n](/public/fan-lihua-and-the-mulei-river.png)
+![AstroPaper I18n](/fan-lihua-and-the-mulei-river.png)
 
 
 

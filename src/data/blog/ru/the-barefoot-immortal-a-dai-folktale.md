@@ -8,7 +8,7 @@ description: "Босоногий Дасянь прошествовал по вс
 
 
 
-![AstroPaper I18n](/public/the-barefoot-immortal-a-dai-folktale.png)
+![AstroPaper I18n](/the-barefoot-immortal-a-dai-folktale.png)
 
 
 

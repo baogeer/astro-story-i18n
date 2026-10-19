@@ -8,7 +8,7 @@ description: "Лао Ци, молодое племя хани, использо�
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-hani-legend-of-the-sun-and-the-moon.png)
 
 
 

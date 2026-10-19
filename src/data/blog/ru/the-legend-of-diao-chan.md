@@ -8,7 +8,7 @@ description: "Дяо Чан, красивая женщина из поздней
 
 
 
-![AstroPaper I18n](/public/the-legend-of-diao-chan.png)
+![AstroPaper I18n](/the-legend-of-diao-chan.png)
 
 
 

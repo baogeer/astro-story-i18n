@@ -8,7 +8,7 @@ description: "La aldea de Baizhang en Yangyi se conocía originalmente como «La
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Леди Лань Сян в одиночку собирала ле
 
 
 
-![AstroPaper I18n](/public/the-girl-lanxiang-saves-her-mother-in-law.png)
+![AstroPaper I18n](/the-girl-lanxiang-saves-her-mother-in-law.png)
 
 
 

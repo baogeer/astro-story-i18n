@@ -8,7 +8,7 @@ description: "В древние времена сестра-сирота и бр
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
 
 
 

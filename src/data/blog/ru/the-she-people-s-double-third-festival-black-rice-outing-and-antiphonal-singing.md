@@ -8,7 +8,7 @@ description: "Лан Тяньфэн, молодая женщина из этни
 
 
 
-![AstroPaper I18n](/public/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
+![AstroPaper I18n](/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
 
 
 

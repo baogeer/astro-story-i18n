@@ -8,7 +8,7 @@ description: "Старый рыбак Шен Гун ловил рыбу в Ха�
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-loses-his-seal-and-submits-to-the-fisherman.png)
+![AstroPaper I18n](/the-dragon-king-loses-his-seal-and-submits-to-the-fisherman.png)
 
 
 

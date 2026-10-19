@@ -8,7 +8,7 @@ description: "كانت شياو تشنزي من لويانغ في عهد أسر�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony.png)
 
 
 

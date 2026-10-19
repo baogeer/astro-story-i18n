@@ -8,7 +8,7 @@ description: "كانت سلالتا هان وتانغ القوية رائدة ف
 
 
 
-![AstroPaper I18n](/public/history-repeats-itself-the-fall-of-the-han-and-tang-dynasties.png)
+![AstroPaper I18n](/history-repeats-itself-the-fall-of-the-han-and-tang-dynasties.png)
 
 
 

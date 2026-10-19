@@ -8,7 +8,7 @@ description: "Liu Biyu era la concubina favorita de Runan Wang en la dinastía J
 
 
 
-![AstroPaper I18n](/public/the-only-beauty-whose-name-appears-in-classical-poetry-and-idioms.png)
+![AstroPaper I18n](/the-only-beauty-whose-name-appears-in-classical-poetry-and-idioms.png)
 
 
 

@@ -8,7 +8,7 @@ description: "On a rainy day in my childhood, my partner and I played in the wom
 
 
 
-![AstroPaper I18n](/public/the-woman-in-the-white-raincoat.png)
+![AstroPaper I18n](/the-woman-in-the-white-raincoat.png)
 
 
 

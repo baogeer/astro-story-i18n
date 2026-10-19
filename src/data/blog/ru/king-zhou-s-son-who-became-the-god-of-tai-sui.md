@@ -8,7 +8,7 @@ description: "Первоначально Инь Цзяо назывался то
 
 
 
-![AstroPaper I18n](/public/king-zhou-s-son-who-became-the-god-of-tai-sui.png)
+![AstroPaper I18n](/king-zhou-s-son-who-became-the-god-of-tai-sui.png)
 
 
 

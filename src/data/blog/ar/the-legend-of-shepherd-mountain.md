@@ -8,7 +8,7 @@ description: "قام شيونغ شين، حفيد الملك تشو هواي، �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shepherd-mountain.png)
+![AstroPaper I18n](/the-legend-of-shepherd-mountain.png)
 
 
 

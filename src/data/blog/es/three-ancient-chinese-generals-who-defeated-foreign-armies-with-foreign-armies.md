@@ -8,7 +8,7 @@ description: "Tres famosos generales Han y Tang, Chang Hui, Wang Xuance y Guo Ka
 
 
 
-![AstroPaper I18n](/public/three-ancient-chinese-generals-who-defeated-foreign-armies-with-foreign-armies.png)
+![AstroPaper I18n](/three-ancient-chinese-generals-who-defeated-foreign-armies-with-foreign-armies.png)
 
 
 

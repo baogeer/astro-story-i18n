@@ -8,7 +8,7 @@ description: "Selon les légendes Dai, grand-mère Gu Hun a été expulsée parc
 
 
 
-![AstroPaper I18n](/public/the-dai-folktale-of-grandmother-rice-soul.png)
+![AstroPaper I18n](/the-dai-folktale-of-grandmother-rice-soul.png)
 
 
 

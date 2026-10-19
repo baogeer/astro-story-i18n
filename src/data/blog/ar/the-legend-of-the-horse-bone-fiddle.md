@@ -8,7 +8,7 @@ description: "آه ران، فتاة من عائلة تشوانغ، تحب شا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-horse-bone-fiddle.png)
+![AstroPaper I18n](/the-legend-of-the-horse-bone-fiddle.png)
 
 
 

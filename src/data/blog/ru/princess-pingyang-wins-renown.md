@@ -8,7 +8,7 @@ description: "Принцесса Пинъян — дочь Тан Гаозу Л�
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-wins-renown.png)
+![AstroPaper I18n](/princess-pingyang-wins-renown.png)
 
 
 

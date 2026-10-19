@@ -8,7 +8,7 @@ description: "In 1938, the Kuomintang murdered people after collecting treasure 
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
+![AstroPaper I18n](/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
 
 
 

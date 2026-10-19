@@ -8,7 +8,7 @@ description: "The four major rebels in Chinese history, Ying Bu, Hou Jing, and W
 
 
 
-![AstroPaper I18n](/public/the-four-notorious-turncoat-generals-in-chinese-history.png)
+![AstroPaper I18n](/the-four-notorious-turncoat-generals-in-chinese-history.png)
 
 
 

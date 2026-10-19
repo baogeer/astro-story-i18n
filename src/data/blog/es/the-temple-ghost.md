@@ -8,7 +8,7 @@ description: "El showman Wang Qihou se enredó con una mujer fea. La mujer se bu
 
 
 
-![AstroPaper I18n](/public/the-temple-ghost.png)
+![AstroPaper I18n](/the-temple-ghost.png)
 
 
 

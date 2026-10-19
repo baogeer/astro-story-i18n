@@ -8,7 +8,7 @@ description: "En el camino de regreso, Li Yuluo conoció a Xiaolian, quien afirm
 
 
 
-![AstroPaper I18n](/public/a-fatal-meeting-with-a-beauty-far-from-home.png)
+![AstroPaper I18n](/a-fatal-meeting-with-a-beauty-far-from-home.png)
 
 
 

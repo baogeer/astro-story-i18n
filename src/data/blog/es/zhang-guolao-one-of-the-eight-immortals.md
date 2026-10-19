@@ -8,7 +8,7 @@ description: "Zhang Guolao afirma que nació en Yao, vivió recluido y fingió q
 
 
 
-![AstroPaper I18n](/public/zhang-guolao-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhang-guolao-one-of-the-eight-immortals.png)
 
 
 

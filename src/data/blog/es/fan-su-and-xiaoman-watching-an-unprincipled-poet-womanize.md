@@ -8,7 +8,7 @@ description: "El poeta de la dinastía Tang, Bai Juyi, crió a cientos de prosti
 
 
 
-![AstroPaper I18n](/public/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
+![AstroPaper I18n](/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
 
 
 

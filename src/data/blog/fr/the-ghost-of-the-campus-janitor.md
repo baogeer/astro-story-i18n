@@ -8,7 +8,7 @@ description: "L'ancien dortoir de la faculté de médecine était à l'origine u
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-the-campus-janitor.png)
+![AstroPaper I18n](/the-ghost-of-the-campus-janitor.png)
 
 
 

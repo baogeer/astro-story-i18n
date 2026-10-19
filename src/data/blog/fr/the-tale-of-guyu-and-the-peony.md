@@ -8,7 +8,7 @@ description: "Gu Yu, un jeune de la dynastie Tang, a sauvé un plant de pivoine 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-guyu-and-the-peony.png)
+![AstroPaper I18n](/the-tale-of-guyu-and-the-peony.png)
 
 
 

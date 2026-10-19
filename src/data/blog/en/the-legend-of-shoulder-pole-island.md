@@ -8,7 +8,7 @@ description: "The Cowherd Tanabata Party Weavens, and was later sent to study in
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shoulder-pole-island.png)
+![AstroPaper I18n](/the-legend-of-shoulder-pole-island.png)
 
 
 

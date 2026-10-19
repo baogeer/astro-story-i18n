@@ -8,7 +8,7 @@ description: "يستمر الإخوة الثلاثة في الجدال حول م
 
 
 
-![AstroPaper I18n](/public/where-is-the-fish-s-vital-spot.png)
+![AstroPaper I18n](/where-is-the-fish-s-vital-spot.png)
 
 
 

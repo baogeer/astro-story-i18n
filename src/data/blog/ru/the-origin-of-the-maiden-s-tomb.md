@@ -8,7 +8,7 @@ description: "Дочь казахского племени Байи влюбля
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maiden-s-tomb.png)
+![AstroPaper I18n](/the-origin-of-the-maiden-s-tomb.png)
 
 
 

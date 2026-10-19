@@ -8,7 +8,7 @@ description: "El príncipe del condado de Juxian conoció a Ying Ning, una flori
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yingning.png)
+![AstroPaper I18n](/the-tale-of-yingning.png)
 
 
 

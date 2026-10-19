@@ -8,7 +8,7 @@ description: "Il a libéré le rare poisson géant jaune parce qu'il ne supporta
 
 
 
-![AstroPaper I18n](/public/the-dragon-princess-and-the-magic-pearl.png)
+![AstroPaper I18n](/the-dragon-princess-and-the-magic-pearl.png)
 
 
 

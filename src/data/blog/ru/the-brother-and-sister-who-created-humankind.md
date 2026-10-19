@@ -8,7 +8,7 @@ description: "Согласно легенде племени Илао, осно�
 
 
 
-![AstroPaper I18n](/public/the-brother-and-sister-who-created-humankind.png)
+![AstroPaper I18n](/the-brother-and-sister-who-created-humankind.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Кир нашла у ручья шар дракона и случ�
 
 
 
-![AstroPaper I18n](/public/the-black-dragon.png)
+![AstroPaper I18n](/the-black-dragon.png)
 
 
 

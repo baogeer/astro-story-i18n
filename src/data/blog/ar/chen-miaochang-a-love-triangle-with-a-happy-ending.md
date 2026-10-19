@@ -8,7 +8,7 @@ description: "تشين مياوشانغ، سلالة سونغ الجنوبية،
 
 
 
-![AstroPaper I18n](/public/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
+![AstroPaper I18n](/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
 
 
 

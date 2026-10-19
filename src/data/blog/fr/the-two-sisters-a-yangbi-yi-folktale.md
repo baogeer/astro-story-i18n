@@ -8,7 +8,7 @@ description: "Il était une fois deux sœurs. La sœur aînée avait l'air laide
 
 
 
-![AstroPaper I18n](/public/the-two-sisters-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-two-sisters-a-yangbi-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يتذكر دوق معين من شنشي حياته الماضية
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-almost-became-a-sheep.png)
+![AstroPaper I18n](/the-scholar-who-almost-became-a-sheep.png)
 
 
 

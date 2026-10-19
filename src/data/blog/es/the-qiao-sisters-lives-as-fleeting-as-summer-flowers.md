@@ -8,7 +8,7 @@ description: "La hermana Er Qiao se casó con Sun Tse y Zhou Yu. Lang Cai es una
 
 
 
-![AstroPaper I18n](/public/the-qiao-sisters-lives-as-fleeting-as-summer-flowers.png)
+![AstroPaper I18n](/the-qiao-sisters-lives-as-fleeting-as-summer-flowers.png)
 
 
 

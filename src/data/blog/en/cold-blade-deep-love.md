@@ -8,7 +8,7 @@ description: "In the early years of the Qing dynasty, Jianghu Knight Gao Huande 
 
 
 
-![AstroPaper I18n](/public/cold-blade-deep-love.png)
+![AstroPaper I18n](/cold-blade-deep-love.png)
 
 
 

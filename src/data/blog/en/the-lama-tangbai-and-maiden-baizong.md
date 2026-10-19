@@ -8,7 +8,7 @@ description: "Lama Tang Baiqun, on the other hand, was forced by the temple's po
 
 
 
-![AstroPaper I18n](/public/the-lama-tangbai-and-maiden-baizong.png)
+![AstroPaper I18n](/the-lama-tangbai-and-maiden-baizong.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Uber a gravi la montagne pour regarder les deux immortels jouer l'
 
 
 
-![AstroPaper I18n](/public/you-bo-s-tears.png)
+![AstroPaper I18n](/you-bo-s-tears.png)
 
 
 

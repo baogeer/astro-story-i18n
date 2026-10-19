@@ -8,7 +8,7 @@ description: "She's hero Lan Fenggao led an army against the enemy in Tingzhou. 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
+![AstroPaper I18n](/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
 
 
 

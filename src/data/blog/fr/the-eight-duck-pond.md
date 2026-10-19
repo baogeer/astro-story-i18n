@@ -8,7 +8,7 @@ description: "Dans la piscine profonde à l'ouest du pont Yunlong à Yangjiao, l
 
 
 
-![AstroPaper I18n](/public/the-eight-duck-pond.png)
+![AstroPaper I18n](/the-eight-duck-pond.png)
 
 
 

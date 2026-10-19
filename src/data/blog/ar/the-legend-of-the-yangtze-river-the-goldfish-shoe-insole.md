@@ -8,7 +8,7 @@ description: "نامت أم أثناء تطريز نعال السمك الذهب
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
 
 
 

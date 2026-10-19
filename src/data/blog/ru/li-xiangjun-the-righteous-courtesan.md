@@ -8,7 +8,7 @@ description: "Хотя Ли Сянцзюнь — певица и простит�
 
 
 
-![AstroPaper I18n](/public/li-xiangjun-the-righteous-courtesan.png)
+![AstroPaper I18n](/li-xiangjun-the-righteous-courtesan.png)
 
 
 

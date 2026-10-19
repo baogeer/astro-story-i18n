@@ -8,7 +8,7 @@ description: "Богиня аквариумов невероятно могущ�
 
 
 
-![AstroPaper I18n](/public/the-shui-myth-of-yayu-creating-the-world.png)
+![AstroPaper I18n](/the-shui-myth-of-yayu-creating-the-world.png)
 
 
 

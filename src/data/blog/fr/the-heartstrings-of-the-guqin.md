@@ -8,7 +8,7 @@ description: "Le pianiste de la dynastie Tang, Tao Miande, a aidé Spider Fine R
 
 
 
-![AstroPaper I18n](/public/the-heartstrings-of-the-guqin.png)
+![AstroPaper I18n](/the-heartstrings-of-the-guqin.png)
 
 
 

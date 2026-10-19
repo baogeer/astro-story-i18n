@@ -8,7 +8,7 @@ description: "Seul et triste au palais de Guanghan, Chang'e a été attiré par 
 
 
 
-![AstroPaper I18n](/public/the-leaping-mermaids-of-jude-lake.png)
+![AstroPaper I18n](/the-leaping-mermaids-of-jude-lake.png)
 
 
 

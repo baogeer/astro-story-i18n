@@ -8,7 +8,7 @@ description: "Afin de retrouver son père disparu et de retrouver le feu, Azza a
 
 
 
-![AstroPaper I18n](/public/the-boy-who-searched-for-fire.png)
+![AstroPaper I18n](/the-boy-who-searched-for-fire.png)
 
 
 

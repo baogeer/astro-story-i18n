@@ -8,7 +8,7 @@ description: "Según la leyenda de Wangfu Shishan en el condado de Ye, la hija d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-and-the-husband-gazing-stone.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-and-the-husband-gazing-stone.png)
 
 
 

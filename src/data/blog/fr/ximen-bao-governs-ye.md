@@ -8,7 +8,7 @@ description: "Pendant la période des Royaumes combattants, Ximen Bao Ren Yeling
 
 
 
-![AstroPaper I18n](/public/ximen-bao-governs-ye.png)
+![AstroPaper I18n](/ximen-bao-governs-ye.png)
 
 
 

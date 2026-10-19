@@ -8,7 +8,7 @@ description: "El título de esta historia es «El origen de los dioses», y el t
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-door-gods.png)
+![AstroPaper I18n](/the-origin-of-the-door-gods.png)
 
 
 

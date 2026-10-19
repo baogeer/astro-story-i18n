@@ -8,7 +8,7 @@ description: "L'homme d'affaires soupçonnait sa femme d'être infidèle et son 
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-s-secret.png)
+![AstroPaper I18n](/the-merchant-s-wife-s-secret.png)
 
 
 

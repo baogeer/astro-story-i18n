@@ -8,7 +8,7 @@ description: "Feng Daquan estaba fascinado con el cachorro de Zhang que tejía u
 
 
 
-![AstroPaper I18n](/public/sending-business-his-way.png)
+![AstroPaper I18n](/sending-business-his-way.png)
 
 
 

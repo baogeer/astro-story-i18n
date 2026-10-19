@@ -8,7 +8,7 @@ description: "هناك العديد من المهرجانات في شهر أغس
 
 
 
-![AstroPaper I18n](/public/china-s-august-festivals-at-a-glance.png)
+![AstroPaper I18n](/china-s-august-festivals-at-a-glance.png)
 
 
 

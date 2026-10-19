@@ -8,7 +8,7 @@ description: "In the original drama “Right on the Wall”, Li Qianjin and Pei 
 
 
 
-![AstroPaper I18n](/public/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
+![AstroPaper I18n](/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
 
 
 

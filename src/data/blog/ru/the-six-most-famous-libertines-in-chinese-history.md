@@ -8,7 +8,7 @@ description: "Концовка шести наемников была совер
 
 
 
-![AstroPaper I18n](/public/the-six-most-famous-libertines-in-chinese-history.png)
+![AstroPaper I18n](/the-six-most-famous-libertines-in-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة أصل الشعب المنغولي، ا�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-origin-myth-of-the-blue-wolf-and-the-white-deer.png)
+![AstroPaper I18n](/the-mongolian-origin-myth-of-the-blue-wolf-and-the-white-deer.png)
 
 
 

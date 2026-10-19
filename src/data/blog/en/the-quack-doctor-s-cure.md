@@ -8,7 +8,7 @@ description: "Among the bastards, Chen Zikun was forcibly taken into Jingwangfu 
 
 
 
-![AstroPaper I18n](/public/the-quack-doctor-s-cure.png)
+![AstroPaper I18n](/the-quack-doctor-s-cure.png)
 
 
 

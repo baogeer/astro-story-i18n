@@ -8,7 +8,7 @@ description: "Из-за своей смерти Цзян Шисюн затруд
 
 
 
-![AstroPaper I18n](/public/the-legend-of-eryi-lou-king-of-tulou.png)
+![AstroPaper I18n](/the-legend-of-eryi-lou-king-of-tulou.png)
 
 
 

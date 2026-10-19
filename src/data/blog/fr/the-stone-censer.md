@@ -8,7 +8,7 @@ description: "Le frère et la sœur de Luban ont emmené leur apprenti à Hangzh
 
 
 
-![AstroPaper I18n](/public/the-stone-censer.png)
+![AstroPaper I18n](/the-stone-censer.png)
 
 
 

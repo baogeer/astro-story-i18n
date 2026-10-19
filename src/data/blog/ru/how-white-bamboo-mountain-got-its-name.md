@@ -8,7 +8,7 @@ description: "Гора Байчжу названа в честь трех сер
 
 
 
-![AstroPaper I18n](/public/how-white-bamboo-mountain-got-its-name.png)
+![AstroPaper I18n](/how-white-bamboo-mountain-got-its-name.png)
 
 
 

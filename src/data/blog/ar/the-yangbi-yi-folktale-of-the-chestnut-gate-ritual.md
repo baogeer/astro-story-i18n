@@ -8,7 +8,7 @@ description: "في أسطورة قبيلة Yangyi Yi، لا يُعرف أحد ا
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
+![AstroPaper I18n](/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
 
 
 

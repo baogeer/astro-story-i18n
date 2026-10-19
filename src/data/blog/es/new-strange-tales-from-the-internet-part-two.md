@@ -8,7 +8,7 @@ description: "Este artículo describe una serie de anécdotas de Internet: algun
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-part-two.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-two.png)
 
 
 

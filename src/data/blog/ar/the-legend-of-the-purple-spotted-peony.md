@@ -8,7 +8,7 @@ description: "رفض شي ييشو، الناسك في نهاية عهد أسر�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-purple-spotted-peony.png)
+![AstroPaper I18n](/the-legend-of-the-purple-spotted-peony.png)
 
 
 

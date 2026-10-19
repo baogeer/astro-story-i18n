@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, Li Jilan et Xue Tao étaient extrêmement t
 
 
 
-![AstroPaper I18n](/public/the-wit-and-literary-grace-of-two-tang-dynasty-poetesses.png)
+![AstroPaper I18n](/the-wit-and-literary-grace-of-two-tang-dynasty-poetesses.png)
 
 
 

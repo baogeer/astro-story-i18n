@@ -8,7 +8,7 @@ description: "Les enfants de la riche famille ont amené le libraire à Pékin p
 
 
 
-![AstroPaper I18n](/public/the-day-the-yellow-ox-and-black-ox-fought.png)
+![AstroPaper I18n](/the-day-the-yellow-ox-and-black-ox-fought.png)
 
 
 

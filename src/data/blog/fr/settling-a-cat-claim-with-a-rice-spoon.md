@@ -8,7 +8,7 @@ description: "L'aîné Chen Qin a été faussement accusé d'avoir tué le chat 
 
 
 
-![AstroPaper I18n](/public/settling-a-cat-claim-with-a-rice-spoon.png)
+![AstroPaper I18n](/settling-a-cat-claim-with-a-rice-spoon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة Kunshan Noctilucent Peony، فإن إح�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-kunshan-night-glow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-kunshan-night-glow-peony.png)
 
 
 

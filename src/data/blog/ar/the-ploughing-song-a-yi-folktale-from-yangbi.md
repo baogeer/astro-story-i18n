@@ -8,7 +8,7 @@ description: "قام فلاح يي، إيجيا، بحرث الأرض وزراع
 
 
 
-![AstroPaper I18n](/public/the-ploughing-song-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-ploughing-song-a-yi-folktale-from-yangbi.png)
 
 
 

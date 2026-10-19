@@ -8,7 +8,7 @@ description: "Tang Xuanzong of the Tang dynasty built Tang Temple to avoid disas
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-daitang-temple.png)
+![AstroPaper I18n](/the-rise-and-fall-of-daitang-temple.png)
 
 
 

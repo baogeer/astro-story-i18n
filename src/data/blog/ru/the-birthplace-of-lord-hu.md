@@ -8,7 +8,7 @@ description: "Родной город автора — Хутади, дерев�
 
 
 
-![AstroPaper I18n](/public/the-birthplace-of-lord-hu.png)
+![AstroPaper I18n](/the-birthplace-of-lord-hu.png)
 
 
 

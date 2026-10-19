@@ -8,7 +8,7 @@ description: "El hada de las carpas se enamora de un pastor descalzo y de unos z
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-cloud-shoes.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-cloud-shoes.png)
 
 
 

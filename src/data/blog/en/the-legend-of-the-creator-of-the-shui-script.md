@@ -8,7 +8,7 @@ description: "Legend has it that the aquarium script was created by our ancestor
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-creator-of-the-shui-script.png)
+![AstroPaper I18n](/the-legend-of-the-creator-of-the-shui-script.png)
 
 
 

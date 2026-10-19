@@ -8,7 +8,7 @@ description: "التقى Xiao Qiu و Xiao Ji في المدرسة الثانوي�
 
 
 
-![AstroPaper I18n](/public/ghost-story-remembering-a-departed-friend.png)
+![AstroPaper I18n](/ghost-story-remembering-a-departed-friend.png)
 
 
 

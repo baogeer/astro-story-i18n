@@ -8,7 +8,7 @@ description: "Le Bouddha vivant du Ji Gong était à l'origine Li Xiuyuan, origi
 
 
 
-![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+![AstroPaper I18n](/ji-gong-the-living-buddha.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Хуан Шэн учился во дворце Цин под го�
 
 
 
-![AstroPaper I18n](/public/fragrant-jade.png)
+![AstroPaper I18n](/fragrant-jade.png)
 
 
 

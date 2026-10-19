@@ -8,7 +8,7 @@ description: "В неспокойном мире в конце Суя брать
 
 
 
-![AstroPaper I18n](/public/cheng-yaojin-swears-brotherhood-at-chendui.png)
+![AstroPaper I18n](/cheng-yaojin-swears-brotherhood-at-chendui.png)
 
 
 

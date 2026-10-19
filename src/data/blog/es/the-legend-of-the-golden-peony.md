@@ -8,7 +8,7 @@ description: "En Diancangshan, Dalí y Yunnan, para salvar a su padre, que fue s
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-peony.png)
+![AstroPaper I18n](/the-legend-of-the-golden-peony.png)
 
 
 

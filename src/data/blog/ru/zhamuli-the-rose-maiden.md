@@ -8,7 +8,7 @@ description: "Фари трудолюбива и добра. После спас
 
 
 
-![AstroPaper I18n](/public/zhamuli-the-rose-maiden.png)
+![AstroPaper I18n](/zhamuli-the-rose-maiden.png)
 
 
 

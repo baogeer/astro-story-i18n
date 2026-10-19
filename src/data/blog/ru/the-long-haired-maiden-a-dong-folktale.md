@@ -8,7 +8,7 @@ description: "Девушка с длинными волосами из этни�
 
 
 
-![AstroPaper I18n](/public/the-long-haired-maiden-a-dong-folktale.png)
+![AstroPaper I18n](/the-long-haired-maiden-a-dong-folktale.png)
 
 
 

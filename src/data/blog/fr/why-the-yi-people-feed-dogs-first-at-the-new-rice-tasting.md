@@ -8,7 +8,7 @@ description: "Selon les contes populaires Yi, Tenjin a envoyé des chiens et des
 
 
 
-![AstroPaper I18n](/public/why-the-yi-people-feed-dogs-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/why-the-yi-people-feed-dogs-first-at-the-new-rice-tasting.png)
 
 
 

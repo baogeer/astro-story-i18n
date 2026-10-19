@@ -8,7 +8,7 @@ description: "Una moneda de un yuan que llegó rodando sola recuerda al protagon
 
 
 
-![AstroPaper I18n](/public/the-one-yuan-coin.png)
+![AstroPaper I18n](/the-one-yuan-coin.png)
 
 
 

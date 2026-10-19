@@ -8,7 +8,7 @@ description: "Во времена династии Тан мэр округа Ч
 
 
 
-![AstroPaper I18n](/public/magistrate-wu-yineng-loses-his-post.png)
+![AstroPaper I18n](/magistrate-wu-yineng-loses-his-post.png)
 
 
 

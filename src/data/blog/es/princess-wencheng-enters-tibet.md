@@ -8,7 +8,7 @@ description: "La princesa Wencheng se casó con Zampu en Tuban. Asumió la misi�
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-enters-tibet.png)
+![AstroPaper I18n](/princess-wencheng-enters-tibet.png)
 
 
 

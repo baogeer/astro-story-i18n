@@ -8,7 +8,7 @@ description: "The brothers Daro and Jiro from Tiao Village in Funayama caught cr
 
 
 
-![AstroPaper I18n](/public/the-dragon-head-golden-hairpin.png)
+![AstroPaper I18n](/the-dragon-head-golden-hairpin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Qiang people claim to be Erma. They are descendants of Emperor
 
 
 
-![AstroPaper I18n](/public/the-qiang-an-ancient-people-above-the-clouds.png)
+![AstroPaper I18n](/the-qiang-an-ancient-people-above-the-clouds.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Long-time workers are harassed by wealthy owners; they need to buy
 
 
 
-![AstroPaper I18n](/public/the-clever-wife.png)
+![AstroPaper I18n](/the-clever-wife.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Jia Penglai et Shangguanzilang étaient jeunes et séparés en rai
 
 
 
-![AstroPaper I18n](/public/jia-penglai-and-her-husband-united-in-death.png)
+![AstroPaper I18n](/jia-penglai-and-her-husband-united-in-death.png)
 
 
 

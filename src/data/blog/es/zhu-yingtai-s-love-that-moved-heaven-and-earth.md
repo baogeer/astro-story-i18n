@@ -8,7 +8,7 @@ description: "Zhu Yingtai, una mujer vestida de hombre, fue a la escuela y tuvo 
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-s-love-that-moved-heaven-and-earth.png)
+![AstroPaper I18n](/zhu-yingtai-s-love-that-moved-heaven-and-earth.png)
 
 
 

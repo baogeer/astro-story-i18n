@@ -8,7 +8,7 @@ description: "تم التخلي عن الحمير في البرية من قبل 
 
 
 
-![AstroPaper I18n](/public/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
+![AstroPaper I18n](/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
 
 
 

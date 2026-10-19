@@ -8,7 +8,7 @@ description: "Orchid est une gentille veuve qui a supplié d'élever sa belle-m�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ghost-festival-1740.png)
+![AstroPaper I18n](/the-legend-of-the-ghost-festival-1740.png)
 
 
 

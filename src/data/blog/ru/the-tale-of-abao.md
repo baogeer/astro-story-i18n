@@ -8,7 +8,7 @@ description: "Сунь Цзычу, известная как «идиотка с
 
 
 
-![AstroPaper I18n](/public/the-tale-of-abao.png)
+![AstroPaper I18n](/the-tale-of-abao.png)
 
 
 

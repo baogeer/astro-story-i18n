@@ -8,7 +8,7 @@ description: "Чжу Интай, женщина в мужской одежде, 
 
 
 
-![AstroPaper I18n](/public/a-pair-of-butterflies-in-flight.png)
+![AstroPaper I18n](/a-pair-of-butterflies-in-flight.png)
 
 
 

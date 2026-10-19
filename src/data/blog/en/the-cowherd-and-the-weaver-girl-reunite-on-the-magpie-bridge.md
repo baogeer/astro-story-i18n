@@ -8,7 +8,7 @@ description: "The cowherd and the weaver became husband and wife due to a relati
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
 
 
 

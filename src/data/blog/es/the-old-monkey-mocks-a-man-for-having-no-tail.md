@@ -8,7 +8,7 @@ description: "Un grupo de monos se llevó a un granjero de la antigua Tianzhu. L
 
 
 
-![AstroPaper I18n](/public/the-old-monkey-mocks-a-man-for-having-no-tail.png)
+![AstroPaper I18n](/the-old-monkey-mocks-a-man-for-having-no-tail.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Наошэн Тарзан впервые влюбился в до�
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-hu-sijie.png)
+![AstroPaper I18n](/the-fox-maiden-hu-sijie.png)
 
 
 

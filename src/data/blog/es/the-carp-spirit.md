@@ -8,7 +8,7 @@ description: "Xu Shaojun, un erudito pobre, compró pescado para soltarlo y más
 
 
 
-![AstroPaper I18n](/public/the-carp-spirit.png)
+![AstroPaper I18n](/the-carp-spirit.png)
 
 
 

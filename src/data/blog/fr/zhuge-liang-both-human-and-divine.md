@@ -8,7 +8,7 @@ description: "Zhu Geliang a à la fois des mérites et des essais. Il est l'inca
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-both-human-and-divine.png)
+![AstroPaper I18n](/zhuge-liang-both-human-and-divine.png)
 
 
 

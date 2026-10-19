@@ -8,7 +8,7 @@ description: "В первые годы существования Китайск
 
 
 
-![AstroPaper I18n](/public/the-deadly-qin-melody.png)
+![AstroPaper I18n](/the-deadly-qin-melody.png)
 
 
 

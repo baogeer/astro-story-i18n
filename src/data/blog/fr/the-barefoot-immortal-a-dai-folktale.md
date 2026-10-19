@@ -8,7 +8,7 @@ description: "Barefoot Daxian a fait le tour du monde. Constatant la sécheresse
 
 
 
-![AstroPaper I18n](/public/the-barefoot-immortal-a-dai-folktale.png)
+![AstroPaper I18n](/the-barefoot-immortal-a-dai-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "«Я» увидел новое название ресторана
 
 
 
-![AstroPaper I18n](/public/a-story-inspired-by-a-couplet.png)
+![AstroPaper I18n](/a-story-inspired-by-a-couplet.png)
 
 
 

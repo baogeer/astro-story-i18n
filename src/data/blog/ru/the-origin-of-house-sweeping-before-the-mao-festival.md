@@ -8,7 +8,7 @@ description: "После того как предки аквариумов пе�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-house-sweeping-before-the-mao-festival.png)
+![AstroPaper I18n](/the-origin-of-house-sweeping-before-the-mao-festival.png)
 
 
 

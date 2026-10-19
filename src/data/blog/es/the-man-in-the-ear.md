@@ -8,7 +8,7 @@ description: "Tan Jinxuan es un genio. Está obsesionado con practicar Qigong. D
 
 
 
-![AstroPaper I18n](/public/the-man-in-the-ear.png)
+![AstroPaper I18n](/the-man-in-the-ear.png)
 
 
 

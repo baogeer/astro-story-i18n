@@ -8,7 +8,7 @@ description: "في اجتماع التعبئة الحربية الصينية ا�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-female-war-correspondent-s-breasts.png)
+![AstroPaper I18n](/the-story-of-the-female-war-correspondent-s-breasts.png)
 
 
 

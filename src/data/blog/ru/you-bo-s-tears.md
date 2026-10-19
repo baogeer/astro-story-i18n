@@ -8,7 +8,7 @@ description: "Uber поднялся на гору, чтобы посмотрет
 
 
 
-![AstroPaper I18n](/public/you-bo-s-tears.png)
+![AstroPaper I18n](/you-bo-s-tears.png)
 
 
 

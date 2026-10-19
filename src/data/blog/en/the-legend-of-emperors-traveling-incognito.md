@@ -8,7 +8,7 @@ description: "Legends spread in places such as Yunlin and Chiayi in Taiwan that 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-emperors-traveling-incognito.png)
+![AstroPaper I18n](/the-legend-of-emperors-traveling-incognito.png)
 
 
 

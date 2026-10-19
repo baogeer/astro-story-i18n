@@ -8,7 +8,7 @@ description: "Wu Zetian went from being a nun to the palace. He was favored by G
 
 
 
-![AstroPaper I18n](/public/wu-zetian-delicate-hands-deadly-deeds.png)
+![AstroPaper I18n](/wu-zetian-delicate-hands-deadly-deeds.png)
 
 
 

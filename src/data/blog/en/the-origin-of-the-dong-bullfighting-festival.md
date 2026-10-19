@@ -8,7 +8,7 @@ description: "Old people who love cows traveled all over the village to find a B
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-dong-bullfighting-festival.png)
+![AstroPaper I18n](/the-origin-of-the-dong-bullfighting-festival.png)
 
 
 

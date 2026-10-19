@@ -8,7 +8,7 @@ description: "Los seis mercenarios tuvieron finales muy diferentes: Liu Yong rec
 
 
 
-![AstroPaper I18n](/public/the-six-most-famous-libertines-in-chinese-history.png)
+![AstroPaper I18n](/the-six-most-famous-libertines-in-chinese-history.png)
 
 
 

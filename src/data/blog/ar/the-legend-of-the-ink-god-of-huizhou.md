@@ -8,7 +8,7 @@ description: "تم خداع غو يو تينغ من قبل والد عائلة �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ink-god-of-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-ink-god-of-huizhou.png)
 
 
 

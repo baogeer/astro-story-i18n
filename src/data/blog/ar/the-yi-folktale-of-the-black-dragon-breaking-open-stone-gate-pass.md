@@ -8,7 +8,7 @@ description: "تقول الأسطورة أنه لا يوجد ممر شيمن ف�
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
 
 
 

@@ -8,7 +8,7 @@ description: "نجح حصانان جنكيز خان في الصيد، لكن ل�
 
 
 
-![AstroPaper I18n](/public/the-two-steeds-of-genghis-khan.png)
+![AstroPaper I18n](/the-two-steeds-of-genghis-khan.png)
 
 
 

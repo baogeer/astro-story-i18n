@@ -8,7 +8,7 @@ description: "Il y a un homme puissant qui n'a qu'un bras dans le village de She
 
 
 
-![AstroPaper I18n](/public/the-one-bone-strongman.png)
+![AstroPaper I18n](/the-one-bone-strongman.png)
 
 
 

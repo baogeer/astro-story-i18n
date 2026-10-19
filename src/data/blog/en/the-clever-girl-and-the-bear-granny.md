@@ -8,7 +8,7 @@ description: "Deep in the mountains of western Xiangxi, the two sisters went to 
 
 
 
-![AstroPaper I18n](/public/the-clever-girl-and-the-bear-granny.png)
+![AstroPaper I18n](/the-clever-girl-and-the-bear-granny.png)
 
 
 

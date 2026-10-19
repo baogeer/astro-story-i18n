@@ -8,7 +8,7 @@ description: "كان لي مينجين، وهو طفل فقير، يكسب رز�
 
 
 
-![AstroPaper I18n](/public/the-rich-girl-who-fell-for-a-woodcutter.png)
+![AstroPaper I18n](/the-rich-girl-who-fell-for-a-woodcutter.png)
 
 
 

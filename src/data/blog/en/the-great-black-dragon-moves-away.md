@@ -8,7 +8,7 @@ description: "Big Black Dragon lives in a willow nest at Dalangba in Cangshan. H
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-moves-away.png)
+![AstroPaper I18n](/the-great-black-dragon-moves-away.png)
 
 
 

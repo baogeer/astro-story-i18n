@@ -8,7 +8,7 @@ description: "Pan, l'épouse de Yang Dajian du nord de Wei, est douée pour l'é
 
 
 
-![AstroPaper I18n](/public/the-remarkable-woman-warrior-greater-than-mulan.png)
+![AstroPaper I18n](/the-remarkable-woman-warrior-greater-than-mulan.png)
 
 
 

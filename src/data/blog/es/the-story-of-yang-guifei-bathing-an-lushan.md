@@ -8,7 +8,7 @@ description: "Durante los años de Tianbao, para consolidar su posición, Yang G
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-story-of-yang-guifei-bathing-an-lushan.png)
 
 
 

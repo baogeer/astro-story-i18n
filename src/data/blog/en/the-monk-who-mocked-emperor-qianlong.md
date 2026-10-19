@@ -8,7 +8,7 @@ description: "Emperor Qianlong went to Jiangnan to secretly visit the people's s
 
 
 
-![AstroPaper I18n](/public/the-monk-who-mocked-emperor-qianlong.png)
+![AstroPaper I18n](/the-monk-who-mocked-emperor-qianlong.png)
 
 
 

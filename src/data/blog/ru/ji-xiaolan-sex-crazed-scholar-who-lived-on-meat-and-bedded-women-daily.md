@@ -8,7 +8,7 @@ description: "Цзи Сяолань, ученый из династии Цин, 
 
 
 
-![AstroPaper I18n](/public/ji-xiaolan-sex-crazed-scholar-who-lived-on-meat-and-bedded-women-daily.png)
+![AstroPaper I18n](/ji-xiaolan-sex-crazed-scholar-who-lived-on-meat-and-bedded-women-daily.png)
 
 
 

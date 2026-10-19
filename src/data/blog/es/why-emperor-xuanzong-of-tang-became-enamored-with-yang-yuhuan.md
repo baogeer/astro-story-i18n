@@ -8,7 +8,7 @@ description: "Tang Xuanzong se sintió vacío debido a la muerte de Wu Huifei. U
 
 
 
-![AstroPaper I18n](/public/why-emperor-xuanzong-of-tang-became-enamored-with-yang-yuhuan.png)
+![AstroPaper I18n](/why-emperor-xuanzong-of-tang-became-enamored-with-yang-yuhuan.png)
 
 
 

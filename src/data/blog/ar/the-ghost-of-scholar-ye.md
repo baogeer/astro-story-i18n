@@ -8,7 +8,7 @@ description: "كان يي شنغ موهوبًا للغاية، لكنه فشل �
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-scholar-ye.png)
+![AstroPaper I18n](/the-ghost-of-scholar-ye.png)
 
 
 

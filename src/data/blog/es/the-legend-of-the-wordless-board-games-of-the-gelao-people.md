@@ -8,7 +8,7 @@ description: "La gente de Yilao en Wuchuan, Guizhou, tiene una variedad de juego
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
+![AstroPaper I18n](/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The cruel exploitation of the people in the Qing dynasty caused th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jiang-yingfang-hero-of-the-dong-people.png)
+![AstroPaper I18n](/the-legend-of-jiang-yingfang-hero-of-the-dong-people.png)
 
 
 

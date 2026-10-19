@@ -8,7 +8,7 @@ description: "Le jeune groupe ethnique Shes a eu des maux d'estomac au cours de 
 
 
 
-![AstroPaper I18n](/public/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
+![AstroPaper I18n](/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El Tejedor salvó al pueblo de Buyei y luchó valientemente contra
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-fairy-maiden-mountain.png)
+![AstroPaper I18n](/the-bouyei-legend-of-fairy-maiden-mountain.png)
 
 
 

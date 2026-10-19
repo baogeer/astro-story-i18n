@@ -8,7 +8,7 @@ description: "Laozi Li Er rode a green cow and lobbied through Mingguang Hongmia
 
 
 
-![AstroPaper I18n](/public/the-immortal-s-footprint.png)
+![AstroPaper I18n](/the-immortal-s-footprint.png)
 
 
 

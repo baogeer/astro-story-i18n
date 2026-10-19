@@ -8,7 +8,7 @@ description: "In the Seven Rebellion, Li Hualong hid in a pile of dead people an
 
 
 
-![AstroPaper I18n](/public/the-wild-dog-monster.png)
+![AstroPaper I18n](/the-wild-dog-monster.png)
 
 
 

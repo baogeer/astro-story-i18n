@@ -8,7 +8,7 @@ description: "Les inondations ont inondé la terre dans les temps anciens. Un fr
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-great-flood.png)
+![AstroPaper I18n](/the-miao-legend-of-the-great-flood.png)
 
 
 

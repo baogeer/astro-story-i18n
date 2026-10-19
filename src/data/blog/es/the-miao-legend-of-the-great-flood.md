@@ -8,7 +8,7 @@ description: "Las inundaciones inundaron la tierra en la antigüedad. Un hermano
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-great-flood.png)
+![AstroPaper I18n](/the-miao-legend-of-the-great-flood.png)
 
 
 

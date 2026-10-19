@@ -8,7 +8,7 @@ description: "Праздник народа Хани «Мяо Айна» — в�
 
 
 
-![AstroPaper I18n](/public/the-hani-festival-of-rest-for-the-plowing-oxen.png)
+![AstroPaper I18n](/the-hani-festival-of-rest-for-the-plowing-oxen.png)
 
 
 

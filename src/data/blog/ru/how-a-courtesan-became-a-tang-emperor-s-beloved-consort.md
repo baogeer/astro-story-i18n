@@ -8,7 +8,7 @@ description: "Первоначально Ду Цюнян была певицей
 
 
 
-![AstroPaper I18n](/public/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
+![AstroPaper I18n](/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
 
 
 

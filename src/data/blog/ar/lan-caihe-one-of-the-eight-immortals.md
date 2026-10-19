@@ -8,7 +8,7 @@ description: "Lan Caihe هو أحد الخالدين الثمانية. غالب�
 
 
 
-![AstroPaper I18n](/public/lan-caihe-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/lan-caihe-one-of-the-eight-immortals.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Une femme célèbre s'est déguisée en homme lors de l'examen et 
 
 
 
-![AstroPaper I18n](/public/wen-fei-e-s-fated-matchmaking.png)
+![AstroPaper I18n](/wen-fei-e-s-fated-matchmaking.png)
 
 
 

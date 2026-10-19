@@ -8,7 +8,7 @@ description: "La légende raconte que la grotte des fées de Keelung a un accès
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-underground-tunnels.png)
+![AstroPaper I18n](/the-legend-of-the-underground-tunnels.png)
 
 
 

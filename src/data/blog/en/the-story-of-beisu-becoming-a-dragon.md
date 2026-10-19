@@ -8,7 +8,7 @@ description: "Kitajuku is an orphan from Jintang Island. When growing bayberry, 
 
 
 
-![AstroPaper I18n](/public/the-story-of-beisu-becoming-a-dragon.png)
+![AstroPaper I18n](/the-story-of-beisu-becoming-a-dragon.png)
 
 
 

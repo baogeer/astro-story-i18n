@@ -8,7 +8,7 @@ description: "Un certain duc du Shaanxi se souvient de sa vie passée. Après sa
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-almost-became-a-sheep.png)
+![AstroPaper I18n](/the-scholar-who-almost-became-a-sheep.png)
 
 
 

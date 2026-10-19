@@ -8,7 +8,7 @@ description: "La ingeniosa nuera de Wangjiazhuang es capaz de soportar todo tipo
 
 
 
-![AstroPaper I18n](/public/invalid-api-key-for-details-please-view-302-ai.png)
+![AstroPaper I18n](/invalid-api-key-for-details-please-view-302-ai.png)
 
 
 

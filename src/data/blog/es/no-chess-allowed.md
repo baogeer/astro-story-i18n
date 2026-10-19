@@ -8,7 +8,7 @@ description: "El poeta de la dinastía Tang, Li Yuan, fue confundido por Tang Xu
 
 
 
-![AstroPaper I18n](/public/no-chess-allowed.png)
+![AstroPaper I18n](/no-chess-allowed.png)
 
 
 

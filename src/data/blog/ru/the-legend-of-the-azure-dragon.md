@@ -8,7 +8,7 @@ description: "Цинлун и Красный дракон отвечают за 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-azure-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-azure-dragon.png)
 
 
 

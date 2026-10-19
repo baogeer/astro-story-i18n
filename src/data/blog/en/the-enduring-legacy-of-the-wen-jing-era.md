@@ -8,7 +8,7 @@ description: "Emperor Han Wen and Emperor Jing promoted light and weak gifts, ab
 
 
 
-![AstroPaper I18n](/public/the-enduring-legacy-of-the-wen-jing-era.png)
+![AstroPaper I18n](/the-enduring-legacy-of-the-wen-jing-era.png)
 
 
 

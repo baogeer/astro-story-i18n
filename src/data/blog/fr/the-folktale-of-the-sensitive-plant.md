@@ -8,7 +8,7 @@ description: "Après avoir été timide et avoir fondé une famille avec la fée
 
 
 
-![AstroPaper I18n](/public/the-folktale-of-the-sensitive-plant.png)
+![AstroPaper I18n](/the-folktale-of-the-sensitive-plant.png)
 
 
 

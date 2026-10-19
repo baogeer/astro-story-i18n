@@ -8,7 +8,7 @@ description: "El cazador salvó al conejo por accidente y el espíritu del conej
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-unexpected-fairy-bride.png)
+![AstroPaper I18n](/the-hunter-s-unexpected-fairy-bride.png)
 
 
 

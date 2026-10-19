@@ -8,7 +8,7 @@ description: "Легенда о кирпичах Dingcheng гласит, что 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-city-guarding-brick.png)
+![AstroPaper I18n](/the-legend-of-the-city-guarding-brick.png)
 
 
 

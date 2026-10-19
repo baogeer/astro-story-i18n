@@ -8,7 +8,7 @@ description: "Xiong Xin, petit-fils du roi Chu Huai, élevait des moutons incogn
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shepherd-mountain.png)
+![AstroPaper I18n](/the-legend-of-shepherd-mountain.png)
 
 
 

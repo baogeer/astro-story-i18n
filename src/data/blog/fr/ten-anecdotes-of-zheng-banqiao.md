@@ -8,7 +8,7 @@ description: "Dix anecdotes sur Zheng Banqiao relatent des anecdotes sur Zheng B
 
 
 
-![AstroPaper I18n](/public/ten-anecdotes-of-zheng-banqiao.png)
+![AstroPaper I18n](/ten-anecdotes-of-zheng-banqiao.png)
 
 
 

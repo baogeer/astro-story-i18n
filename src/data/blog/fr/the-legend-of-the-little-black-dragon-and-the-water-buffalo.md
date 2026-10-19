@@ -8,7 +8,7 @@ description: "Un ancien éleveur de vaches de la tribu Dai de Mengku a découver
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
+![AstroPaper I18n](/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
 
 
 

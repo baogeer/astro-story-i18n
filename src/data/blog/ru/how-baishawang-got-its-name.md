@@ -8,7 +8,7 @@ description: "Ян Люлангу было приказано сражаться
 
 
 
-![AstroPaper I18n](/public/how-baishawang-got-its-name.png)
+![AstroPaper I18n](/how-baishawang-got-its-name.png)
 
 
 

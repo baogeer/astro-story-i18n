@@ -8,7 +8,7 @@ description: "Gélambazar took advantage of her husband to have sex with others.
 
 
 
-![AstroPaper I18n](/public/the-parrot-and-relang-bazha.png)
+![AstroPaper I18n](/the-parrot-and-relang-bazha.png)
 
 
 

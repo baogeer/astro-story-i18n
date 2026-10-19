@@ -8,7 +8,7 @@ description: "Jinniu, the second youngest grandpa of the Jin family, falls in lo
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-and-the-morning-glory.png)
+![AstroPaper I18n](/the-golden-ox-and-the-morning-glory.png)
 
 
 

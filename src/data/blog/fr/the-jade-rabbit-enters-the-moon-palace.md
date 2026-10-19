@@ -8,7 +8,7 @@ description: "Deux lapins qui s'entraînent pour devenir immortels ont appris qu
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-enters-the-moon-palace.png)
+![AstroPaper I18n](/the-jade-rabbit-enters-the-moon-palace.png)
 
 
 

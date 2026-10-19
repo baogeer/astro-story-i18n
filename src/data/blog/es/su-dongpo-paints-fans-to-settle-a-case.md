@@ -8,7 +8,7 @@ description: "Su Dongpo fue a Hangzhou para hacerse cargo. Antes de asumir el ca
 
 
 
-![AstroPaper I18n](/public/su-dongpo-paints-fans-to-settle-a-case.png)
+![AstroPaper I18n](/su-dongpo-paints-fans-to-settle-a-case.png)
 
 
 

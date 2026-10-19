@@ -8,7 +8,7 @@ description: "كان لدى Qiantang ذات مرة اثنين من Su Xiaoxiao: 
 
 
 
-![AstroPaper I18n](/public/the-two-su-xiaoxiao-of-qiantang.png)
+![AstroPaper I18n](/the-two-su-xiaoxiao-of-qiantang.png)
 
 
 

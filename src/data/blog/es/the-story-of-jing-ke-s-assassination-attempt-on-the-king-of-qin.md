@@ -8,7 +8,7 @@ description: "Al final del período de los Reinos Combatientes, el príncipe Yan
 
 
 
-![AstroPaper I18n](/public/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
+![AstroPaper I18n](/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
 
 
 

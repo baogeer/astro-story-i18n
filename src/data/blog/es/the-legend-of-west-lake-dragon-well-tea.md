@@ -8,7 +8,7 @@ description: "Cuando el emperador Qianlong fue a Jiangnan, recogió té en la mo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-west-lake-dragon-well-tea.png)
 
 
 

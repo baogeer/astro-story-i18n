@@ -8,7 +8,7 @@ description: "Текст истории отсутствует, а резюме 
 
 
 
-![AstroPaper I18n](/public/li-zicheng-crosses-the-yellow-river.png)
+![AstroPaper I18n](/li-zicheng-crosses-the-yellow-river.png)
 
 
 

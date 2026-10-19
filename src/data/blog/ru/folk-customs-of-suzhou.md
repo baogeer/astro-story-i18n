@@ -8,7 +8,7 @@ description: "Сучжоу богат народными обычаями. Зд�
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-suzhou.png)
+![AstroPaper I18n](/folk-customs-of-suzhou.png)
 
 
 

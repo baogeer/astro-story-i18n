@@ -8,7 +8,7 @@ description: "التقى أمير مقاطعة جوكسيان مع يينغ ني
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yingning.png)
+![AstroPaper I18n](/the-tale-of-yingning.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le sixième dalaï-dalaï-cangyao s'est réincarné en enfant spir
 
 
 
-![AstroPaper I18n](/public/the-legend-of-milk-river.png)
+![AstroPaper I18n](/the-legend-of-milk-river.png)
 
 
 

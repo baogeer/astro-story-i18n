@@ -8,7 +8,7 @@ description: "تعمق الراهب القديم في طريقه. بعد وفا�
 
 
 
-![AstroPaper I18n](/public/the-monk-of-changqing.png)
+![AstroPaper I18n](/the-monk-of-changqing.png)
 
 
 

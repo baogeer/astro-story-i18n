@@ -8,7 +8,7 @@ description: "The list of gifts in Mao Zedong's collection records that he hande
 
 
 
-![AstroPaper I18n](/public/the-noble-spirit-of-mao-zedong-lives-on.png)
+![AstroPaper I18n](/the-noble-spirit-of-mao-zedong-lives-on.png)
 
 
 

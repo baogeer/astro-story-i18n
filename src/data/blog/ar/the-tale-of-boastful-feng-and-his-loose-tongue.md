@@ -8,7 +8,7 @@ description: "في عهد أسرة مينغ، كان فنغ يحب التباه�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
 
 
 

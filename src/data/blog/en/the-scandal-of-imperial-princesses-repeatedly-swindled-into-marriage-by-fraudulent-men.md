@@ -8,7 +8,7 @@ description: "In the Ming Dynasty, in order to prevent foreign relatives from ru
 
 
 
-![AstroPaper I18n](/public/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
+![AstroPaper I18n](/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
 
 
 

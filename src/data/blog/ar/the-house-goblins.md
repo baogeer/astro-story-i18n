@@ -8,7 +8,7 @@ description: "هناك العديد من الشياطين في منزل ناجا
 
 
 
-![AstroPaper I18n](/public/the-house-goblins.png)
+![AstroPaper I18n](/the-house-goblins.png)
 
 
 

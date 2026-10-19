@@ -8,7 +8,7 @@ description: "Nimanji a été maltraitée par sa belle-mère et a été aidée p
 
 
 
-![AstroPaper I18n](/public/nimanzhi-and-huoningzhi.png)
+![AstroPaper I18n](/nimanzhi-and-huoningzhi.png)
 
 
 

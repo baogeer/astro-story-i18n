@@ -8,7 +8,7 @@ description: "Yang Shihou era el general Liang. Salvó al ejército con una pist
 
 
 
-![AstroPaper I18n](/public/the-unorthodox-loyalist-who-terrified-two-emperors.png)
+![AstroPaper I18n](/the-unorthodox-loyalist-who-terrified-two-emperors.png)
 
 
 

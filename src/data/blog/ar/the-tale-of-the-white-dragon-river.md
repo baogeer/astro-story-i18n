@@ -8,7 +8,7 @@ description: "باي لونج هو الابن الأكبر الطيب لقصر �
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-white-dragon-river.png)
+![AstroPaper I18n](/the-tale-of-the-white-dragon-river.png)
 
 
 

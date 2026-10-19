@@ -8,7 +8,7 @@ description: "Liu Zhongli seduced Ho Lee, and the tenant's family was mistakenly
 
 
 
-![AstroPaper I18n](/public/the-beautiful-wife-who-crawled-out-of-the-pit.png)
+![AstroPaper I18n](/the-beautiful-wife-who-crawled-out-of-the-pit.png)
 
 
 

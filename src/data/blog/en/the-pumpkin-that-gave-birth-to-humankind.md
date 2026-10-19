@@ -8,7 +8,7 @@ description: "In ancient times, the gods fell out of their teeth and grew into p
 
 
 
-![AstroPaper I18n](/public/the-pumpkin-that-gave-birth-to-humankind.png)
+![AstroPaper I18n](/the-pumpkin-that-gave-birth-to-humankind.png)
 
 
 

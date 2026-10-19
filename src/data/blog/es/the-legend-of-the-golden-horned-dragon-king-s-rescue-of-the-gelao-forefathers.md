@@ -8,7 +8,7 @@ description: "Los antepasados de la etnia Yilao se encontraron con tigres en las
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
+![AstroPaper I18n](/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
 
 
 

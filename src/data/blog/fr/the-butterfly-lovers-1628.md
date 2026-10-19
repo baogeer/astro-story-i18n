@@ -8,7 +8,7 @@ description: "Liang Shanbo et Zhu Yingtai étaient dans la même famille depuis 
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers-1628.png)
+![AstroPaper I18n](/the-butterfly-lovers-1628.png)
 
 
 

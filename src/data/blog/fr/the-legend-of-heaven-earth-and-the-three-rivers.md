@@ -8,7 +8,7 @@ description: "L'héritage de Nu Wa Butian a été transformé en montagne Changb
 
 
 
-![AstroPaper I18n](/public/the-legend-of-heaven-earth-and-the-three-rivers.png)
+![AstroPaper I18n](/the-legend-of-heaven-earth-and-the-three-rivers.png)
 
 
 

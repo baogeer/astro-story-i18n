@@ -8,7 +8,7 @@ description: "عثر الشيطان ماهي على التذكرة الفضية 
 
 
 
-![AstroPaper I18n](/public/the-gambler-who-traded-his-wife-s-honor-for-silver.png)
+![AstroPaper I18n](/the-gambler-who-traded-his-wife-s-honor-for-silver.png)
 
 
 

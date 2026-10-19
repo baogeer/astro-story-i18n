@@ -8,7 +8,7 @@ description: "Pendant la République de Chine, il y avait trois «xa0jardins mil
 
 
 
-![AstroPaper I18n](/public/the-military-officer-s-garden.png)
+![AstroPaper I18n](/the-military-officer-s-garden.png)
 
 
 

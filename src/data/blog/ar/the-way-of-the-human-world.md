@@ -8,7 +8,7 @@ description: "أراد السيد هو إرباك العالم السفلي. ت�
 
 
 
-![AstroPaper I18n](/public/the-way-of-the-human-world.png)
+![AstroPaper I18n](/the-way-of-the-human-world.png)
 
 
 

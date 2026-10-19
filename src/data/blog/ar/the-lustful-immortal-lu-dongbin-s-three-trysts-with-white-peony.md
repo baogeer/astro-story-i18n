@@ -8,7 +8,7 @@ description: "على الرغم من أن Lu Dongbin خالد، إلا أنه ي
 
 
 
-![AstroPaper I18n](/public/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
+![AstroPaper I18n](/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
 
 
 

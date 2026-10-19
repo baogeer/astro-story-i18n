@@ -8,7 +8,7 @@ description: "Жители Илао получили семена зерна о�
 
 
 
-![AstroPaper I18n](/public/the-gelao-legend-of-the-field-mother.png)
+![AstroPaper I18n](/the-gelao-legend-of-the-field-mother.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في أواخر عهد أسرة تشينغ، اصطدم سيد ا�
 
 
 
-![AstroPaper I18n](/public/the-heart-kick.png)
+![AstroPaper I18n](/the-heart-kick.png)
 
 
 

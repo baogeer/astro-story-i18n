@@ -8,7 +8,7 @@ description: "Zhang a également été piégé et falsifié pour enquêter sur l
 
 
 
-![AstroPaper I18n](/public/the-zither-challenge.png)
+![AstroPaper I18n](/the-zither-challenge.png)
 
 
 

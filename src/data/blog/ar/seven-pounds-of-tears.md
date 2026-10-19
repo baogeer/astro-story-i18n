@@ -8,7 +8,7 @@ description: "تم إهانة Fairy Hua Er للقيام بأعمال صالحة 
 
 
 
-![AstroPaper I18n](/public/seven-pounds-of-tears.png)
+![AstroPaper I18n](/seven-pounds-of-tears.png)
 
 
 

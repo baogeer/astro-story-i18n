@@ -8,7 +8,7 @@ description: "Лю Дантин, аспирант из Лояна, любил в
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-liu-yellow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-dai-liu-yellow-peony.png)
 
 
 

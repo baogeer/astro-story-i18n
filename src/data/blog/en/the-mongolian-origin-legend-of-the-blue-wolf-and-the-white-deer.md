@@ -8,7 +8,7 @@ description: "As a child, Korte Chena was raised by a female wolf. When she grew
 
 
 
-![AstroPaper I18n](/public/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
+![AstroPaper I18n](/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
 
 
 

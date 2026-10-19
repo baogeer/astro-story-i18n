@@ -8,7 +8,7 @@ description: "Xiao Dafeng went up the mountain by mistake and fell to her death.
 
 
 
-![AstroPaper I18n](/public/the-hunter-and-the-she-wolf-a-tale-of-revenge-and-gratitude.png)
+![AstroPaper I18n](/the-hunter-and-the-she-wolf-a-tale-of-revenge-and-gratitude.png)
 
 
 

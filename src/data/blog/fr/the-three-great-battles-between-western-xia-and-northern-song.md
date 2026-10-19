@@ -8,7 +8,7 @@ description: "Western Xia Yuan Hao a affirmé que l'impératrice avait lancé le
 
 
 
-![AstroPaper I18n](/public/the-three-great-battles-between-western-xia-and-northern-song.png)
+![AstroPaper I18n](/the-three-great-battles-between-western-xia-and-northern-song.png)
 
 
 

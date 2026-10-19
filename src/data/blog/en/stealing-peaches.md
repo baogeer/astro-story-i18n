@@ -8,7 +8,7 @@ description: "When I was a kid, I watched “Yanchun” in Jinan and saw an ente
 
 
 
-![AstroPaper I18n](/public/stealing-peaches.png)
+![AstroPaper I18n](/stealing-peaches.png)
 
 
 

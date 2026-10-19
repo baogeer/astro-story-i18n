@@ -8,7 +8,7 @@ description: "La leyenda del rey del bambú es la historia de Zhusheng, un adole
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king.png)
 
 
 

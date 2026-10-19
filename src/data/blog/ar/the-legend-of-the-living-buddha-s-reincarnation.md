@@ -8,7 +8,7 @@ description: "بعد وفاة كارما، أراد أن يتجسد من خلا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-living-buddha-s-reincarnation.png)
+![AstroPaper I18n](/the-legend-of-the-living-buddha-s-reincarnation.png)
 
 
 

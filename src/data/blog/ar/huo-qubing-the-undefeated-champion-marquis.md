@@ -8,7 +8,7 @@ description: "قاد بطل هان هو هوو 10000 راكب لمهاجمة ه�
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-undefeated-champion-marquis.png)
+![AstroPaper I18n](/huo-qubing-the-undefeated-champion-marquis.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ван Чаншань был в долгах и вместе со 
 
 
 
-![AstroPaper I18n](/public/wang-changshan-the-sea-lord.png)
+![AstroPaper I18n](/wang-changshan-the-sea-lord.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В период Цзяцина династии Цин восст�
 
 
 
-![AstroPaper I18n](/public/the-heroine-wang-cong-er.png)
+![AstroPaper I18n](/the-heroine-wang-cong-er.png)
 
 
 

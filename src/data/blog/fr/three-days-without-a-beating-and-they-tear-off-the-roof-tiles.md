@@ -8,7 +8,7 @@ description: "Les deux garçons de Bao sont joueurs. Chaque jour, ils poursuiven
 
 
 
-![AstroPaper I18n](/public/three-days-without-a-beating-and-they-tear-off-the-roof-tiles.png)
+![AstroPaper I18n](/three-days-without-a-beating-and-they-tear-off-the-roof-tiles.png)
 
 
 

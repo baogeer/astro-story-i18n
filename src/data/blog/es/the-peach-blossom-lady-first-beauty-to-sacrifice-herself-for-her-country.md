@@ -8,7 +8,7 @@ description: "Xi Yi es la esposa de Chunqiu Xiguo. Parece una flor de durazno. D
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-lady-first-beauty-to-sacrifice-herself-for-her-country.png)
+![AstroPaper I18n](/the-peach-blossom-lady-first-beauty-to-sacrifice-herself-for-her-country.png)
 
 
 

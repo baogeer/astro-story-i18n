@@ -8,7 +8,7 @@ description: "وقعت تو يانغ، لؤلؤة الحدادين، في حب �
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-blacksmith-mingzhu-tuoyang.png)
+![AstroPaper I18n](/the-tale-of-the-blacksmith-mingzhu-tuoyang.png)
 
 
 

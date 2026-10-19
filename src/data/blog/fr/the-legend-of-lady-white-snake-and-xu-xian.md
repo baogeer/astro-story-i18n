@@ -8,7 +8,7 @@ description: "Bai Niang Zi était à l'origine un serpent blanc pratiquant. Apr�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-lady-white-snake-and-xu-xian.png)
 
 
 

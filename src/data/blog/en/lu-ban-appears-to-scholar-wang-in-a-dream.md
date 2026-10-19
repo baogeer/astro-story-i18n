@@ -8,7 +8,7 @@ description: "Wang Xiucai rushed to the exam and was robbed. After falling off t
 
 
 
-![AstroPaper I18n](/public/lu-ban-appears-to-scholar-wang-in-a-dream.png)
+![AstroPaper I18n](/lu-ban-appears-to-scholar-wang-in-a-dream.png)
 
 
 

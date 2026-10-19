@@ -8,7 +8,7 @@ description: "There are many demons in Nagayama Li Gong's home. I have seen a fl
 
 
 
-![AstroPaper I18n](/public/the-house-goblins.png)
+![AstroPaper I18n](/the-house-goblins.png)
 
 
 

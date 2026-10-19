@@ -8,7 +8,7 @@ description: "В конце правления династии Мин этни�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
 
 
 

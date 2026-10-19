@@ -8,7 +8,7 @@ description: "Zhu Geliang se casó con Huang Shuo, la fea hija del famoso Huang 
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-s-ugly-wife.png)
+![AstroPaper I18n](/zhuge-liang-s-ugly-wife.png)
 
 
 

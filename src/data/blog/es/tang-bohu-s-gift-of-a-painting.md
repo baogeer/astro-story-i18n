@@ -8,7 +8,7 @@ description: "En la ciudad de Shu, Jiangning, en la dinastía Ming, Gengfu recib
 
 
 
-![AstroPaper I18n](/public/tang-bohu-s-gift-of-a-painting.png)
+![AstroPaper I18n](/tang-bohu-s-gift-of-a-painting.png)
 
 
 

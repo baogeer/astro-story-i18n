@@ -8,7 +8,7 @@ description: "Орхидея — добрая вдова, которая во в
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ghost-festival-1740.png)
+![AstroPaper I18n](/the-legend-of-the-ghost-festival-1740.png)
 
 
 

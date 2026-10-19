@@ -8,7 +8,7 @@ description: "The Aqua Suning Festival stems from a legend: in ancient times, th
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-suningxi-festival-of-the-sui-people.png)
+![AstroPaper I18n](/the-origin-of-the-suningxi-festival-of-the-sui-people.png)
 
 
 

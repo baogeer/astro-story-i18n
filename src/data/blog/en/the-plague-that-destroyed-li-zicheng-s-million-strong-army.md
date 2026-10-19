@@ -8,7 +8,7 @@ description: "Li Zicheng contracted the plague after entering Beijing, and his c
 
 
 
-![AstroPaper I18n](/public/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
+![AstroPaper I18n](/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
 
 
 

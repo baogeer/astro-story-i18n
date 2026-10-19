@@ -8,7 +8,7 @@ description: "تزوج قوان تشيوفو وابن عمه جيانغ تان. 
 
 
 
-![AstroPaper I18n](/public/guan-qiufu-a-flower-s-fate-like-spring.png)
+![AstroPaper I18n](/guan-qiufu-a-flower-s-fate-like-spring.png)
 
 
 

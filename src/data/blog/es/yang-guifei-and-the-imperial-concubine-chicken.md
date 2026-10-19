@@ -8,7 +8,7 @@ description: "Tang Ming amaba a Yang Guifei y confundió al chef con «volar al 
 
 
 
-![AstroPaper I18n](/public/yang-guifei-and-the-imperial-concubine-chicken.png)
+![AstroPaper I18n](/yang-guifei-and-the-imperial-concubine-chicken.png)
 
 
 

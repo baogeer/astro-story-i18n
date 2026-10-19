@@ -8,7 +8,7 @@ description: "En tant que sœur de l'empereur Han Wu, la princesse Pingyang a re
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-losing-yourself-means-falling-in-love-with-loneliness.png)
+![AstroPaper I18n](/princess-pingyang-losing-yourself-means-falling-in-love-with-loneliness.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Feng Yi drowned in the Yellow River in search of daffodils for Che
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hebo-and-the-yellow-river-map.png)
+![AstroPaper I18n](/the-legend-of-hebo-and-the-yellow-river-map.png)
 
 
 

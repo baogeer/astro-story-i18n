@@ -8,7 +8,7 @@ description: "Sister Moon is shy and only shows up in the middle of the moon. Ti
 
 
 
-![AstroPaper I18n](/public/the-lunar-eclipse.png)
+![AstroPaper I18n](/the-lunar-eclipse.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Young Awang rescued the tea fairy Muri Liqing and became a couple.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tea-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-tea-maiden.png)
 
 
 

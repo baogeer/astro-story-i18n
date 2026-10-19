@@ -8,7 +8,7 @@ description: "استدعى تشو تشيو، الإمبراطور جينغ من 
 
 
 
-![AstroPaper I18n](/public/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
+![AstroPaper I18n](/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Según las leyendas Hani, una niña del cielo se apiadó de los mo
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
+![AstroPaper I18n](/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
 
 
 

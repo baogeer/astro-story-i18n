@@ -8,7 +8,7 @@ description: "Бедный человек по фамилии Ляо попро�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seven-cranes-and-the-golden-basin.png)
+![AstroPaper I18n](/the-legend-of-the-seven-cranes-and-the-golden-basin.png)
 
 
 

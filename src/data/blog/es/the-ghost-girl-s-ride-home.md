@@ -8,7 +8,7 @@ description: "Después de que la conductora de larga distancia recogiera el anil
 
 
 
-![AstroPaper I18n](/public/the-ghost-girl-s-ride-home.png)
+![AstroPaper I18n](/the-ghost-girl-s-ride-home.png)
 
 
 

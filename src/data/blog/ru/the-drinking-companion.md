@@ -8,7 +8,7 @@ description: "Водитель машины пристрастился к алк
 
 
 
-![AstroPaper I18n](/public/the-drinking-companion.png)
+![AstroPaper I18n](/the-drinking-companion.png)
 
 
 

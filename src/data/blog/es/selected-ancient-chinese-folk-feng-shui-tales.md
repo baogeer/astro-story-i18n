@@ -8,7 +8,7 @@ description: "Hay muchas maravillas del Feng Shui transmitidas en el folclore an
 
 
 
-![AstroPaper I18n](/public/selected-ancient-chinese-folk-feng-shui-tales.png)
+![AstroPaper I18n](/selected-ancient-chinese-folk-feng-shui-tales.png)
 
 
 

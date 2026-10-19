@@ -8,7 +8,7 @@ description: "Zhao Laohan de Caozhou et sa fille, Jade, se sont déguisés en ho
 
 
 
-![AstroPaper I18n](/public/the-peony-more-precious-than-life.png)
+![AstroPaper I18n](/the-peony-more-precious-than-life.png)
 
 
 

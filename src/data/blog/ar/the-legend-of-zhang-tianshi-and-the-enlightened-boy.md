@@ -8,7 +8,7 @@ description: "أنقذ تشانغ تيانشي اليتيم واختار كنز 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
 
 
 

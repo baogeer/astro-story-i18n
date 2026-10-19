@@ -8,7 +8,7 @@ description: "Братьев Ян Вэнь и Ян Ву похоронили п�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nine-immortals-mountain.png)
+![AstroPaper I18n](/the-legend-of-nine-immortals-mountain.png)
 
 
 

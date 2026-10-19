@@ -8,7 +8,7 @@ description: "Formerly known as Dazhaozhuang, the Fengshan Collection flourished
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-fengshanji.png)
+![AstroPaper I18n](/the-rise-and-fall-of-fengshanji.png)
 
 
 

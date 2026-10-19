@@ -8,7 +8,7 @@ description: "من أجل التخلص من كونه تنينًا أصفر شر�
 
 
 
-![AstroPaper I18n](/public/the-carp-that-leapt-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
 
 
 

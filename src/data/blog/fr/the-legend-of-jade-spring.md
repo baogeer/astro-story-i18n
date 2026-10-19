@@ -8,7 +8,7 @@ description: "Qiantang Jiang Caolong a sauvé le peuple et a voulu tuer l'empere
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jade-spring.png)
+![AstroPaper I18n](/the-legend-of-jade-spring.png)
 
 
 

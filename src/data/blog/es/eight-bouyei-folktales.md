@@ -8,7 +8,7 @@ description: "Ocho historias folclóricas del pueblo buyei, que abarcan historia
 
 
 
-![AstroPaper I18n](/public/eight-bouyei-folktales.png)
+![AstroPaper I18n](/eight-bouyei-folktales.png)
 
 
 

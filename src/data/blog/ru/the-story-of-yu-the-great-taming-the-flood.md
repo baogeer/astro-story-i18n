@@ -8,7 +8,7 @@ description: "Бушевали наводнения, и когда воду не
 
 
 
-![AstroPaper I18n](/public/the-story-of-yu-the-great-taming-the-flood.png)
+![AstroPaper I18n](/the-story-of-yu-the-great-taming-the-flood.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фермера в древнем Тяньчжу забрала г�
 
 
 
-![AstroPaper I18n](/public/the-old-monkey-mocks-a-man-for-having-no-tail.png)
+![AstroPaper I18n](/the-old-monkey-mocks-a-man-for-having-no-tail.png)
 
 
 

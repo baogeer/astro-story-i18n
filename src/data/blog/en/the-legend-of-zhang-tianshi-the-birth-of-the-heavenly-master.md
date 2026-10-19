@@ -8,7 +8,7 @@ description: "Zhang Laohan and his wife make tofu for a living and have had no c
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-the-birth-of-the-heavenly-master.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-the-birth-of-the-heavenly-master.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Al final de la dinastía Song del Sur, Xiangyang fue sitiada por e
 
 
 
-![AstroPaper I18n](/public/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
+![AstroPaper I18n](/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Guifei a reconnu An Lushan comme son fils vertueux. Après so
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-bathing-an-lushan.png)
 
 
 

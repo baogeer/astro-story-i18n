@@ -8,7 +8,7 @@ description: "Une fille Dai avait le béguin pour un jeune homme du même villag
 
 
 
-![AstroPaper I18n](/public/why-firewood-stopped-walking.png)
+![AstroPaper I18n](/why-firewood-stopped-walking.png)
 
 
 

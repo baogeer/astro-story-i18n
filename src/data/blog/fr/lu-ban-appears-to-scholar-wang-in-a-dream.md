@@ -8,7 +8,7 @@ description: "Wang Xiucai s'est précipité à l'examen et a été cambriolé. A
 
 
 
-![AstroPaper I18n](/public/lu-ban-appears-to-scholar-wang-in-a-dream.png)
+![AstroPaper I18n](/lu-ban-appears-to-scholar-wang-in-a-dream.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Les deux chevaux de Gengis Khan ont réussi à chasser, mais perso
 
 
 
-![AstroPaper I18n](/public/the-two-steeds-of-genghis-khan.png)
+![AstroPaper I18n](/the-two-steeds-of-genghis-khan.png)
 
 
 

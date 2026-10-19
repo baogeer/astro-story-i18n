@@ -8,7 +8,7 @@ description: "في طريقها إلى الامتحان، كان لدى تشان
 
 
 
-![AstroPaper I18n](/public/the-thousand-year-painted-bride.png)
+![AstroPaper I18n](/the-thousand-year-painted-bride.png)
 
 
 

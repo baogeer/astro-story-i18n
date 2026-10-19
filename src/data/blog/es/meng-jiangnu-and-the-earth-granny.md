@@ -8,7 +8,7 @@ description: "Lady Meng Jiang lloró porque la Gran Muralla había encontrado a 
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-and-the-earth-granny.png)
+![AstroPaper I18n](/meng-jiangnu-and-the-earth-granny.png)
 
 
 

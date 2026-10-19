@@ -8,7 +8,7 @@ description: "Un chien-dragon ancestral de la tribu Yao a mordu la tête de Ziwa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
+![AstroPaper I18n](/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
 
 
 

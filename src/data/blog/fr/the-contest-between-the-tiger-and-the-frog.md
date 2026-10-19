@@ -8,7 +8,7 @@ description: "La grenouille a affronté le tigre au saut en longueur. Il mordait
 
 
 
-![AstroPaper I18n](/public/the-contest-between-the-tiger-and-the-frog.png)
+![AstroPaper I18n](/the-contest-between-the-tiger-and-the-frog.png)
 
 
 

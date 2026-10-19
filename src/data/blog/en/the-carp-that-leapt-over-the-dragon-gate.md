@@ -8,7 +8,7 @@ description: "In order to get rid of being an evil yellow dragon, Yu Gu trekked 
 
 
 
-![AstroPaper I18n](/public/the-carp-that-leapt-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
 
 
 

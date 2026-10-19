@@ -8,7 +8,7 @@ description: "ني يين نيانغ هي ابنة الجنرال وي بو. ت�
 
 
 
-![AstroPaper I18n](/public/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
+![AstroPaper I18n](/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
 
 
 

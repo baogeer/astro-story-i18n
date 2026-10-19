@@ -8,7 +8,7 @@ description: "En la dinastía Tang, había una mujer poderosa que acechaba disfr
 
 
 
-![AstroPaper I18n](/public/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
+![AstroPaper I18n](/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
 
 
 

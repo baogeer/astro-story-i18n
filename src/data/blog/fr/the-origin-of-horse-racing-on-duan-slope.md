@@ -8,7 +8,7 @@ description: "Il était une fois un roi de village en excellente santé et en ma
 
 
 
-![AstroPaper I18n](/public/the-origin-of-horse-racing-on-duan-slope.png)
+![AstroPaper I18n](/the-origin-of-horse-racing-on-duan-slope.png)
 
 
 

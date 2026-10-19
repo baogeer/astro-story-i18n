@@ -8,7 +8,7 @@ description: "La Sra. Li Jing dio a luz una pata, la partió y recibió un anill
 
 
 
-![AstroPaper I18n](/public/the-story-of-nezha-s-havoc-in-the-sea.png)
+![AstroPaper I18n](/the-story-of-nezha-s-havoc-in-the-sea.png)
 
 
 

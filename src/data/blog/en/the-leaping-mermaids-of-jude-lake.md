@@ -8,7 +8,7 @@ description: "Lonely and sad at the Guanghan Palace, Chang'e was drawn by the lo
 
 
 
-![AstroPaper I18n](/public/the-leaping-mermaids-of-jude-lake.png)
+![AstroPaper I18n](/the-leaping-mermaids-of-jude-lake.png)
 
 
 

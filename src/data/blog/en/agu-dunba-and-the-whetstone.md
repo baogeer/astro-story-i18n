@@ -8,7 +8,7 @@ description: "Agudonba deliberately rushed yaks past the door of greedy and weal
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-whetstone.png)
+![AstroPaper I18n](/agu-dunba-and-the-whetstone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Después de que Wang Yingxia y Yu Dufu se casaran, hubo una ruptur
 
 
 
-![AstroPaper I18n](/public/the-romantic-entanglements-of-wang-yingxia.png)
+![AstroPaper I18n](/the-romantic-entanglements-of-wang-yingxia.png)
 
 
 

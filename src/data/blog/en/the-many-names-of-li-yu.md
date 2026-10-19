@@ -8,7 +8,7 @@ description: "Li Yu, formerly known as an immortal couple, moved to Hangzhou wit
 
 
 
-![AstroPaper I18n](/public/the-many-names-of-li-yu.png)
+![AstroPaper I18n](/the-many-names-of-li-yu.png)
 
 
 

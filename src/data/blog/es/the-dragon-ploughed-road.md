@@ -8,7 +8,7 @@ description: "Liu Xiu, de la dinastía Han del Este, fue perseguido hasta el abi
 
 
 
-![AstroPaper I18n](/public/the-dragon-ploughed-road.png)
+![AstroPaper I18n](/the-dragon-ploughed-road.png)
 
 
 

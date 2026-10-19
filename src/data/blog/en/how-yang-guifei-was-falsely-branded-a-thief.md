@@ -8,7 +8,7 @@ description: "Yang Guifei was actually made up by Tang Dynasty poet Zhang Hudao 
 
 
 
-![AstroPaper I18n](/public/how-yang-guifei-was-falsely-branded-a-thief.png)
+![AstroPaper I18n](/how-yang-guifei-was-falsely-branded-a-thief.png)
 
 
 

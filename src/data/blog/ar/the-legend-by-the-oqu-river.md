@@ -8,7 +8,7 @@ description: "على ضفاف نهر أوكو، يقع رانجلر الشاب �
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-oqu-river.png)
+![AstroPaper I18n](/the-legend-by-the-oqu-river.png)
 
 
 

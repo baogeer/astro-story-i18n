@@ -8,7 +8,7 @@ description: "Pendant les années Qing et Xuantong, Wang Ke du comté de Tengxia
 
 
 
-![AstroPaper I18n](/public/the-shopkeeper-who-refused-ill-gotten-gains.png)
+![AstroPaper I18n](/the-shopkeeper-who-refused-ill-gotten-gains.png)
 
 
 

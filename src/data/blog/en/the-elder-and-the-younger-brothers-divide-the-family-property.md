@@ -8,7 +8,7 @@ description: "The boss split up. The boss fraudulently monopolized the family es
 
 
 
-![AstroPaper I18n](/public/the-elder-and-the-younger-brothers-divide-the-family-property.png)
+![AstroPaper I18n](/the-elder-and-the-younger-brothers-divide-the-family-property.png)
 
 
 

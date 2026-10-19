@@ -8,7 +8,7 @@ description: "كان فنغ داكوان مفتونًا بجرو تشانغ ال
 
 
 
-![AstroPaper I18n](/public/sending-business-his-way.png)
+![AstroPaper I18n](/sending-business-his-way.png)
 
 
 

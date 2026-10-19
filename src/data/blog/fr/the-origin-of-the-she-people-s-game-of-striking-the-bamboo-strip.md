@@ -8,7 +8,7 @@ description: "Son héros Lan Fenggao a dirigé une armée contre l'ennemi à Tin
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
+![AstroPaper I18n](/the-origin-of-the-she-people-s-game-of-striking-the-bamboo-strip.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Empress Wu Cheng of Northern Qi was not willing to be lonely. She 
 
 
 
-![AstroPaper I18n](/public/empress-hu-the-lustful-woman-of-her-age.png)
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
 
 
 

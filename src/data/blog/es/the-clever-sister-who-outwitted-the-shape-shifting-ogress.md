@@ -8,7 +8,7 @@ description: "La hermana y el hermano fueron solos a la casa de la abuela. Mamá
 
 
 
-![AstroPaper I18n](/public/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
+![AstroPaper I18n](/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
 
 
 

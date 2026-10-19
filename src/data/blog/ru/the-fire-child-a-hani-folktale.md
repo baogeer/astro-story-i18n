@@ -8,7 +8,7 @@ description: "Минза, подросток из племени Хани, пр�
 
 
 
-![AstroPaper I18n](/public/the-fire-child-a-hani-folktale.png)
+![AstroPaper I18n](/the-fire-child-a-hani-folktale.png)
 
 
 

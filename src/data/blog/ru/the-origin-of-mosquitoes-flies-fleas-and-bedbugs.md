@@ -8,7 +8,7 @@ description: "Супружеская пара бросила своих дете
 
 
 
-![AstroPaper I18n](/public/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
+![AstroPaper I18n](/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
 
 
 

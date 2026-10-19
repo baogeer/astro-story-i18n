@@ -8,7 +8,7 @@ description: "«Jiang Ra y Gila» cuenta una serie de historias de lucha intelec
 
 
 
-![AstroPaper I18n](/public/the-clever-jiangla-and-the-foolish-jiela.png)
+![AstroPaper I18n](/the-clever-jiangla-and-the-foolish-jiela.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Después de que el caballo blanco del pastor Su He muriera a causa
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-horsehead-fiddle.png)
+![AstroPaper I18n](/the-story-of-the-horsehead-fiddle.png)
 
 
 

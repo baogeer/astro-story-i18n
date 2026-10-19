@@ -8,7 +8,7 @@ description: "Après que le chauffeur de longue distance ait récupéré la bagu
 
 
 
-![AstroPaper I18n](/public/the-ghost-girl-s-ride-home.png)
+![AstroPaper I18n](/the-ghost-girl-s-ride-home.png)
 
 
 

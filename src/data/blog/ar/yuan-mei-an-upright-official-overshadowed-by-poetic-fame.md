@@ -8,7 +8,7 @@ description: "كان يوان مي شاعرًا ونائبًا في عهد أس�
 
 
 
-![AstroPaper I18n](/public/yuan-mei-an-upright-official-overshadowed-by-poetic-fame.png)
+![AstroPaper I18n](/yuan-mei-an-upright-official-overshadowed-by-poetic-fame.png)
 
 
 

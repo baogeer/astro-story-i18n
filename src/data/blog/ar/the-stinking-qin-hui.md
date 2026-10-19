@@ -8,7 +8,7 @@ description: "كان فوتاي في هانغتشو في عهد أسرة مين�
 
 
 
-![AstroPaper I18n](/public/the-stinking-qin-hui.png)
+![AstroPaper I18n](/the-stinking-qin-hui.png)
 
 
 

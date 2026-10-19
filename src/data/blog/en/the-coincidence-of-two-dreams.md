@@ -8,7 +8,7 @@ description: "A young man named Tang Di in Baghdad is in the middle of his life.
 
 
 
-![AstroPaper I18n](/public/the-coincidence-of-two-dreams.png)
+![AstroPaper I18n](/the-coincidence-of-two-dreams.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Тофу — бедный рыбак. В Таохуатане он
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fish-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-fish-maiden.png)
 
 
 

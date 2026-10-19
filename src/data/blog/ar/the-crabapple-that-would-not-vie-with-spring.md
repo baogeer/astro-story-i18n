@@ -8,7 +8,7 @@ description: "كانت بيجونيا مرتبطة بدقة بسنو جي، ال
 
 
 
-![AstroPaper I18n](/public/the-crabapple-that-would-not-vie-with-spring.png)
+![AstroPaper I18n](/the-crabapple-that-would-not-vie-with-spring.png)
 
 
 

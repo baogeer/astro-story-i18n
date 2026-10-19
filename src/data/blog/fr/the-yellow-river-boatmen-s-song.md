@@ -8,7 +8,7 @@ description: "Les plaisanciers naviguant sur le fleuve Jaune font du rafting en 
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-boatmen-s-song.png)
+![AstroPaper I18n](/the-yellow-river-boatmen-s-song.png)
 
 
 

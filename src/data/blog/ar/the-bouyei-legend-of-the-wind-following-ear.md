@@ -8,7 +8,7 @@ description: "تزوجت الفتاة من مجموعة بويي العرقية 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-wind-following-ear.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-wind-following-ear.png)
 
 
 

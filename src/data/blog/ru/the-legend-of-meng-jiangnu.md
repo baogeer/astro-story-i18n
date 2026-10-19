@@ -8,7 +8,7 @@ description: "Госпожа Мэн Цзян прошла через все тр
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un vieil homme du nom de Zhu de Zhujiacun à Jiyang est revenu à 
 
 
 
-![AstroPaper I18n](/public/the-story-of-old-man-zhu.png)
+![AstroPaper I18n](/the-story-of-old-man-zhu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сюн Ваньфу подозревала, что изначал�
 
 
 
-![AstroPaper I18n](/public/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
+![AstroPaper I18n](/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
 
 
 

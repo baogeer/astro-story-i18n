@@ -8,7 +8,7 @@ description: "L'impératrice Hsiao est la fille de l'empereur Liang Ming de la d
 
 
 
-![AstroPaper I18n](/public/the-enchanting-empress-xiao-of-the-great-sui-dynasty.png)
+![AstroPaper I18n](/the-enchanting-empress-xiao-of-the-great-sui-dynasty.png)
 
 
 

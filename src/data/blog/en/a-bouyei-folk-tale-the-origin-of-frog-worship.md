@@ -8,7 +8,7 @@ description: "When the three sisters dug the ground, they joked that whoever hel
 
 
 
-![AstroPaper I18n](/public/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
+![AstroPaper I18n](/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
 
 
 

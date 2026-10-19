@@ -8,7 +8,7 @@ description: "Аде, предка племени мяо, была усынов�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-the-miao-king.png)
 
 
 

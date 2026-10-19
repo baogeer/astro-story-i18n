@@ -8,7 +8,7 @@ description: "The Kou family refused to be rescued after drinking water by mista
 
 
 
-![AstroPaper I18n](/public/the-water-mang-grass.png)
+![AstroPaper I18n](/the-water-mang-grass.png)
 
 
 

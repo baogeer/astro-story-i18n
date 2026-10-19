@@ -8,7 +8,7 @@ description: "They sell oil dolls to buy pictures of beautiful women. The woman 
 
 
 
-![AstroPaper I18n](/public/the-oil-seller-and-the-painting-fairy.png)
+![AstroPaper I18n](/the-oil-seller-and-the-painting-fairy.png)
 
 
 

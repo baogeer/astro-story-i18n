@@ -8,7 +8,7 @@ description: "Grandpa Turtle was greedy and mistakenly married his daughter, thr
 
 
 
-![AstroPaper I18n](/public/legends-of-nushan.png)
+![AstroPaper I18n](/legends-of-nushan.png)
 
 
 

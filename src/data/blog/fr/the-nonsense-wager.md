@@ -8,7 +8,7 @@ description: "Les trois ont convenu de ne pas aller au fond des choses en bavard
 
 
 
-![AstroPaper I18n](/public/the-nonsense-wager.png)
+![AstroPaper I18n](/the-nonsense-wager.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Hui Ming took all the monks to Tianning Temple. On the way, he was
 
 
 
-![AstroPaper I18n](/public/the-burning-lamp-temple.png)
+![AstroPaper I18n](/the-burning-lamp-temple.png)
 
 
 

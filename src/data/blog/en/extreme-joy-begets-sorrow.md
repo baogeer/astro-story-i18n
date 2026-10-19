@@ -8,7 +8,7 @@ description: "It tells four very sad stories: a Taiwanese veteran returning home
 
 
 
-![AstroPaper I18n](/public/extreme-joy-begets-sorrow.png)
+![AstroPaper I18n](/extreme-joy-begets-sorrow.png)
 
 
 

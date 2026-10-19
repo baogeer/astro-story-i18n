@@ -8,7 +8,7 @@ description: "Falta el texto principal de la historia y no se puede resumir."
 
 
 
-![AstroPaper I18n](/public/the-clever-keeping-of-the-buddha-s-journey-painting.png)
+![AstroPaper I18n](/the-clever-keeping-of-the-buddha-s-journey-painting.png)
 
 
 

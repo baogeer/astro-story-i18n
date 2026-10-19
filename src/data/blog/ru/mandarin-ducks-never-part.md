@@ -8,7 +8,7 @@ description: "Извините, похоже, вы указали только �
 
 
 
-![AstroPaper I18n](/public/mandarin-ducks-never-part.png)
+![AstroPaper I18n](/mandarin-ducks-never-part.png)
 
 
 

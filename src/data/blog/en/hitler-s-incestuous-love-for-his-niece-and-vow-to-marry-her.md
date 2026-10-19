@@ -8,7 +8,7 @@ description: "Hitler had a strong sense of possessiveness and love for his niece
 
 
 
-![AstroPaper I18n](/public/hitler-s-incestuous-love-for-his-niece-and-vow-to-marry-her.png)
+![AstroPaper I18n](/hitler-s-incestuous-love-for-his-niece-and-vow-to-marry-her.png)
 
 
 

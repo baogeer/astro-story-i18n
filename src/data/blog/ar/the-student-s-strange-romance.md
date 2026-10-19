@@ -8,7 +8,7 @@ description: "قام أحد الطلاب بإنقاذ الثعلب الأبيض�
 
 
 
-![AstroPaper I18n](/public/the-student-s-strange-romance.png)
+![AstroPaper I18n](/the-student-s-strange-romance.png)
 
 
 

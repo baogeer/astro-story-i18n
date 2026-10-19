@@ -8,7 +8,7 @@ description: "Les nombreux talents de Su Shi ont été minés tout au long de sa
 
 
 
-![AstroPaper I18n](/public/su-dongpo-the-man-and-his-paintings.png)
+![AstroPaper I18n](/su-dongpo-the-man-and-his-paintings.png)
 
 
 

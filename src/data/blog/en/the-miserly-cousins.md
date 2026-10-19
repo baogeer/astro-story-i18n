@@ -8,7 +8,7 @@ description: "Big Kou and Little Kou are two stingy people. When Little Kou was 
 
 
 
-![AstroPaper I18n](/public/the-miserly-cousins.png)
+![AstroPaper I18n](/the-miserly-cousins.png)
 
 
 

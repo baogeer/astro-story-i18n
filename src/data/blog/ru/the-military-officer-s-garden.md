@@ -8,7 +8,7 @@ description: "Во времена Китайской Республики в п�
 
 
 
-![AstroPaper I18n](/public/the-military-officer-s-garden.png)
+![AstroPaper I18n](/the-military-officer-s-garden.png)
 
 
 

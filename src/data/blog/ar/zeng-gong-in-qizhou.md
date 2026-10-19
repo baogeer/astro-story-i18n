@@ -8,7 +8,7 @@ description: "عندما كان غونغ غونغ في مقاطعة كيزو، �
 
 
 
-![AstroPaper I18n](/public/zeng-gong-in-qizhou.png)
+![AstroPaper I18n](/zeng-gong-in-qizhou.png)
 
 
 

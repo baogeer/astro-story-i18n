@@ -8,7 +8,7 @@ description: "В легенде о Халфе Тяньяне пожилая же
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-weeping-rock-of-bantian.png)
+![AstroPaper I18n](/the-legend-of-the-weeping-rock-of-bantian.png)
 
 
 

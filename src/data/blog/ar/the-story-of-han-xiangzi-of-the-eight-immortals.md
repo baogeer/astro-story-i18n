@@ -8,7 +8,7 @@ description: "هان شيانغ زي هو ابن شقيق هان يو. لا يح
 
 
 
-![AstroPaper I18n](/public/the-story-of-han-xiangzi-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-story-of-han-xiangzi-of-the-eight-immortals.png)
 
 
 

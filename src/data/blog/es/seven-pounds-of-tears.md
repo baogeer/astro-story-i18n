@@ -8,7 +8,7 @@ description: "El hada Hua Er fue degradado por hacer buenas obras en la tierra p
 
 
 
-![AstroPaper I18n](/public/seven-pounds-of-tears.png)
+![AstroPaper I18n](/seven-pounds-of-tears.png)
 
 
 

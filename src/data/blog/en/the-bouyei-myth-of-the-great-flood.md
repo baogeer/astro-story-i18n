@@ -8,7 +8,7 @@ description: "In Buyei mythology, Bujie was dissatisfied with Lei Gong's lack of
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-the-great-flood.png)
+![AstroPaper I18n](/the-bouyei-myth-of-the-great-flood.png)
 
 
 

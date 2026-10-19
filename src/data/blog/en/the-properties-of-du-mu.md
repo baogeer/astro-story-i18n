@@ -8,7 +8,7 @@ description: "Du Mu is from the Jingzhao Doji clan, and his ancestral home Yasun
 
 
 
-![AstroPaper I18n](/public/the-properties-of-du-mu.png)
+![AstroPaper I18n](/the-properties-of-du-mu.png)
 
 
 

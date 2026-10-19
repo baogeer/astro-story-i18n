@@ -8,7 +8,7 @@ description: "Turtle and Snake 2 sera puni par la ville de Longwang des deux cô
 
 
 
-![AstroPaper I18n](/public/the-legend-of-turtle-and-snake-mountains.png)
+![AstroPaper I18n](/the-legend-of-turtle-and-snake-mountains.png)
 
 
 

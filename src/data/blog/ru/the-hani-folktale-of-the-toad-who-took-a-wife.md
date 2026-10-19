@@ -8,7 +8,7 @@ description: "Пожилая пара из хани родила сыновей 
 
 
 
-![AstroPaper I18n](/public/the-hani-folktale-of-the-toad-who-took-a-wife.png)
+![AstroPaper I18n](/the-hani-folktale-of-the-toad-who-took-a-wife.png)
 
 
 

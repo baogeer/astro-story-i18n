@@ -8,7 +8,7 @@ description: "El rey del sur de China pidió prestado al ministro del Norte, qui
 
 
 
-![AstroPaper I18n](/public/the-pearl-spitting-minister.png)
+![AstroPaper I18n](/the-pearl-spitting-minister.png)
 
 
 

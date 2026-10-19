@@ -8,7 +8,7 @@ description: "The baby girl, Laura, was taken back and raised by a female werewo
 
 
 
-![AstroPaper I18n](/public/the-wolf-girl-laura.png)
+![AstroPaper I18n](/the-wolf-girl-laura.png)
 
 
 

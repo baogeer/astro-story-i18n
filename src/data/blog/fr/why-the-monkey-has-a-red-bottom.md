@@ -8,7 +8,7 @@ description: "Il était une fois, un singe a volé une fille et a donné naissan
 
 
 
-![AstroPaper I18n](/public/why-the-monkey-has-a-red-bottom.png)
+![AstroPaper I18n](/why-the-monkey-has-a-red-bottom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After Pangu pioneered the world, they became brother and sister wi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-pangu.png)
+![AstroPaper I18n](/the-legend-of-pangu.png)
 
 
 

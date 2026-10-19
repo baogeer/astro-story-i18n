@@ -8,7 +8,7 @@ description: "«xa0Moixa0», obsédée par Liaozhai depuis mon enfance, j'ai ren
 
 
 
-![AstroPaper I18n](/public/a-modern-liaozhai-tale.png)
+![AstroPaper I18n](/a-modern-liaozhai-tale.png)
 
 
 

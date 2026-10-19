@@ -8,7 +8,7 @@ description: "لقد أنعم الله على الأخت سون بمعرفة ت�
 
 
 
-![AstroPaper I18n](/public/sun-yaoniang-s-sacrifice-for-faithful-love.png)
+![AstroPaper I18n](/sun-yaoniang-s-sacrifice-for-faithful-love.png)
 
 
 

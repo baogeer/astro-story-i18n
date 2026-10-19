@@ -8,7 +8,7 @@ description: "El general Huo Gou de los Húsares Han Occidentales nació pobre. 
 
 
 
-![AstroPaper I18n](/public/huo-qubing-was-he-ancient-china-s-supreme-war-god.png)
+![AstroPaper I18n](/huo-qubing-was-he-ancient-china-s-supreme-war-god.png)
 
 
 

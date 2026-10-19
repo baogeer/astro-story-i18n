@@ -8,7 +8,7 @@ description: "At the end of the Southern Song Dynasty, Cheng Wanli fled because 
 
 
 
-![AstroPaper I18n](/public/the-loyalty-and-devotion-of-bai-yuniang.png)
+![AstroPaper I18n](/the-loyalty-and-devotion-of-bai-yuniang.png)
 
 
 

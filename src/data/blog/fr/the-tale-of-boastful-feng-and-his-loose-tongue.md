@@ -8,7 +8,7 @@ description: "Sous la dynastie Ming, Feng aimait se vanter et mourait de faim, m
 
 
 
-![AstroPaper I18n](/public/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zelin Nima se dio cuenta de que, a pesar de las objeciones de sus 
 
 
 
-![AstroPaper I18n](/public/zelin-nima-gunjue.png)
+![AstroPaper I18n](/zelin-nima-gunjue.png)
 
 
 

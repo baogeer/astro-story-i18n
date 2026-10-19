@@ -8,7 +8,7 @@ description: "La hija del emperador Tiandi, Gou Su, murió después de cortarse 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-lusheng.png)
+![AstroPaper I18n](/the-legend-of-the-miao-lusheng.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تحكي أسطورة دونغ «Save the Sun» قصة الشيط�
 
 
 
-![AstroPaper I18n](/public/the-dong-myth-of-saving-the-sun.png)
+![AstroPaper I18n](/the-dong-myth-of-saving-the-sun.png)
 
 
 

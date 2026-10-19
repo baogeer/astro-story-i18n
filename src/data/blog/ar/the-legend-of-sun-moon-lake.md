@@ -8,7 +8,7 @@ description: "ذات مرة، من أجل استعادة الشمس والقمر
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake.png)
 
 
 

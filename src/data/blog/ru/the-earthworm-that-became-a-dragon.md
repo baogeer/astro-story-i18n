@@ -8,7 +8,7 @@ description: "Ли Кин-чеонг спас дракона и подарил �
 
 
 
-![AstroPaper I18n](/public/the-earthworm-that-became-a-dragon.png)
+![AstroPaper I18n](/the-earthworm-that-became-a-dragon.png)
 
 
 

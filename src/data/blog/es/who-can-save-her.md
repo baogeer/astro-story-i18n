@@ -8,7 +8,7 @@ description: "Tras perder a su hijo, su esposo Liu Zhaogen se hizo cargo de su s
 
 
 
-![AstroPaper I18n](/public/who-can-save-her.png)
+![AstroPaper I18n](/who-can-save-her.png)
 
 
 

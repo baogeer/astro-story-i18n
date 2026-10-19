@@ -8,7 +8,7 @@ description: "أنقذ الحائك شعب بويي وقاتل بشجاعة ضد
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-fairy-maiden-mountain.png)
+![AstroPaper I18n](/the-bouyei-legend-of-fairy-maiden-mountain.png)
 
 
 

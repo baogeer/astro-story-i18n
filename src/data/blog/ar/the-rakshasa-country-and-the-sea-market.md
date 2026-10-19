@@ -8,7 +8,7 @@ description: "خرجت ما جي إلى البحر وانجرفت إلى بلد 
 
 
 
-![AstroPaper I18n](/public/the-rakshasa-country-and-the-sea-market.png)
+![AstroPaper I18n](/the-rakshasa-country-and-the-sea-market.png)
 
 
 

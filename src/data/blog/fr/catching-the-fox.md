@@ -8,7 +8,7 @@ description: "Sun Laoweng a fait preuve d'audace, a attrapé un renard aux cheve
 
 
 
-![AstroPaper I18n](/public/catching-the-fox.png)
+![AstroPaper I18n](/catching-the-fox.png)
 
 
 

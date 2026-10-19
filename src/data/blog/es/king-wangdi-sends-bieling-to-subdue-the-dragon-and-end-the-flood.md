@@ -8,7 +8,7 @@ description: "El emperador Wang Du Yu envió un dragón para calmar la inundaci�
 
 
 
-![AstroPaper I18n](/public/king-wangdi-sends-bieling-to-subdue-the-dragon-and-end-the-flood.png)
+![AstroPaper I18n](/king-wangdi-sends-bieling-to-subdue-the-dragon-and-end-the-flood.png)
 
 
 

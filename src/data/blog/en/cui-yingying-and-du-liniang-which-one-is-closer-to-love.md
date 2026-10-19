@@ -8,7 +8,7 @@ description: "Cui Yingying met Zhang Sheng, and was matched by a matrimony for t
 
 
 
-![AstroPaper I18n](/public/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
+![AstroPaper I18n](/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
 
 
 

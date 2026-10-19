@@ -8,7 +8,7 @@ description: "Госпожа Ли Цзин родила лапу, расколо
 
 
 
-![AstroPaper I18n](/public/the-story-of-nezha-s-havoc-in-the-sea.png)
+![AstroPaper I18n](/the-story-of-nezha-s-havoc-in-the-sea.png)
 
 
 

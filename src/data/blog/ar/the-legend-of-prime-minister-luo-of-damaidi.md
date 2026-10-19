@@ -8,7 +8,7 @@ description: "بذل رئيس الوزراء لو قصارى جهده، لكن �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prime-minister-luo-of-damaidi.png)
+![AstroPaper I18n](/the-legend-of-prime-minister-luo-of-damaidi.png)
 
 
 

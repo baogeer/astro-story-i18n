@@ -8,7 +8,7 @@ description: "В мифологии Пуея древние небо и земл
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
+![AstroPaper I18n](/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
 
 
 

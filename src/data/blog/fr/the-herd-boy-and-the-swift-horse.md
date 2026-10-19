@@ -8,7 +8,7 @@ description: "Le berger était le fils de Soma et a été fouetté par son propr
 
 
 
-![AstroPaper I18n](/public/the-herd-boy-and-the-swift-horse.png)
+![AstroPaper I18n](/the-herd-boy-and-the-swift-horse.png)
 
 
 

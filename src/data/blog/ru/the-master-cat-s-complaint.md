@@ -8,7 +8,7 @@ description: "Дедушка Кот изначально был любимцем
 
 
 
-![AstroPaper I18n](/public/the-master-cat-s-complaint.png)
+![AstroPaper I18n](/the-master-cat-s-complaint.png)
 
 
 

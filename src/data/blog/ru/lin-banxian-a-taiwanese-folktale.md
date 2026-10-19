@@ -8,7 +8,7 @@ description: "Линь Баньсянь был мастером фэн-шуй, �
 
 
 
-![AstroPaper I18n](/public/lin-banxian-a-taiwanese-folktale.png)
+![AstroPaper I18n](/lin-banxian-a-taiwanese-folktale.png)
 
 
 

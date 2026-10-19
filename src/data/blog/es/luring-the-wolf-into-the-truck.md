@@ -8,7 +8,7 @@ description: "Lao Wang Tou descubrió un lobo negro experimental perdido en un j
 
 
 
-![AstroPaper I18n](/public/luring-the-wolf-into-the-truck.png)
+![AstroPaper I18n](/luring-the-wolf-into-the-truck.png)
 
 
 

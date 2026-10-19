@@ -8,7 +8,7 @@ description: "Chen Baoyao de la province de Qingzhou a rencontré la magnifique 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lin-siniang.png)
+![AstroPaper I18n](/the-tale-of-lin-siniang.png)
 
 
 

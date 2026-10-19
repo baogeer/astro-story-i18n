@@ -8,7 +8,7 @@ description: "Ah Zao, an orphan from the Yi ethnic group, was poor but upright. 
 
 
 
-![AstroPaper I18n](/public/the-orphan-and-the-dragon-maiden.png)
+![AstroPaper I18n](/the-orphan-and-the-dragon-maiden.png)
 
 
 

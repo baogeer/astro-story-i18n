@@ -8,7 +8,7 @@ description: "Liberó al raro pez gigante amarillo porque no podía soportar mat
 
 
 
-![AstroPaper I18n](/public/the-dragon-princess-and-the-magic-pearl.png)
+![AstroPaper I18n](/the-dragon-princess-and-the-magic-pearl.png)
 
 
 

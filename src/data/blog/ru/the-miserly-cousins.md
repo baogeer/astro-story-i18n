@@ -8,7 +8,7 @@ description: "Биг Коу и Маленький Коу — два скупых
 
 
 
-![AstroPaper I18n](/public/the-miserly-cousins.png)
+![AstroPaper I18n](/the-miserly-cousins.png)
 
 
 

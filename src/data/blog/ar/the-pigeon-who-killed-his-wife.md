@@ -8,7 +8,7 @@ description: "عندما رأى الحمام الذكور ثمار الخريف 
 
 
 
-![AstroPaper I18n](/public/the-pigeon-who-killed-his-wife.png)
+![AstroPaper I18n](/the-pigeon-who-killed-his-wife.png)
 
 
 

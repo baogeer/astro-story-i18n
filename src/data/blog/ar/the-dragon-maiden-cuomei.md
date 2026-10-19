@@ -8,7 +8,7 @@ description: "تم إلقاء الصبي في كهف عميق من قبل الم
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-cuomei.png)
+![AstroPaper I18n](/the-dragon-maiden-cuomei.png)
 
 
 

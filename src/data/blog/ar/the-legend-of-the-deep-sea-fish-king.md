@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة مينغ، قتل الصياد ل�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-deep-sea-fish-king.png)
+![AstroPaper I18n](/the-legend-of-the-deep-sea-fish-king.png)
 
 
 

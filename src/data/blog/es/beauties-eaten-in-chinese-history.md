@@ -8,7 +8,7 @@ description: "Cada vez que hubo hambruna o violencia en la historia, muchas muje
 
 
 
-![AstroPaper I18n](/public/beauties-eaten-in-chinese-history.png)
+![AstroPaper I18n](/beauties-eaten-in-chinese-history.png)
 
 
 

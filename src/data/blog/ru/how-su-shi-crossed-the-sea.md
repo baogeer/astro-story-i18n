@@ -8,7 +8,7 @@ description: "После изгнания в Даньчжоу Су Ши впер
 
 
 
-![AstroPaper I18n](/public/how-su-shi-crossed-the-sea.png)
+![AstroPaper I18n](/how-su-shi-crossed-the-sea.png)
 
 
 

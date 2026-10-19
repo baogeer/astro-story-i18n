@@ -8,7 +8,7 @@ description: "The wife of the knowledgeable faction was abducted by Bao Zijun. O
 
 
 
-![AstroPaper I18n](/public/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
+![AstroPaper I18n](/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
 
 
 

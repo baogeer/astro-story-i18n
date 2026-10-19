@@ -8,7 +8,7 @@ description: "En août, Shenzhou organise de nombreux festivalsxa0: le festival 
 
 
 
-![AstroPaper I18n](/public/china-s-august-festivals-at-a-glance.png)
+![AstroPaper I18n](/china-s-august-festivals-at-a-glance.png)
 
 
 

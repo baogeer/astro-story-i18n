@@ -8,7 +8,7 @@ description: "Grand-père Xinu a résisté à Yin et Hadès l'a personnellement 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
 
 
 

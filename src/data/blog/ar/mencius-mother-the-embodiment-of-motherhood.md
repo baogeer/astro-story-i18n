@@ -8,7 +8,7 @@ description: "من أجل أن تعود منغ زي، التي فقدت شباب
 
 
 
-![AstroPaper I18n](/public/mencius-mother-the-embodiment-of-motherhood.png)
+![AstroPaper I18n](/mencius-mother-the-embodiment-of-motherhood.png)
 
 
 

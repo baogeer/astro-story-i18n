@@ -8,7 +8,7 @@ description: "Behind the “mice stealing oil” scene in Qingtang, Mr. Feng Shu
 
 
 
-![AstroPaper I18n](/public/the-mouse-that-stole-oil.png)
+![AstroPaper I18n](/the-mouse-that-stole-oil.png)
 
 
 

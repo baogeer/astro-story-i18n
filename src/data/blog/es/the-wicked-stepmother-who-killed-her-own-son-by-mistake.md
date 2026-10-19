@@ -8,7 +8,7 @@ description: "Érase una vez, la esposa extranjera de un empleado era excéntric
 
 
 
-![AstroPaper I18n](/public/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
+![AstroPaper I18n](/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
 
 
 

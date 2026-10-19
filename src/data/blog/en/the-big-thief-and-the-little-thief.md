@@ -8,7 +8,7 @@ description: "Once upon a time, the old man taught his four sons a craft. My jun
 
 
 
-![AstroPaper I18n](/public/the-big-thief-and-the-little-thief.png)
+![AstroPaper I18n](/the-big-thief-and-the-little-thief.png)
 
 
 

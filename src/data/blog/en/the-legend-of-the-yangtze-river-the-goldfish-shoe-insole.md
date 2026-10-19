@@ -8,7 +8,7 @@ description: "A mother fell asleep while embroidering goldfish insoles along the
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
 
 
 

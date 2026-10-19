@@ -8,7 +8,7 @@ description: "During the Republic of China, there were three “military gardens
 
 
 
-![AstroPaper I18n](/public/the-military-officer-s-garden.png)
+![AstroPaper I18n](/the-military-officer-s-garden.png)
 
 
 

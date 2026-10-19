@@ -8,7 +8,7 @@ description: "Чэнь Баояо из провинции Цинчжоу ноч�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lin-siniang.png)
+![AstroPaper I18n](/the-tale-of-lin-siniang.png)
 
 
 

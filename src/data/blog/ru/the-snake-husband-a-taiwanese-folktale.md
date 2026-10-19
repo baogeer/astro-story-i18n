@@ -8,7 +8,7 @@ description: "Третья сестра прожила богатую жизнь
 
 
 
-![AstroPaper I18n](/public/the-snake-husband-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-snake-husband-a-taiwanese-folktale.png)
 
 
 

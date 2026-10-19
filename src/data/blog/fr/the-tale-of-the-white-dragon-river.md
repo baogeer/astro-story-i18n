@@ -8,7 +8,7 @@ description: "Bai Long est le fils aîné bienveillant du Dragon Palace, dans la
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-white-dragon-river.png)
+![AstroPaper I18n](/the-tale-of-the-white-dragon-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le mont Baizhu doit son nom aux trois pousses de bambou blanc arge
 
 
 
-![AstroPaper I18n](/public/how-white-bamboo-mountain-got-its-name.png)
+![AstroPaper I18n](/how-white-bamboo-mountain-got-its-name.png)
 
 
 

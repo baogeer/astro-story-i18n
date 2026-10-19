@@ -8,7 +8,7 @@ description: "Chen Yi brought security guards to rescue mountain people besieged
 
 
 
-![AstroPaper I18n](/public/chen-yi-outwits-the-enemy.png)
+![AstroPaper I18n](/chen-yi-outwits-the-enemy.png)
 
 
 

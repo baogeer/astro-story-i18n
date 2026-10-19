@@ -8,7 +8,7 @@ description: "Чжан Юфэн опубликовал список, чтобы 
 
 
 
-![AstroPaper I18n](/public/how-zhangfeng-shoal-got-its-name.png)
+![AstroPaper I18n](/how-zhangfeng-shoal-got-its-name.png)
 
 
 

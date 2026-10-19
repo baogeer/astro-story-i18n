@@ -8,7 +8,7 @@ description: "Lin Banxian was a Feng Shui master who went to Taiwan in the Qing 
 
 
 
-![AstroPaper I18n](/public/lin-banxian-a-taiwanese-folktale.png)
+![AstroPaper I18n](/lin-banxian-a-taiwanese-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le jeune chasseur a fait appel à un maçon pour capturer une jeun
 
 
 
-![AstroPaper I18n](/public/the-heavenly-maiden-s-blessing.png)
+![AstroPaper I18n](/the-heavenly-maiden-s-blessing.png)
 
 
 

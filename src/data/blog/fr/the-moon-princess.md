@@ -8,7 +8,7 @@ description: "Les trois princesses de la cruelle rivière Khan sur la rivière A
 
 
 
-![AstroPaper I18n](/public/the-moon-princess.png)
+![AstroPaper I18n](/the-moon-princess.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Yuhuan was born in Shudi and later became a royal consort of 
 
 
 
-![AstroPaper I18n](/public/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
+![AstroPaper I18n](/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
 
 
 

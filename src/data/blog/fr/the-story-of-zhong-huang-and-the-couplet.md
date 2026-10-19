@@ -8,7 +8,7 @@ description: "Zhong Huang, Xiucai du comté de Tengxian sous la dynastie Qing, e
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhong-huang-and-the-couplet.png)
+![AstroPaper I18n](/the-story-of-zhong-huang-and-the-couplet.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El gerente financiero Wang Nanyan gastó impulsivamente 60.000 yua
 
 
 
-![AstroPaper I18n](/public/the-strange-murder-case.png)
+![AstroPaper I18n](/the-strange-murder-case.png)
 
 
 

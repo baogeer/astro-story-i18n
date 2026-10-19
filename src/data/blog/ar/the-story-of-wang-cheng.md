@@ -8,7 +8,7 @@ description: "وانغ تشنغ هو طفل من عائلة قديمة. إنه �
 
 
 
-![AstroPaper I18n](/public/the-story-of-wang-cheng.png)
+![AstroPaper I18n](/the-story-of-wang-cheng.png)
 
 
 

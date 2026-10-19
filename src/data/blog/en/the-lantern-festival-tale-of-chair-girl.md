@@ -8,7 +8,7 @@ description: "Lantern Festival, a Taiwanese girl, placed a rag doll on a chair t
 
 
 
-![AstroPaper I18n](/public/the-lantern-festival-tale-of-chair-girl.png)
+![AstroPaper I18n](/the-lantern-festival-tale-of-chair-girl.png)
 
 
 

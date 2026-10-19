@@ -8,7 +8,7 @@ description: "Un couple savoureux et paresseux a demandé aux dieux de se procur
 
 
 
-![AstroPaper I18n](/public/the-lazy-couple-who-turned-into-chickens.png)
+![AstroPaper I18n](/the-lazy-couple-who-turned-into-chickens.png)
 
 
 

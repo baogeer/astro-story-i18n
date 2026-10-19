@@ -8,7 +8,7 @@ description: "كانت الأم وانغ لطيفة جدًا مع الناس و�
 
 
 
-![AstroPaper I18n](/public/the-heavenly-queen-mother-who-fed-the-people.png)
+![AstroPaper I18n](/the-heavenly-queen-mother-who-fed-the-people.png)
 
 
 

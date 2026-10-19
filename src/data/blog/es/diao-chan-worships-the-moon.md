@@ -8,7 +8,7 @@ description: "Al final de la dinastía Han del Este, Situ Wang Yun utilizó al c
 
 
 
-![AstroPaper I18n](/public/diao-chan-worships-the-moon.png)
+![AstroPaper I18n](/diao-chan-worships-the-moon.png)
 
 
 

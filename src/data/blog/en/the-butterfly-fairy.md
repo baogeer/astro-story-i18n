@@ -8,7 +8,7 @@ description: "Because of her beautiful mother, she was demoted by the Jade Emper
 
 
 
-![AstroPaper I18n](/public/the-butterfly-fairy.png)
+![AstroPaper I18n](/the-butterfly-fairy.png)
 
 
 

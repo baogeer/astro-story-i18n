@@ -8,7 +8,7 @@ description: "Бегонию тщательно связывали со Сноу
 
 
 
-![AstroPaper I18n](/public/the-crabapple-that-would-not-vie-with-spring.png)
+![AstroPaper I18n](/the-crabapple-that-would-not-vie-with-spring.png)
 
 
 

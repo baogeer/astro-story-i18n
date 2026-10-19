@@ -8,7 +8,7 @@ description: "Luban wants to build the most beautiful house in the world and bor
 
 
 
-![AstroPaper I18n](/public/lu-ban-borrows-the-dragon-palace.png)
+![AstroPaper I18n](/lu-ban-borrows-the-dragon-palace.png)
 
 
 

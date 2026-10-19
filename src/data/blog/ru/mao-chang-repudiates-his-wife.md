@@ -8,7 +8,7 @@ description: "Мао И разобрался в «Шицзине» в прови
 
 
 
-![AstroPaper I18n](/public/mao-chang-repudiates-his-wife.png)
+![AstroPaper I18n](/mao-chang-repudiates-his-wife.png)
 
 
 

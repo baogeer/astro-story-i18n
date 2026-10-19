@@ -8,7 +8,7 @@ description: "In ancient times, there were “year” beasts that hurt people wh
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
 
 
 

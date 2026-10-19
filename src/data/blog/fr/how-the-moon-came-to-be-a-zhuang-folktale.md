@@ -8,7 +8,7 @@ description: "Il était une fois, il n'y avait pas de lune à Zhuangxiang. La fi
 
 
 
-![AstroPaper I18n](/public/how-the-moon-came-to-be-a-zhuang-folktale.png)
+![AstroPaper I18n](/how-the-moon-came-to-be-a-zhuang-folktale.png)
 
 
 

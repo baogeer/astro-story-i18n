@@ -8,7 +8,7 @@ description: "Alors que la tribu Huaxiu migrait, les yaks noirs ont raté leur p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-yak.png)
+![AstroPaper I18n](/the-legend-of-the-white-yak.png)
 
 
 

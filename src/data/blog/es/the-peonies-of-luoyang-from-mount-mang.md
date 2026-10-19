@@ -8,7 +8,7 @@ description: "Un joven se ocupaba de las peonías en el monte Lushan. La noche d
 
 
 
-![AstroPaper I18n](/public/the-peonies-of-luoyang-from-mount-mang.png)
+![AstroPaper I18n](/the-peonies-of-luoyang-from-mount-mang.png)
 
 
 

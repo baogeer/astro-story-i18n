@@ -8,7 +8,7 @@ description: "Agutomba était un jeune serviteur et le chef adorait se vanter de
 
 
 
-![AstroPaper I18n](/public/agu-dunba-stories-blow-on-me.png)
+![AstroPaper I18n](/agu-dunba-stories-blow-on-me.png)
 
 
 

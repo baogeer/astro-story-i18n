@@ -8,7 +8,7 @@ description: "Ян Пин — эксперт по оценке антиквар�
 
 
 
-![AstroPaper I18n](/public/the-jade-cicada-s-secret.png)
+![AstroPaper I18n](/the-jade-cicada-s-secret.png)
 
 
 

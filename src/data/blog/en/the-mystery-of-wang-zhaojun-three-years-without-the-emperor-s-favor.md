@@ -8,7 +8,7 @@ description: "Queen Gong Zhaojun was deliberately demonized for her portrait due
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
+![AstroPaper I18n](/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
 
 
 

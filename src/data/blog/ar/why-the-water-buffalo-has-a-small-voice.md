@@ -8,7 +8,7 @@ description: "بدا جاموس الماء في الأصل صادمًا. كان 
 
 
 
-![AstroPaper I18n](/public/why-the-water-buffalo-has-a-small-voice.png)
+![AstroPaper I18n](/why-the-water-buffalo-has-a-small-voice.png)
 
 
 

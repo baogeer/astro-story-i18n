@@ -8,7 +8,7 @@ description: "Li Chengfu mistakenly broke into Wang Yizheng of Keqin County in B
 
 
 
-![AstroPaper I18n](/public/the-story-of-debao-zhai.png)
+![AstroPaper I18n](/the-story-of-debao-zhai.png)
 
 
 

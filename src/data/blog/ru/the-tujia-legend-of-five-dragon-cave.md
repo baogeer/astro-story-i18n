@@ -8,7 +8,7 @@ description: "Самка дракона и четыре дракона живу�
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-five-dragon-cave.png)
+![AstroPaper I18n](/the-tujia-legend-of-five-dragon-cave.png)
 
 
 

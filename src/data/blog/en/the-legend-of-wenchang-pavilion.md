@@ -8,7 +8,7 @@ description: "Peasant Bao Zhonggui and master Zhou Liangqing were originally fri
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wenchang-pavilion.png)
+![AstroPaper I18n](/the-legend-of-wenchang-pavilion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the old days, a girl was robbed by Mao savages and gave birth t
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man-and-maowa-s-mother.png)
+![AstroPaper I18n](/the-hairy-wild-man-and-maowa-s-mother.png)
 
 
 

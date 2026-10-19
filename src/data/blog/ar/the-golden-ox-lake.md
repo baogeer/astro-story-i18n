@@ -8,7 +8,7 @@ description: "هناك برج الثور يعيش في الجزء السفلي �
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-lake.png)
+![AstroPaper I18n](/the-golden-ox-lake.png)
 
 
 

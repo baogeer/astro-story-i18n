@@ -8,7 +8,7 @@ description: "Тайцзинь Цзиньсин Ли Чангэн создал �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-emitting-cave.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-emitting-cave.png)
 
 
 

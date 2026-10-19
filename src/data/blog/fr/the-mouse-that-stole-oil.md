@@ -8,7 +8,7 @@ description: "Derrière la scène des «xa0souris volant du pétrolexa0» à Qin
 
 
 
-![AstroPaper I18n](/public/the-mouse-that-stole-oil.png)
+![AstroPaper I18n](/the-mouse-that-stole-oil.png)
 
 
 

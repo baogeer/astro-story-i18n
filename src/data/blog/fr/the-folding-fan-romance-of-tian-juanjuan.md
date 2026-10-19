@@ -8,7 +8,7 @@ description: "Lorsque Sanin Saiko Mumoto a traversé le mont Taishan, elle a rê
 
 
 
-![AstroPaper I18n](/public/the-folding-fan-romance-of-tian-juanjuan.png)
+![AstroPaper I18n](/the-folding-fan-romance-of-tian-juanjuan.png)
 
 
 

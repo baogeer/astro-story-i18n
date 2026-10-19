@@ -8,7 +8,7 @@ description: "Tanto los comerciantes tibetanos como los comerciantes indios vend
 
 
 
-![AstroPaper I18n](/public/the-tibetan-merchant-and-the-indian-merchant.png)
+![AstroPaper I18n](/the-tibetan-merchant-and-the-indian-merchant.png)
 
 
 

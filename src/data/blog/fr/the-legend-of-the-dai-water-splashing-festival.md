@@ -8,7 +8,7 @@ description: "Il y a longtemps, le féroce roi démon a volé la belle princesse
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-water-splashing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dai-water-splashing-festival.png)
 
 
 

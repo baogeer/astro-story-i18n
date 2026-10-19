@@ -8,7 +8,7 @@ description: "Érase una vez, Phoenix se vestía normalmente y vivía en el bosq
 
 
 
-![AstroPaper I18n](/public/how-the-phoenix-became-king-of-the-birds.png)
+![AstroPaper I18n](/how-the-phoenix-became-king-of-the-birds.png)
 
 
 

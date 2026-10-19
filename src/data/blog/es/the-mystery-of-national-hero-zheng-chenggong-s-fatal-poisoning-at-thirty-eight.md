@@ -8,7 +8,7 @@ description: "Después de que Zheng recuperara Taiwán con éxito, solo tenía 3
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
+![AstroPaper I18n](/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
 
 
 

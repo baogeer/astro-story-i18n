@@ -8,7 +8,7 @@ description: "نينغ جوانوا هو حفيد إله الشمس. أعطاه�
 
 
 
-![AstroPaper I18n](/public/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
+![AstroPaper I18n](/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
 
 
 

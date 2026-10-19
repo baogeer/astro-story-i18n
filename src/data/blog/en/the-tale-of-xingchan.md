@@ -8,7 +8,7 @@ description: "Xing Chan received a bonus from Xing Xian. After getting married t
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xingchan.png)
+![AstroPaper I18n](/the-tale-of-xingchan.png)
 
 
 

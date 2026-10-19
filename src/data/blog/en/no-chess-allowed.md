@@ -8,7 +8,7 @@ description: "Tang Dynasty poet Li Yuan was mistaken by Tang Xuanzong for only k
 
 
 
-![AstroPaper I18n](/public/no-chess-allowed.png)
+![AstroPaper I18n](/no-chess-allowed.png)
 
 
 

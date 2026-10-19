@@ -8,7 +8,7 @@ description: "Le dragon et le tigre se sont affrontés au bord d'une source limp
 
 
 
-![AstroPaper I18n](/public/the-quarrel-between-the-dragon-and-the-tiger.png)
+![AstroPaper I18n](/the-quarrel-between-the-dragon-and-the-tiger.png)
 
 
 

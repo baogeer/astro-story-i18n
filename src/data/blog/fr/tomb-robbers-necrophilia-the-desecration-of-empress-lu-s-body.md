@@ -8,7 +8,7 @@ description: "L'Armée Mei Rouge a dévalisé et déterré la tombe de Han Gaozu
 
 
 
-![AstroPaper I18n](/public/tomb-robbers-necrophilia-the-desecration-of-empress-lu-s-body.png)
+![AstroPaper I18n](/tomb-robbers-necrophilia-the-desecration-of-empress-lu-s-body.png)
 
 
 

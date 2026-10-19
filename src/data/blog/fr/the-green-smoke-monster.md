@@ -8,7 +8,7 @@ description: "Quand le frère cadet a grandi, il est parti à la recherche de sa
 
 
 
-![AstroPaper I18n](/public/the-green-smoke-monster.png)
+![AstroPaper I18n](/the-green-smoke-monster.png)
 
 
 

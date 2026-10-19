@@ -8,7 +8,7 @@ description: "The scholar Kong Sheng went into exile and met Prince Fu of the Fo
 
 
 
-![AstroPaper I18n](/public/jiaona-the-fox-maiden.png)
+![AstroPaper I18n](/jiaona-the-fox-maiden.png)
 
 
 

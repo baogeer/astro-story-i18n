@@ -8,7 +8,7 @@ description: "Agutomba a utilisé un plan intelligent pour se venger du roi égo
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-king-like-a-drowned-rat.png)
+![AstroPaper I18n](/agudengba-stories-the-king-like-a-drowned-rat.png)
 
 
 

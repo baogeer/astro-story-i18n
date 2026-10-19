@@ -8,7 +8,7 @@ description: "Zhu Yingtai, a female dressed as a man, went to school and read wi
 
 
 
-![AstroPaper I18n](/public/liang-shanbo-and-zhu-yingtai-a-pair-of-mandarin-ducks-never-apart.png)
+![AstroPaper I18n](/liang-shanbo-and-zhu-yingtai-a-pair-of-mandarin-ducks-never-apart.png)
 
 
 

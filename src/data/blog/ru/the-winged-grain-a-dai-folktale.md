@@ -8,7 +8,7 @@ description: "В древние времена зерна были размер�
 
 
 
-![AstroPaper I18n](/public/the-winged-grain-a-dai-folktale.png)
+![AstroPaper I18n](/the-winged-grain-a-dai-folktale.png)
 
 
 

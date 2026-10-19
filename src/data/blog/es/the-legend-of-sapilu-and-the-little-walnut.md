@@ -8,7 +8,7 @@ description: "Guiados por Dream White Rabbit, un cazador de Yi, viajaron al río
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sapilu-and-the-little-walnut.png)
+![AstroPaper I18n](/the-legend-of-sapilu-and-the-little-walnut.png)
 
 
 

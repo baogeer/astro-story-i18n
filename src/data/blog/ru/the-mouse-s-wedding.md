@@ -8,7 +8,7 @@ description: "Родители-мышки ищут для своей дочер�
 
 
 
-![AstroPaper I18n](/public/the-mouse-s-wedding.png)
+![AstroPaper I18n](/the-mouse-s-wedding.png)
 
 
 

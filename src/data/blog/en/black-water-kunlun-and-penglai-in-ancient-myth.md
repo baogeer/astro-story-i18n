@@ -8,7 +8,7 @@ description: "Heishui, Kunlun, and Horai in ancient mythology are not real geogr
 
 
 
-![AstroPaper I18n](/public/black-water-kunlun-and-penglai-in-ancient-myth.png)
+![AstroPaper I18n](/black-water-kunlun-and-penglai-in-ancient-myth.png)
 
 
 

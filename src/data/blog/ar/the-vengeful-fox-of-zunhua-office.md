@@ -8,7 +8,7 @@ description: "كان تشيو غونغ مسؤولًا في زونهوا. قصف 
 
 
 
-![AstroPaper I18n](/public/the-vengeful-fox-of-zunhua-office.png)
+![AstroPaper I18n](/the-vengeful-fox-of-zunhua-office.png)
 
 
 

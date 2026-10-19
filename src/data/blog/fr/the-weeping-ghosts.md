@@ -8,7 +8,7 @@ description: "La famille de Wang Qixiang était pleine de voleurs à cause du ch
 
 
 
-![AstroPaper I18n](/public/the-weeping-ghosts.png)
+![AstroPaper I18n](/the-weeping-ghosts.png)
 
 
 

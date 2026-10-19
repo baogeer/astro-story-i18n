@@ -8,7 +8,7 @@ description: "Diao Chan was used by Wang Yun to alienate Dong Zhuo and Lu Bu. Af
 
 
 
-![AstroPaper I18n](/public/diaochan-the-actress-with-a-heavenly-calling.png)
+![AstroPaper I18n](/diaochan-the-actress-with-a-heavenly-calling.png)
 
 
 

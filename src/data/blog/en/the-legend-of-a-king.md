@@ -8,7 +8,7 @@ description: "A shepherd in the Yalong River Valley in Tibet discovered a young 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-a-king.png)
+![AstroPaper I18n](/the-legend-of-a-king.png)
 
 
 

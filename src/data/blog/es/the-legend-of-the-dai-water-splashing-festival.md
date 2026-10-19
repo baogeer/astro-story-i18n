@@ -8,7 +8,7 @@ description: "Hace mucho tiempo, el feroz rey demonio robó a la bella princesa 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-water-splashing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dai-water-splashing-festival.png)
 
 
 

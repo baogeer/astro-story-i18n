@@ -8,7 +8,7 @@ description: "Afin de sauver Xu Xian, qui était mort de peur, Baek Su-jeong s'e
 
 
 
-![AstroPaper I18n](/public/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
+![AstroPaper I18n](/bai-suzhen-s-two-deadly-ordeals-to-save-xu-xian.png)
 
 
 

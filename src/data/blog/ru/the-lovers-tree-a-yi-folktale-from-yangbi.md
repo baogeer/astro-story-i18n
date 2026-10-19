@@ -8,7 +8,7 @@ description: "На горе Янцзяо растет «красивое дер�
 
 
 
-![AstroPaper I18n](/public/the-lovers-tree-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-lovers-tree-a-yi-folktale-from-yangbi.png)
 
 
 

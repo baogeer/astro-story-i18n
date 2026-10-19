@@ -8,7 +8,7 @@ description: "Fu Lian was born a castration person. She skipped school and mista
 
 
 
-![AstroPaper I18n](/public/the-story-of-qiaoniang.png)
+![AstroPaper I18n](/the-story-of-qiaoniang.png)
 
 
 

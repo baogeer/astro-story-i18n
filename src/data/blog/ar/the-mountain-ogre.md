@@ -8,7 +8,7 @@ description: "مكث جد سون تايباي الليلة في معبد ليو�
 
 
 
-![AstroPaper I18n](/public/the-mountain-ogre.png)
+![AstroPaper I18n](/the-mountain-ogre.png)
 
 
 

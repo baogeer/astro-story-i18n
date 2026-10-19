@@ -8,7 +8,7 @@ description: "Master Jin Zhu was very smart when he worshipped Bamboo as his fat
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-golden-bamboo-master.png)
+![AstroPaper I18n](/the-miao-legend-of-the-golden-bamboo-master.png)
 
 
 

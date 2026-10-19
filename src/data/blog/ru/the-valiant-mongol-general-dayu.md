@@ -8,7 +8,7 @@ description: "Генерал Чингисхана Даю был поражает
 
 
 
-![AstroPaper I18n](/public/the-valiant-mongol-general-dayu.png)
+![AstroPaper I18n](/the-valiant-mongol-general-dayu.png)
 
 
 

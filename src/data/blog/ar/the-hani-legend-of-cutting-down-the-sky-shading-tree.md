@@ -8,7 +8,7 @@ description: "اتحد أسلاف قبيلتي هاني وبراون لقطع ا
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
+![AstroPaper I18n](/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
 
 
 

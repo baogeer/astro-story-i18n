@@ -8,7 +8,7 @@ description: "كان الإمبراطور فو جين أول أميرة من أ�
 
 
 
-![AstroPaper I18n](/public/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
+![AstroPaper I18n](/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
 
 
 

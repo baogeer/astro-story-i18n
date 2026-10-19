@@ -8,7 +8,7 @@ description: "La leyenda del «jiao caminante» del río Yangtsé dice que la se
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-flood-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-flood-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم انتقاد سو دونغبو عدة مرات طوال حي�
 
 
 
-![AstroPaper I18n](/public/the-cultural-legacy-of-su-dongpo.png)
+![AstroPaper I18n](/the-cultural-legacy-of-su-dongpo.png)
 
 
 

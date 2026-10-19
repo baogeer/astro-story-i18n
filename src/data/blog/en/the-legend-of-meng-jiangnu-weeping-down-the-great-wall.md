@@ -8,7 +8,7 @@ description: "During the Qin dynasty, the woman Meng Jiang rescued the fugitive 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
 
 
 

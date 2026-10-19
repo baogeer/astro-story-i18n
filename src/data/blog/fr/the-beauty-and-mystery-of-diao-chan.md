@@ -8,7 +8,7 @@ description: "Diao Chan a erré entre Dong Zhuo et Lu Bu avec sa beauté époust
 
 
 
-![AstroPaper I18n](/public/the-beauty-and-mystery-of-diao-chan.png)
+![AstroPaper I18n](/the-beauty-and-mystery-of-diao-chan.png)
 
 
 

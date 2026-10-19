@@ -8,7 +8,7 @@ description: "Во времена династии Мин Фэн любил хв
 
 
 
-![AstroPaper I18n](/public/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
 
 
 

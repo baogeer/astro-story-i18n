@@ -8,7 +8,7 @@ description: "A pair of rabbits who practice to become immortals learned that Ch
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-enters-the-moon-palace.png)
+![AstroPaper I18n](/the-jade-rabbit-enters-the-moon-palace.png)
 
 
 

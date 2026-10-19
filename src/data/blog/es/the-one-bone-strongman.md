@@ -8,7 +8,7 @@ description: "Hay un hombre poderoso con un solo brazo en Shema Village. El prop
 
 
 
-![AstroPaper I18n](/public/the-one-bone-strongman.png)
+![AstroPaper I18n](/the-one-bone-strongman.png)
 
 
 

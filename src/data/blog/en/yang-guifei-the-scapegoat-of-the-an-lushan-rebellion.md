@@ -8,7 +8,7 @@ description: "After Yang Guifei's 38th birthday, the Anshi Rebellion broke out. 
 
 
 
-![AstroPaper I18n](/public/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
+![AstroPaper I18n](/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
 
 
 

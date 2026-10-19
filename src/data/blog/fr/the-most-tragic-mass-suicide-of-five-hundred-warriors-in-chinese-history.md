@@ -8,7 +8,7 @@ description: "Afin de préserver son tempérament, Tian Heng n'était pas dispos
 
 
 
-![AstroPaper I18n](/public/the-most-tragic-mass-suicide-of-five-hundred-warriors-in-chinese-history.png)
+![AstroPaper I18n](/the-most-tragic-mass-suicide-of-five-hundred-warriors-in-chinese-history.png)
 
 
 

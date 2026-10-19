@@ -8,7 +8,7 @@ description: "Dou Anzhu, une jeune ethnie Qiang, est tombée amoureuse de Mu Jie
 
 
 
-![AstroPaper I18n](/public/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
+![AstroPaper I18n](/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
 
 
 

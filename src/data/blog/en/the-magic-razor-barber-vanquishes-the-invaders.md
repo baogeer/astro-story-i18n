@@ -8,7 +8,7 @@ description: "“King Sword” is a shaver in Tianzi Town in the Republic of Chi
 
 
 
-![AstroPaper I18n](/public/the-magic-razor-barber-vanquishes-the-invaders.png)
+![AstroPaper I18n](/the-magic-razor-barber-vanquishes-the-invaders.png)
 
 
 

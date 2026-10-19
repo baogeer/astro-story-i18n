@@ -8,7 +8,7 @@ description: "Xu Da, le commandant fondateur de la dynastie Ming, dirigeait une 
 
 
 
-![AstroPaper I18n](/public/xu-da-the-great-wall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/xu-da-the-great-wall-of-the-ming-dynasty.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В конце династии Тан Ин Гу влюбилась
 
 
 
-![AstroPaper I18n](/public/the-legend-of-maiden-mountain.png)
+![AstroPaper I18n](/the-legend-of-maiden-mountain.png)
 
 
 

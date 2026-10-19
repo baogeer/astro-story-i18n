@@ -8,7 +8,7 @@ description: "Пекинский университет в 1917 году соб�
 
 
 
-![AstroPaper I18n](/public/the-brilliant-young-professors-of-peking-university-in-1917.png)
+![AstroPaper I18n](/the-brilliant-young-professors-of-peking-university-in-1917.png)
 
 
 

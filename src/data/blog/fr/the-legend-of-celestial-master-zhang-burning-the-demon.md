@@ -8,7 +8,7 @@ description: "La nièce de Zhang Tianshi s'est mariée. Les fées locales ont ha
 
 
 
-![AstroPaper I18n](/public/the-legend-of-celestial-master-zhang-burning-the-demon.png)
+![AstroPaper I18n](/the-legend-of-celestial-master-zhang-burning-the-demon.png)
 
 
 

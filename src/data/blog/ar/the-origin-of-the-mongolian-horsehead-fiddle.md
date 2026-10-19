@@ -8,7 +8,7 @@ description: "سو هي راعي صغير في شاهار برايري. لقد �
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-mongolian-horsehead-fiddle.png)
+![AstroPaper I18n](/the-origin-of-the-mongolian-horsehead-fiddle.png)
 
 
 

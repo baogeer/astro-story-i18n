@@ -8,7 +8,7 @@ description: "كان بان يي، مؤسس مجموعة ياو العرقية،
 
 
 
-![AstroPaper I18n](/public/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
+![AstroPaper I18n](/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
 
 
 

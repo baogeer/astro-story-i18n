@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les humains faisaient le mal. L'Empereur d
 
 
 
-![AstroPaper I18n](/public/the-twelve-flower-fairies-embroider-mount-cangshan.png)
+![AstroPaper I18n](/the-twelve-flower-fairies-embroider-mount-cangshan.png)
 
 
 

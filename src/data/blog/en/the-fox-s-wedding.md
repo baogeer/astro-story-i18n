@@ -8,7 +8,7 @@ description: "Gong Yin was brave when he was young. He stayed in a deserted hous
 
 
 
-![AstroPaper I18n](/public/the-fox-s-wedding.png)
+![AstroPaper I18n](/the-fox-s-wedding.png)
 
 
 

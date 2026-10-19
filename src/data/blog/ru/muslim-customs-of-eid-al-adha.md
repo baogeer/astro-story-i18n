@@ -8,7 +8,7 @@ description: "Курбан-байрам — это Курбан-байрам д�
 
 
 
-![AstroPaper I18n](/public/muslim-customs-of-eid-al-adha.png)
+![AstroPaper I18n](/muslim-customs-of-eid-al-adha.png)
 
 
 

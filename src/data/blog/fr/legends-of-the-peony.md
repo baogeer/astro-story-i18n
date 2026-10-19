@@ -8,7 +8,7 @@ description: "Cet article contient sept légendes sur les pivoines, dont la pivo
 
 
 
-![AstroPaper I18n](/public/legends-of-the-peony.png)
+![AstroPaper I18n](/legends-of-the-peony.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A group of East China Sea carp leaped against the Dragon Gate. The
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
 
 
 

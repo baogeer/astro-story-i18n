@@ -8,7 +8,7 @@ description: "في مواجهة نية زوجها زاو مينغي اتخاذ �
 
 
 
-![AstroPaper I18n](/public/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
+![AstroPaper I18n](/guan-daosheng-s-ancient-trick-to-win-back-her-straying-husband.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Жил-был богатый владелец, который ве
 
 
 
-![AstroPaper I18n](/public/silver-and-song.png)
+![AstroPaper I18n](/silver-and-song.png)
 
 
 

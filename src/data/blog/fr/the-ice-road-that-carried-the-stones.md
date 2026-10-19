@@ -8,7 +8,7 @@ description: "Des artisans ont ciselé les pierres nécessaires dans la ville de
 
 
 
-![AstroPaper I18n](/public/the-ice-road-that-carried-the-stones.png)
+![AstroPaper I18n](/the-ice-road-that-carried-the-stones.png)
 
 
 

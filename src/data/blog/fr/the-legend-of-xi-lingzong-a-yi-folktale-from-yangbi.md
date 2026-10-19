@@ -8,7 +8,7 @@ description: "Après avoir été ridiculisé par des chasseurs de chevaux, Xi Li
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
 
 
 

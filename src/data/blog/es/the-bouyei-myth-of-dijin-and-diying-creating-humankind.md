@@ -8,7 +8,7 @@ description: "Los hermanos Di Jin y Di Ying cultivaron calabazas gigantes. Cuand
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
+![AstroPaper I18n](/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
 
 
 

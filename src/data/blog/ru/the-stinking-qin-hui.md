@@ -8,7 +8,7 @@ description: "Футай в Ханчжоу во времена династии 
 
 
 
-![AstroPaper I18n](/public/the-stinking-qin-hui.png)
+![AstroPaper I18n](/the-stinking-qin-hui.png)
 
 
 

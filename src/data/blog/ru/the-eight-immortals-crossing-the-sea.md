@@ -8,7 +8,7 @@ description: "Каждый из восьми бессмертных пересе
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-crossing-the-sea.png)
+![AstroPaper I18n](/the-eight-immortals-crossing-the-sea.png)
 
 
 

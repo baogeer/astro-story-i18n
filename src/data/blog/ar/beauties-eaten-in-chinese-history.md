@@ -8,7 +8,7 @@ description: "في كل مرة حدثت فيها مجاعة أو عنف في ا�
 
 
 
-![AstroPaper I18n](/public/beauties-eaten-in-chinese-history.png)
+![AstroPaper I18n](/beauties-eaten-in-chinese-history.png)
 
 
 

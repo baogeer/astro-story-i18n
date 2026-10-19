@@ -8,7 +8,7 @@ description: "Детектив Ян Синь расследовал самоуб
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-the-suicide.png)
+![AstroPaper I18n](/the-truth-behind-the-suicide.png)
 
 
 

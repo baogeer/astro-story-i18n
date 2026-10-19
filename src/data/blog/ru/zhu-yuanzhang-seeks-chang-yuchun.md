@@ -8,7 +8,7 @@ description: "В конце династии Юань Чжу Юаньчжан, �
 
 
 
-![AstroPaper I18n](/public/zhu-yuanzhang-seeks-chang-yuchun.png)
+![AstroPaper I18n](/zhu-yuanzhang-seeks-chang-yuchun.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Pan and Fu Dulong: There is an ugly and dirty bald dragon living i
 
 
 
-![AstroPaper I18n](/public/pan-he-subdues-the-bald-dragon.png)
+![AstroPaper I18n](/pan-he-subdues-the-bald-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Eastern Jin poet Xie Lingyun met a tea delivery girl at the Hexi H
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-s-daughter-matches-wits-with-xie-lingyun.png)
+![AstroPaper I18n](/the-innkeeper-s-daughter-matches-wits-with-xie-lingyun.png)
 
 
 

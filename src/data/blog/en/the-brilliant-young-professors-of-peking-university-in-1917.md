@@ -8,7 +8,7 @@ description: "Peking University in 1917 gathered a group of young professors age
 
 
 
-![AstroPaper I18n](/public/the-brilliant-young-professors-of-peking-university-in-1917.png)
+![AstroPaper I18n](/the-brilliant-young-professors-of-peking-university-in-1917.png)
 
 
 

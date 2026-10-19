@@ -8,7 +8,7 @@ description: "In “The Romance of the Three Kingdoms,” every time the protago
 
 
 
-![AstroPaper I18n](/public/top-ten-classic-single-rider-rescues-in-three-kingdoms-history.png)
+![AstroPaper I18n](/top-ten-classic-single-rider-rescues-in-three-kingdoms-history.png)
 
 
 

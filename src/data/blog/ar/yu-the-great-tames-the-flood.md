@@ -8,7 +8,7 @@ description: "ورث دايو أعمال والده في إدارة المياه
 
 
 
-![AstroPaper I18n](/public/yu-the-great-tames-the-flood.png)
+![AstroPaper I18n](/yu-the-great-tames-the-flood.png)
 
 
 

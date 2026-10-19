@@ -8,7 +8,7 @@ description: "Lu Xiaoman se casó primero con Wang Geng y luego se enamoró de X
 
 
 
-![AstroPaper I18n](/public/the-romantic-affairs-of-lu-xiaoman.png)
+![AstroPaper I18n](/the-romantic-affairs-of-lu-xiaoman.png)
 
 
 

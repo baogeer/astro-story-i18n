@@ -8,7 +8,7 @@ description: "Wu Gang fue castigado por matar a Boling o Xuexian. Cortó el laur
 
 
 
-![AstroPaper I18n](/public/wu-gang-chops-the-laurel-tree.png)
+![AstroPaper I18n](/wu-gang-chops-the-laurel-tree.png)
 
 
 

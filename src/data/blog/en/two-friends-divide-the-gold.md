@@ -8,7 +8,7 @@ description: "Reyoshi and Sawakan cut firewood together to find gold, and Zehan 
 
 
 
-![AstroPaper I18n](/public/two-friends-divide-the-gold.png)
+![AstroPaper I18n](/two-friends-divide-the-gold.png)
 
 
 

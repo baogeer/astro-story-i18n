@@ -8,7 +8,7 @@ description: "قررت ولاية فنتشو أن تشو غونغ كان في ح
 
 
 
-![AstroPaper I18n](/public/the-fox-of-fenzhou.png)
+![AstroPaper I18n](/the-fox-of-fenzhou.png)
 
 
 

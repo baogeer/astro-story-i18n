@@ -8,7 +8,7 @@ description: "El anticuario Sun Yu intentó apoderarse de las verdaderas obras d
 
 
 
-![AstroPaper I18n](/public/the-black-dog.png)
+![AstroPaper I18n](/the-black-dog.png)
 
 
 

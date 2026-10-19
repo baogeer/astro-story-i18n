@@ -8,7 +8,7 @@ description: "La vicieuse belle-mère a conçu son beau-fils pour qu'il cultive 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bird-called-jinboyang.png)
+![AstroPaper I18n](/the-legend-of-the-bird-called-jinboyang.png)
 
 
 

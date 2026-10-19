@@ -8,7 +8,7 @@ description: "People in Nanzhao were bewitched by traitors, thinking that Empres
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nuwa-s-descendants.png)
+![AstroPaper I18n](/the-legend-of-nuwa-s-descendants.png)
 
 
 

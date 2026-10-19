@@ -8,7 +8,7 @@ description: "A los 17 años, Huo Gubiao acompañó a Wei Qing y llevó a 800 ji
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
+![AstroPaper I18n](/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
 
 
 

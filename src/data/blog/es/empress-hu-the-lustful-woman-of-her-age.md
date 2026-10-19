@@ -8,7 +8,7 @@ description: "La emperatriz Wu Cheng del Norte de Qi no estaba dispuesta a queda
 
 
 
-![AstroPaper I18n](/public/empress-hu-the-lustful-woman-of-her-age.png)
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
 
 
 

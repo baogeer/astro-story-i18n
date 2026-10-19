@@ -8,7 +8,7 @@ description: "كان الجنرال تشين تشينغزي من الأسرة ا
 
 
 
-![AstroPaper I18n](/public/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
+![AstroPaper I18n](/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
 
 
 

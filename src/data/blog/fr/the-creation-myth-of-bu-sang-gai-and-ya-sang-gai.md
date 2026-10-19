@@ -8,7 +8,7 @@ description: "Deux dieux, Busangai et Yasangai, ont été envoyés par Tenjin po
 
 
 
-![AstroPaper I18n](/public/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
+![AstroPaper I18n](/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
 
 
 

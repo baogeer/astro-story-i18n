@@ -8,7 +8,7 @@ description: "أنقذ الراهب المجنون الناس في القرية 
 
 
 
-![AstroPaper I18n](/public/the-peak-that-flew-from-afar.png)
+![AstroPaper I18n](/the-peak-that-flew-from-afar.png)
 
 
 

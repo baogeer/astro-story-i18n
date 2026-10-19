@@ -8,7 +8,7 @@ description: "Le riche propriétaire a forcé sa servante Ada à gravir la monta
 
 
 
-![AstroPaper I18n](/public/the-bird-maiden.png)
+![AstroPaper I18n](/the-bird-maiden.png)
 
 
 

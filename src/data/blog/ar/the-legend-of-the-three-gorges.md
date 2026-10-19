@@ -8,7 +8,7 @@ description: "التقى كل من قوانيين ولوبان وكين شي ه�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-gorges.png)
+![AstroPaper I18n](/the-legend-of-the-three-gorges.png)
 
 
 

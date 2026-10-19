@@ -8,7 +8,7 @@ description: "Agutomba s'est déguisé en réalisateur et a participé au mariag
 
 
 
-![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+![AstroPaper I18n](/akhu-tonpa-and-the-wedding-night.png)
 
 
 

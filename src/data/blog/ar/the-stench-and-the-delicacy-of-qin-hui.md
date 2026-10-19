@@ -8,7 +8,7 @@ description: "بعد أن قتل تشين هوي يو فاي، تم توبيخه
 
 
 
-![AstroPaper I18n](/public/the-stench-and-the-delicacy-of-qin-hui.png)
+![AstroPaper I18n](/the-stench-and-the-delicacy-of-qin-hui.png)
 
 
 

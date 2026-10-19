@@ -8,7 +8,7 @@ description: "El abuelo Tortuga era codicioso y se casó por error con su hija, 
 
 
 
-![AstroPaper I18n](/public/legends-of-nushan.png)
+![AstroPaper I18n](/legends-of-nushan.png)
 
 
 

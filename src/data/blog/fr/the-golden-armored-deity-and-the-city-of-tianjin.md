@@ -8,7 +8,7 @@ description: "Tianjin est communément appelée «xa0Abacus Cityxa0». Sous la d
 
 
 
-![AstroPaper I18n](/public/the-golden-armored-deity-and-the-city-of-tianjin.png)
+![AstroPaper I18n](/the-golden-armored-deity-and-the-city-of-tianjin.png)
 
 
 

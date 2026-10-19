@@ -8,7 +8,7 @@ description: "После того как Чжоу У и Ван уничтожи�
 
 
 
-![AstroPaper I18n](/public/the-death-of-daji.png)
+![AstroPaper I18n](/the-death-of-daji.png)
 
 
 

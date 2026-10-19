@@ -8,7 +8,7 @@ description: "Bao Zhu fue contratado por Liu Laolang, de coraz√≥n negro. Rescat√
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy.png)
+![AstroPaper I18n](/the-peony-fairy.png)
 
 
 

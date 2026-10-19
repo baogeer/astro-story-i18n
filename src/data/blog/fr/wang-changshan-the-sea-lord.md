@@ -8,7 +8,7 @@ description: "Wang Changshan était endetté et a conçu une fausse épée avec 
 
 
 
-![AstroPaper I18n](/public/wang-changshan-the-sea-lord.png)
+![AstroPaper I18n](/wang-changshan-the-sea-lord.png)
 
 
 

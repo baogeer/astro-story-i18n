@@ -8,7 +8,7 @@ description: "The legend of the Yellow River tells the story of the dragon in th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Легенда о «Сказке Северной Шэньси» �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-northern-shaanxi-storytelling.png)
+![AstroPaper I18n](/the-legend-of-northern-shaanxi-storytelling.png)
 
 
 

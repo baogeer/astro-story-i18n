@@ -8,7 +8,7 @@ description: "Tenjin craignait que le leader de Jiuli, les frères Luyou, ne fas
 
 
 
-![AstroPaper I18n](/public/chiyou-s-great-battle-with-the-heavenly-god.png)
+![AstroPaper I18n](/chiyou-s-great-battle-with-the-heavenly-god.png)
 
 
 

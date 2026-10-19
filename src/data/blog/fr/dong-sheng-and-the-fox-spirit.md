@@ -8,7 +8,7 @@ description: "Dong Sheng a été trompé par le pseudonyme de la renarde, Ah Suo
 
 
 
-![AstroPaper I18n](/public/dong-sheng-and-the-fox-spirit.png)
+![AstroPaper I18n](/dong-sheng-and-the-fox-spirit.png)
 
 
 

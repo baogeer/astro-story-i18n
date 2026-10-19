@@ -8,7 +8,7 @@ description: "تقول أسطورة طوب Dingcheng أنه عندما تم إص
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-city-guarding-brick.png)
+![AstroPaper I18n](/the-legend-of-the-city-guarding-brick.png)
 
 
 

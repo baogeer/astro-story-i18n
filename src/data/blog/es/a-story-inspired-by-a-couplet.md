@@ -8,7 +8,7 @@ description: "«Yo» vi el novedoso nombre del restaurante «Three Point Water»
 
 
 
-![AstroPaper I18n](/public/a-story-inspired-by-a-couplet.png)
+![AstroPaper I18n](/a-story-inspired-by-a-couplet.png)
 
 
 

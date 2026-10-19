@@ -8,7 +8,7 @@ description: "Чтобы избавиться от короля демонов, 
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-evil-exterminating-festival.png)
+![AstroPaper I18n](/the-miao-legend-of-the-evil-exterminating-festival.png)
 
 
 

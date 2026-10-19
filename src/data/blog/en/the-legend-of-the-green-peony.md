@@ -8,7 +8,7 @@ description: "Wang Ersai's flower club failed. He was instructed by Hundred Flow
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-green-peony.png)
+![AstroPaper I18n](/the-legend-of-the-green-peony.png)
 
 
 

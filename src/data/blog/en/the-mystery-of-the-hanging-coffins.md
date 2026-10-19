@@ -8,7 +8,7 @@ description: "Explorer Bai Fan discovered that his friend Sun Lin had broken int
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-hanging-coffins.png)
+![AstroPaper I18n](/the-mystery-of-the-hanging-coffins.png)
 
 
 

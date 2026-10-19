@@ -8,7 +8,7 @@ description: "В древние времена у богов выпадали з
 
 
 
-![AstroPaper I18n](/public/the-pumpkin-that-gave-birth-to-humankind.png)
+![AstroPaper I18n](/the-pumpkin-that-gave-birth-to-humankind.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The monkeys are hungry for peaches on the other side of the river,
 
 
 
-![AstroPaper I18n](/public/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
 
 
 

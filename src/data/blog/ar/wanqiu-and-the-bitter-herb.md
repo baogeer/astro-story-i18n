@@ -8,7 +8,7 @@ description: "تم انتخاب وان تشيو في القصر وأعمى ال�
 
 
 
-![AstroPaper I18n](/public/wanqiu-and-the-bitter-herb.png)
+![AstroPaper I18n](/wanqiu-and-the-bitter-herb.png)
 
 
 

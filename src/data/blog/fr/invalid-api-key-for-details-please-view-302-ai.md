@@ -8,7 +8,7 @@ description: "L'intelligente belle-fille de Wangjiazhuang est capable de faire f
 
 
 
-![AstroPaper I18n](/public/invalid-api-key-for-details-please-view-302-ai.png)
+![AstroPaper I18n](/invalid-api-key-for-details-please-view-302-ai.png)
 
 
 

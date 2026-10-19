@@ -8,7 +8,7 @@ description: "После входа во дворец Ван Чжаоцзюня 
 
 
 
-![AstroPaper I18n](/public/why-wang-zhaojun-went-beyond-the-great-wall.png)
+![AstroPaper I18n](/why-wang-zhaojun-went-beyond-the-great-wall.png)
 
 
 

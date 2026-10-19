@@ -8,7 +8,7 @@ description: "Частный визит Цяньлуна в Цзяннань с�
 
 
 
-![AstroPaper I18n](/public/the-emperor-s-dilemma.png)
+![AstroPaper I18n](/the-emperor-s-dilemma.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Fu Bi, the famous minister of Northern Song, is smart and talented
 
 
 
-![AstroPaper I18n](/public/fu-bi-the-great-diplomat-of-a-weak-northern-song-dynasty.png)
+![AstroPaper I18n](/fu-bi-the-great-diplomat-of-a-weak-northern-song-dynasty.png)
 
 
 

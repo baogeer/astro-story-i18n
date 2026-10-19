@@ -8,7 +8,7 @@ description: "El Xincheng Wangjia tiene un novio con el apellido Wang. Estudió 
 
 
 
-![AstroPaper I18n](/public/the-groom-who-ate-stones.png)
+![AstroPaper I18n](/the-groom-who-ate-stones.png)
 
 
 

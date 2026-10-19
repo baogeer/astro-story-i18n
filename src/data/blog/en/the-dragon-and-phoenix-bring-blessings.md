@@ -8,7 +8,7 @@ description: "Heping Village was enslaved by bandits and hit by a major drought.
 
 
 
-![AstroPaper I18n](/public/the-dragon-and-phoenix-bring-blessings.png)
+![AstroPaper I18n](/the-dragon-and-phoenix-bring-blessings.png)
 
 
 

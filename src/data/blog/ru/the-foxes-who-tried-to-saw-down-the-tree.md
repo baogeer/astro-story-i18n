@@ -8,7 +8,7 @@ description: "Железный Ли, охотник времен Золотог�
 
 
 
-![AstroPaper I18n](/public/the-foxes-who-tried-to-saw-down-the-tree.png)
+![AstroPaper I18n](/the-foxes-who-tried-to-saw-down-the-tree.png)
 
 
 

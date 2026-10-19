@@ -8,7 +8,7 @@ description: "Lorsque Liu Bei était le plus pauvre, Mi Zhu lui a non seulement 
 
 
 
-![AstroPaper I18n](/public/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
 
 
 

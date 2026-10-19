@@ -8,7 +8,7 @@ description: "Según la leyenda de Sani, un joven Han que escapó se hizo herman
 
 
 
-![AstroPaper I18n](/public/how-wrestling-came-to-the-sani-people.png)
+![AstroPaper I18n](/how-wrestling-came-to-the-sani-people.png)
 
 
 

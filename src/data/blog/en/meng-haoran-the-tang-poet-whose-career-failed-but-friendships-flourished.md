@@ -8,7 +8,7 @@ description: "Meng Haoran lived in seclusion in Lumen Mountain and wrote famous 
 
 
 
-![AstroPaper I18n](/public/meng-haoran-the-tang-poet-whose-career-failed-but-friendships-flourished.png)
+![AstroPaper I18n](/meng-haoran-the-tang-poet-whose-career-failed-but-friendships-flourished.png)
 
 
 

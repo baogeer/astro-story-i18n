@@ -8,7 +8,7 @@ description: "Le folklore mongol conserve de riches vestiges de la mythologie de
 
 
 
-![AstroPaper I18n](/public/mongolian-folk-legends-totem-myths.png)
+![AstroPaper I18n](/mongolian-folk-legends-totem-myths.png)
 
 
 

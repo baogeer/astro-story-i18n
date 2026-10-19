@@ -8,7 +8,7 @@ description: "أخذ رجل عجوز قيلولة في إحدى ليالي ال�
 
 
 
-![AstroPaper I18n](/public/biting-the-ghost.png)
+![AstroPaper I18n](/biting-the-ghost.png)
 
 
 

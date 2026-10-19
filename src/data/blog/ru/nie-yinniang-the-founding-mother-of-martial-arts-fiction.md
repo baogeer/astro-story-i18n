@@ -8,7 +8,7 @@ description: "Ни Инь Ньян — дочь генерала Вэй Бо. К
 
 
 
-![AstroPaper I18n](/public/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
+![AstroPaper I18n](/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل التغلب على معاناة جفاف المعبد
 
 
 
-![AstroPaper I18n](/public/the-origin-of-tiger-spring.png)
+![AstroPaper I18n](/the-origin-of-tiger-spring.png)
 
 
 

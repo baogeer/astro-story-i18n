@@ -8,7 +8,7 @@ description: "Durante la dinastía Song, los antiguos granjeros de la aldea de C
 
 
 
-![AstroPaper I18n](/public/the-old-gardener-and-the-flower-fairy.png)
+![AstroPaper I18n](/the-old-gardener-and-the-flower-fairy.png)
 
 
 

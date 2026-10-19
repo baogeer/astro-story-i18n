@@ -8,7 +8,7 @@ description: "The main text of the story “Sun and Moon Slash” contains only 
 
 
 
-![AstroPaper I18n](/public/the-sun-and-moon-slash.png)
+![AstroPaper I18n](/the-sun-and-moon-slash.png)
 
 
 

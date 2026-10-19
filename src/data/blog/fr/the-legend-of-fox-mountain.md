@@ -8,7 +8,7 @@ description: "Le dragon de pierre bleue au sommet du mont Fushan et les grosses 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fox-mountain.png)
+![AstroPaper I18n](/the-legend-of-fox-mountain.png)
 
 
 

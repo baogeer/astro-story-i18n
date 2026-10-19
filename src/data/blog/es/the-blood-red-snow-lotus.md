@@ -8,7 +8,7 @@ description: "La princesa Yu se rebeló contra el general, y la princesa Cailan 
 
 
 
-![AstroPaper I18n](/public/the-blood-red-snow-lotus.png)
+![AstroPaper I18n](/the-blood-red-snow-lotus.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Due to the great drought in Caozhou, the Yaochi Xiaoqinglong stole
 
 
 
-![AstroPaper I18n](/public/the-green-dragon-resting-in-the-ink-pool.png)
+![AstroPaper I18n](/the-green-dragon-resting-in-the-ink-pool.png)
 
 
 

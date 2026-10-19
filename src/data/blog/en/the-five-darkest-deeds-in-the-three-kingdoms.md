@@ -8,7 +8,7 @@ description: "This article jokes about five hidden things in the Three Kingdoms 
 
 
 
-![AstroPaper I18n](/public/the-five-darkest-deeds-in-the-three-kingdoms.png)
+![AstroPaper I18n](/the-five-darkest-deeds-in-the-three-kingdoms.png)
 
 
 

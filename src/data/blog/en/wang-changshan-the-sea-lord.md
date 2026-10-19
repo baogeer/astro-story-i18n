@@ -8,7 +8,7 @@ description: "Wang Changshan was in debt and designed a fake sword with his wife
 
 
 
-![AstroPaper I18n](/public/wang-changshan-the-sea-lord.png)
+![AstroPaper I18n](/wang-changshan-the-sea-lord.png)
 
 
 

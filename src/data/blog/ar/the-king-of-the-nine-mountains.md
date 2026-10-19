@@ -8,7 +8,7 @@ description: "أحرق لي شنغ من كاوتشو حتى الموت جميع 
 
 
 
-![AstroPaper I18n](/public/the-king-of-the-nine-mountains.png)
+![AstroPaper I18n](/the-king-of-the-nine-mountains.png)
 
 
 

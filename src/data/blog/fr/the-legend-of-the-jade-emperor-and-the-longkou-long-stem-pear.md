@@ -8,7 +8,7 @@ description: "Zhang Bairen a fait de bonnes actions pour sauver le moine et a re
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
+![AstroPaper I18n](/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
 
 
 

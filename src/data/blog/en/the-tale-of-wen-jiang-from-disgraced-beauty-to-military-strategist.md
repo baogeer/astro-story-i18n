@@ -8,7 +8,7 @@ description: "Qi Wenjiang is the Princess of Chunqiu. She is notorious for havin
 
 
 
-![AstroPaper I18n](/public/the-tale-of-wen-jiang-from-disgraced-beauty-to-military-strategist.png)
+![AstroPaper I18n](/the-tale-of-wen-jiang-from-disgraced-beauty-to-military-strategist.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El hermano Lianer enterró a la anciana pidiendo comida y se casó
 
 
 
-![AstroPaper I18n](/public/the-story-of-simple-second-brother.png)
+![AstroPaper I18n](/the-story-of-simple-second-brother.png)
 
 
 

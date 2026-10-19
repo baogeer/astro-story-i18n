@@ -8,7 +8,7 @@ description: "La familia Kou se negó a ser rescatada por haber bebido agua por 
 
 
 
-![AstroPaper I18n](/public/the-water-mang-grass.png)
+![AstroPaper I18n](/the-water-mang-grass.png)
 
 
 

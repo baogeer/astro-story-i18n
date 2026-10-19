@@ -8,7 +8,7 @@ description: "The Northern Song dynasty, Miyu, lived in Runzhou (present-day Zhe
 
 
 
-![AstroPaper I18n](/public/mi-fu-who-was-impeached-for-bowing-to-a-stone.png)
+![AstroPaper I18n](/mi-fu-who-was-impeached-for-bowing-to-a-stone.png)
 
 
 

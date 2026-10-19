@@ -8,7 +8,7 @@ description: "El joven Yu Bai Zaxi se enamoró de Xia Ga Qu Zong, una niña de f
 
 
 
-![AstroPaper I18n](/public/the-tale-of-young-yubai-tashi-and-his-wife-xiaga-quzong.png)
+![AstroPaper I18n](/the-tale-of-young-yubai-tashi-and-his-wife-xiaga-quzong.png)
 
 
 

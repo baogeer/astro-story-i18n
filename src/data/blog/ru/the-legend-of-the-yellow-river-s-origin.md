@@ -8,7 +8,7 @@ description: "В древние времена были сильные засу�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river-s-origin.png)
 
 
 

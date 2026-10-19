@@ -8,7 +8,7 @@ description: "Чтобы спасти пиона, уничтоженного «�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-two-qiao-peony.png)
+![AstroPaper I18n](/the-legend-of-the-two-qiao-peony.png)
 
 
 

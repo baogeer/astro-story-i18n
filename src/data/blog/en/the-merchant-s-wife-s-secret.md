@@ -8,7 +8,7 @@ description: "The businessman suspected that his wife was unfaithful, and his fr
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-s-secret.png)
+![AstroPaper I18n](/the-merchant-s-wife-s-secret.png)
 
 
 

@@ -8,7 +8,7 @@ description: "استأجر لي من مقاطعة ويشيان منزلاً لر
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-of-weixian.png)
+![AstroPaper I18n](/the-fox-spirit-of-weixian.png)
 
 
 

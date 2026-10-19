@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que la cueva de las hadas de Keelung tiene acces
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-underground-tunnels.png)
+![AstroPaper I18n](/the-legend-of-the-underground-tunnels.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Ming, le groupe ethnique Buyei du mont Bi
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
 
 
 

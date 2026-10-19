@@ -8,7 +8,7 @@ description: "The rich owner forced his servant Ada to go up the mountain to hun
 
 
 
-![AstroPaper I18n](/public/the-bird-maiden.png)
+![AstroPaper I18n](/the-bird-maiden.png)
 
 
 

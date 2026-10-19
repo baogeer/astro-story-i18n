@@ -8,7 +8,7 @@ description: "Après que l'empereur des Song du Sud se soit enfui à Hangzhou, a
 
 
 
-![AstroPaper I18n](/public/the-eight-trigrams-field.png)
+![AstroPaper I18n](/the-eight-trigrams-field.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La adivina le ordenó a Pangu que persiguiera a los tres príncipe
 
 
 
-![AstroPaper I18n](/public/the-creation-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-creation-of-heaven-and-earth.png)
 
 
 

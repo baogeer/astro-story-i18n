@@ -8,7 +8,7 @@ description: "كانت Shangguan Waner امرأة موهوبة من أسرة ت�
 
 
 
-![AstroPaper I18n](/public/shangguan-wan-er-unable-to-control-her-desires.png)
+![AstroPaper I18n](/shangguan-wan-er-unable-to-control-her-desires.png)
 
 
 

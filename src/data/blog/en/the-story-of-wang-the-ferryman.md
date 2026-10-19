@@ -8,7 +8,7 @@ description: "In his fifth generation, Wang Yanzhang from Shandong went into exi
 
 
 
-![AstroPaper I18n](/public/the-story-of-wang-the-ferryman.png)
+![AstroPaper I18n](/the-story-of-wang-the-ferryman.png)
 
 
 

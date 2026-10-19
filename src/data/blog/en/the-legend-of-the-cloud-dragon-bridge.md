@@ -8,7 +8,7 @@ description: "There are evil dragons in the Yangjiao River, and the woodcutter Q
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-dragon-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-dragon-bridge.png)
 
 
 

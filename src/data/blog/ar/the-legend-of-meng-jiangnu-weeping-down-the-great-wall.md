@@ -8,7 +8,7 @@ description: "خلال عهد أسرة تشين، أنقذت المرأة منغ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
 
 
 

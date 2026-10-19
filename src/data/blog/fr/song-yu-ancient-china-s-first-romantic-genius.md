@@ -8,7 +8,7 @@ description: "Song Yu, originaire de Chu à l'époque des Royaumes combattants, 
 
 
 
-![AstroPaper I18n](/public/song-yu-ancient-china-s-first-romantic-genius.png)
+![AstroPaper I18n](/song-yu-ancient-china-s-first-romantic-genius.png)
 
 
 

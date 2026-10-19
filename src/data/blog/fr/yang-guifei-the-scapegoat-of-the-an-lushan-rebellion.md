@@ -8,7 +8,7 @@ description: "Après le 38e anniversaire de Yang Guifei, la rébellion d'Anshi a
 
 
 
-![AstroPaper I18n](/public/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
+![AstroPaper I18n](/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
 
 
 

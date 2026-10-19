@@ -8,7 +8,7 @@ description: "Zhu Yuanzhang's tenth son, Zhu Tan, was favored since childhood an
 
 
 
-![AstroPaper I18n](/public/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
+![AstroPaper I18n](/why-emperor-zhu-yuanzhang-gave-his-beloved-son-a-bad-posthumous-title.png)
 
 
 

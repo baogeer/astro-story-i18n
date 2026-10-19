@@ -8,7 +8,7 @@ description: "Zhong Ger Ah Wu nació cuando la princesa embarazó a su marido or
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-nixi-love-dance.png)
+![AstroPaper I18n](/the-origin-of-the-nixi-love-dance.png)
 
 
 

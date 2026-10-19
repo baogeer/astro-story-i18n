@@ -8,7 +8,7 @@ description: "Le conte populaire «xa0La légende du petit Horai-kakuxa0» racon
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-penglai-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-little-penglai-pavilion.png)
 
 
 

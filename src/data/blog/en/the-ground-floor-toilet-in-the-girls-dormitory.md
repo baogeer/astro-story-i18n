@@ -8,7 +8,7 @@ description: "At night in a girls' dorm room at a school, when a girl went to th
 
 
 
-![AstroPaper I18n](/public/the-ground-floor-toilet-in-the-girls-dormitory.png)
+![AstroPaper I18n](/the-ground-floor-toilet-in-the-girls-dormitory.png)
 
 
 

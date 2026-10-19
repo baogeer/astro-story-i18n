@@ -8,7 +8,7 @@ description: "Ван Сюаньцзе отправился в Индию, где
 
 
 
-![AstroPaper I18n](/public/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
+![AstroPaper I18n](/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
 
 
 

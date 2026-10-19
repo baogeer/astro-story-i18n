@@ -8,7 +8,7 @@ description: "Legend has it that Longjing tea originated from a Tiangong teacup 
 
 
 
-![AstroPaper I18n](/public/the-legend-and-development-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-and-development-of-dragon-well-tea.png)
 
 
 

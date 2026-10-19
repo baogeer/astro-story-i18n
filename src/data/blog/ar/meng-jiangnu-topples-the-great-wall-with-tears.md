@@ -8,7 +8,7 @@ description: "في ليلة زفافها، تم القبض على زوجة من�
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-topples-the-great-wall-with-tears.png)
+![AstroPaper I18n](/meng-jiangnu-topples-the-great-wall-with-tears.png)
 
 
 

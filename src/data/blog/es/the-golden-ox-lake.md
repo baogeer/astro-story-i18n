@@ -8,7 +8,7 @@ description: "Hay un Tauro que vive en el fondo del lago Jinniu. En caso de sequ
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-lake.png)
+![AstroPaper I18n](/the-golden-ox-lake.png)
 
 
 

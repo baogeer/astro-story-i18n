@@ -8,7 +8,7 @@ description: "Во времена династии Тан дорогу Лянь�
 
 
 
-![AstroPaper I18n](/public/the-clever-magistrate-and-the-whirlwind.png)
+![AstroPaper I18n](/the-clever-magistrate-and-the-whirlwind.png)
 
 
 

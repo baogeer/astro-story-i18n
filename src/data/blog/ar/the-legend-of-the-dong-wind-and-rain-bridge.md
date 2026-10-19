@@ -8,7 +8,7 @@ description: "عندما عبر بوكا، وهو سليل من قبيلة دو�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-wind-and-rain-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-dong-wind-and-rain-bridge.png)
 
 
 

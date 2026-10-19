@@ -8,7 +8,7 @@ description: "لإنقاذ والدتها، التي سحرها شيطان ال�
 
 
 
-![AstroPaper I18n](/public/the-clever-boy-and-the-fox-spirits.png)
+![AstroPaper I18n](/the-clever-boy-and-the-fox-spirits.png)
 
 
 

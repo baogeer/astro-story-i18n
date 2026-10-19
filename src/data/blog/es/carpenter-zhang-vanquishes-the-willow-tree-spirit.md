@@ -8,7 +8,7 @@ description: "El cuento popular del Yangyi «Zhang Carpenter se atreve a quitar 
 
 
 
-![AstroPaper I18n](/public/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
+![AstroPaper I18n](/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
 
 
 

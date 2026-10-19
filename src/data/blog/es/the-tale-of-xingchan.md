@@ -8,7 +8,7 @@ description: "Xing Chan recibió una bonificación de Xing Xian. Después de cas
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xingchan.png)
+![AstroPaper I18n](/the-tale-of-xingchan.png)
 
 
 

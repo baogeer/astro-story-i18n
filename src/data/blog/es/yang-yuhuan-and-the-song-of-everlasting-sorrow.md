@@ -8,7 +8,7 @@ description: "Yang Yuhuan nació en Shudi y más tarde se convirtió en consorte
 
 
 
-![AstroPaper I18n](/public/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
+![AstroPaper I18n](/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
 
 
 

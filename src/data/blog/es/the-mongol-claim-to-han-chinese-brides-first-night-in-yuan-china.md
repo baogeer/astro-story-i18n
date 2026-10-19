@@ -8,7 +8,7 @@ description: "Los mongoles de la dinastía Yuan gobernaron al pueblo Han, ocupar
 
 
 
-![AstroPaper I18n](/public/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
+![AstroPaper I18n](/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
 
 
 

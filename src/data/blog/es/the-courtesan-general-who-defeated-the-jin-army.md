@@ -8,7 +8,7 @@ description: "Originalmente prostituta de Jingkou, Liang Hongyu conoció y se ca
 
 
 
-![AstroPaper I18n](/public/the-courtesan-general-who-defeated-the-jin-army.png)
+![AstroPaper I18n](/the-courtesan-general-who-defeated-the-jin-army.png)
 
 
 

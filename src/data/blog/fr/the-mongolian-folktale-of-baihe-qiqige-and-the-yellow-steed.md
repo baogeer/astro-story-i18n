@@ -8,7 +8,7 @@ description: "La pauvre bergère, Lily et le seul vieux cheval de sa famille, es
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
 
 
 

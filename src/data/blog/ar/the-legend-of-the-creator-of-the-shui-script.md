@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن نص حوض السمك تم إنش�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-creator-of-the-shui-script.png)
+![AstroPaper I18n](/the-legend-of-the-creator-of-the-shui-script.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت دياو تشان في الأصل العاهرة الغن
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-earrings.png)
+![AstroPaper I18n](/the-legend-of-the-earrings.png)
 
 
 

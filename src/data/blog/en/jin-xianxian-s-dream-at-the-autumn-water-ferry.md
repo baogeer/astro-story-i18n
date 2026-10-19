@@ -8,7 +8,7 @@ description: "Jin Xianxian was born as a result of Mother Dream Seven Fairies ca
 
 
 
-![AstroPaper I18n](/public/jin-xianxian-s-dream-at-the-autumn-water-ferry.png)
+![AstroPaper I18n](/jin-xianxian-s-dream-at-the-autumn-water-ferry.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The hunter brought three hunting dogs to hunt on Mount Bimo in Dia
 
 
 
-![AstroPaper I18n](/public/the-hunter-flees-bimo-mountain.png)
+![AstroPaper I18n](/the-hunter-flees-bimo-mountain.png)
 
 
 

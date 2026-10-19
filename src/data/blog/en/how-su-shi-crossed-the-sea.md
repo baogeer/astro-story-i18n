@@ -8,7 +8,7 @@ description: "As a result of being banished to Danzhou, Su Shi first crossed the
 
 
 
-![AstroPaper I18n](/public/how-su-shi-crossed-the-sea.png)
+![AstroPaper I18n](/how-su-shi-crossed-the-sea.png)
 
 
 

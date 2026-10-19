@@ -8,7 +8,7 @@ description: "Le diable Kaka brise la chaîne dorée, le soleil se couche et la 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sunflower.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sunflower.png)
 
 
 

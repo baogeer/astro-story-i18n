@@ -8,7 +8,7 @@ description: "Dans le chalet de Tujia, les parents sont sortis. Grand-mère Kuzi
 
 
 
-![AstroPaper I18n](/public/the-tujia-folktale-of-grandma-bear.png)
+![AstroPaper I18n](/the-tujia-folktale-of-grandma-bear.png)
 
 
 

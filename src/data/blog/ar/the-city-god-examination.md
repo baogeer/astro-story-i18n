@@ -8,7 +8,7 @@ description: "تمت دعوة Song Tao لإجراء الاختبار في الع
 
 
 
-![AstroPaper I18n](/public/the-city-god-examination.png)
+![AstroPaper I18n](/the-city-god-examination.png)
 
 
 

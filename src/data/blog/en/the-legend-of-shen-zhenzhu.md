@@ -8,7 +8,7 @@ description: "Shen Zhenzhu has both talents and a lifelong relationship with poo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+![AstroPaper I18n](/the-legend-of-shen-zhenzhu.png)
 
 
 

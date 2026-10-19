@@ -8,7 +8,7 @@ description: "В прошлом отцом и сыном были Эби. Мой
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-grass-mourning-rite.png)
+![AstroPaper I18n](/the-origin-of-the-yi-grass-mourning-rite.png)
 
 
 

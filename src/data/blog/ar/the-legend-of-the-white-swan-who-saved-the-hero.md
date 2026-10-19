@@ -8,7 +8,7 @@ description: "وأصيب زعيم القبيلة كلقهادر في الهزي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-swan-who-saved-the-hero.png)
+![AstroPaper I18n](/the-legend-of-the-white-swan-who-saved-the-hero.png)
 
 
 

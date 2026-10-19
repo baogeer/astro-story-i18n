@@ -8,7 +8,7 @@ description: "Este artículo bromea sobre cinco cosas ocultas en la historia de 
 
 
 
-![AstroPaper I18n](/public/the-five-darkest-deeds-in-the-three-kingdoms.png)
+![AstroPaper I18n](/the-five-darkest-deeds-in-the-three-kingdoms.png)
 
 
 

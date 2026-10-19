@@ -8,7 +8,7 @@ description: "Chai Lang a reçu des instructions pour sauver la fée et a utilis
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-a-yi-folktale.png)
+![AstroPaper I18n](/the-dragon-maiden-a-yi-folktale.png)
 
 
 

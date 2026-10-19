@@ -8,7 +8,7 @@ description: "Taiwan has dinner around the stove during the Lunar New Year. Each
 
 
 
-![AstroPaper I18n](/public/taiwanese-folk-customs-of-the-new-year.png)
+![AstroPaper I18n](/taiwanese-folk-customs-of-the-new-year.png)
 
 
 

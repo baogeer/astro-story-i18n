@@ -8,7 +8,7 @@ description: "Tieguai Li raised ducks in the Kunlun Wonderland. He wanted to use
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-and-the-duck-cages.png)
+![AstroPaper I18n](/iron-crutch-li-and-the-duck-cages.png)
 
 
 

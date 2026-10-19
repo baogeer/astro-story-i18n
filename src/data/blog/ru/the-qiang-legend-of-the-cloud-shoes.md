@@ -8,7 +8,7 @@ description: "Фея карпа влюбляется в босоногого п�
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-cloud-shoes.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-cloud-shoes.png)
 
 
 

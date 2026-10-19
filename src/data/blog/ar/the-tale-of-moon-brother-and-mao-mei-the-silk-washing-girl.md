@@ -8,7 +8,7 @@ description: "الأخ مون وماو مي في موقف ضيق. يريد يي 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
+![AstroPaper I18n](/the-tale-of-moon-brother-and-mao-mei-the-silk-washing-girl.png)
 
 
 

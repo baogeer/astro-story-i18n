@@ -8,7 +8,7 @@ description: "اتُهم الشيخ تشين تشين زوراً بقتل قط �
 
 
 
-![AstroPaper I18n](/public/settling-a-cat-claim-with-a-rice-spoon.png)
+![AstroPaper I18n](/settling-a-cat-claim-with-a-rice-spoon.png)
 
 
 

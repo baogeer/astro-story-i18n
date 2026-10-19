@@ -8,7 +8,7 @@ description: "Afin de fixer la saison agricole, le jeune homme a fabriqué un ca
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-spring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-spring-festival.png)
 
 
 

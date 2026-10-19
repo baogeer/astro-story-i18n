@@ -8,7 +8,7 @@ description: "في العصور القديمة، كانت الأخت اليتي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
 
 
 

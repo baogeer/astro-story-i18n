@@ -8,7 +8,7 @@ description: "Zhao Shutun y la princesa Lan Wulona se casaron y decidieron retir
 
 
 
-![AstroPaper I18n](/public/the-peacock-princess.png)
+![AstroPaper I18n](/the-peacock-princess.png)
 
 
 

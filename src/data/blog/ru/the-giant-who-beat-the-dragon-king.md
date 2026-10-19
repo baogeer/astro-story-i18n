@@ -8,7 +8,7 @@ description: "Когда гигант Цянь Даван собрал соль 
 
 
 
-![AstroPaper I18n](/public/the-giant-who-beat-the-dragon-king.png)
+![AstroPaper I18n](/the-giant-who-beat-the-dragon-king.png)
 
 
 

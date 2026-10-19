@@ -8,7 +8,7 @@ description: "In the late Tang Dynasty, Yu Xuanji became famous at an early age.
 
 
 
-![AstroPaper I18n](/public/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
+![AstroPaper I18n](/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان Laozi Li Yi ضيفًا في منزل Han Gu Guan Yin Xi ل�
 
 
 
-![AstroPaper I18n](/public/laozi-s-prophecy.png)
+![AstroPaper I18n](/laozi-s-prophecy.png)
 
 
 

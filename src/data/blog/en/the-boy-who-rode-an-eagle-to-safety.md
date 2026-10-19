@@ -8,7 +8,7 @@ description: "Liu Yu fell to the cliff to pick up her hat and fell into the nest
 
 
 
-![AstroPaper I18n](/public/the-boy-who-rode-an-eagle-to-safety.png)
+![AstroPaper I18n](/the-boy-who-rode-an-eagle-to-safety.png)
 
 
 

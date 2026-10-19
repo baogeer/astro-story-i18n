@@ -8,7 +8,7 @@ description: "كونغ يي هو لورد طيب القلب كان موهوبً�
 
 
 
-![AstroPaper I18n](/public/kong-yi-who-understood-the-language-of-birds.png)
+![AstroPaper I18n](/kong-yi-who-understood-the-language-of-birds.png)
 
 
 

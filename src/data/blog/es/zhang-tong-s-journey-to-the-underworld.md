@@ -8,7 +8,7 @@ description: "Al final del día, Zhang Laohan, del condado de Pingxing, se dedic
 
 
 
-![AstroPaper I18n](/public/zhang-tong-s-journey-to-the-underworld.png)
+![AstroPaper I18n](/zhang-tong-s-journey-to-the-underworld.png)
 
 
 

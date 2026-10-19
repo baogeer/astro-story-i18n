@@ -8,7 +8,7 @@ description: "When Sun Chaoren went on a date with Li Xiaoqing on his back, he a
 
 
 
-![AstroPaper I18n](/public/the-gold-necklace-found-by-chance.png)
+![AstroPaper I18n](/the-gold-necklace-found-by-chance.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Liu Yong (Liu Luoguo) in the Qing dynasty used his ingenuity and i
 
 
 
-![AstroPaper I18n](/public/liu-luoguo-outwits-the-corrupt-official.png)
+![AstroPaper I18n](/liu-luoguo-outwits-the-corrupt-official.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le jeune Liu Junsheng a bravé la pluie pour soulever Peony, qui a
 
 
 
-![AstroPaper I18n](/public/the-green-peony-fairy.png)
+![AstroPaper I18n](/the-green-peony-fairy.png)
 
 
 

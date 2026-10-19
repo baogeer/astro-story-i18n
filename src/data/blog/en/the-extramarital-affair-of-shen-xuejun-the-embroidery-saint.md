@@ -8,7 +8,7 @@ description: "Shen Xuejun, an embroiderer in the late Qing dynasty, has excellen
 
 
 
-![AstroPaper I18n](/public/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
+![AstroPaper I18n](/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
 
 
 

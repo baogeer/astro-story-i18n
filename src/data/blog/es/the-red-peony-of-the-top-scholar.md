@@ -8,7 +8,7 @@ description: "Zhao Laoshang tomó como nuera a la hermana Hua, que había escapa
 
 
 
-![AstroPaper I18n](/public/the-red-peony-of-the-top-scholar.png)
+![AstroPaper I18n](/the-red-peony-of-the-top-scholar.png)
 
 
 

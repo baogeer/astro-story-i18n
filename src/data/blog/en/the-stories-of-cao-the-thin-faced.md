@@ -8,7 +8,7 @@ description: "Cao Shake Er is a witty figure in Hong Kong. He pretended to be a 
 
 
 
-![AstroPaper I18n](/public/the-stories-of-cao-the-thin-faced.png)
+![AstroPaper I18n](/the-stories-of-cao-the-thin-faced.png)
 
 
 

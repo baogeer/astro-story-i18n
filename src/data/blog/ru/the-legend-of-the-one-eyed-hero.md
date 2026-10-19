@@ -8,7 +8,7 @@ description: "В эпоху Цин Сяньфэна самурай Дачжэн�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-one-eyed-hero.png)
+![AstroPaper I18n](/the-legend-of-the-one-eyed-hero.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xiong Xin, the grandson of King Chu Huai, shepherded sheep incogni
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shepherd-mountain.png)
+![AstroPaper I18n](/the-legend-of-shepherd-mountain.png)
 
 
 

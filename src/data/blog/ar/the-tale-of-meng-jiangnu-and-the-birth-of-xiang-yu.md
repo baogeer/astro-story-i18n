@@ -8,7 +8,7 @@ description: "لحماية دم وان شيليانغ، هربت المرأة م
 
 
 
-![AstroPaper I18n](/public/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
+![AstroPaper I18n](/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
 
 
 

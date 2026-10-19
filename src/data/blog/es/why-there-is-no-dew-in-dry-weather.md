@@ -8,7 +8,7 @@ description: "En el pasado, había rocío independientemente de las sequías o i
 
 
 
-![AstroPaper I18n](/public/why-there-is-no-dew-in-dry-weather.png)
+![AstroPaper I18n](/why-there-is-no-dew-in-dry-weather.png)
 
 
 

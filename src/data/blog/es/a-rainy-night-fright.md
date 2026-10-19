@@ -8,7 +8,7 @@ description: "En una noche lluviosa, el taxista llevó amablemente a una mujer v
 
 
 
-![AstroPaper I18n](/public/a-rainy-night-fright.png)
+![AstroPaper I18n](/a-rainy-night-fright.png)
 
 
 

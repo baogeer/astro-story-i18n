@@ -8,7 +8,7 @@ description: "Yu Ji is Xiang Yu's Ai Ji. She pulled out her sword to avoid dragg
 
 
 
-![AstroPaper I18n](/public/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
+![AstroPaper I18n](/yu-ji-the-tragic-beauty-beyond-china-s-four-great-beauties.png)
 
 
 

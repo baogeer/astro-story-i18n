@@ -8,7 +8,7 @@ description: "El vaquero cayó en manos del diablo y dañó a la gente en todas 
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-battles-the-demon.png)
+![AstroPaper I18n](/the-weaver-girl-battles-the-demon.png)
 
 
 

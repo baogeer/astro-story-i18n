@@ -8,7 +8,7 @@ description: "Como le encantan las plantas ornamentales, Xie Lingyun visitó pla
 
 
 
-![AstroPaper I18n](/public/xie-lingyun-the-plant-man.png)
+![AstroPaper I18n](/xie-lingyun-the-plant-man.png)
 
 
 

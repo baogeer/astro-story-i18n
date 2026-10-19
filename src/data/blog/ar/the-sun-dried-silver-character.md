@@ -8,7 +8,7 @@ description: "كتب ليو مانشنغ، مالك فندق Yuejia Inn في م�
 
 
 
-![AstroPaper I18n](/public/the-sun-dried-silver-character.png)
+![AstroPaper I18n](/the-sun-dried-silver-character.png)
 
 
 

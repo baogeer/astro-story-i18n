@@ -8,7 +8,7 @@ description: "عندما تم بناء Jiayuguan، كانت أسوار المد�
 
 
 
-![AstroPaper I18n](/public/the-goat-that-carried-bricks.png)
+![AstroPaper I18n](/the-goat-that-carried-bricks.png)
 
 
 

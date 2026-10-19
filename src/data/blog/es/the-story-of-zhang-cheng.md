@@ -8,7 +8,7 @@ description: "Falta el texto de la historia y no se puede generar el resumen."
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-cheng.png)
+![AstroPaper I18n](/the-story-of-zhang-cheng.png)
 
 
 

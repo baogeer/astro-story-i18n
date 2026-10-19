@@ -8,7 +8,7 @@ description: "General Liang of the Southern Dynasty, Chen Qingzhi, was too weak 
 
 
 
-![AstroPaper I18n](/public/ancient-china-s-mightiest-general-three-thousand-cavalry-annihilate-two-hundred-thousand-cavalry.png)
+![AstroPaper I18n](/ancient-china-s-mightiest-general-three-thousand-cavalry-annihilate-two-hundred-thousand-cavalry.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда женщины Цян собрались в начал�
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-shalang-dance.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-shalang-dance.png)
 
 
 

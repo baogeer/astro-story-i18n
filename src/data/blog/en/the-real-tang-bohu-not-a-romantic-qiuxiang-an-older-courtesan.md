@@ -8,7 +8,7 @@ description: "Tang Bohu's life was rocky. He went to jail for various cases of f
 
 
 
-![AstroPaper I18n](/public/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
+![AstroPaper I18n](/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
 
 
 

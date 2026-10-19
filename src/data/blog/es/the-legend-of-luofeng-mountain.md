@@ -8,7 +8,7 @@ description: "Wang Xiao, un leñador honesto y leal, encontró el dinero embruja
 
 
 
-![AstroPaper I18n](/public/the-legend-of-luofeng-mountain.png)
+![AstroPaper I18n](/the-legend-of-luofeng-mountain.png)
 
 
 

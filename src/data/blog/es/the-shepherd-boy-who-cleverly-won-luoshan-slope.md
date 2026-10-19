@@ -8,7 +8,7 @@ description: "El pastor robó un huevo en los ojos de Quan y engañó al Sr. Fen
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
+![AstroPaper I18n](/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
 
 
 

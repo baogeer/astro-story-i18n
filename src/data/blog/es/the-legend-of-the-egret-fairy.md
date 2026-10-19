@@ -8,7 +8,7 @@ description: "Yu Shaohong se enamoró del Hada Garza en su sueño y se fue al no
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-fairy.png)
+![AstroPaper I18n](/the-legend-of-the-egret-fairy.png)
 
 
 

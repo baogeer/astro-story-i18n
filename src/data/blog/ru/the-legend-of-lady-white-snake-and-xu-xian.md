@@ -8,7 +8,7 @@ description: "Бай Ньян Цзы изначально был практик�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-lady-white-snake-and-xu-xian.png)
 
 
 

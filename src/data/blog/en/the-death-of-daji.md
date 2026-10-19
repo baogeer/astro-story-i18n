@@ -8,7 +8,7 @@ description: "After Zhou Wu and Wang destroyed Shang, Jiang Ziya was ordered to 
 
 
 
-![AstroPaper I18n](/public/the-death-of-daji.png)
+![AstroPaper I18n](/the-death-of-daji.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After Zhang Juzheng's house was raided, his third son Zhang Maoxiu
 
 
 
-![AstroPaper I18n](/public/the-elixir-chamber.png)
+![AstroPaper I18n](/the-elixir-chamber.png)
 
 
 

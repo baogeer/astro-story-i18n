@@ -8,7 +8,7 @@ description: "У ворот храма Дунъюэ кондоры и тигры
 
 
 
-![AstroPaper I18n](/public/the-eagle-tiger-god.png)
+![AstroPaper I18n](/the-eagle-tiger-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le petit lapin a utilisé le «xa0vin à boirexa0» pour tromper l
 
 
 
-![AstroPaper I18n](/public/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
+![AstroPaper I18n](/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
 
 
 

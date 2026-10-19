@@ -8,7 +8,7 @@ description: "La maison de Dong Mo An a été jetée avec des briques et des tui
 
 
 
-![AstroPaper I18n](/public/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
+![AstroPaper I18n](/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Купцы династии Цин попросили г-на Фэ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-merchant-and-the-feng-shui-master.png)
+![AstroPaper I18n](/the-legend-of-the-merchant-and-the-feng-shui-master.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Су Мэй, странная женщина из Сюаньчжо
 
 
 
-![AstroPaper I18n](/public/the-legend-of-su-meichun-s-miraculous-kiss.png)
+![AstroPaper I18n](/the-legend-of-su-meichun-s-miraculous-kiss.png)
 
 
 

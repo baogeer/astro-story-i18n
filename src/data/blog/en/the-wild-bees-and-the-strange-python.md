@@ -8,7 +8,7 @@ description: "Zhang Yinhan rescued Lin Zhong Oe, who wanted to hang, and the two
 
 
 
-![AstroPaper I18n](/public/the-wild-bees-and-the-strange-python.png)
+![AstroPaper I18n](/the-wild-bees-and-the-strange-python.png)
 
 
 

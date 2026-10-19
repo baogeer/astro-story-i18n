@@ -8,7 +8,7 @@ description: "Согласно легендам Накси, люди и драк
 
 
 
-![AstroPaper I18n](/public/the-naxi-legend-of-man-and-dragon.png)
+![AstroPaper I18n](/the-naxi-legend-of-man-and-dragon.png)
 
 
 

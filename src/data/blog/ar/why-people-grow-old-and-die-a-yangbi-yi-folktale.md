@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن الناس لا يموتون أبد
 
 
 
-![AstroPaper I18n](/public/why-people-grow-old-and-die-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/why-people-grow-old-and-die-a-yangbi-yi-folktale.png)
 
 
 

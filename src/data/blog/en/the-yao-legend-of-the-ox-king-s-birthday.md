@@ -8,7 +8,7 @@ description: "According to the legend of the Yao ethnic group, the cow king help
 
 
 
-![AstroPaper I18n](/public/the-yao-legend-of-the-ox-king-s-birthday.png)
+![AstroPaper I18n](/the-yao-legend-of-the-ox-king-s-birthday.png)
 
 
 

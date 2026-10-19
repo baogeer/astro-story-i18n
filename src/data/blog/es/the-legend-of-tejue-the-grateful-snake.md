@@ -8,7 +8,7 @@ description: "En la antigüedad, Ling Yingpo, un anciano solitario, rescató a u
 
 
 
-![AstroPaper I18n](/public/the-legend-of-tejue-the-grateful-snake.png)
+![AstroPaper I18n](/the-legend-of-tejue-the-grateful-snake.png)
 
 
 

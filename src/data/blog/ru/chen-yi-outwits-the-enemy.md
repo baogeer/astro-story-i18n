@@ -8,7 +8,7 @@ description: "Чэнь И привел охранников для спасен�
 
 
 
-![AstroPaper I18n](/public/chen-yi-outwits-the-enemy.png)
+![AstroPaper I18n](/chen-yi-outwits-the-enemy.png)
 
 
 

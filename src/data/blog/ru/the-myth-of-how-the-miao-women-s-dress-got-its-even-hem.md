@@ -8,7 +8,7 @@ description: "Жена знающей группировки была похищ
 
 
 
-![AstroPaper I18n](/public/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
+![AstroPaper I18n](/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
 
 
 

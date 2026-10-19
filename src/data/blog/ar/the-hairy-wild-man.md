@@ -8,7 +8,7 @@ description: "قام متوحش ماو بسرقة الفتاة الجميلة ك
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man.png)
+![AstroPaper I18n](/the-hairy-wild-man.png)
 
 
 

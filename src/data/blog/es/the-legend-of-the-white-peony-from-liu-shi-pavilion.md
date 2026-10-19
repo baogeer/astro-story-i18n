@@ -8,7 +8,7 @@ description: "Al final de Sui, Liu Shi, una joven de Ruzhou (Henan), dejó su ca
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
 
 
 

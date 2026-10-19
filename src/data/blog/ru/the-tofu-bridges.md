@@ -8,7 +8,7 @@ description: "В Ханчжоу во времена Южной династии 
 
 
 
-![AstroPaper I18n](/public/the-tofu-bridges.png)
+![AstroPaper I18n](/the-tofu-bridges.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фильм «Легенда о белой змее» переос�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-blurs-the-human-demon-line.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-blurs-the-human-demon-line.png)
 
 
 

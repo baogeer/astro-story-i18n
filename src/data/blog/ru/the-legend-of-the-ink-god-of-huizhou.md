@@ -8,7 +8,7 @@ description: "Отец и сын семьи Мун обманом застави
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ink-god-of-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-ink-god-of-huizhou.png)
 
 
 

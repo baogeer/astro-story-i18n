@@ -8,7 +8,7 @@ description: "Yang Guifei is known as Yu Nu, Yu Niang, and Yuhuan. “Slave” a
 
 
 
-![AstroPaper I18n](/public/the-secrets-behind-yang-guifei-s-name.png)
+![AstroPaper I18n](/the-secrets-behind-yang-guifei-s-name.png)
 
 
 

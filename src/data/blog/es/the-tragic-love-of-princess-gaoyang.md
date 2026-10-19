@@ -8,7 +8,7 @@ description: "La princesa Goyang es la hija de Tang Taizong. La obligaron a casa
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-tragic-love-of-princess-gaoyang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ma San pasó tres años ahorrando 52 dólares, pero después de es
 
 
 
-![AstroPaper I18n](/public/the-magistrate-who-tried-the-earth-god.png)
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
 
 
 

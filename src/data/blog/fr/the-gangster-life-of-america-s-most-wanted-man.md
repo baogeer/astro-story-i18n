@@ -8,7 +8,7 @@ description: "Le chef de gang américain James Balger, surnommé «xa0The Bald M
 
 
 
-![AstroPaper I18n](/public/the-gangster-life-of-america-s-most-wanted-man.png)
+![AstroPaper I18n](/the-gangster-life-of-america-s-most-wanted-man.png)
 
 
 

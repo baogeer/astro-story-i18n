@@ -8,7 +8,7 @@ description: "Los jóvenes antepasados de la tribu Yilao descubrieron el cinabri
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-treasure-king-bodhisattva.png)
+![AstroPaper I18n](/the-legend-of-the-treasure-king-bodhisattva.png)
 
 
 

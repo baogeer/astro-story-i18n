@@ -8,7 +8,7 @@ description: "Чтобы преодолеть страдания, вызванн
 
 
 
-![AstroPaper I18n](/public/the-origin-of-tiger-spring.png)
+![AstroPaper I18n](/the-origin-of-tiger-spring.png)
 
 
 

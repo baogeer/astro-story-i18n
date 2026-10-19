@@ -8,7 +8,7 @@ description: "The Miao family's daughter-in-law was 15 years pregnant and gave b
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-bamboo-kings.png)
+![AstroPaper I18n](/the-miao-legend-of-the-bamboo-kings.png)
 
 
 

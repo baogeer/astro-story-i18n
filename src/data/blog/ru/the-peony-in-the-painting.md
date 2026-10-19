@@ -8,7 +8,7 @@ description: "Старые фермеры, выращивающие цветы, 
 
 
 
-![AstroPaper I18n](/public/the-peony-in-the-painting.png)
+![AstroPaper I18n](/the-peony-in-the-painting.png)
 
 
 

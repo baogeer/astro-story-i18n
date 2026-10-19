@@ -8,7 +8,7 @@ description: "Yang Seyan, a litigator in the late Ming and early Qing dynasties,
 
 
 
-![AstroPaper I18n](/public/the-thumbprint-that-changed-the-deed.png)
+![AstroPaper I18n](/the-thumbprint-that-changed-the-deed.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чтобы использовать бронзовые бараб�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-miao-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-miao-bronze-drum.png)
 
 
 

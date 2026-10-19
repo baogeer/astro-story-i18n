@@ -8,7 +8,7 @@ description: "Цю Гун был чиновником в Цзуньхуа. Он 
 
 
 
-![AstroPaper I18n](/public/the-vengeful-fox-of-zunhua-office.png)
+![AstroPaper I18n](/the-vengeful-fox-of-zunhua-office.png)
 
 
 

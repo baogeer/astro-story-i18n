@@ -8,7 +8,7 @@ description: "In order to use the bronze drums for the wedding, Bo Songga, a you
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-miao-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-miao-bronze-drum.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фумикиубоку и Шуанхэ спрятались в у�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-stream.png)
+![AstroPaper I18n](/the-legend-of-crane-stream.png)
 
 
 

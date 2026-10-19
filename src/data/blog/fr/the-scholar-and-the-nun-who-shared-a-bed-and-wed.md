@@ -8,7 +8,7 @@ description: "L'érudit a appris qu'il avait rencontré une religieuse se faisan
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
+![AstroPaper I18n](/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
 
 
 

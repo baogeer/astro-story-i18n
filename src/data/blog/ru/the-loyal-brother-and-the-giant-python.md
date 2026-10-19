@@ -8,7 +8,7 @@ description: "Братья Ху в деревне Готянь рубили др
 
 
 
-![AstroPaper I18n](/public/the-loyal-brother-and-the-giant-python.png)
+![AstroPaper I18n](/the-loyal-brother-and-the-giant-python.png)
 
 
 

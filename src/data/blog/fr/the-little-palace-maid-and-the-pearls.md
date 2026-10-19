@@ -8,7 +8,7 @@ description: "Lorsque les forces alliées des huit nations ont envahi la Chine, 
 
 
 
-![AstroPaper I18n](/public/the-little-palace-maid-and-the-pearls.png)
+![AstroPaper I18n](/the-little-palace-maid-and-the-pearls.png)
 
 
 

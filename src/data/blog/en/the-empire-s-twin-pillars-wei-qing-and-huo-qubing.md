@@ -8,7 +8,7 @@ description: "Wei Qing started as an illegitimate shepherd, and is calm and gene
 
 
 
-![AstroPaper I18n](/public/the-empire-s-twin-pillars-wei-qing-and-huo-qubing.png)
+![AstroPaper I18n](/the-empire-s-twin-pillars-wei-qing-and-huo-qubing.png)
 
 
 

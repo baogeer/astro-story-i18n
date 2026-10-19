@@ -8,7 +8,7 @@ description: "Il était une fois quelqu'un qui voulait monter au paradis et avoi
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hen-and-chicks-constellation.png)
+![AstroPaper I18n](/the-origin-of-the-hen-and-chicks-constellation.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The scholar heard that he met a nun pretending to be a monk while 
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
+![AstroPaper I18n](/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
 
 
 

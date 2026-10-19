@@ -8,7 +8,7 @@ description: "Après avoir épousé Jiao Zhongqing, Liu Lanzhi a été rejetée 
 
 
 
-![AstroPaper I18n](/public/liu-lanzhi-the-woman-abandoned-by-another-woman.png)
+![AstroPaper I18n](/liu-lanzhi-the-woman-abandoned-by-another-woman.png)
 
 
 

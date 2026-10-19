@@ -8,7 +8,7 @@ description: "Shangguan Waner nació como funcionario público. Gracias a su tal
 
 
 
-![AstroPaper I18n](/public/shangguan-wan-er-a-licentious-woman-who-dared-to-dally-with-four-brothers.png)
+![AstroPaper I18n](/shangguan-wan-er-a-licentious-woman-who-dared-to-dally-with-four-brothers.png)
 
 
 

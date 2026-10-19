@@ -8,7 +8,7 @@ description: "لا يستطيع الأغبياء قول الحقيقة أو ال
 
 
 
-![AstroPaper I18n](/public/the-fool-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-fool-who-divorced-his-wife.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان من المخطط أصلاً أن تمر سكة حديد ج
 
 
 
-![AstroPaper I18n](/public/the-origin-of-old-and-new-sanjie.png)
+![AstroPaper I18n](/the-origin-of-old-and-new-sanjie.png)
 
 
 

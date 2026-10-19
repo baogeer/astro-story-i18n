@@ -8,7 +8,7 @@ description: "L'ancienne ancêtre féminine du peuple Yi, Ayu God, était à la 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-ayu-the-yi-ancestral-goddess.png)
+![AstroPaper I18n](/the-origin-of-ayu-the-yi-ancestral-goddess.png)
 
 
 

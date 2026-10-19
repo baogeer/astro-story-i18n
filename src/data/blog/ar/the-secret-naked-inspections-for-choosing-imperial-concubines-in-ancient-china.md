@@ -8,7 +8,7 @@ description: "أجرت وو يي، المسؤولة التي أرسلها الإ
 
 
 
-![AstroPaper I18n](/public/the-secret-naked-inspections-for-choosing-imperial-concubines-in-ancient-china.png)
+![AstroPaper I18n](/the-secret-naked-inspections-for-choosing-imperial-concubines-in-ancient-china.png)
 
 
 

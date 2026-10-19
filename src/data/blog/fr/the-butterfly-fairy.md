@@ -8,7 +8,7 @@ description: "À cause de sa belle mère, elle a été rétrogradée par l'Emper
 
 
 
-![AstroPaper I18n](/public/the-butterfly-fairy.png)
+![AstroPaper I18n](/the-butterfly-fairy.png)
 
 
 

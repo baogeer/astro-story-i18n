@@ -8,7 +8,7 @@ description: "King Lu made fun of Nu Wa Temple with a poem, which angered the wo
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-of-panlong-mountain.png)
+![AstroPaper I18n](/the-fox-maiden-of-panlong-mountain.png)
 
 
 

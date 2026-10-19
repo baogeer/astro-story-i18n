@@ -8,7 +8,7 @@ description: "The Blue Monkey King led a group of monkeys to harm the western sl
 
 
 
-![AstroPaper I18n](/public/the-sealing-of-the-green-monkey-king.png)
+![AstroPaper I18n](/the-sealing-of-the-green-monkey-king.png)
 
 
 

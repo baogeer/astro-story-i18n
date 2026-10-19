@@ -8,7 +8,7 @@ description: "Doce soles antiguos quemaron la tierra; los hermanos y hermanas Fu
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-fuxi-and-his-sister.png)
+![AstroPaper I18n](/the-bouyei-myth-of-fuxi-and-his-sister.png)
 
 
 

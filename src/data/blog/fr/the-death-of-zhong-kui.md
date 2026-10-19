@@ -8,7 +8,7 @@ description: "Zhong Kui était très talentueux et a remporté la première plac
 
 
 
-![AstroPaper I18n](/public/the-death-of-zhong-kui.png)
+![AstroPaper I18n](/the-death-of-zhong-kui.png)
 
 
 

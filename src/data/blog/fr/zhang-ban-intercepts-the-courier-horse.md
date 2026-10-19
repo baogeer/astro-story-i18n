@@ -8,7 +8,7 @@ description: "Zhang est un étudiant confucéen de la période Qianlong de la dy
 
 
 
-![AstroPaper I18n](/public/zhang-ban-intercepts-the-courier-horse.png)
+![AstroPaper I18n](/zhang-ban-intercepts-the-courier-horse.png)
 
 
 

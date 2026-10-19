@@ -8,7 +8,7 @@ description: "Le peintre et calligraphe de la dynastie Song, Mi Yi, collectionna
 
 
 
-![AstroPaper I18n](/public/the-origin-of-crafty-theft-and-bold-seizure-mi-fu-s-anecdotes.png)
+![AstroPaper I18n](/the-origin-of-crafty-theft-and-bold-seizure-mi-fu-s-anecdotes.png)
 
 
 

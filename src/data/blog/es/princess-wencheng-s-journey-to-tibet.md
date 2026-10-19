@@ -8,7 +8,7 @@ description: "Para llevarse bien con la dinastía Tang, Song Zan Kanbu envió en
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-s-journey-to-tibet.png)
+![AstroPaper I18n](/princess-wencheng-s-journey-to-tibet.png)
 
 
 

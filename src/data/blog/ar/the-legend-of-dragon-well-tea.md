@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة شاي Longjing، قامت العمة ا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea.png)
 
 
 

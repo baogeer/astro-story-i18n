@@ -8,7 +8,7 @@ description: "وفقًا لأساطير داي، تم طرد الجدة غو ه�
 
 
 
-![AstroPaper I18n](/public/the-dai-folktale-of-grandmother-rice-soul.png)
+![AstroPaper I18n](/the-dai-folktale-of-grandmother-rice-soul.png)
 
 
 

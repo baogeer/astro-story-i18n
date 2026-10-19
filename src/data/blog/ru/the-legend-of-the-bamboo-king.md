@@ -8,7 +8,7 @@ description: "«Легенда о короле бамбука» — это ис�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king.png)
 
 
 

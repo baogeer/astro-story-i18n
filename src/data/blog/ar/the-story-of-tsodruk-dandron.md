@@ -8,7 +8,7 @@ description: "تزوج الشيطان كوزو دانكيونغ. بعد هروب
 
 
 
-![AstroPaper I18n](/public/the-story-of-tsodruk-dandron.png)
+![AstroPaper I18n](/the-story-of-tsodruk-dandron.png)
 
 
 

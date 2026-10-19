@@ -8,7 +8,7 @@ description: "La bête géante du lac Tailai a attaqué à plusieurs reprises de
 
 
 
-![AstroPaper I18n](/public/the-hidden-killer-of-lake-tele.png)
+![AstroPaper I18n](/the-hidden-killer-of-lake-tele.png)
 
 
 

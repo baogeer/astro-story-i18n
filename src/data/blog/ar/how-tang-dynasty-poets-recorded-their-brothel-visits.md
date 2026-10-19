@@ -8,7 +8,7 @@ description: "كما أطلق على شعراء أسرة تانغ دو مو وب
 
 
 
-![AstroPaper I18n](/public/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
+![AstroPaper I18n](/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
 
 
 

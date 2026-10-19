@@ -8,7 +8,7 @@ description: "Para evitar la anexión de Mongolia, los sucesivos reyes se casaro
 
 
 
-![AstroPaper I18n](/public/the-goryeo-dynasty-that-survived-through-women.png)
+![AstroPaper I18n](/the-goryeo-dynasty-that-survived-through-women.png)
 
 
 

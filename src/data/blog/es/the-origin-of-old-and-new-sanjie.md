@@ -8,7 +8,7 @@ description: "El ferrocarril de Jinpu se planeó originalmente para pasar por la
 
 
 
-![AstroPaper I18n](/public/the-origin-of-old-and-new-sanjie.png)
+![AstroPaper I18n](/the-origin-of-old-and-new-sanjie.png)
 
 
 

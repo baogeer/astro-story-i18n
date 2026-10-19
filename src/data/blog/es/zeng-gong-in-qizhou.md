@@ -8,7 +8,7 @@ description: "Cuando Gong Gong estuvo en la provincia de Qizhou, castigó severa
 
 
 
-![AstroPaper I18n](/public/zeng-gong-in-qizhou.png)
+![AstroPaper I18n](/zeng-gong-in-qizhou.png)
 
 
 

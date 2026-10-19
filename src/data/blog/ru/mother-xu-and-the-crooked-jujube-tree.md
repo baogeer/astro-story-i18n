@@ -8,7 +8,7 @@ description: "У Сюй Му всегда было 40 лет сына Сюй. О
 
 
 
-![AstroPaper I18n](/public/mother-xu-and-the-crooked-jujube-tree.png)
+![AstroPaper I18n](/mother-xu-and-the-crooked-jujube-tree.png)
 
 
 

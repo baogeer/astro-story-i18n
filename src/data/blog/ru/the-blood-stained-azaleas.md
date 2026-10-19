@@ -8,7 +8,7 @@ description: "Император Шунь посетил гору Цзюлун �
 
 
 
-![AstroPaper I18n](/public/the-blood-stained-azaleas.png)
+![AstroPaper I18n](/the-blood-stained-azaleas.png)
 
 
 

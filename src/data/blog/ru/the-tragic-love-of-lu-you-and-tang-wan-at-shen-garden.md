@@ -8,7 +8,7 @@ description: "Лу Ю из Southern Song и Тан Ван Цинмэй стал�
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
+![AstroPaper I18n](/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
 
 
 

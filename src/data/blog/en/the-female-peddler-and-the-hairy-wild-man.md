@@ -8,7 +8,7 @@ description: "The woman stayed overnight and learned the truth when she met a wi
 
 
 
-![AstroPaper I18n](/public/the-female-peddler-and-the-hairy-wild-man.png)
+![AstroPaper I18n](/the-female-peddler-and-the-hairy-wild-man.png)
 
 
 

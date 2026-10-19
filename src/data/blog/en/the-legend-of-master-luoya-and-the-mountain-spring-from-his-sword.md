@@ -8,7 +8,7 @@ description: "Mr. Luoya took a break in Huangjianling, Xiuning. Two mountain peo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
+![AstroPaper I18n](/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
 
 
 

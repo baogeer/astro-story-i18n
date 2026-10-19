@@ -8,7 +8,7 @@ description: "Iron Li, a hunter from the Golden Age, lured foxes with pigeons; i
 
 
 
-![AstroPaper I18n](/public/the-foxes-who-tried-to-saw-down-the-tree.png)
+![AstroPaper I18n](/the-foxes-who-tried-to-saw-down-the-tree.png)
 
 
 

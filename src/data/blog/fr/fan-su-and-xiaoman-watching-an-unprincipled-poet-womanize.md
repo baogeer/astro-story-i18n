@@ -8,7 +8,7 @@ description: "Le poète de la dynastie Tang Bai Juyi a élevé des centaines de 
 
 
 
-![AstroPaper I18n](/public/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
+![AstroPaper I18n](/fan-su-and-xiaoman-watching-an-unprincipled-poet-womanize.png)
 
 
 

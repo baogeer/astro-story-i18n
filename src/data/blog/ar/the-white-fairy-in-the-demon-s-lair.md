@@ -8,7 +8,7 @@ description: "تقدم نيو بياو، وهو عابد على الشاطئ، �
 
 
 
-![AstroPaper I18n](/public/the-white-fairy-in-the-demon-s-lair.png)
+![AstroPaper I18n](/the-white-fairy-in-the-demon-s-lair.png)
 
 
 

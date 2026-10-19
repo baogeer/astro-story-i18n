@@ -8,7 +8,7 @@ description: "On Christmas Eve, “I” and Gao Chu returned to the building and
 
 
 
-![AstroPaper I18n](/public/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
+![AstroPaper I18n](/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تتوفر اللآلئ بكثرة على طول ساحل هيبو
 
 
 
-![AstroPaper I18n](/public/the-return-of-the-hepu-pearls.png)
+![AstroPaper I18n](/the-return-of-the-hepu-pearls.png)
 
 
 

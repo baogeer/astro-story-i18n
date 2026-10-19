@@ -8,7 +8,7 @@ description: "Wei Dagui of the Zhuang family offended the Turkish emperor by adv
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-zhuang-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-the-zhuang-double-third-festival.png)
 
 
 

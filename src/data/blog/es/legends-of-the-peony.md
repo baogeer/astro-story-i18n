@@ -8,7 +8,7 @@ description: "Este artículo contiene siete leyendas sobre las peonías, incluid
 
 
 
-![AstroPaper I18n](/public/legends-of-the-peony.png)
+![AstroPaper I18n](/legends-of-the-peony.png)
 
 
 

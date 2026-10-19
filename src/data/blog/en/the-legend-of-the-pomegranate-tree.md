@@ -8,7 +8,7 @@ description: "The story is centered around the pomegranate tree and aims to tell
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pomegranate-tree.png)
+![AstroPaper I18n](/the-legend-of-the-pomegranate-tree.png)
 
 
 

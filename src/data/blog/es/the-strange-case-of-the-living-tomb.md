@@ -8,7 +8,7 @@ description: "Cui Laifu robó al comerciante Ma Wu durante la recuperación de t
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-living-tomb.png)
+![AstroPaper I18n](/the-strange-case-of-the-living-tomb.png)
 
 
 

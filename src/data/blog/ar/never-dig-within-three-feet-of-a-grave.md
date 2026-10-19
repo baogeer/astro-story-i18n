@@ -8,7 +8,7 @@ description: "في عهد أسرة تشينغ، تم إعدام مسؤول مق�
 
 
 
-![AstroPaper I18n](/public/never-dig-within-three-feet-of-a-grave.png)
+![AstroPaper I18n](/never-dig-within-three-feet-of-a-grave.png)
 
 
 

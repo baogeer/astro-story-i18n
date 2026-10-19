@@ -8,7 +8,7 @@ description: "Лягушка соревновалась с тигром в пр�
 
 
 
-![AstroPaper I18n](/public/the-contest-between-the-tiger-and-the-frog.png)
+![AstroPaper I18n](/the-contest-between-the-tiger-and-the-frog.png)
 
 
 

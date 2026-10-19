@@ -8,7 +8,7 @@ description: "Wu Yi, a female official sent by Emperor Huan of the Eastern Han D
 
 
 
-![AstroPaper I18n](/public/the-secret-naked-inspections-for-choosing-imperial-concubines-in-ancient-china.png)
+![AstroPaper I18n](/the-secret-naked-inspections-for-choosing-imperial-concubines-in-ancient-china.png)
 
 
 

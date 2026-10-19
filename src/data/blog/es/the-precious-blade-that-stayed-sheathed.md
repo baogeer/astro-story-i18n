@@ -8,7 +8,7 @@ description: "El herrero Guan Ziming tiene una espada ancestral. Aunque nunca la
 
 
 
-![AstroPaper I18n](/public/the-precious-blade-that-stayed-sheathed.png)
+![AstroPaper I18n](/the-precious-blade-that-stayed-sheathed.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В детстве Чжао Фэйянь завела роман с
 
 
 
-![AstroPaper I18n](/public/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
+![AstroPaper I18n](/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
 
 
 

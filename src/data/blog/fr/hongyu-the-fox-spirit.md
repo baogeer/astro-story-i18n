@@ -8,7 +8,7 @@ description: "Feng Sheng a eu une réunion privée avec la renarde. Hongyu est p
 
 
 
-![AstroPaper I18n](/public/hongyu-the-fox-spirit.png)
+![AstroPaper I18n](/hongyu-the-fox-spirit.png)
 
 
 

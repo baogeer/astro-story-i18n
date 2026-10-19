@@ -8,7 +8,7 @@ description: "اقترب مو رونغ وشياويي من ليو هانيان �
 
 
 
-![AstroPaper I18n](/public/love-and-hate.png)
+![AstroPaper I18n](/love-and-hate.png)
 
 
 

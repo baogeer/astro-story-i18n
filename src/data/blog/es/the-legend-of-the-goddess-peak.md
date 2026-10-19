@@ -8,7 +8,7 @@ description: "Yao Ji llevó a 11 hadas al trono para ayudar a Dayu a sanar el ag
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-peak.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-peak.png)
 
 
 

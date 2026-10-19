@@ -8,7 +8,7 @@ description: "When Li Bing became a local official in Shu County, he fought a vi
 
 
 
-![AstroPaper I18n](/public/li-bing-slays-the-river-god.png)
+![AstroPaper I18n](/li-bing-slays-the-river-god.png)
 
 
 

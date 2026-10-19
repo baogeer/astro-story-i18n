@@ -8,7 +8,7 @@ description: "En el segundo año de la proclamación de la unificación a finale
 
 
 
-![AstroPaper I18n](/public/the-xiaoyanyi-mountain-uprising.png)
+![AstroPaper I18n](/the-xiaoyanyi-mountain-uprising.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت زوجة ابن عائلة مياو حاملاً في ا�
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-bamboo-kings.png)
+![AstroPaper I18n](/the-miao-legend-of-the-bamboo-kings.png)
 
 
 

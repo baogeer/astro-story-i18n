@@ -8,7 +8,7 @@ description: "В годы правления Канси Манжэнь Хань 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-building-high-graves-at-the-qingming-festival.png)
+![AstroPaper I18n](/the-legend-of-building-high-graves-at-the-qingming-festival.png)
 
 
 

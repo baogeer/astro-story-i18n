@@ -8,7 +8,7 @@ description: "Три Мадонны влюбились в смертного Л�
 
 
 
-![AstroPaper I18n](/public/the-magic-lotus-lantern.png)
+![AstroPaper I18n](/the-magic-lotus-lantern.png)
 
 
 

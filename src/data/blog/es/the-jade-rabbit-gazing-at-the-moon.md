@@ -8,7 +8,7 @@ description: "Yu Tu robó un lugar extraño y fue rescatado por el cazador Ason.
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-gazing-at-the-moon.png)
+![AstroPaper I18n](/the-jade-rabbit-gazing-at-the-moon.png)
 
 
 

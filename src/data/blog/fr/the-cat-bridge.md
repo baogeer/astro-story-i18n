@@ -8,7 +8,7 @@ description: "Un ancien maroquinier de Hangzhou a élevé un chat léopard aband
 
 
 
-![AstroPaper I18n](/public/the-cat-bridge.png)
+![AstroPaper I18n](/the-cat-bridge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Según la leyenda del pueblo Yi, en la antigüedad, la gente no te
 
 
 
-![AstroPaper I18n](/public/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
 
 
 

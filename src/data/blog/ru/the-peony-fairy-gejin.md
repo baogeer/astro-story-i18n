@@ -8,7 +8,7 @@ description: "Чан Дэюн одержим пионами. Он встрети
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy-gejin.png)
+![AstroPaper I18n](/the-peony-fairy-gejin.png)
 
 
 

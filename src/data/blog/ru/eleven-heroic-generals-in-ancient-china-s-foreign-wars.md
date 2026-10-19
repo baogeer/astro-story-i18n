@@ -8,7 +8,7 @@ description: "В древнем Китае появилось 11 выдающи�
 
 
 
-![AstroPaper I18n](/public/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
+![AstroPaper I18n](/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
 
 
 

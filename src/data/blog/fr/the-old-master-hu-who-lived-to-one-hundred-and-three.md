@@ -8,7 +8,7 @@ description: "Un mineur d'or de la République de Chine, Hu Santaibao a découve
 
 
 
-![AstroPaper I18n](/public/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
+![AstroPaper I18n](/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Alors qu'elle travaillait avec Li Yu, Xiao Fei a rencontré Wang T
 
 
 
-![AstroPaper I18n](/public/a-day-laborer-s-lucky-encounter.png)
+![AstroPaper I18n](/a-day-laborer-s-lucky-encounter.png)
 
 
 

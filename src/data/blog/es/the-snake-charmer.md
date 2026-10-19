@@ -8,7 +8,7 @@ description: "Los cazadores de serpientes Donggun domestican a la serpiente azul
 
 
 
-![AstroPaper I18n](/public/the-snake-charmer.png)
+![AstroPaper I18n](/the-snake-charmer.png)
 
 
 

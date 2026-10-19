@@ -8,7 +8,7 @@ description: "كان ويشان في الأصل جبلًا، وعاش هناك �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-weishan-lake.png)
+![AstroPaper I18n](/the-legend-of-weishan-lake.png)
 
 
 

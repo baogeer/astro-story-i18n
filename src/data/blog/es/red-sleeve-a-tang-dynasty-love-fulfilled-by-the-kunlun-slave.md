@@ -8,7 +8,7 @@ description: "En la dinastía Tang, Cui Sheng visitó a un médico y la cantante
 
 
 
-![AstroPaper I18n](/public/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
+![AstroPaper I18n](/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
 
 
 

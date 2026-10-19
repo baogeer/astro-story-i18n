@@ -8,7 +8,7 @@ description: "Предковая собака-дракон из племени �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
+![AstroPaper I18n](/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
 
 
 

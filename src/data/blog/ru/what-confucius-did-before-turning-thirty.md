@@ -8,7 +8,7 @@ description: "Конфуций потерял отца в детстве и пе
 
 
 
-![AstroPaper I18n](/public/what-confucius-did-before-turning-thirty.png)
+![AstroPaper I18n](/what-confucius-did-before-turning-thirty.png)
 
 
 

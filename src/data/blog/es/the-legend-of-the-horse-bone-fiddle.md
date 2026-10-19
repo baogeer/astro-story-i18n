@@ -8,7 +8,7 @@ description: "Ah Ran, una niña de la familia Zhuang, está enamorada de un jove
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-horse-bone-fiddle.png)
+![AstroPaper I18n](/the-legend-of-the-horse-bone-fiddle.png)
 
 
 

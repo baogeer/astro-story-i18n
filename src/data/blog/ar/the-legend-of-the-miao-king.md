@@ -8,7 +8,7 @@ description: "تم تبني آدي، أحد أسلاف قبيلة مياو، م�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-the-miao-king.png)
 
 
 

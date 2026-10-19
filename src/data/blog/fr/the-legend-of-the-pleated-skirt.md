@@ -8,7 +8,7 @@ description: "La fille Miao Dianhua a été emmenée par des singes et torturée
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pleated-skirt.png)
+![AstroPaper I18n](/the-legend-of-the-pleated-skirt.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Джон и его жена Лили придумали загов
 
 
 
-![AstroPaper I18n](/public/the-murder-that-left-no-trace.png)
+![AstroPaper I18n](/the-murder-that-left-no-trace.png)
 
 
 

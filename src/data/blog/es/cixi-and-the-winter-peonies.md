@@ -8,7 +8,7 @@ description: "Al final de la dinastía Qing, la emperatriz viuda Cixi quería ve
 
 
 
-![AstroPaper I18n](/public/cixi-and-the-winter-peonies.png)
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
 
 
 

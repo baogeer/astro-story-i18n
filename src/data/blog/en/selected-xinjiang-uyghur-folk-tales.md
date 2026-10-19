@@ -8,7 +8,7 @@ description: "Avanti was confronted with two questions: the old hunter asked if 
 
 
 
-![AstroPaper I18n](/public/selected-xinjiang-uyghur-folk-tales.png)
+![AstroPaper I18n](/selected-xinjiang-uyghur-folk-tales.png)
 
 
 

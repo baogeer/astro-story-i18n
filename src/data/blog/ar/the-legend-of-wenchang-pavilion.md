@@ -8,7 +8,7 @@ description: "كان الفلاح باو تشونغوي والسيد تشو لي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wenchang-pavilion.png)
+![AstroPaper I18n](/the-legend-of-wenchang-pavilion.png)
 
 
 

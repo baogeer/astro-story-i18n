@@ -8,7 +8,7 @@ description: "Los tres hermanos Bai Zhu Yang culparon a su hijo pequeño por rob
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
+![AstroPaper I18n](/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
 
 
 

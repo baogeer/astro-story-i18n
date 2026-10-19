@@ -8,7 +8,7 @@ description: "قام إخوة وأخوات بانهي غو بزراعة القر
 
 
 
-![AstroPaper I18n](/public/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
+![AstroPaper I18n](/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
 
 
 

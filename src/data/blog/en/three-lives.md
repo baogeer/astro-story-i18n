@@ -8,7 +8,7 @@ description: "Hu Mu can remember the third generation. He was an examiner in his
 
 
 
-![AstroPaper I18n](/public/three-lives.png)
+![AstroPaper I18n](/three-lives.png)
 
 
 

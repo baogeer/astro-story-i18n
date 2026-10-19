@@ -8,7 +8,7 @@ description: "تحكي هذه القصة قصة أصل اسم المكان يو�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-yuhuangding.png)
+![AstroPaper I18n](/the-origin-of-yuhuangding.png)
 
 
 

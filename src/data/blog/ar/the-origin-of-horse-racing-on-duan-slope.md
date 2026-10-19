@@ -8,7 +8,7 @@ description: "ذات مرة، كان هناك ملك قرية يتمتع بصح�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-horse-racing-on-duan-slope.png)
+![AstroPaper I18n](/the-origin-of-horse-racing-on-duan-slope.png)
 
 
 

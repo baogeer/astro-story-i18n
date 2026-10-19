@@ -8,7 +8,7 @@ description: "Dans sa cinquième génération, Wang Yanzhang, originaire du Shan
 
 
 
-![AstroPaper I18n](/public/the-story-of-wang-the-ferryman.png)
+![AstroPaper I18n](/the-story-of-wang-the-ferryman.png)
 
 
 

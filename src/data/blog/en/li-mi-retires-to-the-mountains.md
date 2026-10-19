@@ -8,7 +8,7 @@ description: "Li Bi helped Tang Suzong to calm the rebellion in Ding'an History,
 
 
 
-![AstroPaper I18n](/public/li-mi-retires-to-the-mountains.png)
+![AstroPaper I18n](/li-mi-retires-to-the-mountains.png)
 
 
 

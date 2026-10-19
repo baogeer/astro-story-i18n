@@ -8,7 +8,7 @@ description: "Белые пионы и фиолетовые пионы с гор
 
 
 
-![AstroPaper I18n](/public/the-story-in-the-peony-garden.png)
+![AstroPaper I18n](/the-story-in-the-peony-garden.png)
 
 
 

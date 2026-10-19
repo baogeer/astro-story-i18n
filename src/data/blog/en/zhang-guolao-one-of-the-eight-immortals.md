@@ -8,7 +8,7 @@ description: "Zhang Guolao claims that he was born in Yao, lived in seclusion, a
 
 
 
-![AstroPaper I18n](/public/zhang-guolao-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhang-guolao-one-of-the-eight-immortals.png)
 
 
 

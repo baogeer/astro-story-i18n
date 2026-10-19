@@ -8,7 +8,7 @@ description: "After the vendor sang with the demon snake, the villagers were afr
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
 
 
 

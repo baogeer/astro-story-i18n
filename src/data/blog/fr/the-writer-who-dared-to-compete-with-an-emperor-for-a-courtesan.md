@@ -8,7 +8,7 @@ description: "Le parolier de Northern Song Zhou Bangyan a osé rivaliser avec So
 
 
 
-![AstroPaper I18n](/public/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
+![AstroPaper I18n](/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
 
 
 

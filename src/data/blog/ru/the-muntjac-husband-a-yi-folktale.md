@@ -8,7 +8,7 @@ description: "Мой жених, Ах Ню, вышел на работу и по
 
 
 
-![AstroPaper I18n](/public/the-muntjac-husband-a-yi-folktale.png)
+![AstroPaper I18n](/the-muntjac-husband-a-yi-folktale.png)
 
 
 

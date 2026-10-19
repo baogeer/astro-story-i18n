@@ -8,7 +8,7 @@ description: "Una chica Dai estaba enamorada de un joven del mismo pueblo. Cuand
 
 
 
-![AstroPaper I18n](/public/why-firewood-stopped-walking.png)
+![AstroPaper I18n](/why-firewood-stopped-walking.png)
 
 
 

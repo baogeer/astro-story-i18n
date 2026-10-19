@@ -8,7 +8,7 @@ description: "Il était une fois un homme de Siber dont la femme est décédée 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-wicked-stepmother.png)
+![AstroPaper I18n](/the-story-of-the-wicked-stepmother.png)
 
 
 

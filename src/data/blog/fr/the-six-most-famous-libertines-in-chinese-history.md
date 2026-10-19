@@ -8,7 +8,7 @@ description: "Les six mercenaires ont eu des fins très différentesxa0: Liu Yon
 
 
 
-![AstroPaper I18n](/public/the-six-most-famous-libertines-in-chinese-history.png)
+![AstroPaper I18n](/the-six-most-famous-libertines-in-chinese-history.png)
 
 
 

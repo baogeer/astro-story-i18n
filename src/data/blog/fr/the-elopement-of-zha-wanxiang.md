@@ -8,7 +8,7 @@ description: "Cha Wan Hsiang et Yang Dinglai, une jeune femme, n'ont eu d'autre 
 
 
 
-![AstroPaper I18n](/public/the-elopement-of-zha-wanxiang.png)
+![AstroPaper I18n](/the-elopement-of-zha-wanxiang.png)
 
 
 

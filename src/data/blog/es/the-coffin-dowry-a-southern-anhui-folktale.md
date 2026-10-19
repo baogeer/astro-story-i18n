@@ -8,7 +8,7 @@ description: "Wang Yuheng, propietario de una tienda de asados en el sur de Anhu
 
 
 
-![AstroPaper I18n](/public/the-coffin-dowry-a-southern-anhui-folktale.png)
+![AstroPaper I18n](/the-coffin-dowry-a-southern-anhui-folktale.png)
 
 
 

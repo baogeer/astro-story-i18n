@@ -8,7 +8,7 @@ description: "كانت الحرارة لا تطاق أثناء بناء بادا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-treasure-bottle-and-the-holy-spring.png)
+![AstroPaper I18n](/the-legend-of-the-treasure-bottle-and-the-holy-spring.png)
 
 
 

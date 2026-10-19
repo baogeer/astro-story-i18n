@@ -8,7 +8,7 @@ description: "Чтобы найти пропавшего отца и пожар,
 
 
 
-![AstroPaper I18n](/public/the-boy-who-searched-for-fire.png)
+![AstroPaper I18n](/the-boy-who-searched-for-fire.png)
 
 
 

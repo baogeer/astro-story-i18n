@@ -8,7 +8,7 @@ description: "أيرونكلاد لي سانغ أساء إلى هاديس بمض
 
 
 
-![AstroPaper I18n](/public/li-san-the-iron-tongued.png)
+![AstroPaper I18n](/li-san-the-iron-tongued.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Après la mort du cheval blanc du berger Su He des suites d'une ma
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-horsehead-fiddle.png)
+![AstroPaper I18n](/the-story-of-the-horsehead-fiddle.png)
 
 
 

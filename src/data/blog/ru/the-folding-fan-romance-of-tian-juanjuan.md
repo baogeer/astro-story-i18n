@@ -8,7 +8,7 @@ description: "Когда Санин Сайко Мумото путешество
 
 
 
-![AstroPaper I18n](/public/the-folding-fan-romance-of-tian-juanjuan.png)
+![AstroPaper I18n](/the-folding-fan-romance-of-tian-juanjuan.png)
 
 
 

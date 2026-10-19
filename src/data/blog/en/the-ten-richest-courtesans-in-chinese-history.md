@@ -8,7 +8,7 @@ description: "This article ranks famous prostitutes such as Sai Jinhua, Liang Ho
 
 
 
-![AstroPaper I18n](/public/the-ten-richest-courtesans-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-richest-courtesans-in-chinese-history.png)
 
 
 

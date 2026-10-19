@@ -8,7 +8,7 @@ description: "Once upon a time, there was a rich owner who was sad all day long,
 
 
 
-![AstroPaper I18n](/public/silver-and-song.png)
+![AstroPaper I18n](/silver-and-song.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сестра Сунь была благословлена знан
 
 
 
-![AstroPaper I18n](/public/sun-yaoniang-s-sacrifice-for-faithful-love.png)
+![AstroPaper I18n](/sun-yaoniang-s-sacrifice-for-faithful-love.png)
 
 
 

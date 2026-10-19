@@ -8,7 +8,7 @@ description: "Panhe Gu's brothers and sisters grew giant gourds. After the flood
 
 
 
-![AstroPaper I18n](/public/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
+![AstroPaper I18n](/pan-and-gu-a-maonan-myth-of-repeopling-the-world.png)
 
 
 

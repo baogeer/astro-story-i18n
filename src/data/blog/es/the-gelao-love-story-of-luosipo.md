@@ -8,7 +8,7 @@ description: "Guo Lu, una huérfana de la tribu Yilao, aprendió a guardar fruta
 
 
 
-![AstroPaper I18n](/public/the-gelao-love-story-of-luosipo.png)
+![AstroPaper I18n](/the-gelao-love-story-of-luosipo.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжан Саньфэн был даосистом во време�
 
 
 
-![AstroPaper I18n](/public/the-real-zhang-sanfeng-miraculously-revived-in-his-coffin.png)
+![AstroPaper I18n](/the-real-zhang-sanfeng-miraculously-revived-in-his-coffin.png)
 
 
 

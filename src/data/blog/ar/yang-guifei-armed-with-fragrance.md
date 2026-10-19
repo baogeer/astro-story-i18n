@@ -8,7 +8,7 @@ description: "التقى تانغ شوانزونغ مع يانغ يوهوان، 
 
 
 
-![AstroPaper I18n](/public/yang-guifei-armed-with-fragrance.png)
+![AstroPaper I18n](/yang-guifei-armed-with-fragrance.png)
 
 
 

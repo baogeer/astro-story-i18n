@@ -8,7 +8,7 @@ description: "Cuando Li Bing se convirtió en funcionario local en el condado de
 
 
 
-![AstroPaper I18n](/public/li-bing-slays-the-river-god.png)
+![AstroPaper I18n](/li-bing-slays-the-river-god.png)
 
 
 

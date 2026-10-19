@@ -8,7 +8,7 @@ description: "В глубоком бассейне к западу от мост
 
 
 
-![AstroPaper I18n](/public/the-eight-duck-pond.png)
+![AstroPaper I18n](/the-eight-duck-pond.png)
 
 
 

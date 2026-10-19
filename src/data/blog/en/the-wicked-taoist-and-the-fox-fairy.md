@@ -8,7 +8,7 @@ description: "Chen Tian was imprisoned while rushing to the exam. He was rescued
 
 
 
-![AstroPaper I18n](/public/the-wicked-taoist-and-the-fox-fairy.png)
+![AstroPaper I18n](/the-wicked-taoist-and-the-fox-fairy.png)
 
 
 

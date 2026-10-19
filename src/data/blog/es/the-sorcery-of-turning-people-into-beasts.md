@@ -8,7 +8,7 @@ description: "En el hotel Yangzhou, una persona trajo cinco burros y luego otras
 
 
 
-![AstroPaper I18n](/public/the-sorcery-of-turning-people-into-beasts.png)
+![AstroPaper I18n](/the-sorcery-of-turning-people-into-beasts.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los burros fueron abandonados en el desierto por sus dueños. Cuan
 
 
 
-![AstroPaper I18n](/public/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
+![AstroPaper I18n](/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
 
 
 

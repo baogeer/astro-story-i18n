@@ -8,7 +8,7 @@ description: "أجبرت الأميرة آجاي من قبل والدها، لي
 
 
 
-![AstroPaper I18n](/public/the-princess-who-drank-peacock-gall.png)
+![AstroPaper I18n](/the-princess-who-drank-peacock-gall.png)
 
 
 

@@ -8,7 +8,7 @@ description: "У Цзэтянь прошла путь от монахини до
 
 
 
-![AstroPaper I18n](/public/wu-zetian-delicate-hands-deadly-deeds.png)
+![AstroPaper I18n](/wu-zetian-delicate-hands-deadly-deeds.png)
 
 
 

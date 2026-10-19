@@ -8,7 +8,7 @@ description: "Tsang Kwok-fan et Tong Tso étaient à l'origine amis, et ils se s
 
 
 
-![AstroPaper I18n](/public/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
+![AstroPaper I18n](/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
 
 
 

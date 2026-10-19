@@ -8,7 +8,7 @@ description: "Battle, un joven mongol, fue llevado por el Soldado Dorado para co
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
+![AstroPaper I18n](/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда Чжан Цзао встретил седовласог
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-rice-mountain.png)
+![AstroPaper I18n](/the-legend-of-white-rice-mountain.png)
 
 
 

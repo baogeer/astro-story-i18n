@@ -8,7 +8,7 @@ description: "Mongolian folklore preserves rich remains of totem mythology. The 
 
 
 
-![AstroPaper I18n](/public/mongolian-folk-legends-totem-myths.png)
+![AstroPaper I18n](/mongolian-folk-legends-totem-myths.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Quand le petit prince est né, le roi était aveugle parce qu'il l
 
 
 
-![AstroPaper I18n](/public/the-prince-who-sought-fairy-s-heart-flower-to-heal-his-father-s-eyes.png)
+![AstroPaper I18n](/the-prince-who-sought-fairy-s-heart-flower-to-heal-his-father-s-eyes.png)
 
 
 

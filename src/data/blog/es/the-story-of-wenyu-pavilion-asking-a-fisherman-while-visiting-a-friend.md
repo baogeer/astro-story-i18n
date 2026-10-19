@@ -8,7 +8,7 @@ description: "Durante los años de Jiajing de la dinastía Ming, Se Xian visitó
 
 
 
-![AstroPaper I18n](/public/the-story-of-wenyu-pavilion-asking-a-fisherman-while-visiting-a-friend.png)
+![AstroPaper I18n](/the-story-of-wenyu-pavilion-asking-a-fisherman-while-visiting-a-friend.png)
 
 
 

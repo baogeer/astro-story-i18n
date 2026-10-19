@@ -8,7 +8,7 @@ description: "Une fille nommée Ran Zi a été ensorcelée par un bel homme fait
 
 
 
-![AstroPaper I18n](/public/the-lustful-centipede-spirit.png)
+![AstroPaper I18n](/the-lustful-centipede-spirit.png)
 
 
 

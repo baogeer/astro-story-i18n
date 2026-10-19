@@ -8,7 +8,7 @@ description: "La familia Zhaimu Dong de Guizhou empacó grandes albóndigas de a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-people-s-linwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dong-people-s-linwang-festival.png)
 
 
 

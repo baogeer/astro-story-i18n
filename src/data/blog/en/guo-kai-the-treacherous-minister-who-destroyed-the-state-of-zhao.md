@@ -8,7 +8,7 @@ description: "Guo Kai was the darling of Zhao Guo's two kings. He relied on Xian
 
 
 
-![AstroPaper I18n](/public/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
+![AstroPaper I18n](/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
 
 
 

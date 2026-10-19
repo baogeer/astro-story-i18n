@@ -8,7 +8,7 @@ description: "Aucun texte de l'histoire n'ayant été fourni, aucun résumé ne 
 
 
 
-![AstroPaper I18n](/public/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
+![AstroPaper I18n](/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
 
 
 

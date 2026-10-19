@@ -8,7 +8,7 @@ description: "تم إرسال تسعة من أبناء الإمبراطور ال
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hou-yi-shooting-down-nine-suns.png)
+![AstroPaper I18n](/the-legend-of-hou-yi-shooting-down-nine-suns.png)
 
 
 

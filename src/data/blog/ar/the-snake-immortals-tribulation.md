@@ -8,7 +8,7 @@ description: "بجانب جبل داغو، تمارس زوجتان من أخوا
 
 
 
-![AstroPaper I18n](/public/the-snake-immortals-tribulation.png)
+![AstroPaper I18n](/the-snake-immortals-tribulation.png)
 
 
 

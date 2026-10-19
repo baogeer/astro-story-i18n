@@ -8,7 +8,7 @@ description: "اشتبهت الجنيات السبع في أن دونغ يونغ
 
 
 
-![AstroPaper I18n](/public/the-seventh-fairy-s-divorce.png)
+![AstroPaper I18n](/the-seventh-fairy-s-divorce.png)
 
 
 

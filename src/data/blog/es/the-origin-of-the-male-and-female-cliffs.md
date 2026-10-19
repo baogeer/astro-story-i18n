@@ -8,7 +8,7 @@ description: "Está el acantilado de Gongmu en la aldea de Changshou, municipio 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-male-and-female-cliffs.png)
+![AstroPaper I18n](/the-origin-of-the-male-and-female-cliffs.png)
 
 
 

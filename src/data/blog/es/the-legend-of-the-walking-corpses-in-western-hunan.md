@@ -8,7 +8,7 @@ description: "Hay muchas montañas y montañas en la parte occidental de la regi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-walking-corpses-in-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-walking-corpses-in-western-hunan.png)
 
 
 

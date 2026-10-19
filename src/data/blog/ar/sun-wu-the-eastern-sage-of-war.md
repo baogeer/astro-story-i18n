@@ -8,7 +8,7 @@ description: "كان سون وو رجلاً عسكريًا خلال فترة ا�
 
 
 
-![AstroPaper I18n](/public/sun-wu-the-eastern-sage-of-war.png)
+![AstroPaper I18n](/sun-wu-the-eastern-sage-of-war.png)
 
 
 

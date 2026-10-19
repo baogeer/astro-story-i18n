@@ -8,7 +8,7 @@ description: "ذات مرة، كان هناك محتال في القرية اع�
 
 
 
-![AstroPaper I18n](/public/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
+![AstroPaper I18n](/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
 
 
 

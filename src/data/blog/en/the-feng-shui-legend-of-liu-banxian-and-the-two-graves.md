@@ -8,7 +8,7 @@ description: "Li Chong first invited Mr. Feng Shui, Liu Banxian, to choose a tre
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
 
 
 

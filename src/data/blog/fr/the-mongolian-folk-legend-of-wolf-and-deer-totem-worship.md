@@ -8,7 +8,7 @@ description: "Les légendes mongoles reflètent le culte des loups et des cerfs 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
 
 
 

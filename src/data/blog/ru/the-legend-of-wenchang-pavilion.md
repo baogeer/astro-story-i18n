@@ -8,7 +8,7 @@ description: "Крестьянин Бао Чжунгуй и мастер Чжо�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wenchang-pavilion.png)
+![AstroPaper I18n](/the-legend-of-wenchang-pavilion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "«Восемь бессмертных» пересекли мор�
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-battle-the-flower-dragon.png)
+![AstroPaper I18n](/the-eight-immortals-battle-the-flower-dragon.png)
 
 
 

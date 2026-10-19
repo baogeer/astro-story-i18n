@@ -8,7 +8,7 @@ description: "لدى الرجل العجوز شياو أربعة أبناء، و
 
 
 
-![AstroPaper I18n](/public/the-father-who-was-nearly-starved-by-his-many-sons.png)
+![AstroPaper I18n](/the-father-who-was-nearly-starved-by-his-many-sons.png)
 
 
 

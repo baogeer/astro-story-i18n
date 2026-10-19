@@ -8,7 +8,7 @@ description: "Ученый Фан Дун пошел за женщиной из-�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-talking-pupils.png)
+![AstroPaper I18n](/the-tale-of-the-talking-pupils.png)
 
 
 

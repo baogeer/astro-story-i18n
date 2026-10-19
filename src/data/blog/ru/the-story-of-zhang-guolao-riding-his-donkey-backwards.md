@@ -8,7 +8,7 @@ description: "Чжан Голао ехал по ослиной дороге, к�
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
+![AstroPaper I18n](/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Али и сестра Али слишком любили свое
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-burning-island.png)
+![AstroPaper I18n](/the-legend-of-the-burning-island.png)
 
 
 

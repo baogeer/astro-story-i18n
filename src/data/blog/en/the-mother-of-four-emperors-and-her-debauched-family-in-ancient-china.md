@@ -8,7 +8,7 @@ description: "Empress Dowager Lou of Northern Qi gave birth to four emperors, Ga
 
 
 
-![AstroPaper I18n](/public/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
+![AstroPaper I18n](/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В таких местах, как Юньлинь и Цзяи на
 
 
 
-![AstroPaper I18n](/public/the-legend-of-emperors-traveling-incognito.png)
+![AstroPaper I18n](/the-legend-of-emperors-traveling-incognito.png)
 
 
 

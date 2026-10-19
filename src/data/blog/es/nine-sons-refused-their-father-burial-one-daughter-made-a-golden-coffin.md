@@ -8,7 +8,7 @@ description: "Xiong Wanfu sospechaba que originalmente era madre e hija, y que s
 
 
 
-![AstroPaper I18n](/public/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
+![AstroPaper I18n](/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
 
 
 

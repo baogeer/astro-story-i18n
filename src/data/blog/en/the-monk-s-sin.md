@@ -8,7 +8,7 @@ description: "After the violent death of a person surnamed Zhang, the devil caug
 
 
 
-![AstroPaper I18n](/public/the-monk-s-sin.png)
+![AstroPaper I18n](/the-monk-s-sin.png)
 
 
 

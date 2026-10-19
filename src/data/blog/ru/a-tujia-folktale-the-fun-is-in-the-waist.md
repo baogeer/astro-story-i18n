@@ -8,7 +8,7 @@ description: "Шер, дочь казначея из провинции Сина
 
 
 
-![AstroPaper I18n](/public/a-tujia-folktale-the-fun-is-in-the-waist.png)
+![AstroPaper I18n](/a-tujia-folktale-the-fun-is-in-the-waist.png)
 
 
 

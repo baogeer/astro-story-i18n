@@ -8,7 +8,7 @@ description: "Gao Fengqi fue a Guangzhou para hacer una fortuna vendiendo peoní
 
 
 
-![AstroPaper I18n](/public/squire-gao-suns-his-silver-ingots.png)
+![AstroPaper I18n](/squire-gao-suns-his-silver-ingots.png)
 
 
 

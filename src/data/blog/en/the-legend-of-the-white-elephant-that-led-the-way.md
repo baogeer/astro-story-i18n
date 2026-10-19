@@ -8,7 +8,7 @@ description: "When the ancestors of the Dai tribe migrated from Jinggu, they wor
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-elephant-that-led-the-way.png)
+![AstroPaper I18n](/the-legend-of-the-white-elephant-that-led-the-way.png)
 
 
 

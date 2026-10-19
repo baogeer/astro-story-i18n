@@ -8,7 +8,7 @@ description: "Gore y Carrie buscaban tesoros para la gente. Bajo la dirección d
 
 
 
-![AstroPaper I18n](/public/the-treasure-of-purple-cloud-cave.png)
+![AstroPaper I18n](/the-treasure-of-purple-cloud-cave.png)
 
 
 

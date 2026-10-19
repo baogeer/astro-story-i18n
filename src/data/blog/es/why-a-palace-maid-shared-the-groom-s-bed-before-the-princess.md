@@ -8,7 +8,7 @@ description: "Para garantizar que las princesas tuvieran un matrimonio feliz, la
 
 
 
-![AstroPaper I18n](/public/why-a-palace-maid-shared-the-groom-s-bed-before-the-princess.png)
+![AstroPaper I18n](/why-a-palace-maid-shared-the-groom-s-bed-before-the-princess.png)
 
 
 

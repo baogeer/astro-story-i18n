@@ -8,7 +8,7 @@ description: "ذات مرة، كانت فينيكس ترتدي ملابس طبي
 
 
 
-![AstroPaper I18n](/public/how-the-phoenix-became-king-of-the-birds.png)
+![AstroPaper I18n](/how-the-phoenix-became-king-of-the-birds.png)
 
 
 

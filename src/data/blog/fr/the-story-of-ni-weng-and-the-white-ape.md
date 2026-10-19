@@ -8,7 +8,7 @@ description: "Quand Ni Weng l'a lu la nuit, le singe blanc mill√©naire a cherch√
 
 
 
-![AstroPaper I18n](/public/the-story-of-ni-weng-and-the-white-ape.png)
+![AstroPaper I18n](/the-story-of-ni-weng-and-the-white-ape.png)
 
 
 

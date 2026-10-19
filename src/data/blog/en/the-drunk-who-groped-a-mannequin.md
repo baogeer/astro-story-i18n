@@ -8,7 +8,7 @@ description: "Da Li and Da Liu made a bet after drinking. Da Li went to touch th
 
 
 
-![AstroPaper I18n](/public/the-drunk-who-groped-a-mannequin.png)
+![AstroPaper I18n](/the-drunk-who-groped-a-mannequin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "On her wedding night, Meng Jiang's wife and Wan Xiliang's husband 
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-topples-the-great-wall-with-tears.png)
+![AstroPaper I18n](/meng-jiangnu-topples-the-great-wall-with-tears.png)
 
 
 

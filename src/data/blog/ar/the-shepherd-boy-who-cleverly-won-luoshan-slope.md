@@ -8,7 +8,7 @@ description: "سرق الراعي بيضة في عيون كوان وخدع ال�
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
+![AstroPaper I18n](/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
 
 
 

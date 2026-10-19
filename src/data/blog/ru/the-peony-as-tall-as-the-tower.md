@@ -8,7 +8,7 @@ description: "Император Суй Ян не мог четко видеть
 
 
 
-![AstroPaper I18n](/public/the-peony-as-tall-as-the-tower.png)
+![AstroPaper I18n](/the-peony-as-tall-as-the-tower.png)
 
 
 

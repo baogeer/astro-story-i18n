@@ -8,7 +8,7 @@ description: "El rey Swan protegió el país y el ministro Miao Rong fue secuest
 
 
 
-![AstroPaper I18n](/public/the-swan-minister.png)
+![AstroPaper I18n](/the-swan-minister.png)
 
 
 

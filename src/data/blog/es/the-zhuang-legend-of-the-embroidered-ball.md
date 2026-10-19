@@ -8,7 +8,7 @@ description: "Ah Xiu, de la familia Zhuang, se enamora del abuelo, y Evil Shao i
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-embroidered-ball.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-embroidered-ball.png)
 
 
 

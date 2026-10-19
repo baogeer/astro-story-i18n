@@ -8,7 +8,7 @@ description: "There is Gongmu Cliff in Changshou Village, Fuheng Township, Yangy
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-male-and-female-cliffs.png)
+![AstroPaper I18n](/the-origin-of-the-male-and-female-cliffs.png)
 
 
 

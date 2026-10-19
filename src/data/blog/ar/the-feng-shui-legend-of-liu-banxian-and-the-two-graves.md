@@ -8,7 +8,7 @@ description: "دعا لي تشونغ أولاً السيد فنغ شوي، لي�
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-liu-banxian-and-the-two-graves.png)
 
 
 

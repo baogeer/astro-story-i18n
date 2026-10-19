@@ -8,7 +8,7 @@ description: "Selon le folklore mongol, le chasseur a chassé la louve, a sauvé
 
 
 
-![AstroPaper I18n](/public/the-mongolian-legend-of-the-wolf-totem.png)
+![AstroPaper I18n](/the-mongolian-legend-of-the-wolf-totem.png)
 
 
 

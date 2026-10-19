@@ -8,7 +8,7 @@ description: "Dans les trois textes différents, le vacher, la deuxième école 
 
 
 
-![AstroPaper I18n](/public/three-variants-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/three-variants-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

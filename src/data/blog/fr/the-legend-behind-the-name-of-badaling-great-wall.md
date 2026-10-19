@@ -8,7 +8,7 @@ description: "L'origine du nom Badaling se trouve dans de nombreuses légendes f
 
 
 
-![AstroPaper I18n](/public/the-legend-behind-the-name-of-badaling-great-wall.png)
+![AstroPaper I18n](/the-legend-behind-the-name-of-badaling-great-wall.png)
 
 
 

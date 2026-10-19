@@ -8,7 +8,7 @@ description: "Юный Лю Цзюньшэн, несмотря на дождь, 
 
 
 
-![AstroPaper I18n](/public/the-green-peony-fairy.png)
+![AstroPaper I18n](/the-green-peony-fairy.png)
 
 
 

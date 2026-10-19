@@ -8,7 +8,7 @@ description: "In the 70s of the last century, villagers along the Yellow River u
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-dragon-coffin.png)
+![AstroPaper I18n](/the-yellow-river-dragon-coffin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Munemoto colgó a Agutomba bajo un puente, lo que hizo que el malv
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
+![AstroPaper I18n](/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
 
 
 

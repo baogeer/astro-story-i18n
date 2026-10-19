@@ -8,7 +8,7 @@ description: "Le détective Yang Xin a enquêté sur le suicide du professeur de
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-the-suicide.png)
+![AstroPaper I18n](/the-truth-behind-the-suicide.png)
 
 
 

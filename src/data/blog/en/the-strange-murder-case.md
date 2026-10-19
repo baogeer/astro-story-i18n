@@ -8,7 +8,7 @@ description: "Financial manager Wang Nanyan impulsively spent 60,000 yuan to hir
 
 
 
-![AstroPaper I18n](/public/the-strange-murder-case.png)
+![AstroPaper I18n](/the-strange-murder-case.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في عهد أسرة تانغ، زار كوي شنغ طبيبًا�
 
 
 
-![AstroPaper I18n](/public/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
+![AstroPaper I18n](/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Para deshacerse del rey demonio que roba vacas y caballos, Ani, un
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-evil-exterminating-festival.png)
+![AstroPaper I18n](/the-miao-legend-of-the-evil-exterminating-festival.png)
 
 
 

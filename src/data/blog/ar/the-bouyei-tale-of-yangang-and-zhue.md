@@ -8,7 +8,7 @@ description: "أُجبرت Zhu'e على القفز في النهر وحمل قو
 
 
 
-![AstroPaper I18n](/public/the-bouyei-tale-of-yangang-and-zhue.png)
+![AstroPaper I18n](/the-bouyei-tale-of-yangang-and-zhue.png)
 
 
 

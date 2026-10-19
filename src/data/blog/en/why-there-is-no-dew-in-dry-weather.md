@@ -8,7 +8,7 @@ description: "In the past, there was dew regardless of droughts or floods. Later
 
 
 
-![AstroPaper I18n](/public/why-there-is-no-dew-in-dry-weather.png)
+![AstroPaper I18n](/why-there-is-no-dew-in-dry-weather.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ло Ланьцзяо — умная и остроумная ту�
 
 
 
-![AstroPaper I18n](/public/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
+![AstroPaper I18n](/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
 
 
 

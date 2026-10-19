@@ -8,7 +8,7 @@ description: "В конце правления династии Тан Ван Я
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-the-ferryman.png)
+![AstroPaper I18n](/the-legend-of-wang-the-ferryman.png)
 
 
 

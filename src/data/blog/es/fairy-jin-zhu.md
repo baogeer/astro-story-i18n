@@ -8,7 +8,7 @@ description: "El Hada Dorada del Baht llegó y estaba obsesionado con Duan Duan 
 
 
 
-![AstroPaper I18n](/public/fairy-jin-zhu.png)
+![AstroPaper I18n](/fairy-jin-zhu.png)
 
 
 

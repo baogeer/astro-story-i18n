@@ -8,7 +8,7 @@ description: "Xiao Nu, une fille de l'ethnie Dong, est amoureuse de Changgong Mu
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-dong-people-s-dageliang-singing-and-dancing-festival.png)
+![AstroPaper I18n](/the-origin-of-the-dong-people-s-dageliang-singing-and-dancing-festival.png)
 
 
 

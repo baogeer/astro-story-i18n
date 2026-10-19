@@ -8,7 +8,7 @@ description: "Фестиваль птиц в Яо связан с серьезн
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-bird-scaring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-bird-scaring-festival.png)
 
 
 

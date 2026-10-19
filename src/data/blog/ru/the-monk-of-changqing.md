@@ -8,7 +8,7 @@ description: "Старый монах углубился в свой путь. �
 
 
 
-![AstroPaper I18n](/public/the-monk-of-changqing.png)
+![AstroPaper I18n](/the-monk-of-changqing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Mei Duolingzi, la presuntuosa concubina de King's Ridge en Cha Ron
 
 
 
-![AstroPaper I18n](/public/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
+![AstroPaper I18n](/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
 
 
 

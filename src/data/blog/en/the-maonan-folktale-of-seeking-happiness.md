@@ -8,7 +8,7 @@ description: "In search of happiness, the young man Lemmy traveled thousands of 
 
 
 
-![AstroPaper I18n](/public/the-maonan-folktale-of-seeking-happiness.png)
+![AstroPaper I18n](/the-maonan-folktale-of-seeking-happiness.png)
 
 
 

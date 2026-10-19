@@ -8,7 +8,7 @@ description: "Yang Yuhuan a été élue au palais parce que sa ville natale lui 
 
 
 
-![AstroPaper I18n](/public/the-beauty-who-shamed-the-flowers.png)
+![AstroPaper I18n](/the-beauty-who-shamed-the-flowers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Император Джейд увидел, как старший 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-great-wall-passes.png)
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
 
 
 

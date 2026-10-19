@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن شاي Longjing نشأ من فنج�
 
 
 
-![AstroPaper I18n](/public/the-legend-and-development-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-and-development-of-dragon-well-tea.png)
 
 
 

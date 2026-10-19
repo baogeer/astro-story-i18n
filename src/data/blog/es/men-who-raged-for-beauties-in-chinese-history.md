@@ -8,7 +8,7 @@ description: "Wang Weiwei mató airadamente a su consejero, lo que finalmente ll
 
 
 
-![AstroPaper I18n](/public/men-who-raged-for-beauties-in-chinese-history.png)
+![AstroPaper I18n](/men-who-raged-for-beauties-in-chinese-history.png)
 
 
 

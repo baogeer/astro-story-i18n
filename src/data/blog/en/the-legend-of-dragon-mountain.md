@@ -8,7 +8,7 @@ description: "Little Black Dragon acted evil after taking charge of the Xue Rive
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-mountain.png)
+![AstroPaper I18n](/the-legend-of-dragon-mountain.png)
 
 
 

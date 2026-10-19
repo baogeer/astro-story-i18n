@@ -8,7 +8,7 @@ description: "Qinglong was originally a bodyguard at the Dragon Palace in the Ea
 
 
 
-![AstroPaper I18n](/public/the-azure-stone-dragon.png)
+![AstroPaper I18n](/the-azure-stone-dragon.png)
 
 
 

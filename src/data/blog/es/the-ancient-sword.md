@@ -8,7 +8,7 @@ description: "El joven espadachín practicó con ahínco sus habilidades con la 
 
 
 
-![AstroPaper I18n](/public/the-ancient-sword.png)
+![AstroPaper I18n](/the-ancient-sword.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Главный министр ложно обвинил шеф-п�
 
 
 
-![AstroPaper I18n](/public/the-cook-zhaxi-wangdui-grows-pearls.png)
+![AstroPaper I18n](/the-cook-zhaxi-wangdui-grows-pearls.png)
 
 
 

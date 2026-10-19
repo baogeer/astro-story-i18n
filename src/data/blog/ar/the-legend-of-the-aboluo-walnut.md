@@ -8,7 +8,7 @@ description: "آه باو تعاني من مرض غريب. وفقًا لوصية
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-aboluo-walnut.png)
+![AstroPaper I18n](/the-legend-of-the-aboluo-walnut.png)
 
 
 

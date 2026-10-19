@@ -8,7 +8,7 @@ description: "Ван Чжаоцзюнь был вынужден снова же�
 
 
 
-![AstroPaper I18n](/public/one-mouth-breaks-through-the-border-pass.png)
+![AstroPaper I18n](/one-mouth-breaks-through-the-border-pass.png)
 
 
 

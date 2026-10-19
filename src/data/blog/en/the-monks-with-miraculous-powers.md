@@ -8,7 +8,7 @@ description: "The two western monks had a strange appearance and were initially 
 
 
 
-![AstroPaper I18n](/public/the-monks-with-miraculous-powers.png)
+![AstroPaper I18n](/the-monks-with-miraculous-powers.png)
 
 
 

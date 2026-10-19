@@ -8,7 +8,7 @@ description: "Un marchand de vaches a fait sortir la vache du temple et a soupir
 
 
 
-![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
 
 
 

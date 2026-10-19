@@ -8,7 +8,7 @@ description: "A girl named Ran Zi was bewitched by a beautiful man made out of w
 
 
 
-![AstroPaper I18n](/public/the-lustful-centipede-spirit.png)
+![AstroPaper I18n](/the-lustful-centipede-spirit.png)
 
 
 

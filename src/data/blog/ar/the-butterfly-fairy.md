@@ -8,7 +8,7 @@ description: "بسبب والدتها الجميلة، تم تخفيض رتبت�
 
 
 
-![AstroPaper I18n](/public/the-butterfly-fairy.png)
+![AstroPaper I18n](/the-butterfly-fairy.png)
 
 
 

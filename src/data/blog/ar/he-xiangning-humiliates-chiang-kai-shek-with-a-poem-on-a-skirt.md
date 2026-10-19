@@ -8,7 +8,7 @@ description: "في عام 1935، ولأن شيانغ كاي شيك لم يقاو
 
 
 
-![AstroPaper I18n](/public/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
+![AstroPaper I18n](/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
 
 
 

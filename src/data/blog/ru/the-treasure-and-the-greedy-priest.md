@@ -8,7 +8,7 @@ description: "Копая могилу, старик случайно нашел 
 
 
 
-![AstroPaper I18n](/public/the-treasure-and-the-greedy-priest.png)
+![AstroPaper I18n](/the-treasure-and-the-greedy-priest.png)
 
 
 

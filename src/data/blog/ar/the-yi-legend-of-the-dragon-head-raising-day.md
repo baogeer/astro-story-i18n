@@ -8,7 +8,7 @@ description: "حظر إمبراطور اليشم المطر لمدة ثلاث س
 
 
 
-![AstroPaper I18n](/public/the-yi-legend-of-the-dragon-head-raising-day.png)
+![AstroPaper I18n](/the-yi-legend-of-the-dragon-head-raising-day.png)
 
 
 

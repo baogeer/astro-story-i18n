@@ -8,7 +8,7 @@ description: "Una anciana conoció a su hijo fallecido en la calle Yin Yang. El 
 
 
 
-![AstroPaper I18n](/public/the-heartless-dead-son-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-heartless-dead-son-a-yangbi-yi-folktale.png)
 
 
 

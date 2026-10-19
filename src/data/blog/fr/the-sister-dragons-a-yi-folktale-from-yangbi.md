@@ -8,7 +8,7 @@ description: "Les trois sœurs dragons de Shi Ping sont en vie. La sœur aînée
 
 
 
-![AstroPaper I18n](/public/the-sister-dragons-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-sister-dragons-a-yi-folktale-from-yangbi.png)
 
 
 

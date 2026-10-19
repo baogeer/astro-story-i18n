@@ -8,7 +8,7 @@ description: "Yang Chunsheng hirió al padre de Zuo Wenwei en el cobro de deudas
 
 
 
-![AstroPaper I18n](/public/giving-silver-to-the-man-who-beat-his-father.png)
+![AstroPaper I18n](/giving-silver-to-the-man-who-beat-his-father.png)
 
 
 

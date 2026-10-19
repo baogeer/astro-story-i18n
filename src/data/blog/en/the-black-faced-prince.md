@@ -8,7 +8,7 @@ description: "Prince of Savalon, went far away in search of a concubine wearing 
 
 
 
-![AstroPaper I18n](/public/the-black-faced-prince.png)
+![AstroPaper I18n](/the-black-faced-prince.png)
 
 
 

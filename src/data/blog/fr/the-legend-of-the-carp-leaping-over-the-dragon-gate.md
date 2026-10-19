@@ -8,7 +8,7 @@ description: "Il y a longtemps, le mont Longmen a bloqué Yishui, mais les carpe
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-leaping-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-legend-of-the-carp-leaping-over-the-dragon-gate.png)
 
 
 

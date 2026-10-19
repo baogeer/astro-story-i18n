@@ -8,7 +8,7 @@ description: "Молодой человек по имени Тан Ди в Ба�
 
 
 
-![AstroPaper I18n](/public/the-coincidence-of-two-dreams.png)
+![AstroPaper I18n](/the-coincidence-of-two-dreams.png)
 
 
 

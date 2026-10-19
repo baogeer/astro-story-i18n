@@ -8,7 +8,7 @@ description: "يتمتع Zhu Geliang بمزايا ومقالات. إنه تجس�
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-both-human-and-divine.png)
+![AstroPaper I18n](/zhuge-liang-both-human-and-divine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los fideos hechos a mano de Jinyun se llamaron «fideos refrescant
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-refreshing-noodles.png)
+![AstroPaper I18n](/the-legend-of-jinyun-refreshing-noodles.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Jiu a abattu un grand camphrier dans la lune. Chaque fois qu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
+![AstroPaper I18n](/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
 
 
 

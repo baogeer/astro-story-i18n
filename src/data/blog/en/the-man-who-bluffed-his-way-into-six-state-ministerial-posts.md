@@ -8,7 +8,7 @@ description: "Su Qin came from a farmhouse, learned the art of vertical and hori
 
 
 
-![AstroPaper I18n](/public/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
+![AstroPaper I18n](/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
 
 
 

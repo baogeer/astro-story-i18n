@@ -8,7 +8,7 @@ description: "At the time of Emperor Han Wen, the famous doctor Chun intended to
 
 
 
-![AstroPaper I18n](/public/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
+![AstroPaper I18n](/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
 
 
 

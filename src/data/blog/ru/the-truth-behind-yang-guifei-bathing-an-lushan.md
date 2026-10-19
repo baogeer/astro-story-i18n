@@ -8,7 +8,7 @@ description: "Ян Гуйфэй признала Ань Лушаня своим 
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-bathing-an-lushan.png)
 
 
 

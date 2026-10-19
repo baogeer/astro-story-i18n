@@ -8,7 +8,7 @@ description: "Tang dynasty pop prostitute Hong Hong was famous for her singing v
 
 
 
-![AstroPaper I18n](/public/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
+![AstroPaper I18n](/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
 
 
 

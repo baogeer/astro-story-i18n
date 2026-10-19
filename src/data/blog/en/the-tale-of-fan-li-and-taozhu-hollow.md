@@ -8,7 +8,7 @@ description: "During the spring and autumn period, Fan Li resigned into seclusio
 
 
 
-![AstroPaper I18n](/public/the-tale-of-fan-li-and-taozhu-hollow.png)
+![AstroPaper I18n](/the-tale-of-fan-li-and-taozhu-hollow.png)
 
 
 

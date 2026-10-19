@@ -8,7 +8,7 @@ description: "El acosado Li Sang ofendió a Hades acosándolo. Hades envió un f
 
 
 
-![AstroPaper I18n](/public/li-san-the-iron-tongued.png)
+![AstroPaper I18n](/li-san-the-iron-tongued.png)
 
 
 

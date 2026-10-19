@@ -8,7 +8,7 @@ description: "يبيع المواطنون الكمثرى في البازار و�
 
 
 
-![AstroPaper I18n](/public/the-pear-planting-taoist.png)
+![AstroPaper I18n](/the-pear-planting-taoist.png)
 
 
 

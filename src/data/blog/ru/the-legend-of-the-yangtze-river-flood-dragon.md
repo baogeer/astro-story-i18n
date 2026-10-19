@@ -8,7 +8,7 @@ description: "В легенде о реке Янцзы, «гуляющей цз�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-flood-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-flood-dragon.png)
 
 
 

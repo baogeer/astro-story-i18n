@@ -8,7 +8,7 @@ description: "Mrs. Li Jing gave birth to a paw, split it apart, and was gifted w
 
 
 
-![AstroPaper I18n](/public/the-story-of-nezha-s-havoc-in-the-sea.png)
+![AstroPaper I18n](/the-story-of-nezha-s-havoc-in-the-sea.png)
 
 
 

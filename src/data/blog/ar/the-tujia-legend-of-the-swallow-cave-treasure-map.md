@@ -8,7 +8,7 @@ description: "في عام 1938، قتل الكومينتانغ أشخاصًا ب
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
+![AstroPaper I18n](/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
 
 
 

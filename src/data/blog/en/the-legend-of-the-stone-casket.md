@@ -8,7 +8,7 @@ description: "When Tang Wang and Li Shimin sacrificed their ancestors at Laozi T
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-stone-casket.png)
+![AstroPaper I18n](/the-legend-of-the-stone-casket.png)
 
 
 

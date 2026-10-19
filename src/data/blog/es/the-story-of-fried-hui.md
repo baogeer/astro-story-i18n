@@ -8,7 +8,7 @@ description: "La gente de Lin'an, Southern Song, odiaba a Qin Hui y dañaba a Yu
 
 
 
-![AstroPaper I18n](/public/the-story-of-fried-hui.png)
+![AstroPaper I18n](/the-story-of-fried-hui.png)
 
 
 

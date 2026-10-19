@@ -8,7 +8,7 @@ description: "Tang Jiwu didn't listen to the Taoist's dissuasion. He hit the red
 
 
 
-![AstroPaper I18n](/public/the-hail-god-li-zuoche.png)
+![AstroPaper I18n](/the-hail-god-li-zuoche.png)
 
 
 

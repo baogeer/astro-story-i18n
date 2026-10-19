@@ -8,7 +8,7 @@ description: "Érase una vez, para recuperar el Sol y la Luna, que habían sido 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake.png)
 
 
 

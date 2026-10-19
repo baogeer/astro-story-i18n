@@ -8,7 +8,7 @@ description: "When Luo Xiaocai's mother died, he was humiliated by the bully Zuo
 
 
 
-![AstroPaper I18n](/public/luo-xiaocai-sues-the-bully-zuo-huchao.png)
+![AstroPaper I18n](/luo-xiaocai-sues-the-bully-zuo-huchao.png)
 
 
 

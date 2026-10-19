@@ -8,7 +8,7 @@ description: "Mouse parents are looking for the strongest husband in the world f
 
 
 
-![AstroPaper I18n](/public/the-mouse-s-wedding.png)
+![AstroPaper I18n](/the-mouse-s-wedding.png)
 
 
 

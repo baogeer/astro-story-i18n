@@ -8,7 +8,7 @@ description: "Luo Lanjiao هي امرأة ذكية وذكية من Tujia. عند
 
 
 
-![AstroPaper I18n](/public/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
+![AstroPaper I18n](/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
 
 
 

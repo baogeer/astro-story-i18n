@@ -8,7 +8,7 @@ description: "When the poor mother and son were cutting grass, Yang Yi dug up a 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-magic-jar.png)
+![AstroPaper I18n](/the-legend-of-the-magic-jar.png)
 
 
 

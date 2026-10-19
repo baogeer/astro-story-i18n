@@ -8,7 +8,7 @@ description: "ولد شانغوان وانر موظفًا مدنيًا. بسبب
 
 
 
-![AstroPaper I18n](/public/shangguan-wan-er-a-licentious-woman-who-dared-to-dally-with-four-brothers.png)
+![AstroPaper I18n](/shangguan-wan-er-a-licentious-woman-who-dared-to-dally-with-four-brothers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The girl from Meishan is a hunter from Tujia in Xiangxi. She is fl
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
 
 
 

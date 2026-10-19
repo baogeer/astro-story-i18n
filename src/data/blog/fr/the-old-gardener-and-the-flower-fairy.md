@@ -8,7 +8,7 @@ description: "Pendant la dynastie Song, les anciens fermiers du village de Chang
 
 
 
-![AstroPaper I18n](/public/the-old-gardener-and-the-flower-fairy.png)
+![AstroPaper I18n](/the-old-gardener-and-the-flower-fairy.png)
 
 
 

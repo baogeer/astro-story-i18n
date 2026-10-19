@@ -8,7 +8,7 @@ description: "Baek Su-jeong and Xu Xiancheng got married to help the world. At D
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-white-snake.png)
+![AstroPaper I18n](/the-legend-of-lady-white-snake.png)
 
 
 

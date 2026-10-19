@@ -8,7 +8,7 @@ description: "Броненосец Ли Санг оскорбил Аида, за
 
 
 
-![AstroPaper I18n](/public/li-san-the-iron-tongued.png)
+![AstroPaper I18n](/li-san-the-iron-tongued.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В древние времена принцесса Цзинь Ш�
 
 
 
-![AstroPaper I18n](/public/the-foolish-son-in-law.png)
+![AstroPaper I18n](/the-foolish-son-in-law.png)
 
 
 

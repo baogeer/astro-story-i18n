@@ -8,7 +8,7 @@ description: "ترتبط أسطورة إبادة الجثث من شيانغشي 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiangxi-corpse-driving.png)
+![AstroPaper I18n](/the-legend-of-xiangxi-corpse-driving.png)
 
 
 

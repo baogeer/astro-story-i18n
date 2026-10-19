@@ -8,7 +8,7 @@ description: "Дочь императора Яна отправилась на �
 
 
 
-![AstroPaper I18n](/public/the-story-of-jingwei-filling-the-sea.png)
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
 
 
 

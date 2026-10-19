@@ -8,7 +8,7 @@ description: "Jia Sidao, the traitor from the Southern Song Dynasty, relied on t
 
 
 
-![AstroPaper I18n](/public/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
+![AstroPaper I18n](/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
 
 
 

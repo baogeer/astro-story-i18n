@@ -8,7 +8,7 @@ description: "After losing her son, her husband Liu Zhaogen took care of her sec
 
 
 
-![AstroPaper I18n](/public/who-can-save-her.png)
+![AstroPaper I18n](/who-can-save-her.png)
 
 
 

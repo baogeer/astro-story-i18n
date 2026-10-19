@@ -8,7 +8,7 @@ description: "Mientras cavaba una tumba, el anciano encontró accidentalmente un
 
 
 
-![AstroPaper I18n](/public/the-treasure-and-the-greedy-priest.png)
+![AstroPaper I18n](/the-treasure-and-the-greedy-priest.png)
 
 
 

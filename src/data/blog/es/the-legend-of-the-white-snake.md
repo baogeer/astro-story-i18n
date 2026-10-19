@@ -8,7 +8,7 @@ description: "Bai Su-jeong, que se convirtió en una serpiente blanca, viajó al
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake.png)
 
 
 

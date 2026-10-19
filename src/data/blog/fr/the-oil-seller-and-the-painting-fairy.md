@@ -8,7 +8,7 @@ description: "Ils vendent des poupées à huile pour acheter des photos de belle
 
 
 
-![AstroPaper I18n](/public/the-oil-seller-and-the-painting-fairy.png)
+![AstroPaper I18n](/the-oil-seller-and-the-painting-fairy.png)
 
 
 

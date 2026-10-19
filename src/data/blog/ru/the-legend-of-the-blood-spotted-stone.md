@@ -8,7 +8,7 @@ description: "На северном склоне Бадалина есть кр�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-blood-spotted-stone.png)
+![AstroPaper I18n](/the-legend-of-the-blood-spotted-stone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "افتتح تشانغ الحانة بصدق وعالج روح ال
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-seeks-revenge.png)
+![AstroPaper I18n](/the-dragon-king-seeks-revenge.png)
 
 
 

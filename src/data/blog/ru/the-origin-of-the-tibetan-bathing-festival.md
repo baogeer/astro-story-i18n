@@ -8,7 +8,7 @@ description: "После смерти знаменитого тибетског�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-tibetan-bathing-festival.png)
+![AstroPaper I18n](/the-origin-of-the-tibetan-bathing-festival.png)
 
 
 

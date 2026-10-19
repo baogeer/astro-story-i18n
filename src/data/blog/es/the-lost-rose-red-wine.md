@@ -8,7 +8,7 @@ description: "Para vengar a su padre, Mei Niang rompió las reglas de la familia
 
 
 
-![AstroPaper I18n](/public/the-lost-rose-red-wine.png)
+![AstroPaper I18n](/the-lost-rose-red-wine.png)
 
 
 

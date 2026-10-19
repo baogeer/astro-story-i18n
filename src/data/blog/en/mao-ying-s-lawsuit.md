@@ -8,7 +8,7 @@ description: "Wu Shuji, a wealthy businessman from Teng County in the late Qing 
 
 
 
-![AstroPaper I18n](/public/mao-ying-s-lawsuit.png)
+![AstroPaper I18n](/mao-ying-s-lawsuit.png)
 
 
 

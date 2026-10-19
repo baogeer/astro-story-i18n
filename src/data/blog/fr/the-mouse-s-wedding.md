@@ -8,7 +8,7 @@ description: "Les parents de souris recherchent le mari le plus fort du monde po
 
 
 
-![AstroPaper I18n](/public/the-mouse-s-wedding.png)
+![AstroPaper I18n](/the-mouse-s-wedding.png)
 
 
 

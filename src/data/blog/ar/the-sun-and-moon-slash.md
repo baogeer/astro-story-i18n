@@ -8,7 +8,7 @@ description: "يحتوي النص الرئيسي لقصة «Sun and Moon Slash»
 
 
 
-![AstroPaper I18n](/public/the-sun-and-moon-slash.png)
+![AstroPaper I18n](/the-sun-and-moon-slash.png)
 
 
 

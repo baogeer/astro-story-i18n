@@ -8,7 +8,7 @@ description: "The Three Madonna fell in love with the mortal Liu Yanchang. They 
 
 
 
-![AstroPaper I18n](/public/the-magic-lotus-lantern.png)
+![AstroPaper I18n](/the-magic-lotus-lantern.png)
 
 
 

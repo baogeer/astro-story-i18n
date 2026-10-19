@@ -8,7 +8,7 @@ description: "Le kun de l'opéra de Pékin, Meng Xiaodong, possède à la fois d
 
 
 
-![AstroPaper I18n](/public/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
+![AstroPaper I18n](/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La montaña Fushan es una montaña ligera que brotó cuando el cre
 
 
 
-![AstroPaper I18n](/public/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
+![AstroPaper I18n](/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
 
 
 

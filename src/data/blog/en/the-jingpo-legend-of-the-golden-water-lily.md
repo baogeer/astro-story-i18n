@@ -8,7 +8,7 @@ description: "The poor orphan called Kaima flute encouraged the golden water lil
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-golden-water-lily.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-golden-water-lily.png)
 
 
 

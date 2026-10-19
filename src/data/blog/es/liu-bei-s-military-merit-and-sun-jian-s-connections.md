@@ -8,7 +8,7 @@ description: "Liu Bei y Sun Jian sitiaron los Pañuelos Amarillos en Wancheng ba
 
 
 
-![AstroPaper I18n](/public/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
+![AstroPaper I18n](/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
 
 
 

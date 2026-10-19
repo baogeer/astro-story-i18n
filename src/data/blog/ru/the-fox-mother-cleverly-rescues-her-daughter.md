@@ -8,7 +8,7 @@ description: "Орион Хуан Лаохан поймал Маленькую �
 
 
 
-![AstroPaper I18n](/public/the-fox-mother-cleverly-rescues-her-daughter.png)
+![AstroPaper I18n](/the-fox-mother-cleverly-rescues-her-daughter.png)
 
 
 

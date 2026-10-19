@@ -8,7 +8,7 @@ description: "«Бабушкина дочь Рок, дядя Цзяо Янь» �
 
 
 
-![AstroPaper I18n](/public/the-mother-in-law-and-daughter-in-law-rocks-and-the-brother-s-sedan-rock.png)
+![AstroPaper I18n](/the-mother-in-law-and-daughter-in-law-rocks-and-the-brother-s-sedan-rock.png)
 
 
 

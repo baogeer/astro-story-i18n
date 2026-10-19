@@ -8,7 +8,7 @@ description: "In the Ming dynasty, Singles' Village came to take the fur of a th
 
 
 
-![AstroPaper I18n](/public/the-fox-women-of-bachelor-village.png)
+![AstroPaper I18n](/the-fox-women-of-bachelor-village.png)
 
 
 

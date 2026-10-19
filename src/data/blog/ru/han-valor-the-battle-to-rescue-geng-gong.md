@@ -8,7 +8,7 @@ description: "В первый год правления императора Ч�
 
 
 
-![AstroPaper I18n](/public/han-valor-the-battle-to-rescue-geng-gong.png)
+![AstroPaper I18n](/han-valor-the-battle-to-rescue-geng-gong.png)
 
 
 

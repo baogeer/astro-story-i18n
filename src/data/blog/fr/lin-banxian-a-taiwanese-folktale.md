@@ -8,7 +8,7 @@ description: "Lin Banxian était un maître du Feng Shui qui s'est rendu à Taiw
 
 
 
-![AstroPaper I18n](/public/lin-banxian-a-taiwanese-folktale.png)
+![AstroPaper I18n](/lin-banxian-a-taiwanese-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "«xa0Jiang Ra and Gilaxa0» raconte une série d'histoires de comb
 
 
 
-![AstroPaper I18n](/public/the-clever-jiangla-and-the-foolish-jiela.png)
+![AstroPaper I18n](/the-clever-jiangla-and-the-foolish-jiela.png)
 
 
 

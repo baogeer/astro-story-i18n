@@ -8,7 +8,7 @@ description: "El Emperador de Jade prohibió la lluvia durante tres años. Tianl
 
 
 
-![AstroPaper I18n](/public/the-yi-legend-of-the-dragon-head-raising-day.png)
+![AstroPaper I18n](/the-yi-legend-of-the-dragon-head-raising-day.png)
 
 
 

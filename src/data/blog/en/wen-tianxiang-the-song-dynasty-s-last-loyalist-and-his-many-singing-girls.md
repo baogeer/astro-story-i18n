@@ -8,7 +8,7 @@ description: "After winning the title, Wen Tianxiang nurtured kabuki, and was yo
 
 
 
-![AstroPaper I18n](/public/wen-tianxiang-the-song-dynasty-s-last-loyalist-and-his-many-singing-girls.png)
+![AstroPaper I18n](/wen-tianxiang-the-song-dynasty-s-last-loyalist-and-his-many-singing-girls.png)
 
 
 

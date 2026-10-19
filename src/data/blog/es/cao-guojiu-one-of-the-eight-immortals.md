@@ -8,7 +8,7 @@ description: "El hermano del tío Cao Guo se hizo cargo de la talentosa esposa y
 
 
 
-![AstroPaper I18n](/public/cao-guojiu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/cao-guojiu-one-of-the-eight-immortals.png)
 
 
 

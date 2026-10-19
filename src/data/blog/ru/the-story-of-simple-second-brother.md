@@ -8,7 +8,7 @@ description: "Брат Лианер похоронил старушку с пр�
 
 
 
-![AstroPaper I18n](/public/the-story-of-simple-second-brother.png)
+![AstroPaper I18n](/the-story-of-simple-second-brother.png)
 
 
 

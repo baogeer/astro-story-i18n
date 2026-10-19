@@ -8,7 +8,7 @@ description: "كان بان يو في الأصل كلب تنين تم تحويل
 
 
 
-![AstroPaper I18n](/public/the-myth-of-panhu.png)
+![AstroPaper I18n](/the-myth-of-panhu.png)
 
 
 

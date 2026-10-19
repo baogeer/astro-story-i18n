@@ -8,7 +8,7 @@ description: "Miyu se comporta de forma extraña. Lleva un traje chino, adora la
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-a-stone-as-his-brother.png)
+![AstroPaper I18n](/mi-fu-bows-to-a-stone-as-his-brother.png)
 
 
 

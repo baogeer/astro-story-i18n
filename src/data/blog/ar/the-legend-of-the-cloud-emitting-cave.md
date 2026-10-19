@@ -8,7 +8,7 @@ description: "صنع تايجين جينشينغ لي تشانغ قنغ شيان
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-emitting-cave.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-emitting-cave.png)
 
 
 

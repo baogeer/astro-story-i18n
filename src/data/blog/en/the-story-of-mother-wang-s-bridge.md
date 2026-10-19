@@ -8,7 +8,7 @@ description: "Wang's mom and Wang Laohan built a wooden bridge and set up a tea 
 
 
 
-![AstroPaper I18n](/public/the-story-of-mother-wang-s-bridge.png)
+![AstroPaper I18n](/the-story-of-mother-wang-s-bridge.png)
 
 
 

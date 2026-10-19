@@ -8,7 +8,7 @@ description: "Par une nuit pluvieuse, Chun Bao s'est abritée de la pluie et est
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lantian-jade.png)
+![AstroPaper I18n](/the-tale-of-lantian-jade.png)
 
 
 

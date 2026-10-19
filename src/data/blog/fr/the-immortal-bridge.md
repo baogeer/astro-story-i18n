@@ -8,7 +8,7 @@ description: "Sur un pont en pierre naturelle situé dans les contreforts orient
 
 
 
-![AstroPaper I18n](/public/the-immortal-bridge.png)
+![AstroPaper I18n](/the-immortal-bridge.png)
 
 
 

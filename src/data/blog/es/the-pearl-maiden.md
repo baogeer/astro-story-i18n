@@ -8,7 +8,7 @@ description: "La mujer que recogía perlas atrapó el mejillón y soltó a la ma
 
 
 
-![AstroPaper I18n](/public/the-pearl-maiden.png)
+![AstroPaper I18n](/the-pearl-maiden.png)
 
 
 

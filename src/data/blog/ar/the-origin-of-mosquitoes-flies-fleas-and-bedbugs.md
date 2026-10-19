@@ -8,7 +8,7 @@ description: "تخلى زوجان لا هوادة فيهما عن أطفالهم
 
 
 
-![AstroPaper I18n](/public/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
+![AstroPaper I18n](/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
 
 
 

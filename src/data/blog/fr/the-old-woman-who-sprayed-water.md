@@ -8,7 +8,7 @@ description: "Oncle Song Yu de Laiyang a loué une maison déserte. Au milieu de
 
 
 
-![AstroPaper I18n](/public/the-old-woman-who-sprayed-water.png)
+![AstroPaper I18n](/the-old-woman-who-sprayed-water.png)
 
 
 

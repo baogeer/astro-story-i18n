@@ -8,7 +8,7 @@ description: "Shi Dakai is King of Taiping. He is a young and talented person. H
 
 
 
-![AstroPaper I18n](/public/shi-dakai-the-most-perfect-man-of-the-taiping-heavenly-kingdom.png)
+![AstroPaper I18n](/shi-dakai-the-most-perfect-man-of-the-taiping-heavenly-kingdom.png)
 
 
 

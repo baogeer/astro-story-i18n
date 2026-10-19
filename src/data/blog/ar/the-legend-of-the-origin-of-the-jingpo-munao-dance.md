@@ -8,7 +8,7 @@ description: "سوف يرقص أطفال الشمس «Menau Song» ويدعون 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-jingpo-munao-dance.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-jingpo-munao-dance.png)
 
 
 

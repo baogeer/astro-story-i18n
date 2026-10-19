@@ -8,7 +8,7 @@ description: "L'épouse d'un homme d'affaires de Qingzhou entretenait depuis lon
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-who-lay-with-a-white-dog.png)
+![AstroPaper I18n](/the-merchant-s-wife-who-lay-with-a-white-dog.png)
 
 
 

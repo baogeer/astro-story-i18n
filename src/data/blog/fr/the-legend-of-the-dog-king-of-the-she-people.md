@@ -8,7 +8,7 @@ description: "Dans les temps anciens, le roi Gao Xin récompensait la conquête 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dog-king-of-the-she-people.png)
+![AstroPaper I18n](/the-legend-of-the-dog-king-of-the-she-people.png)
 
 
 

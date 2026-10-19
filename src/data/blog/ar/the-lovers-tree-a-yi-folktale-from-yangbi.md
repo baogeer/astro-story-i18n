@@ -8,7 +8,7 @@ description: "هناك «شجرة جميلة المظهر» على جبل يان
 
 
 
-![AstroPaper I18n](/public/the-lovers-tree-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-lovers-tree-a-yi-folktale-from-yangbi.png)
 
 
 

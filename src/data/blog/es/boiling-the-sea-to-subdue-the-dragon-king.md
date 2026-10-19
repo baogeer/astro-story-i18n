@@ -8,7 +8,7 @@ description: "La isla Jinzang fue inundada por el Rey Dragón en el Mar de China
 
 
 
-![AstroPaper I18n](/public/boiling-the-sea-to-subdue-the-dragon-king.png)
+![AstroPaper I18n](/boiling-the-sea-to-subdue-the-dragon-king.png)
 
 
 

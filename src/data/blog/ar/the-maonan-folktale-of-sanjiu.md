@@ -8,7 +8,7 @@ description: "من أجل التغلب على الجفاف، لم يتمكن ت�
 
 
 
-![AstroPaper I18n](/public/the-maonan-folktale-of-sanjiu.png)
+![AstroPaper I18n](/the-maonan-folktale-of-sanjiu.png)
 
 
 

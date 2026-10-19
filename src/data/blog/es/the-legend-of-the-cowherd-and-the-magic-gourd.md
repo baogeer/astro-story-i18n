@@ -8,7 +8,7 @@ description: "El pastor de vacas, el estilo y Yu Shun buscan a la señorita Zhan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-magic-gourd.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-magic-gourd.png)
 
 
 

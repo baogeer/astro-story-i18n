@@ -8,7 +8,7 @@ description: "Старший муж Чжан из Шаньси переправ�
 
 
 
-![AstroPaper I18n](/public/old-master-zhang-and-the-giant-turtle.png)
+![AstroPaper I18n](/old-master-zhang-and-the-giant-turtle.png)
 
 
 

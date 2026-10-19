@@ -8,7 +8,7 @@ description: "Когда император Цяньлун из династии
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea-1594.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea-1594.png)
 
 
 

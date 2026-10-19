@@ -8,7 +8,7 @@ description: "Я остановился в доме друга поздно ве
 
 
 
-![AstroPaper I18n](/public/the-late-night-grandmother.png)
+![AstroPaper I18n](/the-late-night-grandmother.png)
 
 
 

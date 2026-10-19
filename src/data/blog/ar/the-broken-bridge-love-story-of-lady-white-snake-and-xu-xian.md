@@ -8,7 +8,7 @@ description: "التقى باي نيانغ زي وشو شيان عند جسر و
 
 
 
-![AstroPaper I18n](/public/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
 
 
 

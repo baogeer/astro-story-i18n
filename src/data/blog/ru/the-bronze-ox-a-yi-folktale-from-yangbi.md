@@ -8,7 +8,7 @@ description: "Теленок рыбака из Янцзянцзяна изнач
 
 
 
-![AstroPaper I18n](/public/the-bronze-ox-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-bronze-ox-a-yi-folktale-from-yangbi.png)
 
 
 

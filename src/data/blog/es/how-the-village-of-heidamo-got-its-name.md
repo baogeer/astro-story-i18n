@@ -8,7 +8,7 @@ description: "En el cuento popular de la tribu yi de Yangyi, siguen ocurriendo d
 
 
 
-![AstroPaper I18n](/public/how-the-village-of-heidamo-got-its-name.png)
+![AstroPaper I18n](/how-the-village-of-heidamo-got-its-name.png)
 
 
 

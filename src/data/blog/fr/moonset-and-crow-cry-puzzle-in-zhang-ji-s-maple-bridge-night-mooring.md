@@ -8,7 +8,7 @@ description: "Des chercheurs ont examiné «xa0Le stationnement nocturne à Feng
 
 
 
-![AstroPaper I18n](/public/moonset-and-crow-cry-puzzle-in-zhang-ji-s-maple-bridge-night-mooring.png)
+![AstroPaper I18n](/moonset-and-crow-cry-puzzle-in-zhang-ji-s-maple-bridge-night-mooring.png)
 
 
 

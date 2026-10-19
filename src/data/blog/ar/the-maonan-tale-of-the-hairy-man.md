@@ -8,7 +8,7 @@ description: "نما ماو رين، وهو صبي فقير من قبيلة ما
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-the-hairy-man.png)
+![AstroPaper I18n](/the-maonan-tale-of-the-hairy-man.png)
 
 
 

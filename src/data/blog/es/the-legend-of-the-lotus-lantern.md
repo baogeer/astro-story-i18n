@@ -8,7 +8,7 @@ description: "Para salvar a su madre, Three Madonna, que fue aplastada por Jiro 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-lantern.png)
 
 
 

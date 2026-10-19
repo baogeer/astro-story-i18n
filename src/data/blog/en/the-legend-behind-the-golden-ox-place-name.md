@@ -8,7 +8,7 @@ description: "Jinniu has a good demon who plows fields for the people on weekday
 
 
 
-![AstroPaper I18n](/public/the-legend-behind-the-golden-ox-place-name.png)
+![AstroPaper I18n](/the-legend-behind-the-golden-ox-place-name.png)
 
 
 

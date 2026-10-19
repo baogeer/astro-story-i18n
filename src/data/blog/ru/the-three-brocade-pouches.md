@@ -8,7 +8,7 @@ description: "В конце жизни Сюкай оставил три чаев
 
 
 
-![AstroPaper I18n](/public/the-three-brocade-pouches.png)
+![AstroPaper I18n](/the-three-brocade-pouches.png)
 
 
 

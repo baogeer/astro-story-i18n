@@ -8,7 +8,7 @@ description: "Los mongoles de Buriatia creen en el tótem Mangniu. Cuenta la ley
 
 
 
-![AstroPaper I18n](/public/the-bull-totem-worship-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-bull-totem-worship-a-mongolian-folktale.png)
 
 
 

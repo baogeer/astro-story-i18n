@@ -8,7 +8,7 @@ description: "Après le traitement des inondations des Trois Gorges, Huajiao, un
 
 
 
-![AstroPaper I18n](/public/the-story-of-huajiao-in-the-three-gorges.png)
+![AstroPaper I18n](/the-story-of-huajiao-in-the-three-gorges.png)
 
 
 

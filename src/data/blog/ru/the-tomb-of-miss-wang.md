@@ -8,7 +8,7 @@ description: "Гробница мисс Ван — это гробница ст�
 
 
 
-![AstroPaper I18n](/public/the-tomb-of-miss-wang.png)
+![AstroPaper I18n](/the-tomb-of-miss-wang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان باي نيانغ زي في الأصل ثعبانًا أب�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-lady-white-snake-and-xu-xian.png)
 
 
 

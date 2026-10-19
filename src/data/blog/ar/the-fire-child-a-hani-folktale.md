@@ -8,7 +8,7 @@ description: "مرت مينزا، وهي مراهقة من قبيلة هاني،
 
 
 
-![AstroPaper I18n](/public/the-fire-child-a-hani-folktale.png)
+![AstroPaper I18n](/the-fire-child-a-hani-folktale.png)
 
 
 

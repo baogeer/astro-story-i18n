@@ -8,7 +8,7 @@ description: "Линь Сяонань встретила призрак слеп
 
 
 
-![AstroPaper I18n](/public/the-phantom-of-the-campus.png)
+![AstroPaper I18n](/the-phantom-of-the-campus.png)
 
 
 

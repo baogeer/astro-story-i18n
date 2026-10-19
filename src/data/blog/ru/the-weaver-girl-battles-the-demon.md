@@ -8,7 +8,7 @@ description: "Пастух пал перед дьяволом и причини�
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-battles-the-demon.png)
+![AstroPaper I18n](/the-weaver-girl-battles-the-demon.png)
 
 
 

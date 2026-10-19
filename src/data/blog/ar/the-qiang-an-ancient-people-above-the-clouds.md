@@ -8,7 +8,7 @@ description: "يدعي شعب تشيانغ أنهم إيرما. إنهم أحف�
 
 
 
-![AstroPaper I18n](/public/the-qiang-an-ancient-people-above-the-clouds.png)
+![AstroPaper I18n](/the-qiang-an-ancient-people-above-the-clouds.png)
 
 
 

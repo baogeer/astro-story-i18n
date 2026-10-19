@@ -8,7 +8,7 @@ description: "Nueve de los doce hijos del emperador fueron enviados a ser el sol
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hou-yi-shooting-down-nine-suns.png)
+![AstroPaper I18n](/the-legend-of-hou-yi-shooting-down-nine-suns.png)
 
 
 

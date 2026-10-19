@@ -8,7 +8,7 @@ description: "Le pêcheur était à l'origine la fille illégitime de la princes
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-dragon-maiden.png)
+![AstroPaper I18n](/the-peach-blossom-dragon-maiden.png)
 
 
 

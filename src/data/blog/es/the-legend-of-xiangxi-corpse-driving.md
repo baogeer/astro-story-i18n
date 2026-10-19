@@ -8,7 +8,7 @@ description: "La leyenda del exterminio de cadáveres de Xiangxi está relaciona
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiangxi-corpse-driving.png)
+![AstroPaper I18n](/the-legend-of-xiangxi-corpse-driving.png)
 
 
 

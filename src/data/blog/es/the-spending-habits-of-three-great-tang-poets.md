@@ -8,7 +8,7 @@ description: "Li Bai está relajada y relajada. Bebe alcohol y gasta su dinero c
 
 
 
-![AstroPaper I18n](/public/the-spending-habits-of-three-great-tang-poets.png)
+![AstroPaper I18n](/the-spending-habits-of-three-great-tang-poets.png)
 
 
 

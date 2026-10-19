@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة سوي، تبعت فتاة يتي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-liu-shi-pavilion.png)
 
 
 

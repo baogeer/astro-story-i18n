@@ -8,7 +8,7 @@ description: "Жена Цяньлоу, Ши Лянди, изначально б�
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife-of-qianlou.png)
+![AstroPaper I18n](/the-virtuous-wife-of-qianlou.png)
 
 
 

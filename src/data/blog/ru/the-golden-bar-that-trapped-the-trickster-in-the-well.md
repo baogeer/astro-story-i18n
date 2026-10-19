@@ -8,7 +8,7 @@ description: "Когда-то в деревне жил жулик, привык�
 
 
 
-![AstroPaper I18n](/public/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
+![AstroPaper I18n](/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
 
 
 

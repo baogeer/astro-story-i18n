@@ -8,7 +8,7 @@ description: "Mao Ren, un niño pobre de la tribu Maonan, se convirtió en un gi
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-the-hairy-man.png)
+![AstroPaper I18n](/the-maonan-tale-of-the-hairy-man.png)
 
 
 

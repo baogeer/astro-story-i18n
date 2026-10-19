@@ -8,7 +8,7 @@ description: "تم إسقاط وانغ جيانغ في العاشر لإنقاذ
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-wang-jiang-shooting-down-the-ten-suns.png)
+![AstroPaper I18n](/the-bouyei-myth-of-wang-jiang-shooting-down-the-ten-suns.png)
 
 
 

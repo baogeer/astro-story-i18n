@@ -8,7 +8,7 @@ description: "خلال سنوات جياجينغ من عهد أسرة مينغ،
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-zhuang-plank-shoe-dance.png)
+![AstroPaper I18n](/the-legend-of-the-zhuang-plank-shoe-dance.png)
 
 
 

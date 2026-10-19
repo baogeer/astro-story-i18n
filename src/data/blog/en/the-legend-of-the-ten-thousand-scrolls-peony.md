@@ -8,7 +8,7 @@ description: "Ouyang Boyun, a scholar from the Ming Dynasty, was poor and failed
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ten-thousand-scrolls-peony.png)
+![AstroPaper I18n](/the-legend-of-the-ten-thousand-scrolls-peony.png)
 
 
 

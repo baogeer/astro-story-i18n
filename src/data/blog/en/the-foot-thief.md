@@ -8,7 +8,7 @@ description: "Guan San relied on the capital he stole back then to become a rich
 
 
 
-![AstroPaper I18n](/public/the-foot-thief.png)
+![AstroPaper I18n](/the-foot-thief.png)
 
 
 

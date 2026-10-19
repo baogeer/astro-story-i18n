@@ -8,7 +8,7 @@ description: "The Dong mythology “Save the Sun” tells the story of the demon
 
 
 
-![AstroPaper I18n](/public/the-dong-myth-of-saving-the-sun.png)
+![AstroPaper I18n](/the-dong-myth-of-saving-the-sun.png)
 
 
 

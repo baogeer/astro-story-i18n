@@ -8,7 +8,7 @@ description: "Scholar Qin Zhenyou lost her way and got lost in the fountain of i
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-refused-the-fountain-of-youth.png)
+![AstroPaper I18n](/the-scholar-who-refused-the-fountain-of-youth.png)
 
 
 

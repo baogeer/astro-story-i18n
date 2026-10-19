@@ -8,7 +8,7 @@ description: "Лысый богатый владелец заставил пас
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-milking-of-a-bull.png)
+![AstroPaper I18n](/agu-dunba-and-the-milking-of-a-bull.png)
 
 
 

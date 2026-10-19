@@ -8,7 +8,7 @@ description: "Lorsque l'empereur Qianlong de la dynastie Qing s'est rendu à Jia
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea-1594.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea-1594.png)
 
 
 

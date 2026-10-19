@@ -8,7 +8,7 @@ description: "تزوجت وايت سناك باي سو جيونغ من شو شي
 
 
 
-![AstroPaper I18n](/public/the-new-legend-of-madame-white-snake.png)
+![AstroPaper I18n](/the-new-legend-of-madame-white-snake.png)
 
 
 

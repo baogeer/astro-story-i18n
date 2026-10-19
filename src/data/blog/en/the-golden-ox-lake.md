@@ -8,7 +8,7 @@ description: "There is a Taurus living at the bottom of Jinniu Lake. In the even
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-lake.png)
+![AstroPaper I18n](/the-golden-ox-lake.png)
 
 
 

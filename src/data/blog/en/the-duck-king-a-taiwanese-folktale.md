@@ -8,7 +8,7 @@ description: "Zhu Yigui raised ducks for a living and befriended the survivors b
 
 
 
-![AstroPaper I18n](/public/the-duck-king-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-duck-king-a-taiwanese-folktale.png)
 
 
 

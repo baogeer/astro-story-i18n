@@ -8,7 +8,7 @@ description: "على الرغم من أن الجنرالات العشرة الأ
 
 
 
-![AstroPaper I18n](/public/ten-great-han-chinese-generals-forgotten-by-history.png)
+![AstroPaper I18n](/ten-great-han-chinese-generals-forgotten-by-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wu County has a strong and resolute county commissioner. Seeing th
 
 
 
-![AstroPaper I18n](/public/the-magistrate-of-wu-county.png)
+![AstroPaper I18n](/the-magistrate-of-wu-county.png)
 
 
 

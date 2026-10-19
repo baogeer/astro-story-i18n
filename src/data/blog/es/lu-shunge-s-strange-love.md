@@ -8,7 +8,7 @@ description: "Durante la guerra de la dinastía Song del Sur, Lu Shunge, la hija
 
 
 
-![AstroPaper I18n](/public/lu-shunge-s-strange-love.png)
+![AstroPaper I18n](/lu-shunge-s-strange-love.png)
 
 
 

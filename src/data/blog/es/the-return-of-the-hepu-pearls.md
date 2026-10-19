@@ -8,7 +8,7 @@ description: "Las perlas abundan a lo largo de la costa de Hepu. Debido a la exc
 
 
 
-![AstroPaper I18n](/public/the-return-of-the-hepu-pearls.png)
+![AstroPaper I18n](/the-return-of-the-hepu-pearls.png)
 
 
 

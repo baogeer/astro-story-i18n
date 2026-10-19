@@ -8,7 +8,7 @@ description: "En las leyendas mongolas, los osos son considerados ancestros sagr
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-bear-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-bear-totem-worship.png)
 
 
 

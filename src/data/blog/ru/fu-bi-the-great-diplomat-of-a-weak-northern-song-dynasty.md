@@ -8,7 +8,7 @@ description: "Фу Би, знаменитый священник Северно�
 
 
 
-![AstroPaper I18n](/public/fu-bi-the-great-diplomat-of-a-weak-northern-song-dynasty.png)
+![AstroPaper I18n](/fu-bi-the-great-diplomat-of-a-weak-northern-song-dynasty.png)
 
 
 

@@ -8,7 +8,7 @@ description: "اندلع مرض غريب في مياوزهاي، وكان الش
 
 
 
-![AstroPaper I18n](/public/the-magic-medicine-of-he-amang.png)
+![AstroPaper I18n](/the-magic-medicine-of-he-amang.png)
 
 
 

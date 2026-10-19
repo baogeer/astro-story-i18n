@@ -8,7 +8,7 @@ description: "من ناحية أخرى، أُجبر لاما تانغ بايكو
 
 
 
-![AstroPaper I18n](/public/the-lama-tangbai-and-maiden-baizong.png)
+![AstroPaper I18n](/the-lama-tangbai-and-maiden-baizong.png)
 
 
 

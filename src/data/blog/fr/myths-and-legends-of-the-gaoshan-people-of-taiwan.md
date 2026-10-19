@@ -8,7 +8,7 @@ description: "Dans les temps anciens, le peuple alpin de Taiwan n'avait pas de m
 
 
 
-![AstroPaper I18n](/public/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
+![AstroPaper I18n](/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
 
 
 

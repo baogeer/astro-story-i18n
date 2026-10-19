@@ -8,7 +8,7 @@ description: "Les nouilles artisanales Jinyun ont été nommées «xa0nouilles r
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-refreshing-noodles.png)
+![AstroPaper I18n](/the-legend-of-jinyun-refreshing-noodles.png)
 
 
 

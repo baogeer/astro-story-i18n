@@ -8,7 +8,7 @@ description: "The “Lanting Prologue” from Wangjiangzhai's collection on Hanz
 
 
 
-![AstroPaper I18n](/public/the-deadly-calligraphy-scroll.png)
+![AstroPaper I18n](/the-deadly-calligraphy-scroll.png)
 
 
 

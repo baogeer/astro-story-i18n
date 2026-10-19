@@ -8,7 +8,7 @@ description: "Ah Zhi, une orpheline de l'ethnie Yi, a été forcée de perdre so
 
 
 
-![AstroPaper I18n](/public/the-black-horse-pool.png)
+![AstroPaper I18n](/the-black-horse-pool.png)
 
 
 

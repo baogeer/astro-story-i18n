@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن زهور الفاوانيا وال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-han-peony.png)
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
 
 
 

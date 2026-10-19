@@ -8,7 +8,7 @@ description: "Когда династия Оуян из династии Лян 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-ape.png)
+![AstroPaper I18n](/the-legend-of-the-white-ape.png)
 
 
 

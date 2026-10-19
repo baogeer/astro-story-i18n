@@ -8,7 +8,7 @@ description: "Los mentores y aprendices de Confucio se quedaron sin comida, y Fa
 
 
 
-![AstroPaper I18n](/public/yan-hui-borrows-grain.png)
+![AstroPaper I18n](/yan-hui-borrows-grain.png)
 
 
 

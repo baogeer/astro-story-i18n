@@ -8,7 +8,7 @@ description: "Cuozhu Danqiong was married by the devil. After escaping from the 
 
 
 
-![AstroPaper I18n](/public/the-story-of-tsodruk-dandron.png)
+![AstroPaper I18n](/the-story-of-tsodruk-dandron.png)
 
 
 

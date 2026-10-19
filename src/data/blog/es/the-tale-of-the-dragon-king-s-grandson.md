@@ -8,7 +8,7 @@ description: "El Palacio del Dragón de Donghai llama a la princesa Caizhu. Tras
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-dragon-king-s-grandson.png)
+![AstroPaper I18n](/the-tale-of-the-dragon-king-s-grandson.png)
 
 
 

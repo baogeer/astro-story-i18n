@@ -8,7 +8,7 @@ description: "Дяо Чан изначально была певческой п�
 
 
 
-![AstroPaper I18n](/public/the-story-of-diaochan-the-moon-shaming-beauty.png)
+![AstroPaper I18n](/the-story-of-diaochan-the-moon-shaming-beauty.png)
 
 
 

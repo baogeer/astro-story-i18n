@@ -8,7 +8,7 @@ description: "Hay un «árbol bonito» en la montaña Yangjiao. El patrón del �
 
 
 
-![AstroPaper I18n](/public/the-lovers-tree-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-lovers-tree-a-yi-folktale-from-yangbi.png)
 
 
 

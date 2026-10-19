@@ -8,7 +8,7 @@ description: "La ordenanza del condado obligó a Liao Jingyi a buscar Rebirth He
 
 
 
-![AstroPaper I18n](/public/the-resurrection-herb.png)
+![AstroPaper I18n](/the-resurrection-herb.png)
 
 
 

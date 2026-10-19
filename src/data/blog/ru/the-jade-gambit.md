@@ -8,7 +8,7 @@ description: "Во времена поздней династии Цин в Юн
 
 
 
-![AstroPaper I18n](/public/the-jade-gambit.png)
+![AstroPaper I18n](/the-jade-gambit.png)
 
 
 

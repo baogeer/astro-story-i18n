@@ -8,7 +8,7 @@ description: "Les pivoines blanches et violettes de la montagne Lushan à Luoyan
 
 
 
-![AstroPaper I18n](/public/the-story-in-the-peony-garden.png)
+![AstroPaper I18n](/the-story-in-the-peony-garden.png)
 
 
 

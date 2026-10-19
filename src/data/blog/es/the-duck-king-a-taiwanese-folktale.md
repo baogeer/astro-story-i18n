@@ -8,7 +8,7 @@ description: "Zhu Yigui criaba patos para ganarse la vida y se hizo amigo de los
 
 
 
-![AstroPaper I18n](/public/the-duck-king-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-duck-king-a-taiwanese-folktale.png)
 
 
 

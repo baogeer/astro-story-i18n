@@ -8,7 +8,7 @@ description: "Ah Bao sufre una extraña enfermedad. Según el testamento de su a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-aboluo-walnut.png)
+![AstroPaper I18n](/the-legend-of-the-aboluo-walnut.png)
 
 
 

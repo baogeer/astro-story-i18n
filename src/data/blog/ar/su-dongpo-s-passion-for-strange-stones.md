@@ -8,7 +8,7 @@ description: "كاتب أسرة سونغ سو دونغ بو مدمن على ال
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-passion-for-strange-stones.png)
+![AstroPaper I18n](/su-dongpo-s-passion-for-strange-stones.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the Yangyi Yi folk tale, Grandpa Han's daughter-in-law is smart
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
 
 
 

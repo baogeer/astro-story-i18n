@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, une femme influente se cachait déguisée d
 
 
 
-![AstroPaper I18n](/public/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
+![AstroPaper I18n](/bold-tang-woman-hides-in-gang-boss-s-house-to-kill-her-foe.png)
 
 
 

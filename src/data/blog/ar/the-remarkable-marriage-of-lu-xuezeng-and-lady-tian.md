@@ -8,7 +8,7 @@ description: "ذهب Lu Xue ذات مرة إلى عائلة Yue للحصول ع�
 
 
 
-![AstroPaper I18n](/public/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
+![AstroPaper I18n](/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
 
 
 

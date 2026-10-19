@@ -8,7 +8,7 @@ description: "تتمحور القصة حول شجرة الرمان وتهدف إ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pomegranate-tree.png)
+![AstroPaper I18n](/the-legend-of-the-pomegranate-tree.png)
 
 
 

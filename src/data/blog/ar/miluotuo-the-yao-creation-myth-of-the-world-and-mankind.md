@@ -8,7 +8,7 @@ description: "استخدم ميروتو جسد سيده لصنع السماء و
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-yao-creation-myth-of-the-world-and-mankind.png)
+![AstroPaper I18n](/miluotuo-the-yao-creation-myth-of-the-world-and-mankind.png)
 
 
 

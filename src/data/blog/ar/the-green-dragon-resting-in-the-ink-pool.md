@@ -8,7 +8,7 @@ description: "بسبب الجفاف الكبير في كاوتشو، سرق Yaoc
 
 
 
-![AstroPaper I18n](/public/the-green-dragon-resting-in-the-ink-pool.png)
+![AstroPaper I18n](/the-green-dragon-resting-in-the-ink-pool.png)
 
 
 

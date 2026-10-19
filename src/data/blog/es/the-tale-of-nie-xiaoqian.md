@@ -8,7 +8,7 @@ description: "Ning Caichen conoció al espadachín Yan Chixia en Huangsi y recha
 
 
 
-![AstroPaper I18n](/public/the-tale-of-nie-xiaoqian.png)
+![AstroPaper I18n](/the-tale-of-nie-xiaoqian.png)
 
 
 

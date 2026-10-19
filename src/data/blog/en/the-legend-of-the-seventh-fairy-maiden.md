@@ -8,7 +8,7 @@ description: "The Seven Fairies used the royal mother's “Senrikusa, One Hundre
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-seventh-fairy-maiden.png)
 
 
 

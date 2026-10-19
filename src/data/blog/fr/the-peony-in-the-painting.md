@@ -8,7 +8,7 @@ description: "Les vieux cultivateurs de fleurs sont obsédés par la peinture de
 
 
 
-![AstroPaper I18n](/public/the-peony-in-the-painting.png)
+![AstroPaper I18n](/the-peony-in-the-painting.png)
 
 
 

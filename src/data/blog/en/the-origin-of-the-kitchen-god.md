@@ -8,7 +8,7 @@ description: "After Zhang Lang went out to do business and became rich, he actua
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-kitchen-god.png)
+![AstroPaper I18n](/the-origin-of-the-kitchen-god.png)
 
 
 

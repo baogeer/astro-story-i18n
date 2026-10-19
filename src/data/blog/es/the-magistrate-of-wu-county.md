@@ -8,7 +8,7 @@ description: "El condado de Wu tiene un comisionado de condado fuerte y decidido
 
 
 
-![AstroPaper I18n](/public/the-magistrate-of-wu-county.png)
+![AstroPaper I18n](/the-magistrate-of-wu-county.png)
 
 
 

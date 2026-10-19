@@ -8,7 +8,7 @@ description: "Чэнь Хун, орион из Лейчжоу, ловил лап
 
 
 
-![AstroPaper I18n](/public/the-she-folk-tale-of-the-thunder-god.png)
+![AstroPaper I18n](/the-she-folk-tale-of-the-thunder-god.png)
 
 
 

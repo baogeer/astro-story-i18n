@@ -8,7 +8,7 @@ description: "Тан Ин был самым известным цветком д
 
 
 
-![AstroPaper I18n](/public/the-most-glamorous-socialite-of-old-shanghai.png)
+![AstroPaper I18n](/the-most-glamorous-socialite-of-old-shanghai.png)
 
 
 

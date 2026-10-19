@@ -8,7 +8,7 @@ description: "There was a case where a girl hanged herself in a technical school
 
 
 
-![AstroPaper I18n](/public/the-haunted-dormitory-at-midnight.png)
+![AstroPaper I18n](/the-haunted-dormitory-at-midnight.png)
 
 
 

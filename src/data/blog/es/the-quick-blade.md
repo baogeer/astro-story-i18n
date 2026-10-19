@@ -8,7 +8,7 @@ description: "Al final de la dinastía Ming, había muchos bandidos en Zhangqiu 
 
 
 
-![AstroPaper I18n](/public/the-quick-blade.png)
+![AstroPaper I18n](/the-quick-blade.png)
 
 
 

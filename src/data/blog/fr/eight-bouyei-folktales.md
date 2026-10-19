@@ -8,7 +8,7 @@ description: "Huit histoires folkloriques sur le peuple Buyei, couvrant des suje
 
 
 
-![AstroPaper I18n](/public/eight-bouyei-folktales.png)
+![AstroPaper I18n](/eight-bouyei-folktales.png)
 
 
 

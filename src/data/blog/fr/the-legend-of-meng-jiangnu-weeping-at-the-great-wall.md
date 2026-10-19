@@ -8,7 +8,7 @@ description: "Trois jours après le mariage de Meng Jiang et Fan Xiliang sous la
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-weeping-at-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-weeping-at-the-great-wall.png)
 
 
 

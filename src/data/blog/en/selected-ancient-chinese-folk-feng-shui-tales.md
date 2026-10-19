@@ -8,7 +8,7 @@ description: "There are many wonders of Feng Shui handed down in ancient folklor
 
 
 
-![AstroPaper I18n](/public/selected-ancient-chinese-folk-feng-shui-tales.png)
+![AstroPaper I18n](/selected-ancient-chinese-folk-feng-shui-tales.png)
 
 
 

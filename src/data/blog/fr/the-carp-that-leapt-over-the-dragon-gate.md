@@ -8,7 +8,7 @@ description: "Afin de se débarrasser d'un dragon jaune maléfique, Yu Gu a parc
 
 
 
-![AstroPaper I18n](/public/the-carp-that-leapt-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
 
 
 

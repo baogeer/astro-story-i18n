@@ -8,7 +8,7 @@ description: "Les ancêtres des tribus Hani et Brown se sont unis pour abattre d
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
+![AstroPaper I18n](/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
 
 
 

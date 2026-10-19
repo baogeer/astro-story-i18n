@@ -8,7 +8,7 @@ description: "Женщины из династии Тан были очень к
 
 
 
-![AstroPaper I18n](/public/bu-feiyan-s-secret-affair.png)
+![AstroPaper I18n](/bu-feiyan-s-secret-affair.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xuanyuan Huangdi practicó magia en el pico Dinghu en Xiandu, Jiny
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiandu-danyu-jade.png)
+![AstroPaper I18n](/the-legend-of-xiandu-danyu-jade.png)
 
 
 

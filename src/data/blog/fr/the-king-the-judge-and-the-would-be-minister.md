@@ -8,7 +8,7 @@ description: "Le juge a fait semblant de vouloir être ministre et a cherché à
 
 
 
-![AstroPaper I18n](/public/the-king-the-judge-and-the-would-be-minister.png)
+![AstroPaper I18n](/the-king-the-judge-and-the-would-be-minister.png)
 
 
 

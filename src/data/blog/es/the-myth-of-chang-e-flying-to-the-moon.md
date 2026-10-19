@@ -8,7 +8,7 @@ description: "Houyi lo filmó el día 9 y la gente lo respetó. Su esposa, Chang
 
 
 
-![AstroPaper I18n](/public/the-myth-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-myth-of-chang-e-flying-to-the-moon.png)
 
 
 

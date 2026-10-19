@@ -8,7 +8,7 @@ description: "Даю унаследовал бизнес своего отца �
 
 
 
-![AstroPaper I18n](/public/yu-the-great-tames-the-flood.png)
+![AstroPaper I18n](/yu-the-great-tames-the-flood.png)
 
 
 

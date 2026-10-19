@@ -8,7 +8,7 @@ description: "Fairy Hua Er was demeaned to do good deeds on earth by mistake. Th
 
 
 
-![AstroPaper I18n](/public/seven-pounds-of-tears.png)
+![AstroPaper I18n](/seven-pounds-of-tears.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tang Xuanzong conoció a Yang Yuhuan, que tenía un fuerte aroma c
 
 
 
-![AstroPaper I18n](/public/yang-guifei-armed-with-fragrance.png)
+![AstroPaper I18n](/yang-guifei-armed-with-fragrance.png)
 
 
 

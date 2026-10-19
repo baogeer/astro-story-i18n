@@ -8,7 +8,7 @@ description: "Les Huit Immortels se sont rendus tranquillement à Dezhou, dans l
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-debate-at-dezhou-food-city.png)
+![AstroPaper I18n](/the-eight-immortals-debate-at-dezhou-food-city.png)
 
 
 

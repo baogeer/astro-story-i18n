@@ -8,7 +8,7 @@ description: "Para cumplir la promesa de recompensa de su padre, la hija del emp
 
 
 
-![AstroPaper I18n](/public/why-emperor-ku-s-daughter-married-a-dog.png)
+![AstroPaper I18n](/why-emperor-ku-s-daughter-married-a-dog.png)
 
 
 

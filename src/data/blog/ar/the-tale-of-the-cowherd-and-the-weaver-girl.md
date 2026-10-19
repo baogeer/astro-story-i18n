@@ -8,7 +8,7 @@ description: "تعرض راعي البقر لسوء المعاملة من قبل
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-tale-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

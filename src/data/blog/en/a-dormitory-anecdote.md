@@ -8,7 +8,7 @@ description: "The thief posed as a colleague to break into the house, and the th
 
 
 
-![AstroPaper I18n](/public/a-dormitory-anecdote.png)
+![AstroPaper I18n](/a-dormitory-anecdote.png)
 
 
 

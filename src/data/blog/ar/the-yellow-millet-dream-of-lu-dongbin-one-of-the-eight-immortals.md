@@ -8,7 +8,7 @@ description: "في سن 64، فقد لو دونغ بين حياته المهني
 
 
 
-![AstroPaper I18n](/public/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
 
 
 

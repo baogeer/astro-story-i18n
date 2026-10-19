@@ -8,7 +8,7 @@ description: "После того как продавец спел со змее
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
 
 
 

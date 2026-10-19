@@ -8,7 +8,7 @@ description: "La emperatriz Hsiao es hermosa por naturaleza y tiene una flor de 
 
 
 
-![AstroPaper I18n](/public/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
+![AstroPaper I18n](/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
 
 
 

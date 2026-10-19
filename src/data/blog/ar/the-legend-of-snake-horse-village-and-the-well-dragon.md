@@ -8,7 +8,7 @@ description: "أنقذ صائد يي زو تشينغشان ملك التنين �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-snake-horse-village-and-the-well-dragon.png)
+![AstroPaper I18n](/the-legend-of-snake-horse-village-and-the-well-dragon.png)
 
 
 

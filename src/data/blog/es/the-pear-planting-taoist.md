@@ -8,7 +8,7 @@ description: "Los campesinos venden peras en el bazar y son tacaños y se niegan
 
 
 
-![AstroPaper I18n](/public/the-pear-planting-taoist.png)
+![AstroPaper I18n](/the-pear-planting-taoist.png)
 
 
 

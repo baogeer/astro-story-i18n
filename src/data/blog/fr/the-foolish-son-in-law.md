@@ -8,7 +8,7 @@ description: "Dans les temps anciens, la princesse Jin Shengcai apprenait les ge
 
 
 
-![AstroPaper I18n](/public/the-foolish-son-in-law.png)
+![AstroPaper I18n](/the-foolish-son-in-law.png)
 
 
 

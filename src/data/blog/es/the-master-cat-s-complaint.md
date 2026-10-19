@@ -8,7 +8,7 @@ description: "El abuelo Cat era originalmente el favorito del Emperador de Jade.
 
 
 
-![AstroPaper I18n](/public/the-master-cat-s-complaint.png)
+![AstroPaper I18n](/the-master-cat-s-complaint.png)
 
 
 

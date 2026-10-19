@@ -8,7 +8,7 @@ description: "Les frères et sœurs Yi ont dû utiliser des abreuvoirs en bois p
 
 
 
-![AstroPaper I18n](/public/the-grateful-yi-people-of-yangbi.png)
+![AstroPaper I18n](/the-grateful-yi-people-of-yangbi.png)
 
 
 

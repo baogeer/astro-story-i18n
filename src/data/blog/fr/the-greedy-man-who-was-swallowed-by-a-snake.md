@@ -8,7 +8,7 @@ description: "Le professeur a fait une bonne récolte de serpents floraux. Des s
 
 
 
-![AstroPaper I18n](/public/the-greedy-man-who-was-swallowed-by-a-snake.png)
+![AstroPaper I18n](/the-greedy-man-who-was-swallowed-by-a-snake.png)
 
 
 

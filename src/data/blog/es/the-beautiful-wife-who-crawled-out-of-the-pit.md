@@ -8,7 +8,7 @@ description: "Liu Zhongli sedujo a Ho Lee, y la familia del inquilino fue asesin
 
 
 
-![AstroPaper I18n](/public/the-beautiful-wife-who-crawled-out-of-the-pit.png)
+![AstroPaper I18n](/the-beautiful-wife-who-crawled-out-of-the-pit.png)
 
 
 

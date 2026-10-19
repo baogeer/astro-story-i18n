@@ -8,7 +8,7 @@ description: "Dans les temps anciens, il n'y avait pas d'incendiexa0; les gens m
 
 
 
-![AstroPaper I18n](/public/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
+![AstroPaper I18n](/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
 
 
 

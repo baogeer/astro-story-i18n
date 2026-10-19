@@ -8,7 +8,7 @@ description: "Attiraba, un Hercule de la tribu Yi, a utilisé des blocs de fer p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival.png)
 
 
 

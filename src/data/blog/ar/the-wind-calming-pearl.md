@@ -8,7 +8,7 @@ description: "حصل الشاب الذي قطع الحطب من حين لآخر 
 
 
 
-![AstroPaper I18n](/public/the-wind-calming-pearl.png)
+![AstroPaper I18n](/the-wind-calming-pearl.png)
 
 
 

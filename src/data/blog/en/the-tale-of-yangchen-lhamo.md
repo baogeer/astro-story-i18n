@@ -8,7 +8,7 @@ description: "Eugene Ram was forced to wander because his boss forced him to mar
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yangchen-lhamo.png)
+![AstroPaper I18n](/the-tale-of-yangchen-lhamo.png)
 
 
 

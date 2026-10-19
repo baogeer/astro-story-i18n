@@ -8,7 +8,7 @@ description: "Legend has it that people never die of old age; they become younge
 
 
 
-![AstroPaper I18n](/public/why-people-grow-old-and-die-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/why-people-grow-old-and-die-a-yangbi-yi-folktale.png)
 
 
 

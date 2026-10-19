@@ -8,7 +8,7 @@ description: "Ян Юхуань родилась в Шуди, а затем ст
 
 
 
-![AstroPaper I18n](/public/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
+![AstroPaper I18n](/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
 
 
 

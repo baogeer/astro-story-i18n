@@ -8,7 +8,7 @@ description: "Li Sheng de Caozhou a brûlé vif toute la famille de la famille R
 
 
 
-![AstroPaper I18n](/public/the-king-of-the-nine-mountains.png)
+![AstroPaper I18n](/the-king-of-the-nine-mountains.png)
 
 
 

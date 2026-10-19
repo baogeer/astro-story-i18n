@@ -8,7 +8,7 @@ description: "El erudito Wang Qi fue a Laoshan para aprender cómo hacerlo. No p
 
 
 
-![AstroPaper I18n](/public/the-taoist-priest-of-mount-lao.png)
+![AstroPaper I18n](/the-taoist-priest-of-mount-lao.png)
 
 
 

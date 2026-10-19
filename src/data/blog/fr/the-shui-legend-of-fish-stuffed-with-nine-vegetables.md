@@ -8,7 +8,7 @@ description: "Alors que les ancêtres de l'aquarium se déplaçaient vers le nor
 
 
 
-![AstroPaper I18n](/public/the-shui-legend-of-fish-stuffed-with-nine-vegetables.png)
+![AstroPaper I18n](/the-shui-legend-of-fish-stuffed-with-nine-vegetables.png)
 
 
 

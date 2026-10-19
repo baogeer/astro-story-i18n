@@ -8,7 +8,7 @@ description: "Shang Maring était à l'origine une personnalité publique défia
 
 
 
-![AstroPaper I18n](/public/what-did-shang-yang-do-wrong-to-be-brutally-torn-apart.png)
+![AstroPaper I18n](/what-did-shang-yang-do-wrong-to-be-brutally-torn-apart.png)
 
 
 

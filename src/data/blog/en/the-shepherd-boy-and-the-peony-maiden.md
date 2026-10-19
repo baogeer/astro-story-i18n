@@ -8,7 +8,7 @@ description: "The sheep baby picked up a peony flower and planted it at the entr
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-and-the-peony-maiden.png)
+![AstroPaper I18n](/the-shepherd-boy-and-the-peony-maiden.png)
 
 
 

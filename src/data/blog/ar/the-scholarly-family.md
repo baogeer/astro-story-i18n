@@ -8,7 +8,7 @@ description: "تدعي عائلة تشين جياتشوانغ وتشين يوا�
 
 
 
-![AstroPaper I18n](/public/the-scholarly-family.png)
+![AstroPaper I18n](/the-scholarly-family.png)
 
 
 

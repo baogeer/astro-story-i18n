@@ -8,7 +8,7 @@ description: "Было обнаружено, что Арджуни, фермер
 
 
 
-![AstroPaper I18n](/public/how-azuni-tricked-the-mountain-chief.png)
+![AstroPaper I18n](/how-azuni-tricked-the-mountain-chief.png)
 
 
 

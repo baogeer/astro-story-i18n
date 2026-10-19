@@ -8,7 +8,7 @@ description: "Le forgeron Guan Ziming possède une épée ancestrale. Bien qu'il
 
 
 
-![AstroPaper I18n](/public/the-precious-blade-that-stayed-sheathed.png)
+![AstroPaper I18n](/the-precious-blade-that-stayed-sheathed.png)
 
 
 

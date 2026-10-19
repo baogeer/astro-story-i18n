@@ -8,7 +8,7 @@ description: "استخدم الصياد الشاب بناءًا لالتقاط �
 
 
 
-![AstroPaper I18n](/public/the-heavenly-maiden-s-blessing.png)
+![AstroPaper I18n](/the-heavenly-maiden-s-blessing.png)
 
 
 

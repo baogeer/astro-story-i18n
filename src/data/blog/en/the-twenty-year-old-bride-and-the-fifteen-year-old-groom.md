@@ -8,7 +8,7 @@ description: "Lan Lan, the daughter of Chenzhi County in Zhaoxin County in the S
 
 
 
-![AstroPaper I18n](/public/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
+![AstroPaper I18n](/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "David met an old man surrounded by bodyguards while running in the
 
 
 
-![AstroPaper I18n](/public/the-strange-running-encounter-with-president-carter.png)
+![AstroPaper I18n](/the-strange-running-encounter-with-president-carter.png)
 
 
 

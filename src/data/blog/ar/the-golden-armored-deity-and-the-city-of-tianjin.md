@@ -8,7 +8,7 @@ description: "تُعرف تيانجين عمومًا باسم «مدينة أب�
 
 
 
-![AstroPaper I18n](/public/the-golden-armored-deity-and-the-city-of-tianjin.png)
+![AstroPaper I18n](/the-golden-armored-deity-and-the-city-of-tianjin.png)
 
 
 

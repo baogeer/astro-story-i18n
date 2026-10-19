@@ -8,7 +8,7 @@ description: "Selon les légendes Hani, notre Père céleste et la Terre nourric
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-origin-of-humankind.png)
+![AstroPaper I18n](/the-hani-legend-of-the-origin-of-humankind.png)
 
 
 

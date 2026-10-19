@@ -8,7 +8,7 @@ description: "В рассказе «Ши-цзы Шен Цзян» красива
 
 
 
-![AstroPaper I18n](/public/xi-shi-drowns-in-the-river.png)
+![AstroPaper I18n](/xi-shi-drowns-in-the-river.png)
 
 
 

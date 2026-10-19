@@ -8,7 +8,7 @@ description: "Молодой фермер нашел полевую улитку
 
 
 
-![AstroPaper I18n](/public/the-snail-maiden.png)
+![AstroPaper I18n](/the-snail-maiden.png)
 
 
 

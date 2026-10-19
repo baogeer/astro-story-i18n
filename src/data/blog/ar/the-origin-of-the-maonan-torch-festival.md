@@ -8,7 +8,7 @@ description: "من أجل مقاومة الغزوات الغريبة، استخ�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maonan-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-maonan-torch-festival.png)
 
 
 

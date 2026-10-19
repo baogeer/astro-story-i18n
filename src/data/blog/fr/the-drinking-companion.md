@@ -8,7 +8,7 @@ description: "Le conducteur de la voiture était accro à l'alcool, et lorsqu'il
 
 
 
-![AstroPaper I18n](/public/the-drinking-companion.png)
+![AstroPaper I18n](/the-drinking-companion.png)
 
 
 

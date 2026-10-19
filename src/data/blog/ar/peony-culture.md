@@ -8,7 +8,7 @@ description: "الفاوانيا الصينية لها تاريخ طويل. تم
 
 
 
-![AstroPaper I18n](/public/peony-culture.png)
+![AstroPaper I18n](/peony-culture.png)
 
 
 

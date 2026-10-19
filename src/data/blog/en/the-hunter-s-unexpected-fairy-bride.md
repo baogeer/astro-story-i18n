@@ -8,7 +8,7 @@ description: "The hunter saved the rabbit by accident, and the rabbit spirit rep
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-unexpected-fairy-bride.png)
+![AstroPaper I18n](/the-hunter-s-unexpected-fairy-bride.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن ليو بانغ بينغ هرب إ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-qi-s-golden-skirt-peony.png)
+![AstroPaper I18n](/the-legend-of-lady-qi-s-golden-skirt-peony.png)
 
 
 

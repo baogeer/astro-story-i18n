@@ -8,7 +8,7 @@ description: "La hermana y el hermano entregaron arroz y dátiles a su abuela, p
 
 
 
-![AstroPaper I18n](/public/the-tiger-grandmother.png)
+![AstroPaper I18n](/the-tiger-grandmother.png)
 
 
 

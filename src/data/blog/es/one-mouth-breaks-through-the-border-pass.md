@@ -8,7 +8,7 @@ description: "Wang Zhaojun se vio obligado a volver a casarse tras la muerte de 
 
 
 
-![AstroPaper I18n](/public/one-mouth-breaks-through-the-border-pass.png)
+![AstroPaper I18n](/one-mouth-breaks-through-the-border-pass.png)
 
 
 

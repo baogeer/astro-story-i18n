@@ -8,7 +8,7 @@ description: "Los machos de cabras y carneros se encontraron con lobos cuando se
 
 
 
-![AstroPaper I18n](/public/the-rabbit-and-the-gray-wolf.png)
+![AstroPaper I18n](/the-rabbit-and-the-gray-wolf.png)
 
 
 

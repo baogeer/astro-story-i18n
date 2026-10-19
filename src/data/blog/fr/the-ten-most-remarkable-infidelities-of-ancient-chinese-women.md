@@ -8,7 +8,7 @@ description: "Cet article répertorie les anecdotes de dix anciennes femmes qui 
 
 
 
-![AstroPaper I18n](/public/the-ten-most-remarkable-infidelities-of-ancient-chinese-women.png)
+![AstroPaper I18n](/the-ten-most-remarkable-infidelities-of-ancient-chinese-women.png)
 
 
 

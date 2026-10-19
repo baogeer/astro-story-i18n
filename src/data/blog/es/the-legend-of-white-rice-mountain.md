@@ -8,7 +8,7 @@ description: "Cuando Zhang Zao conoció a un taoísta de pelo blanco, todos los 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-rice-mountain.png)
+![AstroPaper I18n](/the-legend-of-white-rice-mountain.png)
 
 
 

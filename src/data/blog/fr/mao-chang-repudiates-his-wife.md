@@ -8,7 +8,7 @@ description: "Mao Yi a classé le «xa0Shijingxa0» dans le Hejian. Sa vie a ét
 
 
 
-![AstroPaper I18n](/public/mao-chang-repudiates-his-wife.png)
+![AstroPaper I18n](/mao-chang-repudiates-his-wife.png)
 
 
 

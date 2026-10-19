@@ -8,7 +8,7 @@ description: "Xia Yuan Hao occidental afirmó que la emperatriz lanzó las tres 
 
 
 
-![AstroPaper I18n](/public/the-three-great-battles-between-western-xia-and-northern-song.png)
+![AstroPaper I18n](/the-three-great-battles-between-western-xia-and-northern-song.png)
 
 
 

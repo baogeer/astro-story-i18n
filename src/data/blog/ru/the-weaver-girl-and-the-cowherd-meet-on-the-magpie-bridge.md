@@ -8,7 +8,7 @@ description: "История любви пастуха и ткача берет 
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
 
 
 

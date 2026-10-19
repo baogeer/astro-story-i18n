@@ -8,7 +8,7 @@ description: "Fari es trabajadora y amable. Después de salvar a una serpiente b
 
 
 
-![AstroPaper I18n](/public/zhamuli-the-rose-maiden.png)
+![AstroPaper I18n](/zhamuli-the-rose-maiden.png)
 
 
 

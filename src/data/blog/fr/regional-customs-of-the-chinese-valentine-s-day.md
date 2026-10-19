@@ -8,7 +8,7 @@ description: "Tanabata est une Saint-Valentin chinoise traditionnelle, et les co
 
 
 
-![AstroPaper I18n](/public/regional-customs-of-the-chinese-valentine-s-day.png)
+![AstroPaper I18n](/regional-customs-of-the-chinese-valentine-s-day.png)
 
 
 

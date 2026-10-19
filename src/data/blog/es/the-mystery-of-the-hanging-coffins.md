@@ -8,7 +8,7 @@ description: "El explorador Bai Fan descubrió que su amigo Sun Lin había irrum
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-hanging-coffins.png)
+![AstroPaper I18n](/the-mystery-of-the-hanging-coffins.png)
 
 
 

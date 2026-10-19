@@ -8,7 +8,7 @@ description: "لا توجد مياه على طريق بيجينلينغشان ف
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-spring-well.png)
+![AstroPaper I18n](/the-legend-of-the-jade-spring-well.png)
 
 
 

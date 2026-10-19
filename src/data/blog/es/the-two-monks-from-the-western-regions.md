@@ -8,7 +8,7 @@ description: "Dos monjes occidentales han pasado por dificultades para visitar l
 
 
 
-![AstroPaper I18n](/public/the-two-monks-from-the-western-regions.png)
+![AstroPaper I18n](/the-two-monks-from-the-western-regions.png)
 
 
 

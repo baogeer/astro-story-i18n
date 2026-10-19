@@ -8,7 +8,7 @@ description: "Un anciano de apellido Zhu de Zhujiacun en Jiyang volvió a la vid
 
 
 
-![AstroPaper I18n](/public/the-story-of-old-man-zhu.png)
+![AstroPaper I18n](/the-story-of-old-man-zhu.png)
 
 
 

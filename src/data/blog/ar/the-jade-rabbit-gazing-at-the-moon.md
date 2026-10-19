@@ -8,7 +8,7 @@ description: "سرق يو تو مكانًا غريبًا وتم إنقاذه م�
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-gazing-at-the-moon.png)
+![AstroPaper I18n](/the-jade-rabbit-gazing-at-the-moon.png)
 
 
 

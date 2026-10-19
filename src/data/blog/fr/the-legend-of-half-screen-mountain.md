@@ -8,7 +8,7 @@ description: "La montagne en demi-écran de Taïwan a la forme d'un couteau. La 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El pescador miao Bao se vengó de su único hijo Jiubao y quemó a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-dragon-boat-festival-in-southeastern-guizhou.png)
+![AstroPaper I18n](/the-legend-of-the-miao-dragon-boat-festival-in-southeastern-guizhou.png)
 
 
 

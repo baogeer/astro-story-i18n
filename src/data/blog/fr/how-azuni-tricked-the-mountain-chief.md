@@ -8,7 +8,7 @@ description: "Arjuni, une fermière hanie, a été trouvée en train de dormir p
 
 
 
-![AstroPaper I18n](/public/how-azuni-tricked-the-mountain-chief.png)
+![AstroPaper I18n](/how-azuni-tricked-the-mountain-chief.png)
 
 
 

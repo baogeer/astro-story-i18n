@@ -8,7 +8,7 @@ description: "Mu Lian's mother used dog meat steamed buns to trick the monk into
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-swallows-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-swallows-the-moon.png)
 
 
 

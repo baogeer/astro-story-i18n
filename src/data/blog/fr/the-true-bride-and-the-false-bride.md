@@ -8,7 +8,7 @@ description: "Les deux familles devant la montagne en face de la montagne se son
 
 
 
-![AstroPaper I18n](/public/the-true-bride-and-the-false-bride.png)
+![AstroPaper I18n](/the-true-bride-and-the-false-bride.png)
 
 
 

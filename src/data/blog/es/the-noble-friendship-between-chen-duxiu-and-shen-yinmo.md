@@ -8,7 +8,7 @@ description: "Chen Duxiu vio la caligrafía de Shen Yunmo por primera vez y crit
 
 
 
-![AstroPaper I18n](/public/the-noble-friendship-between-chen-duxiu-and-shen-yinmo.png)
+![AstroPaper I18n](/the-noble-friendship-between-chen-duxiu-and-shen-yinmo.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À côté du mont Dagu, deux sœurs serpents pratiquent depuis des
 
 
 
-![AstroPaper I18n](/public/the-snake-immortals-tribulation.png)
+![AstroPaper I18n](/the-snake-immortals-tribulation.png)
 
 
 

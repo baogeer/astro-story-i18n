@@ -8,7 +8,7 @@ description: "Xu, un pêcheur de Zichuan, s'est noyé dans l'alcool et a obtenu 
 
 
 
-![AstroPaper I18n](/public/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
+![AstroPaper I18n](/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
 
 
 

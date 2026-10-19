@@ -8,7 +8,7 @@ description: "In the early years of the Republic of China, the bankrupt wealthy 
 
 
 
-![AstroPaper I18n](/public/the-qingyangfang-murder-case.png)
+![AstroPaper I18n](/the-qingyangfang-murder-case.png)
 
 
 

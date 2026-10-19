@@ -8,7 +8,7 @@ description: "Лян Шаньбо и Чжу Интай прожили в одн�
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers-1628.png)
+![AstroPaper I18n](/the-butterfly-lovers-1628.png)
 
 
 

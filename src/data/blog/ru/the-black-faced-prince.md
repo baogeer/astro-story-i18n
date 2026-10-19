@@ -8,7 +8,7 @@ description: "Принц Савалон отправился далеко в п�
 
 
 
-![AstroPaper I18n](/public/the-black-faced-prince.png)
+![AstroPaper I18n](/the-black-faced-prince.png)
 
 
 

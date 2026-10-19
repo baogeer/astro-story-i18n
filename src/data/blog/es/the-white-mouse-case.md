@@ -8,7 +8,7 @@ description: "No hubo ningún incidente en el cruce del condado de Tengxian dura
 
 
 
-![AstroPaper I18n](/public/the-white-mouse-case.png)
+![AstroPaper I18n](/the-white-mouse-case.png)
 
 
 

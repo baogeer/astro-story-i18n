@@ -8,7 +8,7 @@ description: "وقعت يو تانغ تشون، وهي مومس مشهورة م�
 
 
 
-![AstroPaper I18n](/public/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
+![AstroPaper I18n](/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
 
 
 

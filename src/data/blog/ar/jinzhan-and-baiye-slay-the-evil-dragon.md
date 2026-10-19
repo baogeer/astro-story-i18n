@@ -8,7 +8,7 @@ description: "هناك تنانين في نهر جيولونغ في تشانغت
 
 
 
-![AstroPaper I18n](/public/jinzhan-and-baiye-slay-the-evil-dragon.png)
+![AstroPaper I18n](/jinzhan-and-baiye-slay-the-evil-dragon.png)
 
 
 

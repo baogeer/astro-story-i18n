@@ -8,7 +8,7 @@ description: "Qiantang avait autrefois deux Su Xiaoxiaoxa0: l'une était une cé
 
 
 
-![AstroPaper I18n](/public/the-two-su-xiaoxiao-of-qiantang.png)
+![AstroPaper I18n](/the-two-su-xiaoxiao-of-qiantang.png)
 
 
 

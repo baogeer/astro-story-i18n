@@ -8,7 +8,7 @@ description: "Miroto usó el sombrero de lluvia y las extremidades de su amo par
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-bunu-yao-creation-myth.png)
+![AstroPaper I18n](/miluotuo-the-bunu-yao-creation-myth.png)
 
 
 

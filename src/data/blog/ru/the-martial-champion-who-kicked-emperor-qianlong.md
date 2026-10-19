@@ -8,7 +8,7 @@ description: "В период правления Цяньлуна династи
 
 
 
-![AstroPaper I18n](/public/the-martial-champion-who-kicked-emperor-qianlong.png)
+![AstroPaper I18n](/the-martial-champion-who-kicked-emperor-qianlong.png)
 
 
 

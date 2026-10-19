@@ -8,7 +8,7 @@ description: "Wang Zhaojun est retourné dans la province de sa ville natale ava
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-and-the-peach-blossom-fish.png)
+![AstroPaper I18n](/wang-zhaojun-and-the-peach-blossom-fish.png)
 
 
 

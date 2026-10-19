@@ -8,7 +8,7 @@ description: "To save her mother, who was bewitched by the fox demon, 10-year-ol
 
 
 
-![AstroPaper I18n](/public/the-clever-boy-and-the-fox-spirits.png)
+![AstroPaper I18n](/the-clever-boy-and-the-fox-spirits.png)
 
 
 

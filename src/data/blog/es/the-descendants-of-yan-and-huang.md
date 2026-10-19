@@ -8,7 +8,7 @@ description: "Huangdi y Yandi unieron fuerzas con varias tribus para derrotar a 
 
 
 
-![AstroPaper I18n](/public/the-descendants-of-yan-and-huang.png)
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
 
 
 

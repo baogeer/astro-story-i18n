@@ -8,7 +8,7 @@ description: "Once upon a time, there was no moon in Zhuangxiang. The girl Yueme
 
 
 
-![AstroPaper I18n](/public/how-the-moon-came-to-be-a-zhuang-folktale.png)
+![AstroPaper I18n](/how-the-moon-came-to-be-a-zhuang-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Высокие кукурузные деревья фермера 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-horse-wolf-mountain.png)
+![AstroPaper I18n](/the-legend-of-horse-wolf-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El tanabata es un día de San Valentín tradicional chino, y hay m
 
 
 
-![AstroPaper I18n](/public/regional-customs-of-the-chinese-valentine-s-day.png)
+![AstroPaper I18n](/regional-customs-of-the-chinese-valentine-s-day.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La rana compitió con el tigre en el salto de longitud. Mordía si
 
 
 
-![AstroPaper I18n](/public/the-contest-between-the-tiger-and-the-frog.png)
+![AstroPaper I18n](/the-contest-between-the-tiger-and-the-frog.png)
 
 
 

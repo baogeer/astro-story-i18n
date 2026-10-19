@@ -8,7 +8,7 @@ description: "Wang Zengqi a été accro à l'alcool toute sa vie. Depuis que l'A
 
 
 
-![AstroPaper I18n](/public/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
+![AstroPaper I18n](/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
 
 
 

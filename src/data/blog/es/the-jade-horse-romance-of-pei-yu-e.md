@@ -8,7 +8,7 @@ description: "Huang Bo, un talentoso hijo de la dinastía Tang, conoció a Pei Y
 
 
 
-![AstroPaper I18n](/public/the-jade-horse-romance-of-pei-yu-e.png)
+![AstroPaper I18n](/the-jade-horse-romance-of-pei-yu-e.png)
 
 
 

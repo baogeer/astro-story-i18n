@@ -8,7 +8,7 @@ description: "Li Wan, un cazador de leña, disparó una vez contra un lobo malva
 
 
 
-![AstroPaper I18n](/public/the-grateful-white-rabbit.png)
+![AstroPaper I18n](/the-grateful-white-rabbit.png)
 
 
 

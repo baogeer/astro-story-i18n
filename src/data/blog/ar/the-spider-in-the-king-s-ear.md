@@ -8,7 +8,7 @@ description: "تمكن المراهق من فهم لغة الطيور بعد ت�
 
 
 
-![AstroPaper I18n](/public/the-spider-in-the-king-s-ear.png)
+![AstroPaper I18n](/the-spider-in-the-king-s-ear.png)
 
 
 

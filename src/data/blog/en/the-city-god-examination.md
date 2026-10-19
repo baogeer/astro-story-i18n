@@ -8,7 +8,7 @@ description: "Song Tao was invited to take the exam in the underworld due to her
 
 
 
-![AstroPaper I18n](/public/the-city-god-examination.png)
+![AstroPaper I18n](/the-city-god-examination.png)
 
 
 

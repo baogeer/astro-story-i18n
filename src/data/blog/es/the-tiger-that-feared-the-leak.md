@@ -8,7 +8,7 @@ description: "Un vendedor de vacas sacó a la vaca del templo y suspiró: «Los 
 
 
 
-![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
 
 
 

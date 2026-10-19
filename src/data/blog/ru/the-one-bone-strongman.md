@@ -8,7 +8,7 @@ description: "В деревне Шема есть влиятельный чел�
 
 
 
-![AstroPaper I18n](/public/the-one-bone-strongman.png)
+![AstroPaper I18n](/the-one-bone-strongman.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xu, un pescador de Zichuan, se ahogó en alcohol y su amigo fantas
 
 
 
-![AstroPaper I18n](/public/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
+![AstroPaper I18n](/wang-liulang-the-drowned-ghost-who-became-a-local-deity.png)
 
 
 

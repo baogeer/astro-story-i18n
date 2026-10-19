@@ -8,7 +8,7 @@ description: "Ah Zao, huérfana de la etnia yi, era pobre pero erguida. Las siet
 
 
 
-![AstroPaper I18n](/public/the-orphan-and-the-dragon-maiden.png)
+![AstroPaper I18n](/the-orphan-and-the-dragon-maiden.png)
 
 
 

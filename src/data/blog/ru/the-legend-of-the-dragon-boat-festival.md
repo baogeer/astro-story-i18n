@@ -8,7 +8,7 @@ description: "Сын покойной семьи Мяо был убит злым
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-boat-festival.png)
 
 
 

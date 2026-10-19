@@ -8,7 +8,7 @@ description: "Guidé par Dream White Rabbit, un chasseur de Yi, s'est rendu sur 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sapilu-and-the-little-walnut.png)
+![AstroPaper I18n](/the-legend-of-sapilu-and-the-little-walnut.png)
 
 
 

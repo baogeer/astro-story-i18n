@@ -8,7 +8,7 @@ description: "يروي الفيلم أربع قصص حزينة للغاية: م�
 
 
 
-![AstroPaper I18n](/public/extreme-joy-begets-sorrow.png)
+![AstroPaper I18n](/extreme-joy-begets-sorrow.png)
 
 
 

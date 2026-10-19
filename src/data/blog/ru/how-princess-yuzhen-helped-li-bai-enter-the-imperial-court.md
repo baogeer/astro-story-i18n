@@ -8,7 +8,7 @@ description: "Когда Ли Баю было 42 года, Тан Сюаньцз
 
 
 
-![AstroPaper I18n](/public/how-princess-yuzhen-helped-li-bai-enter-the-imperial-court.png)
+![AstroPaper I18n](/how-princess-yuzhen-helped-li-bai-enter-the-imperial-court.png)
 
 
 

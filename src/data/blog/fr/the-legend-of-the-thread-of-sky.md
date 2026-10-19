@@ -8,7 +8,7 @@ description: "Shi Wa est tombée amoureuse de Flower Girl, mais Thor était jalo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thread-of-sky.png)
+![AstroPaper I18n](/the-legend-of-the-thread-of-sky.png)
 
 
 

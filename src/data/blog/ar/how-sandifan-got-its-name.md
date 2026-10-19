@@ -8,7 +8,7 @@ description: "في السنوات الأولى من عهد أسرة تانغ، �
 
 
 
-![AstroPaper I18n](/public/how-sandifan-got-its-name.png)
+![AstroPaper I18n](/how-sandifan-got-its-name.png)
 
 
 

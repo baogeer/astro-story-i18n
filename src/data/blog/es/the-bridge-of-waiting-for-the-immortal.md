@@ -8,7 +8,7 @@ description: "Junto a la Torre Gulou de Hangzhou, junto al puente sin nombre, ha
 
 
 
-![AstroPaper I18n](/public/the-bridge-of-waiting-for-the-immortal.png)
+![AstroPaper I18n](/the-bridge-of-waiting-for-the-immortal.png)
 
 
 

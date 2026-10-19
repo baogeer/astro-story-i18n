@@ -8,7 +8,7 @@ description: "La plupart des expériences sexuelles prénuptiales de la dynastie
 
 
 
-![AstroPaper I18n](/public/the-first-bed-partners-of-chinese-emperors.png)
+![AstroPaper I18n](/the-first-bed-partners-of-chinese-emperors.png)
 
 
 

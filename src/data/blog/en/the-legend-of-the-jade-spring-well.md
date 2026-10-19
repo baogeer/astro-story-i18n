@@ -8,7 +8,7 @@ description: "There is no water on Beigenlingshan Road in southern Anhui, and th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-spring-well.png)
+![AstroPaper I18n](/the-legend-of-the-jade-spring-well.png)
 
 
 

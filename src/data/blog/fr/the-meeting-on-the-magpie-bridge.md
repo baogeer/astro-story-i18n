@@ -8,7 +8,7 @@ description: "Le vacher et le tisserand sont séparés par la mère royale qui d
 
 
 
-![AstroPaper I18n](/public/the-meeting-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-meeting-on-the-magpie-bridge.png)
 
 
 

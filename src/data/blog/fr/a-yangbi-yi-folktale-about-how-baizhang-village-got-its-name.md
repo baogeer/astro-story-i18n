@@ -8,7 +8,7 @@ description: "Le village de Baizhang à Yangyi était à l'origine connu sous le
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
 
 
 

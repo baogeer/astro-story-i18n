@@ -8,7 +8,7 @@ description: "خرج خطيبي، آه نيو، إلى العمل وتوفي ف�
 
 
 
-![AstroPaper I18n](/public/the-muntjac-husband-a-yi-folktale.png)
+![AstroPaper I18n](/the-muntjac-husband-a-yi-folktale.png)
 
 
 

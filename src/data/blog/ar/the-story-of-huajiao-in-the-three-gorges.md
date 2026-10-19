@@ -8,7 +8,7 @@ description: "بعد معالجة فيضانات الخوانق الثلاثة،
 
 
 
-![AstroPaper I18n](/public/the-story-of-huajiao-in-the-three-gorges.png)
+![AstroPaper I18n](/the-story-of-huajiao-in-the-three-gorges.png)
 
 
 

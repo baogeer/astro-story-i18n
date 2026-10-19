@@ -8,7 +8,7 @@ description: "Ах Хей и Абай поклонялись старым дру
 
 
 
-![AstroPaper I18n](/public/the-two-muleteers.png)
+![AstroPaper I18n](/the-two-muleteers.png)
 
 
 

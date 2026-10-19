@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة سونغ الجنوبية، حاص
 
 
 
-![AstroPaper I18n](/public/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
+![AstroPaper I18n](/the-epic-voyage-of-three-thousand-song-troops-breaking-the-yuan-blockade.png)
 
 
 

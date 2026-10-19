@@ -8,7 +8,7 @@ description: "La nuera de la familia Miao estaba embarazada de 15 años y dio a 
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-bamboo-kings.png)
+![AstroPaper I18n](/the-miao-legend-of-the-bamboo-kings.png)
 
 
 

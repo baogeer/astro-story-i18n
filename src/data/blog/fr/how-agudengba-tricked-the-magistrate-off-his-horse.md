@@ -8,7 +8,7 @@ description: "Quand Agutomba a vu Munemoto monter à cheval et l'a forcé à le 
 
 
 
-![AstroPaper I18n](/public/how-agudengba-tricked-the-magistrate-off-his-horse.png)
+![AstroPaper I18n](/how-agudengba-tricked-the-magistrate-off-his-horse.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La pobre pastora, Lily y el único caballo viejo de su familia, mu
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
 
 
 

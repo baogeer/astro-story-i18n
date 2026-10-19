@@ -8,7 +8,7 @@ description: "Прадед Сунь Тайбая переночевал в хр�
 
 
 
-![AstroPaper I18n](/public/the-mountain-ogre.png)
+![AstroPaper I18n](/the-mountain-ogre.png)
 
 
 

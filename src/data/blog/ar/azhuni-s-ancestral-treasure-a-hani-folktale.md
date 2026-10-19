@@ -8,7 +8,7 @@ description: "كان أهجوني، وهو شاب من قبيلة هاني، ر�
 
 
 
-![AstroPaper I18n](/public/azhuni-s-ancestral-treasure-a-hani-folktale.png)
+![AstroPaper I18n](/azhuni-s-ancestral-treasure-a-hani-folktale.png)
 
 
 

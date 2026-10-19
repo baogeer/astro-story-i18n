@@ -8,7 +8,7 @@ description: "Tofu is a poor fisherman. She caught a blue fish turned dragon gir
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fish-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-fish-maiden.png)
 
 
 

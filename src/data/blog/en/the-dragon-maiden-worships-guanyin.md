@@ -8,7 +8,7 @@ description: "Dragon Girl, the little daughter of the Dragon King in the East Ch
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-worships-guanyin.png)
+![AstroPaper I18n](/the-dragon-maiden-worships-guanyin.png)
 
 
 

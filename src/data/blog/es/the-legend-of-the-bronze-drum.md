@@ -8,7 +8,7 @@ description: "Baoluo, el antepasado del pueblo zhuang, enseñó a la gente a usa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bronze-drum.png)
+![AstroPaper I18n](/the-legend-of-the-bronze-drum.png)
 
 
 

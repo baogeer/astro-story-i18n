@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Tang, Yu Xuanji est devenu célèbre trè
 
 
 
-![AstroPaper I18n](/public/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
+![AstroPaper I18n](/yu-xuanji-s-swan-song-from-forsaken-wife-to-condemned-prisoner.png)
 
 
 

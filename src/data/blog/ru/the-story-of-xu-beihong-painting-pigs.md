@@ -8,7 +8,7 @@ description: "Сюй Бэйхун нарушил старую традицию �
 
 
 
-![AstroPaper I18n](/public/the-story-of-xu-beihong-painting-pigs.png)
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
 
 
 

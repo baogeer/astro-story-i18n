@@ -8,7 +8,7 @@ description: "Cet article répertorie dix sorciers, dont Xianyu, Chen Qingzhi et
 
 
 
-![AstroPaper I18n](/public/ten-unsung-heroes-who-pioneered-chinese-military-strategy.png)
+![AstroPaper I18n](/ten-unsung-heroes-who-pioneered-chinese-military-strategy.png)
 
 
 

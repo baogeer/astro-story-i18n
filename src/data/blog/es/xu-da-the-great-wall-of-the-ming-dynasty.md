@@ -8,7 +8,7 @@ description: "Xu Da, el comandante fundador de la dinastía Ming, dirigió un ej
 
 
 
-![AstroPaper I18n](/public/xu-da-the-great-wall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/xu-da-the-great-wall-of-the-ming-dynasty.png)
 
 
 

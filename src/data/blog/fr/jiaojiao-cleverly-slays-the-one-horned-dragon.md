@@ -8,7 +8,7 @@ description: "La licorne du prince Qi du dragon de mer de Chine orientale est de
 
 
 
-![AstroPaper I18n](/public/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
+![AstroPaper I18n](/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Miao girl Dianhua was taken away by monkeys and tortured. Foll
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pleated-skirt.png)
+![AstroPaper I18n](/the-legend-of-the-pleated-skirt.png)
 
 
 

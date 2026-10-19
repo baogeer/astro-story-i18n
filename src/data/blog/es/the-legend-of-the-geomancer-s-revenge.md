@@ -8,7 +8,7 @@ description: "Durante los años Kangxi de la dinastía Qing, un geógrafo instru
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-revenge.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-revenge.png)
 
 
 

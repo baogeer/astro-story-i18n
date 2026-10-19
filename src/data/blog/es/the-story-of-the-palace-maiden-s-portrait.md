@@ -8,7 +8,7 @@ description: "Por casualidad, el joven cogió leña y tuvo la suerte de volar al
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-palace-maiden-s-portrait.png)
+![AstroPaper I18n](/the-story-of-the-palace-maiden-s-portrait.png)
 
 
 

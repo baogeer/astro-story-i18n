@@ -8,7 +8,7 @@ description: "Lu Dongbin vio que la gente del condado de Sanyang no era amable e
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-the-heaven-sent-waters-of-lake-tai.png)
+![AstroPaper I18n](/the-eight-immortals-the-heaven-sent-waters-of-lake-tai.png)
 
 
 

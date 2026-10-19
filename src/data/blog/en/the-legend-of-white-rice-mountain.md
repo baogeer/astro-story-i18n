@@ -8,7 +8,7 @@ description: "When Zhang Zao met a white-haired Taoist, he took rice from stone 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-rice-mountain.png)
+![AstroPaper I18n](/the-legend-of-white-rice-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le cuirassé Li Sang a offensé Hadès en le harcelant. Hadès a e
 
 
 
-![AstroPaper I18n](/public/li-san-the-iron-tongued.png)
+![AstroPaper I18n](/li-san-the-iron-tongued.png)
 
 
 

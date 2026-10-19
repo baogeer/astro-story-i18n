@@ -8,7 +8,7 @@ description: "Il y a trois mères et filles de l'extérieur de la ville de Luzho
 
 
 
-![AstroPaper I18n](/public/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
+![AstroPaper I18n](/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
 
 
 

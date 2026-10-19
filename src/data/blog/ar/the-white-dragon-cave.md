@@ -8,7 +8,7 @@ description: "تسبب شر التنين الأسود في جفاف البحير
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-cave.png)
+![AstroPaper I18n](/the-white-dragon-cave.png)
 
 
 

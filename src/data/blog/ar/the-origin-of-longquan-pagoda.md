@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن جميع التنانين البي�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-longquan-pagoda.png)
+![AstroPaper I18n](/the-origin-of-longquan-pagoda.png)
 
 
 

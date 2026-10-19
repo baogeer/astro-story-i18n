@@ -8,7 +8,7 @@ description: "Fan Zhongyuan, a famous minister of the Northern Song Dynasty, wro
 
 
 
-![AstroPaper I18n](/public/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
+![AstroPaper I18n](/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
 
 
 

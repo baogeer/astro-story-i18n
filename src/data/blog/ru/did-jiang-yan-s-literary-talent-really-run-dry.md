@@ -8,7 +8,7 @@ description: "В ранние годы Цзян Юань был богат ли�
 
 
 
-![AstroPaper I18n](/public/did-jiang-yan-s-literary-talent-really-run-dry.png)
+![AstroPaper I18n](/did-jiang-yan-s-literary-talent-really-run-dry.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuando la madre de Luo Xiaocai murió, fue humillado por el padre 
 
 
 
-![AstroPaper I18n](/public/luo-xiaocai-sues-the-bully-zuo-huchao.png)
+![AstroPaper I18n](/luo-xiaocai-sues-the-bully-zuo-huchao.png)
 
 
 

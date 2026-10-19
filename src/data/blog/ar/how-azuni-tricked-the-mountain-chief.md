@@ -8,7 +8,7 @@ description: "وتبين أن أرجوني، وهي مزارعة من هاني،
 
 
 
-![AstroPaper I18n](/public/how-azuni-tricked-the-mountain-chief.png)
+![AstroPaper I18n](/how-azuni-tricked-the-mountain-chief.png)
 
 
 

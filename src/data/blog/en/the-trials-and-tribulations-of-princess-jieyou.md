@@ -8,7 +8,7 @@ description: "Princess Jieyu was ordered by Emperor Wu of Han and her cousin Wu 
 
 
 
-![AstroPaper I18n](/public/the-trials-and-tribulations-of-princess-jieyou.png)
+![AstroPaper I18n](/the-trials-and-tribulations-of-princess-jieyou.png)
 
 
 

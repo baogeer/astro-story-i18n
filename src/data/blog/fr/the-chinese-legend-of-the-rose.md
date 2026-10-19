@@ -8,7 +8,7 @@ description: "Après avoir mis de la boue sur des branches pour fabriquer des ge
 
 
 
-![AstroPaper I18n](/public/the-chinese-legend-of-the-rose.png)
+![AstroPaper I18n](/the-chinese-legend-of-the-rose.png)
 
 
 

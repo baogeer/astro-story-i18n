@@ -8,7 +8,7 @@ description: "Хосояги — мачеха. Когда её пасынок Ч
 
 
 
-![AstroPaper I18n](/public/how-xiliu-taught-her-sons.png)
+![AstroPaper I18n](/how-xiliu-taught-her-sons.png)
 
 
 

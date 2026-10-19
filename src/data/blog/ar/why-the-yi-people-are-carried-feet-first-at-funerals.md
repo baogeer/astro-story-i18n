@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة قبيلة يي، حارب روبا بح
 
 
 
-![AstroPaper I18n](/public/why-the-yi-people-are-carried-feet-first-at-funerals.png)
+![AstroPaper I18n](/why-the-yi-people-are-carried-feet-first-at-funerals.png)
 
 
 

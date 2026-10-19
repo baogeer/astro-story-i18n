@@ -8,7 +8,7 @@ description: "Miss Wang's tomb is the tomb of the eldest princess of Taiyuan. Zh
 
 
 
-![AstroPaper I18n](/public/the-tomb-of-miss-wang.png)
+![AstroPaper I18n](/the-tomb-of-miss-wang.png)
 
 
 

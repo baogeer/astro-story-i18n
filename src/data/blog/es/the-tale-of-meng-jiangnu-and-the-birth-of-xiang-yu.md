@@ -8,7 +8,7 @@ description: "Para proteger la sangre de Wan Xiliang, la mujer Meng Jiang huyó 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
+![AstroPaper I18n](/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
 
 
 

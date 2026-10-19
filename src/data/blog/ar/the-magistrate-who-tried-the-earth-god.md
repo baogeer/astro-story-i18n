@@ -8,7 +8,7 @@ description: "أمضى ما سان ثلاث سنوات في توفير 52 دول
 
 
 
-![AstroPaper I18n](/public/the-magistrate-who-tried-the-earth-god.png)
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
 
 
 

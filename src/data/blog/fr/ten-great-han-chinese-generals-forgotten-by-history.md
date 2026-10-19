@@ -8,7 +8,7 @@ description: "Bien que les dix principaux généraux han, tels que Chen Tang, Ra
 
 
 
-![AstroPaper I18n](/public/ten-great-han-chinese-generals-forgotten-by-history.png)
+![AstroPaper I18n](/ten-great-han-chinese-generals-forgotten-by-history.png)
 
 
 

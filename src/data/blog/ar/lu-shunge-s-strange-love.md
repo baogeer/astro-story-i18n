@@ -8,7 +8,7 @@ description: "خلال الحرب في عهد أسرة سونغ الجنوبية
 
 
 
-![AstroPaper I18n](/public/lu-shunge-s-strange-love.png)
+![AstroPaper I18n](/lu-shunge-s-strange-love.png)
 
 
 

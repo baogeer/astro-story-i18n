@@ -8,7 +8,7 @@ description: "El abuelo fue acosado por su esposo cuando cortaba leña; si no po
 
 
 
-![AstroPaper I18n](/public/the-clever-grandson-outwits-the-master.png)
+![AstroPaper I18n](/the-clever-grandson-outwits-the-master.png)
 
 
 

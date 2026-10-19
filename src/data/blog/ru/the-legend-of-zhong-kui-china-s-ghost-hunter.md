@@ -8,7 +8,7 @@ description: "Чжун Куй изначально был охотником з�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
+![AstroPaper I18n](/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "During the Tianshun years of the Ming dynasty, Lin'an military gen
 
 
 
-![AstroPaper I18n](/public/wang-jiaoluan-s-love-cast-in-vain.png)
+![AstroPaper I18n](/wang-jiaoluan-s-love-cast-in-vain.png)
 
 
 

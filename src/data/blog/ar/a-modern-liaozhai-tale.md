@@ -8,7 +8,7 @@ description: "«أنا»، المهووسة بـ «لياوزاي» منذ ال�
 
 
 
-![AstroPaper I18n](/public/a-modern-liaozhai-tale.png)
+![AstroPaper I18n](/a-modern-liaozhai-tale.png)
 
 
 

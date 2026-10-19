@@ -8,7 +8,7 @@ description: "This story tells the story of the origin of the place name Yuhuang
 
 
 
-![AstroPaper I18n](/public/the-origin-of-yuhuangding.png)
+![AstroPaper I18n](/the-origin-of-yuhuangding.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La princesse Goyang est la fille de Tang Taizong. Elle a été for
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-tragic-love-of-princess-gaoyang.png)
 
 
 

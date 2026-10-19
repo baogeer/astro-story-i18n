@@ -8,7 +8,7 @@ description: "Princess Yongtai is the daughter of Tang Zhongzong and the grandda
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-princess-yongtai-s-death.png)
+![AstroPaper I18n](/the-mystery-of-princess-yongtai-s-death.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the Tang Dynasty, Wu Yineng, the mayor of Zhaoyi County, took h
 
 
 
-![AstroPaper I18n](/public/magistrate-wu-yineng-loses-his-post.png)
+![AstroPaper I18n](/magistrate-wu-yineng-loses-his-post.png)
 
 
 

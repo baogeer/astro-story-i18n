@@ -8,7 +8,7 @@ description: "Dai guys often buy gourds from girls who sell gourds, and they hav
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-gourd-flute-a-dai-folktale.png)
+![AstroPaper I18n](/the-origin-of-the-gourd-flute-a-dai-folktale.png)
 
 
 

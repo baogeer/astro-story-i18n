@@ -8,7 +8,7 @@ description: "Ма Сан потратил три года на то, чтобы
 
 
 
-![AstroPaper I18n](/public/the-magistrate-who-tried-the-earth-god.png)
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Agutomba usó los ecos de las montañas y usó el ingenioso juicio
 
 
 
-![AstroPaper I18n](/public/the-sacred-judgment-of-akhu-tonpa.png)
+![AstroPaper I18n](/the-sacred-judgment-of-akhu-tonpa.png)
 
 
 

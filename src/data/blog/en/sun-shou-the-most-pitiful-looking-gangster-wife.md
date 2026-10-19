@@ -8,7 +8,7 @@ description: "Sun Shou is the brave wife of Liang Ji, a powerful minister in the
 
 
 
-![AstroPaper I18n](/public/sun-shou-the-most-pitiful-looking-gangster-wife.png)
+![AstroPaper I18n](/sun-shou-the-most-pitiful-looking-gangster-wife.png)
 
 
 

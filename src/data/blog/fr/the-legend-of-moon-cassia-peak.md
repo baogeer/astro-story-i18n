@@ -8,7 +8,7 @@ description: "Le soir de la fête de la mi-automne de la dynastie Tang, le moine
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moon-cassia-peak.png)
+![AstroPaper I18n](/the-legend-of-moon-cassia-peak.png)
 
 
 

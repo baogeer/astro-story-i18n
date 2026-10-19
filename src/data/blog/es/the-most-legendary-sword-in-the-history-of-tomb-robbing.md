@@ -8,7 +8,7 @@ description: "La Espada del Dragón es un arma robada por Sun Diying del mausole
 
 
 
-![AstroPaper I18n](/public/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
+![AstroPaper I18n](/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
 
 
 

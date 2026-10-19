@@ -8,7 +8,7 @@ description: "Según la leyenda de la etnia Yao, el rey de las vacas ayudaba a l
 
 
 
-![AstroPaper I18n](/public/the-yao-legend-of-the-ox-king-s-birthday.png)
+![AstroPaper I18n](/the-yao-legend-of-the-ox-king-s-birthday.png)
 
 
 

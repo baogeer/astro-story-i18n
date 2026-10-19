@@ -8,7 +8,7 @@ description: "Un joven pobre de la familia Zhuang se enamora de una chica, Ah Xi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-ball.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-ball.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Большинство добрачных сексуальных �
 
 
 
-![AstroPaper I18n](/public/the-first-bed-partners-of-chinese-emperors.png)
+![AstroPaper I18n](/the-first-bed-partners-of-chinese-emperors.png)
 
 
 

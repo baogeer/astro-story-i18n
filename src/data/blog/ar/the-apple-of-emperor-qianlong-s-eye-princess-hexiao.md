@@ -8,7 +8,7 @@ description: "كانت ابنة تشيان لونغ الصغيرة والأمي�
 
 
 
-![AstroPaper I18n](/public/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
+![AstroPaper I18n](/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
 
 
 

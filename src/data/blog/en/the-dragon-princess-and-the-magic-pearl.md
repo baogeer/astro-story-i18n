@@ -8,7 +8,7 @@ description: "He freed the rare yellow giant fish because he couldn't bear to ki
 
 
 
-![AstroPaper I18n](/public/the-dragon-princess-and-the-magic-pearl.png)
+![AstroPaper I18n](/the-dragon-princess-and-the-magic-pearl.png)
 
 
 

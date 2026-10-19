@@ -8,7 +8,7 @@ description: "لم يكن هناك أي حادث عند تقاطع مقاطعة 
 
 
 
-![AstroPaper I18n](/public/the-white-mouse-case.png)
+![AstroPaper I18n](/the-white-mouse-case.png)
 
 
 

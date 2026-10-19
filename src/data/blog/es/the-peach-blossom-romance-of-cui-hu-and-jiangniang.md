@@ -8,7 +8,7 @@ description: "Cui Hu conoció a una joven, Jiang Niang, en una excursión en Qin
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
+![AstroPaper I18n](/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
 
 
 

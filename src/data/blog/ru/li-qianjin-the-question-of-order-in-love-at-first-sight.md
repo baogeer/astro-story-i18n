@@ -8,7 +8,7 @@ description: "В оригинальной драме «Прямо на стен�
 
 
 
-![AstroPaper I18n](/public/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
+![AstroPaper I18n](/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
 
 
 

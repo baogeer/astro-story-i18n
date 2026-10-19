@@ -8,7 +8,7 @@ description: "هناك العديد من الجبال والجبال في الج
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-walking-corpses-in-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-walking-corpses-in-western-hunan.png)
 
 
 

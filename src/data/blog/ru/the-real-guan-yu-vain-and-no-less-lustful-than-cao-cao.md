@@ -8,7 +8,7 @@ description: "Гуань Ю — не идеальный герой фолькл�
 
 
 
-![AstroPaper I18n](/public/the-real-guan-yu-vain-and-no-less-lustful-than-cao-cao.png)
+![AstroPaper I18n](/the-real-guan-yu-vain-and-no-less-lustful-than-cao-cao.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان وو تشي رجلاً عسكريًا في الدول ال�
 
 
 
-![AstroPaper I18n](/public/the-cold-blooded-general-wu-qi.png)
+![AstroPaper I18n](/the-cold-blooded-general-wu-qi.png)
 
 
 

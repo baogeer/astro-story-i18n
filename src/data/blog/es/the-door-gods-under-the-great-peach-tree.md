@@ -8,7 +8,7 @@ description: "La puerta bajo el gran melocotonero del monte Saku, en el Mar del 
 
 
 
-![AstroPaper I18n](/public/the-door-gods-under-the-great-peach-tree.png)
+![AstroPaper I18n](/the-door-gods-under-the-great-peach-tree.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhong Kui was originally a ghost hunter in the Tang Dynasty. He wa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
+![AstroPaper I18n](/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
 
 
 

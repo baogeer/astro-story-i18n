@@ -8,7 +8,7 @@ description: "When Nu Wa saw that the battle between Zhu Rong and the common wor
 
 
 
-![AstroPaper I18n](/public/the-myth-of-nuwa-mending-the-sky.png)
+![AstroPaper I18n](/the-myth-of-nuwa-mending-the-sky.png)
 
 
 

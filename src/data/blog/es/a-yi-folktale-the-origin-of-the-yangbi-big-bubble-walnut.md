@@ -8,7 +8,7 @@ description: "Para resolver el problema de que la gente comiera aceite, el líde
 
 
 
-![AstroPaper I18n](/public/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
+![AstroPaper I18n](/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
 
 
 

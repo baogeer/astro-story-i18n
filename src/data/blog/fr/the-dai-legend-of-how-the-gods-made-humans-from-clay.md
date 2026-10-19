@@ -8,7 +8,7 @@ description: "Selon la légende du peuple Dai, lorsque le ciel et la terre se so
 
 
 
-![AstroPaper I18n](/public/the-dai-legend-of-how-the-gods-made-humans-from-clay.png)
+![AstroPaper I18n](/the-dai-legend-of-how-the-gods-made-humans-from-clay.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After losing the family estate, the lazy man plotted to take over 
 
 
 
-![AstroPaper I18n](/public/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
+![AstroPaper I18n](/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
 
 
 

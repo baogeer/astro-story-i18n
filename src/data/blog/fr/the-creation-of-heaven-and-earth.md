@@ -8,7 +8,7 @@ description: "Pangu a été chargé par la diseuse de bonne aventure de traquer 
 
 
 
-![AstroPaper I18n](/public/the-creation-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-creation-of-heaven-and-earth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Под руководством Dream White Rabbit охотник 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sapilu-and-the-little-walnut.png)
+![AstroPaper I18n](/the-legend-of-sapilu-and-the-little-walnut.png)
 
 
 

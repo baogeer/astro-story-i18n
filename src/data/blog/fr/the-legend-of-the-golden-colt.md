@@ -8,7 +8,7 @@ description: "Le vieux moine de la grotte de Jinshi dans la montagne Hongshan a 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-colt.png)
+![AstroPaper I18n](/the-legend-of-the-golden-colt.png)
 
 
 

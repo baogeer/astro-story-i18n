@@ -8,7 +8,7 @@ description: "Liu Xiu from the Eastern Han Dynasty was chased to the abyss of a 
 
 
 
-![AstroPaper I18n](/public/the-dragon-ploughed-road.png)
+![AstroPaper I18n](/the-dragon-ploughed-road.png)
 
 
 

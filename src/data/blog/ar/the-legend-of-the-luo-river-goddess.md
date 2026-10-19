@@ -8,7 +8,7 @@ description: "مي فاي هي ابنة فوكسي. لقد جاءت إلى ال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-luo-river-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-luo-river-goddess.png)
 
 
 

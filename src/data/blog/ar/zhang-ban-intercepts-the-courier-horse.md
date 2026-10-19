@@ -8,7 +8,7 @@ description: "تشانغ هو طالب كونفوشيوسي من فترة تشي
 
 
 
-![AstroPaper I18n](/public/zhang-ban-intercepts-the-courier-horse.png)
+![AstroPaper I18n](/zhang-ban-intercepts-the-courier-horse.png)
 
 
 

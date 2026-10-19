@@ -8,7 +8,7 @@ description: "Жители Линьаня (Южная Сун) ненавидел
 
 
 
-![AstroPaper I18n](/public/the-story-of-fried-hui.png)
+![AstroPaper I18n](/the-story-of-fried-hui.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le buffle d'eau avait à l'origine l'air choquant. On craignait qu
 
 
 
-![AstroPaper I18n](/public/why-the-water-buffalo-has-a-small-voice.png)
+![AstroPaper I18n](/why-the-water-buffalo-has-a-small-voice.png)
 
 
 

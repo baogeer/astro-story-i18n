@@ -8,7 +8,7 @@ description: "رفضت عائلة كو أن يتم إنقاذها بعد شرب 
 
 
 
-![AstroPaper I18n](/public/the-water-mang-grass.png)
+![AstroPaper I18n](/the-water-mang-grass.png)
 
 
 

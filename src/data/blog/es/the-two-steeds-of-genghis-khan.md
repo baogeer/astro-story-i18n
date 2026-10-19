@@ -8,7 +8,7 @@ description: "Los dos caballos de Genghis Khan tuvieron éxito en la caza, pero 
 
 
 
-![AstroPaper I18n](/public/the-two-steeds-of-genghis-khan.png)
+![AstroPaper I18n](/the-two-steeds-of-genghis-khan.png)
 
 
 

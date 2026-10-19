@@ -8,7 +8,7 @@ description: "كان آه هاي وآباي يعبدون الأصدقاء الق
 
 
 
-![AstroPaper I18n](/public/the-two-muleteers.png)
+![AstroPaper I18n](/the-two-muleteers.png)
 
 
 

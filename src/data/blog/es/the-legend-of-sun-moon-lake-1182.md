@@ -8,7 +8,7 @@ description: "El hermano Dajian y la hermana Shuishe vieron desaparecer el Sol y
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake-1182.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake-1182.png)
 
 
 

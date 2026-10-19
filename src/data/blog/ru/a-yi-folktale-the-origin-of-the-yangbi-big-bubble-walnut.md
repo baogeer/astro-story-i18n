@@ -8,7 +8,7 @@ description: "Чтобы решить проблему употребления 
 
 
 
-![AstroPaper I18n](/public/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
+![AstroPaper I18n](/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La légende raconte que le garçon est un bon bouddha, mais sa mè
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-eats-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-eats-the-moon.png)
 
 
 

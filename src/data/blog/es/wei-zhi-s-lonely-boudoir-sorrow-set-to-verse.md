@@ -8,7 +8,7 @@ description: "Wei Zhi es la esposa de Zeng Bu de Northern Song. No hubo noticias
 
 
 
-![AstroPaper I18n](/public/wei-zhi-s-lonely-boudoir-sorrow-set-to-verse.png)
+![AstroPaper I18n](/wei-zhi-s-lonely-boudoir-sorrow-set-to-verse.png)
 
 
 

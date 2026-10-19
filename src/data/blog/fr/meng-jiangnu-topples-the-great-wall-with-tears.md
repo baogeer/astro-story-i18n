@@ -8,7 +8,7 @@ description: "Lors de sa nuit de noces, la femme de Meng Jiang et le mari de Wan
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-topples-the-great-wall-with-tears.png)
+![AstroPaper I18n](/meng-jiangnu-topples-the-great-wall-with-tears.png)
 
 
 

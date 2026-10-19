@@ -8,7 +8,7 @@ description: "Han Xiang Zi es el sobrino de Han Yu. No le gusta leer, pero se le
 
 
 
-![AstroPaper I18n](/public/the-story-of-han-xiangzi-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-story-of-han-xiangzi-of-the-eight-immortals.png)
 
 
 

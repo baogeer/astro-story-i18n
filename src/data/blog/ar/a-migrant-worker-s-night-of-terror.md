@@ -8,7 +8,7 @@ description: "عادت الفتاة العاملة، هوانغ جوانجوان
 
 
 
-![AstroPaper I18n](/public/a-migrant-worker-s-night-of-terror.png)
+![AstroPaper I18n](/a-migrant-worker-s-night-of-terror.png)
 
 
 

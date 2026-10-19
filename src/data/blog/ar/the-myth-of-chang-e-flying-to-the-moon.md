@@ -8,7 +8,7 @@ description: "قام Houyi بتصويرها في التاسع، واحترمها
 
 
 
-![AstroPaper I18n](/public/the-myth-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-myth-of-chang-e-flying-to-the-moon.png)
 
 
 

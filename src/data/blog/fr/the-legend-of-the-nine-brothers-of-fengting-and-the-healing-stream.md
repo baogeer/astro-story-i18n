@@ -8,7 +8,7 @@ description: "He Renxia Jiuzi a découragé son père de participer à la rébel
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
+![AstroPaper I18n](/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
 
 
 

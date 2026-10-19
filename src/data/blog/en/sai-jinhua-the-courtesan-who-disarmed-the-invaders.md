@@ -8,7 +8,7 @@ description: "Sai Jinhua, a famous prostitute in the late Qing dynasty, traveled
 
 
 
-![AstroPaper I18n](/public/sai-jinhua-the-courtesan-who-disarmed-the-invaders.png)
+![AstroPaper I18n](/sai-jinhua-the-courtesan-who-disarmed-the-invaders.png)
 
 
 

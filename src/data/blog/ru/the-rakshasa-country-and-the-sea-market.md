@@ -8,7 +8,7 @@ description: "Ма Цзи вышла в море и отправилась в с
 
 
 
-![AstroPaper I18n](/public/the-rakshasa-country-and-the-sea-market.png)
+![AstroPaper I18n](/the-rakshasa-country-and-the-sea-market.png)
 
 
 

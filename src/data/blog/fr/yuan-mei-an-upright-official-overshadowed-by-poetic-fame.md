@@ -8,7 +8,7 @@ description: "Yuan Mei était un poète et procureur de la dynastie Qing qui a s
 
 
 
-![AstroPaper I18n](/public/yuan-mei-an-upright-official-overshadowed-by-poetic-fame.png)
+![AstroPaper I18n](/yuan-mei-an-upright-official-overshadowed-by-poetic-fame.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lorsque Qu Yigu a rêvé qu'un poisson sacré ramenait le corps de
 
 
 
-![AstroPaper I18n](/public/the-divine-fish-brings-qu-yuan-home.png)
+![AstroPaper I18n](/the-divine-fish-brings-qu-yuan-home.png)
 
 
 

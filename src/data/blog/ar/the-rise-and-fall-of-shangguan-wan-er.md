@@ -8,7 +8,7 @@ description: "تنحدر Shangguan Waner من عائلة مشهورة، لكنه
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-shangguan-wan-er.png)
+![AstroPaper I18n](/the-rise-and-fall-of-shangguan-wan-er.png)
 
 
 

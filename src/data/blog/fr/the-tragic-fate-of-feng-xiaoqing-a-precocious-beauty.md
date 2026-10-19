@@ -8,7 +8,7 @@ description: "Feng Xiaoqing était assez intelligent pour réciter les sutras bo
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
+![AstroPaper I18n](/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
 
 
 

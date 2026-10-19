@@ -8,7 +8,7 @@ description: "At the end of the Eastern Han Dynasty, Situ Wang Yun used the sing
 
 
 
-![AstroPaper I18n](/public/diao-chan-worships-the-moon.png)
+![AstroPaper I18n](/diao-chan-worships-the-moon.png)
 
 
 

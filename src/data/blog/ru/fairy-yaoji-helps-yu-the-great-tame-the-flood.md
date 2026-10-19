@@ -8,7 +8,7 @@ description: "Яо Цзи привел одиннадцать фей на тро
 
 
 
-![AstroPaper I18n](/public/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
+![AstroPaper I18n](/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Liu Bei and Sun Jian besieged the Yellow Scarves in Wancheng under
 
 
 
-![AstroPaper I18n](/public/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
+![AstroPaper I18n](/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
 
 
 

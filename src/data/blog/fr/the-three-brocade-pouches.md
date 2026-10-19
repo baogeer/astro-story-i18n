@@ -8,7 +8,7 @@ description: "À la fin de sa vie, Xiucai a laissé trois conseils. Il a créé 
 
 
 
-![AstroPaper I18n](/public/the-three-brocade-pouches.png)
+![AstroPaper I18n](/the-three-brocade-pouches.png)
 
 
 

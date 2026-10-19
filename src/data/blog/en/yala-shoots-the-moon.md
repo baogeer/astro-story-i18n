@@ -8,7 +8,7 @@ description: "In order to save the people, the hunter couple, Yara and Nie, foll
 
 
 
-![AstroPaper I18n](/public/yala-shoots-the-moon.png)
+![AstroPaper I18n](/yala-shoots-the-moon.png)
 
 
 

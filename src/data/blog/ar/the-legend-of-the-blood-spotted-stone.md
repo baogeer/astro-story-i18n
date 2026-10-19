@@ -8,7 +8,7 @@ description: "هناك الرخام السماقي الدموي على المن�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-blood-spotted-stone.png)
+![AstroPaper I18n](/the-legend-of-the-blood-spotted-stone.png)
 
 
 

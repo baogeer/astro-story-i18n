@@ -8,7 +8,7 @@ description: "Ма Юань, известный генерал из Восточ
 
 
 
-![AstroPaper I18n](/public/ma-yuan-s-admonition-to-his-nephews.png)
+![AstroPaper I18n](/ma-yuan-s-admonition-to-his-nephews.png)
 
 
 

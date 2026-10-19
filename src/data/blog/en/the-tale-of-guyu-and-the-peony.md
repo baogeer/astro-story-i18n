@@ -8,7 +8,7 @@ description: "Gu Yu, a youth in the Tang Dynasty, rescued a peony plant from the
 
 
 
-![AstroPaper I18n](/public/the-tale-of-guyu-and-the-peony.png)
+![AstroPaper I18n](/the-tale-of-guyu-and-the-peony.png)
 
 
 

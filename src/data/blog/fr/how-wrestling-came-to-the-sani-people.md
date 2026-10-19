@@ -8,7 +8,7 @@ description: "Selon la légende de Sani, un jeune homme Han évadé est devenu f
 
 
 
-![AstroPaper I18n](/public/how-wrestling-came-to-the-sani-people.png)
+![AstroPaper I18n](/how-wrestling-came-to-the-sani-people.png)
 
 
 

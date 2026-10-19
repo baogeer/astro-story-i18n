@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة هان الشرقية، من أج�
 
 
 
-![AstroPaper I18n](/public/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
+![AstroPaper I18n](/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
 
 
 

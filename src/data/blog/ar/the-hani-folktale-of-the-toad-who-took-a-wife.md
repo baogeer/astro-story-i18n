@@ -8,7 +8,7 @@ description: "حصل زوجان عجوزان من هاني على أبناء ا�
 
 
 
-![AstroPaper I18n](/public/the-hani-folktale-of-the-toad-who-took-a-wife.png)
+![AstroPaper I18n](/the-hani-folktale-of-the-toad-who-took-a-wife.png)
 
 
 

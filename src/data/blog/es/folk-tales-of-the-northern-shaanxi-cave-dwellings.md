@@ -8,7 +8,7 @@ description: "La gente del norte de Shaanxi considera que la reparación de cuev
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
+![AstroPaper I18n](/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
 
 
 

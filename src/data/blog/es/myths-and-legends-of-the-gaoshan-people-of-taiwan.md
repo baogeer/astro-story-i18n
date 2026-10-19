@@ -8,7 +8,7 @@ description: "En la antigüedad, los alpinos de Taiwán no tenían palabras escr
 
 
 
-![AstroPaper I18n](/public/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
+![AstroPaper I18n](/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
 
 
 

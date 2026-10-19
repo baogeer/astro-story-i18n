@@ -8,7 +8,7 @@ description: "Ян Шэн отправился в Лаошань в поиска
 
 
 
-![AstroPaper I18n](/public/the-twin-flower-immortals-of-mount-lao.png)
+![AstroPaper I18n](/the-twin-flower-immortals-of-mount-lao.png)
 
 
 

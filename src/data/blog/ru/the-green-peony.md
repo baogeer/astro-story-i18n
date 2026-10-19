@@ -8,7 +8,7 @@ description: "Чтобы найти зеленые пионы, Хуасянгу�
 
 
 
-![AstroPaper I18n](/public/the-green-peony.png)
+![AstroPaper I18n](/the-green-peony.png)
 
 
 

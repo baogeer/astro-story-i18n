@@ -8,7 +8,7 @@ description: "El cazador de Yi Zuo Qingshan salvó al Pequeño Rey Dragón, y la
 
 
 
-![AstroPaper I18n](/public/the-legend-of-snake-horse-village-and-the-well-dragon.png)
+![AstroPaper I18n](/the-legend-of-snake-horse-village-and-the-well-dragon.png)
 
 
 

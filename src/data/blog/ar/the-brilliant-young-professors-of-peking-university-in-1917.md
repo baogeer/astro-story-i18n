@@ -8,7 +8,7 @@ description: "جمعت جامعة بكين في عام 1917 مجموعة من ا
 
 
 
-![AstroPaper I18n](/public/the-brilliant-young-professors-of-peking-university-in-1917.png)
+![AstroPaper I18n](/the-brilliant-young-professors-of-peking-university-in-1917.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wen Zheng failed the Eighth Test, and his family was cold, but he 
 
 
 
-![AstroPaper I18n](/public/wen-zhengming-and-his-times.png)
+![AstroPaper I18n](/wen-zhengming-and-his-times.png)
 
 
 

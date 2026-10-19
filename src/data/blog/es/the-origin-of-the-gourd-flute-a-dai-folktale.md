@@ -8,7 +8,7 @@ description: "Los chicos Dai suelen comprar calabazas a chicas que las venden, y
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-gourd-flute-a-dai-folktale.png)
+![AstroPaper I18n](/the-origin-of-the-gourd-flute-a-dai-folktale.png)
 
 
 

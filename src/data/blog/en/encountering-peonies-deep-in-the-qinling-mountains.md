@@ -8,7 +8,7 @@ description: "During the Wanli period of the Ming Dynasty, the famous doctor Zha
 
 
 
-![AstroPaper I18n](/public/encountering-peonies-deep-in-the-qinling-mountains.png)
+![AstroPaper I18n](/encountering-peonies-deep-in-the-qinling-mountains.png)
 
 
 

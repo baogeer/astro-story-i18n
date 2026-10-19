@@ -8,7 +8,7 @@ description: "Cuozhu Danqiong se casó con el diablo. Después de escapar del di
 
 
 
-![AstroPaper I18n](/public/the-story-of-tsodruk-dandron.png)
+![AstroPaper I18n](/the-story-of-tsodruk-dandron.png)
 
 
 

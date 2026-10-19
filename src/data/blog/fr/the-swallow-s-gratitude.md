@@ -8,7 +8,7 @@ description: "Une pauvre vieille dame de l'ouest a soign√© une hirondelle bless√
 
 
 
-![AstroPaper I18n](/public/the-swallow-s-gratitude.png)
+![AstroPaper I18n](/the-swallow-s-gratitude.png)
 
 
 

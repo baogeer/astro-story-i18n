@@ -8,7 +8,7 @@ description: "In Mongolian folklore, as a messenger from the celestial world, co
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-eagle-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-eagle-totem-worship.png)
 
 
 

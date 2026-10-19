@@ -8,7 +8,7 @@ description: "King Swan protected the country and Minister Miao Rong were kidnap
 
 
 
-![AstroPaper I18n](/public/the-swan-minister.png)
+![AstroPaper I18n](/the-swan-minister.png)
 
 
 

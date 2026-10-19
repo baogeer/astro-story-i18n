@@ -8,7 +8,7 @@ description: "Para salvar a la gente del condado de Shanyang, Guanyin convirtió
 
 
 
-![AstroPaper I18n](/public/the-dragonfly-messenger.png)
+![AstroPaper I18n](/the-dragonfly-messenger.png)
 
 
 

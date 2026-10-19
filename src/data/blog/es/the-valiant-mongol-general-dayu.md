@@ -8,7 +8,7 @@ description: "El general Dayu de Genghis Khan era asombroso. Cuando marchaba, ut
 
 
 
-![AstroPaper I18n](/public/the-valiant-mongol-general-dayu.png)
+![AstroPaper I18n](/the-valiant-mongol-general-dayu.png)
 
 
 

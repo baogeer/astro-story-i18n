@@ -8,7 +8,7 @@ description: "قاد لي فاي فريقًا مكونًا من 6 أفراد ل�
 
 
 
-![AstroPaper I18n](/public/the-six-man-squad-that-defeated-two-american-battalions.png)
+![AstroPaper I18n](/the-six-man-squad-that-defeated-two-american-battalions.png)
 
 
 

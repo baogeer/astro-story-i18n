@@ -8,7 +8,7 @@ description: "Семь фей заподозрили Донг Юна в бедн
 
 
 
-![AstroPaper I18n](/public/the-seventh-fairy-s-divorce.png)
+![AstroPaper I18n](/the-seventh-fairy-s-divorce.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The age difference between Yang Guifei and Li Bai is 18 years. Li 
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-li-bai-and-emperor-xuanzong-s-love-triangle.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-li-bai-and-emperor-xuanzong-s-love-triangle.png)
 
 
 

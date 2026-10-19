@@ -8,7 +8,7 @@ description: "Under the oppression of the idea of chastity, ancient widows came 
 
 
 
-![AstroPaper I18n](/public/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
+![AstroPaper I18n](/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
 
 
 

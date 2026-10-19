@@ -8,7 +8,7 @@ description: "أعجبت دونغ شياوان، العاهرة الشهيرة �
 
 
 
-![AstroPaper I18n](/public/dong-xiaowan-even-a-salon-hostess-needs-a-home.png)
+![AstroPaper I18n](/dong-xiaowan-even-a-salon-hostess-needs-a-home.png)
 
 
 

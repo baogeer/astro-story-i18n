@@ -8,7 +8,7 @@ description: "قام «متنمر الزهور» التابع لحكومة مق�
 
 
 
-![AstroPaper I18n](/public/the-fire-tempered-golden-peony.png)
+![AstroPaper I18n](/the-fire-tempered-golden-peony.png)
 
 
 

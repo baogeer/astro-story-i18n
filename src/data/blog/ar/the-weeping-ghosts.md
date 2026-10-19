@@ -8,7 +8,7 @@ description: "كانت عائلة وانغ تشيشيانغ مليئة بالل�
 
 
 
-![AstroPaper I18n](/public/the-weeping-ghosts.png)
+![AstroPaper I18n](/the-weeping-ghosts.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжоу Шэн и Чэн Шэн — лучшие друзья. Ч
 
 
 
-![AstroPaper I18n](/public/how-cheng-became-an-immortal.png)
+![AstroPaper I18n](/how-cheng-became-an-immortal.png)
 
 
 

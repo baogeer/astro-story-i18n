@@ -8,7 +8,7 @@ description: "Дедушка Синю оказал сопротивление И
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
 
 
 

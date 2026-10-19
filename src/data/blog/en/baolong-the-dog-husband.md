@@ -8,7 +8,7 @@ description: "Gao Zu's hydrangea was snatched by the evil white dog Liu Yi. The 
 
 
 
-![AstroPaper I18n](/public/baolong-the-dog-husband.png)
+![AstroPaper I18n](/baolong-the-dog-husband.png)
 
 
 

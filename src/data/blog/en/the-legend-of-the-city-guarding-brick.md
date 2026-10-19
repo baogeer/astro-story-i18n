@@ -8,7 +8,7 @@ description: "The legend of Dingcheng bricks tells that when Jiayuguan was repai
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-city-guarding-brick.png)
+![AstroPaper I18n](/the-legend-of-the-city-guarding-brick.png)
 
 
 

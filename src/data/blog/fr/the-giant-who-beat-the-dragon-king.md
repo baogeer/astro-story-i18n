@@ -8,7 +8,7 @@ description: "Lorsque le géant Qian Dawang a ramassé du sel de l'autre côté 
 
 
 
-![AstroPaper I18n](/public/the-giant-who-beat-the-dragon-king.png)
+![AstroPaper I18n](/the-giant-who-beat-the-dragon-king.png)
 
 
 

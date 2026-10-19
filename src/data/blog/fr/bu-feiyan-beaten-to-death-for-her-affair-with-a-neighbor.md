@@ -8,7 +8,7 @@ description: "Bu Feiyan, la concubine de Henan Fugong Cao et de Wu Gong sous la 
 
 
 
-![AstroPaper I18n](/public/bu-feiyan-beaten-to-death-for-her-affair-with-a-neighbor.png)
+![AstroPaper I18n](/bu-feiyan-beaten-to-death-for-her-affair-with-a-neighbor.png)
 
 
 

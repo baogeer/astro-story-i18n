@@ -8,7 +8,7 @@ description: "Охотник Фан Куньцунь ночью посетил �
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-strange-encounter.png)
+![AstroPaper I18n](/the-hunter-s-strange-encounter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Durante los años de Kangxi, Manren Han Qing desenterró un gran g
 
 
 
-![AstroPaper I18n](/public/the-legend-of-building-high-graves-at-the-qingming-festival.png)
+![AstroPaper I18n](/the-legend-of-building-high-graves-at-the-qingming-festival.png)
 
 
 

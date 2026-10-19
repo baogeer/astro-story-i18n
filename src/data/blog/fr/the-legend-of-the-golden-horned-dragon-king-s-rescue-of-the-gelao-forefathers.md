@@ -8,7 +8,7 @@ description: "Les ancêtres de l'ethnie Yilao ont rencontré des tigres dans les
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
+![AstroPaper I18n](/the-legend-of-the-golden-horned-dragon-king-s-rescue-of-the-gelao-forefathers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Агутомба поспорил с крепостным, что 
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-lord-learns-to-bark.png)
+![AstroPaper I18n](/agudengba-stories-the-lord-learns-to-bark.png)
 
 
 

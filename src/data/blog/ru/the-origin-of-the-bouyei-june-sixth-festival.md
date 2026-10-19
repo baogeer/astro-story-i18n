@@ -8,7 +8,7 @@ description: "Зарождение праздника «6 июня» народ�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-june-sixth-festival.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-june-sixth-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чэнь Юаньюань, известная проститутк
 
 
 
-![AstroPaper I18n](/public/chen-yuanyuan-reunited-with-wu-sangui-and-abandoned-in-old-age.png)
+![AstroPaper I18n](/chen-yuanyuan-reunited-with-wu-sangui-and-abandoned-in-old-age.png)
 
 
 

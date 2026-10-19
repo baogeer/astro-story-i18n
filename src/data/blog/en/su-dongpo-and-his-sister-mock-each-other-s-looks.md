@@ -8,7 +8,7 @@ description: "Xiaomei Su and her older brother Su Shi often fight in poetry. Su 
 
 
 
-![AstroPaper I18n](/public/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
+![AstroPaper I18n](/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
 
 
 

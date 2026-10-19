@@ -8,7 +8,7 @@ description: "Grandpa Xinu resisted Yin, and Hades personally picked it up. He d
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un fantasma llamó al gobernador Tang Zhiyu, que está directament
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-feigned-ghost.png)
+![AstroPaper I18n](/the-strange-case-of-the-feigned-ghost.png)
 
 
 

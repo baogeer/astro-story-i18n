@@ -8,7 +8,7 @@ description: "Хэ Шуанцин, талантливая девочка из д
 
 
 
-![AstroPaper I18n](/public/he-shuangqing-a-flower-stuck-in-cow-dung.png)
+![AstroPaper I18n](/he-shuangqing-a-flower-stuck-in-cow-dung.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أنقذ يونغ أوانغ جنية الشاي موري ليكي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tea-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-tea-maiden.png)
 
 
 

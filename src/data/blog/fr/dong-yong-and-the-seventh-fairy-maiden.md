@@ -8,7 +8,7 @@ description: "Dong Yong s'est vendue aux funérailles de son père et les Sept F
 
 
 
-![AstroPaper I18n](/public/dong-yong-and-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/dong-yong-and-the-seventh-fairy-maiden.png)
 
 
 

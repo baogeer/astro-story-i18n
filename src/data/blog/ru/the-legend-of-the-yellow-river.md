@@ -8,7 +8,7 @@ description: "В легенде о Желтой реке рассказывае�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river.png)
 
 
 

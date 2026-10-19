@@ -8,7 +8,7 @@ description: "Aaron, un descendant de la tribu Buyei, est tombé amoureux des Se
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
 
 
 

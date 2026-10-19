@@ -8,7 +8,7 @@ description: "Wang Zhaojun a été élu au palais en raison de son travail de pe
 
 
 
-![AstroPaper I18n](/public/a-tear-on-the-road-of-no-return.png)
+![AstroPaper I18n](/a-tear-on-the-road-of-no-return.png)
 
 
 

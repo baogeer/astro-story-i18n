@@ -8,7 +8,7 @@ description: "تتضمن أساطير وخرافات عائلة توجيا قص�
 
 
 
-![AstroPaper I18n](/public/tujia-myths-and-legends.png)
+![AstroPaper I18n](/tujia-myths-and-legends.png)
 
 
 

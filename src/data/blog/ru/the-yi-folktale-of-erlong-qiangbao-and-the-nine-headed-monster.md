@@ -8,7 +8,7 @@ description: "В народных сказках Йи Эрлонг, сын, ро
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
+![AstroPaper I18n](/the-yi-folktale-of-erlong-qiangbao-and-the-nine-headed-monster.png)
 
 
 

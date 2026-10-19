@@ -8,7 +8,7 @@ description: "Mr. Fengyang hadn't returned from home for a long time. The wife w
 
 
 
-![AstroPaper I18n](/public/the-scholar-of-fengyang.png)
+![AstroPaper I18n](/the-scholar-of-fengyang.png)
 
 
 

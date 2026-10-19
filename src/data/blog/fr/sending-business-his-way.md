@@ -8,7 +8,7 @@ description: "Feng Daquan était fasciné par le chiot de Zhang qui tissait une 
 
 
 
-![AstroPaper I18n](/public/sending-business-his-way.png)
+![AstroPaper I18n](/sending-business-his-way.png)
 
 
 

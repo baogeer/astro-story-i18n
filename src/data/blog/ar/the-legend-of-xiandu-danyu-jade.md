@@ -8,7 +8,7 @@ description: "مارس Xuanyuan Huangdi السحر في قمة دينغهو في
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiandu-danyu-jade.png)
+![AstroPaper I18n](/the-legend-of-xiandu-danyu-jade.png)
 
 
 

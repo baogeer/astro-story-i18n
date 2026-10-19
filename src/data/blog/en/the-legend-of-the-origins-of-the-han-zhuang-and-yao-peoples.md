@@ -8,7 +8,7 @@ description: "In ancient times, the mountains of Boras and Minotthos were split 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origins-of-the-han-zhuang-and-yao-peoples.png)
+![AstroPaper I18n](/the-legend-of-the-origins-of-the-han-zhuang-and-yao-peoples.png)
 
 
 

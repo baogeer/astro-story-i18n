@@ -8,7 +8,7 @@ description: "لا تستطيع القصيدة المتزوجة حديثًا أ�
 
 
 
-![AstroPaper I18n](/public/the-ominous-sign-in-the-mirror.png)
+![AstroPaper I18n](/the-ominous-sign-in-the-mirror.png)
 
 
 

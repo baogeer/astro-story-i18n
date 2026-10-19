@@ -8,7 +8,7 @@ description: "Чтобы уберечь Мэнцюса от плохой окр�
 
 
 
-![AstroPaper I18n](/public/mencius-mother-moves-three-times-to-educate-her-son.png)
+![AstroPaper I18n](/mencius-mother-moves-three-times-to-educate-her-son.png)
 
 
 

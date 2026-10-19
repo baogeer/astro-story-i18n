@@ -8,7 +8,7 @@ description: "В детстве Корте Чену воспитывала во�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
+![AstroPaper I18n](/the-mongolian-origin-legend-of-the-blue-wolf-and-the-white-deer.png)
 
 
 

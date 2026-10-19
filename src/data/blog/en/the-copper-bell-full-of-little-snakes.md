@@ -8,7 +8,7 @@ description: "When cleaning up the ancient Yellow River Trail in the sixties, pe
 
 
 
-![AstroPaper I18n](/public/the-copper-bell-full-of-little-snakes.png)
+![AstroPaper I18n](/the-copper-bell-full-of-little-snakes.png)
 
 
 

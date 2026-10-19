@@ -8,7 +8,7 @@ description: "Empress Dowager Qin Xuan of the Sengoku period used a bed position
 
 
 
-![AstroPaper I18n](/public/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
+![AstroPaper I18n](/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تشو شنغ وتشنغ شنغ صديقان حميمان. تم س
 
 
 
-![AstroPaper I18n](/public/how-cheng-became-an-immortal.png)
+![AstroPaper I18n](/how-cheng-became-an-immortal.png)
 
 
 

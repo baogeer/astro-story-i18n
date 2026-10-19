@@ -8,7 +8,7 @@ description: "تم تعيين باو تشو من قبل ليو لاولانج ذ
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy.png)
+![AstroPaper I18n](/the-peony-fairy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Tibetan princess was framed by a maid, and the triplets were a
 
 
 
-![AstroPaper I18n](/public/mindilin-the-magic-bird.png)
+![AstroPaper I18n](/mindilin-the-magic-bird.png)
 
 
 

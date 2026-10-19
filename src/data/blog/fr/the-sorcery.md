@@ -8,7 +8,7 @@ description: "Si vous ne croyez pas au Gong ou non, la prophétie de la voyante 
 
 
 
-![AstroPaper I18n](/public/the-sorcery.png)
+![AstroPaper I18n](/the-sorcery.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تزوج لو شيوكاي من قوانغدونغ في عهد أ�
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-scholar-who-divorced-his-wife.png)
 
 
 

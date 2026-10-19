@@ -8,7 +8,7 @@ description: "Большой черный дракон живет в ивово�
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-moves-away.png)
+![AstroPaper I18n](/the-great-black-dragon-moves-away.png)
 
 
 

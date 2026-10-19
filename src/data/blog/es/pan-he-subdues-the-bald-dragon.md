@@ -8,7 +8,7 @@ description: "Pan y Fu Dulong: Hay un dragón calvo feo y sucio que vive en la m
 
 
 
-![AstroPaper I18n](/public/pan-he-subdues-the-bald-dragon.png)
+![AstroPaper I18n](/pan-he-subdues-the-bald-dragon.png)
 
 
 

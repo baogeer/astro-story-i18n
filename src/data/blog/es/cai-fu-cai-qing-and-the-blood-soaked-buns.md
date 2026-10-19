@@ -8,7 +8,7 @@ description: "El hermano Cai Fu, el verdugo, no tenía combustible debido a las 
 
 
 
-![AstroPaper I18n](/public/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
 
 
 

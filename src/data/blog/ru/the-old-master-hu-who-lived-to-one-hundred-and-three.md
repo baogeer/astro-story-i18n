@@ -8,7 +8,7 @@ description: "Золотодобытчик из Китайской Респуб�
 
 
 
-![AstroPaper I18n](/public/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
+![AstroPaper I18n](/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Хуанди и Янди объединили усилия с ра
 
 
 
-![AstroPaper I18n](/public/the-descendants-of-yan-and-huang.png)
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
 
 
 

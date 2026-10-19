@@ -8,7 +8,7 @@ description: "Fu Qiubo, a fairy from Western Han, traveled to Jingning with two 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-creek.png)
+![AstroPaper I18n](/the-legend-of-crane-creek.png)
 
 
 

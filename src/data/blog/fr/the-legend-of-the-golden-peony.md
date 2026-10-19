@@ -8,7 +8,7 @@ description: "À Diancangshan, Dali, Yunnan, afin de sauver son vieux père kidn
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-peony.png)
+![AstroPaper I18n](/the-legend-of-the-golden-peony.png)
 
 
 

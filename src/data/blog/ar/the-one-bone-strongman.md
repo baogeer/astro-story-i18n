@@ -8,7 +8,7 @@ description: "هناك رجل قوي بذراع واحدة فقط في قرية 
 
 
 
-![AstroPaper I18n](/public/the-one-bone-strongman.png)
+![AstroPaper I18n](/the-one-bone-strongman.png)
 
 
 

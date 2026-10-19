@@ -8,7 +8,7 @@ description: "La fille de l'ethnie Buyei s'est mariée séparément. Quiconque p
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-wind-following-ear.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-wind-following-ear.png)
 
 
 

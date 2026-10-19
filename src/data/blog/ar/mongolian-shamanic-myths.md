@@ -8,7 +8,7 @@ description: "في أساطير الشامان المنغولية، قامت ف�
 
 
 
-![AstroPaper I18n](/public/mongolian-shamanic-myths.png)
+![AstroPaper I18n](/mongolian-shamanic-myths.png)
 
 
 

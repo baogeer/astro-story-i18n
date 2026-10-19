@@ -8,7 +8,7 @@ description: "В Лунтане в Чжэнцзяшане, Чжоушань, ж�
 
 
 
-![AstroPaper I18n](/public/the-old-steward-dragon.png)
+![AstroPaper I18n](/the-old-steward-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chang Yu is from a wealthy family in Sichuan. Since childhood, she
 
 
 
-![AstroPaper I18n](/public/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
+![AstroPaper I18n](/sanyu-an-artist-who-lived-only-by-his-own-temperament.png)
 
 
 

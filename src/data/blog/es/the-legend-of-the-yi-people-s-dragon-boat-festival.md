@@ -8,7 +8,7 @@ description: "En la antigüedad, el bandidaje hacía estragos en el distrito de 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-dragon-boat-festival.png)
 
 
 

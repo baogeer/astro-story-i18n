@@ -8,7 +8,7 @@ description: "Ah Xiang from Zhi Village on the Yangyi River was abducted by King
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
 
 
 

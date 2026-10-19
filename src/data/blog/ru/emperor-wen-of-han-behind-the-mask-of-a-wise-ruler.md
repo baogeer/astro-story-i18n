@@ -8,7 +8,7 @@ description: "Когда император Хань Вэнь Лю Хэн взо
 
 
 
-![AstroPaper I18n](/public/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
+![AstroPaper I18n](/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
 
 
 

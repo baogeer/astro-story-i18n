@@ -8,7 +8,7 @@ description: "В 1915 году Сунь Ятсен написал своей ж�
 
 
 
-![AstroPaper I18n](/public/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
+![AstroPaper I18n](/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
 
 
 

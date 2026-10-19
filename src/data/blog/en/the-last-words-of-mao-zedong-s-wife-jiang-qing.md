@@ -8,7 +8,7 @@ description: "While seeking medical treatment outside of Bao, Jiang Qing refused
 
 
 
-![AstroPaper I18n](/public/the-last-words-of-mao-zedong-s-wife-jiang-qing.png)
+![AstroPaper I18n](/the-last-words-of-mao-zedong-s-wife-jiang-qing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuando pastoreaban, la anciana de pelo blanco les indicó a las he
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
 
 
 

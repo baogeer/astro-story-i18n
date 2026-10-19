@@ -8,7 +8,7 @@ description: "من أجل إبقاء Mencius بعيدًا عن البيئة ال
 
 
 
-![AstroPaper I18n](/public/mencius-mother-moves-three-times-to-educate-her-son.png)
+![AstroPaper I18n](/mencius-mother-moves-three-times-to-educate-her-son.png)
 
 
 

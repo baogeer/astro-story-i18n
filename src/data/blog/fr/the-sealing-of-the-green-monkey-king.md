@@ -8,7 +8,7 @@ description: "Le Blue Monkey King a conduit un groupe de singes à endommager le
 
 
 
-![AstroPaper I18n](/public/the-sealing-of-the-green-monkey-king.png)
+![AstroPaper I18n](/the-sealing-of-the-green-monkey-king.png)
 
 
 

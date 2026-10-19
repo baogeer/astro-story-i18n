@@ -8,7 +8,7 @@ description: "После 38-летия Яна Гуйфэя вспыхнуло в
 
 
 
-![AstroPaper I18n](/public/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
+![AstroPaper I18n](/yang-guifei-the-scapegoat-of-the-an-lushan-rebellion.png)
 
 
 

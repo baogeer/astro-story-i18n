@@ -8,7 +8,7 @@ description: "Han Yu and Meng Jiao are deeply affectionate. They often sing join
 
 
 
-![AstroPaper I18n](/public/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
+![AstroPaper I18n](/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
 
 
 

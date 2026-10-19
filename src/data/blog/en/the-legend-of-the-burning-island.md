@@ -8,7 +8,7 @@ description: "Ali and Sister Ali loved her son Agou too much, and if the moon di
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-burning-island.png)
+![AstroPaper I18n](/the-legend-of-the-burning-island.png)
 
 
 

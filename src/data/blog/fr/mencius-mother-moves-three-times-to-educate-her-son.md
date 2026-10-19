@@ -8,7 +8,7 @@ description: "Afin d'éloigner Mencius du mauvais environnement, Meng Mu a dém�
 
 
 
-![AstroPaper I18n](/public/mencius-mother-moves-three-times-to-educate-her-son.png)
+![AstroPaper I18n](/mencius-mother-moves-three-times-to-educate-her-son.png)
 
 
 

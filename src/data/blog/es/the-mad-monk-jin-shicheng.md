@@ -8,7 +8,7 @@ description: "Kim Se-sung actuó imprudentemente. Después de salir de casa, se 
 
 
 
-![AstroPaper I18n](/public/the-mad-monk-jin-shicheng.png)
+![AstroPaper I18n](/the-mad-monk-jin-shicheng.png)
 
 
 

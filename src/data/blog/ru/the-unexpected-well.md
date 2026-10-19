@@ -8,7 +8,7 @@ description: "Чжоу Шэн, старый коллекционер нарко�
 
 
 
-![AstroPaper I18n](/public/the-unexpected-well.png)
+![AstroPaper I18n](/the-unexpected-well.png)
 
 
 

@@ -8,7 +8,7 @@ description: "While digging a grave, the old man accidentally found a can of gol
 
 
 
-![AstroPaper I18n](/public/the-treasure-and-the-greedy-priest.png)
+![AstroPaper I18n](/the-treasure-and-the-greedy-priest.png)
 
 
 

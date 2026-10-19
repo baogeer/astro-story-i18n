@@ -8,7 +8,7 @@ description: "Eugene Ram a été contraint d'errer parce que son patron l'a forc
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yangchen-lhamo.png)
+![AstroPaper I18n](/the-tale-of-yangchen-lhamo.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чанъэ заставила Хоу И работать вне д
 
 
 
-![AstroPaper I18n](/public/chang-e-flies-to-the-moon.png)
+![AstroPaper I18n](/chang-e-flies-to-the-moon.png)
 
 
 

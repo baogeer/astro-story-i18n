@@ -8,7 +8,7 @@ description: "В первые годы существования Китайск
 
 
 
-![AstroPaper I18n](/public/the-qingyangfang-murder-case.png)
+![AstroPaper I18n](/the-qingyangfang-murder-case.png)
 
 
 

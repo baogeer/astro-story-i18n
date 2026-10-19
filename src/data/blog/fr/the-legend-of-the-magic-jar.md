@@ -8,7 +8,7 @@ description: "Alors que la pauvre mère et son fils coupaient l'herbe, Yang Yi a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-magic-jar.png)
+![AstroPaper I18n](/the-legend-of-the-magic-jar.png)
 
 
 

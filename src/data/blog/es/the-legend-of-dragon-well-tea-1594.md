@@ -8,7 +8,7 @@ description: "Cuando el emperador Qianlong de la dinastía Qing visitó Jiangnan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea-1594.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea-1594.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tras la muerte del «Dios del Hacha» Yan Wu, su aprendiz mayor, G
 
 
 
-![AstroPaper I18n](/public/gao-he-s-magic-axe.png)
+![AstroPaper I18n](/gao-he-s-magic-axe.png)
 
 
 

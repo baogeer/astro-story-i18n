@@ -8,7 +8,7 @@ description: "Al limpiar el antiguo sendero del río Amarillo en los años sesen
 
 
 
-![AstroPaper I18n](/public/the-copper-bell-full-of-little-snakes.png)
+![AstroPaper I18n](/the-copper-bell-full-of-little-snakes.png)
 
 
 

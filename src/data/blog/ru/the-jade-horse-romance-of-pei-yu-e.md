@@ -8,7 +8,7 @@ description: "Хуан Бо, талантливый сын династии Та
 
 
 
-![AstroPaper I18n](/public/the-jade-horse-romance-of-pei-yu-e.png)
+![AstroPaper I18n](/the-jade-horse-romance-of-pei-yu-e.png)
 
 
 

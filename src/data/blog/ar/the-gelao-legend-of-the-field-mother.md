@@ -8,7 +8,7 @@ description: "حصل شعب يلاو على بذور الحبوب من الكل�
 
 
 
-![AstroPaper I18n](/public/the-gelao-legend-of-the-field-mother.png)
+![AstroPaper I18n](/the-gelao-legend-of-the-field-mother.png)
 
 
 

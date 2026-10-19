@@ -8,7 +8,7 @@ description: "El líder de la tribu Kalqahader resultó herido en la derrota. Cu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-swan-who-saved-the-hero.png)
+![AstroPaper I18n](/the-legend-of-the-white-swan-who-saved-the-hero.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Guifei reconoció a An Lushan como su hijo justo. Después de
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-bathing-an-lushan.png)
 
 
 

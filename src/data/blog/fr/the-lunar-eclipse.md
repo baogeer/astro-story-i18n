@@ -8,7 +8,7 @@ description: "Sœur Moon est timide et n'apparaît qu'au milieu de la lune. Les 
 
 
 
-![AstroPaper I18n](/public/the-lunar-eclipse.png)
+![AstroPaper I18n](/the-lunar-eclipse.png)
 
 
 

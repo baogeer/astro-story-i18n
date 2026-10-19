@@ -8,7 +8,7 @@ description: "The Hani people's “Miao Aina” festival is a day off after plan
 
 
 
-![AstroPaper I18n](/public/the-hani-festival-of-rest-for-the-plowing-oxen.png)
+![AstroPaper I18n](/the-hani-festival-of-rest-for-the-plowing-oxen.png)
 
 
 

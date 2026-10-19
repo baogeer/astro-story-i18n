@@ -8,7 +8,7 @@ description: "Фу Цюбо, фея из Западной Хани, отправ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-creek.png)
+![AstroPaper I18n](/the-legend-of-crane-creek.png)
 
 
 

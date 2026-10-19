@@ -8,7 +8,7 @@ description: "Car soldier Akihara delivered ammunition at night and was stopped 
 
 
 
-![AstroPaper I18n](/public/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
+![AstroPaper I18n](/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
 
 
 

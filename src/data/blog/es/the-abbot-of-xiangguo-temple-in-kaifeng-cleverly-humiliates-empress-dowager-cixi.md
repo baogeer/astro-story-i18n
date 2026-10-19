@@ -8,7 +8,7 @@ description: "Zhi Qing, el anciano del templo Shokoku-ji, obsequió un balde de 
 
 
 
-![AstroPaper I18n](/public/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
+![AstroPaper I18n](/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
 
 
 

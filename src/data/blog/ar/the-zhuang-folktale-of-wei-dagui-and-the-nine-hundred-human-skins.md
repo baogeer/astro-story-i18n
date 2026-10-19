@@ -8,7 +8,7 @@ description: "اعتنى وي داجوي من عائلة تشوانغ بالنا
 
 
 
-![AstroPaper I18n](/public/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
+![AstroPaper I18n](/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
 
 
 

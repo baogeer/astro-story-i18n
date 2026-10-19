@@ -8,7 +8,7 @@ description: "في العصور القديمة، كانت الحبوب بحجم 
 
 
 
-![AstroPaper I18n](/public/the-winged-grain-a-dai-folktale.png)
+![AstroPaper I18n](/the-winged-grain-a-dai-folktale.png)
 
 
 

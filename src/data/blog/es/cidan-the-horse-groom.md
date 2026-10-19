@@ -8,7 +8,7 @@ description: "Mafuzidan se enamoró de la esposa del líder, Sam Jumma. Tras ser
 
 
 
-![AstroPaper I18n](/public/cidan-the-horse-groom.png)
+![AstroPaper I18n](/cidan-the-horse-groom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжан Чжидун, подросток, не смог сдат�
 
 
 
-![AstroPaper I18n](/public/why-empress-dowager-cixi-favored-zhang-zhidong.png)
+![AstroPaper I18n](/why-empress-dowager-cixi-favored-zhang-zhidong.png)
 
 
 

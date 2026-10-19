@@ -8,7 +8,7 @@ description: "Eugene Ram se vio obligado a deambular porque su jefe lo obligó a
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yangchen-lhamo.png)
+![AstroPaper I18n](/the-tale-of-yangchen-lhamo.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عندما كان ليو باي في أفقر حالاته، لم 
 
 
 
-![AstroPaper I18n](/public/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
 
 
 

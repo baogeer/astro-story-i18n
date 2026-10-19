@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Ming, le bandit Ah Liu a cambriolé des f
 
 
 
-![AstroPaper I18n](/public/the-one-eyed-river-bandit-ah-liu.png)
+![AstroPaper I18n](/the-one-eyed-river-bandit-ah-liu.png)
 
 
 

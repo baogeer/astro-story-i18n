@@ -8,7 +8,7 @@ description: "Liu Shiwen, who fell out of the list, lived in Hanshan Temple due 
 
 
 
-![AstroPaper I18n](/public/the-white-fox.png)
+![AstroPaper I18n](/the-white-fox.png)
 
 
 

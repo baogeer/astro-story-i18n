@@ -8,7 +8,7 @@ description: "Zhang honestly opened the tavern and treated the turtle spirit und
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-seeks-revenge.png)
+![AstroPaper I18n](/the-dragon-king-seeks-revenge.png)
 
 
 

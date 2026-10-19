@@ -8,7 +8,7 @@ description: "Hosoyagi est belle-mère. Lorsque son beau-fils Changfu a quitté 
 
 
 
-![AstroPaper I18n](/public/how-xiliu-taught-her-sons.png)
+![AstroPaper I18n](/how-xiliu-taught-her-sons.png)
 
 
 

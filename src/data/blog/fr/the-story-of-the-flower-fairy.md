@@ -8,7 +8,7 @@ description: "Au plus profond de la forêt, les sœurs Lilac et Lily ont secouru
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-flower-fairy.png)
+![AstroPaper I18n](/the-story-of-the-flower-fairy.png)
 
 
 

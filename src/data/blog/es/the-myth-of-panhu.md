@@ -8,7 +8,7 @@ description: "Pan Yu era originalmente un perro dragón transformado por un bich
 
 
 
-![AstroPaper I18n](/public/the-myth-of-panhu.png)
+![AstroPaper I18n](/the-myth-of-panhu.png)
 
 
 

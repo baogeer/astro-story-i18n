@@ -8,7 +8,7 @@ description: "كانت دو تشيونيانغ في الأصل مغنية وعا
 
 
 
-![AstroPaper I18n](/public/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
+![AstroPaper I18n](/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
 
 
 

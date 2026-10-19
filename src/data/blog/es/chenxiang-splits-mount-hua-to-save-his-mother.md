@@ -8,7 +8,7 @@ description: "Para salvar a su madre, la Virgen de las Tres Nobles, que fue apla
 
 
 
-![AstroPaper I18n](/public/chenxiang-splits-mount-hua-to-save-his-mother.png)
+![AstroPaper I18n](/chenxiang-splits-mount-hua-to-save-his-mother.png)
 
 
 

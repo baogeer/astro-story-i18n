@@ -8,7 +8,7 @@ description: "تزوجت وانغ رونزهين من عائلة شين مع و�
 
 
 
-![AstroPaper I18n](/public/the-life-and-death-love-of-wang-runzhen.png)
+![AstroPaper I18n](/the-life-and-death-love-of-wang-runzhen.png)
 
 
 

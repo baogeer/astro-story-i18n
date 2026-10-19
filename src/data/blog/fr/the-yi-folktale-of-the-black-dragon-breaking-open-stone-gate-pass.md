@@ -8,7 +8,7 @@ description: "La légende raconte qu'il n'y a pas de col Shimen sur les contrefo
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
 
 
 

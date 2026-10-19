@@ -8,7 +8,7 @@ description: "Il y a un «xa0bel arbrexa0» sur le mont Yangjiao. Le motif de l'
 
 
 
-![AstroPaper I18n](/public/the-lovers-tree-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-lovers-tree-a-yi-folktale-from-yangbi.png)
 
 
 

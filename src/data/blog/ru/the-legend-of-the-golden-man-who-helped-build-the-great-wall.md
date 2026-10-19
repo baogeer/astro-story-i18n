@@ -8,7 +8,7 @@ description: "Легенда гласит, что Золотой человек 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
 
 
 

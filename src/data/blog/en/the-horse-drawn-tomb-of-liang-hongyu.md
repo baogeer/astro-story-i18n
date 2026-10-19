@@ -8,7 +8,7 @@ description: "Liang Hongyu recovered from his injuries after the defeat of Jin B
 
 
 
-![AstroPaper I18n](/public/the-horse-drawn-tomb-of-liang-hongyu.png)
+![AstroPaper I18n](/the-horse-drawn-tomb-of-liang-hongyu.png)
 
 
 

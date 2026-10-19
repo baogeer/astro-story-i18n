@@ -8,7 +8,7 @@ description: "In the Tang Dynasty, Lianli Road was blocked by a whirlwind. Based
 
 
 
-![AstroPaper I18n](/public/the-clever-magistrate-and-the-whirlwind.png)
+![AstroPaper I18n](/the-clever-magistrate-and-the-whirlwind.png)
 
 
 

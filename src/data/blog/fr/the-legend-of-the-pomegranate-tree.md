@@ -8,7 +8,7 @@ description: "L'histoire est centrée sur le grenadier et vise à raconter son o
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pomegranate-tree.png)
+![AstroPaper I18n](/the-legend-of-the-pomegranate-tree.png)
 
 
 

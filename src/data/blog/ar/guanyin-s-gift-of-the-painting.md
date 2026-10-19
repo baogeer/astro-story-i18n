@@ -8,7 +8,7 @@ description: "أصبحت Guanyin Bodhisattva امرأة جميلة جمعت ال
 
 
 
-![AstroPaper I18n](/public/guanyin-s-gift-of-the-painting.png)
+![AstroPaper I18n](/guanyin-s-gift-of-the-painting.png)
 
 
 

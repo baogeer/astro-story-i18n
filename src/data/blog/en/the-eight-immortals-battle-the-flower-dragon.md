@@ -8,7 +8,7 @@ description: "The Eight Immortals crossed the sea to Penglai on a dragon boat. P
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-battle-the-flower-dragon.png)
+![AstroPaper I18n](/the-eight-immortals-battle-the-flower-dragon.png)
 
 
 

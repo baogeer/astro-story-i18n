@@ -8,7 +8,7 @@ description: "Tang Xuanzong met Yang Yuhuan, who had a strong body scent, and po
 
 
 
-![AstroPaper I18n](/public/yang-guifei-armed-with-fragrance.png)
+![AstroPaper I18n](/yang-guifei-armed-with-fragrance.png)
 
 
 

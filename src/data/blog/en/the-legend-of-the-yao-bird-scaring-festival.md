@@ -8,7 +8,7 @@ description: "The Yao Bird Festival stems from the serious bird damage in the Ji
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-bird-scaring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-bird-scaring-festival.png)
 
 
 

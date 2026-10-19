@@ -8,7 +8,7 @@ description: "Zhu Geliang tiene tanto méritos como ensayos. Es la encarnación 
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-both-human-and-divine.png)
+![AstroPaper I18n](/zhuge-liang-both-human-and-divine.png)
 
 
 

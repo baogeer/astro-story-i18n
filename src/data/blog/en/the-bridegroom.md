@@ -8,7 +8,7 @@ description: "Villagers in Jiangnan got married. The groom saw the bride go out 
 
 
 
-![AstroPaper I18n](/public/the-bridegroom.png)
+![AstroPaper I18n](/the-bridegroom.png)
 
 
 

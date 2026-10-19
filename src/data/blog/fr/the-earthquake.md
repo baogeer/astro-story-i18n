@@ -8,7 +8,7 @@ description: "Dans la 7e année de Kangxi, alors que Pu Songling buvait la nuit 
 
 
 
-![AstroPaper I18n](/public/the-earthquake.png)
+![AstroPaper I18n](/the-earthquake.png)
 
 
 

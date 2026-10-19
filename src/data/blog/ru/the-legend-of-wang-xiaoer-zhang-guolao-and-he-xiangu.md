@@ -8,7 +8,7 @@ description: "Ван Сяоэр предан и добр. Он лежит на �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
+![AstroPaper I18n](/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
 
 
 

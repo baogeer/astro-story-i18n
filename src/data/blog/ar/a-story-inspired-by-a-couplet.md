@@ -8,7 +8,7 @@ description: "«رأيت» الاسم الجديد لمطعم «Three Point Wate
 
 
 
-![AstroPaper I18n](/public/a-story-inspired-by-a-couplet.png)
+![AstroPaper I18n](/a-story-inspired-by-a-couplet.png)
 
 
 

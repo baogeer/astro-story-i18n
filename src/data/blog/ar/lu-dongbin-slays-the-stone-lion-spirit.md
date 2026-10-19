@@ -8,7 +8,7 @@ description: "التقى وانغ فا، الذي يبيع التوفو في م�
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-slays-the-stone-lion-spirit.png)
+![AstroPaper I18n](/lu-dongbin-slays-the-stone-lion-spirit.png)
 
 
 

@@ -8,7 +8,7 @@ description: "At the age of 17, Huo Gubiao accompanied Wei Qing, and led 800 rid
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
+![AstroPaper I18n](/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
 
 
 

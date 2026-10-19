@@ -8,7 +8,7 @@ description: "Un étudiant de Nan Yue est entré sur le site de la tombe en lign
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-part-one.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-one.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фестиваль рыбы хмонгов возник на ос�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-fish-killing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-fish-killing-festival.png)
 
 
 

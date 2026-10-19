@@ -8,7 +8,7 @@ description: "En el páramo a las afueras de la Puerta Qingchun en Hangzhou, Hua
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huajia-pond.png)
+![AstroPaper I18n](/the-legend-of-huajia-pond.png)
 
 
 

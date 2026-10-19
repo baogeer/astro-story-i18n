@@ -8,7 +8,7 @@ description: "Le village de Zhong Luo était à l'origine connu sous le nom de v
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fallen-bell-village.png)
+![AstroPaper I18n](/the-legend-of-the-fallen-bell-village.png)
 
 
 

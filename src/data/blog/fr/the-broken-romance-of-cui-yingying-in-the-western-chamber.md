@@ -8,7 +8,7 @@ description: "Cui Yingying est restée avec sa mère au temple de Pugu, et Zhang
 
 
 
-![AstroPaper I18n](/public/the-broken-romance-of-cui-yingying-in-the-western-chamber.png)
+![AstroPaper I18n](/the-broken-romance-of-cui-yingying-in-the-western-chamber.png)
 
 
 

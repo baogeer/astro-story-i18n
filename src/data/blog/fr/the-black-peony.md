@@ -8,7 +8,7 @@ description: "Après la défaite de Liangshan, Hu Sanniang s'est cachée dans le
 
 
 
-![AstroPaper I18n](/public/the-black-peony.png)
+![AstroPaper I18n](/the-black-peony.png)
 
 
 

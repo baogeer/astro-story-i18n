@@ -8,7 +8,7 @@ description: "Чжуо Вэньцзюнь, талантливая женщина
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhuo-wenjun.png)
+![AstroPaper I18n](/the-story-of-zhuo-wenjun.png)
 
 
 

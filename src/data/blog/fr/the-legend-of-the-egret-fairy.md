@@ -8,7 +8,7 @@ description: "Yu Shaohong est tombé amoureux de la fée Héron dans son rêve e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-fairy.png)
+![AstroPaper I18n](/the-legend-of-the-egret-fairy.png)
 
 
 

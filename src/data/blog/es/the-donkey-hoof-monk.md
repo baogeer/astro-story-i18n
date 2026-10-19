@@ -8,7 +8,7 @@ description: "El monje con pezuñas de burro escondió pezuñas negras de burro 
 
 
 
-![AstroPaper I18n](/public/the-donkey-hoof-monk.png)
+![AstroPaper I18n](/the-donkey-hoof-monk.png)
 
 
 

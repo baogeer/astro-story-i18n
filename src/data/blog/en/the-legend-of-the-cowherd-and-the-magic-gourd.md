@@ -8,7 +8,7 @@ description: "The cow herder and the style and Yu Shun search for Miss Zhang, wh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-magic-gourd.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-magic-gourd.png)
 
 
 

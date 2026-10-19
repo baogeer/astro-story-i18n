@@ -8,7 +8,7 @@ description: "Wang Cheng es un niño de una antigua familia. Es pobre y perezoso
 
 
 
-![AstroPaper I18n](/public/the-story-of-wang-cheng.png)
+![AstroPaper I18n](/the-story-of-wang-cheng.png)
 
 
 

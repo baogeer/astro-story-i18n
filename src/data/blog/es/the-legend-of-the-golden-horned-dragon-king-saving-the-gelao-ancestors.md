@@ -8,7 +8,7 @@ description: "Cuando los antepasados de la tribu Yilao quedaron varados en un á
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-horned-dragon-king-saving-the-gelao-ancestors.png)
+![AstroPaper I18n](/the-legend-of-the-golden-horned-dragon-king-saving-the-gelao-ancestors.png)
 
 
 

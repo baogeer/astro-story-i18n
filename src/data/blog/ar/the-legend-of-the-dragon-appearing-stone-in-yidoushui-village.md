@@ -8,7 +8,7 @@ description: "كان هناك جفاف في قرية يدوشوي، وطلب ا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
 
 
 

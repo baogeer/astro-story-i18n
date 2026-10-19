@@ -8,7 +8,7 @@ description: "Dong Qichang had trouble writing the plaque. He posed as a beggar 
 
 
 
-![AstroPaper I18n](/public/dong-qichang-s-encounter-with-an-immortal.png)
+![AstroPaper I18n](/dong-qichang-s-encounter-with-an-immortal.png)
 
 
 

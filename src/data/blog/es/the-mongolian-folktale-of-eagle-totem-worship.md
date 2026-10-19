@@ -8,7 +8,7 @@ description: "En el folclore mongol, como mensajeros del mundo celestial, los c√
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-eagle-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-eagle-totem-worship.png)
 
 
 

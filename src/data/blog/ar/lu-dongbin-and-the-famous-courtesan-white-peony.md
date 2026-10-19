@@ -8,7 +8,7 @@ description: "كان لو دونغ بين على علاقة مع العاهرة 
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-and-the-famous-courtesan-white-peony.png)
+![AstroPaper I18n](/lu-dongbin-and-the-famous-courtesan-white-peony.png)
 
 
 

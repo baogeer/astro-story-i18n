@@ -8,7 +8,7 @@ description: "Huangdi et Yandi ont uni leurs forces à celles de diverses tribus
 
 
 
-![AstroPaper I18n](/public/the-descendants-of-yan-and-huang.png)
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
 
 
 

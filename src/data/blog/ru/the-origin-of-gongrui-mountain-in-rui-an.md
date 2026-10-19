@@ -8,7 +8,7 @@ description: "Во времена династии Мин в городе Жуй
 
 
 
-![AstroPaper I18n](/public/the-origin-of-gongrui-mountain-in-rui-an.png)
+![AstroPaper I18n](/the-origin-of-gongrui-mountain-in-rui-an.png)
 
 
 

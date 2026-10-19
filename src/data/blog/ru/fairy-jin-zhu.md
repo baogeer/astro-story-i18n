@@ -8,7 +8,7 @@ description: "Пришла фея «Золотой бат», которая бы
 
 
 
-![AstroPaper I18n](/public/fairy-jin-zhu.png)
+![AstroPaper I18n](/fairy-jin-zhu.png)
 
 
 

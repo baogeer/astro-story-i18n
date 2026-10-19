@@ -8,7 +8,7 @@ description: "El Sr. Luoya se tomó un descanso en Huangjianling, Xiuning. Dos m
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
+![AstroPaper I18n](/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
 
 
 

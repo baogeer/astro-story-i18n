@@ -8,7 +8,7 @@ description: "Фестиваль лодок-драконов возник в ч�
 
 
 
-![AstroPaper I18n](/public/the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-dragon-boat-festival.png)
 
 
 

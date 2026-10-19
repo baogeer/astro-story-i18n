@@ -8,7 +8,7 @@ description: "Zhu Yaozong fue el primer líder. El emperador construyó un arco 
 
 
 
-![AstroPaper I18n](/public/when-heaven-sends-rain-a-mother-must-remarry.png)
+![AstroPaper I18n](/when-heaven-sends-rain-a-mother-must-remarry.png)
 
 
 

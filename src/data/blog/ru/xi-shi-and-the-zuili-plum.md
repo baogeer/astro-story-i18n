@@ -8,7 +8,7 @@ description: "Поскольку основной текст указывает 
 
 
 
-![AstroPaper I18n](/public/xi-shi-and-the-zuili-plum.png)
+![AstroPaper I18n](/xi-shi-and-the-zuili-plum.png)
 
 
 

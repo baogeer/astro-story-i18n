@@ -8,7 +8,7 @@ description: "قام Zhang Bairen بأعمال جيدة لإنقاذ الراه�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
+![AstroPaper I18n](/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
 
 
 

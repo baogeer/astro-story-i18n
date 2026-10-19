@@ -8,7 +8,7 @@ description: "Zhao, l'apprenti de Luban, est arrogant et arrogantxa0; il veut se
 
 
 
-![AstroPaper I18n](/public/lu-ban-teaches-his-apprentice-a-lesson.png)
+![AstroPaper I18n](/lu-ban-teaches-his-apprentice-a-lesson.png)
 
 
 

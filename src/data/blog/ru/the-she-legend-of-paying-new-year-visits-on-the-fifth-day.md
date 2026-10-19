@@ -8,7 +8,7 @@ description: "Этническая группа юного Ше на второ�
 
 
 
-![AstroPaper I18n](/public/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
+![AstroPaper I18n](/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
 
 
 

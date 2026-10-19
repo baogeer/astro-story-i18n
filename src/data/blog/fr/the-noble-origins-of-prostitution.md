@@ -8,7 +8,7 @@ description: "L'histoire retrace l'origine des prostituées aux sorcières dans 
 
 
 
-![AstroPaper I18n](/public/the-noble-origins-of-prostitution.png)
+![AstroPaper I18n](/the-noble-origins-of-prostitution.png)
 
 
 

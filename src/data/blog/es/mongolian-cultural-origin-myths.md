@@ -8,7 +8,7 @@ description: "En la mitología del origen de la cultura mongola, las golondrinas
 
 
 
-![AstroPaper I18n](/public/mongolian-cultural-origin-myths.png)
+![AstroPaper I18n](/mongolian-cultural-origin-myths.png)
 
 
 

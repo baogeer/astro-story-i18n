@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Tang, Wang Yanzhang, un jeune homme du Sh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-the-ferryman.png)
+![AstroPaper I18n](/the-legend-of-wang-the-ferryman.png)
 
 
 

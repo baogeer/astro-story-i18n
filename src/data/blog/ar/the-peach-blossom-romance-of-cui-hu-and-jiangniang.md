@@ -8,7 +8,7 @@ description: "التقى كوي هو بفتاة صغيرة، جيانغ نيان
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
+![AstroPaper I18n](/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
 
 
 

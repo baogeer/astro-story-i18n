@@ -8,7 +8,7 @@ description: "Принц Цзян Даня Нида Чижэнь вышла за
 
 
 
-![AstroPaper I18n](/public/the-tale-of-prince-nida-tsering.png)
+![AstroPaper I18n](/the-tale-of-prince-nida-tsering.png)
 
 
 

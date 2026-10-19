@@ -8,7 +8,7 @@ description: "Les compatriotes vendent des poires au bazar et sont avares et ref
 
 
 
-![AstroPaper I18n](/public/the-pear-planting-taoist.png)
+![AstroPaper I18n](/the-pear-planting-taoist.png)
 
 
 

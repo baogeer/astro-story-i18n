@@ -8,7 +8,7 @@ description: "Le soldat automobile Akihara a livr√© des munitions la nuit et a √
 
 
 
-![AstroPaper I18n](/public/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
+![AstroPaper I18n](/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
 
 
 

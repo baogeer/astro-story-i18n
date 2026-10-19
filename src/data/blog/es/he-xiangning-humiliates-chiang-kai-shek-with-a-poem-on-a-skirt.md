@@ -8,7 +8,7 @@ description: "En 1935, debido a que Chiang Kai-shek no se resistió a Japón, Ho
 
 
 
-![AstroPaper I18n](/public/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
+![AstroPaper I18n](/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
 
 
 

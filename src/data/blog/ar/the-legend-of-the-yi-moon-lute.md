@@ -8,7 +8,7 @@ description: "من أجل البحث عن زيشوي، أنقذ يتيم يي ا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-moon-lute.png)
+![AstroPaper I18n](/the-legend-of-the-yi-moon-lute.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Красивый казахский подросток Андер�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-arasan-hot-spring.png)
+![AstroPaper I18n](/the-legend-of-the-arasan-hot-spring.png)
 
 
 

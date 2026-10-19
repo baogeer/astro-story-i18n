@@ -8,7 +8,7 @@ description: "سون زيشو، المعروفة باسم «أحمق الشمس�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-abao.png)
+![AstroPaper I18n](/the-tale-of-abao.png)
 
 
 

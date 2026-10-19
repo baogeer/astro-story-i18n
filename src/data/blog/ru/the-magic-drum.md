@@ -8,7 +8,7 @@ description: "Жили-были два брата. Второго брата в�
 
 
 
-![AstroPaper I18n](/public/the-magic-drum.png)
+![AstroPaper I18n](/the-magic-drum.png)
 
 
 

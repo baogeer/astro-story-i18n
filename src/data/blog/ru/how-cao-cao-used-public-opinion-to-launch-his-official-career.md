@@ -8,7 +8,7 @@ description: "В эпоху высокой занятости в династи�
 
 
 
-![AstroPaper I18n](/public/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
+![AstroPaper I18n](/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
 
 
 

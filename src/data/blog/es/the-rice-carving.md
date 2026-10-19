@@ -8,7 +8,7 @@ description: "La familia Zeng era originalmente rica en la ciudad imperial. Fuer
 
 
 
-![AstroPaper I18n](/public/the-rice-carving.png)
+![AstroPaper I18n](/the-rice-carving.png)
 
 
 

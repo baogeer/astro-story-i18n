@@ -8,7 +8,7 @@ description: "Afin de soulager l'inondation, le héros de Buyi, Azu, a labouré 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-azu-plowing-the-land.png)
+![AstroPaper I18n](/the-bouyei-myth-of-azu-plowing-the-land.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان Xu Wenchang ذكيًا منذ الطفولة: طلب منه
 
 
 
-![AstroPaper I18n](/public/three-witty-stories-of-xu-wenchang.png)
+![AstroPaper I18n](/three-witty-stories-of-xu-wenchang.png)
 
 
 

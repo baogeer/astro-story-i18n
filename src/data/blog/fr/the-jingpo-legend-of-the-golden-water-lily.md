@@ -8,7 +8,7 @@ description: "La pauvre orpheline appelée flûte Kaima a encouragé les nénuph
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-golden-water-lily.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-golden-water-lily.png)
 
 
 

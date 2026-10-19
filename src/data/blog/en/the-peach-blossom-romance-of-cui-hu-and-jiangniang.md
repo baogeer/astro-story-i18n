@@ -8,7 +8,7 @@ description: "Cui Hu met a young girl, Jiang Niang, on an outing in Qingming. He
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
+![AstroPaper I18n](/the-peach-blossom-romance-of-cui-hu-and-jiangniang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dans un monde troublé à la fin de Sui, les frères Yin Lei et Yi
 
 
 
-![AstroPaper I18n](/public/cheng-yaojin-swears-brotherhood-at-chendui.png)
+![AstroPaper I18n](/cheng-yaojin-swears-brotherhood-at-chendui.png)
 
 
 

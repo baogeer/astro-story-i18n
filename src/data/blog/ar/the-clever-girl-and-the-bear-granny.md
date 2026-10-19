@@ -8,7 +8,7 @@ description: "في أعماق جبال شيانغشي الغربية، ذهبت 
 
 
 
-![AstroPaper I18n](/public/the-clever-girl-and-the-bear-granny.png)
+![AstroPaper I18n](/the-clever-girl-and-the-bear-granny.png)
 
 
 

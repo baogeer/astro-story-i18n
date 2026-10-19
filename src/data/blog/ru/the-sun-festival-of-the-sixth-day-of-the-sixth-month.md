@@ -8,7 +8,7 @@ description: "Когда 10-го числа наступили времена д
 
 
 
-![AstroPaper I18n](/public/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
+![AstroPaper I18n](/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
 
 
 

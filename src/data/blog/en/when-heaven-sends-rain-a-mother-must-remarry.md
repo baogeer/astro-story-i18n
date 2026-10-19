@@ -8,7 +8,7 @@ description: "Zhu Yaozong was the first leader. The emperor set up an archway fo
 
 
 
-![AstroPaper I18n](/public/when-heaven-sends-rain-a-mother-must-remarry.png)
+![AstroPaper I18n](/when-heaven-sends-rain-a-mother-must-remarry.png)
 
 
 

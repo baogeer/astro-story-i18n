@@ -8,7 +8,7 @@ description: "After the summer solstice, the Maonan people celebrated the Dragon
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-dragon-separation-festival.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-dragon-separation-festival.png)
 
 
 

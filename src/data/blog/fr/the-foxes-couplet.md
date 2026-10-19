@@ -8,7 +8,7 @@ description: "Alors que Jiao Sheng le lisait la nuit, deux filles renardes sont 
 
 
 
-![AstroPaper I18n](/public/the-foxes-couplet.png)
+![AstroPaper I18n](/the-foxes-couplet.png)
 
 
 

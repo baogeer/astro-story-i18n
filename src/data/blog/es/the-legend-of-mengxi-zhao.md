@@ -8,7 +8,7 @@ description: "El emperador Zhaoyuan de la dinastía Tang lloró y sorprendió a 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-mengxi-zhao.png)
+![AstroPaper I18n](/the-legend-of-mengxi-zhao.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم إرجاع الطفلة لورا وتربيتها من قبل
 
 
 
-![AstroPaper I18n](/public/the-wolf-girl-laura.png)
+![AstroPaper I18n](/the-wolf-girl-laura.png)
 
 
 

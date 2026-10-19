@@ -8,7 +8,7 @@ description: "Zhang Cheng, un hombre rico de la dinastía Ming, salvó a su hija
 
 
 
-![AstroPaper I18n](/public/the-ghost-who-borrowed-silver.png)
+![AstroPaper I18n](/the-ghost-who-borrowed-silver.png)
 
 
 

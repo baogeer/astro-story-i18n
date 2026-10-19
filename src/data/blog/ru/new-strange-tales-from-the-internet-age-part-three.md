@@ -8,7 +8,7 @@ description: "«Новый Ляочжай (3)» объединяет пять с
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-age-part-three.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-age-part-three.png)
 
 
 

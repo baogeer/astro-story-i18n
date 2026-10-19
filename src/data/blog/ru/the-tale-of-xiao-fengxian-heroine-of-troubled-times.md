@@ -8,7 +8,7 @@ description: "В первые годы существования Китайск
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
+![AstroPaper I18n](/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
 
 
 

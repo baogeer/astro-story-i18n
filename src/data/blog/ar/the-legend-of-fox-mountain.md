@@ -8,7 +8,7 @@ description: "التنين ذو الحجر الأزرق على قمة جبل ف�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fox-mountain.png)
+![AstroPaper I18n](/the-legend-of-fox-mountain.png)
 
 
 

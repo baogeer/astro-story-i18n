@@ -8,7 +8,7 @@ description: "كان الناس في لينآن بجنوب سونغ يكرهون
 
 
 
-![AstroPaper I18n](/public/the-story-of-fried-hui.png)
+![AstroPaper I18n](/the-story-of-fried-hui.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Había una vez una familia y el padre salió y no regresó durante
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-silkworm-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-silkworm-goddess.png)
 
 
 

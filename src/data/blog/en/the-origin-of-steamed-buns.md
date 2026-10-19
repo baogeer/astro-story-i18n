@@ -8,7 +8,7 @@ description: "During the Three Kingdoms period, Zhu Geliang conquered Lushui. So
 
 
 
-![AstroPaper I18n](/public/the-origin-of-steamed-buns.png)
+![AstroPaper I18n](/the-origin-of-steamed-buns.png)
 
 
 

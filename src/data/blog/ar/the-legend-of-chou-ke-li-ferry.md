@@ -8,7 +8,7 @@ description: "كانت العبارة القديمة من Yangjiu Chou Keli Ferr
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chou-ke-li-ferry.png)
+![AstroPaper I18n](/the-legend-of-chou-ke-li-ferry.png)
 
 
 

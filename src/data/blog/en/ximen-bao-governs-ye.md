@@ -8,7 +8,7 @@ description: "During the Warring States period, Ximen Bao Ren Yeling discovered 
 
 
 
-![AstroPaper I18n](/public/ximen-bao-governs-ye.png)
+![AstroPaper I18n](/ximen-bao-governs-ye.png)
 
 
 

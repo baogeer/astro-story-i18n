@@ -8,7 +8,7 @@ description: "Le roi Attila des Huns a attaqué Rome occidentale au motif qu'il 
 
 
 
-![AstroPaper I18n](/public/attila-the-hun-s-great-battle-against-the-western-roman-empire-s-million-man-army.png)
+![AstroPaper I18n](/attila-the-hun-s-great-battle-against-the-western-roman-empire-s-million-man-army.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Ming dynasty had a strict concubine selection system. Five tho
 
 
 
-![AstroPaper I18n](/public/why-a-ming-dynasty-eunuch-dared-to-sexually-harass-a-widowed-empress.png)
+![AstroPaper I18n](/why-a-ming-dynasty-eunuch-dared-to-sexually-harass-a-widowed-empress.png)
 
 
 

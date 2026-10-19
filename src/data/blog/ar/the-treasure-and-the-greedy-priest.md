@@ -8,7 +8,7 @@ description: "أثناء حفر قبر، عثر الرجل العجوز بطري
 
 
 
-![AstroPaper I18n](/public/the-treasure-and-the-greedy-priest.png)
+![AstroPaper I18n](/the-treasure-and-the-greedy-priest.png)
 
 
 

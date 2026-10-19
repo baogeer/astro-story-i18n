@@ -8,7 +8,7 @@ description: "أجبر المالك الغني الأصلع الراعي Zaxipen
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-milking-of-a-bull.png)
+![AstroPaper I18n](/agu-dunba-and-the-milking-of-a-bull.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Бату славится дрессировкой лошадей,
 
 
 
-![AstroPaper I18n](/public/taming-the-fire-dragon-horse.png)
+![AstroPaper I18n](/taming-the-fire-dragon-horse.png)
 
 
 

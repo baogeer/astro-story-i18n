@@ -8,7 +8,7 @@ description: "La princesse Yang Guifei était à l'origine la belle-fille de Tan
 
 
 
-![AstroPaper I18n](/public/yang-guifei-eve-was-a-femme-fatale-all-along.png)
+![AstroPaper I18n](/yang-guifei-eve-was-a-femme-fatale-all-along.png)
 
 
 

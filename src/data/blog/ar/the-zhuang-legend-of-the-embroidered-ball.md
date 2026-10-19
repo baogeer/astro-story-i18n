@@ -8,7 +8,7 @@ description: "يقع آه شيو من عائلة زوانغ في حب الجد،
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-embroidered-ball.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-embroidered-ball.png)
 
 
 

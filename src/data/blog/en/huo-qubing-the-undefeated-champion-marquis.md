@@ -8,7 +8,7 @@ description: "Han champion Hou Huo led 10,000 riders to attack Hexi. On the 6th,
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-undefeated-champion-marquis.png)
+![AstroPaper I18n](/huo-qubing-the-undefeated-champion-marquis.png)
 
 
 

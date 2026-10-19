@@ -8,7 +8,7 @@ description: "Stubborn 3 sent a letter to the fox fairy Hu Laohan and discovered
 
 
 
-![AstroPaper I18n](/public/stubborn-san-and-the-fox.png)
+![AstroPaper I18n](/stubborn-san-and-the-fox.png)
 
 
 

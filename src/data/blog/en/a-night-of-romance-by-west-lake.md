@@ -8,7 +8,7 @@ description: "During the New Year of Tomorrow, the famous person from Hangzhou, 
 
 
 
-![AstroPaper I18n](/public/a-night-of-romance-by-west-lake.png)
+![AstroPaper I18n](/a-night-of-romance-by-west-lake.png)
 
 
 

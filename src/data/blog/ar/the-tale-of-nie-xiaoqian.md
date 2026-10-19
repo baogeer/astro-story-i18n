@@ -8,7 +8,7 @@ description: "التقى نينغ كايتشن بالمبارز يان تشيك�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-nie-xiaoqian.png)
+![AstroPaper I18n](/the-tale-of-nie-xiaoqian.png)
 
 
 

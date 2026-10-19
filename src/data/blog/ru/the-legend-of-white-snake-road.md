@@ -8,7 +8,7 @@ description: "Чтобы спасти своего мужа Сюй Сяня, к�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-snake-road.png)
+![AstroPaper I18n](/the-legend-of-white-snake-road.png)
 
 
 

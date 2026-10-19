@@ -8,7 +8,7 @@ description: "ساعد تيانباو الزوار على استعادة حلق�
 
 
 
-![AstroPaper I18n](/public/tianbao-s-good-fortune.png)
+![AstroPaper I18n](/tianbao-s-good-fortune.png)
 
 
 

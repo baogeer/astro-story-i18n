@@ -8,7 +8,7 @@ description: "Дива династии Тан Лю Шаоцзинь и ее т�
 
 
 
-![AstroPaper I18n](/public/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
+![AstroPaper I18n](/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
 
 
 

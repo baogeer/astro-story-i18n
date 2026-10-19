@@ -8,7 +8,7 @@ description: "During the Qing and Xuantong years, Wang Ke of Tengxian County ope
 
 
 
-![AstroPaper I18n](/public/the-shopkeeper-who-refused-ill-gotten-gains.png)
+![AstroPaper I18n](/the-shopkeeper-who-refused-ill-gotten-gains.png)
 
 
 

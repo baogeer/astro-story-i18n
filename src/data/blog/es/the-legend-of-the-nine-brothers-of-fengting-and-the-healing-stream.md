@@ -8,7 +8,7 @@ description: "He Renxia Jiuzi disuadió a su padre de participar en la rebelión
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
+![AstroPaper I18n](/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
 
 
 

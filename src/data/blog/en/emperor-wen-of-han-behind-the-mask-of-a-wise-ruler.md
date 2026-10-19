@@ -8,7 +8,7 @@ description: "When Emperor Han Wen Liu Heng took the throne, he was frightened b
 
 
 
-![AstroPaper I18n](/public/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
+![AstroPaper I18n](/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
 
 
 

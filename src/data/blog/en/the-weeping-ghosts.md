@@ -8,7 +8,7 @@ description: "Wang Qixiang's family was filled with thieves because of Xie Qian'
 
 
 
-![AstroPaper I18n](/public/the-weeping-ghosts.png)
+![AstroPaper I18n](/the-weeping-ghosts.png)
 
 
 

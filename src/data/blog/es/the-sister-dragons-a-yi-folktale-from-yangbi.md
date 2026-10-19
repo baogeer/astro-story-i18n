@@ -8,7 +8,7 @@ description: "Los tres dragones hermanos de Shi Ping viven. La hermana mayor tie
 
 
 
-![AstroPaper I18n](/public/the-sister-dragons-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-sister-dragons-a-yi-folktale-from-yangbi.png)
 
 
 

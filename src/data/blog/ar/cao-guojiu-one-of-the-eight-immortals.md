@@ -8,7 +8,7 @@ description: "استولى شقيق العم Cao Guo على الزوجة الم�
 
 
 
-![AstroPaper I18n](/public/cao-guojiu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/cao-guojiu-one-of-the-eight-immortals.png)
 
 
 

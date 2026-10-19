@@ -8,7 +8,7 @@ description: "كانت عائلة تسنغ غنية في الأصل بالمدي
 
 
 
-![AstroPaper I18n](/public/the-rice-carving.png)
+![AstroPaper I18n](/the-rice-carving.png)
 
 
 

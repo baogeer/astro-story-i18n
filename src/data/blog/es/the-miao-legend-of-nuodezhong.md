@@ -8,7 +8,7 @@ description: "El anciano de Yangluo guardaba los dos pepinos y su hija, la herma
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-nuodezhong.png)
+![AstroPaper I18n](/the-miao-legend-of-nuodezhong.png)
 
 
 

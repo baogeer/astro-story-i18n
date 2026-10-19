@@ -8,7 +8,7 @@ description: "بعد وفاة أميرة إخوة الملك الثلاثة، أ
 
 
 
-![AstroPaper I18n](/public/the-foolish-lama-s-stroke-of-luck.png)
+![AstroPaper I18n](/the-foolish-lama-s-stroke-of-luck.png)
 
 
 

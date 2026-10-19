@@ -8,7 +8,7 @@ description: "In order to find happiness, young Maonan people asked about the Th
 
 
 
-![AstroPaper I18n](/public/the-search-for-happiness.png)
+![AstroPaper I18n](/the-search-for-happiness.png)
 
 
 

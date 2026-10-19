@@ -8,7 +8,7 @@ description: "Songjiang Zhang Lirong y el hijo de su vecina, Li Yulang, comparti
 
 
 
-![AstroPaper I18n](/public/the-eternal-romance-of-zhang-lirong.png)
+![AstroPaper I18n](/the-eternal-romance-of-zhang-lirong.png)
 
 
 

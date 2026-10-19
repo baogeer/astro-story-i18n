@@ -8,7 +8,7 @@ description: "У Дун Цичана возникли проблемы с нап
 
 
 
-![AstroPaper I18n](/public/dong-qichang-s-encounter-with-an-immortal.png)
+![AstroPaper I18n](/dong-qichang-s-encounter-with-an-immortal.png)
 
 
 

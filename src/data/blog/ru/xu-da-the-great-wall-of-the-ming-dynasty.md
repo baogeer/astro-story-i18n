@@ -8,7 +8,7 @@ description: "Сюй Да, полковод-основатель династи�
 
 
 
-![AstroPaper I18n](/public/xu-da-the-great-wall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/xu-da-the-great-wall-of-the-ming-dynasty.png)
 
 
 

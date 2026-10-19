@@ -8,7 +8,7 @@ description: "El Gran Dragón Negro vive en un nido de sauces en Dalangba, en Ca
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-moves-away.png)
+![AstroPaper I18n](/the-great-black-dragon-moves-away.png)
 
 
 

@@ -8,7 +8,7 @@ description: "لا توجد جبال على بحر الصين الشرقي. ظه
 
 
 
-![AstroPaper I18n](/public/the-great-fish-of-the-eastern-sea.png)
+![AstroPaper I18n](/the-great-fish-of-the-eastern-sea.png)
 
 
 

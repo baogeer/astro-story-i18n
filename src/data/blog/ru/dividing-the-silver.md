@@ -8,7 +8,7 @@ description: "Пока Чжан Сан и Ли Си спешили на собр
 
 
 
-![AstroPaper I18n](/public/dividing-the-silver.png)
+![AstroPaper I18n](/dividing-the-silver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La princesse Yu s'est rebellée contre le général et la princess
 
 
 
-![AstroPaper I18n](/public/the-blood-red-snow-lotus.png)
+![AstroPaper I18n](/the-blood-red-snow-lotus.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El loco monje del templo Lingyin predijo que el pico de la montañ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-flying-peak-at-lingyin-temple.png)
+![AstroPaper I18n](/the-legend-of-the-flying-peak-at-lingyin-temple.png)
 
 
 

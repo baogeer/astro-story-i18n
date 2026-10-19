@@ -8,7 +8,7 @@ description: "في العصور القديمة، كانت الشمس الـ 12 �
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sun.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sun.png)
 
 
 

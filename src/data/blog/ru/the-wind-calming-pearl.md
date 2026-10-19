@@ -8,7 +8,7 @@ description: "Молодой человек, который рубил дров�
 
 
 
-![AstroPaper I18n](/public/the-wind-calming-pearl.png)
+![AstroPaper I18n](/the-wind-calming-pearl.png)
 
 
 

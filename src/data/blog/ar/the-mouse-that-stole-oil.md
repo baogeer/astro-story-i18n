@@ -8,7 +8,7 @@ description: "خلف مشهد «الفئران التي تسرق الزيت» ف
 
 
 
-![AstroPaper I18n](/public/the-mouse-that-stole-oil.png)
+![AstroPaper I18n](/the-mouse-that-stole-oil.png)
 
 
 

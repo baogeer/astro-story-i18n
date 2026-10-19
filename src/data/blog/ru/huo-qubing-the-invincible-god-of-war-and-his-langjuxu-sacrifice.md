@@ -8,7 +8,7 @@ description: "В 17 лет Хо Губяо сопровождал Вэй Цин�
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
+![AstroPaper I18n](/huo-qubing-the-invincible-god-of-war-and-his-langjuxu-sacrifice.png)
 
 
 

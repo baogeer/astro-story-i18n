@@ -8,7 +8,7 @@ description: "El recién nombrado condado de Dingzhi se enfrentó a una pelea co
 
 
 
-![AstroPaper I18n](/public/magistrate-ding-judges-the-goose.png)
+![AstroPaper I18n](/magistrate-ding-judges-the-goose.png)
 
 
 

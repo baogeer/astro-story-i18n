@@ -8,7 +8,7 @@ description: "Feng Daquan was fascinated by Zhang's puppy weaving a fence to mak
 
 
 
-![AstroPaper I18n](/public/sending-business-his-way.png)
+![AstroPaper I18n](/sending-business-his-way.png)
 
 
 

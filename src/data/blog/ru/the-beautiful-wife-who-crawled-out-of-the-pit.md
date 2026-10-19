@@ -8,7 +8,7 @@ description: "Лю Чжунли соблазнил Хо Ли, и семья ар
 
 
 
-![AstroPaper I18n](/public/the-beautiful-wife-who-crawled-out-of-the-pit.png)
+![AstroPaper I18n](/the-beautiful-wife-who-crawled-out-of-the-pit.png)
 
 
 

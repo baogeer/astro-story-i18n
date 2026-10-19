@@ -8,7 +8,7 @@ description: "Al final de la dinastía Qing, un ama de casa escoltó más de 20 
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
+![AstroPaper I18n](/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
 
 
 

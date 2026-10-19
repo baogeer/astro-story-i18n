@@ -8,7 +8,7 @@ description: "The young Buryat Hori Tomert stole the swan fairy's feather robe, 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-myth-of-the-swan-totem.png)
+![AstroPaper I18n](/the-mongolian-myth-of-the-swan-totem.png)
 
 
 

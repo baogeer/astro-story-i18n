@@ -8,7 +8,7 @@ description: "تم خدمة جميع أباطرة أسرة تشينغ من قب�
 
 
 
-![AstroPaper I18n](/public/how-qing-imperial-consorts-served-the-emperor-in-the-palace.png)
+![AstroPaper I18n](/how-qing-imperial-consorts-served-the-emperor-in-the-palace.png)
 
 
 

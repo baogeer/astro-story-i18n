@@ -8,7 +8,7 @@ description: "Guan Yu isn't the perfect hero in folklore. According to historica
 
 
 
-![AstroPaper I18n](/public/the-real-guan-yu-vain-and-no-less-lustful-than-cao-cao.png)
+![AstroPaper I18n](/the-real-guan-yu-vain-and-no-less-lustful-than-cao-cao.png)
 
 
 

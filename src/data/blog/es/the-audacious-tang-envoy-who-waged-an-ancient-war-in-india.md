@@ -8,7 +8,7 @@ description: "Wang Xuanze fue a la India y fue emboscado y hecho prisionero por 
 
 
 
-![AstroPaper I18n](/public/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
+![AstroPaper I18n](/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
 
 
 

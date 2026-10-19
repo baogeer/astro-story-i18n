@@ -8,7 +8,7 @@ description: "La historia íntima de la relación íntima de la emperatriz viuda
 
 
 
-![AstroPaper I18n](/public/the-empress-dowager-s-english-lover-and-the-british-baron-s-controversial-memoir.png)
+![AstroPaper I18n](/the-empress-dowager-s-english-lover-and-the-british-baron-s-controversial-memoir.png)
 
 
 

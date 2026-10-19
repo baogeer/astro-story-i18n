@@ -8,7 +8,7 @@ description: "Zhang Yufeng revealed the list to save Miss Yan, who was frightene
 
 
 
-![AstroPaper I18n](/public/how-zhangfeng-shoal-got-its-name.png)
+![AstroPaper I18n](/how-zhangfeng-shoal-got-its-name.png)
 
 
 

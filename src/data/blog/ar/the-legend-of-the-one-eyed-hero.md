@@ -8,7 +8,7 @@ description: "خلال عصر تشينغ شيان فنغ، تم خداع الس�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-one-eyed-hero.png)
+![AstroPaper I18n](/the-legend-of-the-one-eyed-hero.png)
 
 
 

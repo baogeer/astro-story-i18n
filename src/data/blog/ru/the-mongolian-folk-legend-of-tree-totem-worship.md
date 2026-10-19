@@ -8,7 +8,7 @@ description: "Согласно легенде монгольского наро�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-tree-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-tree-totem-worship.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Xu Mu siempre tuvo a su hijo Xu 40. Solo elogió a su hijo por rob
 
 
 
-![AstroPaper I18n](/public/mother-xu-and-the-crooked-jujube-tree.png)
+![AstroPaper I18n](/mother-xu-and-the-crooked-jujube-tree.png)
 
 
 

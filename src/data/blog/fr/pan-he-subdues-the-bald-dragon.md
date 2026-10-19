@@ -8,7 +8,7 @@ description: "Pan et Fu Dulongxa0: Un dragon chauve laid et sale vit dans la mon
 
 
 
-![AstroPaper I18n](/public/pan-he-subdues-the-bald-dragon.png)
+![AstroPaper I18n](/pan-he-subdues-the-bald-dragon.png)
 
 
 

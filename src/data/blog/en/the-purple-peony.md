@@ -8,7 +8,7 @@ description: "The main text is missing, and the summary cannot be generated."
 
 
 
-![AstroPaper I18n](/public/the-purple-peony.png)
+![AstroPaper I18n](/the-purple-peony.png)
 
 
 

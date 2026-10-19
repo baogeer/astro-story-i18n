@@ -8,7 +8,7 @@ description: "تعرض الجد للمضايقة من قبل زوجها عندم
 
 
 
-![AstroPaper I18n](/public/the-clever-grandson-outwits-the-master.png)
+![AstroPaper I18n](/the-clever-grandson-outwits-the-master.png)
 
 
 

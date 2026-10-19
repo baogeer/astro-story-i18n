@@ -8,7 +8,7 @@ description: "Основной текст истории отсутствует 
 
 
 
-![AstroPaper I18n](/public/the-song-of-the-red-fox.png)
+![AstroPaper I18n](/the-song-of-the-red-fox.png)
 
 
 

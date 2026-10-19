@@ -8,7 +8,7 @@ description: "Para que los pobres comieran carne de res, Agutomba prestadas vaca
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
+![AstroPaper I18n](/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
 
 
 

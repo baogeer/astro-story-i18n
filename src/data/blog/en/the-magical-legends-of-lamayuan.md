@@ -8,7 +8,7 @@ description: "The people of Qinghai and Lamayuan spread magical legends such as 
 
 
 
-![AstroPaper I18n](/public/the-magical-legends-of-lamayuan.png)
+![AstroPaper I18n](/the-magical-legends-of-lamayuan.png)
 
 
 

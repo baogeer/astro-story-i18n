@@ -8,7 +8,7 @@ description: "Princess Jincheng married Prince Tuban. On the way, the prince fel
 
 
 
-![AstroPaper I18n](/public/the-story-of-princess-jincheng.png)
+![AstroPaper I18n](/the-story-of-princess-jincheng.png)
 
 
 

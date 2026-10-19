@@ -8,7 +8,7 @@ description: "لقد حرر السمكة العملاقة الصفراء الن�
 
 
 
-![AstroPaper I18n](/public/the-dragon-princess-and-the-magic-pearl.png)
+![AstroPaper I18n](/the-dragon-princess-and-the-magic-pearl.png)
 
 
 

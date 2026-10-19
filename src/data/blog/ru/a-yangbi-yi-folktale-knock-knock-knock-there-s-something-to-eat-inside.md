@@ -8,7 +8,7 @@ description: "Ребенок, который не умеет говорить, �
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
 
 
 

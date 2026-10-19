@@ -8,7 +8,7 @@ description: "La lujuria de Li Binger solo proviene de una sed instintiva. Carec
 
 
 
-![AstroPaper I18n](/public/on-the-golden-lotus-li-ping-er-s-affair-cannot-rival-pan-jinlian.png)
+![AstroPaper I18n](/on-the-golden-lotus-li-ping-er-s-affair-cannot-rival-pan-jinlian.png)
 
 
 

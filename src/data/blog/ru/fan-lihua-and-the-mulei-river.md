@@ -8,7 +8,7 @@ description: "Фань Лихуа двинулся на запад в округ
 
 
 
-![AstroPaper I18n](/public/fan-lihua-and-the-mulei-river.png)
+![AstroPaper I18n](/fan-lihua-and-the-mulei-river.png)
 
 
 

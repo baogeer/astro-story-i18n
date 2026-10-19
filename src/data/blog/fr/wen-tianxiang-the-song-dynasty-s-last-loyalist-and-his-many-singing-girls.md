@@ -8,7 +8,7 @@ description: "Après avoir remporté le titre, Wen Tianxiang a cultivé le kabuk
 
 
 
-![AstroPaper I18n](/public/wen-tianxiang-the-song-dynasty-s-last-loyalist-and-his-many-singing-girls.png)
+![AstroPaper I18n](/wen-tianxiang-the-song-dynasty-s-last-loyalist-and-his-many-singing-girls.png)
 
 
 

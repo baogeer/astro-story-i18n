@@ -8,7 +8,7 @@ description: "عقد فنغ شنغ اجتماعًا خاصًا مع فتاة ا�
 
 
 
-![AstroPaper I18n](/public/hongyu-the-fox-spirit.png)
+![AstroPaper I18n](/hongyu-the-fox-spirit.png)
 
 
 

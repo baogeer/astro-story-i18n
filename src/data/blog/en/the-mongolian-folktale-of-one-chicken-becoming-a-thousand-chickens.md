@@ -8,7 +8,7 @@ description: "Two sons from a poor family slaughtered chickens to entertain the 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-one-chicken-becoming-a-thousand-chickens.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-one-chicken-becoming-a-thousand-chickens.png)
 
 
 

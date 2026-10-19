@@ -8,7 +8,7 @@ description: "В недавно назначенном округе Динчжи
 
 
 
-![AstroPaper I18n](/public/magistrate-ding-judges-the-goose.png)
+![AstroPaper I18n](/magistrate-ding-judges-the-goose.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Hua de Changzhou a vieilli et a été tué par le méchant moin
 
 
 
-![AstroPaper I18n](/public/zhu-er.png)
+![AstroPaper I18n](/zhu-er.png)
 
 
 

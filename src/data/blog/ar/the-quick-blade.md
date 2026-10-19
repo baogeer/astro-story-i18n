@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة مينغ، كان هناك الع�
 
 
 
-![AstroPaper I18n](/public/the-quick-blade.png)
+![AstroPaper I18n](/the-quick-blade.png)
 
 
 

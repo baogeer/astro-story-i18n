@@ -8,7 +8,7 @@ description: "Zhao Laohan, de Caozhou, y su hija, Jade, se disfrazaron de hombre
 
 
 
-![AstroPaper I18n](/public/the-peony-more-precious-than-life.png)
+![AstroPaper I18n](/the-peony-more-precious-than-life.png)
 
 
 

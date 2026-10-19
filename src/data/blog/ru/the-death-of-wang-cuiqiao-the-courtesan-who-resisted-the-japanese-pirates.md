@@ -8,7 +8,7 @@ description: "В годы правления Мин и Цзяцзина знам
 
 
 
-![AstroPaper I18n](/public/the-death-of-wang-cuiqiao-the-courtesan-who-resisted-the-japanese-pirates.png)
+![AstroPaper I18n](/the-death-of-wang-cuiqiao-the-courtesan-who-resisted-the-japanese-pirates.png)
 
 
 

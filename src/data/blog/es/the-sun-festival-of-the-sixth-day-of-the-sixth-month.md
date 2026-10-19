@@ -8,7 +8,7 @@ description: "Cuando la antigüedad salió a la luz el día 10, Asan trajo a alg
 
 
 
-![AstroPaper I18n](/public/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
+![AstroPaper I18n](/the-sun-festival-of-the-sixth-day-of-the-sixth-month.png)
 
 
 

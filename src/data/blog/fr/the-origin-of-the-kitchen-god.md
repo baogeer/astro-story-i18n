@@ -8,7 +8,7 @@ description: "Après que Zhang Lang soit parti faire des affaires et soit devenu
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-kitchen-god.png)
+![AstroPaper I18n](/the-origin-of-the-kitchen-god.png)
 
 
 

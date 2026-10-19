@@ -8,7 +8,7 @@ description: "كانت قرية Zhong Luo تُعرف في الأصل باسم ق
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fallen-bell-village.png)
+![AstroPaper I18n](/the-legend-of-the-fallen-bell-village.png)
 
 
 

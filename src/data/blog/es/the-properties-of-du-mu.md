@@ -8,7 +8,7 @@ description: "Du Mu es del clan Jingzhao Doji, y su hogar ancestral, Yasunori, e
 
 
 
-![AstroPaper I18n](/public/the-properties-of-du-mu.png)
+![AstroPaper I18n](/the-properties-of-du-mu.png)
 
 
 

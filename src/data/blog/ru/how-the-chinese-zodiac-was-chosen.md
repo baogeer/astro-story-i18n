@@ -8,7 +8,7 @@ description: "Старому скальперу было приказано пр
 
 
 
-![AstroPaper I18n](/public/how-the-chinese-zodiac-was-chosen.png)
+![AstroPaper I18n](/how-the-chinese-zodiac-was-chosen.png)
 
 
 

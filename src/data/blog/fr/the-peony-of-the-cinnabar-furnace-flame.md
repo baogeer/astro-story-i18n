@@ -8,7 +8,7 @@ description: "Le jardin de pivoines de Wang Laohan, un cultivateur de fleurs de 
 
 
 
-![AstroPaper I18n](/public/the-peony-of-the-cinnabar-furnace-flame.png)
+![AstroPaper I18n](/the-peony-of-the-cinnabar-furnace-flame.png)
 
 
 

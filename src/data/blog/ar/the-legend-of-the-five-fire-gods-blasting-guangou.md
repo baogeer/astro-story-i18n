@@ -8,7 +8,7 @@ description: "عندما أسس ياو غوانغشياو كيوتو، طلب ا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-five-fire-gods-blasting-guangou.png)
+![AstroPaper I18n](/the-legend-of-the-five-fire-gods-blasting-guangou.png)
 
 
 

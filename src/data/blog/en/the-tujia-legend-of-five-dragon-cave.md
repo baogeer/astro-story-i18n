@@ -8,7 +8,7 @@ description: "A female dragon and four dragons live in the Wulong Cave in Bamian
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-five-dragon-cave.png)
+![AstroPaper I18n](/the-tujia-legend-of-five-dragon-cave.png)
 
 
 

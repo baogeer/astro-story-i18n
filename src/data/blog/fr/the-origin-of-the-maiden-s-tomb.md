@@ -8,7 +8,7 @@ description: "La fille de la tribu kazakhe Bayi tombe amoureuse du pauvre berger
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maiden-s-tomb.png)
+![AstroPaper I18n](/the-origin-of-the-maiden-s-tomb.png)
 
 
 

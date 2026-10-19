@@ -8,7 +8,7 @@ description: "Dong Zhao a sauvé une fourmi en traversant la rivière Qiantang. 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-ant-king-s-gratitude.png)
+![AstroPaper I18n](/the-story-of-the-ant-king-s-gratitude.png)
 
 
 

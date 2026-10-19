@@ -8,7 +8,7 @@ description: "De nombreuses histoires intéressantes circulent parmi les habitan
 
 
 
-![AstroPaper I18n](/public/amusing-folk-couplet-tales-from-southern-anhui.png)
+![AstroPaper I18n](/amusing-folk-couplet-tales-from-southern-anhui.png)
 
 
 

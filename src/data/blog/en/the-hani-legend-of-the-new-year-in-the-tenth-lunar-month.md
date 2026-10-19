@@ -8,7 +8,7 @@ description: "Legend has it that a long time ago, a monster that ate humans and 
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-new-year-in-the-tenth-lunar-month.png)
+![AstroPaper I18n](/the-hani-legend-of-the-new-year-in-the-tenth-lunar-month.png)
 
 
 

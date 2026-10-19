@@ -8,7 +8,7 @@ description: "تقول الأسطورة أنه في العصور القديمة�
 
 
 
-![AstroPaper I18n](/public/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
+![AstroPaper I18n](/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
 
 
 

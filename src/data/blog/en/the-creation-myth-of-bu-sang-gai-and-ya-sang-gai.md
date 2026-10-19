@@ -8,7 +8,7 @@ description: "Two gods, Busangai and Yasangai, were sent by Tenjin to bring fair
 
 
 
-![AstroPaper I18n](/public/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
+![AstroPaper I18n](/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
 
 
 

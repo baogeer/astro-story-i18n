@@ -8,7 +8,7 @@ description: "باع تشانغ فاي اللحوم وأعد بطاقة «أمس
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-peach-garden-oath.png)
+![AstroPaper I18n](/the-legend-of-the-peach-garden-oath.png)
 
 
 

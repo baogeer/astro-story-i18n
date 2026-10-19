@@ -8,7 +8,7 @@ description: "Le professeur de l'empereur Guangxu, M. He Lao, a été emprisonn�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-he-family-tomb-at-dajin-mountain.png)
+![AstroPaper I18n](/the-legend-of-the-he-family-tomb-at-dajin-mountain.png)
 
 
 

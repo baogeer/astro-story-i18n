@@ -8,7 +8,7 @@ description: "Чжан Иньхань спас Линь Чжун Оэ, кото�
 
 
 
-![AstroPaper I18n](/public/the-wild-bees-and-the-strange-python.png)
+![AstroPaper I18n](/the-wild-bees-and-the-strange-python.png)
 
 
 

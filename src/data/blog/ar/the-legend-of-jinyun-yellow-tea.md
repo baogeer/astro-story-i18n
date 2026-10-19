@@ -8,7 +8,7 @@ description: "عندما صعد Xuanyuan Huangdi إلى السماء في قمة
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+![AstroPaper I18n](/the-legend-of-jinyun-yellow-tea.png)
 
 
 

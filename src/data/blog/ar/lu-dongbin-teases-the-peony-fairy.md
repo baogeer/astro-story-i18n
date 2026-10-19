@@ -8,7 +8,7 @@ description: "من أجل الاستسلام كحيوان البنغولين ف�
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-teases-the-peony-fairy.png)
+![AstroPaper I18n](/lu-dongbin-teases-the-peony-fairy.png)
 
 
 

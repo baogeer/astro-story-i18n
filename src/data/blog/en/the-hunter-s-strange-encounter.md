@@ -8,7 +8,7 @@ description: "Hunter Fang Cuncun visited Laoshi Cave at night, met the rabbit he
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-strange-encounter.png)
+![AstroPaper I18n](/the-hunter-s-strange-encounter.png)
 
 
 

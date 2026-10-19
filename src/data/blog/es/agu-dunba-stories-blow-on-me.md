@@ -8,7 +8,7 @@ description: "Agutomba era un joven sirviente y al líder le encantaba presumir 
 
 
 
-![AstroPaper I18n](/public/agu-dunba-stories-blow-on-me.png)
+![AstroPaper I18n](/agu-dunba-stories-blow-on-me.png)
 
 
 

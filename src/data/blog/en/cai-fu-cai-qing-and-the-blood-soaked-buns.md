@@ -8,7 +8,7 @@ description: "Brother Cai Fu, the executioner, had no fuel due to errands. After
 
 
 
-![AstroPaper I18n](/public/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
 
 
 

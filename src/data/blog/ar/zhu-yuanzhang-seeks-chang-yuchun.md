@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة يوان، زار تشو يوان 
 
 
 
-![AstroPaper I18n](/public/zhu-yuanzhang-seeks-chang-yuchun.png)
+![AstroPaper I18n](/zhu-yuanzhang-seeks-chang-yuchun.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Guo Zixing rescued Wang Xianglian's sister and brother who were im
 
 
 
-![AstroPaper I18n](/public/guo-zixing-rids-heyang-of-villains.png)
+![AstroPaper I18n](/guo-zixing-rids-heyang-of-villains.png)
 
 
 

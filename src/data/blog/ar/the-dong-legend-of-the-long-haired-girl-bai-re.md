@@ -8,7 +8,7 @@ description: "كان الجبل شديد الانحدار قاحلًا وكان�
 
 
 
-![AstroPaper I18n](/public/the-dong-legend-of-the-long-haired-girl-bai-re.png)
+![AstroPaper I18n](/the-dong-legend-of-the-long-haired-girl-bai-re.png)
 
 
 

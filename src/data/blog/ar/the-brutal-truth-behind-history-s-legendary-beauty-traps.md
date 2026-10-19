@@ -8,7 +8,7 @@ description: "صعدت الأميرة إيونغ سو شون العرش. بعد 
 
 
 
-![AstroPaper I18n](/public/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
+![AstroPaper I18n](/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
 
 
 

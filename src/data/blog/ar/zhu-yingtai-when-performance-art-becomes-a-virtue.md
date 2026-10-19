@@ -8,7 +8,7 @@ description: "ذهبت الآنسة تشو ينغتاي، وهي شابة من �
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
+![AstroPaper I18n](/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
 
 
 

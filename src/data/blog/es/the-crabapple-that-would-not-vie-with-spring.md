@@ -8,7 +8,7 @@ description: "Begonia estaba meticulosamente vinculada a Snow Ji, los Siete Reye
 
 
 
-![AstroPaper I18n](/public/the-crabapple-that-would-not-vie-with-spring.png)
+![AstroPaper I18n](/the-crabapple-that-would-not-vie-with-spring.png)
 
 
 

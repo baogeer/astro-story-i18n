@@ -8,7 +8,7 @@ description: "Ning Guanwa es el nieto del Dios Sol. Sus padres le dieron poderes
 
 
 
-![AstroPaper I18n](/public/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
+![AstroPaper I18n](/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
 
 
 

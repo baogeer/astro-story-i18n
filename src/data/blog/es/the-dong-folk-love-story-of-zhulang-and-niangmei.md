@@ -8,7 +8,7 @@ description: "Jurang y su madre se enamoraron y se fugaron, y Juro fue asesinada
 
 
 
-![AstroPaper I18n](/public/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
+![AstroPaper I18n](/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
 
 
 

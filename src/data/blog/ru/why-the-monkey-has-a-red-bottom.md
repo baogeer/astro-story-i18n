@@ -8,7 +8,7 @@ description: "Давным-давно обезьяна украла девочк
 
 
 
-![AstroPaper I18n](/public/why-the-monkey-has-a-red-bottom.png)
+![AstroPaper I18n](/why-the-monkey-has-a-red-bottom.png)
 
 
 

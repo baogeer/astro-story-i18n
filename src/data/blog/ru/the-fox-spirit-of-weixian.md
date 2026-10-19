@@ -8,7 +8,7 @@ description: "Ли из округа Вэйсянь арендовал дом п
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-of-weixian.png)
+![AstroPaper I18n](/the-fox-spirit-of-weixian.png)
 
 
 

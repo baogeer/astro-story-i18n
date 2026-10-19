@@ -8,7 +8,7 @@ description: "In the Tang Dynasty, Tang Xuanzong and Yang Guifei enjoyed peonies
 
 
 
-![AstroPaper I18n](/public/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
+![AstroPaper I18n](/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
 
 
 

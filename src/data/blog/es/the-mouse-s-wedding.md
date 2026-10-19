@@ -8,7 +8,7 @@ description: "Los padres de ratones buscan el marido más fuerte del mundo para 
 
 
 
-![AstroPaper I18n](/public/the-mouse-s-wedding.png)
+![AstroPaper I18n](/the-mouse-s-wedding.png)
 
 
 

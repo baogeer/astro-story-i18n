@@ -8,7 +8,7 @@ description: "Guo Kai era el favorito de los dos reyes de Zhao Guo. Confió en X
 
 
 
-![AstroPaper I18n](/public/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
+![AstroPaper I18n](/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
 
 
 

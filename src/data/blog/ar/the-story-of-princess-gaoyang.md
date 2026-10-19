@@ -8,7 +8,7 @@ description: "إرث نجل رئيس الوزراء فونج هيون لينغ. 
 
 
 
-![AstroPaper I18n](/public/the-story-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-story-of-princess-gaoyang.png)
 
 
 

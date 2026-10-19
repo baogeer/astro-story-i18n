@@ -8,7 +8,7 @@ description: "Сестра из Сянси влюбилась в Гэ Чая с 
 
 
 
-![AstroPaper I18n](/public/the-love-charm.png)
+![AstroPaper I18n](/the-love-charm.png)
 
 
 

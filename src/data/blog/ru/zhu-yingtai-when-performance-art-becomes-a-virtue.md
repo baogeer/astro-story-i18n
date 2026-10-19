@@ -8,7 +8,7 @@ description: "Мисс Чжу Интай, молодая женщина из д�
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
+![AstroPaper I18n](/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
 
 
 

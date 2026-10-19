@@ -8,7 +8,7 @@ description: "Huangdi viajó hacia el sur hasta el desfiladero de Canglong. Al v
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-emperor-s-ascent-from-dinghu-peak.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-emperor-s-ascent-from-dinghu-peak.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La tercera hija de Genghis Khan, Alahaibe, escapó con su familia 
 
 
 
-![AstroPaper I18n](/public/alakhai-beki-the-brave-mongol-princess-who-commanded-the-iron-cavalry.png)
+![AstroPaper I18n](/alakhai-beki-the-brave-mongol-princess-who-commanded-the-iron-cavalry.png)
 
 
 

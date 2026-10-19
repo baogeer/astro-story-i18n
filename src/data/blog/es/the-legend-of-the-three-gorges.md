@@ -8,7 +8,7 @@ description: "Guanyin, Luban y Qin Shi Huang se reunieron cada uno para completa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-gorges.png)
+![AstroPaper I18n](/the-legend-of-the-three-gorges.png)
 
 
 

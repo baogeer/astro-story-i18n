@@ -8,7 +8,7 @@ description: "La déesse Qiang Shalang enseigne au peuple Qiang à danser chaque
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-shalang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-shalang-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يكسر الشيطان كاكا السلسلة الذهبية، �
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sunflower.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sunflower.png)
 
 
 

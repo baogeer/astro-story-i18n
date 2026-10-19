@@ -8,7 +8,7 @@ description: "La fée Golden Baht est descendue et était obsédée par Duan Dua
 
 
 
-![AstroPaper I18n](/public/fairy-jin-zhu.png)
+![AstroPaper I18n](/fairy-jin-zhu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Jiang Yuan was rich in literature in his early years, but his work
 
 
 
-![AstroPaper I18n](/public/did-jiang-yan-s-literary-talent-really-run-dry.png)
+![AstroPaper I18n](/did-jiang-yan-s-literary-talent-really-run-dry.png)
 
 
 

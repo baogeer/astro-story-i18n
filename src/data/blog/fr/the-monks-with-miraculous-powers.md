@@ -8,7 +8,7 @@ description: "Les deux moines occidentaux avaient une apparence étrange et ont 
 
 
 
-![AstroPaper I18n](/public/the-monks-with-miraculous-powers.png)
+![AstroPaper I18n](/the-monks-with-miraculous-powers.png)
 
 
 

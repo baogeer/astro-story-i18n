@@ -8,7 +8,7 @@ description: "من أجل الوفاء بوعد والدها بالمكافأة�
 
 
 
-![AstroPaper I18n](/public/why-emperor-ku-s-daughter-married-a-dog.png)
+![AstroPaper I18n](/why-emperor-ku-s-daughter-married-a-dog.png)
 
 
 

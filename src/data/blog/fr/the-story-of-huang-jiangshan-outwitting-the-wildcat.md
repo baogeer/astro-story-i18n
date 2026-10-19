@@ -8,7 +8,7 @@ description: "Afin de venger son frère, la chatte sauvage a fait semblant de se
 
 
 
-![AstroPaper I18n](/public/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
+![AstroPaper I18n](/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
 
 
 

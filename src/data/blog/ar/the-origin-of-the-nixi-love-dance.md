@@ -8,7 +8,7 @@ description: "ولدت Zhong Ger Ah Wu عندما حملت الأميرة زوج
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-nixi-love-dance.png)
+![AstroPaper I18n](/the-origin-of-the-nixi-love-dance.png)
 
 
 

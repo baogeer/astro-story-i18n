@@ -8,7 +8,7 @@ description: "Countrymen sell pears at the bazaar and are stingy and refuse to g
 
 
 
-![AstroPaper I18n](/public/the-pear-planting-taoist.png)
+![AstroPaper I18n](/the-pear-planting-taoist.png)
 
 
 

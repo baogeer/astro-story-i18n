@@ -8,7 +8,7 @@ description: "Лю Цуйцюй и Цзинь Дин влюблены и жен�
 
 
 
-![AstroPaper I18n](/public/liu-cuicui-s-unending-love-and-heartbreak.png)
+![AstroPaper I18n](/liu-cuicui-s-unending-love-and-heartbreak.png)
 
 
 

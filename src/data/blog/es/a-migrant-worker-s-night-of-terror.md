@@ -8,7 +8,7 @@ description: "La chica trabajadora, Huang Juanjuan, volvió a estar angustiada p
 
 
 
-![AstroPaper I18n](/public/a-migrant-worker-s-night-of-terror.png)
+![AstroPaper I18n](/a-migrant-worker-s-night-of-terror.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Long ago, in order for the Sun and Moon to appear regularly, the H
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-moqiu-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-moqiu-festival.png)
 
 
 

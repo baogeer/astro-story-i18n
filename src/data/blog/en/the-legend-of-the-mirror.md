@@ -8,7 +8,7 @@ description: "Xinsheng Airlines didn't believe the rumor that the campus toilet 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-mirror.png)
+![AstroPaper I18n](/the-legend-of-the-mirror.png)
 
 
 

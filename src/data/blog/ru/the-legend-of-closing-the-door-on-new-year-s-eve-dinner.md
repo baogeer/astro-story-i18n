@@ -8,7 +8,7 @@ description: "Легенда гласит, что жители провинци�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-closing-the-door-on-new-year-s-eve-dinner.png)
+![AstroPaper I18n](/the-legend-of-closing-the-door-on-new-year-s-eve-dinner.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yu Chi Gong a construit le temple Senlin pour Tang Taizong afin de
 
 
 
-![AstroPaper I18n](/public/yuchi-gong-builds-the-temple.png)
+![AstroPaper I18n](/yuchi-gong-builds-the-temple.png)
 
 
 

@@ -8,7 +8,7 @@ description: "هناك تنين قديم يعيش في لونغتان في تش�
 
 
 
-![AstroPaper I18n](/public/the-old-steward-dragon.png)
+![AstroPaper I18n](/the-old-steward-dragon.png)
 
 
 

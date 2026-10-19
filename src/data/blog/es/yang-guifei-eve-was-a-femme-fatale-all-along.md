@@ -8,7 +8,7 @@ description: "La princesa Yang Guifei era originalmente la nuera de Tang Xuanzon
 
 
 
-![AstroPaper I18n](/public/yang-guifei-eve-was-a-femme-fatale-all-along.png)
+![AstroPaper I18n](/yang-guifei-eve-was-a-femme-fatale-all-along.png)
 
 
 

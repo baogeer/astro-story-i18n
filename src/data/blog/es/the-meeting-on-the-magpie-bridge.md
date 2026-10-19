@@ -8,7 +8,7 @@ description: "El vaquero y el tejedor están separados por la madre real dibujan
 
 
 
-![AstroPaper I18n](/public/the-meeting-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-meeting-on-the-magpie-bridge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Teng Xiaoguo a été inondé et un dragon géant était allongé s
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-state-of-teng.png)
+![AstroPaper I18n](/the-legend-of-the-little-state-of-teng.png)
 
 
 

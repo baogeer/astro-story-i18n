@@ -8,7 +8,7 @@ description: "Most of the Ming dynasty's pre-marital sexual experiences came fro
 
 
 
-![AstroPaper I18n](/public/the-first-bed-partners-of-chinese-emperors.png)
+![AstroPaper I18n](/the-first-bed-partners-of-chinese-emperors.png)
 
 
 

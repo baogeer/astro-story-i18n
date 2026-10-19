@@ -8,7 +8,7 @@ description: "كان ليانغ شانبو وتشو ينغتاي في نفس ا�
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers-1628.png)
+![AstroPaper I18n](/the-butterfly-lovers-1628.png)
 
 
 

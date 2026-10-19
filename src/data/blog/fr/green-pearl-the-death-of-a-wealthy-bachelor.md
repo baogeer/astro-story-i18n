@@ -8,7 +8,7 @@ description: "Green Pearl est une belle concubine engagée par Shi Chong à l'ai
 
 
 
-![AstroPaper I18n](/public/green-pearl-the-death-of-a-wealthy-bachelor.png)
+![AstroPaper I18n](/green-pearl-the-death-of-a-wealthy-bachelor.png)
 
 
 

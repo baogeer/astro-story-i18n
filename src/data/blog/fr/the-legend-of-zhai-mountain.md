@@ -8,7 +8,7 @@ description: "Après sa défaite, le général de l'armée de Taiping Miao Xinbi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhai-mountain.png)
+![AstroPaper I18n](/the-legend-of-zhai-mountain.png)
 
 
 

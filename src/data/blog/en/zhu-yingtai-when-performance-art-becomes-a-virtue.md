@@ -8,7 +8,7 @@ description: "Miss Zhu Yingtai, a young lady from the Eastern Jin Dynasty, went 
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
+![AstroPaper I18n](/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
 
 
 

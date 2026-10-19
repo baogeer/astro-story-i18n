@@ -8,7 +8,7 @@ description: "Father Lu Gan is seriously ill. Her twin sister, Lu Cai, married F
 
 
 
-![AstroPaper I18n](/public/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
 
 
 

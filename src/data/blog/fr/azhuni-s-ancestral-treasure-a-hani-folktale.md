@@ -8,7 +8,7 @@ description: "Ahjuni, un jeune homme de la tribu Hani, était un homme riche qui
 
 
 
-![AstroPaper I18n](/public/azhuni-s-ancestral-treasure-a-hani-folktale.png)
+![AstroPaper I18n](/azhuni-s-ancestral-treasure-a-hani-folktale.png)
 
 
 

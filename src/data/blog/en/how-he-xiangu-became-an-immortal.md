@@ -8,7 +8,7 @@ description: "He Xianguu, originally known as He Qiong, is a native of Ling Ling
 
 
 
-![AstroPaper I18n](/public/how-he-xiangu-became-an-immortal.png)
+![AstroPaper I18n](/how-he-xiangu-became-an-immortal.png)
 
 
 

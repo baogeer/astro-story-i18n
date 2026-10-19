@@ -8,7 +8,7 @@ description: "Le chasseur a sauvé le lapin par accident et l'esprit du lapin a 
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-unexpected-fairy-bride.png)
+![AstroPaper I18n](/the-hunter-s-unexpected-fairy-bride.png)
 
 
 

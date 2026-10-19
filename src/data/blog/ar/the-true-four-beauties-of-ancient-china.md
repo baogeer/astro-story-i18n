@@ -8,7 +8,7 @@ description: "شكك المؤلف في أن معظم الجمالات التقل
 
 
 
-![AstroPaper I18n](/public/the-true-four-beauties-of-ancient-china.png)
+![AstroPaper I18n](/the-true-four-beauties-of-ancient-china.png)
 
 
 

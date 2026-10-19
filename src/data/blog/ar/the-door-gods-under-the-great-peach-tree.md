@@ -8,7 +8,7 @@ description: "البوابة تحت شجرة الخوخ الكبيرة على ج
 
 
 
-![AstroPaper I18n](/public/the-door-gods-under-the-great-peach-tree.png)
+![AstroPaper I18n](/the-door-gods-under-the-great-peach-tree.png)
 
 
 

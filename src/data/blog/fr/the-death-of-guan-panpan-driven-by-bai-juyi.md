@@ -8,7 +8,7 @@ description: "Guan Panpan était un chanteur talentueux de la dynastie Tang. Ell
 
 
 
-![AstroPaper I18n](/public/the-death-of-guan-panpan-driven-by-bai-juyi.png)
+![AstroPaper I18n](/the-death-of-guan-panpan-driven-by-bai-juyi.png)
 
 
 

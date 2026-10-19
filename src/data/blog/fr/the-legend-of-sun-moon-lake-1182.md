@@ -8,7 +8,7 @@ description: "Frère Dajian et sœur Shuishe ont vu le Soleil et la Lune dispara
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake-1182.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake-1182.png)
 
 
 

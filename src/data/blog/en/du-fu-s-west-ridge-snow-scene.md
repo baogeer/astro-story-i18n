@@ -8,7 +8,7 @@ description: "Li Jianchun used his pictorial theory to appreciate Du Fu's “A W
 
 
 
-![AstroPaper I18n](/public/du-fu-s-west-ridge-snow-scene.png)
+![AstroPaper I18n](/du-fu-s-west-ridge-snow-scene.png)
 
 
 

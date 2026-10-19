@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que una anciana del norte encontró una vasija d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ade-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-ade-the-miao-king.png)
 
 
 

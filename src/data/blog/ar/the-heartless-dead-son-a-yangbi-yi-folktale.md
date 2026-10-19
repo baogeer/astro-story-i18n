@@ -8,7 +8,7 @@ description: "التقت أم عجوز بابنها المتوفى في شارع
 
 
 
-![AstroPaper I18n](/public/the-heartless-dead-son-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-heartless-dead-son-a-yangbi-yi-folktale.png)
 
 
 

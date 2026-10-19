@@ -8,7 +8,7 @@ description: "Чжу Игуй зарабатывал на жизнь разве�
 
 
 
-![AstroPaper I18n](/public/the-duck-king-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-duck-king-a-taiwanese-folktale.png)
 
 
 

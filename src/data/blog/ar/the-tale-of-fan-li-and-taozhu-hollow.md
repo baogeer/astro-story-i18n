@@ -8,7 +8,7 @@ description: "خلال فترة الربيع والخريف، استقال فا�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-fan-li-and-taozhu-hollow.png)
+![AstroPaper I18n](/the-tale-of-fan-li-and-taozhu-hollow.png)
 
 
 

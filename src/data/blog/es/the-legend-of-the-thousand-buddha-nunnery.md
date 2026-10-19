@@ -8,7 +8,7 @@ description: "Jujube fue incriminada cuando se quejó por su marido. Le cortaron
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thousand-buddha-nunnery.png)
+![AstroPaper I18n](/the-legend-of-the-thousand-buddha-nunnery.png)
 
 
 

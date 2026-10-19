@@ -8,7 +8,7 @@ description: "Писатель династии Сун Су Дунпо прис�
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-passion-for-strange-stones.png)
+![AstroPaper I18n](/su-dongpo-s-passion-for-strange-stones.png)
 
 
 

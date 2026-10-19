@@ -8,7 +8,7 @@ description: "ذهب سو دونغ بو إلى هانغتشو لتولي الم�
 
 
 
-![AstroPaper I18n](/public/su-dongpo-paints-fans-to-settle-a-case.png)
+![AstroPaper I18n](/su-dongpo-paints-fans-to-settle-a-case.png)
 
 
 

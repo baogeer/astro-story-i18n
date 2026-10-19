@@ -8,7 +8,7 @@ description: "Цзи Кан — известная личность из Вэй 
 
 
 
-![AstroPaper I18n](/public/ji-kang-forever-thirty-nine.png)
+![AstroPaper I18n](/ji-kang-forever-thirty-nine.png)
 
 
 

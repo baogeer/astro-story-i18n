@@ -8,7 +8,7 @@ description: "Ling Cailian was forced to get married and jump to the river, and 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-qingming-rain.png)
+![AstroPaper I18n](/the-origin-of-qingming-rain.png)
 
 
 

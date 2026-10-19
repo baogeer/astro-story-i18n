@@ -8,7 +8,7 @@ description: "В древние времена 12 солнц на небе сж�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sun.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sun.png)
 
 
 

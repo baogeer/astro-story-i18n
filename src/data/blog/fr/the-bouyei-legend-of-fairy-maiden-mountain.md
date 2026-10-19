@@ -8,7 +8,7 @@ description: "Le tisserand a sauvé le peuple Buyei et a courageusement combattu
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-fairy-maiden-mountain.png)
+![AstroPaper I18n](/the-bouyei-legend-of-fairy-maiden-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل تعويض وانغ يون لاستضافتها، كا
 
 
 
-![AstroPaper I18n](/public/diaochan-s-fateful-name-and-wang-yun-s-plot-against-dong-zhuo.png)
+![AstroPaper I18n](/diaochan-s-fateful-name-and-wang-yun-s-plot-against-dong-zhuo.png)
 
 
 

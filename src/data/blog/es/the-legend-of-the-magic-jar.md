@@ -8,7 +8,7 @@ description: "Cuando la pobre madre y el hijo cortaban el césped, Yang Yi desen
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-magic-jar.png)
+![AstroPaper I18n](/the-legend-of-the-magic-jar.png)
 
 
 

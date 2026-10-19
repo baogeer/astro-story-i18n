@@ -8,7 +8,7 @@ description: "Après la capture de Zeng Guofan et le roi de Taiping Li Xiucheng,
 
 
 
-![AstroPaper I18n](/public/why-zeng-guofan-hastily-executed-li-xiucheng-loyal-king-of-the-taiping.png)
+![AstroPaper I18n](/why-zeng-guofan-hastily-executed-li-xiucheng-loyal-king-of-the-taiping.png)
 
 
 

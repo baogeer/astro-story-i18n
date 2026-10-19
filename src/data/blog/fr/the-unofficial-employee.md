@@ -8,7 +8,7 @@ description: "Le vieil homme Charlie a adopté un génie orang-outan dans un pet
 
 
 
-![AstroPaper I18n](/public/the-unofficial-employee.png)
+![AstroPaper I18n](/the-unofficial-employee.png)
 
 
 

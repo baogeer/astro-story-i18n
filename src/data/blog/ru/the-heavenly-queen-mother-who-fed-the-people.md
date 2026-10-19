@@ -8,7 +8,7 @@ description: "Мать Ван была очень добра к людям и п
 
 
 
-![AstroPaper I18n](/public/the-heavenly-queen-mother-who-fed-the-people.png)
+![AstroPaper I18n](/the-heavenly-queen-mother-who-fed-the-people.png)
 
 
 

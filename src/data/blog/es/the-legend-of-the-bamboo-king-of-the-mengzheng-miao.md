@@ -8,7 +8,7 @@ description: "Gu Tang, una niña miao, se casó con Zhujing y tuvo muchos hijos.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
 
 
 

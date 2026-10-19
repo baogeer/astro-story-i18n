@@ -8,7 +8,7 @@ description: "Un Taureau vit au fond du lac Jinniu. En cas de sécheresse, il cr
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-lake.png)
+![AstroPaper I18n](/the-golden-ox-lake.png)
 
 
 

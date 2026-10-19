@@ -8,7 +8,7 @@ description: "Fu Qiubo, une fée des Han occidentaux, s'est rendue à Jingning a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-creek.png)
+![AstroPaper I18n](/the-legend-of-crane-creek.png)
 
 
 

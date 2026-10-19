@@ -8,7 +8,7 @@ description: "استخدم كتّاب تانغ وسونغ مثل دو فو ول�
 
 
 
-![AstroPaper I18n](/public/great-writers-who-joked-about-their-own-surnames.png)
+![AstroPaper I18n](/great-writers-who-joked-about-their-own-surnames.png)
 
 
 

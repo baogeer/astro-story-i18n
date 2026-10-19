@@ -8,7 +8,7 @@ description: "Ban Zhaowen a excellé. Elle a aidé son frère Ban Gu à terminer
 
 
 
-![AstroPaper I18n](/public/ban-zhao-the-great-female-scholar-of-the-eastern-han-dynasty.png)
+![AstroPaper I18n](/ban-zhao-the-great-female-scholar-of-the-eastern-han-dynasty.png)
 
 
 

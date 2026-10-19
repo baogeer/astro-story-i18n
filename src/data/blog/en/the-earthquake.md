@@ -8,7 +8,7 @@ description: "In Kangxi's 7th year, when Pu Songling was drinking at night with 
 
 
 
-![AstroPaper I18n](/public/the-earthquake.png)
+![AstroPaper I18n](/the-earthquake.png)
 
 
 

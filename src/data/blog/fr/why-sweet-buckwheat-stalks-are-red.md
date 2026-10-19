@@ -8,7 +8,7 @@ description: "Après que la vieille femme démon ait assassiné la femme Morita,
 
 
 
-![AstroPaper I18n](/public/why-sweet-buckwheat-stalks-are-red.png)
+![AstroPaper I18n](/why-sweet-buckwheat-stalks-are-red.png)
 
 
 

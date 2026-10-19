@@ -8,7 +8,7 @@ description: "Liu Danting, un étudiant de troisième cycle de Luoyang, adorait 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-liu-yellow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-dai-liu-yellow-peony.png)
 
 
 

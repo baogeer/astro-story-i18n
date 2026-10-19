@@ -8,7 +8,7 @@ description: "Tan Jinxuan est un génie. Il est obsédé par la pratique du Qigo
 
 
 
-![AstroPaper I18n](/public/the-man-in-the-ear.png)
+![AstroPaper I18n](/the-man-in-the-ear.png)
 
 
 

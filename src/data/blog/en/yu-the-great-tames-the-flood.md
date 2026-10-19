@@ -8,7 +8,7 @@ description: "Dayu inherited his father's business of managing water and switche
 
 
 
-![AstroPaper I18n](/public/yu-the-great-tames-the-flood.png)
+![AstroPaper I18n](/yu-the-great-tames-the-flood.png)
 
 
 

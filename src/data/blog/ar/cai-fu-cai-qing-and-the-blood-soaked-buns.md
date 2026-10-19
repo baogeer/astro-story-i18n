@@ -8,7 +8,7 @@ description: "لم يكن لدى الأخ كاي فو، الجلاد، أي وق
 
 
 
-![AstroPaper I18n](/public/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
 
 
 

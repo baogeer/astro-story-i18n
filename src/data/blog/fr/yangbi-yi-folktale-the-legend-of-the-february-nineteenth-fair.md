@@ -8,7 +8,7 @@ description: "Ah Xiang, du village de Zhi sur le fleuve Yangyi, a été enlevée
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
 
 
 

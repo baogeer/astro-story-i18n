@@ -8,7 +8,7 @@ description: "Originalmente cantante y prostituta de Qinglou, Du Qiuniang impres
 
 
 
-![AstroPaper I18n](/public/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
+![AstroPaper I18n](/how-a-courtesan-became-a-tang-emperor-s-beloved-consort.png)
 
 
 

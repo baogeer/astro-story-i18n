@@ -8,7 +8,7 @@ description: "El vaquero pasaba sus días solo y los tejedores se ayudaban unos 
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "وقع الشاب يو باي زاكسي في حب شيا جا ك�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-young-yubai-tashi-and-his-wife-xiaga-quzong.png)
+![AstroPaper I18n](/the-tale-of-young-yubai-tashi-and-his-wife-xiaga-quzong.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Née d'un puits, Yang Asha est belle et intelligente. Elle a été
 
 
 
-![AstroPaper I18n](/public/the-legend-of-yang-asha-the-miao-maiden.png)
+![AstroPaper I18n](/the-legend-of-yang-asha-the-miao-maiden.png)
 
 
 

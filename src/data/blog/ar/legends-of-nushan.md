@@ -8,7 +8,7 @@ description: "كان الجد تورتل جشعًا وتزوج عن طريق ا�
 
 
 
-![AstroPaper I18n](/public/legends-of-nushan.png)
+![AstroPaper I18n](/legends-of-nushan.png)
 
 
 

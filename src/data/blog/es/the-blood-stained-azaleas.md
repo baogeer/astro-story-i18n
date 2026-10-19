@@ -8,7 +8,7 @@ description: "El emperador Shun recorrió el monte Jiulong en el sur y vio a la 
 
 
 
-![AstroPaper I18n](/public/the-blood-stained-azaleas.png)
+![AstroPaper I18n](/the-blood-stained-azaleas.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Après que Qiu Xia ait épousé la famille Wang, sa belle-mère, W
 
 
 
-![AstroPaper I18n](/public/the-father-who-saved-his-daughter.png)
+![AstroPaper I18n](/the-father-who-saved-his-daughter.png)
 
 
 

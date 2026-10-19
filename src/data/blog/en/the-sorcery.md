@@ -8,7 +8,7 @@ description: "If you don't believe in Gong or not, the fortune-teller's prophecy
 
 
 
-![AstroPaper I18n](/public/the-sorcery.png)
+![AstroPaper I18n](/the-sorcery.png)
 
 
 

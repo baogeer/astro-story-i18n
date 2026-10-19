@@ -8,7 +8,7 @@ description: "Ah Xiu from the Zhuang family falls in love with Grandpa, and Evil
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-embroidered-ball.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-embroidered-ball.png)
 
 
 

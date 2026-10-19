@@ -8,7 +8,7 @@ description: "Afin de se débarrasser du roi démon qui vole des vaches et des c
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-evil-exterminating-festival.png)
+![AstroPaper I18n](/the-miao-legend-of-the-evil-exterminating-festival.png)
 
 
 

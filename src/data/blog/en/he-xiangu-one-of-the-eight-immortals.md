@@ -8,7 +8,7 @@ description: "He Xianguu is one of the Eight Immortals. There are various accoun
 
 
 
-![AstroPaper I18n](/public/he-xiangu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/he-xiangu-one-of-the-eight-immortals.png)
 
 
 

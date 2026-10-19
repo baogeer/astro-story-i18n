@@ -8,7 +8,7 @@ description: "Since no story text was provided, a summary cannot be generated ba
 
 
 
-![AstroPaper I18n](/public/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
+![AstroPaper I18n](/the-strange-divorce-of-a-woman-who-left-her-national-hero-husband.png)
 
 
 

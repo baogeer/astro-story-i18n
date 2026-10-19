@@ -8,7 +8,7 @@ description: "Fumikiuboku and Shuanghe hid in seclusion in Jingning Lize, built 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-stream.png)
+![AstroPaper I18n](/the-legend-of-crane-stream.png)
 
 
 

@@ -8,7 +8,7 @@ description: "He Renxia Jiuzi discouraged his father from participating in Liu A
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
+![AstroPaper I18n](/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
 
 
 

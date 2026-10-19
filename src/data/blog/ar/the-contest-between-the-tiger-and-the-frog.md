@@ -8,7 +8,7 @@ description: "تنافس الضفدع مع النمر في الوثب الطوي
 
 
 
-![AstroPaper I18n](/public/the-contest-between-the-tiger-and-the-frog.png)
+![AstroPaper I18n](/the-contest-between-the-tiger-and-the-frog.png)
 
 
 

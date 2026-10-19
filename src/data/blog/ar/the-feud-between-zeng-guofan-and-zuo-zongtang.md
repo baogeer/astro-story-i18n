@@ -8,7 +8,7 @@ description: "كان تسانغ كووك فان وتونغ تسو صديقين �
 
 
 
-![AstroPaper I18n](/public/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
+![AstroPaper I18n](/the-feud-between-zeng-guofan-and-zuo-zongtang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un hada prometió casarse durante el año del desastre para induci
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fairy-and-the-golden-bricks.png)
+![AstroPaper I18n](/the-legend-of-the-fairy-and-the-golden-bricks.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Sun Wu était militaire au printemps et à l'automne. Il a démén
 
 
 
-![AstroPaper I18n](/public/sun-wu-the-eastern-sage-of-war.png)
+![AstroPaper I18n](/sun-wu-the-eastern-sage-of-war.png)
 
 
 

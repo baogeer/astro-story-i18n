@@ -8,7 +8,7 @@ description: "أصيب رجل أعمال من أسرة مينغ بالمرض ف�
 
 
 
-![AstroPaper I18n](/public/li-shizhen-pretends-to-be-a-thief.png)
+![AstroPaper I18n](/li-shizhen-pretends-to-be-a-thief.png)
 
 
 

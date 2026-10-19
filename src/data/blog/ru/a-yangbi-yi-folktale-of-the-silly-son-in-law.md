@@ -8,7 +8,7 @@ description: "В народной сказке Янъи И невестка де
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-of-the-silly-son-in-law.png)
 
 
 

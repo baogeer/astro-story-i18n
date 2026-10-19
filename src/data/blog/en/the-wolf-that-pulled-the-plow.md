@@ -8,7 +8,7 @@ description: "When a farmer in the middle of the mountainside saw a wolf stealin
 
 
 
-![AstroPaper I18n](/public/the-wolf-that-pulled-the-plow.png)
+![AstroPaper I18n](/the-wolf-that-pulled-the-plow.png)
 
 
 

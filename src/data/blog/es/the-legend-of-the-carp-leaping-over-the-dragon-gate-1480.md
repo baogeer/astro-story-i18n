@@ -8,7 +8,7 @@ description: "La carpa del río Amarillo ha pasado por muchas dificultades y se 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
+![AstroPaper I18n](/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
 
 
 

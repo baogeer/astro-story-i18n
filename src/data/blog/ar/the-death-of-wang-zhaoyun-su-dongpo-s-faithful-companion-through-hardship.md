@@ -8,7 +8,7 @@ description: "كانت Dynasty Yun في الأصل مغنية في كيانتا�
 
 
 
-![AstroPaper I18n](/public/the-death-of-wang-zhaoyun-su-dongpo-s-faithful-companion-through-hardship.png)
+![AstroPaper I18n](/the-death-of-wang-zhaoyun-su-dongpo-s-faithful-companion-through-hardship.png)
 
 
 

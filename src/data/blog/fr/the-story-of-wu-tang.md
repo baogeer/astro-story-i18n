@@ -8,7 +8,7 @@ description: "Wu Tang est issu d'un milieu pauvre et est un fonctionnaire intèg
 
 
 
-![AstroPaper I18n](/public/the-story-of-wu-tang.png)
+![AstroPaper I18n](/the-story-of-wu-tang.png)
 
 
 

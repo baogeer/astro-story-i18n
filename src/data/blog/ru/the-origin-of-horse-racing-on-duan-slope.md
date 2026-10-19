@@ -8,7 +8,7 @@ description: "Жил-был деревенский король, у которо
 
 
 
-![AstroPaper I18n](/public/the-origin-of-horse-racing-on-duan-slope.png)
+![AstroPaper I18n](/the-origin-of-horse-racing-on-duan-slope.png)
 
 
 

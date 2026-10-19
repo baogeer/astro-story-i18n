@@ -8,7 +8,7 @@ description: "Западный Ся Юань Хао заявил, что имп�
 
 
 
-![AstroPaper I18n](/public/the-three-great-battles-between-western-xia-and-northern-song.png)
+![AstroPaper I18n](/the-three-great-battles-between-western-xia-and-northern-song.png)
 
 
 

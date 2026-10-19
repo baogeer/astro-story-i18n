@@ -8,7 +8,7 @@ description: "لان لان، ابنة مقاطعة تشينزي في مقاطع
 
 
 
-![AstroPaper I18n](/public/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
+![AstroPaper I18n](/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
 
 
 

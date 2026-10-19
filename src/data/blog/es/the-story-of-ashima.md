@@ -8,7 +8,7 @@ description: "Ashima y su huérfana Ahu tienen una relación de por vida, pero s
 
 
 
-![AstroPaper I18n](/public/the-story-of-ashima.png)
+![AstroPaper I18n](/the-story-of-ashima.png)
 
 
 

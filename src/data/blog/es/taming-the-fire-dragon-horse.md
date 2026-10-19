@@ -8,7 +8,7 @@ description: "Batu es famoso por entrenar caballos, pero están luchando por enc
 
 
 
-![AstroPaper I18n](/public/taming-the-fire-dragon-horse.png)
+![AstroPaper I18n](/taming-the-fire-dragon-horse.png)
 
 
 

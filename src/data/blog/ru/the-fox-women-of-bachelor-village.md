@@ -8,7 +8,7 @@ description: "Во времена династии Мин в «Деревне х
 
 
 
-![AstroPaper I18n](/public/the-fox-women-of-bachelor-village.png)
+![AstroPaper I18n](/the-fox-women-of-bachelor-village.png)
 
 
 

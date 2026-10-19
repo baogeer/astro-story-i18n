@@ -8,7 +8,7 @@ description: "Старший брат Чжан усердно работал н�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-laihu-ginseng-king-of-adenophora.png)
+![AstroPaper I18n](/the-legend-of-laihu-ginseng-king-of-adenophora.png)
 
 
 

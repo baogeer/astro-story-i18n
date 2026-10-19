@@ -8,7 +8,7 @@ description: "Su Shi's many talents have been undermined throughout his life. Wh
 
 
 
-![AstroPaper I18n](/public/su-dongpo-the-man-and-his-paintings.png)
+![AstroPaper I18n](/su-dongpo-the-man-and-his-paintings.png)
 
 
 

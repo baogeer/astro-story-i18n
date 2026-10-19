@@ -8,7 +8,7 @@ description: "La fille de l'empereur Tiandi, Gou Su, est morte après s'être co
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-lusheng.png)
+![AstroPaper I18n](/the-legend-of-the-miao-lusheng.png)
 
 
 

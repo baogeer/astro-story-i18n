@@ -8,7 +8,7 @@ description: "عذرًا، يبدو أنك قدمت عنوانًا فقط، ول
 
 
 
-![AstroPaper I18n](/public/mandarin-ducks-never-part.png)
+![AstroPaper I18n](/mandarin-ducks-never-part.png)
 
 
 

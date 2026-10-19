@@ -8,7 +8,7 @@ description: "Интимная история близких отношений 
 
 
 
-![AstroPaper I18n](/public/the-empress-dowager-s-english-lover-and-the-british-baron-s-controversial-memoir.png)
+![AstroPaper I18n](/the-empress-dowager-s-english-lover-and-the-british-baron-s-controversial-memoir.png)
 
 
 

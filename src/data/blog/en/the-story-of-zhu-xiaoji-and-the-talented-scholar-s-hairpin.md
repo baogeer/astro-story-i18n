@@ -8,7 +8,7 @@ description: "Zhu Xiaoji's family fell into the middle; she was sold to the Yu f
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhu-xiaoji-and-the-talented-scholar-s-hairpin.png)
+![AstroPaper I18n](/the-story-of-zhu-xiaoji-and-the-talented-scholar-s-hairpin.png)
 
 
 

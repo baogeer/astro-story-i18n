@@ -8,7 +8,7 @@ description: "La belle-fille de la famille Miao était enceinte de 15 ans et a d
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-bamboo-kings.png)
+![AstroPaper I18n](/the-miao-legend-of-the-bamboo-kings.png)
 
 
 

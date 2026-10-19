@@ -8,7 +8,7 @@ description: "كان ليو كويكوي وجين دينغ في حالة حب و
 
 
 
-![AstroPaper I18n](/public/liu-cuicui-s-unending-love-and-heartbreak.png)
+![AstroPaper I18n](/liu-cuicui-s-unending-love-and-heartbreak.png)
 
 
 

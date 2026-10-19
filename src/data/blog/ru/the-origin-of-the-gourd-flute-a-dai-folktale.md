@@ -8,7 +8,7 @@ description: "Парни из Даи часто покупают тыквы у �
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-gourd-flute-a-dai-folktale.png)
+![AstroPaper I18n](/the-origin-of-the-gourd-flute-a-dai-folktale.png)
 
 
 

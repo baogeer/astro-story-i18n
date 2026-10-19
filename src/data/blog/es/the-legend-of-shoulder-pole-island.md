@@ -8,7 +8,7 @@ description: "El Partido Tanabata de los Vaqueros se teje, y más tarde Taibai B
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shoulder-pole-island.png)
+![AstroPaper I18n](/the-legend-of-shoulder-pole-island.png)
 
 
 

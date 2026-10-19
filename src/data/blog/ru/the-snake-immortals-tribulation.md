@@ -8,7 +8,7 @@ description: "Рядом с горой Дагу пара сестер-змей �
 
 
 
-![AstroPaper I18n](/public/the-snake-immortals-tribulation.png)
+![AstroPaper I18n](/the-snake-immortals-tribulation.png)
 
 
 

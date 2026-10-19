@@ -8,7 +8,7 @@ description: "Les habitants du Qinghai et de Lamayuan ont répandu des légendes
 
 
 
-![AstroPaper I18n](/public/the-magical-legends-of-lamayuan.png)
+![AstroPaper I18n](/the-magical-legends-of-lamayuan.png)
 
 
 

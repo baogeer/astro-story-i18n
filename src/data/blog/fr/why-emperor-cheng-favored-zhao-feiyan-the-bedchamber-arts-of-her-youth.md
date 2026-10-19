@@ -8,7 +8,7 @@ description: "Quand elle était petite, Zhao Feiyan a eu une liaison avec un tir
 
 
 
-![AstroPaper I18n](/public/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
+![AstroPaper I18n](/why-emperor-cheng-favored-zhao-feiyan-the-bedchamber-arts-of-her-youth.png)
 
 
 

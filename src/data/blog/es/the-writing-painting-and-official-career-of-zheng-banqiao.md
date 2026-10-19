@@ -8,7 +8,7 @@ description: "Zheng Banqiao nació pobre y sabía leer y escribir a los tres añ
 
 
 
-![AstroPaper I18n](/public/the-writing-painting-and-official-career-of-zheng-banqiao.png)
+![AstroPaper I18n](/the-writing-painting-and-official-career-of-zheng-banqiao.png)
 
 
 

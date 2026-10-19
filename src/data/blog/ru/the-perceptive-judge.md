@@ -8,7 +8,7 @@ description: "В случае с судьей Тан Цзун Пу Чжэнем 
 
 
 
-![AstroPaper I18n](/public/the-perceptive-judge.png)
+![AstroPaper I18n](/the-perceptive-judge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After the death of “Axe God” Yan Wu, his older apprentice Gao 
 
 
 
-![AstroPaper I18n](/public/gao-he-s-magic-axe.png)
+![AstroPaper I18n](/gao-he-s-magic-axe.png)
 
 
 

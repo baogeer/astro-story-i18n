@@ -8,7 +8,7 @@ description: "Le titre de cette histoire est «xa0L'origine des dieuxxa0», et l
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-door-gods.png)
+![AstroPaper I18n](/the-origin-of-the-door-gods.png)
 
 
 

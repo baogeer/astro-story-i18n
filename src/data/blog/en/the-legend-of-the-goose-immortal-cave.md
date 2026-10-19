@@ -8,7 +8,7 @@ description: "Before Loren went to Beijing to take the exam, his dream was to no
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goose-immortal-cave.png)
+![AstroPaper I18n](/the-legend-of-the-goose-immortal-cave.png)
 
 
 

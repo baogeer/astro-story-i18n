@@ -8,7 +8,7 @@ description: "Бедной девочке из Сянси шесть лет од
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-sticky-love-potion-from-western-hunan.png)
 
 
 

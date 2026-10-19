@@ -8,7 +8,7 @@ description: "Le peuple Qiang prétend être Erma. Ils sont les descendants de l
 
 
 
-![AstroPaper I18n](/public/the-qiang-an-ancient-people-above-the-clouds.png)
+![AstroPaper I18n](/the-qiang-an-ancient-people-above-the-clouds.png)
 
 
 

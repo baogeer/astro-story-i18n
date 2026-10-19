@@ -8,7 +8,7 @@ description: "يحافظ الفولكلور المنغولي على بقايا �
 
 
 
-![AstroPaper I18n](/public/mongolian-folk-legends-totem-myths.png)
+![AstroPaper I18n](/mongolian-folk-legends-totem-myths.png)
 
 
 

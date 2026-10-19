@@ -8,7 +8,7 @@ description: "Emperor Fu Jin was the first princess of the Song dynasty to be ra
 
 
 
-![AstroPaper I18n](/public/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
+![AstroPaper I18n](/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
 
 
 

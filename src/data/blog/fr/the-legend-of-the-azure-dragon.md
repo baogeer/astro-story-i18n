@@ -8,7 +8,7 @@ description: "Qinglong et Red Dragon sont responsables de l'eau et du feu. Red D
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-azure-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-azure-dragon.png)
 
 
 

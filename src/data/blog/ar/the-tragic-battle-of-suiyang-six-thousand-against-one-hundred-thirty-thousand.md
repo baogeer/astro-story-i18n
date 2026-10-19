@@ -8,7 +8,7 @@ description: "خلال تمرد أنشي، قاد تشانغ غوان أكثر �
 
 
 
-![AstroPaper I18n](/public/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
+![AstroPaper I18n](/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
 
 
 

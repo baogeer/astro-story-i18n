@@ -8,7 +8,7 @@ description: "Сяо Цзы, слепой мужчина из Вэй Цзячж�
 
 
 
-![AstroPaper I18n](/public/the-pig-that-saved-a-blind-filial-son.png)
+![AstroPaper I18n](/the-pig-that-saved-a-blind-filial-son.png)
 
 
 

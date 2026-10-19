@@ -8,7 +8,7 @@ description: "Zhang Yinhan rescató a Lin Zhong Oe, que quería ahorcarlo, y los
 
 
 
-![AstroPaper I18n](/public/the-wild-bees-and-the-strange-python.png)
+![AstroPaper I18n](/the-wild-bees-and-the-strange-python.png)
 
 
 

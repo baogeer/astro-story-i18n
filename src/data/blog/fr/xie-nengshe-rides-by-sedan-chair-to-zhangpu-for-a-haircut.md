@@ -8,7 +8,7 @@ description: "Xie Nengshe s'est rasée la tête pour la province et s'est rendue
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
+![AstroPaper I18n](/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Пэй Шаню поздно вечером поднялась н�
 
 
 
-![AstroPaper I18n](/public/pei-shangyou-s-three-visits-to-the-river-dyke.png)
+![AstroPaper I18n](/pei-shangyou-s-three-visits-to-the-river-dyke.png)
 
 
 

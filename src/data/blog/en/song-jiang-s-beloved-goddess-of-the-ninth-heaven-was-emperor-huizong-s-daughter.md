@@ -8,7 +8,7 @@ description: "Song Jiang's dream of meeting nine days with the daughter of Song 
 
 
 
-![AstroPaper I18n](/public/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
+![AstroPaper I18n](/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
 
 
 

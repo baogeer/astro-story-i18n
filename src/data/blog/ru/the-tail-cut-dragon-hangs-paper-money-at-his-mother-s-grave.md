@@ -8,7 +8,7 @@ description: "Killing Tail Dragon родился у Улун Цзина и Ву,
 
 
 
-![AstroPaper I18n](/public/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
+![AstroPaper I18n](/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El antiguo edificio de dormitorios de la escuela de medicina fue o
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-the-campus-janitor.png)
+![AstroPaper I18n](/the-ghost-of-the-campus-janitor.png)
 
 
 

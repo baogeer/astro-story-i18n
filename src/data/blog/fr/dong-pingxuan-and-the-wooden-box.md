@@ -8,7 +8,7 @@ description: "Une boîte en bois trouvée sous un acacia dans sa ville natale, D
 
 
 
-![AstroPaper I18n](/public/dong-pingxuan-and-the-wooden-box.png)
+![AstroPaper I18n](/dong-pingxuan-and-the-wooden-box.png)
 
 
 

@@ -8,7 +8,7 @@ description: "En los primeros años de la República de China, Chen Yan, un anti
 
 
 
-![AstroPaper I18n](/public/the-deadly-qin-melody.png)
+![AstroPaper I18n](/the-deadly-qin-melody.png)
 
 
 

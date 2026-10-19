@@ -8,7 +8,7 @@ description: "Su Dongpo went to Hangzhou to take charge. Before taking office, h
 
 
 
-![AstroPaper I18n](/public/su-dongpo-paints-fans-to-settle-a-case.png)
+![AstroPaper I18n](/su-dongpo-paints-fans-to-settle-a-case.png)
 
 
 

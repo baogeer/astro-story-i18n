@@ -8,7 +8,7 @@ description: "Emperor Zhaoyuan of the Tang Dynasty cried and shocked Heavenly Co
 
 
 
-![AstroPaper I18n](/public/the-legend-of-mengxi-zhao.png)
+![AstroPaper I18n](/the-legend-of-mengxi-zhao.png)
 
 
 

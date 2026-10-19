@@ -8,7 +8,7 @@ description: "The old dormitory building of the medical school was originally a 
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-the-campus-janitor.png)
+![AstroPaper I18n](/the-ghost-of-the-campus-janitor.png)
 
 
 

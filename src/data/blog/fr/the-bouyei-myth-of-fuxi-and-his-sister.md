@@ -8,7 +8,7 @@ description: "Douze soleils anciens ont brûlé la terrexa0; les frères et sœu
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-fuxi-and-his-sister.png)
+![AstroPaper I18n](/the-bouyei-myth-of-fuxi-and-his-sister.png)
 
 
 

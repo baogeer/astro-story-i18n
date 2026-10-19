@@ -8,7 +8,7 @@ description: "Dans les temps anciens, il y avait six soleils dans le ciel et la 
 
 
 
-![AstroPaper I18n](/public/the-man-who-shot-down-five-suns.png)
+![AstroPaper I18n](/the-man-who-shot-down-five-suns.png)
 
 
 

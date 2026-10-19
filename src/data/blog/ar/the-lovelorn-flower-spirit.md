@@ -8,7 +8,7 @@ description: "اشترى Xiucai Yue Cheng زهرة الافتتان الميتة
 
 
 
-![AstroPaper I18n](/public/the-lovelorn-flower-spirit.png)
+![AstroPaper I18n](/the-lovelorn-flower-spirit.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В глубине гор западной части Сянси д
 
 
 
-![AstroPaper I18n](/public/the-clever-girl-and-the-bear-granny.png)
+![AstroPaper I18n](/the-clever-girl-and-the-bear-granny.png)
 
 
 

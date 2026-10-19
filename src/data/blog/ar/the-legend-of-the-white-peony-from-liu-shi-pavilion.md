@@ -8,7 +8,7 @@ description: "في نهاية حياة سوي، تركت ليو شي، وهي ف
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-white-peony-from-liu-shi-pavilion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Farmer Lu Dongbin met while Xianyu Lingshan Road was remote and wi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-waist-supporting-stone.png)
+![AstroPaper I18n](/the-legend-of-the-waist-supporting-stone.png)
 
 
 

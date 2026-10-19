@@ -8,7 +8,7 @@ description: "Xi Afa, de la tribu Yangyi Yi, a fait en sorte que la loi Dinggen 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xi-afa-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-legend-of-xi-afa-a-yi-folktale-from-yangbi.png)
 
 
 

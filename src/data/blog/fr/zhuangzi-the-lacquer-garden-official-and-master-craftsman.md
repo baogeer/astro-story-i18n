@@ -8,7 +8,7 @@ description: "Lorsque Zhuangzi travaillait comme commis de peinture dans un jard
 
 
 
-![AstroPaper I18n](/public/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
+![AstroPaper I18n](/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
 
 
 

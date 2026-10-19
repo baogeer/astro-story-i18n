@@ -8,7 +8,7 @@ description: "La légende raconte qu'il y a une paire d'hirondelles à l'intéri
 
 
 
-![AstroPaper I18n](/public/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
+![AstroPaper I18n](/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
 
 
 

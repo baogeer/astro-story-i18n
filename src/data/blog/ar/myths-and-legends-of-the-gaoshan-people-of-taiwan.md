@@ -8,7 +8,7 @@ description: "في العصور القديمة، لم يكن لدى سكان ج�
 
 
 
-![AstroPaper I18n](/public/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
+![AstroPaper I18n](/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
 
 
 

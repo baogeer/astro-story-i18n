@@ -8,7 +8,7 @@ description: "Студент спас белую лису, а белая лис�
 
 
 
-![AstroPaper I18n](/public/the-student-s-strange-romance.png)
+![AstroPaper I18n](/the-student-s-strange-romance.png)
 
 
 

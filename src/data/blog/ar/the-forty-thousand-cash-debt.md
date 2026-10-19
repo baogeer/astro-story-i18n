@@ -8,7 +8,7 @@ description: "كان لدى خادم عائلة سيما وانغ ابن. كان
 
 
 
-![AstroPaper I18n](/public/the-forty-thousand-cash-debt.png)
+![AstroPaper I18n](/the-forty-thousand-cash-debt.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Pan Yi, el fundador de la etnia Yao, era originalmente un perro dr
 
 
 
-![AstroPaper I18n](/public/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
+![AstroPaper I18n](/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
 
 
 

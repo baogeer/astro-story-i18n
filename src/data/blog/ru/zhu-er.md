@@ -8,7 +8,7 @@ description: "Ли Хуа из Чанчжоу состарился и был у�
 
 
 
-![AstroPaper I18n](/public/zhu-er.png)
+![AstroPaper I18n](/zhu-er.png)
 
 
 

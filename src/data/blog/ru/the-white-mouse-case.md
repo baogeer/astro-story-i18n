@@ -8,7 +8,7 @@ description: "На стыке уезда Тэнсянь во времена ди
 
 
 
-![AstroPaper I18n](/public/the-white-mouse-case.png)
+![AstroPaper I18n](/the-white-mouse-case.png)
 
 
 

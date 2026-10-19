@@ -8,7 +8,7 @@ description: "Цзян Мэй родом из неблагополучной с�
 
 
 
-![AstroPaper I18n](/public/the-commoner-ci-poet-jiang-kui-and-his-calligraphy-treatise.png)
+![AstroPaper I18n](/the-commoner-ci-poet-jiang-kui-and-his-calligraphy-treatise.png)
 
 
 

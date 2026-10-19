@@ -8,7 +8,7 @@ description: "Непринужденные герои Чэнь Шэн, Чжан 
 
 
 
-![AstroPaper I18n](/public/five-great-rebel-heroes-who-nearly-succeeded-in-chinese-history.png)
+![AstroPaper I18n](/five-great-rebel-heroes-who-nearly-succeeded-in-chinese-history.png)
 
 
 

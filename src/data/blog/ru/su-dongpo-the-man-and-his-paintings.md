@@ -8,7 +8,7 @@ description: "Многие таланты Су Ши были подорваны 
 
 
 
-![AstroPaper I18n](/public/su-dongpo-the-man-and-his-paintings.png)
+![AstroPaper I18n](/su-dongpo-the-man-and-his-paintings.png)
 
 
 

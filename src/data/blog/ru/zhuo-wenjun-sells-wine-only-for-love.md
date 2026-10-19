@@ -8,7 +8,7 @@ description: "Чжуо Вэньцзюнь по ночам беден и лише
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-sells-wine-only-for-love.png)
+![AstroPaper I18n](/zhuo-wenjun-sells-wine-only-for-love.png)
 
 
 

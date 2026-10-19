@@ -8,7 +8,7 @@ description: "Pan, the wife of Yang Dajian of Northern Wei, is good at riding an
 
 
 
-![AstroPaper I18n](/public/the-remarkable-woman-warrior-greater-than-mulan.png)
+![AstroPaper I18n](/the-remarkable-woman-warrior-greater-than-mulan.png)
 
 
 

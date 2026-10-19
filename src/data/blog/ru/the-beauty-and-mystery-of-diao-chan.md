@@ -8,7 +8,7 @@ description: "Дяо Чан бродила между Дун Чжо и Лу Бу
 
 
 
-![AstroPaper I18n](/public/the-beauty-and-mystery-of-diao-chan.png)
+![AstroPaper I18n](/the-beauty-and-mystery-of-diao-chan.png)
 
 
 

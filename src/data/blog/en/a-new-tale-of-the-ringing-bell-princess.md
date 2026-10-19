@@ -8,7 +8,7 @@ description: "Manju Xi Li had a big wedding during the snowy season and solemnly
 
 
 
-![AstroPaper I18n](/public/a-new-tale-of-the-ringing-bell-princess.png)
+![AstroPaper I18n](/a-new-tale-of-the-ringing-bell-princess.png)
 
 
 

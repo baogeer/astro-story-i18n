@@ -8,7 +8,7 @@ description: "تزوجت الأميرة دانيانغ من الجنرال ال�
 
 
 
-![AstroPaper I18n](/public/princess-danyang-s-foolish-consort.png)
+![AstroPaper I18n](/princess-danyang-s-foolish-consort.png)
 
 
 

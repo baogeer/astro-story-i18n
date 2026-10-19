@@ -8,7 +8,7 @@ description: "Master Shengkong from the Tang Dynasty visited Daci Mountain. He s
 
 
 
-![AstroPaper I18n](/public/the-dream-of-the-tiger-spring.png)
+![AstroPaper I18n](/the-dream-of-the-tiger-spring.png)
 
 
 

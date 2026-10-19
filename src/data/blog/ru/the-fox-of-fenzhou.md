@@ -8,7 +8,7 @@ description: "Штат Фэнчжоу установил, что Чжу Гун �
 
 
 
-![AstroPaper I18n](/public/the-fox-of-fenzhou.png)
+![AstroPaper I18n](/the-fox-of-fenzhou.png)
 
 
 

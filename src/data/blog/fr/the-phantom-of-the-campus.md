@@ -8,7 +8,7 @@ description: "Lin Xiaonan a rencontré le fantôme d'une femme aveugle alors qu'
 
 
 
-![AstroPaper I18n](/public/the-phantom-of-the-campus.png)
+![AstroPaper I18n](/the-phantom-of-the-campus.png)
 
 
 

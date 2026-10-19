@@ -8,7 +8,7 @@ description: "قام Xie Nengshe بصرف أربعة يوان من المال ل
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-gets-a-haircut-in-zhangpu.png)
+![AstroPaper I18n](/xie-nengshe-gets-a-haircut-in-zhangpu.png)
 
 
 

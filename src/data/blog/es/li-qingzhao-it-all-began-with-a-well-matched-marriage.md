@@ -8,7 +8,7 @@ description: "Li Qingzhao y Zhao Mingcheng son amigos íntimos. Comparten los mi
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
+![AstroPaper I18n](/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
 
 
 

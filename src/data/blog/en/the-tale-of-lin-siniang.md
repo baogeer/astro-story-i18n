@@ -8,7 +8,7 @@ description: "Chen Baoyao of Qingzhou Province met the gorgeous Lin Si-niang at 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lin-siniang.png)
+![AstroPaper I18n](/the-tale-of-lin-siniang.png)
 
 
 

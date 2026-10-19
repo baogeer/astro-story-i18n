@@ -8,7 +8,7 @@ description: "Le club de fleurs de Wang Ersai a échoué. Il a été instruit pa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-green-peony.png)
+![AstroPaper I18n](/the-legend-of-the-green-peony.png)
 
 
 

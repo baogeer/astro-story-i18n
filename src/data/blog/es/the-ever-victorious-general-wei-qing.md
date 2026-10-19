@@ -8,7 +8,7 @@ description: "Wei Qing nació esclava doméstica y comenzó su carrera porque su
 
 
 
-![AstroPaper I18n](/public/the-ever-victorious-general-wei-qing.png)
+![AstroPaper I18n](/the-ever-victorious-general-wei-qing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Художник и каллиграф династии Сун М�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-crafty-theft-and-bold-seizure-mi-fu-s-anecdotes.png)
+![AstroPaper I18n](/the-origin-of-crafty-theft-and-bold-seizure-mi-fu-s-anecdotes.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un viejo artesano de cuero de Hangzhou crió un gato leopardo aban
 
 
 
-![AstroPaper I18n](/public/the-cat-bridge.png)
+![AstroPaper I18n](/the-cat-bridge.png)
 
 
 

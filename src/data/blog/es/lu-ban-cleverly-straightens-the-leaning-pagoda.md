@@ -8,7 +8,7 @@ description: "En la ciudad de Gusu, Luban vio cómo la torre de madera construid
 
 
 
-![AstroPaper I18n](/public/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
+![AstroPaper I18n](/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
 
 
 

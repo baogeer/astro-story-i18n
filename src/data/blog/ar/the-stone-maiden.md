@@ -8,7 +8,7 @@ description: "تزوجت تشونغ مي من الباحث الفقير تشين
 
 
 
-![AstroPaper I18n](/public/the-stone-maiden.png)
+![AstroPaper I18n](/the-stone-maiden.png)
 
 
 

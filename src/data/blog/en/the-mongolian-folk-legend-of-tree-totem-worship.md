@@ -8,7 +8,7 @@ description: "According to the legend of the Mongolian people, the hunters found
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-tree-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-tree-totem-worship.png)
 
 
 

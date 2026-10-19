@@ -8,7 +8,7 @@ description: "Mo Ji, erudito de la dinastía Song, se unió a la familia Jin. Su
 
 
 
-![AstroPaper I18n](/public/jin-yunu-beats-her-heartless-husband.png)
+![AstroPaper I18n](/jin-yunu-beats-her-heartless-husband.png)
 
 
 

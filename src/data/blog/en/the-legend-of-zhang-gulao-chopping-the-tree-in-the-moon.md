@@ -8,7 +8,7 @@ description: "Zhang Jiu cut down a large camphor tree in the moon. Whenever it w
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
+![AstroPaper I18n](/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le porc Borong est produit dans le Jiangxi. Il a la forme d'un pet
 
 
 
-![AstroPaper I18n](/public/the-porpoise-dragon.png)
+![AstroPaper I18n](/the-porpoise-dragon.png)
 
 
 

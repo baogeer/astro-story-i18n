@@ -8,7 +8,7 @@ description: "A certain Duke from Shaanxi remembers his past life. After his dea
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-almost-became-a-sheep.png)
+![AstroPaper I18n](/the-scholar-who-almost-became-a-sheep.png)
 
 
 

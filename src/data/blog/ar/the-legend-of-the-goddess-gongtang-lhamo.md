@@ -8,7 +8,7 @@ description: "لا يمكن فصل الشاب جادان عن زوجته غون�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-gongtang-lhamo.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-gongtang-lhamo.png)
 
 
 

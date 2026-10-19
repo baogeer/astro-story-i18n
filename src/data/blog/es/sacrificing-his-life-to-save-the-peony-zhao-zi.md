@@ -8,7 +8,7 @@ description: "El floricultor Zhao Wu consideraba que la peonía melaleuca «Zhao
 
 
 
-![AstroPaper I18n](/public/sacrificing-his-life-to-save-the-peony-zhao-zi.png)
+![AstroPaper I18n](/sacrificing-his-life-to-save-the-peony-zhao-zi.png)
 
 
 

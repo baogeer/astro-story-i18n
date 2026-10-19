@@ -8,7 +8,7 @@ description: "Princess Yu Zhen of the Tang dynasty was extremely powerful and to
 
 
 
-![AstroPaper I18n](/public/the-tang-princess-who-possessed-the-poet-wang-wei.png)
+![AstroPaper I18n](/the-tang-princess-who-possessed-the-poet-wang-wei.png)
 
 
 

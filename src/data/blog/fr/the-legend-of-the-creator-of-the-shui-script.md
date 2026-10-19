@@ -8,7 +8,7 @@ description: "La légende raconte que le script de l'aquarium a été créé par
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-creator-of-the-shui-script.png)
+![AstroPaper I18n](/the-legend-of-the-creator-of-the-shui-script.png)
 
 
 

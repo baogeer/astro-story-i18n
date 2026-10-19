@@ -8,7 +8,7 @@ description: "El rey Lu se burl√≥ del templo de Nu Wa con un poema que enfureci√
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-of-panlong-mountain.png)
+![AstroPaper I18n](/the-fox-maiden-of-panlong-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Babies disappeared and died one after another in Nigatake Village.
 
 
 
-![AstroPaper I18n](/public/the-moon-daji.png)
+![AstroPaper I18n](/the-moon-daji.png)
 
 
 

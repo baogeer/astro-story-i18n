@@ -8,7 +8,7 @@ description: "تجيد بان، زوجة يانغ داجيان من شمال و�
 
 
 
-![AstroPaper I18n](/public/the-remarkable-woman-warrior-greater-than-mulan.png)
+![AstroPaper I18n](/the-remarkable-woman-warrior-greater-than-mulan.png)
 
 
 

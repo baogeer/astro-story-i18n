@@ -8,7 +8,7 @@ description: "Miao Wang Meng Ziyou, de la tribu Miao, dirigió el ejército para
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-flower-mountain-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-flower-mountain-festival.png)
 
 
 

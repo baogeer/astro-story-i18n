@@ -8,7 +8,7 @@ description: "ذات مرة، علم الرجل العجوز أبنائه الأ
 
 
 
-![AstroPaper I18n](/public/the-big-thief-and-the-little-thief.png)
+![AstroPaper I18n](/the-big-thief-and-the-little-thief.png)
 
 
 

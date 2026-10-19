@@ -8,7 +8,7 @@ description: "عندما اجتمعت نساء تشيانغ في أوائل 5 م
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-shalang-dance.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-shalang-dance.png)
 
 
 

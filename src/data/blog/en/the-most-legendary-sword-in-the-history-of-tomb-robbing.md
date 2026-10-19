@@ -8,7 +8,7 @@ description: "The Dragon Sword is a weapon stolen by Sun Dianying from the Yulin
 
 
 
-![AstroPaper I18n](/public/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
+![AstroPaper I18n](/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
 
 
 

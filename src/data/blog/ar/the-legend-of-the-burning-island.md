@@ -8,7 +8,7 @@ description: "أحب علي والأخت علي ابنها آغو كثيرًا،
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-burning-island.png)
+![AstroPaper I18n](/the-legend-of-the-burning-island.png)
 
 
 

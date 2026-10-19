@@ -8,7 +8,7 @@ description: "Guo Lu, une orpheline de la tribu Yilao, a appris à conserver les
 
 
 
-![AstroPaper I18n](/public/the-gelao-love-story-of-luosipo.png)
+![AstroPaper I18n](/the-gelao-love-story-of-luosipo.png)
 
 
 

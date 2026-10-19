@@ -8,7 +8,7 @@ description: "Poor scholar Jang Jin surrendered to her father-in-law Kim Jae-san
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
+![AstroPaper I18n](/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
 
 
 

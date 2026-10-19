@@ -8,7 +8,7 @@ description: "Pendant les dynasties du Nord et du Sud, la princesse Liu Chuyu de
 
 
 
-![AstroPaper I18n](/public/the-incestuous-princess-who-openly-took-male-consorts-and-pursued-her-uncle-in-law.png)
+![AstroPaper I18n](/the-incestuous-princess-who-openly-took-male-consorts-and-pursued-her-uncle-in-law.png)
 
 
 

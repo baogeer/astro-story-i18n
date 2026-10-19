@@ -8,7 +8,7 @@ description: "Мафузидан влюбился в жену лидера Сэ�
 
 
 
-![AstroPaper I18n](/public/cidan-the-horse-groom.png)
+![AstroPaper I18n](/cidan-the-horse-groom.png)
 
 
 

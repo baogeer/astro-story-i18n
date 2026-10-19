@@ -8,7 +8,7 @@ description: "Pendant la p√©riode Yongzheng de la dynastie Qing, Lu Liuliang a √
 
 
 
-![AstroPaper I18n](/public/the-snowstorm-theft-of-loyal-bones.png)
+![AstroPaper I18n](/the-snowstorm-theft-of-loyal-bones.png)
 
 
 

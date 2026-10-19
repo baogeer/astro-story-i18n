@@ -8,7 +8,7 @@ description: "Érase una vez, alguien quería ascender al cielo y tener una buen
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hen-and-chicks-constellation.png)
+![AstroPaper I18n](/the-origin-of-the-hen-and-chicks-constellation.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wang Zhaojun was elected to the palace because of his work as a pa
 
 
 
-![AstroPaper I18n](/public/a-tear-on-the-road-of-no-return.png)
+![AstroPaper I18n](/a-tear-on-the-road-of-no-return.png)
 
 
 

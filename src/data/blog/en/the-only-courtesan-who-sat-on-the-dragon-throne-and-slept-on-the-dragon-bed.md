@@ -8,7 +8,7 @@ description: "Sai Jinhua, a famous prostitute in the late Qing dynasty, married 
 
 
 
-![AstroPaper I18n](/public/the-only-courtesan-who-sat-on-the-dragon-throne-and-slept-on-the-dragon-bed.png)
+![AstroPaper I18n](/the-only-courtesan-who-sat-on-the-dragon-throne-and-slept-on-the-dragon-bed.png)
 
 
 

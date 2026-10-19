@@ -8,7 +8,7 @@ description: "Yang Yuhuan was originally Queen Shou, the son of Tang Xuanzong, a
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-yuhuan.png)
+![AstroPaper I18n](/the-story-of-yang-yuhuan.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La ville natale de l'auteur est Hutadi, village de Jingyue, ville 
 
 
 
-![AstroPaper I18n](/public/the-birthplace-of-lord-hu.png)
+![AstroPaper I18n](/the-birthplace-of-lord-hu.png)
 
 
 

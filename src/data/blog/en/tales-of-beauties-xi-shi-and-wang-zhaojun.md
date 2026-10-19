@@ -8,7 +8,7 @@ description: "Shih Tzu was dedicated to King Wu, but he fell into conflict due t
 
 
 
-![AstroPaper I18n](/public/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
+![AstroPaper I18n](/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
 
 
 

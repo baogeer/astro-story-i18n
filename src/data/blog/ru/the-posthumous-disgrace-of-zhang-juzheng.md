@@ -8,7 +8,7 @@ description: "Чжан Цзючжэн, известный министр дин�
 
 
 
-![AstroPaper I18n](/public/the-posthumous-disgrace-of-zhang-juzheng.png)
+![AstroPaper I18n](/the-posthumous-disgrace-of-zhang-juzheng.png)
 
 
 

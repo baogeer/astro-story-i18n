@@ -8,7 +8,7 @@ description: "في عام 1929، أصبح شو بيهونغ عميدًا لكل�
 
 
 
-![AstroPaper I18n](/public/the-master-invites-the-carpenter.png)
+![AstroPaper I18n](/the-master-invites-the-carpenter.png)
 
 
 

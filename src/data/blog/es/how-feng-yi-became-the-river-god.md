@@ -8,7 +8,7 @@ description: "Feng Yi quería ser inmortal. Después de buscar jugo de narcisos 
 
 
 
-![AstroPaper I18n](/public/how-feng-yi-became-the-river-god.png)
+![AstroPaper I18n](/how-feng-yi-became-the-river-god.png)
 
 
 

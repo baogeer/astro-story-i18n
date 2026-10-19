@@ -8,7 +8,7 @@ description: "Fan 15 a utilisé de la bouillie de riz en échange de palourdes d
 
 
 
-![AstroPaper I18n](/public/fan-shiwu-and-the-golden-toad.png)
+![AstroPaper I18n](/fan-shiwu-and-the-golden-toad.png)
 
 
 

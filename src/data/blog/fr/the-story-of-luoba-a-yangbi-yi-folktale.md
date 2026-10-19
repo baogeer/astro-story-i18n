@@ -8,7 +8,7 @@ description: "Luoba, un jeune groupe ethnique Yi, est intelligent et gentil et a
 
 
 
-![AstroPaper I18n](/public/the-story-of-luoba-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-story-of-luoba-a-yangbi-yi-folktale.png)
 
 
 

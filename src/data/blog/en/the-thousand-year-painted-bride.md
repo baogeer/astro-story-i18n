@@ -8,7 +8,7 @@ description: "On her way to the exam, Zhang Xiucai had a dream where an old man 
 
 
 
-![AstroPaper I18n](/public/the-thousand-year-painted-bride.png)
+![AstroPaper I18n](/the-thousand-year-painted-bride.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Arjuni, a Hani farmer, was found to be sleeping lazily with her co
 
 
 
-![AstroPaper I18n](/public/how-azuni-tricked-the-mountain-chief.png)
+![AstroPaper I18n](/how-azuni-tricked-the-mountain-chief.png)
 
 
 

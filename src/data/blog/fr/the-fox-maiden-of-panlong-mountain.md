@@ -8,7 +8,7 @@ description: "Le roi Lu s'est moqué du temple Nu Wa avec un poème qui a mis la
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-of-panlong-mountain.png)
+![AstroPaper I18n](/the-fox-maiden-of-panlong-mountain.png)
 
 
 

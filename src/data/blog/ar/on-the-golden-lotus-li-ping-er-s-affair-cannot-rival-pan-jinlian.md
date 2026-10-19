@@ -8,7 +8,7 @@ description: "تنبع شهوة Li Binger فقط من العطش الغريزي.
 
 
 
-![AstroPaper I18n](/public/on-the-golden-lotus-li-ping-er-s-affair-cannot-rival-pan-jinlian.png)
+![AstroPaper I18n](/on-the-golden-lotus-li-ping-er-s-affair-cannot-rival-pan-jinlian.png)
 
 
 

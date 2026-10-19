@@ -8,7 +8,7 @@ description: "Un homme âgé de Nagayama a conservé son sarrasin à l'automne. 
 
 
 
-![AstroPaper I18n](/public/the-buckwheat-monster.png)
+![AstroPaper I18n](/the-buckwheat-monster.png)
 
 
 

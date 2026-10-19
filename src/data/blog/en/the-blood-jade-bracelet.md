@@ -8,7 +8,7 @@ description: "A woman is sad because her husband has changed her mind. She met a
 
 
 
-![AstroPaper I18n](/public/the-blood-jade-bracelet.png)
+![AstroPaper I18n](/the-blood-jade-bracelet.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Принцесса У Сунь Лю Сицзюнь — дочь к
 
 
 
-![AstroPaper I18n](/public/the-autumn-lament-of-princess-wusun.png)
+![AstroPaper I18n](/the-autumn-lament-of-princess-wusun.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Тан Цзиньсюань — гений. Он одержим п
 
 
 
-![AstroPaper I18n](/public/the-man-in-the-ear.png)
+![AstroPaper I18n](/the-man-in-the-ear.png)
 
 
 

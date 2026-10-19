@@ -8,7 +8,7 @@ description: "Los hermanos y hermanas Yi dependían de los abrevaderos de madera
 
 
 
-![AstroPaper I18n](/public/the-grateful-yi-people-of-yangbi.png)
+![AstroPaper I18n](/the-grateful-yi-people-of-yangbi.png)
 
 
 

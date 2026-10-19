@@ -8,7 +8,7 @@ description: "نشأ مهرجان قوارب التنين في ذكرى Qu Yuan.
 
 
 
-![AstroPaper I18n](/public/the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-dragon-boat-festival.png)
 
 
 

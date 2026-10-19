@@ -8,7 +8,7 @@ description: "La princesa Yu Zhen de la dinastía Tang era extremadamente podero
 
 
 
-![AstroPaper I18n](/public/the-tang-princess-who-possessed-the-poet-wang-wei.png)
+![AstroPaper I18n](/the-tang-princess-who-possessed-the-poet-wang-wei.png)
 
 
 

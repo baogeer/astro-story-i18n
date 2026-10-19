@@ -8,7 +8,7 @@ description: "تستعرض هذه المقالة عشر مجموعات من ال
 
 
 
-![AstroPaper I18n](/public/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
+![AstroPaper I18n](/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
 
 
 

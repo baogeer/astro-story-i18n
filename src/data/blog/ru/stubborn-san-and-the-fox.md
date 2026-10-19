@@ -8,7 +8,7 @@ description: "Stubborn 3 отправила письмо фее-лисе Ху Л
 
 
 
-![AstroPaper I18n](/public/stubborn-san-and-the-fox.png)
+![AstroPaper I18n](/stubborn-san-and-the-fox.png)
 
 
 

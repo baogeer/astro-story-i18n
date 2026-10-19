@@ -8,7 +8,7 @@ description: "Губернатор Ханчжоу видел, как стары�
 
 
 
-![AstroPaper I18n](/public/the-monkey-summoning-cave.png)
+![AstroPaper I18n](/the-monkey-summoning-cave.png)
 
 
 

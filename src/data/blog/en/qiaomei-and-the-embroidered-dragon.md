@@ -8,7 +8,7 @@ description: "In order to overcome the Great Drought on the island, Qiao Mei wen
 
 
 
-![AstroPaper I18n](/public/qiaomei-and-the-embroidered-dragon.png)
+![AstroPaper I18n](/qiaomei-and-the-embroidered-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "После того как Пангу открыл мир перв
 
 
 
-![AstroPaper I18n](/public/the-legend-of-pangu.png)
+![AstroPaper I18n](/the-legend-of-pangu.png)
 
 
 

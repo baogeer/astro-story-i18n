@@ -8,7 +8,7 @@ description: "Agudonba a délibérément fait passer des yacks devant la porte d
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-whetstone.png)
+![AstroPaper I18n](/agu-dunba-and-the-whetstone.png)
 
 
 

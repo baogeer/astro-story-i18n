@@ -8,7 +8,7 @@ description: "Le vieux serviteur du tisserand, Xiunyu, rêvait de s'échapper du
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-forget-me-not.png)
+![AstroPaper I18n](/the-legend-of-the-forget-me-not.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Saver est le garde du corps du roi Wu Sangui et est aussi agile qu
 
 
 
-![AstroPaper I18n](/public/bao-zhu-retrieves-the-pipa.png)
+![AstroPaper I18n](/bao-zhu-retrieves-the-pipa.png)
 
 
 

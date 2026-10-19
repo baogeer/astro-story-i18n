@@ -8,7 +8,7 @@ description: "Tieguai Li a élevé des canards au pays des merveilles de Kunlun.
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-and-the-duck-cages.png)
+![AstroPaper I18n](/iron-crutch-li-and-the-duck-cages.png)
 
 
 

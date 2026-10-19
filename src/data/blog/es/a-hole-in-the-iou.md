@@ -8,7 +8,7 @@ description: "Tras ser despedido, Lao Geng conoció a Zhang Fangzi, quien había
 
 
 
-![AstroPaper I18n](/public/a-hole-in-the-iou.png)
+![AstroPaper I18n](/a-hole-in-the-iou.png)
 
 
 

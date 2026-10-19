@@ -8,7 +8,7 @@ description: "Остров Цзиньцзан в Восточно-Китайск
 
 
 
-![AstroPaper I18n](/public/boiling-the-sea-to-subdue-the-dragon-king.png)
+![AstroPaper I18n](/boiling-the-sea-to-subdue-the-dragon-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qiu Gong no creía en el hada zorro; después de fingir que se lle
 
 
 
-![AstroPaper I18n](/public/the-fox-immortal-s-revenge.png)
+![AstroPaper I18n](/the-fox-immortal-s-revenge.png)
 
 
 

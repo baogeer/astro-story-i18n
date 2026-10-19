@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, Tang Xuanzong et Yang Guifei dégustaient d
 
 
 
-![AstroPaper I18n](/public/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
+![AstroPaper I18n](/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
 
 
 

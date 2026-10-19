@@ -8,7 +8,7 @@ description: "Когда-то была семья, а отец вышел на �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-silkworm-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-silkworm-goddess.png)
 
 
 

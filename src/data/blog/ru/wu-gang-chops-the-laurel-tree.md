@@ -8,7 +8,7 @@ description: "У Гана наказали за убийство Болина и
 
 
 
-![AstroPaper I18n](/public/wu-gang-chops-the-laurel-tree.png)
+![AstroPaper I18n](/wu-gang-chops-the-laurel-tree.png)
 
 
 

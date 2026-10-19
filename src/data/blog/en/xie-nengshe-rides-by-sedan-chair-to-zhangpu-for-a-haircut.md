@@ -8,7 +8,7 @@ description: "Xie Nengshe shaved off her head for the province and traveled to Z
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
+![AstroPaper I18n](/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
 
 
 

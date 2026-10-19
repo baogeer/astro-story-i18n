@@ -8,7 +8,7 @@ description: "Lao Qi, a young Hani tribe, used fairy grass to save the girl and 
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-hani-legend-of-the-sun-and-the-moon.png)
 
 
 

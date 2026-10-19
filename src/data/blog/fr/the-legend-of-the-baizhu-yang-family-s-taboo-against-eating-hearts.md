@@ -8,7 +8,7 @@ description: "Les trois frères Bai Zhu Yang ont reproché à leur jeune fils d'
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
+![AstroPaper I18n](/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Принцесса Ю восстала против генерал
 
 
 
-![AstroPaper I18n](/public/the-blood-red-snow-lotus.png)
+![AstroPaper I18n](/the-blood-red-snow-lotus.png)
 
 
 

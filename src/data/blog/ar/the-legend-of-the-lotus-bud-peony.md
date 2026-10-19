@@ -8,7 +8,7 @@ description: "تقع ابنة مزارع الزهور، تشون روي، في �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-bud-peony.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-bud-peony.png)
 
 
 

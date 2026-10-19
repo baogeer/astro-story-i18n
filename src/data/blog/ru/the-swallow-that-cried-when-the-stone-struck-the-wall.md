@@ -8,7 +8,7 @@ description: "Легенда гласит, что в воротах Руюань
 
 
 
-![AstroPaper I18n](/public/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
+![AstroPaper I18n](/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
 
 
 

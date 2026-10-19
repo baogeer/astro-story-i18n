@@ -8,7 +8,7 @@ description: "Chen Jiazhuang and Chen Yuanwai's family claim to be “Shuxiangme
 
 
 
-![AstroPaper I18n](/public/the-scholarly-family.png)
+![AstroPaper I18n](/the-scholarly-family.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The legend of Banping Mountain in Taiwan was originally connected 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
 
 
 

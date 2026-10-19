@@ -8,7 +8,7 @@ description: "Ичжоу Сан Шэн живет одна и познакоми
 
 
 
-![AstroPaper I18n](/public/the-story-of-lianxiang.png)
+![AstroPaper I18n](/the-story-of-lianxiang.png)
 
 
 

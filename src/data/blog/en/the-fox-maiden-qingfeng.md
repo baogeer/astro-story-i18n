@@ -8,7 +8,7 @@ description: "Geng went wild and went wild. He broke into the fox house at night
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-qingfeng.png)
+![AstroPaper I18n](/the-fox-maiden-qingfeng.png)
 
 
 

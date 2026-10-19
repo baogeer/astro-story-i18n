@@ -8,7 +8,7 @@ description: "Lorsqu'un fermier au milieu de la montagne a vu un loup voler une 
 
 
 
-![AstroPaper I18n](/public/the-wolf-that-pulled-the-plow.png)
+![AstroPaper I18n](/the-wolf-that-pulled-the-plow.png)
 
 
 

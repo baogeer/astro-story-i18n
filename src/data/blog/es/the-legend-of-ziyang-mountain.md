@@ -8,7 +8,7 @@ description: "La montaña Ziyang, antes conocida como montaña Fuyang, es rica e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ziyang-mountain.png)
+![AstroPaper I18n](/the-legend-of-ziyang-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "غزا تانغ تايزونغ كوريو في الشرق، لكن
 
 
 
-![AstroPaper I18n](/public/the-princess-who-followed-her-brother-to-dengzhou-to-stop-the-war.png)
+![AstroPaper I18n](/the-princess-who-followed-her-brother-to-dengzhou-to-stop-the-war.png)
 
 
 

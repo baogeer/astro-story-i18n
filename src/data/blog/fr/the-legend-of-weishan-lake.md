@@ -8,7 +8,7 @@ description: "Weishan était à l'origine une montagne et deux petits-enfants y 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-weishan-lake.png)
+![AstroPaper I18n](/the-legend-of-weishan-lake.png)
 
 
 

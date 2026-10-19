@@ -8,7 +8,7 @@ description: "خلال الفيضانات في موزمبيق، كانت عائ�
 
 
 
-![AstroPaper I18n](/public/the-littlest-national-heroine.png)
+![AstroPaper I18n](/the-littlest-national-heroine.png)
 
 
 

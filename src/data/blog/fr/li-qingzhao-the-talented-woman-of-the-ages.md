@@ -8,7 +8,7 @@ description: "Li Qingzhao est originaire de Jinan. Il est né à Shuxiangmen. Il
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-the-talented-woman-of-the-ages.png)
+![AstroPaper I18n](/li-qingzhao-the-talented-woman-of-the-ages.png)
 
 
 

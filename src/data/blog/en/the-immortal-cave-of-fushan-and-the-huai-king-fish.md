@@ -8,7 +8,7 @@ description: "Fushan Mountain is a light mountain that spewed out when the creat
 
 
 
-![AstroPaper I18n](/public/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
+![AstroPaper I18n](/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
 
 
 

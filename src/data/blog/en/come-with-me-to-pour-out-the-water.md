@@ -8,7 +8,7 @@ description: "My roommate, Ting Ting, asked me to go to the bathroom and pour wa
 
 
 
-![AstroPaper I18n](/public/come-with-me-to-pour-out-the-water.png)
+![AstroPaper I18n](/come-with-me-to-pour-out-the-water.png)
 
 
 

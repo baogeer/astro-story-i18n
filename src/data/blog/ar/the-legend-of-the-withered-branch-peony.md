@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة سونغ الشمالية، قاد
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-withered-branch-peony.png)
 
 
 

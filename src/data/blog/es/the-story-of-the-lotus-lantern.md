@@ -8,7 +8,7 @@ description: "El título es «La historia de la linterna de loto». El texto sol
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-story-of-the-lotus-lantern.png)
 
 
 

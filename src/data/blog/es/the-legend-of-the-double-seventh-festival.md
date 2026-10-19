@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que la niña fea que mendigaba fue ayudada por l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-seventh-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-seventh-festival.png)
 
 
 

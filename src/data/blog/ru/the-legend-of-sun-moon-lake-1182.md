@@ -8,7 +8,7 @@ description: "Брат Дацзянь и сестра Шуйше видели и
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake-1182.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake-1182.png)
 
 
 

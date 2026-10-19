@@ -8,7 +8,7 @@ description: "Wang Zhihe se ganaba la vida vendiendo tofu después de quedarse a
 
 
 
-![AstroPaper I18n](/public/the-legendary-origin-of-huizhou-stinky-tofu.png)
+![AstroPaper I18n](/the-legendary-origin-of-huizhou-stinky-tofu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The car driver was addicted to alcohol, and when he stole drinks w
 
 
 
-![AstroPaper I18n](/public/the-drinking-companion.png)
+![AstroPaper I18n](/the-drinking-companion.png)
 
 
 

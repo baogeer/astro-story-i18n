@@ -8,7 +8,7 @@ description: "Wang Zhaojun fue elegido para el palacio por su trabajo como pinto
 
 
 
-![AstroPaper I18n](/public/a-tear-on-the-road-of-no-return.png)
+![AstroPaper I18n](/a-tear-on-the-road-of-no-return.png)
 
 
 

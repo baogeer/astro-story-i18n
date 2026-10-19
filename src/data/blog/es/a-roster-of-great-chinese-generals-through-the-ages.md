@@ -8,7 +8,7 @@ description: "Este artículo incluye a 100 generales famosos seleccionados desde
 
 
 
-![AstroPaper I18n](/public/a-roster-of-great-chinese-generals-through-the-ages.png)
+![AstroPaper I18n](/a-roster-of-great-chinese-generals-through-the-ages.png)
 
 
 

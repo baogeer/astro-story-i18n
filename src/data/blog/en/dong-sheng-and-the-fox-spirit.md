@@ -8,7 +8,7 @@ description: "Dong Sheng was deceived by the pseudonym of the fox girl, Ah Suo, 
 
 
 
-![AstroPaper I18n](/public/dong-sheng-and-the-fox-spirit.png)
+![AstroPaper I18n](/dong-sheng-and-the-fox-spirit.png)
 
 
 

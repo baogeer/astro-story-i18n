@@ -8,7 +8,7 @@ description: "La fille qui coupait du bois de chauffage dans le village de Lengt
 
 
 
-![AstroPaper I18n](/public/the-dragon-mother-of-the-bai-people.png)
+![AstroPaper I18n](/the-dragon-mother-of-the-bai-people.png)
 
 
 

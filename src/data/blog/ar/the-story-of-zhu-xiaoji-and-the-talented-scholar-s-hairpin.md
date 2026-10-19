@@ -8,7 +8,7 @@ description: "وقعت عائلة تشو شياوجي في المنتصف. تم 
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhu-xiaoji-and-the-talented-scholar-s-hairpin.png)
+![AstroPaper I18n](/the-story-of-zhu-xiaoji-and-the-talented-scholar-s-hairpin.png)
 
 
 

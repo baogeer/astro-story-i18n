@@ -8,7 +8,7 @@ description: "Este artículo resume los aniversarios del nacimiento de los diose
 
 
 
-![AstroPaper I18n](/public/birthday-commemorations-of-chinese-folk-deities.png)
+![AstroPaper I18n](/birthday-commemorations-of-chinese-folk-deities.png)
 
 
 

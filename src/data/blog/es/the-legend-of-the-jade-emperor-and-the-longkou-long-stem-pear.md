@@ -8,7 +8,7 @@ description: "Zhang Bairen hizo buenas obras para salvar al monje y recibió una
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
+![AstroPaper I18n](/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
 
 
 

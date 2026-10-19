@@ -8,7 +8,7 @@ description: "Старик был недоволен ленью сына и по
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-gold-coin.png)
+![AstroPaper I18n](/the-story-of-a-gold-coin.png)
 
 
 

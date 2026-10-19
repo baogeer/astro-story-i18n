@@ -8,7 +8,7 @@ description: "Los hermanos y hermanas de la tribu Yi sobrevivieron después de l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-flower-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-flower-festival.png)
 
 
 

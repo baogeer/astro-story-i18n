@@ -8,7 +8,7 @@ description: "Когда предки аквариума переехали в �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
 
 
 

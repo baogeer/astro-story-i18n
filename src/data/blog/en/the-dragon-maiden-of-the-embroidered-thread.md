@@ -8,7 +8,7 @@ description: "To relieve the drought, Zheng Xihua used 49 days to embroider a go
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-of-the-embroidered-thread.png)
+![AstroPaper I18n](/the-dragon-maiden-of-the-embroidered-thread.png)
 
 
 

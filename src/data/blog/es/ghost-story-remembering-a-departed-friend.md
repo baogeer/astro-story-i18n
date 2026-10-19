@@ -8,7 +8,7 @@ description: "Xiao Qiu y Xiao Ji se conocieron en la escuela secundaria y gradua
 
 
 
-![AstroPaper I18n](/public/ghost-story-remembering-a-departed-friend.png)
+![AstroPaper I18n](/ghost-story-remembering-a-departed-friend.png)
 
 
 

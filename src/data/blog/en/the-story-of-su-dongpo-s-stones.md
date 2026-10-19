@@ -8,7 +8,7 @@ description: "Su Shi was associated with Strange Stones throughout his life. As 
 
 
 
-![AstroPaper I18n](/public/the-story-of-su-dongpo-s-stones.png)
+![AstroPaper I18n](/the-story-of-su-dongpo-s-stones.png)
 
 
 

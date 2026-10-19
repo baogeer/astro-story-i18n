@@ -8,7 +8,7 @@ description: "En 1929, Xu Beihong se convirtió en decano de la Escuela de Arte 
 
 
 
-![AstroPaper I18n](/public/the-master-invites-the-carpenter.png)
+![AstroPaper I18n](/the-master-invites-the-carpenter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A Wu Cheng-en no le fue bien. Como Gong Sheng, fue a Beijing tres 
 
 
 
-![AstroPaper I18n](/public/wu-cheng-en-s-three-journeys-to-beijing.png)
+![AstroPaper I18n](/wu-cheng-en-s-three-journeys-to-beijing.png)
 
 
 

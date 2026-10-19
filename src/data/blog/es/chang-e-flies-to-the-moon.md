@@ -8,7 +8,7 @@ description: "Chang'e obligó a Hou Yi a trabajar fuera de casa debido a la pobr
 
 
 
-![AstroPaper I18n](/public/chang-e-flies-to-the-moon.png)
+![AstroPaper I18n](/chang-e-flies-to-the-moon.png)
 
 
 

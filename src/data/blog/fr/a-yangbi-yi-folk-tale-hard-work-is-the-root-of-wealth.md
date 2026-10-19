@@ -8,7 +8,7 @@ description: "Un vieux couple de Yi adorait leur fils unique, les obligeant à s
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
+![AstroPaper I18n](/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
 
 
 

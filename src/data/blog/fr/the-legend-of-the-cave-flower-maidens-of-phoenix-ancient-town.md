@@ -8,7 +8,7 @@ description: "La légende de la fille aux fleurs de Luodong circule à Phoenix, 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
+![AstroPaper I18n](/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
 
 
 

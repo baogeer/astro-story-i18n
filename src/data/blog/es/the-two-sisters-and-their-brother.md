@@ -8,7 +8,7 @@ description: "La hermana mayor tenía un corazón vicioso y mató a su hermano m
 
 
 
-![AstroPaper I18n](/public/the-two-sisters-and-their-brother.png)
+![AstroPaper I18n](/the-two-sisters-and-their-brother.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد تسريحه، التقى لاو قنغ بجانغ فانغ
 
 
 
-![AstroPaper I18n](/public/a-hole-in-the-iou.png)
+![AstroPaper I18n](/a-hole-in-the-iou.png)
 
 
 

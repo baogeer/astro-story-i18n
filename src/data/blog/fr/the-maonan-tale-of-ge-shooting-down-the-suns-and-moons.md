@@ -8,7 +8,7 @@ description: "L'ancien héros Gree en a profité et a reçu l'ordre d'abattre di
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
+![AstroPaper I18n](/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
 
 
 

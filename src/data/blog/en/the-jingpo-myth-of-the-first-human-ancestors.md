@@ -8,7 +8,7 @@ description: "When the world first opened up, Nuoqiang and Songchang competed ag
 
 
 
-![AstroPaper I18n](/public/the-jingpo-myth-of-the-first-human-ancestors.png)
+![AstroPaper I18n](/the-jingpo-myth-of-the-first-human-ancestors.png)
 
 
 

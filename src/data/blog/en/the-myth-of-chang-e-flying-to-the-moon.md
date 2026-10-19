@@ -8,7 +8,7 @@ description: "Houyi shot it on the 9th, and the people respected it. Her wife, C
 
 
 
-![AstroPaper I18n](/public/the-myth-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-myth-of-chang-e-flying-to-the-moon.png)
 
 
 

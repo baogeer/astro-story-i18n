@@ -8,7 +8,7 @@ description: "Ji Kang est un personnage célèbre de Wei Jin. À première vue, 
 
 
 
-![AstroPaper I18n](/public/ji-kang-forever-thirty-nine.png)
+![AstroPaper I18n](/ji-kang-forever-thirty-nine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La noche de su boda, la esposa de Meng Jiang y el esposo de Wan Xi
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-topples-the-great-wall-with-tears.png)
+![AstroPaper I18n](/meng-jiangnu-topples-the-great-wall-with-tears.png)
 
 
 

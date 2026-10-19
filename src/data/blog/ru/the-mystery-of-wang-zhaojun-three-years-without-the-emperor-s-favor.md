@@ -8,7 +8,7 @@ description: "Королева Гун Чжаоцзюнь была преднам
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
+![AstroPaper I18n](/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
 
 
 

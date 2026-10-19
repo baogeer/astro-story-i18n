@@ -8,7 +8,7 @@ description: "Hosoyagi es madrastra. Cuando su hijastro Changfu faltó a la escu
 
 
 
-![AstroPaper I18n](/public/how-xiliu-taught-her-sons.png)
+![AstroPaper I18n](/how-xiliu-taught-her-sons.png)
 
 
 

@@ -8,7 +8,7 @@ description: "На скальной стене в Хойчжоу изображ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
 
 
 

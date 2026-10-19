@@ -8,7 +8,7 @@ description: "Los labios de Su Mei, una extraña mujer de Xuanzhou, en el sur de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-su-meichun-s-miraculous-kiss.png)
+![AstroPaper I18n](/the-legend-of-su-meichun-s-miraculous-kiss.png)
 
 
 

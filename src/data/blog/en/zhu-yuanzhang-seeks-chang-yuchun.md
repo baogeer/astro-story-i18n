@@ -8,7 +8,7 @@ description: "At the end of the Yuan Dynasty, Zhu Yuanzhang and Liu Bowen and Hu
 
 
 
-![AstroPaper I18n](/public/zhu-yuanzhang-seeks-chang-yuchun.png)
+![AstroPaper I18n](/zhu-yuanzhang-seeks-chang-yuchun.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ma Yuan, un famoso general Han del Este, escribió una carta duran
 
 
 
-![AstroPaper I18n](/public/ma-yuan-s-admonition-to-his-nephews.png)
+![AstroPaper I18n](/ma-yuan-s-admonition-to-his-nephews.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhi Qing, l'aîné du temple Shokoku-ji, a présenté un seau de J
 
 
 
-![AstroPaper I18n](/public/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
+![AstroPaper I18n](/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
 
 
 

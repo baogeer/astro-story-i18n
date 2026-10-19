@@ -8,7 +8,7 @@ description: "Liang Shanbo de Western Jin s'est lié d'amitié avec Zhu Yingtai,
 
 
 
-![AstroPaper I18n](/public/liang-shanbo-and-zhu-yingtai-turn-into-butterflies-in-the-same-tomb.png)
+![AstroPaper I18n](/liang-shanbo-and-zhu-yingtai-turn-into-butterflies-in-the-same-tomb.png)
 
 
 

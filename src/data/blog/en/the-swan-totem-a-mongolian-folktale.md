@@ -8,7 +8,7 @@ description: "On the shores of Lake Baikal, Hori Tomert stole a feather coat, ma
 
 
 
-![AstroPaper I18n](/public/the-swan-totem-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-swan-totem-a-mongolian-folktale.png)
 
 
 

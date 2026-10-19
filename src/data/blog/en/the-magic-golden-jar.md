@@ -8,7 +8,7 @@ description: "Once upon a time, an old farmer dug up an inexhaustible gold pot a
 
 
 
-![AstroPaper I18n](/public/the-magic-golden-jar.png)
+![AstroPaper I18n](/the-magic-golden-jar.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Sous la dynastie Ming, le village des célibataires est venu prend
 
 
 
-![AstroPaper I18n](/public/the-fox-women-of-bachelor-village.png)
+![AstroPaper I18n](/the-fox-women-of-bachelor-village.png)
 
 
 

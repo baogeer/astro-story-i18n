@@ -8,7 +8,7 @@ description: "Sue and rescued a little white horse and are dependent on each oth
 
 
 
-![AstroPaper I18n](/public/suhe-and-the-white-horse-the-origin-of-the-horsehead-fiddle.png)
+![AstroPaper I18n](/suhe-and-the-white-horse-the-origin-of-the-horsehead-fiddle.png)
 
 
 

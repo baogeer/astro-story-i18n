@@ -8,7 +8,7 @@ description: "Le «xa0tyran des fleursxa0» du gouvernement provincial de Caozho
 
 
 
-![AstroPaper I18n](/public/the-fire-tempered-golden-peony.png)
+![AstroPaper I18n](/the-fire-tempered-golden-peony.png)
 
 
 

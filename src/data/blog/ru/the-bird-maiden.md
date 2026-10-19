@@ -8,7 +8,7 @@ description: "Богатый владелец заставил свою слуг
 
 
 
-![AstroPaper I18n](/public/the-bird-maiden.png)
+![AstroPaper I18n](/the-bird-maiden.png)
 
 
 

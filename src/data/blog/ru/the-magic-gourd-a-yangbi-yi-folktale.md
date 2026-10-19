@@ -8,7 +8,7 @@ description: "Ах Лонг, молодая этническая группа Й
 
 
 
-![AstroPaper I18n](/public/the-magic-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-magic-gourd-a-yangbi-yi-folktale.png)
 
 
 

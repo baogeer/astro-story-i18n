@@ -8,7 +8,7 @@ description: "عندما رأى الراهب هوي كونغ الرهبان في
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-beheaded-cat.png)
+![AstroPaper I18n](/the-tale-of-the-beheaded-cat.png)
 
 
 

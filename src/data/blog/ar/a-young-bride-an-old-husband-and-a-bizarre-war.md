@@ -8,7 +8,7 @@ description: "تزوجت الأميرة تساي جي تساي من المسن �
 
 
 
-![AstroPaper I18n](/public/a-young-bride-an-old-husband-and-a-bizarre-war.png)
+![AstroPaper I18n](/a-young-bride-an-old-husband-and-a-bizarre-war.png)
 
 
 

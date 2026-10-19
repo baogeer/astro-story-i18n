@@ -8,7 +8,7 @@ description: "La familia de Chen Jiazhuang y Chen Yuanwai afirma ser «Shuxiangm
 
 
 
-![AstroPaper I18n](/public/the-scholarly-family.png)
+![AstroPaper I18n](/the-scholarly-family.png)
 
 
 

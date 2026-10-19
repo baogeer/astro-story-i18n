@@ -8,7 +8,7 @@ description: "La vida de Tang Bohu fue difícil. Fue a la cárcel por varios cas
 
 
 
-![AstroPaper I18n](/public/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
+![AstroPaper I18n](/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
 
 
 

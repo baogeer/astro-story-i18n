@@ -8,7 +8,7 @@ description: "Idiots can't tell the truth or falsehood; they often take their fr
 
 
 
-![AstroPaper I18n](/public/the-fool-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-fool-who-divorced-his-wife.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Gong Yin était courageux quand il était jeune. Il est resté dan
 
 
 
-![AstroPaper I18n](/public/the-fox-s-wedding.png)
+![AstroPaper I18n](/the-fox-s-wedding.png)
 
 
 

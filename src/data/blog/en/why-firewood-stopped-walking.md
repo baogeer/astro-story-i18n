@@ -8,7 +8,7 @@ description: "A Dai girl had a crush on a young man in the same village. When th
 
 
 
-![AstroPaper I18n](/public/why-firewood-stopped-walking.png)
+![AstroPaper I18n](/why-firewood-stopped-walking.png)
 
 
 

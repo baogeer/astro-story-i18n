@@ -8,7 +8,7 @@ description: "ازدهرت مجموعة فنغشان، التي كانت تُع�
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-fengshanji.png)
+![AstroPaper I18n](/the-rise-and-fall-of-fengshanji.png)
 
 
 

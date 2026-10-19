@@ -8,7 +8,7 @@ description: "Su madre obligó a Ah Qiao a cortar el césped en el frío inviern
 
 
 
-![AstroPaper I18n](/public/the-silkworm-maiden.png)
+![AstroPaper I18n](/the-silkworm-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "سان يون شنغ هو لص باودينغ. لقد حد من م
 
 
 
-![AstroPaper I18n](/public/the-chivalrous-thief.png)
+![AstroPaper I18n](/the-chivalrous-thief.png)
 
 
 

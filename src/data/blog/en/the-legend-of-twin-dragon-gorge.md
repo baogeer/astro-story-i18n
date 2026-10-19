@@ -8,7 +8,7 @@ description: "A long time ago, there was a Huanglong training at the exit of Tie
 
 
 
-![AstroPaper I18n](/public/the-legend-of-twin-dragon-gorge.png)
+![AstroPaper I18n](/the-legend-of-twin-dragon-gorge.png)
 
 
 

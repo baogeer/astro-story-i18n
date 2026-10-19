@@ -24,7 +24,7 @@ description: {yaml_safe(article['description'])}
 
 
 
-![AstroPaper I18n]({article['ai_image']})
+![AstroPaper I18n]({article['ai_image'].replace('/public','')})
 
 
 

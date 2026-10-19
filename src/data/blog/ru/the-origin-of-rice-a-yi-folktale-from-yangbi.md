@@ -8,7 +8,7 @@ description: "В древние времена у людей не было зе�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-rice-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-origin-of-rice-a-yi-folktale-from-yangbi.png)
 
 
 

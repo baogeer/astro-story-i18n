@@ -8,7 +8,7 @@ description: "Trois frères de la région montagneuse du Minnan. Le patron est p
 
 
 
-![AstroPaper I18n](/public/the-tiger-fighting-brothers.png)
+![AstroPaper I18n](/the-tiger-fighting-brothers.png)
 
 
 

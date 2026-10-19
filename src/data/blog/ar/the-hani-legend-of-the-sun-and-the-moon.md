@@ -8,7 +8,7 @@ description: "استخدمت لاو تشي، وهي من قبيلة هاني ا�
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-hani-legend-of-the-sun-and-the-moon.png)
 
 
 

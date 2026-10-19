@@ -8,7 +8,7 @@ description: "Легенда гласит, что когда Тьегуай Ли
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
+![AstroPaper I18n](/the-legend-of-the-pagoda-tree-in-the-queen-of-heaven-temple.png)
 
 
 

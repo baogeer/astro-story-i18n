@@ -8,7 +8,7 @@ description: "Wu is addicted to gambling. After the year-end dividend, he stayed
 
 
 
-![AstroPaper I18n](/public/the-ghost-gamble.png)
+![AstroPaper I18n](/the-ghost-gamble.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La pobre anciana se rompió la cola de cabra porque se partió, pa
 
 
 
-![AstroPaper I18n](/public/the-tale-of-reshung-gampo-the-goat-tail.png)
+![AstroPaper I18n](/the-tale-of-reshung-gampo-the-goat-tail.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Роб был труслив и неправильно понят 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-two-neighbors-and-the-ghost.png)
+![AstroPaper I18n](/the-tale-of-two-neighbors-and-the-ghost.png)
 
 
 

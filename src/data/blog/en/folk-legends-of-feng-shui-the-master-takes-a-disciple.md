@@ -8,7 +8,7 @@ description: "Jia Fugui used the Disciples Conference to hype up fame, but was p
 
 
 
-![AstroPaper I18n](/public/folk-legends-of-feng-shui-the-master-takes-a-disciple.png)
+![AstroPaper I18n](/folk-legends-of-feng-shui-the-master-takes-a-disciple.png)
 
 
 

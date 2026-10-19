@@ -8,7 +8,7 @@ description: "Lorsque l'auteur a lu le poème «xa0Spring Girlxa0» d'Ai Qing lo
 
 
 
-![AstroPaper I18n](/public/ai-qing-s-golden-carriage.png)
+![AstroPaper I18n](/ai-qing-s-golden-carriage.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhong Liquan nació después de ser general en la dinastía Han de
 
 
 
-![AstroPaper I18n](/public/zhongli-quan-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhongli-quan-one-of-the-eight-immortals.png)
 
 
 

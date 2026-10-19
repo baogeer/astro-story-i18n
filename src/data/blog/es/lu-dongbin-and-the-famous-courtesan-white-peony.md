@@ -8,7 +8,7 @@ description: "Lu Dongbin tuvo una aventura con la famosa prostituta Bai Peony. L
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-and-the-famous-courtesan-white-peony.png)
+![AstroPaper I18n](/lu-dongbin-and-the-famous-courtesan-white-peony.png)
 
 
 

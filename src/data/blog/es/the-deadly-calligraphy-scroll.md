@@ -8,7 +8,7 @@ description: "El «Prólogo de Lanting» de la colección de Wangjiangzhai en la
 
 
 
-![AstroPaper I18n](/public/the-deadly-calligraphy-scroll.png)
+![AstroPaper I18n](/the-deadly-calligraphy-scroll.png)
 
 
 

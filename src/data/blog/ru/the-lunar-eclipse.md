@@ -8,7 +8,7 @@ description: "Сестра Мун застенчива и появляется �
 
 
 
-![AstroPaper I18n](/public/the-lunar-eclipse.png)
+![AstroPaper I18n](/the-lunar-eclipse.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В древние времена в районе Йи бушева
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-dragon-boat-festival.png)
 
 
 

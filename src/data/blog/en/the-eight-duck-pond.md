@@ -8,7 +8,7 @@ description: "In the deep pool west of Yunlong Bridge in Yangjiao, the young she
 
 
 
-![AstroPaper I18n](/public/the-eight-duck-pond.png)
+![AstroPaper I18n](/the-eight-duck-pond.png)
 
 
 

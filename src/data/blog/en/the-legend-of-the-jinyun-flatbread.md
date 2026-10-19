@@ -8,7 +8,7 @@ description: "Legend has it that Jinyun pancakes originated when Xuanyuan Huangd
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jinyun-flatbread.png)
+![AstroPaper I18n](/the-legend-of-the-jinyun-flatbread.png)
 
 
 

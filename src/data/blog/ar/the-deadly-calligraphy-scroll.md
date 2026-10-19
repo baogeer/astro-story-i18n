@@ -8,7 +8,7 @@ description: "تمت سرقة «Lanting Prologue» من مجموعة Wangjiangzh
 
 
 
-![AstroPaper I18n](/public/the-deadly-calligraphy-scroll.png)
+![AstroPaper I18n](/the-deadly-calligraphy-scroll.png)
 
 
 

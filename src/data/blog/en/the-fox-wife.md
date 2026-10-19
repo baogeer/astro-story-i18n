@@ -8,7 +8,7 @@ description: "Wang Xiao's family is poor. She makes a living by chasing donkeys 
 
 
 
-![AstroPaper I18n](/public/the-fox-wife.png)
+![AstroPaper I18n](/the-fox-wife.png)
 
 
 

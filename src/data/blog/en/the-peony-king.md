@@ -8,7 +8,7 @@ description: "There is a “Peony King” plant in Zhaolou Village in Caozhou th
 
 
 
-![AstroPaper I18n](/public/the-peony-king.png)
+![AstroPaper I18n](/the-peony-king.png)
 
 
 

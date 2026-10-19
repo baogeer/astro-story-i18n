@@ -8,7 +8,7 @@ description: "Les habitants de Lin'an, dans les Song du Sud, détestaient Qin Hu
 
 
 
-![AstroPaper I18n](/public/the-story-of-fried-hui.png)
+![AstroPaper I18n](/the-story-of-fried-hui.png)
 
 
 

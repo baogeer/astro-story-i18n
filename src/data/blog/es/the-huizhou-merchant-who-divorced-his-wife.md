@@ -8,7 +8,7 @@ description: "Huishang Zhou Jiheng se casó con una mujer pobre, Xiaotao. Inespe
 
 
 
-![AstroPaper I18n](/public/the-huizhou-merchant-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-huizhou-merchant-who-divorced-his-wife.png)
 
 
 

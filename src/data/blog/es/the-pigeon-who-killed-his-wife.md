@@ -8,7 +8,7 @@ description: "Cuando los machos vieron desaparecer los frutos del otoño, confun
 
 
 
-![AstroPaper I18n](/public/the-pigeon-who-killed-his-wife.png)
+![AstroPaper I18n](/the-pigeon-who-killed-his-wife.png)
 
 
 

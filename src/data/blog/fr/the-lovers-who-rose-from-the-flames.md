@@ -8,7 +8,7 @@ description: "Les chasseurs Yao Gan Song sont tombés amoureux de Zhen Feng. Ils
 
 
 
-![AstroPaper I18n](/public/the-lovers-who-rose-from-the-flames.png)
+![AstroPaper I18n](/the-lovers-who-rose-from-the-flames.png)
 
 
 

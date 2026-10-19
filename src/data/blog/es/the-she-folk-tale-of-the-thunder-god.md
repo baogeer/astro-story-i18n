@@ -8,7 +8,7 @@ description: "Chen Hong, el Orión de Leizhou, confió en un perro de nueve orej
 
 
 
-![AstroPaper I18n](/public/the-she-folk-tale-of-the-thunder-god.png)
+![AstroPaper I18n](/the-she-folk-tale-of-the-thunder-god.png)
 
 
 

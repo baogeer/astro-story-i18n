@@ -8,7 +8,7 @@ description: "После того как Чжан Лан занялся бизн
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-kitchen-god.png)
+![AstroPaper I18n](/the-origin-of-the-kitchen-god.png)
 
 
 

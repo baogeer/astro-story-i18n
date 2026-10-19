@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن جبال الهيمالايا كا�
 
 
 
-![AstroPaper I18n](/public/the-vast-sea-became-fields.png)
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
 
 
 

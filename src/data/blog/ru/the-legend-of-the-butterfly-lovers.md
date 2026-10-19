@@ -8,7 +8,7 @@ description: "Лян Шаньбо навестила друзей и узнал�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-butterfly-lovers.png)
+![AstroPaper I18n](/the-legend-of-the-butterfly-lovers.png)
 
 
 

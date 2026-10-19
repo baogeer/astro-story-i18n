@@ -8,7 +8,7 @@ description: "Qin Shi Huang used a mountain whip to drive the mountain into the 
 
 
 
-![AstroPaper I18n](/public/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
+![AstroPaper I18n](/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
 
 
 

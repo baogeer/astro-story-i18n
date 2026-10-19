@@ -8,7 +8,7 @@ description: "В Северной Вэй из-за преклонного воз
 
 
 
-![AstroPaper I18n](/public/mulan-joins-the-army.png)
+![AstroPaper I18n](/mulan-joins-the-army.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Teng Xiaoguo se inundó y un dragón gigante yacía de costado par
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-state-of-teng.png)
+![AstroPaper I18n](/the-legend-of-the-little-state-of-teng.png)
 
 
 

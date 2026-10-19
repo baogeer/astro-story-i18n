@@ -8,7 +8,7 @@ description: "When the younger brother grew up, he went around looking for his s
 
 
 
-![AstroPaper I18n](/public/the-green-smoke-monster.png)
+![AstroPaper I18n](/the-green-smoke-monster.png)
 
 
 

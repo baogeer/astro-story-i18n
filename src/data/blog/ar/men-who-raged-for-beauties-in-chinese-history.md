@@ -8,7 +8,7 @@ description: "قتل وانغ ويوي مستشاره بغضب، الأمر ال
 
 
 
-![AstroPaper I18n](/public/men-who-raged-for-beauties-in-chinese-history.png)
+![AstroPaper I18n](/men-who-raged-for-beauties-in-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tras la muerte violenta de una persona de apellido Zhang, el diabl
 
 
 
-![AstroPaper I18n](/public/the-monk-s-sin.png)
+![AstroPaper I18n](/the-monk-s-sin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чтобы вылечить артрит своей матери, 
 
 
 
-![AstroPaper I18n](/public/the-sable-king.png)
+![AstroPaper I18n](/the-sable-king.png)
 
 
 

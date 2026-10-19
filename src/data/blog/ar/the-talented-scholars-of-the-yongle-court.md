@@ -8,7 +8,7 @@ description: "بعد غزو إمبراطور يونغلي تشو دي نانجي
 
 
 
-![AstroPaper I18n](/public/the-talented-scholars-of-the-yongle-court.png)
+![AstroPaper I18n](/the-talented-scholars-of-the-yongle-court.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تزوج لو شياومان أولاً من وانغ جينغ، �
 
 
 
-![AstroPaper I18n](/public/the-romantic-affairs-of-lu-xiaoman.png)
+![AstroPaper I18n](/the-romantic-affairs-of-lu-xiaoman.png)
 
 
 

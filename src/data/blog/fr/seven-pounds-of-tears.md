@@ -8,7 +8,7 @@ description: "Fairy Hua Er a été rabaissée pour faire de bonnes actions sur t
 
 
 
-![AstroPaper I18n](/public/seven-pounds-of-tears.png)
+![AstroPaper I18n](/seven-pounds-of-tears.png)
 
 
 

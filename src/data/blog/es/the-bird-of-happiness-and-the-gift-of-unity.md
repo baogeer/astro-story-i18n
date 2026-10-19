@@ -8,7 +8,7 @@ description: "Érase una vez, Happy Bird tuvo que dejar a una familia adinerada 
 
 
 
-![AstroPaper I18n](/public/the-bird-of-happiness-and-the-gift-of-unity.png)
+![AstroPaper I18n](/the-bird-of-happiness-and-the-gift-of-unity.png)
 
 
 

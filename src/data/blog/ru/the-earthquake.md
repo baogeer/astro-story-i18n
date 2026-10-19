@@ -8,7 +8,7 @@ description: "На седьмом году жизни Канси, когда П�
 
 
 
-![AstroPaper I18n](/public/the-earthquake.png)
+![AstroPaper I18n](/the-earthquake.png)
 
 
 

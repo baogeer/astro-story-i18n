@@ -8,7 +8,7 @@ description: "Jiang Manzi left an oil tanker containing silver at Zhao Yizi's ho
 
 
 
-![AstroPaper I18n](/public/the-debt-repaid.png)
+![AstroPaper I18n](/the-debt-repaid.png)
 
 
 

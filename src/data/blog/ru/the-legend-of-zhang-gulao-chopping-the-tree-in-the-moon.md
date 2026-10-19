@@ -8,7 +8,7 @@ description: "Чжан Цзю срубил большое камфорное д�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
+![AstroPaper I18n](/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في ساحة معركة واترلو، تعرضت نساء مثل
 
 
 
-![AstroPaper I18n](/public/the-bloody-roses-of-waterloo-women-on-the-battlefield.png)
+![AstroPaper I18n](/the-bloody-roses-of-waterloo-women-on-the-battlefield.png)
 
 
 

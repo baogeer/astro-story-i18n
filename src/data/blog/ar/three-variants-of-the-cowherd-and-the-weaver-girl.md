@@ -8,7 +8,7 @@ description: "في النصوص الثلاثة المختلفة، يتعرض ك�
 
 
 
-![AstroPaper I18n](/public/three-variants-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/three-variants-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El emperador Sui Yang no podía ver las peonías con claridad debi
 
 
 
-![AstroPaper I18n](/public/the-peony-as-tall-as-the-tower.png)
+![AstroPaper I18n](/the-peony-as-tall-as-the-tower.png)
 
 
 

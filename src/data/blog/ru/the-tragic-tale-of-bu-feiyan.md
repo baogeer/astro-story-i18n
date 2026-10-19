@@ -8,7 +8,7 @@ description: "Бу Фэй красива и талантлива, но свое�
 
 
 
-![AstroPaper I18n](/public/the-tragic-tale-of-bu-feiyan.png)
+![AstroPaper I18n](/the-tragic-tale-of-bu-feiyan.png)
 
 
 

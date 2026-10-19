@@ -8,7 +8,7 @@ description: "Une femelle dragon et quatre dragons vivent dans la grotte de Wulo
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-five-dragon-cave.png)
+![AstroPaper I18n](/the-tujia-legend-of-five-dragon-cave.png)
 
 
 

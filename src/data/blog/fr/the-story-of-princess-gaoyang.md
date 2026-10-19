@@ -8,7 +8,7 @@ description: "L'héritage du fils du Premier ministre Fong Hyun-ling. Gao Yangxi
 
 
 
-![AstroPaper I18n](/public/the-story-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-story-of-princess-gaoyang.png)
 
 
 

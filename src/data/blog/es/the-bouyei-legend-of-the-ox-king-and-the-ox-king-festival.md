@@ -8,7 +8,7 @@ description: "Cuando Ah Niu encontró a la vaca sagrada, el líder lo puso a pru
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-ox-king-and-the-ox-king-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-ox-king-and-the-ox-king-festival.png)
 
 
 

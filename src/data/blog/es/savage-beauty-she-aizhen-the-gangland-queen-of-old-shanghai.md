@@ -8,7 +8,7 @@ description: "She Aizhen es una mujer gamberro de playa de la República de Chin
 
 
 
-![AstroPaper I18n](/public/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
+![AstroPaper I18n](/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
 
 
 

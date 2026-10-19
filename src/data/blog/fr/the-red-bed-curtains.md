@@ -8,7 +8,7 @@ description: "Le directeur de l'école a acheté des draps rouges pour les ridea
 
 
 
-![AstroPaper I18n](/public/the-red-bed-curtains.png)
+![AstroPaper I18n](/the-red-bed-curtains.png)
 
 
 

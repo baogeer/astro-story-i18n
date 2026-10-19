@@ -8,7 +8,7 @@ description: "El Ejército Rojo Mei robó y desenterró la tumba de Han Gaozuru 
 
 
 
-![AstroPaper I18n](/public/tomb-robbers-necrophilia-the-desecration-of-empress-lu-s-body.png)
+![AstroPaper I18n](/tomb-robbers-necrophilia-the-desecration-of-empress-lu-s-body.png)
 
 
 

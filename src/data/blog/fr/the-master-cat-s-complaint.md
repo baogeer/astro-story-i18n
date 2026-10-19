@@ -8,7 +8,7 @@ description: "Papy Cat était à l'origine le chouchou de l'Empereur de Jade. Il
 
 
 
-![AstroPaper I18n](/public/the-master-cat-s-complaint.png)
+![AstroPaper I18n](/the-master-cat-s-complaint.png)
 
 
 

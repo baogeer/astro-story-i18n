@@ -8,7 +8,7 @@ description: "La mayoría de las experiencias sexuales prematrimoniales de la di
 
 
 
-![AstroPaper I18n](/public/the-first-bed-partners-of-chinese-emperors.png)
+![AstroPaper I18n](/the-first-bed-partners-of-chinese-emperors.png)
 
 
 

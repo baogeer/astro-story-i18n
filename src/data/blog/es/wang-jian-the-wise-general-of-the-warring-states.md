@@ -8,7 +8,7 @@ description: "Wang Jian fue un famoso general de la dinastía Qin al final del p
 
 
 
-![AstroPaper I18n](/public/wang-jian-the-wise-general-of-the-warring-states.png)
+![AstroPaper I18n](/wang-jian-the-wise-general-of-the-warring-states.png)
 
 
 

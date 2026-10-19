@@ -8,7 +8,7 @@ description: "Ma San spent three years saving 52 dollars, but after hiding it in
 
 
 
-![AstroPaper I18n](/public/the-magistrate-who-tried-the-earth-god.png)
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
 
 
 

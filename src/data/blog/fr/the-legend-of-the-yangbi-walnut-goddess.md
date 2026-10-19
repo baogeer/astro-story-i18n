@@ -8,7 +8,7 @@ description: "Afin que les membres de l'ethnie Yi puissent manger des noix à co
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangbi-walnut-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-yangbi-walnut-goddess.png)
 
 
 

@@ -8,7 +8,7 @@ description: "En la mitología buyei, el cielo y la tierra antiguos estaban muy 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
+![AstroPaper I18n](/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ван Чжаоцзюнь был избран во дворец и
 
 
 
-![AstroPaper I18n](/public/a-tear-on-the-road-of-no-return.png)
+![AstroPaper I18n](/a-tear-on-the-road-of-no-return.png)
 
 
 

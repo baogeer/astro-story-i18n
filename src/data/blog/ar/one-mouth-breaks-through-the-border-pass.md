@@ -8,7 +8,7 @@ description: "أُجبر وانغ تشاو جون على الزواج مرة أ�
 
 
 
-![AstroPaper I18n](/public/one-mouth-breaks-through-the-border-pass.png)
+![AstroPaper I18n](/one-mouth-breaks-through-the-border-pass.png)
 
 
 

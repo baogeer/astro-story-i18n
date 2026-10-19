@@ -8,7 +8,7 @@ description: "«Yo», que ha estado obsesionada con Liaozhai desde pequeña, con
 
 
 
-![AstroPaper I18n](/public/a-modern-liaozhai-tale.png)
+![AstroPaper I18n](/a-modern-liaozhai-tale.png)
 
 
 

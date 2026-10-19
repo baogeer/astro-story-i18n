@@ -8,7 +8,7 @@ description: "Yang Guifei a en fait été inventé par le poète de la dynastie 
 
 
 
-![AstroPaper I18n](/public/how-yang-guifei-was-falsely-branded-a-thief.png)
+![AstroPaper I18n](/how-yang-guifei-was-falsely-branded-a-thief.png)
 
 
 

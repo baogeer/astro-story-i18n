@@ -8,7 +8,7 @@ description: "Императрица Северной Ци У Чэн не хот
 
 
 
-![AstroPaper I18n](/public/empress-hu-the-lustful-woman-of-her-age.png)
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
 
 
 

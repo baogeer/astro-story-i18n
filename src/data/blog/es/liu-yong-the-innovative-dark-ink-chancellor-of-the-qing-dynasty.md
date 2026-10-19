@@ -8,7 +8,7 @@ description: "Liu Yong, un calígrafo de la dinastía Qing, es conocido como el 
 
 
 
-![AstroPaper I18n](/public/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
+![AstroPaper I18n](/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
 
 
 

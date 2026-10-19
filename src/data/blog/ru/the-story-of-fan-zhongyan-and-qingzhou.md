@@ -8,7 +8,7 @@ description: "В последние годы своей жизни Фань Чж
 
 
 
-![AstroPaper I18n](/public/the-story-of-fan-zhongyan-and-qingzhou.png)
+![AstroPaper I18n](/the-story-of-fan-zhongyan-and-qingzhou.png)
 
 
 

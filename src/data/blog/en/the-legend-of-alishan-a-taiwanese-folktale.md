@@ -8,7 +8,7 @@ description: "Ali fought the tiger to save the two fairies, and mistakenly injur
 
 
 
-![AstroPaper I18n](/public/the-legend-of-alishan-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-legend-of-alishan-a-taiwanese-folktale.png)
 
 
 

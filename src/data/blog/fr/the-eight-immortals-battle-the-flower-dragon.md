@@ -8,7 +8,7 @@ description: "Les Huit Immortels ont traversé la mer jusqu'à Penglai sur un ba
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-battle-the-flower-dragon.png)
+![AstroPaper I18n](/the-eight-immortals-battle-the-flower-dragon.png)
 
 
 

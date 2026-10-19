@@ -8,7 +8,7 @@ description: "Когда-то один сын часто ругал свою м�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-nici-ritual.png)
+![AstroPaper I18n](/the-origin-of-the-yi-nici-ritual.png)
 
 
 

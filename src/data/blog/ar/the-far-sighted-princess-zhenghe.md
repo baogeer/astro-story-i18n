@@ -8,7 +8,7 @@ description: "أثناء مشاهدة الفيلم في القصر، سخرت ا
 
 
 
-![AstroPaper I18n](/public/the-far-sighted-princess-zhenghe.png)
+![AstroPaper I18n](/the-far-sighted-princess-zhenghe.png)
 
 
 

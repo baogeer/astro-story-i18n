@@ -8,7 +8,7 @@ description: "Yao hunters Gan Song fell in love with Zhen Feng. They were repeat
 
 
 
-![AstroPaper I18n](/public/the-lovers-who-rose-from-the-flames.png)
+![AstroPaper I18n](/the-lovers-who-rose-from-the-flames.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Song Zan Ganbu sent Minister Gar Dongzan to propose marriage in Ta
 
 
 
-![AstroPaper I18n](/public/the-contest-of-wits-for-princess-wencheng.png)
+![AstroPaper I18n](/the-contest-of-wits-for-princess-wencheng.png)
 
 
 

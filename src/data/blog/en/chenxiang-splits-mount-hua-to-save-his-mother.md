@@ -8,7 +8,7 @@ description: "In order to save her mother, the Three Noble Madonna, who was crus
 
 
 
-![AstroPaper I18n](/public/chenxiang-splits-mount-hua-to-save-his-mother.png)
+![AstroPaper I18n](/chenxiang-splits-mount-hua-to-save-his-mother.png)
 
 
 

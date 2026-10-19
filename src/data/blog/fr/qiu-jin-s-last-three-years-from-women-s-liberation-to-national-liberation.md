@@ -8,7 +8,7 @@ description: "Touchée par son mariage malheureux et ses nouvelles idées, Qiu J
 
 
 
-![AstroPaper I18n](/public/qiu-jin-s-last-three-years-from-women-s-liberation-to-national-liberation.png)
+![AstroPaper I18n](/qiu-jin-s-last-three-years-from-women-s-liberation-to-national-liberation.png)
 
 
 

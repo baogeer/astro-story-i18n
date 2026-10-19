@@ -8,7 +8,7 @@ description: "Battle, un jeune Mongol, a été emmené par le Golden Soldier pou
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
+![AstroPaper I18n](/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
 
 
 

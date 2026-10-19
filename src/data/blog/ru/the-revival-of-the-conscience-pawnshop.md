@@ -8,7 +8,7 @@ description: "Чжан Ипинь, добросовестный владелец
 
 
 
-![AstroPaper I18n](/public/the-revival-of-the-conscience-pawnshop.png)
+![AstroPaper I18n](/the-revival-of-the-conscience-pawnshop.png)
 
 
 

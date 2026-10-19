@@ -8,7 +8,7 @@ description: "خلال حرب المقاومة، أجبر الجيش الياب�
 
 
 
-![AstroPaper I18n](/public/the-yin-yang-river.png)
+![AstroPaper I18n](/the-yin-yang-river.png)
 
 
 

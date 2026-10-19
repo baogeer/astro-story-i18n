@@ -8,7 +8,7 @@ description: "Ашима, девушка из племени Сани, крас�
 
 
 
-![AstroPaper I18n](/public/the-sani-legend-of-ashima.png)
+![AstroPaper I18n](/the-sani-legend-of-ashima.png)
 
 
 

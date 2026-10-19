@@ -8,7 +8,7 @@ description: "Liu Mancheng, le propriétaire du Yuejia Inn dans la ville de Qixi
 
 
 
-![AstroPaper I18n](/public/the-sun-dried-silver-character.png)
+![AstroPaper I18n](/the-sun-dried-silver-character.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Originalmente hija del rey Huo, Huo Xiaoyu era exiliada y juró un
 
 
 
-![AstroPaper I18n](/public/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
+![AstroPaper I18n](/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A Zhao Bangning le encantan las flores como a su vida. Conoció un
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bangning-purple-peony.png)
+![AstroPaper I18n](/the-origin-of-the-bangning-purple-peony.png)
 
 
 

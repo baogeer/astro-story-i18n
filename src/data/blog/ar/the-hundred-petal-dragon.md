@@ -8,7 +8,7 @@ description: "في تياوكسي بمقاطعة تشجيانغ، تخلى ال�
 
 
 
-![AstroPaper I18n](/public/the-hundred-petal-dragon.png)
+![AstroPaper I18n](/the-hundred-petal-dragon.png)
 
 
 

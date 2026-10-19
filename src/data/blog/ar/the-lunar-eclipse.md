@@ -8,7 +8,7 @@ description: "الأخت مون خجولة ولا تظهر إلا في منتص�
 
 
 
-![AstroPaper I18n](/public/the-lunar-eclipse.png)
+![AstroPaper I18n](/the-lunar-eclipse.png)
 
 
 

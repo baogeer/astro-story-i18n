@@ -8,7 +8,7 @@ description: "Le fils de la défunte famille Miao a été tué par un dragon mal
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-boat-festival.png)
 
 
 

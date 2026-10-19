@@ -8,7 +8,7 @@ description: "Когда-то кто-то хотел вознестись на �
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hen-and-chicks-constellation.png)
+![AstroPaper I18n](/the-origin-of-the-hen-and-chicks-constellation.png)
 
 
 

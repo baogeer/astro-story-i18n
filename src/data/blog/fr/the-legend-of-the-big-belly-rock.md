@@ -8,7 +8,7 @@ description: "Dadu Rock doit son nom à sa grande forme de ventre. La légende r
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-big-belly-rock.png)
+![AstroPaper I18n](/the-legend-of-the-big-belly-rock.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Цзэн И, молодая женщина из поздней д�
 
 
 
-![AstroPaper I18n](/public/zeng-yi-from-a-talented-lady-to-a-world-healing-woman-physician.png)
+![AstroPaper I18n](/zeng-yi-from-a-talented-lady-to-a-world-healing-woman-physician.png)
 
 
 

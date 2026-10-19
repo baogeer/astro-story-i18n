@@ -8,7 +8,7 @@ description: "En la dinastía Ming, las personas que prometieron comida para sie
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-xitang-temple-fair.png)
+![AstroPaper I18n](/the-origin-of-the-xitang-temple-fair.png)
 
 
 

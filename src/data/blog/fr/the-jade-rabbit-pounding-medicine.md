@@ -8,7 +8,7 @@ description: "La légende raconte qu'il y a un lapin blanc comme du jade à Tsuk
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-pounding-medicine.png)
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
 
 
 

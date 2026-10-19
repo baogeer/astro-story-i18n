@@ -8,7 +8,7 @@ description: "Xiao Nu, a girl from the Dong ethnic group, is in love with Changg
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-dong-people-s-dageliang-singing-and-dancing-festival.png)
+![AstroPaper I18n](/the-origin-of-the-dong-people-s-dageliang-singing-and-dancing-festival.png)
 
 
 

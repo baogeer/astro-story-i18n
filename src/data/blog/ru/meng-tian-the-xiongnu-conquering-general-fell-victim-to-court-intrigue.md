@@ -8,7 +8,7 @@ description: "Мэн Тянь происходил из семьи военны�
 
 
 
-![AstroPaper I18n](/public/meng-tian-the-xiongnu-conquering-general-fell-victim-to-court-intrigue.png)
+![AstroPaper I18n](/meng-tian-the-xiongnu-conquering-general-fell-victim-to-court-intrigue.png)
 
 
 

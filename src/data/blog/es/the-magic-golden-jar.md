@@ -8,7 +8,7 @@ description: "Érase una vez, un viejo granjero desenterró una olla de oro inag
 
 
 
-![AstroPaper I18n](/public/the-magic-golden-jar.png)
+![AstroPaper I18n](/the-magic-golden-jar.png)
 
 
 

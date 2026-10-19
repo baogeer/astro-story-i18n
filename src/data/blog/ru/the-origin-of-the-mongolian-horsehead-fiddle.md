@@ -8,7 +8,7 @@ description: "Су Хэ — маленький пастух в прерии Ча
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-mongolian-horsehead-fiddle.png)
+![AstroPaper I18n](/the-origin-of-the-mongolian-horsehead-fiddle.png)
 
 
 

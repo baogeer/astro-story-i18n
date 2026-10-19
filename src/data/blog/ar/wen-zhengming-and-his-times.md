@@ -8,7 +8,7 @@ description: "فشل وين تشنغ في الاختبار الثامن، وكا
 
 
 
-![AstroPaper I18n](/public/wen-zhengming-and-his-times.png)
+![AstroPaper I18n](/wen-zhengming-and-his-times.png)
 
 
 

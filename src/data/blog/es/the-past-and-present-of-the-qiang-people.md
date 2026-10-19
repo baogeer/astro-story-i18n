@@ -8,7 +8,7 @@ description: "La gente de Qiang se llama a sí misma Erma y es descendiente del 
 
 
 
-![AstroPaper I18n](/public/the-past-and-present-of-the-qiang-people.png)
+![AstroPaper I18n](/the-past-and-present-of-the-qiang-people.png)
 
 
 

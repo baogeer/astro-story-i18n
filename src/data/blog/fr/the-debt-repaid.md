@@ -8,7 +8,7 @@ description: "Jiang Manzi a laissé un pétrolier contenant de l'argent chez Zha
 
 
 
-![AstroPaper I18n](/public/the-debt-repaid.png)
+![AstroPaper I18n](/the-debt-repaid.png)
 
 
 

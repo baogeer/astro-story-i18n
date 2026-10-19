@@ -8,7 +8,7 @@ description: "عندما كان جياو شنغ يقرأها في الليل، �
 
 
 
-![AstroPaper I18n](/public/the-foxes-couplet.png)
+![AstroPaper I18n](/the-foxes-couplet.png)
 
 
 

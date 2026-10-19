@@ -8,7 +8,7 @@ description: "Chen Hong, l'Orion de Leizhou, comptait sur un chien à neuf oreil
 
 
 
-![AstroPaper I18n](/public/the-she-folk-tale-of-the-thunder-god.png)
+![AstroPaper I18n](/the-she-folk-tale-of-the-thunder-god.png)
 
 
 

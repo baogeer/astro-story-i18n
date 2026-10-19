@@ -8,7 +8,7 @@ description: "Mirojia (Murojia), la diosa fundadora del pueblo Zhuang, fue pione
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-miluojia-creating-humans.png)
+![AstroPaper I18n](/the-zhuang-legend-of-miluojia-creating-humans.png)
 
 
 

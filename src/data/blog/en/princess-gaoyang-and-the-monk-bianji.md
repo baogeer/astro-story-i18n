@@ -8,7 +8,7 @@ description: "During the Tang Zhenguan years, Princess Gaoyang married in her ho
 
 
 
-![AstroPaper I18n](/public/princess-gaoyang-and-the-monk-bianji.png)
+![AstroPaper I18n](/princess-gaoyang-and-the-monk-bianji.png)
 
 
 

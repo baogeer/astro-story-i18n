@@ -8,7 +8,7 @@ description: "El Hada Melocotón fue enredada por el Maestro de la Serpiente Neg
 
 
 
-![AstroPaper I18n](/public/peach-blossom-fairy-outwits-the-black-snake-demon.png)
+![AstroPaper I18n](/peach-blossom-fairy-outwits-the-black-snake-demon.png)
 
 
 

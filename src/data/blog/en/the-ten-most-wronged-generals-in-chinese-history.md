@@ -8,7 +8,7 @@ description: "The top ten wrongs in Chinese history include Han Xin, Yue Fei, Yu
 
 
 
-![AstroPaper I18n](/public/the-ten-most-wronged-generals-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-wronged-generals-in-chinese-history.png)
 
 
 

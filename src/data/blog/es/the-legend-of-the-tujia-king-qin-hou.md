@@ -8,7 +8,7 @@ description: "Para vengar a su madre, Qin Yi practicó cortar arcos y flechas de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tujia-king-qin-hou.png)
+![AstroPaper I18n](/the-legend-of-the-tujia-king-qin-hou.png)
 
 
 

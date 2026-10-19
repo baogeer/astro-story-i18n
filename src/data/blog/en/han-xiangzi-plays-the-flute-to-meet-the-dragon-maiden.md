@@ -8,7 +8,7 @@ description: "Han Xiang Zi was at the seaside and invited the Seven Princesses o
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
+![AstroPaper I18n](/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
 
 
 

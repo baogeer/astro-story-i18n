@@ -8,7 +8,7 @@ description: "خلال سنوات تشينغ وشوانتونغ، افتتح و�
 
 
 
-![AstroPaper I18n](/public/the-shopkeeper-who-refused-ill-gotten-gains.png)
+![AstroPaper I18n](/the-shopkeeper-who-refused-ill-gotten-gains.png)
 
 
 

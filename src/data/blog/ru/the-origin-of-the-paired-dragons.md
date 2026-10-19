@@ -8,7 +8,7 @@ description: "Два молодых дракона резвятся в озер�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-paired-dragons.png)
+![AstroPaper I18n](/the-origin-of-the-paired-dragons.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В возрасте 64 лет Лу Дунбинь потерял �
 
 
 
-![AstroPaper I18n](/public/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
 
 
 

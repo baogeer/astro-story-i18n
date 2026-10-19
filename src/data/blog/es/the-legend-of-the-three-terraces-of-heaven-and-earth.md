@@ -8,7 +8,7 @@ description: "El sobrino de la familia Su de la etnia Yi cuidó bien a los Hunan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
 
 
 

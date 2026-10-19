@@ -8,7 +8,7 @@ description: "Lorsque Chai Sheng est allé chercher de l'eau, il a ramené une g
 
 
 
-![AstroPaper I18n](/public/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
+![AstroPaper I18n](/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
 
 
 

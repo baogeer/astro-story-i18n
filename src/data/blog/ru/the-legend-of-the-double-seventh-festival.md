@@ -8,7 +8,7 @@ description: "Легенда гласит, что 7 июля уродливой 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-seventh-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-seventh-festival.png)
 
 
 

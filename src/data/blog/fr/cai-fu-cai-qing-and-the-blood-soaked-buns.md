@@ -8,7 +8,7 @@ description: "Frère Cai Fu, le bourreau, n'avait pas de carburant à cause des 
 
 
 
-![AstroPaper I18n](/public/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
 
 
 

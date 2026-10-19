@@ -8,7 +8,7 @@ description: "تلخص هذه المقالة الذكرى السنوية لمي�
 
 
 
-![AstroPaper I18n](/public/birthday-commemorations-of-chinese-folk-deities.png)
+![AstroPaper I18n](/birthday-commemorations-of-chinese-folk-deities.png)
 
 
 

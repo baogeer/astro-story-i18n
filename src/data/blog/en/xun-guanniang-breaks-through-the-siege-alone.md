@@ -8,7 +8,7 @@ description: "Xun Guanniang, the daughter of Xun Song in the Jin dynasty, was 13
 
 
 
-![AstroPaper I18n](/public/xun-guanniang-breaks-through-the-siege-alone.png)
+![AstroPaper I18n](/xun-guanniang-breaks-through-the-siege-alone.png)
 
 
 

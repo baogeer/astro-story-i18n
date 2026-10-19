@@ -8,7 +8,7 @@ description: "Lorsque le jeune homme Wen Tianxiang a juré fidélité au pays, i
 
 
 
-![AstroPaper I18n](/public/the-noble-spirit-of-wen-tianxiang.png)
+![AstroPaper I18n](/the-noble-spirit-of-wen-tianxiang.png)
 
 
 

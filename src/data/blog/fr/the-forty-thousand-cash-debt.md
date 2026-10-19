@@ -8,7 +8,7 @@ description: "Le serviteur de la famille de Sima Wang avait un fils. Il rêvait 
 
 
 
-![AstroPaper I18n](/public/the-forty-thousand-cash-debt.png)
+![AstroPaper I18n](/the-forty-thousand-cash-debt.png)
 
 
 

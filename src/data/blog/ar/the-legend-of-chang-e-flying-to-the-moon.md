@@ -8,7 +8,7 @@ description: "سلم هو يي دواء الخلود لزوجته تشانغ. ا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-legend-of-chang-e-flying-to-the-moon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжана также подставили и подделали, 
 
 
 
-![AstroPaper I18n](/public/the-zither-challenge.png)
+![AstroPaper I18n](/the-zither-challenge.png)
 
 
 

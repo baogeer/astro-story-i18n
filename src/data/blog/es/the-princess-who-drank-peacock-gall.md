@@ -8,7 +8,7 @@ description: "La princesa Agai fue obligada por su padre, Liang Wang, a envenena
 
 
 
-![AstroPaper I18n](/public/the-princess-who-drank-peacock-gall.png)
+![AstroPaper I18n](/the-princess-who-drank-peacock-gall.png)
 
 
 

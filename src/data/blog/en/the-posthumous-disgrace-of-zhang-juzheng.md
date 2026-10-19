@@ -8,7 +8,7 @@ description: "Zhang Juzheng, a famous minister of the Ming Wanli dynasty, was an
 
 
 
-![AstroPaper I18n](/public/the-posthumous-disgrace-of-zhang-juzheng.png)
+![AstroPaper I18n](/the-posthumous-disgrace-of-zhang-juzheng.png)
 
 
 

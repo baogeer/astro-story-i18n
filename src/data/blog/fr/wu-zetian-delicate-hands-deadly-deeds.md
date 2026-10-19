@@ -8,7 +8,7 @@ description: "Wu Zetian est passée du statut de nonne au palais. Il a été fav
 
 
 
-![AstroPaper I18n](/public/wu-zetian-delicate-hands-deadly-deeds.png)
+![AstroPaper I18n](/wu-zetian-delicate-hands-deadly-deeds.png)
 
 
 

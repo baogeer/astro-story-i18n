@@ -8,7 +8,7 @@ description: "La leyenda de la montaña Banping en Taiwán estaba originalmente 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
 
 
 

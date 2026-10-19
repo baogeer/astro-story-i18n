@@ -8,7 +8,7 @@ description: "Teng Xiaoguo was flooded, and a giant dragon lay on its side to bl
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-state-of-teng.png)
+![AstroPaper I18n](/the-legend-of-the-little-state-of-teng.png)
 
 
 

@@ -8,7 +8,7 @@ description: "روج الإمبراطور هان وين والإمبراطور �
 
 
 
-![AstroPaper I18n](/public/the-enduring-legacy-of-the-wen-jing-era.png)
+![AstroPaper I18n](/the-enduring-legacy-of-the-wen-jing-era.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ян Шихоу был генералом Ляном. Он спа�
 
 
 
-![AstroPaper I18n](/public/the-unorthodox-loyalist-who-terrified-two-emperors.png)
+![AstroPaper I18n](/the-unorthodox-loyalist-who-terrified-two-emperors.png)
 
 
 

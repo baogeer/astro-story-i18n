@@ -8,7 +8,7 @@ description: "Чжэн Баньцяо родился бедным и был гр
 
 
 
-![AstroPaper I18n](/public/the-writing-painting-and-official-career-of-zheng-banqiao.png)
+![AstroPaper I18n](/the-writing-painting-and-official-career-of-zheng-banqiao.png)
 
 
 

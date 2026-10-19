@@ -8,7 +8,7 @@ description: "من أجل حماية شعب تشيانغ، توفيت الفتا
 
 
 
-![AstroPaper I18n](/public/the-qiang-folktale-of-aduo-the-maiden.png)
+![AstroPaper I18n](/the-qiang-folktale-of-aduo-the-maiden.png)
 
 
 

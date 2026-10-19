@@ -8,7 +8,7 @@ description: "Tuo Yang, la perla de los herreros, se enamoró de la señorita La
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-blacksmith-mingzhu-tuoyang.png)
+![AstroPaper I18n](/the-tale-of-the-blacksmith-mingzhu-tuoyang.png)
 
 
 

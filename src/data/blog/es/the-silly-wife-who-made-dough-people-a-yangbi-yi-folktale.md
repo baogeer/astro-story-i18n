@@ -8,7 +8,7 @@ description: "Hay una anciana en las montañas Yi. Su marido siempre la regaña 
 
 
 
-![AstroPaper I18n](/public/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
 
 
 

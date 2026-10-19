@@ -8,7 +8,7 @@ description: "En la dinastía Tang, Tang Xuanzong y Yang Guifei disfrutaban de p
 
 
 
-![AstroPaper I18n](/public/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
+![AstroPaper I18n](/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
 
 
 

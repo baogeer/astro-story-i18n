@@ -8,7 +8,7 @@ description: "The Great Drought in the Yangtze River revealed stone monuments. A
 
 
 
-![AstroPaper I18n](/public/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
+![AstroPaper I18n](/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
 
 
 

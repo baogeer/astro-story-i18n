@@ -8,7 +8,7 @@ description: "Tang Ying was the most famous communion flower on the beach in the
 
 
 
-![AstroPaper I18n](/public/the-most-glamorous-socialite-of-old-shanghai.png)
+![AstroPaper I18n](/the-most-glamorous-socialite-of-old-shanghai.png)
 
 
 

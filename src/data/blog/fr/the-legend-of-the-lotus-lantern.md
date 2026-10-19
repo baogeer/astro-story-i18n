@@ -8,7 +8,7 @@ description: "Afin de sauver la mère, Three Madonna, qui a été écrasée par 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-lantern.png)
 
 
 

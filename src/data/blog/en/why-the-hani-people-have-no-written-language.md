@@ -8,7 +8,7 @@ description: "When the Hani people were looking for words, the young people wrot
 
 
 
-![AstroPaper I18n](/public/why-the-hani-people-have-no-written-language.png)
+![AstroPaper I18n](/why-the-hani-people-have-no-written-language.png)
 
 
 

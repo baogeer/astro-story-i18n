@@ -8,7 +8,7 @@ description: "In Hangzhou in the Southern Song Dynasty, Anle Wang Zuo gave up th
 
 
 
-![AstroPaper I18n](/public/the-tofu-bridges.png)
+![AstroPaper I18n](/the-tofu-bridges.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Охотник случайно спас кролика, и дух
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-unexpected-fairy-bride.png)
+![AstroPaper I18n](/the-hunter-s-unexpected-fairy-bride.png)
 
 
 

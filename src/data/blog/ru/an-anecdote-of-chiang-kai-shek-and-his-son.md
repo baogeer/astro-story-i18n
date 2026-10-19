@@ -8,7 +8,7 @@ description: "Чан Кай-куо отправился за покупками 
 
 
 
-![AstroPaper I18n](/public/an-anecdote-of-chiang-kai-shek-and-his-son.png)
+![AstroPaper I18n](/an-anecdote-of-chiang-kai-shek-and-his-son.png)
 
 
 

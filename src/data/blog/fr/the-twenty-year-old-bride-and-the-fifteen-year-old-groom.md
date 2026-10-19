@@ -8,7 +8,7 @@ description: "Lan Lan, la fille du comté de Chenzhi dans le comté de Zhaoxin s
 
 
 
-![AstroPaper I18n](/public/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
+![AstroPaper I18n](/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
 
 
 

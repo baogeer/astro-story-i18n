@@ -8,7 +8,7 @@ description: "When Monk Hui Kong saw the monks in the two houses arguing over a 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-beheaded-cat.png)
+![AstroPaper I18n](/the-tale-of-the-beheaded-cat.png)
 
 
 

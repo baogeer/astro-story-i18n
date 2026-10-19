@@ -8,7 +8,7 @@ description: "قبل أن يذهب لورين إلى بكين لإجراء ال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goose-immortal-cave.png)
+![AstroPaper I18n](/the-legend-of-the-goose-immortal-cave.png)
 
 
 

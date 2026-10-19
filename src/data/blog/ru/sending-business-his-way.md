@@ -8,7 +8,7 @@ description: "Фэн Дацюань был очарован тем, как ще�
 
 
 
-![AstroPaper I18n](/public/sending-business-his-way.png)
+![AstroPaper I18n](/sending-business-his-way.png)
 
 
 

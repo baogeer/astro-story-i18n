@@ -8,7 +8,7 @@ description: "When Liu Bei was at his poorest, Mi Zhu not only married his siste
 
 
 
-![AstroPaper I18n](/public/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
 
 
 

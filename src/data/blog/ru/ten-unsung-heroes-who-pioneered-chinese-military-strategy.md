@@ -8,7 +8,7 @@ description: "В этой статье перечислены десять во�
 
 
 
-![AstroPaper I18n](/public/ten-unsung-heroes-who-pioneered-chinese-military-strategy.png)
+![AstroPaper I18n](/ten-unsung-heroes-who-pioneered-chinese-military-strategy.png)
 
 
 

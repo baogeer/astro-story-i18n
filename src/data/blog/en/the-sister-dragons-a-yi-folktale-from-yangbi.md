@@ -8,7 +8,7 @@ description: "Shi Ping's three sister dragons live. The older sister has a gentl
 
 
 
-![AstroPaper I18n](/public/the-sister-dragons-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-sister-dragons-a-yi-folktale-from-yangbi.png)
 
 
 

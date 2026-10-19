@@ -8,7 +8,7 @@ description: "Le cultivateur de fleurs Zhao Wu considérait la pivoine melaleuca
 
 
 
-![AstroPaper I18n](/public/sacrificing-his-life-to-save-the-peony-zhao-zi.png)
+![AstroPaper I18n](/sacrificing-his-life-to-save-the-peony-zhao-zi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La emperatriz Wan Rong del último emperador, Puyi, tenía un tít
 
 
 
-![AstroPaper I18n](/public/the-last-emperor-s-empress-an-illicit-pregnancy-born-of-loneliness.png)
+![AstroPaper I18n](/the-last-emperor-s-empress-an-illicit-pregnancy-born-of-loneliness.png)
 
 
 

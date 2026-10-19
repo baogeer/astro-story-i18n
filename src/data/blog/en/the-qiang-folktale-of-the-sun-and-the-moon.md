@@ -8,7 +8,7 @@ description: "Ancient floods flooded the world, and the brother and sister Sun a
 
 
 
-![AstroPaper I18n](/public/the-qiang-folktale-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-qiang-folktale-of-the-sun-and-the-moon.png)
 
 
 

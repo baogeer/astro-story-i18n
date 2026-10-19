@@ -8,7 +8,7 @@ description: "Tang dynasty poets Du Mu, Bai Juyi, and Yuan Yi were also called â
 
 
 
-![AstroPaper I18n](/public/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
+![AstroPaper I18n](/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان للراهبين الغربيين مظهر غريب وقد 
 
 
 
-![AstroPaper I18n](/public/the-monks-with-miraculous-powers.png)
+![AstroPaper I18n](/the-monks-with-miraculous-powers.png)
 
 
 

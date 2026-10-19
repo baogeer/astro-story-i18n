@@ -8,7 +8,7 @@ description: "Bai Long es el bondadoso hijo mayor del Palacio del Dragón en el 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-white-dragon-river.png)
+![AstroPaper I18n](/the-tale-of-the-white-dragon-river.png)
 
 
 

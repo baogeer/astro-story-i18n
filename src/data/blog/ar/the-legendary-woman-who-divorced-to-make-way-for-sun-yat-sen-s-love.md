@@ -8,7 +8,7 @@ description: "في عام 1915، كتب سون يات سين إلى زوجته �
 
 
 
-![AstroPaper I18n](/public/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
+![AstroPaper I18n](/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Baoluo, the ancestor of the Zhuang people, taught people to use th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bronze-drum.png)
+![AstroPaper I18n](/the-legend-of-the-bronze-drum.png)
 
 
 

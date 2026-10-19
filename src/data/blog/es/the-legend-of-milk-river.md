@@ -8,7 +8,7 @@ description: "El sexto Dalai Dalai Cangyao se reencarnó como un niño espiritua
 
 
 
-![AstroPaper I18n](/public/the-legend-of-milk-river.png)
+![AstroPaper I18n](/the-legend-of-milk-river.png)
 
 
 

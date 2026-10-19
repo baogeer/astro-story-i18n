@@ -8,7 +8,7 @@ description: "According to Hani legends, a girl from heaven took pity on mortals
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
+![AstroPaper I18n](/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El jefe de gobierno acusó falsamente al chef Zaxi Wangdui de desa
 
 
 
-![AstroPaper I18n](/public/the-cook-zhaxi-wangdui-grows-pearls.png)
+![AstroPaper I18n](/the-cook-zhaxi-wangdui-grows-pearls.png)
 
 
 

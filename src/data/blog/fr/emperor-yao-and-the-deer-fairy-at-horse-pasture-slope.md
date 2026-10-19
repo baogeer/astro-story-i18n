@@ -8,7 +8,7 @@ description: "Lors d'une visite à Mumapo, Di Yao a appris que la fée des cerfs
 
 
 
-![AstroPaper I18n](/public/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
+![AstroPaper I18n](/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
 
 
 

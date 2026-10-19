@@ -8,7 +8,7 @@ description: "في ليلة مهرجان منتصف الخريف في عهد أ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moon-cassia-peak.png)
+![AstroPaper I18n](/the-legend-of-moon-cassia-peak.png)
 
 
 

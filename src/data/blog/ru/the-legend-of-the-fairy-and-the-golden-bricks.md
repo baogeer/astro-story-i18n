@@ -8,7 +8,7 @@ description: "Фея пообещала выйти замуж в год ката
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fairy-and-the-golden-bricks.png)
+![AstroPaper I18n](/the-legend-of-the-fairy-and-the-golden-bricks.png)
 
 
 

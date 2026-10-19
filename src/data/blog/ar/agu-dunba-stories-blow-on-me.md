@@ -8,7 +8,7 @@ description: "كان أغوتومبا خادمًا شابًا، وكان الق�
 
 
 
-![AstroPaper I18n](/public/agu-dunba-stories-blow-on-me.png)
+![AstroPaper I18n](/agu-dunba-stories-blow-on-me.png)
 
 
 

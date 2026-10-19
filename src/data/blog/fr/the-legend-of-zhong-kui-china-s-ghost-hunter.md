@@ -8,7 +8,7 @@ description: "Zhong Kui était à l'origine un chasseur de fantômes sous la dyn
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
+![AstroPaper I18n](/the-legend-of-zhong-kui-china-s-ghost-hunter.png)
 
 
 

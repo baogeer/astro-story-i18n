@@ -8,7 +8,7 @@ description: "Su Shi's predecessor was rumored to be the Five Ancestors, and he 
 
 
 
-![AstroPaper I18n](/public/the-past-and-future-incarnations-of-su-shi.png)
+![AstroPaper I18n](/the-past-and-future-incarnations-of-su-shi.png)
 
 
 

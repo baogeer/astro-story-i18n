@@ -8,7 +8,7 @@ description: "Un hombre pobre de apellido Liao le pidió a Lin Banxian que consi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seven-cranes-and-the-golden-basin.png)
+![AstroPaper I18n](/the-legend-of-the-seven-cranes-and-the-golden-basin.png)
 
 
 

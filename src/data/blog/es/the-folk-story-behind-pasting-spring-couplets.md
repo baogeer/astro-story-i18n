@@ -8,7 +8,7 @@ description: "Los hermanos Kamida y Yulei protegen el melocotonero de la montañ
 
 
 
-![AstroPaper I18n](/public/the-folk-story-behind-pasting-spring-couplets.png)
+![AstroPaper I18n](/the-folk-story-behind-pasting-spring-couplets.png)
 
 
 

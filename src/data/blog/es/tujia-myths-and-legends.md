@@ -8,7 +8,7 @@ description: "Los mitos y leyendas de la familia Tujia incluyen historias como l
 
 
 
-![AstroPaper I18n](/public/tujia-myths-and-legends.png)
+![AstroPaper I18n](/tujia-myths-and-legends.png)
 
 
 

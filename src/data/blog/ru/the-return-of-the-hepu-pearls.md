@@ -8,7 +8,7 @@ description: "Жемчуг изобилует на побережье Хепу. 
 
 
 
-![AstroPaper I18n](/public/the-return-of-the-hepu-pearls.png)
+![AstroPaper I18n](/the-return-of-the-hepu-pearls.png)
 
 
 

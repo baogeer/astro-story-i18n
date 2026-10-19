@@ -8,7 +8,7 @@ description: "La erudita Qin Zhenyou perdió el rumbo y se perdió en la fuente 
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-refused-the-fountain-of-youth.png)
+![AstroPaper I18n](/the-scholar-who-refused-the-fountain-of-youth.png)
 
 
 

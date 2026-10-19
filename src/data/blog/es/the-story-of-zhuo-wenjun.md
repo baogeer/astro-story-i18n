@@ -8,7 +8,7 @@ description: "Zhuo Wenjun, una talentosa mujer de la dinastía Han, acaba de env
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhuo-wenjun.png)
+![AstroPaper I18n](/the-story-of-zhuo-wenjun.png)
 
 
 

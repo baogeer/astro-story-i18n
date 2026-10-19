@@ -8,7 +8,7 @@ description: "L'impératrice douairière Lou du Qi du Nord a donné naissance à
 
 
 
-![AstroPaper I18n](/public/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
+![AstroPaper I18n](/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
 
 
 

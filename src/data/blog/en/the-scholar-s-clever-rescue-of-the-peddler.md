@@ -8,7 +8,7 @@ description: "At the end of the Qing dynasty, Yao Genping, who sold tofu, was wr
 
 
 
-![AstroPaper I18n](/public/the-scholar-s-clever-rescue-of-the-peddler.png)
+![AstroPaper I18n](/the-scholar-s-clever-rescue-of-the-peddler.png)
 
 
 

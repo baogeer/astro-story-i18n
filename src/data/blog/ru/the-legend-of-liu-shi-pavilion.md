@@ -8,7 +8,7 @@ description: "В конце правления династии Суй дево�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-liu-shi-pavilion.png)
 
 
 

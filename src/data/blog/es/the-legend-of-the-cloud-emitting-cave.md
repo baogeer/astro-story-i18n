@@ -8,7 +8,7 @@ description: "Taijin Jinxing Li Changgeng hizo Xian Dan en la montaña Shimen. D
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-emitting-cave.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-emitting-cave.png)
 
 
 

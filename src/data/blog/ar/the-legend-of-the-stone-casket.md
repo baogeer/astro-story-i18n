@@ -8,7 +8,7 @@ description: "عندما ضحى تانغ وانغ ولي شيمين بأسلاف
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-stone-casket.png)
+![AstroPaper I18n](/the-legend-of-the-stone-casket.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un sirviente del templo Koroku-ji se encontró con un hada zorro p
 
 
 
-![AstroPaper I18n](/public/the-servant-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-servant-and-the-fox-spirit.png)
 
 
 

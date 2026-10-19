@@ -8,7 +8,7 @@ description: "Pu Songling a reçu le message «xa0Please Eat Half Luxa0» du Pre
 
 
 
-![AstroPaper I18n](/public/pu-songling-and-the-half-lu-banquet.png)
+![AstroPaper I18n](/pu-songling-and-the-half-lu-banquet.png)
 
 
 

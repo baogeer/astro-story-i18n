@@ -8,7 +8,7 @@ description: "سخر الملك لو من معبد نو وا بقصيدة أغض
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-of-panlong-mountain.png)
+![AstroPaper I18n](/the-fox-maiden-of-panlong-mountain.png)
 
 
 

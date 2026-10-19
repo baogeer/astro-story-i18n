@@ -8,7 +8,7 @@ description: "Yizhou Sang Sheng vit seule et a rencontré la renarde Lianxiang e
 
 
 
-![AstroPaper I18n](/public/the-story-of-lianxiang.png)
+![AstroPaper I18n](/the-story-of-lianxiang.png)
 
 
 

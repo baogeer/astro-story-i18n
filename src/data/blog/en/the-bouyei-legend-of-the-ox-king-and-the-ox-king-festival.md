@@ -8,7 +8,7 @@ description: "After Ah Niu found the sacred cow, the leader tested him three tim
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-ox-king-and-the-ox-king-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-ox-king-and-the-ox-king-festival.png)
 
 
 

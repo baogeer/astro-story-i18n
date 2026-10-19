@@ -8,7 +8,7 @@ description: "Lu Bicheng هي امرأة شابة في أواخر عهد أسر�
 
 
 
-![AstroPaper I18n](/public/lu-bicheng-a-life-like-water-and-moon.png)
+![AstroPaper I18n](/lu-bicheng-a-life-like-water-and-moon.png)
 
 
 

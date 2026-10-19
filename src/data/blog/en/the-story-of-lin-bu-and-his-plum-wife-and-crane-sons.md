@@ -8,7 +8,7 @@ description: "Lin Yi lives in seclusion in Xiaogu Mountain in the West Lake. He 
 
 
 
-![AstroPaper I18n](/public/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
+![AstroPaper I18n](/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
 
 
 

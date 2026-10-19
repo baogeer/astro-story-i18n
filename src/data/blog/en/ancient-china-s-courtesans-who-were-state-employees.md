@@ -8,7 +8,7 @@ description: "Ancient prostitutes were divided into five categories. Palace pros
 
 
 
-![AstroPaper I18n](/public/ancient-china-s-courtesans-who-were-state-employees.png)
+![AstroPaper I18n](/ancient-china-s-courtesans-who-were-state-employees.png)
 
 
 

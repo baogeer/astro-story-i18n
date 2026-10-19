@@ -8,7 +8,7 @@ description: "La montaña de media pantalla de Taiwán tiene forma de cuchillo. 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain.png)
 
 
 

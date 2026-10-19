@@ -8,7 +8,7 @@ description: "Lan Caihe is one of the Eight Immortals. She often wears broken cl
 
 
 
-![AstroPaper I18n](/public/lan-caihe-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/lan-caihe-one-of-the-eight-immortals.png)
 
 
 

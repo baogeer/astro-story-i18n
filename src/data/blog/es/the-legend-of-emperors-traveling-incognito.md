@@ -8,7 +8,7 @@ description: "En lugares como Yunlin y Chiayi en Taiwán se difunden leyendas de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-emperors-traveling-incognito.png)
+![AstroPaper I18n](/the-legend-of-emperors-traveling-incognito.png)
 
 
 

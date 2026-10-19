@@ -8,7 +8,7 @@ description: "Лу Да пообещал пригласить живого че�
 
 
 
-![AstroPaper I18n](/public/how-lu-da-tricked-the-sea-dragon-king-three-times.png)
+![AstroPaper I18n](/how-lu-da-tricked-the-sea-dragon-king-three-times.png)
 
 
 

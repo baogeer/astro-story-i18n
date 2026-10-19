@@ -8,7 +8,7 @@ description: "En la antigua China surgieron once generales destacados para lucha
 
 
 
-![AstroPaper I18n](/public/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
+![AstroPaper I18n](/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
 
 
 

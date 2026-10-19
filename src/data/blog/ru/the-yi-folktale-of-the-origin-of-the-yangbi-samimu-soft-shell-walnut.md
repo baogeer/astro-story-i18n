@@ -8,7 +8,7 @@ description: "Во время выпаса скота сестёр И получ
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
 
 
 

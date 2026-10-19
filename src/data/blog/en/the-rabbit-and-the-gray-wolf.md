@@ -8,7 +8,7 @@ description: "Male goats and rams met wolves on their way to Salt Lake. The shee
 
 
 
-![AstroPaper I18n](/public/the-rabbit-and-the-gray-wolf.png)
+![AstroPaper I18n](/the-rabbit-and-the-gray-wolf.png)
 
 
 

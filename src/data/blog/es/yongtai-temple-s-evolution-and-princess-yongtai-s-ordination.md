@@ -8,7 +8,7 @@ description: "La princesa Yongtai del norte de Wei se hizo monja en Songshan por
 
 
 
-![AstroPaper I18n](/public/yongtai-temple-s-evolution-and-princess-yongtai-s-ordination.png)
+![AstroPaper I18n](/yongtai-temple-s-evolution-and-princess-yongtai-s-ordination.png)
 
 
 

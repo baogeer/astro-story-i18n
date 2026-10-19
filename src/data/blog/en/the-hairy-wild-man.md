@@ -8,7 +8,7 @@ description: "The Mao savage robbed the beautiful girl as his wife, and the magp
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man.png)
+![AstroPaper I18n](/the-hairy-wild-man.png)
 
 
 

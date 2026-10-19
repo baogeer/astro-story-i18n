@@ -8,7 +8,7 @@ description: "После смерти родителей старший брат
 
 
 
-![AstroPaper I18n](/public/the-story-of-selling-fragrant-farts.png)
+![AstroPaper I18n](/the-story-of-selling-fragrant-farts.png)
 
 
 

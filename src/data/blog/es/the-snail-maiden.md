@@ -8,7 +8,7 @@ description: "El joven granjero encontró un caracol de campo y lo guardó en un
 
 
 
-![AstroPaper I18n](/public/the-snail-maiden.png)
+![AstroPaper I18n](/the-snail-maiden.png)
 
 
 

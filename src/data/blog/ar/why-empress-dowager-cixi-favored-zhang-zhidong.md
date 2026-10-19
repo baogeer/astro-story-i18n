@@ -8,7 +8,7 @@ description: "لم يتمكن تشانغ تشيدونغ، وهو مراهق، م
 
 
 
-![AstroPaper I18n](/public/why-empress-dowager-cixi-favored-zhang-zhidong.png)
+![AstroPaper I18n](/why-empress-dowager-cixi-favored-zhang-zhidong.png)
 
 
 

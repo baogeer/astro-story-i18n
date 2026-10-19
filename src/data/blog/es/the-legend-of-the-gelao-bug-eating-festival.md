@@ -8,7 +8,7 @@ description: "La antigua montaña de Yilao estaba plagada año tras año, y la a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-gelao-bug-eating-festival.png)
+![AstroPaper I18n](/the-legend-of-the-gelao-bug-eating-festival.png)
 
 
 

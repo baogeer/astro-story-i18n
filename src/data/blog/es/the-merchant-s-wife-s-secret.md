@@ -8,7 +8,7 @@ description: "El empresario sospechó que su esposa le había sido infiel y su a
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-s-secret.png)
+![AstroPaper I18n](/the-merchant-s-wife-s-secret.png)
 
 
 

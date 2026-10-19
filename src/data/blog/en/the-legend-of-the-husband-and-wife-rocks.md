@@ -8,7 +8,7 @@ description: "Huaxian Mountain Hexiang Xia Fan fell in love with beekeeper Tian 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-husband-and-wife-rocks.png)
+![AstroPaper I18n](/the-legend-of-the-husband-and-wife-rocks.png)
 
 
 

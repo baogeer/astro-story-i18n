@@ -8,7 +8,7 @@ description: "Yu Long et Jin Feng ont transformé Puyu en perle. Après que la m
 
 
 
-![AstroPaper I18n](/public/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
+![AstroPaper I18n](/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
 
 
 

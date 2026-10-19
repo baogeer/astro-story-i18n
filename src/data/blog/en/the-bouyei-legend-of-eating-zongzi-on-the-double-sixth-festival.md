@@ -8,7 +8,7 @@ description: "At the end of the Ming dynasty, the Buyei ethnic group in Biantan 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
 
 
 

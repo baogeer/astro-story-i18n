@@ -8,7 +8,7 @@ description: "Qiantang Jiang Caolong saved the people and wanted to kill the emp
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jade-spring.png)
+![AstroPaper I18n](/the-legend-of-jade-spring.png)
 
 
 

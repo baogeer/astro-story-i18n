@@ -8,7 +8,7 @@ description: "Wu Tang proviene de un entorno pobre y es un funcionario limpio. P
 
 
 
-![AstroPaper I18n](/public/the-story-of-wu-tang.png)
+![AstroPaper I18n](/the-story-of-wu-tang.png)
 
 
 

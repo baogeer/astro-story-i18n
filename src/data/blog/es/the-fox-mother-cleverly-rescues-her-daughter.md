@@ -8,7 +8,7 @@ description: "Orion Huang Laohan capturó a Little Fox para vender piel. Para sa
 
 
 
-![AstroPaper I18n](/public/the-fox-mother-cleverly-rescues-her-daughter.png)
+![AstroPaper I18n](/the-fox-mother-cleverly-rescues-her-daughter.png)
 
 
 

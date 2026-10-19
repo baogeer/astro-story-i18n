@@ -8,7 +8,7 @@ description: "Zhang Sanfeng était taoïste pendant la dynastie Yuan Ming. Il es
 
 
 
-![AstroPaper I18n](/public/the-real-zhang-sanfeng-miraculously-revived-in-his-coffin.png)
+![AstroPaper I18n](/the-real-zhang-sanfeng-miraculously-revived-in-his-coffin.png)
 
 
 

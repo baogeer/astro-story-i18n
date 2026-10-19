@@ -8,7 +8,7 @@ description: "Al final de la dinastía Tang, Ying Gu se enamoró de Han Fu. Los 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-maiden-mountain.png)
+![AstroPaper I18n](/the-legend-of-maiden-mountain.png)
 
 
 

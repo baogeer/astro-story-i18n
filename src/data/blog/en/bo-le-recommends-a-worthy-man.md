@@ -8,7 +8,7 @@ description: "Bole is old and recommended his friend Jiufang Gaozongma to Qin Mu
 
 
 
-![AstroPaper I18n](/public/bo-le-recommends-a-worthy-man.png)
+![AstroPaper I18n](/bo-le-recommends-a-worthy-man.png)
 
 
 

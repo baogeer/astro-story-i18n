@@ -8,7 +8,7 @@ description: "أصبح لو يو من جنوب سونغ وتانغ وان تشي
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
+![AstroPaper I18n](/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
 
 
 

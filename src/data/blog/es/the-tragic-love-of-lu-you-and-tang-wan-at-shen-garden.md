@@ -8,7 +8,7 @@ description: "Lu You de Southern Song y Tang Wan Qingmei se casaron, y Lu Mu los
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
+![AstroPaper I18n](/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
 
 
 

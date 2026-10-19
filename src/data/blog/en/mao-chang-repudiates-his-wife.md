@@ -8,7 +8,7 @@ description: "Mao Yi sorted out the “Shijing” in Hejian. His life was diffic
 
 
 
-![AstroPaper I18n](/public/mao-chang-repudiates-his-wife.png)
+![AstroPaper I18n](/mao-chang-repudiates-his-wife.png)
 
 
 

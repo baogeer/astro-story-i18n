@@ -8,7 +8,7 @@ description: "Tres niñas de Maonan se enamoraron de la tierra de los jóvenes Z
 
 
 
-![AstroPaper I18n](/public/the-tale-of-sanniang-and-tudi.png)
+![AstroPaper I18n](/the-tale-of-sanniang-and-tudi.png)
 
 
 

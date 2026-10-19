@@ -8,7 +8,7 @@ description: "Работая с Ли Ю, Сяо Фэй познакомился 
 
 
 
-![AstroPaper I18n](/public/a-day-laborer-s-lucky-encounter.png)
+![AstroPaper I18n](/a-day-laborer-s-lucky-encounter.png)
 
 
 

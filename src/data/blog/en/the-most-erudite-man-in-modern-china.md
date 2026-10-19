@@ -8,7 +8,7 @@ description: "Gu Hongming studied China and the West. He has successively studie
 
 
 
-![AstroPaper I18n](/public/the-most-erudite-man-in-modern-china.png)
+![AstroPaper I18n](/the-most-erudite-man-in-modern-china.png)
 
 
 

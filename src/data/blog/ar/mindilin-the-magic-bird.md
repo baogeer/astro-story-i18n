@@ -8,7 +8,7 @@ description: "تم تأطير الأميرة التبتية من قبل خادم
 
 
 
-![AstroPaper I18n](/public/mindilin-the-magic-bird.png)
+![AstroPaper I18n](/mindilin-the-magic-bird.png)
 
 
 

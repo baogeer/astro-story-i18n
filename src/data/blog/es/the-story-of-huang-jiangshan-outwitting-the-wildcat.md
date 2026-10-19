@@ -8,7 +8,7 @@ description: "Para vengar a su hermano, la gata salvaje fingió hacerse amiga de
 
 
 
-![AstroPaper I18n](/public/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
+![AstroPaper I18n](/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
 
 
 

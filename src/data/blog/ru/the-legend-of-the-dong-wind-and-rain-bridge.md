@@ -8,7 +8,7 @@ description: "Когда Бука, потомок племени Донг, пе�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-wind-and-rain-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-dong-wind-and-rain-bridge.png)
 
 
 

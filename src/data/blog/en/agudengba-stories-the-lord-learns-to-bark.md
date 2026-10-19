@@ -8,7 +8,7 @@ description: "Agutomba made a bet with the serf that the lord would learn how to
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-lord-learns-to-bark.png)
+![AstroPaper I18n](/agudengba-stories-the-lord-learns-to-bark.png)
 
 
 

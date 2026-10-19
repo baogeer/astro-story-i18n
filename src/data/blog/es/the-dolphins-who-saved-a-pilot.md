@@ -8,7 +8,7 @@ description: "El piloto holandés Fick se lanzó en paracaídas al mar y fue ase
 
 
 
-![AstroPaper I18n](/public/the-dolphins-who-saved-a-pilot.png)
+![AstroPaper I18n](/the-dolphins-who-saved-a-pilot.png)
 
 
 

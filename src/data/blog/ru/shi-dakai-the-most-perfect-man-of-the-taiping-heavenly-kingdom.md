@@ -8,7 +8,7 @@ description: "Ши Дакай — король Тайпина. Он молодо
 
 
 
-![AstroPaper I18n](/public/shi-dakai-the-most-perfect-man-of-the-taiping-heavenly-kingdom.png)
+![AstroPaper I18n](/shi-dakai-the-most-perfect-man-of-the-taiping-heavenly-kingdom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dos dragones jóvenes se divierten en el lago Hongze desde el mar 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-paired-dragons.png)
+![AstroPaper I18n](/the-origin-of-the-paired-dragons.png)
 
 
 

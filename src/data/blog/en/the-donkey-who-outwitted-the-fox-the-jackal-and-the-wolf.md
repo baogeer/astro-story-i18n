@@ -8,7 +8,7 @@ description: "Donkeys were abandoned in the wilderness by their owners. When the
 
 
 
-![AstroPaper I18n](/public/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
+![AstroPaper I18n](/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Голодная лиса, окрашенная в синий цв
 
 
 
-![AstroPaper I18n](/public/the-blue-fox-who-became-king.png)
+![AstroPaper I18n](/the-blue-fox-who-became-king.png)
 
 
 

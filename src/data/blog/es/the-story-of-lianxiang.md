@@ -8,7 +8,7 @@ description: "Yizhou Sang Sheng vive solo y ha conocido a la niña zorro Lianxia
 
 
 
-![AstroPaper I18n](/public/the-story-of-lianxiang.png)
+![AstroPaper I18n](/the-story-of-lianxiang.png)
 
 
 

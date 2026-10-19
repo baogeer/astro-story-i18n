@@ -8,7 +8,7 @@ description: "Монгольский фольклор хранит богаты�
 
 
 
-![AstroPaper I18n](/public/mongolian-folk-legends-totem-myths.png)
+![AstroPaper I18n](/mongolian-folk-legends-totem-myths.png)
 
 
 

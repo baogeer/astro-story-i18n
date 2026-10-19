@@ -8,7 +8,7 @@ description: "Тан Ицзун умерла из-за любви к дочер�
 
 
 
-![AstroPaper I18n](/public/the-injustice-after-princess-tongchang-s-death.png)
+![AstroPaper I18n](/the-injustice-after-princess-tongchang-s-death.png)
 
 
 

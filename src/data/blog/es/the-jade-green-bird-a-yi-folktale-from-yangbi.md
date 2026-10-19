@@ -8,7 +8,7 @@ description: "El padre Lu Gan está gravemente enfermo. Su hermana gemela, Lu Ca
 
 
 
-![AstroPaper I18n](/public/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
 
 
 

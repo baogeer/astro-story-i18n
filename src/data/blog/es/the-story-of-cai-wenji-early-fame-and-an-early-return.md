@@ -8,7 +8,7 @@ description: "Tsai Wen-ji era inteligente desde niña. No dominaba el piano, el 
 
 
 
-![AstroPaper I18n](/public/the-story-of-cai-wenji-early-fame-and-an-early-return.png)
+![AstroPaper I18n](/the-story-of-cai-wenji-early-fame-and-an-early-return.png)
 
 
 

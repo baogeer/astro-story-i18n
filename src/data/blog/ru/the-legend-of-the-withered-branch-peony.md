@@ -8,7 +8,7 @@ description: "В конце правления Северной династии
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-withered-branch-peony.png)
 
 
 

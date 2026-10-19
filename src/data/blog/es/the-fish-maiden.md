@@ -8,7 +8,7 @@ description: "El pescador Tofu fue objeto de burlas por romper la red y capturó
 
 
 
-![AstroPaper I18n](/public/the-fish-maiden.png)
+![AstroPaper I18n](/the-fish-maiden.png)
 
 
 

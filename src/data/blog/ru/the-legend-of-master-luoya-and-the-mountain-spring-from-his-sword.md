@@ -8,7 +8,7 @@ description: "Г-н Луоя отдохнул в Хуанцзяньлине, п�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
+![AstroPaper I18n](/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
 
 
 

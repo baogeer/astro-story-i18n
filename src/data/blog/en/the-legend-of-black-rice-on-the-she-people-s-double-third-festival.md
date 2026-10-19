@@ -8,7 +8,7 @@ description: "The mountain owner stole the grain, and Lan Tianfeng took back the
 
 
 
-![AstroPaper I18n](/public/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
 
 
 

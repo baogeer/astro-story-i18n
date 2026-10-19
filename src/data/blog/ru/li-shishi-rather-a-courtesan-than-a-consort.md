@@ -8,7 +8,7 @@ description: "Столкнувшись с возможностью войти в
 
 
 
-![AstroPaper I18n](/public/li-shishi-rather-a-courtesan-than-a-consort.png)
+![AstroPaper I18n](/li-shishi-rather-a-courtesan-than-a-consort.png)
 
 
 

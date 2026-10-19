@@ -8,7 +8,7 @@ description: "Yuanzai Tang Ling, Beitou, Taipei. La fée est devenue un vieil ho
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-s-rice-ball-test.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-s-rice-ball-test.png)
 
 
 

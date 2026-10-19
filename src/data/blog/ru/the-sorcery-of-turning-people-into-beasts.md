@@ -8,7 +8,7 @@ description: "В отеле «Янчжоу» один человек прине�
 
 
 
-![AstroPaper I18n](/public/the-sorcery-of-turning-people-into-beasts.png)
+![AstroPaper I18n](/the-sorcery-of-turning-people-into-beasts.png)
 
 
 

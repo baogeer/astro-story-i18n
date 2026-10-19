@@ -8,7 +8,7 @@ description: "بعد هزيمة ليانغشان، اختبأت هو سانني�
 
 
 
-![AstroPaper I18n](/public/the-black-peony.png)
+![AstroPaper I18n](/the-black-peony.png)
 
 
 

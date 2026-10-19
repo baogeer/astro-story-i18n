@@ -8,7 +8,7 @@ description: "Under the Han dynasty's heavy employment culture, Cao Cao's famous
 
 
 
-![AstroPaper I18n](/public/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
+![AstroPaper I18n](/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
 
 
 

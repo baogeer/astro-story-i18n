@@ -8,7 +8,7 @@ description: "Legend has it that there is a rabbit as white as jade in Tsukimiya
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-pounding-medicine.png)
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La maldad del Dragón Negro hizo que el lago se secara, pero cuand
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-cave.png)
+![AstroPaper I18n](/the-white-dragon-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Qing, l'impératrice douairière Cixi vou
 
 
 
-![AstroPaper I18n](/public/cixi-and-the-winter-peonies.png)
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
 
 
 

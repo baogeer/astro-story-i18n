@@ -8,7 +8,7 @@ description: "Qinglong y Red Dragon est√°n a cargo del agua y el fuego. El Drag√
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-azure-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-azure-dragon.png)
 
 
 

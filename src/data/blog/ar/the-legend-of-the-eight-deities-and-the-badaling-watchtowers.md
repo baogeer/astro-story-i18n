@@ -8,7 +8,7 @@ description: "شكلت الآلهة الثمانية ثمانية أرصفة ح�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-eight-deities-and-the-badaling-watchtowers.png)
+![AstroPaper I18n](/the-legend-of-the-eight-deities-and-the-badaling-watchtowers.png)
 
 
 

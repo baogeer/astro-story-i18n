@@ -8,7 +8,7 @@ description: "Принцу Сюю было поручено вернуть пр�
 
 
 
-![AstroPaper I18n](/public/the-monkey-hero.png)
+![AstroPaper I18n](/the-monkey-hero.png)
 
 
 

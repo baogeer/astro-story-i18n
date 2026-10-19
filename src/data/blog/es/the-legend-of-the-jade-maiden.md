@@ -8,7 +8,7 @@ description: "El viejo cantero encontró jade con lanolina y lo talló en una he
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-jade-maiden.png)
 
 
 

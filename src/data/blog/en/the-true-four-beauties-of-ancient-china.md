@@ -8,7 +8,7 @@ description: "The author questioned that most of the four traditional beauties b
 
 
 
-![AstroPaper I18n](/public/the-true-four-beauties-of-ancient-china.png)
+![AstroPaper I18n](/the-true-four-beauties-of-ancient-china.png)
 
 
 

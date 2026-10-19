@@ -8,7 +8,7 @@ description: "Selon la légende de la pivoine nocturne de Kunshan, la première 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-kunshan-night-glow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-kunshan-night-glow-peony.png)
 
 
 

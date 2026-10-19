@@ -8,7 +8,7 @@ description: "December 8 of the lunar calendar is Laba Festival, and there is a 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-laba-festival-and-laba-porridge.png)
+![AstroPaper I18n](/the-legend-of-the-laba-festival-and-laba-porridge.png)
 
 
 

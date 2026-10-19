@@ -8,7 +8,7 @@ description: "Императрица Сяо — дочь императора Ю
 
 
 
-![AstroPaper I18n](/public/the-enchanting-empress-xiao-of-the-great-sui-dynasty.png)
+![AstroPaper I18n](/the-enchanting-empress-xiao-of-the-great-sui-dynasty.png)
 
 
 

@@ -8,7 +8,7 @@ description: "L'ancêtre de Buyi, Buje, montait au ciel à cheval et sur des mû
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-buyi-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-buyi-bronze-drum.png)
 
 
 

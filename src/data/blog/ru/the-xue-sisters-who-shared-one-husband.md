@@ -8,7 +8,7 @@ description: "Сестры Лан Ин и Хуэй Ин из семьи Гусу
 
 
 
-![AstroPaper I18n](/public/the-xue-sisters-who-shared-one-husband.png)
+![AstroPaper I18n](/the-xue-sisters-who-shared-one-husband.png)
 
 
 

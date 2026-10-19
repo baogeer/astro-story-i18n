@@ -8,7 +8,7 @@ description: "Dong Yong, qui a été vendue par les Sept Fées pour aider à ent
 
 
 
-![AstroPaper I18n](/public/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
+![AstroPaper I18n](/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
 
 
 

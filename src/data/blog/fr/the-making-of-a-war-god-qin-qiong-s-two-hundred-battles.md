@@ -8,7 +8,7 @@ description: "Qin Qiong venait d'un milieu pauvre et était célèbre pour son c
 
 
 
-![AstroPaper I18n](/public/the-making-of-a-war-god-qin-qiong-s-two-hundred-battles.png)
+![AstroPaper I18n](/the-making-of-a-war-god-qin-qiong-s-two-hundred-battles.png)
 
 
 

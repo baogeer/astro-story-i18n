@@ -8,7 +8,7 @@ description: "اشتهرت هونغ هونغ هونغ، مومس البوب من
 
 
 
-![AstroPaper I18n](/public/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
+![AstroPaper I18n](/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
 
 
 

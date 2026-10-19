@@ -8,7 +8,7 @@ description: "Durante el período Yongzheng de la dinastía Qing, Lu Liuliang fu
 
 
 
-![AstroPaper I18n](/public/the-snowstorm-theft-of-loyal-bones.png)
+![AstroPaper I18n](/the-snowstorm-theft-of-loyal-bones.png)
 
 
 

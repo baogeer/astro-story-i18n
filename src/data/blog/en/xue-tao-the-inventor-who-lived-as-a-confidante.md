@@ -8,7 +8,7 @@ description: "Xue Tao was a female poet and official prostitute from the Tang Dy
 
 
 
-![AstroPaper I18n](/public/xue-tao-the-inventor-who-lived-as-a-confidante.png)
+![AstroPaper I18n](/xue-tao-the-inventor-who-lived-as-a-confidante.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le petit Huanglong s'est échappé de la grotte de Ziyun et est de
 
 
 
-![AstroPaper I18n](/public/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
+![AstroPaper I18n](/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Nine out of the twelve sons of the Emperor were sent to be the sun
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hou-yi-shooting-down-nine-suns.png)
+![AstroPaper I18n](/the-legend-of-hou-yi-shooting-down-nine-suns.png)
 
 
 

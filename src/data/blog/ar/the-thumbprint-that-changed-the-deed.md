@@ -8,7 +8,7 @@ description: "تولى يانغ سيان، وهو أحد المتقاضين في
 
 
 
-![AstroPaper I18n](/public/the-thumbprint-that-changed-the-deed.png)
+![AstroPaper I18n](/the-thumbprint-that-changed-the-deed.png)
 
 
 

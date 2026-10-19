@@ -8,7 +8,7 @@ description: "В древние времена правила игры в дар
 
 
 
-![AstroPaper I18n](/public/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
+![AstroPaper I18n](/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
 
 
 

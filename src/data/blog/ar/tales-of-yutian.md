@@ -8,7 +8,7 @@ description: "«حكاية تامادا» هي قصة شعبية قام لي ب�
 
 
 
-![AstroPaper I18n](/public/tales-of-yutian.png)
+![AstroPaper I18n](/tales-of-yutian.png)
 
 
 

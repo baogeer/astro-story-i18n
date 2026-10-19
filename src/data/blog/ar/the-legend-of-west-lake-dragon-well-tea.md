@@ -8,7 +8,7 @@ description: "عندما نزل الإمبراطور تشيان لونغ إلى 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-west-lake-dragon-well-tea.png)
 
 
 

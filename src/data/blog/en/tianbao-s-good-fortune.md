@@ -8,7 +8,7 @@ description: "Tianbao helped visitors retrieve their golden rings from the fish 
 
 
 
-![AstroPaper I18n](/public/tianbao-s-good-fortune.png)
+![AstroPaper I18n](/tianbao-s-good-fortune.png)
 
 
 

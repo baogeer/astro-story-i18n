@@ -8,7 +8,7 @@ description: "Mu Jie-zhu est une fille de Dieu. Toutes les personnes en détress
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-love-story-of-mujiezhu-and-dou-anzhu.png)
 
 
 

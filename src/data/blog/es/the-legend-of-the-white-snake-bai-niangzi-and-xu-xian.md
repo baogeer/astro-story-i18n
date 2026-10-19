@@ -8,7 +8,7 @@ description: "Bai Niang Zi era originalmente una serpiente blanca que se practic
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-bai-niangzi-and-xu-xian.png)
 
 
 

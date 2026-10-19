@@ -8,7 +8,7 @@ description: "A false legend of Mizugen confessing her family at Dragon Palace t
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ancient-dragon-pool.png)
+![AstroPaper I18n](/the-legend-of-the-ancient-dragon-pool.png)
 
 
 

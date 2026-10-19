@@ -8,7 +8,7 @@ description: "Zhu Erdan de Lingyang s'est lié d'amitié avec Lu Fan. Lu Ban a c
 
 
 
-![AstroPaper I18n](/public/the-story-of-judge-lu.png)
+![AstroPaper I18n](/the-story-of-judge-lu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أصيب تشانغ يي بين، صاحب مرهن ضميري، �
 
 
 
-![AstroPaper I18n](/public/the-revival-of-the-conscience-pawnshop.png)
+![AstroPaper I18n](/the-revival-of-the-conscience-pawnshop.png)
 
 
 

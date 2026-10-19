@@ -8,7 +8,7 @@ description: "انضم عالم أسرة سونغ مو جي إلى عائلة ج
 
 
 
-![AstroPaper I18n](/public/jin-yunu-beats-her-heartless-husband.png)
+![AstroPaper I18n](/jin-yunu-beats-her-heartless-husband.png)
 
 
 

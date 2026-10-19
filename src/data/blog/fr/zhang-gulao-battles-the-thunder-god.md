@@ -8,7 +8,7 @@ description: "Zhang Gu a été victime d'intimidation après avoir rompu avec so
 
 
 
-![AstroPaper I18n](/public/zhang-gulao-battles-the-thunder-god.png)
+![AstroPaper I18n](/zhang-gulao-battles-the-thunder-god.png)
 
 
 

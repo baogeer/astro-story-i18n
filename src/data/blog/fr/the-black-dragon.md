@@ -8,7 +8,7 @@ description: "Kier a trouvé une boule de dragon au bord du ruisseau et l'a aval
 
 
 
-![AstroPaper I18n](/public/the-black-dragon.png)
+![AstroPaper I18n](/the-black-dragon.png)
 
 
 

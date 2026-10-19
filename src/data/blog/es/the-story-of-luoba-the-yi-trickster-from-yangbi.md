@@ -8,7 +8,7 @@ description: "Roba, oriunda de la etnia Yi, es ingeniosa y divertida. Utilizó u
 
 
 
-![AstroPaper I18n](/public/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
+![AstroPaper I18n](/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
 
 
 

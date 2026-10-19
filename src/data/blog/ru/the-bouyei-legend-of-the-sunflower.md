@@ -8,7 +8,7 @@ description: "Дьявол Кака разрывает золотую цепоч
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sunflower.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sunflower.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Yi Liyi People's Torch Festival stems from two legends: a happ
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-limi-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-limi-yi-people.png)
 
 
 

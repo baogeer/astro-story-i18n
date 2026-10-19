@@ -8,7 +8,7 @@ description: "Чтобы пережить наводнение, братья и 
 
 
 
-![AstroPaper I18n](/public/the-grateful-yi-people-of-yangbi.png)
+![AstroPaper I18n](/the-grateful-yi-people-of-yangbi.png)
 
 
 

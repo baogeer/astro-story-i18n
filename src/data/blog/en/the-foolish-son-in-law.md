@@ -8,7 +8,7 @@ description: "In ancient times, Princess Jin Shengcai learned people, and teache
 
 
 
-![AstroPaper I18n](/public/the-foolish-son-in-law.png)
+![AstroPaper I18n](/the-foolish-son-in-law.png)
 
 
 

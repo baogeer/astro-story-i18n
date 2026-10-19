@@ -8,7 +8,7 @@ description: "Le festival aquatique est né des trois frères qui se sont sépar
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-shui-duan-festival.png)
+![AstroPaper I18n](/the-origin-of-the-shui-duan-festival.png)
 
 
 

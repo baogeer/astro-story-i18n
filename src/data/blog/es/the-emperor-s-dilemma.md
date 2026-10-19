@@ -8,7 +8,7 @@ description: "La visita privada de Qianlong a Jiangnan coincidió con la celebra
 
 
 
-![AstroPaper I18n](/public/the-emperor-s-dilemma.png)
+![AstroPaper I18n](/the-emperor-s-dilemma.png)
 
 
 

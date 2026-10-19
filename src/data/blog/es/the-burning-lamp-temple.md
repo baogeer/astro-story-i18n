@@ -8,7 +8,7 @@ description: "Hui Ming llevó a todos los monjes al templo de Tianning. En el ca
 
 
 
-![AstroPaper I18n](/public/the-burning-lamp-temple.png)
+![AstroPaper I18n](/the-burning-lamp-temple.png)
 
 
 

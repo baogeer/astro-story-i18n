@@ -8,7 +8,7 @@ description: "Император Хань Вэнь и император Цзи�
 
 
 
-![AstroPaper I18n](/public/the-enduring-legacy-of-the-wen-jing-era.png)
+![AstroPaper I18n](/the-enduring-legacy-of-the-wen-jing-era.png)
 
 
 

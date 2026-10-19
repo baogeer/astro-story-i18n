@@ -8,7 +8,7 @@ description: "Tras la caída de Tohoku, algunos bandidos «Mustang» y las «Ant
 
 
 
-![AstroPaper I18n](/public/the-unconventional-anti-japanese-war-when-fierce-northeastern-bandits-met-japanese-invaders.png)
+![AstroPaper I18n](/the-unconventional-anti-japanese-war-when-fierce-northeastern-bandits-met-japanese-invaders.png)
 
 
 

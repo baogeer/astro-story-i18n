@@ -8,7 +8,7 @@ description: "رافق المراهق وانغ يانغ مينغ والدته إ
 
 
 
-![AstroPaper I18n](/public/the-young-wang-yangming-outwits-the-monk.png)
+![AstroPaper I18n](/the-young-wang-yangming-outwits-the-monk.png)
 
 
 

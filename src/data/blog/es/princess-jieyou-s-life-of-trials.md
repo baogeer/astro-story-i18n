@@ -8,7 +8,7 @@ description: "El emperador Han Wu ordenó a la princesa Jieyu que se casara con 
 
 
 
-![AstroPaper I18n](/public/princess-jieyou-s-life-of-trials.png)
+![AstroPaper I18n](/princess-jieyou-s-life-of-trials.png)
 
 
 

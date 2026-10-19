@@ -8,7 +8,7 @@ description: "تقدم هذه المقالة عشرة جنرالات مشهور�
 
 
 
-![AstroPaper I18n](/public/ten-great-generals-and-statesmen-of-chinese-history.png)
+![AstroPaper I18n](/ten-great-generals-and-statesmen-of-chinese-history.png)
 
 
 

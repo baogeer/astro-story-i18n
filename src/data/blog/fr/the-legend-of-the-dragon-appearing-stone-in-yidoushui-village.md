@@ -8,7 +8,7 @@ description: "Il y a eu une sécheresse dans le village de Yidoushui et les vill
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
 
 
 

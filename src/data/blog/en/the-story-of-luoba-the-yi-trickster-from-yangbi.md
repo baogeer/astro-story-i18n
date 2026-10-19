@@ -8,7 +8,7 @@ description: "Roba, a native of the Yi ethnic group, is witty and humorous. He u
 
 
 
-![AstroPaper I18n](/public/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
+![AstroPaper I18n](/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل إضفاء البهجة على الليل، أحضرت
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-moon.png)
+![AstroPaper I18n](/the-origin-of-the-moon.png)
 
 
 

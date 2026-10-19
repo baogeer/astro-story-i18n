@@ -8,7 +8,7 @@ description: "بعد القبض على تسنغ جوفان وملك تايبين
 
 
 
-![AstroPaper I18n](/public/why-zeng-guofan-hastily-executed-li-xiucheng-loyal-king-of-the-taiping.png)
+![AstroPaper I18n](/why-zeng-guofan-hastily-executed-li-xiucheng-loyal-king-of-the-taiping.png)
 
 
 

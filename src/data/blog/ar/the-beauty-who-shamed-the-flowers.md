@@ -8,7 +8,7 @@ description: "تم انتخاب يانغ يوهوان في القصر لأنها
 
 
 
-![AstroPaper I18n](/public/the-beauty-who-shamed-the-flowers.png)
+![AstroPaper I18n](/the-beauty-who-shamed-the-flowers.png)
 
 
 

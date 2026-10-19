@@ -8,7 +8,7 @@ description: "اعتمد Guan San على رأس المال الذي سرقه ف�
 
 
 
-![AstroPaper I18n](/public/the-foot-thief.png)
+![AstroPaper I18n](/the-foot-thief.png)
 
 
 

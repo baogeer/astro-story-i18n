@@ -8,7 +8,7 @@ description: "Después de que el emperador Zhu Di de Yongle invadiera Nanjing, s
 
 
 
-![AstroPaper I18n](/public/the-talented-scholars-of-the-yongle-court.png)
+![AstroPaper I18n](/the-talented-scholars-of-the-yongle-court.png)
 
 
 

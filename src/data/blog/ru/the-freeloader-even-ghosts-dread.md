@@ -8,7 +8,7 @@ description: "Мистер Пэк Чи повсеместно жульничал
 
 
 
-![AstroPaper I18n](/public/the-freeloader-even-ghosts-dread.png)
+![AstroPaper I18n](/the-freeloader-even-ghosts-dread.png)
 
 
 

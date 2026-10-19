@@ -8,7 +8,7 @@ description: "The cowherd spent his days alone, and the weaver helped each other
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl.png)
 
 
 

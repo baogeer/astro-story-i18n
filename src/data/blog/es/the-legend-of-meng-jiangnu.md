@@ -8,7 +8,7 @@ description: "Lady Meng Jiang pasó por todas las dificultades para encontrar a 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu.png)
 
 
 

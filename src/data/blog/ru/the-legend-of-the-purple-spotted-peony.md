@@ -8,7 +8,7 @@ description: "Ши Ишоу, отшельник конца династии Ми
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-purple-spotted-peony.png)
+![AstroPaper I18n](/the-legend-of-the-purple-spotted-peony.png)
 
 
 

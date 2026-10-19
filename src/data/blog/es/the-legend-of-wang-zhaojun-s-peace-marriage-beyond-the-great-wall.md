@@ -8,7 +8,7 @@ description: "Wang Zhaojun se ofreció como voluntario para casarse con los huno
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжан Фэй продавал мясо и создал карт
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-peach-garden-oath.png)
+![AstroPaper I18n](/the-legend-of-the-peach-garden-oath.png)
 
 
 

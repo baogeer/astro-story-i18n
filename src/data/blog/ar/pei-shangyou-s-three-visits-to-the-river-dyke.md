@@ -8,7 +8,7 @@ description: "صعدت Pei Shangyou الجسر في وقت متأخر من ال�
 
 
 
-![AstroPaper I18n](/public/pei-shangyou-s-three-visits-to-the-river-dyke.png)
+![AstroPaper I18n](/pei-shangyou-s-three-visits-to-the-river-dyke.png)
 
 
 

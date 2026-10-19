@@ -8,7 +8,7 @@ description: "Когда Тан Ван и Ли Шиминь принесли с�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-stone-casket.png)
+![AstroPaper I18n](/the-legend-of-the-stone-casket.png)
 
 
 

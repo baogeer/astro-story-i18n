@@ -8,7 +8,7 @@ description: "في أسطورة هاف تيان، تعيش امرأة عجوز �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-weeping-rock-of-bantian.png)
+![AstroPaper I18n](/the-legend-of-the-weeping-rock-of-bantian.png)
 
 
 

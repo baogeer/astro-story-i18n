@@ -8,7 +8,7 @@ description: "Guan Zhongji tiene talentos sobresalientes. Después de casarse co
 
 
 
-![AstroPaper I18n](/public/the-talent-and-sorrow-of-guan-zhongji.png)
+![AstroPaper I18n](/the-talent-and-sorrow-of-guan-zhongji.png)
 
 
 

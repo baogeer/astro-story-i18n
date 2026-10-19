@@ -8,7 +8,7 @@ description: "An elderly man from Nagayama kept his buckwheat in the fall. At ni
 
 
 
-![AstroPaper I18n](/public/the-buckwheat-monster.png)
+![AstroPaper I18n](/the-buckwheat-monster.png)
 
 
 

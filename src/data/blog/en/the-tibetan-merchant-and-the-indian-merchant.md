@@ -8,7 +8,7 @@ description: "The Tibetan merchants and Indian merchants each sold counterfeit g
 
 
 
-![AstroPaper I18n](/public/the-tibetan-merchant-and-the-indian-merchant.png)
+![AstroPaper I18n](/the-tibetan-merchant-and-the-indian-merchant.png)
 
 
 

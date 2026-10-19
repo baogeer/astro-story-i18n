@@ -8,7 +8,7 @@ description: "Фэн Сяоцин изначально была дочерью �
 
 
 
-![AstroPaper I18n](/public/feng-xiaoqing-the-narcissist-who-went-to-heaven.png)
+![AstroPaper I18n](/feng-xiaoqing-the-narcissist-who-went-to-heaven.png)
 
 
 

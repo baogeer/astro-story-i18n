@@ -8,7 +8,7 @@ description: "La célibataire Wang Jinlu a demandé des soins médicaux à sa m�
 
 
 
-![AstroPaper I18n](/public/the-little-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-little-gourd-a-yangbi-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le long du fleuve Yangyi, un adolescent Yi a déterré la Perle de
 
 
 
-![AstroPaper I18n](/public/the-beach-where-a-mother-waits-for-her-dragon-son.png)
+![AstroPaper I18n](/the-beach-where-a-mother-waits-for-her-dragon-son.png)
 
 
 

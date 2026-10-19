@@ -8,7 +8,7 @@ description: "Пока племя хуаксю мигрировало, черн�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-yak.png)
+![AstroPaper I18n](/the-legend-of-the-white-yak.png)
 
 
 

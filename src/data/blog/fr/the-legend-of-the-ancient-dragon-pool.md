@@ -8,7 +8,7 @@ description: "Une fausse légende selon laquelle Mizugen aurait avoué sa famill
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ancient-dragon-pool.png)
+![AstroPaper I18n](/the-legend-of-the-ancient-dragon-pool.png)
 
 
 

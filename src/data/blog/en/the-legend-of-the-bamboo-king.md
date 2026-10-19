@@ -8,7 +8,7 @@ description: "The Legend of Bamboo King is the story of Zhusheng, a teenager fro
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king.png)
 
 
 

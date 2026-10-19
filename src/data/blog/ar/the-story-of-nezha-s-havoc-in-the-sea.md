@@ -8,7 +8,7 @@ description: "أنجبت السيدة لي جينغ مخلبًا، وقسمته�
 
 
 
-![AstroPaper I18n](/public/the-story-of-nezha-s-havoc-in-the-sea.png)
+![AstroPaper I18n](/the-story-of-nezha-s-havoc-in-the-sea.png)
 
 
 

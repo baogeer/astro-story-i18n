@@ -8,7 +8,7 @@ description: "En la antigüedad, el Rey Dragón del Mar de China Oriental encont
 
 
 
-![AstroPaper I18n](/public/the-water-of-the-heavenly-lake.png)
+![AstroPaper I18n](/the-water-of-the-heavenly-lake.png)
 
 
 

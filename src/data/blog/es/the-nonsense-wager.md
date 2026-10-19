@@ -8,7 +8,7 @@ description: "Los tres acordaron no llegar al fondo del asunto hablando trivialm
 
 
 
-![AstroPaper I18n](/public/the-nonsense-wager.png)
+![AstroPaper I18n](/the-nonsense-wager.png)
 
 
 

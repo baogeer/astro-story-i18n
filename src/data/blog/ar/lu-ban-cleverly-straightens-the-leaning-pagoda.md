@@ -8,7 +8,7 @@ description: "وفي مدينة غوسو، رأى لوبان البرج الخش
 
 
 
-![AstroPaper I18n](/public/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
+![AstroPaper I18n](/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
 
 
 

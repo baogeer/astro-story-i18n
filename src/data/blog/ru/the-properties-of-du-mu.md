@@ -8,7 +8,7 @@ description: "Ду Му родом из клана Цзинчжао Доджи, 
 
 
 
-![AstroPaper I18n](/public/the-properties-of-du-mu.png)
+![AstroPaper I18n](/the-properties-of-du-mu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В деревне Чжаолу в Цаочжоу растет ра
 
 
 
-![AstroPaper I18n](/public/the-peony-king.png)
+![AstroPaper I18n](/the-peony-king.png)
 
 
 

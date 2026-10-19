@@ -8,7 +8,7 @@ description: "La mythologie Dong «xa0Save the Sunxa0» raconte l'histoire du d�
 
 
 
-![AstroPaper I18n](/public/the-dong-myth-of-saving-the-sun.png)
+![AstroPaper I18n](/the-dong-myth-of-saving-the-sun.png)
 
 
 

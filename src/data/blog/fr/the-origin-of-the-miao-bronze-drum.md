@@ -8,7 +8,7 @@ description: "Afin d'utiliser les tambours en bronze pour le mariage, Bo Songga,
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-miao-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-miao-bronze-drum.png)
 
 
 

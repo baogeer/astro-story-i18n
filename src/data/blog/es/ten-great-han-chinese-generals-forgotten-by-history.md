@@ -8,7 +8,7 @@ description: "Si bien los diez principales generales Han, como Chen Tang, Ran Mi
 
 
 
-![AstroPaper I18n](/public/ten-great-han-chinese-generals-forgotten-by-history.png)
+![AstroPaper I18n](/ten-great-han-chinese-generals-forgotten-by-history.png)
 
 
 

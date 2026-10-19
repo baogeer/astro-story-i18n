@@ -8,7 +8,7 @@ description: "Старик из Янло охранял два огурца, а 
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-nuodezhong.png)
+![AstroPaper I18n](/the-miao-legend-of-nuodezhong.png)
 
 
 

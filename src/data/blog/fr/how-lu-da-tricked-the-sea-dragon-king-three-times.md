@@ -8,7 +8,7 @@ description: "Lu Da a promis de demander de la pluie à une personne vivante, et
 
 
 
-![AstroPaper I18n](/public/how-lu-da-tricked-the-sea-dragon-king-three-times.png)
+![AstroPaper I18n](/how-lu-da-tricked-the-sea-dragon-king-three-times.png)
 
 
 

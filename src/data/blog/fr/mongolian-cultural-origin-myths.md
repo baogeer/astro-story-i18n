@@ -8,7 +8,7 @@ description: "Dans la mythologie de l'origine de la culture mongole, les hironde
 
 
 
-![AstroPaper I18n](/public/mongolian-cultural-origin-myths.png)
+![AstroPaper I18n](/mongolian-cultural-origin-myths.png)
 
 
 

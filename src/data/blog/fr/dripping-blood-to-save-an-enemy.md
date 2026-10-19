@@ -8,7 +8,7 @@ description: "Lu Molin a été conçu et invité par les guérilleros pour soign
 
 
 
-![AstroPaper I18n](/public/dripping-blood-to-save-an-enemy.png)
+![AstroPaper I18n](/dripping-blood-to-save-an-enemy.png)
 
 
 

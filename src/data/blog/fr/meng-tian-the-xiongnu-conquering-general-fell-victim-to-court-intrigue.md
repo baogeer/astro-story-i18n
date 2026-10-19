@@ -8,7 +8,7 @@ description: "Meng Tian était issu d'une famille de généraux militaires de l'
 
 
 
-![AstroPaper I18n](/public/meng-tian-the-xiongnu-conquering-general-fell-victim-to-court-intrigue.png)
+![AstroPaper I18n](/meng-tian-the-xiongnu-conquering-general-fell-victim-to-court-intrigue.png)
 
 
 

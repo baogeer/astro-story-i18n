@@ -8,7 +8,7 @@ description: "تم حظر Cengang Bai Laolong من الماء من قبل الإ
 
 
 
-![AstroPaper I18n](/public/the-old-white-dragon-of-cengang.png)
+![AstroPaper I18n](/the-old-white-dragon-of-cengang.png)
 
 
 

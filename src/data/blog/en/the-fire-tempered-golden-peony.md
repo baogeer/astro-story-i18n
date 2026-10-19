@@ -8,7 +8,7 @@ description: "The “flower bully” of the provincial government of Caozhou len
 
 
 
-![AstroPaper I18n](/public/the-fire-tempered-golden-peony.png)
+![AstroPaper I18n](/the-fire-tempered-golden-peony.png)
 
 
 

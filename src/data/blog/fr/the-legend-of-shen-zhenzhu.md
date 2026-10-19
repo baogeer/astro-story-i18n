@@ -8,7 +8,7 @@ description: "Shen Zhenzhu a à la fois des talents et une relation de longue da
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+![AstroPaper I18n](/the-legend-of-shen-zhenzhu.png)
 
 
 

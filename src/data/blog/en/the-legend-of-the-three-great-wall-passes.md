@@ -8,7 +8,7 @@ description: "Emperor Jade saw the eldest son of Dragon King in the East China S
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-great-wall-passes.png)
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
 
 
 

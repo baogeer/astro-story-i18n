@@ -8,7 +8,7 @@ description: "تزوجت سو هوي (زي رولان)، وهي امرأة مو�
 
 
 
-![AstroPaper I18n](/public/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
+![AstroPaper I18n](/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
 
 
 

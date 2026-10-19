@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة سونغ الجنوبية، فر �
 
 
 
-![AstroPaper I18n](/public/the-loyalty-and-devotion-of-bai-yuniang.png)
+![AstroPaper I18n](/the-loyalty-and-devotion-of-bai-yuniang.png)
 
 
 

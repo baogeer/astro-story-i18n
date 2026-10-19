@@ -8,7 +8,7 @@ description: "Юный Гадан неотделим от своей жены Г
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-gongtang-lhamo.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-gongtang-lhamo.png)
 
 
 

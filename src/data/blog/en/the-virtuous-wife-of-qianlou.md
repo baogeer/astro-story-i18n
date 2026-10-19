@@ -8,7 +8,7 @@ description: "Qianlou's wife, Shi Liangdi, was originally a daughter of an arist
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife-of-qianlou.png)
+![AstroPaper I18n](/the-virtuous-wife-of-qianlou.png)
 
 
 

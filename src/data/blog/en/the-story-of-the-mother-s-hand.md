@@ -8,7 +8,7 @@ description: "This is a Yangjiao Yi folk tale. Before her death, the young wife 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mother-s-hand.png)
+![AstroPaper I18n](/the-story-of-the-mother-s-hand.png)
 
 
 

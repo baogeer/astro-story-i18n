@@ -8,7 +8,7 @@ description: "После смерти «Бога топора» Ян Ву его
 
 
 
-![AstroPaper I18n](/public/gao-he-s-magic-axe.png)
+![AstroPaper I18n](/gao-he-s-magic-axe.png)
 
 
 

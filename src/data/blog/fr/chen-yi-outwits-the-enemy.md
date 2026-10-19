@@ -8,7 +8,7 @@ description: "Chen Yi a fait venir des gardes de sécurité pour secourir les mo
 
 
 
-![AstroPaper I18n](/public/chen-yi-outwits-the-enemy.png)
+![AstroPaper I18n](/chen-yi-outwits-the-enemy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تم اختطاف الكوبية الخاصة بـ Gao Zu من ق�
 
 
 
-![AstroPaper I18n](/public/baolong-the-dog-husband.png)
+![AstroPaper I18n](/baolong-the-dog-husband.png)
 
 
 

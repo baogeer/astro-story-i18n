@@ -8,7 +8,7 @@ description: "لو فنغ نينغ مغرم بالثعابين اللذيذة. �
 
 
 
-![AstroPaper I18n](/public/the-snake-eater.png)
+![AstroPaper I18n](/the-snake-eater.png)
 
 
 

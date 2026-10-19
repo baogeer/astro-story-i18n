@@ -8,7 +8,7 @@ description: "Zhang Baobu captured Lei Gong due to the drought. Lei Gong escaped
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-flood-that-covered-the-sky.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-flood-that-covered-the-sky.png)
 
 
 

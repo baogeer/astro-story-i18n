@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Song du Nord, le général Bian, un g
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-withered-branch-peony.png)
 
 
 

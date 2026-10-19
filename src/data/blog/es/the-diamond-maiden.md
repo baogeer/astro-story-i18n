@@ -8,7 +8,7 @@ description: "Pantai, un chico pobre, salvó al jilguero gracias a su amabilidad
 
 
 
-![AstroPaper I18n](/public/the-diamond-maiden.png)
+![AstroPaper I18n](/the-diamond-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuando las mujeres de Qiang se reunieron a principios del 5 de may
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-shalang-dance.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-shalang-dance.png)
 
 
 

@@ -8,7 +8,7 @@ description: "طار تانغ شوانزونغ آلاف الأميال لحمل 
 
 
 
-![AstroPaper I18n](/public/a-rider-s-dust-and-a-concubine-s-smile.png)
+![AstroPaper I18n](/a-rider-s-dust-and-a-concubine-s-smile.png)
 
 
 

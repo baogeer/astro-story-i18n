@@ -8,7 +8,7 @@ description: "ينبع مهرجان ياو للطيور من الأضرار ال
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-bird-scaring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-bird-scaring-festival.png)
 
 
 

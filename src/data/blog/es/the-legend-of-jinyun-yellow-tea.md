@@ -8,7 +8,7 @@ description: "Cuando Xuanyuan Huangdi ascendió al cielo en el pico Dinghu en Xi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+![AstroPaper I18n](/the-legend-of-jinyun-yellow-tea.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أصيب والد Zuo Wenwei على يد يانغ تشون شنغ 
 
 
 
-![AstroPaper I18n](/public/giving-silver-to-the-man-who-beat-his-father.png)
+![AstroPaper I18n](/giving-silver-to-the-man-who-beat-his-father.png)
 
 
 

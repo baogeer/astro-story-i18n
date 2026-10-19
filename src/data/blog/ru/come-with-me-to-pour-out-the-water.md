@@ -8,7 +8,7 @@ description: "Мой сосед по комнате, Тин Тин, попрос
 
 
 
-![AstroPaper I18n](/public/come-with-me-to-pour-out-the-water.png)
+![AstroPaper I18n](/come-with-me-to-pour-out-the-water.png)
 
 
 

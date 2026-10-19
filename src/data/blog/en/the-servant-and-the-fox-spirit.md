@@ -8,7 +8,7 @@ description: "A servant at Koroku-ji Temple met a fox fairy at night. The two we
 
 
 
-![AstroPaper I18n](/public/the-servant-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-servant-and-the-fox-spirit.png)
 
 
 

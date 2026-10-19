@@ -8,7 +8,7 @@ description: "فشل نادي الزهور لوانغ إرساي. تلقى تع�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-green-peony.png)
+![AstroPaper I18n](/the-legend-of-the-green-peony.png)
 
 
 

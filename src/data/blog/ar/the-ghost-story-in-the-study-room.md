@@ -8,7 +8,7 @@ description: "التقى طالب جدير بالتقدير من جامعة ال
 
 
 
-![AstroPaper I18n](/public/the-ghost-story-in-the-study-room.png)
+![AstroPaper I18n](/the-ghost-story-in-the-study-room.png)
 
 
 

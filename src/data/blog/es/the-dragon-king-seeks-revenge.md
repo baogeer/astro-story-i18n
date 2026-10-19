@@ -8,7 +8,7 @@ description: "Zhang abrió honestamente la taberna y trató al espíritu de la t
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-seeks-revenge.png)
+![AstroPaper I18n](/the-dragon-king-seeks-revenge.png)
 
 
 

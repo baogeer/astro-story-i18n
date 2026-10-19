@@ -8,7 +8,7 @@ description: "Flower Fairy a été dévalorisée en tant que tortue par l'Empere
 
 
 
-![AstroPaper I18n](/public/the-flower-fairy-who-loved-the-mortal-world.png)
+![AstroPaper I18n](/the-flower-fairy-who-loved-the-mortal-world.png)
 
 
 

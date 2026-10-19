@@ -8,7 +8,7 @@ description: "Cuando Yao Guangxiao fundó Kioto, buscó la ayuda de los Cinco Di
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-five-fire-gods-blasting-guangou.png)
+![AstroPaper I18n](/the-legend-of-the-five-fire-gods-blasting-guangou.png)
 
 
 

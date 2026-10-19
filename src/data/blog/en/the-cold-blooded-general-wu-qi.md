@@ -8,7 +8,7 @@ description: "Wu Qi was a military man in the Warring States, and served the thr
 
 
 
-![AstroPaper I18n](/public/the-cold-blooded-general-wu-qi.png)
+![AstroPaper I18n](/the-cold-blooded-general-wu-qi.png)
 
 
 

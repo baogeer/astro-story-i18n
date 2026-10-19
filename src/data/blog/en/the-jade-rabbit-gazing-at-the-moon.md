@@ -8,7 +8,7 @@ description: "Yu Tu stole a strange place and was rescued by the hunter Ason. Th
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-gazing-at-the-moon.png)
+![AstroPaper I18n](/the-jade-rabbit-gazing-at-the-moon.png)
 
 
 

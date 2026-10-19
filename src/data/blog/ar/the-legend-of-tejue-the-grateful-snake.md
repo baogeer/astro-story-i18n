@@ -8,7 +8,7 @@ description: "في العصور القديمة، أنقذ لينغ ينغبو، 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-tejue-the-grateful-snake.png)
+![AstroPaper I18n](/the-legend-of-tejue-the-grateful-snake.png)
 
 
 

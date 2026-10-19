@@ -8,7 +8,7 @@ description: "Рыбак Мяо Бао отомстил за своего еди
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-dragon-boat-festival-in-southeastern-guizhou.png)
+![AstroPaper I18n](/the-legend-of-the-miao-dragon-boat-festival-in-southeastern-guizhou.png)
 
 
 

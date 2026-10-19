@@ -8,7 +8,7 @@ description: "Li Zicheng a contracté la peste après son entrée à Pékin et s
 
 
 
-![AstroPaper I18n](/public/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
+![AstroPaper I18n](/the-plague-that-destroyed-li-zicheng-s-million-strong-army.png)
 
 
 

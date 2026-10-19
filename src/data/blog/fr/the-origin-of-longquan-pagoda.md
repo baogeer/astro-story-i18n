@@ -8,7 +8,7 @@ description: "La légende raconte que tous les dragons blancs du comté de Tengx
 
 
 
-![AstroPaper I18n](/public/the-origin-of-longquan-pagoda.png)
+![AstroPaper I18n](/the-origin-of-longquan-pagoda.png)
 
 
 

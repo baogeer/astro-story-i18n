@@ -8,7 +8,7 @@ description: "تمردت الأميرة يو على الجنرال، وانتح�
 
 
 
-![AstroPaper I18n](/public/the-blood-red-snow-lotus.png)
+![AstroPaper I18n](/the-blood-red-snow-lotus.png)
 
 
 

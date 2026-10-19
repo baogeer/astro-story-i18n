@@ -8,7 +8,7 @@ description: "بعد دخول الأميرة ونتشنغ التبت، كان ه
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
+![AstroPaper I18n](/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
 
 
 

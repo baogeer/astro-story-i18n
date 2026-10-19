@@ -8,7 +8,7 @@ description: "Mon colocataire, Ting Ting, m'a demandé d'aller aux toilettes et 
 
 
 
-![AstroPaper I18n](/public/come-with-me-to-pour-out-the-water.png)
+![AstroPaper I18n](/come-with-me-to-pour-out-the-water.png)
 
 
 

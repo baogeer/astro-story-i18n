@@ -8,7 +8,7 @@ description: "Когда-то Феникс нормально одевался �
 
 
 
-![AstroPaper I18n](/public/how-the-phoenix-became-king-of-the-birds.png)
+![AstroPaper I18n](/how-the-phoenix-became-king-of-the-birds.png)
 
 
 

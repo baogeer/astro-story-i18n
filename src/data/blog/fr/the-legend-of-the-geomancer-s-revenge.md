@@ -8,7 +8,7 @@ description: "Pendant les ann√©es Kangxi de la dynastie Qing, des personnes ais√
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-revenge.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-revenge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Принцесса Нин Го — дочь Чжу Юаньчжа�
 
 
 
-![AstroPaper I18n](/public/the-helpless-sorrow-of-princess-ningguo.png)
+![AstroPaper I18n](/the-helpless-sorrow-of-princess-ningguo.png)
 
 
 

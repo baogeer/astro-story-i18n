@@ -8,7 +8,7 @@ description: "Bien que Lu Dongbin soit un immortel, il a une bonne couleur de vi
 
 
 
-![AstroPaper I18n](/public/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
+![AstroPaper I18n](/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
 
 
 

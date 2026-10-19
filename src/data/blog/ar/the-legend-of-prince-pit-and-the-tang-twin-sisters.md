@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة سونغ الشمالية، توف
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
+![AstroPaper I18n](/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
 
 
 

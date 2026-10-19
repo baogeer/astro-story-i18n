@@ -8,7 +8,7 @@ description: "Agutomba was a young servant, and the leader loved to brag about h
 
 
 
-![AstroPaper I18n](/public/agu-dunba-stories-blow-on-me.png)
+![AstroPaper I18n](/agu-dunba-stories-blow-on-me.png)
 
 
 

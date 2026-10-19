@@ -8,7 +8,7 @@ description: "قاد لوه تشينج جيش وا غانغ للقتال مع ح
 
 
 
-![AstroPaper I18n](/public/luo-cheng-burns-down-mengzhou-city.png)
+![AstroPaper I18n](/luo-cheng-burns-down-mengzhou-city.png)
 
 
 

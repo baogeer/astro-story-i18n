@@ -8,7 +8,7 @@ description: "Para dejar de ser un malvado dragón amarillo, Yu Gu recorrió mon
 
 
 
-![AstroPaper I18n](/public/the-carp-that-leapt-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Célèbre prostituée de Pékin, Yu Tang Chun est tombée amoureus
 
 
 
-![AstroPaper I18n](/public/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
+![AstroPaper I18n](/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Yu, anteriormente conocida como pareja inmortal, se mudó a Han
 
 
 
-![AstroPaper I18n](/public/the-many-names-of-li-yu.png)
+![AstroPaper I18n](/the-many-names-of-li-yu.png)
 
 
 

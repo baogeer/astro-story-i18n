@@ -8,7 +8,7 @@ description: "انتشرت الأساطير في أماكن مثل Yunlin و Chi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-emperors-traveling-incognito.png)
+![AstroPaper I18n](/the-legend-of-emperors-traveling-incognito.png)
 
 
 

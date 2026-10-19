@@ -8,7 +8,7 @@ description: "A los 64 años, Lu Dongbin perdió su carrera y conoció a Zhong L
 
 
 
-![AstroPaper I18n](/public/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
 
 
 

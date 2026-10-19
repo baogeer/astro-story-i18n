@@ -8,7 +8,7 @@ description: "تزوجت الأخت إر تشياو من سون تسي وتشو 
 
 
 
-![AstroPaper I18n](/public/the-qiao-sisters-lives-as-fleeting-as-summer-flowers.png)
+![AstroPaper I18n](/the-qiao-sisters-lives-as-fleeting-as-summer-flowers.png)
 
 
 

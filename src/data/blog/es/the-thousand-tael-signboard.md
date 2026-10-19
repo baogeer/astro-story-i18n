@@ -8,7 +8,7 @@ description: "El jefe Jin de Tongcheng era tacaño, y organizar un concurso de c
 
 
 
-![AstroPaper I18n](/public/the-thousand-tael-signboard.png)
+![AstroPaper I18n](/the-thousand-tael-signboard.png)
 
 
 

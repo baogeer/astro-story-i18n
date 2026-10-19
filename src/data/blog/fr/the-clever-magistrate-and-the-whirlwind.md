@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, la route de Lianli était bloquée par un t
 
 
 
-![AstroPaper I18n](/public/the-clever-magistrate-and-the-whirlwind.png)
+![AstroPaper I18n](/the-clever-magistrate-and-the-whirlwind.png)
 
 
 

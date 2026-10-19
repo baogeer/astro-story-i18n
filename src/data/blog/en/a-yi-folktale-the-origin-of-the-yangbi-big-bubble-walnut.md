@@ -8,7 +8,7 @@ description: "In order to solve the problem of the people eating oil, Yi leader 
 
 
 
-![AstroPaper I18n](/public/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
+![AstroPaper I18n](/a-yi-folktale-the-origin-of-the-yangbi-big-bubble-walnut.png)
 
 
 

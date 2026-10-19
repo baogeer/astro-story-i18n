@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Qing, la veuve taïwanaise Li Zhaoniang s
 
 
 
-![AstroPaper I18n](/public/the-lady-of-the-pandanus-tree.png)
+![AstroPaper I18n](/the-lady-of-the-pandanus-tree.png)
 
 
 

@@ -8,7 +8,7 @@ description: "When Xuanyuan Huangdi was ascended to heaven at Dinghu Peak in Xia
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+![AstroPaper I18n](/the-legend-of-jinyun-yellow-tea.png)
 
 
 

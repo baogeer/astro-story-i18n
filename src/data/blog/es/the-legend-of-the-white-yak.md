@@ -8,7 +8,7 @@ description: "Mientras la tribu Huaxiu migraba, los yaks negros extrañaban su t
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-yak.png)
+![AstroPaper I18n](/the-legend-of-the-white-yak.png)
 
 
 

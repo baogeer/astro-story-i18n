@@ -8,7 +8,7 @@ description: "Jin Yunchang has been begging alone since childhood. He secretly s
 
 
 
-![AstroPaper I18n](/public/anecdotes-of-jin-yunchang-the-late-qing-governor-of-the-western-frontier.png)
+![AstroPaper I18n](/anecdotes-of-jin-yunchang-the-late-qing-governor-of-the-western-frontier.png)
 
 
 

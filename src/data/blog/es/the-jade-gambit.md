@@ -8,7 +8,7 @@ description: "Hubo una gran sequía en Yunzhou a finales de la dinastía Qing. E
 
 
 
-![AstroPaper I18n](/public/the-jade-gambit.png)
+![AstroPaper I18n](/the-jade-gambit.png)
 
 
 

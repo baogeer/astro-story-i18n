@@ -8,7 +8,7 @@ description: "Pendant les années Yongle de la dynastie Ming, He Yuzhang, un cul
 
 
 
-![AstroPaper I18n](/public/the-hidden-pearl.png)
+![AstroPaper I18n](/the-hidden-pearl.png)
 
 
 

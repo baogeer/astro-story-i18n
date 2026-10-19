@@ -8,7 +8,7 @@ description: "Xu Shaojun, un pauvre érudit, a acheté du poisson pour le relâc
 
 
 
-![AstroPaper I18n](/public/the-carp-spirit.png)
+![AstroPaper I18n](/the-carp-spirit.png)
 
 
 

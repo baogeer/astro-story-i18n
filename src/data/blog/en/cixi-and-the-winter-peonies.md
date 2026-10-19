@@ -8,7 +8,7 @@ description: "At the end of the Qing Dynasty, Empress Dowager Cixi wanted to see
 
 
 
-![AstroPaper I18n](/public/cixi-and-the-winter-peonies.png)
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
 
 
 

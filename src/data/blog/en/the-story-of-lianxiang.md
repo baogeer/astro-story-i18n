@@ -8,7 +8,7 @@ description: "Yizhou Sang Sheng lives alone and has met the fox girl Lianxiang a
 
 
 
-![AstroPaper I18n](/public/the-story-of-lianxiang.png)
+![AstroPaper I18n](/the-story-of-lianxiang.png)
 
 
 

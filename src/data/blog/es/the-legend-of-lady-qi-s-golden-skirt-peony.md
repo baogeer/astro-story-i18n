@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que Liu Bangbing escapó a la aldea de Qijia en 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-qi-s-golden-skirt-peony.png)
+![AstroPaper I18n](/the-legend-of-lady-qi-s-golden-skirt-peony.png)
 
 
 

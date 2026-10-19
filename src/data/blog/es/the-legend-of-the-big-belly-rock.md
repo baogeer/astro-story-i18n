@@ -8,7 +8,7 @@ description: "Dadu Rock recibe su nombre por la forma de su gran barriga. Cuenta
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-big-belly-rock.png)
+![AstroPaper I18n](/the-legend-of-the-big-belly-rock.png)
 
 
 

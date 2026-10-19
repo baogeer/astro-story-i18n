@@ -8,7 +8,7 @@ description: "Hace mucho tiempo, para que el Sol y la Luna aparecieran con regul
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-moqiu-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-moqiu-festival.png)
 
 
 

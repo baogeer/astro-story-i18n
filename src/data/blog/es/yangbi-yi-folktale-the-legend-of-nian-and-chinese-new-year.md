@@ -8,7 +8,7 @@ description: "En la antigüedad, había bestias del «año» que hacían daño a
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
 
 
 

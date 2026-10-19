@@ -8,7 +8,7 @@ description: "Chang'e was originally a fairy. Because of Hou Yi's meritorious ma
 
 
 
-![AstroPaper I18n](/public/chang-e-ascends-to-heaven.png)
+![AstroPaper I18n](/chang-e-ascends-to-heaven.png)
 
 
 

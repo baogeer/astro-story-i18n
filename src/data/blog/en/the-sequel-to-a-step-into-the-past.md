@@ -8,7 +8,7 @@ description: "Xiang Yu's son, Xiang Xiaohu, fled to Yunnan. Under the pseudonym 
 
 
 
-![AstroPaper I18n](/public/the-sequel-to-a-step-into-the-past.png)
+![AstroPaper I18n](/the-sequel-to-a-step-into-the-past.png)
 
 
 

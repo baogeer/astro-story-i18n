@@ -8,7 +8,7 @@ description: "La madre de Zhang va a menudo a la casa de la madre de Li para com
 
 
 
-![AstroPaper I18n](/public/the-mothers-in-law-and-the-rooster-s-midday-crow.png)
+![AstroPaper I18n](/the-mothers-in-law-and-the-rooster-s-midday-crow.png)
 
 
 

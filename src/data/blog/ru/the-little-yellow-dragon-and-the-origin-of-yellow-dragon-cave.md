@@ -8,7 +8,7 @@ description: "Маленький Хуанлун сбежал из пещеры �
 
 
 
-![AstroPaper I18n](/public/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
+![AstroPaper I18n](/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
 
 
 

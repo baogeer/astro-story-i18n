@@ -8,7 +8,7 @@ description: "Три брата продолжают спорить о том, �
 
 
 
-![AstroPaper I18n](/public/where-is-the-fish-s-vital-spot.png)
+![AstroPaper I18n](/where-is-the-fish-s-vital-spot.png)
 
 
 

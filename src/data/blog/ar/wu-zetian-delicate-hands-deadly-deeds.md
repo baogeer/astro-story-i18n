@@ -8,7 +8,7 @@ description: "انتقلت وو تسه تيان من راهبة إلى القص�
 
 
 
-![AstroPaper I18n](/public/wu-zetian-delicate-hands-deadly-deeds.png)
+![AstroPaper I18n](/wu-zetian-delicate-hands-deadly-deeds.png)
 
 
 

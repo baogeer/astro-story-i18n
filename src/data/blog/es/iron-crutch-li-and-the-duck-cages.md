@@ -8,7 +8,7 @@ description: "Tieguai Li crió patos en el país de las maravillas de Kunlun. Qu
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-and-the-duck-cages.png)
+![AstroPaper I18n](/iron-crutch-li-and-the-duck-cages.png)
 
 
 

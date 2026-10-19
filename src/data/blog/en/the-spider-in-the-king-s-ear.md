@@ -8,7 +8,7 @@ description: "The teenager was able to understand bird language after eating kiw
 
 
 
-![AstroPaper I18n](/public/the-spider-in-the-king-s-ear.png)
+![AstroPaper I18n](/the-spider-in-the-king-s-ear.png)
 
 
 

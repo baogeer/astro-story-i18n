@@ -8,7 +8,7 @@ description: "يؤمن المنغوليون في بورياتيا بطوطم م�
 
 
 
-![AstroPaper I18n](/public/the-bull-totem-worship-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-bull-totem-worship-a-mongolian-folktale.png)
 
 
 

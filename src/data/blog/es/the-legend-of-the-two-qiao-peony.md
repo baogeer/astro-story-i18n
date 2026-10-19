@@ -8,7 +8,7 @@ description: "Para salvar a Peony destruida por Black Dragon y Black Rain, la he
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-two-qiao-peony.png)
+![AstroPaper I18n](/the-legend-of-the-two-qiao-peony.png)
 
 
 

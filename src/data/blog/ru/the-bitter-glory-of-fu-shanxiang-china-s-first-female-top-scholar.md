@@ -8,7 +8,7 @@ description: "Тайпин Тяньго открыл первый женский
 
 
 
-![AstroPaper I18n](/public/the-bitter-glory-of-fu-shanxiang-china-s-first-female-top-scholar.png)
+![AstroPaper I18n](/the-bitter-glory-of-fu-shanxiang-china-s-first-female-top-scholar.png)
 
 
 

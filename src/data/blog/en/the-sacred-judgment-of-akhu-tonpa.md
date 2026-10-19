@@ -8,7 +8,7 @@ description: "Agutomba used mountain echoes and used the ingenious judgment of t
 
 
 
-![AstroPaper I18n](/public/the-sacred-judgment-of-akhu-tonpa.png)
+![AstroPaper I18n](/the-sacred-judgment-of-akhu-tonpa.png)
 
 
 

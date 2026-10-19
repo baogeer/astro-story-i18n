@@ -8,7 +8,7 @@ description: "Pendant la guerre de résistance, le pharmacien Jiang Chun a été
 
 
 
-![AstroPaper I18n](/public/the-yin-yang-river.png)
+![AstroPaper I18n](/the-yin-yang-river.png)
 
 
 

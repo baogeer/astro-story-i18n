@@ -8,7 +8,7 @@ description: "Le village de Miyama a été menacé par une «xa0vieille femme ma
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-baby-snake-and-why-buckwheat-stalks-turned-red.png)
+![AstroPaper I18n](/the-origin-of-the-baby-snake-and-why-buckwheat-stalks-turned-red.png)
 
 
 

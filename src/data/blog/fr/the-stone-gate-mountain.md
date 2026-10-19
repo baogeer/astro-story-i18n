@@ -8,7 +8,7 @@ description: "Shimen Mountain possède Shimen. La légende raconte qu'une vieill
 
 
 
-![AstroPaper I18n](/public/the-stone-gate-mountain.png)
+![AstroPaper I18n](/the-stone-gate-mountain.png)
 
 
 

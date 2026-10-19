@@ -8,7 +8,7 @@ description: "Peiguan, l'épouse de Buka, un descendant de la tribu Dong, a ét�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
+![AstroPaper I18n](/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
 
 
 

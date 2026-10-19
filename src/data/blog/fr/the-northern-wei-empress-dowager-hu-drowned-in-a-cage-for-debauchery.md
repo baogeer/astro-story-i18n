@@ -8,7 +8,7 @@ description: "Hu Conghua, la concubine de l'empereur Xuanwu du nord de Wei, est 
 
 
 
-![AstroPaper I18n](/public/the-northern-wei-empress-dowager-hu-drowned-in-a-cage-for-debauchery.png)
+![AstroPaper I18n](/the-northern-wei-empress-dowager-hu-drowned-in-a-cage-for-debauchery.png)
 
 
 

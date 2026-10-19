@@ -8,7 +8,7 @@ description: "В июньский лунный день семья Гуйчжо�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-people-s-linwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dong-people-s-linwang-festival.png)
 
 
 

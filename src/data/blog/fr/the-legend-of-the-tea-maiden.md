@@ -8,7 +8,7 @@ description: "Le jeune Awang a sauvé la fée du thé Muri Liqing et est devenu 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tea-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-tea-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Il y a du porphyre ensanglanté sur le versant nord de Badaling. L
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-blood-spotted-stone.png)
+![AstroPaper I18n](/the-legend-of-the-blood-spotted-stone.png)
 
 
 

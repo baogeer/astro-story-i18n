@@ -8,7 +8,7 @@ description: "Li Xilie, un général rebelle de la dynastie Tang, a attaqué la 
 
 
 
-![AstroPaper I18n](/public/the-wife-who-helped-her-husband-defend-the-city.png)
+![AstroPaper I18n](/the-wife-who-helped-her-husband-defend-the-city.png)
 
 
 

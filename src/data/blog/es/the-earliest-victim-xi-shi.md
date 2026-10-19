@@ -8,7 +8,7 @@ description: "Shih Tzu era originalmente una mujer del monte Zi Luo, y Yue Wang 
 
 
 
-![AstroPaper I18n](/public/the-earliest-victim-xi-shi.png)
+![AstroPaper I18n](/the-earliest-victim-xi-shi.png)
 
 
 

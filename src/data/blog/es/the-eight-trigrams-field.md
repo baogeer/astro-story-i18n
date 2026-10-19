@@ -8,7 +8,7 @@ description: "Después de que el emperador Song del Sur huyera a Hangzhou, para 
 
 
 
-![AstroPaper I18n](/public/the-eight-trigrams-field.png)
+![AstroPaper I18n](/the-eight-trigrams-field.png)
 
 
 

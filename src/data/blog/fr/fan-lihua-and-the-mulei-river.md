@@ -8,7 +8,7 @@ description: "Fan Lihua a marché vers l'ouest jusqu'au comté de Mulei au Xinji
 
 
 
-![AstroPaper I18n](/public/fan-lihua-and-the-mulei-river.png)
+![AstroPaper I18n](/fan-lihua-and-the-mulei-river.png)
 
 
 

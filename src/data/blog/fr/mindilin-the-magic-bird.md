@@ -8,7 +8,7 @@ description: "La princesse tibétaine a été encadrée par une servante et les 
 
 
 
-![AstroPaper I18n](/public/mindilin-the-magic-bird.png)
+![AstroPaper I18n](/mindilin-the-magic-bird.png)
 
 
 

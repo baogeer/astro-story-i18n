@@ -8,7 +8,7 @@ description: "Once upon a time, there were two brothers. The second brother was 
 
 
 
-![AstroPaper I18n](/public/the-magic-drum.png)
+![AstroPaper I18n](/the-magic-drum.png)
 
 
 

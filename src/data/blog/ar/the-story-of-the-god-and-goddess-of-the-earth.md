@@ -8,7 +8,7 @@ description: "قضت الفيضانات القديمة على البشر؛ ول�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-god-and-goddess-of-the-earth.png)
+![AstroPaper I18n](/the-story-of-the-god-and-goddess-of-the-earth.png)
 
 
 

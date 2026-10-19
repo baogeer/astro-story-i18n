@@ -8,7 +8,7 @@ description: "Le mausolée impérial de la dynastie des Song du Nord choisissait
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد أن تزوجت تشيو شيا من عائلة وانغ، 
 
 
 
-![AstroPaper I18n](/public/the-father-who-saved-his-daughter.png)
+![AstroPaper I18n](/the-father-who-saved-his-daughter.png)
 
 
 

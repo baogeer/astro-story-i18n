@@ -8,7 +8,7 @@ description: "After the completion of the Guangji Bridge in Chaozhou, the Eight 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
+![AstroPaper I18n](/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
 
 
 

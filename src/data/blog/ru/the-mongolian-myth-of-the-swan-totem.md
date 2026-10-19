@@ -8,7 +8,7 @@ description: "Юная бурятка Хори Томерт украла пер�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-myth-of-the-swan-totem.png)
+![AstroPaper I18n](/the-mongolian-myth-of-the-swan-totem.png)
 
 
 

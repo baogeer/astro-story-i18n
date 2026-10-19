@@ -8,7 +8,7 @@ description: "In ancient times, Dragon King of the East China Sea found pearl wa
 
 
 
-![AstroPaper I18n](/public/the-water-of-the-heavenly-lake.png)
+![AstroPaper I18n](/the-water-of-the-heavenly-lake.png)
 
 
 

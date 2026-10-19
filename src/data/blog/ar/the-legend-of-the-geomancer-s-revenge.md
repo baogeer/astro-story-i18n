@@ -8,7 +8,7 @@ description: "خلال سنوات كانغشي من عهد أسرة تشينغ،
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-revenge.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-revenge.png)
 
 
 

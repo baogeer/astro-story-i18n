@@ -8,7 +8,7 @@ description: "Mme Xian était la dirigeante de la minorité ethnique de Lingnan 
 
 
 
-![AstroPaper I18n](/public/china-s-first-heroine-lady-xian-guardian-of-the-south-for-fifty-years.png)
+![AstroPaper I18n](/china-s-first-heroine-lady-xian-guardian-of-the-south-for-fifty-years.png)
 
 
 

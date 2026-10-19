@@ -8,7 +8,7 @@ description: "Lorsque Ding Qianxi a été à l'abri de la pluie, elle a été tr
 
 
 
-![AstroPaper I18n](/public/the-story-of-ding-qianxi.png)
+![AstroPaper I18n](/the-story-of-ding-qianxi.png)
 
 
 

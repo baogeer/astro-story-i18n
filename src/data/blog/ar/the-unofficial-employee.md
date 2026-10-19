@@ -8,7 +8,7 @@ description: "تبنى الرجل العجوز تشارلي جني إنسان ا
 
 
 
-![AstroPaper I18n](/public/the-unofficial-employee.png)
+![AstroPaper I18n](/the-unofficial-employee.png)
 
 
 

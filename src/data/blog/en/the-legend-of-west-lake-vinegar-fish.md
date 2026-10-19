@@ -8,7 +8,7 @@ description: "During the Southern Song dynasty, the Song brothers were framed by
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-vinegar-fish.png)
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Legend has it that an old woman from the north found a copper pot 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ade-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-ade-the-miao-king.png)
 
 
 

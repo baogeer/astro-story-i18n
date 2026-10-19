@@ -8,7 +8,7 @@ description: "Три брата из горного района Миннан. �
 
 
 
-![AstroPaper I18n](/public/the-tiger-fighting-brothers.png)
+![AstroPaper I18n](/the-tiger-fighting-brothers.png)
 
 
 

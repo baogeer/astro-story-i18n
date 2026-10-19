@@ -8,7 +8,7 @@ description: "At the end of the Eastern Han Dynasty, in order to get rid of Dong
 
 
 
-![AstroPaper I18n](/public/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
+![AstroPaper I18n](/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
 
 
 

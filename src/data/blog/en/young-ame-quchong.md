@@ -8,7 +8,7 @@ description: "A young man, Amequ, did not follow his wife's instructions and was
 
 
 
-![AstroPaper I18n](/public/young-ame-quchong.png)
+![AstroPaper I18n](/young-ame-quchong.png)
 
 
 

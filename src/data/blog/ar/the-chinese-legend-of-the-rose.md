@@ -8,7 +8,7 @@ description: "بعد وضع الطين من الأغصان لصنع الناس،
 
 
 
-![AstroPaper I18n](/public/the-chinese-legend-of-the-rose.png)
+![AstroPaper I18n](/the-chinese-legend-of-the-rose.png)
 
 
 

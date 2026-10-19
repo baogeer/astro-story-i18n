@@ -8,7 +8,7 @@ description: "كان Guo Kai محبوبًا لدى ملكين Zhao Guo. لقد �
 
 
 
-![AstroPaper I18n](/public/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
+![AstroPaper I18n](/guo-kai-the-treacherous-minister-who-destroyed-the-state-of-zhao.png)
 
 
 

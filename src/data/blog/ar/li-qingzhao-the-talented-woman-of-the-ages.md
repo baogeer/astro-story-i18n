@@ -8,7 +8,7 @@ description: "لي تشينغزاو من مواليد جينان. لقد ولد 
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-the-talented-woman-of-the-ages.png)
+![AstroPaper I18n](/li-qingzhao-the-talented-woman-of-the-ages.png)
 
 
 

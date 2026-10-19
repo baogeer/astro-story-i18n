@@ -8,7 +8,7 @@ description: "تصف هذه المقالة ست نساء مشهورات، بما
 
 
 
-![AstroPaper I18n](/public/chinese-heroines-who-defied-the-humiliation-of-being-stripped-naked.png)
+![AstroPaper I18n](/chinese-heroines-who-defied-the-humiliation-of-being-stripped-naked.png)
 
 
 

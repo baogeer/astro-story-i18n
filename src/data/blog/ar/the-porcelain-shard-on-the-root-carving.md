@@ -8,7 +8,7 @@ description: "فكر وانغ داجي في الوعاء الخزفي القدي
 
 
 
-![AstroPaper I18n](/public/the-porcelain-shard-on-the-root-carving.png)
+![AstroPaper I18n](/the-porcelain-shard-on-the-root-carving.png)
 
 
 

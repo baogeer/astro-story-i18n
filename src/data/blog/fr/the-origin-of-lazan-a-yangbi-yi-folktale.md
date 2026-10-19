@@ -8,7 +8,7 @@ description: "Dans les contes populaires de la tribu Yangyi Yi, «xa0» signifie
 
 
 
-![AstroPaper I18n](/public/the-origin-of-lazan-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-origin-of-lazan-a-yangbi-yi-folktale.png)
 
 
 

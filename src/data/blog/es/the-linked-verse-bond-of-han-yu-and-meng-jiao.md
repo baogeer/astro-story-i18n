@@ -8,7 +8,7 @@ description: "Han Yu y Meng Jiao son profundamente afectuosos. Con frecuencia ca
 
 
 
-![AstroPaper I18n](/public/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
+![AstroPaper I18n](/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
 
 
 

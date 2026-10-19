@@ -8,7 +8,7 @@ description: "Mei Duolingzi, la concubine vaniteuse de King's Ridge à Cha Rong 
 
 
 
-![AstroPaper I18n](/public/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
+![AstroPaper I18n](/king-lingse-qujie-and-his-consort-meiduo-lingzi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los ocho dioses formaron ocho pilares de mampostería en el océan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-eight-deities-and-the-badaling-watchtowers.png)
+![AstroPaper I18n](/the-legend-of-the-eight-deities-and-the-badaling-watchtowers.png)
 
 
 

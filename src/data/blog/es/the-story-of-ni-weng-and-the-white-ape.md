@@ -8,7 +8,7 @@ description: "Cuando Ni Weng lo leía por la noche, el simio blanco milenario bu
 
 
 
-![AstroPaper I18n](/public/the-story-of-ni-weng-and-the-white-ape.png)
+![AstroPaper I18n](/the-story-of-ni-weng-and-the-white-ape.png)
 
 
 

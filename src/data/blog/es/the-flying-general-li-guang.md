@@ -8,7 +8,7 @@ description: "Li Guang es un famoso general del oeste de Han. Luchó con los hun
 
 
 
-![AstroPaper I18n](/public/the-flying-general-li-guang.png)
+![AstroPaper I18n](/the-flying-general-li-guang.png)
 
 
 

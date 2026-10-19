@@ -8,7 +8,7 @@ description: "Jiang Mei comes from a broken family and has been defeated many ti
 
 
 
-![AstroPaper I18n](/public/the-commoner-ci-poet-jiang-kui-and-his-calligraphy-treatise.png)
+![AstroPaper I18n](/the-commoner-ci-poet-jiang-kui-and-his-calligraphy-treatise.png)
 
 
 

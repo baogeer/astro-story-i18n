@@ -8,7 +8,7 @@ description: "Il n'y a pas d'eau sur la route de Beigenlingshan, dans le sud de 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-spring-well.png)
+![AstroPaper I18n](/the-legend-of-the-jade-spring-well.png)
 
 
 

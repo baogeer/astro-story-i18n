@@ -8,7 +8,7 @@ description: "Tang Jingchuan a eu une enfance têtue et était en colère contre
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chen-du-thatched-cottage.png)
+![AstroPaper I18n](/the-legend-of-chen-du-thatched-cottage.png)
 
 
 

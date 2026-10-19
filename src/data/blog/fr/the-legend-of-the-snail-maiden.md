@@ -8,7 +8,7 @@ description: "Shiwa a attrapé un escargot doré alors qu'il pêchait dans le fl
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-snail-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-snail-maiden.png)
 
 
 

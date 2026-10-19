@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que en la antigüedad había nueve soles y que t
 
 
 
-![AstroPaper I18n](/public/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
+![AstroPaper I18n](/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
 
 
 

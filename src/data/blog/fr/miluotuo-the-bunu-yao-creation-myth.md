@@ -8,7 +8,7 @@ description: "Miroto a utilisé le chapeau de pluie et les branches de son maît
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-bunu-yao-creation-myth.png)
+![AstroPaper I18n](/miluotuo-the-bunu-yao-creation-myth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "ارتدى زاو لاوهان من كاوتشو وابنته جا
 
 
 
-![AstroPaper I18n](/public/the-peony-more-precious-than-life.png)
+![AstroPaper I18n](/the-peony-more-precious-than-life.png)
 
 
 

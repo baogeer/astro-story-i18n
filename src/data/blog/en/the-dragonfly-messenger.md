@@ -8,7 +8,7 @@ description: "In order to save the people of Shanyang County, Guanyin turned jas
 
 
 
-![AstroPaper I18n](/public/the-dragonfly-messenger.png)
+![AstroPaper I18n](/the-dragonfly-messenger.png)
 
 
 

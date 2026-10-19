@@ -8,7 +8,7 @@ description: "Jin Xianxian est née à la suite du moulage de soie colorée par 
 
 
 
-![AstroPaper I18n](/public/jin-xianxian-s-dream-at-the-autumn-water-ferry.png)
+![AstroPaper I18n](/jin-xianxian-s-dream-at-the-autumn-water-ferry.png)
 
 
 

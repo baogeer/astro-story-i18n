@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة تشينغ، أراد وانغ إ�
 
 
 
-![AstroPaper I18n](/public/the-widow-who-gave-an-old-bachelor-a-second-spring.png)
+![AstroPaper I18n](/the-widow-who-gave-an-old-bachelor-a-second-spring.png)
 
 
 

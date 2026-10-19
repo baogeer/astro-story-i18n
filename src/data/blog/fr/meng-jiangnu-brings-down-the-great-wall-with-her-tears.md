@@ -8,7 +8,7 @@ description: "La femme Meng Jiang s'est mariée au fugitif Fan Xiliang et son ma
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
+![AstroPaper I18n](/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
 
 
 

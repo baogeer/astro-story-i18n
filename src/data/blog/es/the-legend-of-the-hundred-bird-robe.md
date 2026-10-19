@@ -8,7 +8,7 @@ description: "Zhang Yayuan, un joven grupo étnico zhuang, recibió una polla po
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hundred-bird-robe.png)
+![AstroPaper I18n](/the-legend-of-the-hundred-bird-robe.png)
 
 
 

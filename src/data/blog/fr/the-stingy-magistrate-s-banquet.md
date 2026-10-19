@@ -8,7 +8,7 @@ description: "Afin d'offrir à la population un festin avare de Zongben, Tudeng 
 
 
 
-![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+![AstroPaper I18n](/the-stingy-magistrate-s-banquet.png)
 
 
 

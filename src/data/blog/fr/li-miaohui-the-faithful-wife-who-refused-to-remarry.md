@@ -8,7 +8,7 @@ description: "Li Miaohui est une fille talentueuse de Yangzhou. Après avoir ép
 
 
 
-![AstroPaper I18n](/public/li-miaohui-the-faithful-wife-who-refused-to-remarry.png)
+![AstroPaper I18n](/li-miaohui-the-faithful-wife-who-refused-to-remarry.png)
 
 
 

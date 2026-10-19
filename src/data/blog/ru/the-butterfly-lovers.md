@@ -8,7 +8,7 @@ description: "Чжу Интай, женщина в мужском костюме
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers.png)
+![AstroPaper I18n](/the-butterfly-lovers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت هناك حالة قامت فيها فتاة بشنق ن�
 
 
 
-![AstroPaper I18n](/public/the-haunted-dormitory-at-midnight.png)
+![AstroPaper I18n](/the-haunted-dormitory-at-midnight.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чтобы спасти свою мать, «Три благоро
 
 
 
-![AstroPaper I18n](/public/chenxiang-splits-mount-hua-to-save-his-mother.png)
+![AstroPaper I18n](/chenxiang-splits-mount-hua-to-save-his-mother.png)
 
 
 

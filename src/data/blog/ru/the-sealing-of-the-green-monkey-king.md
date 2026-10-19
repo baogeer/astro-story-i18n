@@ -8,7 +8,7 @@ description: "Король голубых обезьян повел группу
 
 
 
-![AstroPaper I18n](/public/the-sealing-of-the-green-monkey-king.png)
+![AstroPaper I18n](/the-sealing-of-the-green-monkey-king.png)
 
 
 

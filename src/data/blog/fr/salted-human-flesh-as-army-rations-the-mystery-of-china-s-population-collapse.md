@@ -8,7 +8,7 @@ description: "De Qin à Qing, la tyrannie, la guerre et le massacre de la ville 
 
 
 
-![AstroPaper I18n](/public/salted-human-flesh-as-army-rations-the-mystery-of-china-s-population-collapse.png)
+![AstroPaper I18n](/salted-human-flesh-as-army-rations-the-mystery-of-china-s-population-collapse.png)
 
 
 

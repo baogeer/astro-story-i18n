@@ -8,7 +8,7 @@ description: "Wang Weiwei a tué son conseiller avec colère, ce qui a finalemen
 
 
 
-![AstroPaper I18n](/public/men-who-raged-for-beauties-in-chinese-history.png)
+![AstroPaper I18n](/men-who-raged-for-beauties-in-chinese-history.png)
 
 
 

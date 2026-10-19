@@ -8,7 +8,7 @@ description: "في عصر الساموراي الياباني، ابتكرت ز�
 
 
 
-![AstroPaper I18n](/public/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
+![AstroPaper I18n](/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los artesanos cincelaban las piedras necesarias en la ciudad de Ji
 
 
 
-![AstroPaper I18n](/public/the-ice-road-that-carried-the-stones.png)
+![AstroPaper I18n](/the-ice-road-that-carried-the-stones.png)
 
 
 

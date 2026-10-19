@@ -8,7 +8,7 @@ description: "Le 9 septembre du calendrier lunaire est la fête de Chung Yeung, 
 
 
 
-![AstroPaper I18n](/public/double-ninth-festival.png)
+![AstroPaper I18n](/double-ninth-festival.png)
 
 
 

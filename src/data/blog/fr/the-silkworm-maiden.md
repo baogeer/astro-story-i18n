@@ -8,7 +8,7 @@ description: "Ah Qiao a été forcée par sa mère de tondre le gazon pendant le
 
 
 
-![AstroPaper I18n](/public/the-silkworm-maiden.png)
+![AstroPaper I18n](/the-silkworm-maiden.png)
 
 
 

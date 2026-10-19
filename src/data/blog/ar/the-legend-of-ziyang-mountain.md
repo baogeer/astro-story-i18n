@@ -8,7 +8,7 @@ description: "جبل زيانغ، المعروف سابقًا باسم جبل ف
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ziyang-mountain.png)
+![AstroPaper I18n](/the-legend-of-ziyang-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда семь фей умерли, они сожгли ла�
 
 
 
-![AstroPaper I18n](/public/the-seven-fairies-and-the-auspicious-tea.png)
+![AstroPaper I18n](/the-seven-fairies-and-the-auspicious-tea.png)
 
 
 

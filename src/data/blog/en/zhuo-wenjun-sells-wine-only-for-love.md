@@ -8,7 +8,7 @@ description: "Zhuo Wenjun runs poor and destitute at night because of the song â
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-sells-wine-only-for-love.png)
+![AstroPaper I18n](/zhuo-wenjun-sells-wine-only-for-love.png)
 
 
 

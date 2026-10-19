@@ -8,7 +8,7 @@ description: "عندما كانت دينغ تشيانكسي محمية من ال
 
 
 
-![AstroPaper I18n](/public/the-story-of-ding-qianxi.png)
+![AstroPaper I18n](/the-story-of-ding-qianxi.png)
 
 
 

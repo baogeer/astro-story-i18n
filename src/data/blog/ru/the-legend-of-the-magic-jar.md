@@ -8,7 +8,7 @@ description: "Когда бедная мать и сын стригли трав
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-magic-jar.png)
+![AstroPaper I18n](/the-legend-of-the-magic-jar.png)
 
 
 

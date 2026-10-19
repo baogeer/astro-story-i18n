@@ -8,7 +8,7 @@ description: "Flower Fairy was devalued as a turtle by the Jade Emperor for brea
 
 
 
-![AstroPaper I18n](/public/the-flower-fairy-who-loved-the-mortal-world.png)
+![AstroPaper I18n](/the-flower-fairy-who-loved-the-mortal-world.png)
 
 
 

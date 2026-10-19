@@ -8,7 +8,7 @@ description: "Wang Fa, que vende tofu en la provincia de Yongping, conoció a un
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-slays-the-stone-lion-spirit.png)
+![AstroPaper I18n](/lu-dongbin-slays-the-stone-lion-spirit.png)
 
 
 

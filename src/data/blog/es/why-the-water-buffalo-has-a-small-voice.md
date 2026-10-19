@@ -8,7 +8,7 @@ description: "El búfalo de agua originalmente sonaba impactante. Se temía que 
 
 
 
-![AstroPaper I18n](/public/why-the-water-buffalo-has-a-small-voice.png)
+![AstroPaper I18n](/why-the-water-buffalo-has-a-small-voice.png)
 
 
 

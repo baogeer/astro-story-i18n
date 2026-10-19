@@ -8,7 +8,7 @@ description: "Grand-père a été harcelé par son mari alors qu'il coupait du b
 
 
 
-![AstroPaper I18n](/public/the-clever-grandson-outwits-the-master.png)
+![AstroPaper I18n](/the-clever-grandson-outwits-the-master.png)
 
 
 

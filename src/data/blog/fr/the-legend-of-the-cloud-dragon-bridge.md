@@ -8,7 +8,7 @@ description: "Il y a des dragons maléfiques dans le fleuve Yangjiao, et le bûc
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-dragon-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-dragon-bridge.png)
 
 
 

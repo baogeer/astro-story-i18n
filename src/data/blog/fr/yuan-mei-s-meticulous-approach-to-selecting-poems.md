@@ -8,7 +8,7 @@ description: "La sélection de poèmes de Yuan Mei met l'accent sur le «xa0frai
 
 
 
-![AstroPaper I18n](/public/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
+![AstroPaper I18n](/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
 
 
 

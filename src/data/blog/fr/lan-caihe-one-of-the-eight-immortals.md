@@ -8,7 +8,7 @@ description: "Lan Caihe est l'un des huit immortels. Elle porte souvent des vêt
 
 
 
-![AstroPaper I18n](/public/lan-caihe-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/lan-caihe-one-of-the-eight-immortals.png)
 
 
 

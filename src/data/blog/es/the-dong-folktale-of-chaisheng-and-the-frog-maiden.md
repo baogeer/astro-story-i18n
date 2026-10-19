@@ -8,7 +8,7 @@ description: "Cuando Chai Sheng fue a buscar agua, trajo una rana y se convirti√
 
 
 
-![AstroPaper I18n](/public/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
+![AstroPaper I18n](/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
 
 
 

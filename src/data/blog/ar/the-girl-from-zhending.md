@@ -8,7 +8,7 @@ description: "يجب أن تكون هناك زوجة ابن تبلغ من الع
 
 
 
-![AstroPaper I18n](/public/the-girl-from-zhending.png)
+![AstroPaper I18n](/the-girl-from-zhending.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Yuhuan est née à Shudi et est devenue plus tard l'épouse r
 
 
 
-![AstroPaper I18n](/public/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
+![AstroPaper I18n](/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
 
 
 

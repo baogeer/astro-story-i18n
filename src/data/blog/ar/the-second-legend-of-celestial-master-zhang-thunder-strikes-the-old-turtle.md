@@ -8,7 +8,7 @@ description: "كشف تشانغ تيانشي عن مؤامرة لخداع الر
 
 
 
-![AstroPaper I18n](/public/the-second-legend-of-celestial-master-zhang-thunder-strikes-the-old-turtle.png)
+![AstroPaper I18n](/the-second-legend-of-celestial-master-zhang-thunder-strikes-the-old-turtle.png)
 
 
 

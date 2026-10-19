@@ -8,7 +8,7 @@ description: "Четыре водителя переночевали в морг
 
 
 
-![AstroPaper I18n](/public/the-reanimated-corpse.png)
+![AstroPaper I18n](/the-reanimated-corpse.png)
 
 
 

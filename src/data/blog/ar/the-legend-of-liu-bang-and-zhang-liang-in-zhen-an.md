@@ -8,7 +8,7 @@ description: "ساعد تشانغ ليانغ ليو بانغ على عدم ال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-bang-and-zhang-liang-in-zhen-an.png)
+![AstroPaper I18n](/the-legend-of-liu-bang-and-zhang-liang-in-zhen-an.png)
 
 
 

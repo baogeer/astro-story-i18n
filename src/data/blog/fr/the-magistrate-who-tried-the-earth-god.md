@@ -8,7 +8,7 @@ description: "Ma San a passé trois ans à économiser 52 dollars, mais après l
 
 
 
-![AstroPaper I18n](/public/the-magistrate-who-tried-the-earth-god.png)
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "После того как старая женщина-демон 
 
 
 
-![AstroPaper I18n](/public/why-sweet-buckwheat-stalks-are-red.png)
+![AstroPaper I18n](/why-sweet-buckwheat-stalks-are-red.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Yong was swapped for prey by the landowner's son, and the two d
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-rabbit-who-settled-a-case.png)
+![AstroPaper I18n](/the-story-of-the-rabbit-who-settled-a-case.png)
 
 
 

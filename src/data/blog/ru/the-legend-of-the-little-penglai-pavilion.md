@@ -8,7 +8,7 @@ description: "В народной сказке «Легенда о малень�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-penglai-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-little-penglai-pavilion.png)
 
 
 

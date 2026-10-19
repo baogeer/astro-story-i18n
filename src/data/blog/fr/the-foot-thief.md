@@ -8,7 +8,7 @@ description: "Guan San a compté sur le capital qu'il avait volé à l'époque p
 
 
 
-![AstroPaper I18n](/public/the-foot-thief.png)
+![AstroPaper I18n](/the-foot-thief.png)
 
 
 

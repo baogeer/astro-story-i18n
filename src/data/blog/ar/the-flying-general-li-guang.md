@@ -8,7 +8,7 @@ description: "لي غوانغ هو جنرال مشهور من غرب هان. ح�
 
 
 
-![AstroPaper I18n](/public/the-flying-general-li-guang.png)
+![AstroPaper I18n](/the-flying-general-li-guang.png)
 
 
 

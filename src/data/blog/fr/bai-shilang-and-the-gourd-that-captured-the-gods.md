@@ -8,7 +8,7 @@ description: "Bai Shilang est le fils de Lu Dongbin et Bai Peony. Ses remarques 
 
 
 
-![AstroPaper I18n](/public/bai-shilang-and-the-gourd-that-captured-the-gods.png)
+![AstroPaper I18n](/bai-shilang-and-the-gourd-that-captured-the-gods.png)
 
 
 

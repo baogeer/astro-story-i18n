@@ -8,7 +8,7 @@ description: "Когда Бай Цзинкуань был маленьким, о
 
 
 
-![AstroPaper I18n](/public/the-second-he-shi-jade.png)
+![AstroPaper I18n](/the-second-he-shi-jade.png)
 
 
 

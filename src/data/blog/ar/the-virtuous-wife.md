@@ -8,7 +8,7 @@ description: "تخلى Qi Gong عن الزوجة الحكيمة لأنه كان 
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife.png)
+![AstroPaper I18n](/the-virtuous-wife.png)
 
 
 

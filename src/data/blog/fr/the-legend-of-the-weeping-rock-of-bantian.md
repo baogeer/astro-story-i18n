@@ -8,7 +8,7 @@ description: "Dans la légende de Half Tianyan, une vieille femme vit dans une g
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-weeping-rock-of-bantian.png)
+![AstroPaper I18n](/the-legend-of-the-weeping-rock-of-bantian.png)
 
 
 

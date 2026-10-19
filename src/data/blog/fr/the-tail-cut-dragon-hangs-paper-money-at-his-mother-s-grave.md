@@ -8,7 +8,7 @@ description: "Killing Tail Dragon est né d'Oolong Jing et de Wu, l'épouse du g
 
 
 
-![AstroPaper I18n](/public/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
+![AstroPaper I18n](/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
 
 
 

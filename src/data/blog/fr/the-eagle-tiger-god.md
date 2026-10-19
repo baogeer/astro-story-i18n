@@ -8,7 +8,7 @@ description: "À la porte du temple de Dongyue, les condors et les tigres ont mo
 
 
 
-![AstroPaper I18n](/public/the-eagle-tiger-god.png)
+![AstroPaper I18n](/the-eagle-tiger-god.png)
 
 
 

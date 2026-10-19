@@ -8,7 +8,7 @@ description: "Taiwan's half-screen mountain is shaped like a knife. Legend has i
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain.png)
 
 
 

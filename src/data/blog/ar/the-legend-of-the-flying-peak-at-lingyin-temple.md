@@ -8,7 +8,7 @@ description: "توقع الراهب المجنون في معبد Lingyin أن ق
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-flying-peak-at-lingyin-temple.png)
+![AstroPaper I18n](/the-legend-of-the-flying-peak-at-lingyin-temple.png)
 
 
 

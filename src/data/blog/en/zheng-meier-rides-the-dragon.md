@@ -8,7 +8,7 @@ description: "Zheng Meier is strong and has learned her skills. When she saw a h
 
 
 
-![AstroPaper I18n](/public/zheng-meier-rides-the-dragon.png)
+![AstroPaper I18n](/zheng-meier-rides-the-dragon.png)
 
 
 

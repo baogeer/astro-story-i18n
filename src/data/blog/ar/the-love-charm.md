@@ -8,7 +8,7 @@ description: "وقعت أخت من Xiangxi في حب Ge Chai من النظرة �
 
 
 
-![AstroPaper I18n](/public/the-love-charm.png)
+![AstroPaper I18n](/the-love-charm.png)
 
 
 

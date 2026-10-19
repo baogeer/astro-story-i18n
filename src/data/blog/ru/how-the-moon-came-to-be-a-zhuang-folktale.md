@@ -8,7 +8,7 @@ description: "Когда-то в Чжуансяне не было Луны. Де
 
 
 
-![AstroPaper I18n](/public/how-the-moon-came-to-be-a-zhuang-folktale.png)
+![AstroPaper I18n](/how-the-moon-came-to-be-a-zhuang-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "После завершения строительства мос�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
+![AstroPaper I18n](/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
 
 
 

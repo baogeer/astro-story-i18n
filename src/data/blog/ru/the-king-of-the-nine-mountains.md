@@ -8,7 +8,7 @@ description: "Ли Шэн из Цаочжоу заживо сожг всю се�
 
 
 
-![AstroPaper I18n](/public/the-king-of-the-nine-mountains.png)
+![AstroPaper I18n](/the-king-of-the-nine-mountains.png)
 
 
 

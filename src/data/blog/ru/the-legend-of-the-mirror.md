@@ -8,7 +8,7 @@ description: "Авиакомпания Xinsheng Airlines не поверила �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-mirror.png)
+![AstroPaper I18n](/the-legend-of-the-mirror.png)
 
 
 

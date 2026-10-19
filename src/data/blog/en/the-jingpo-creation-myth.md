@@ -8,7 +8,7 @@ description: "In Jingpo mythology, Jane should break free from the earth and run
 
 
 
-![AstroPaper I18n](/public/the-jingpo-creation-myth.png)
+![AstroPaper I18n](/the-jingpo-creation-myth.png)
 
 
 

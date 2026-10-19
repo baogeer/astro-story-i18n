@@ -8,7 +8,7 @@ description: "Afin de surmonter la sécheresse, Qin Sanjiu n'a pas pu couper la 
 
 
 
-![AstroPaper I18n](/public/the-maonan-folktale-of-sanjiu.png)
+![AstroPaper I18n](/the-maonan-folktale-of-sanjiu.png)
 
 
 

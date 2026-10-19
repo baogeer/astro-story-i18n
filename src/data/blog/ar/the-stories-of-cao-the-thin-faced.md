@@ -8,7 +8,7 @@ description: "Cao Shake Er هي شخصية بارعة في هونغ كونغ. ت
 
 
 
-![AstroPaper I18n](/public/the-stories-of-cao-the-thin-faced.png)
+![AstroPaper I18n](/the-stories-of-cao-the-thin-faced.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Легенда гласит, что император Шун не
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-spotted-bamboo.png)
+![AstroPaper I18n](/the-origin-of-the-spotted-bamboo.png)
 
 
 

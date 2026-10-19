@@ -8,7 +8,7 @@ description: "تزوجت الأميرة جينتشنغ من توفان كإمب�
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-princess-jincheng.png)
+![AstroPaper I18n](/the-tragic-fate-of-princess-jincheng.png)
 
 
 

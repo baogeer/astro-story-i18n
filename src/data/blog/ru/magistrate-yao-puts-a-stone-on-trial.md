@@ -8,7 +8,7 @@ description: "Яо Шижи, чиновник династии Цин из ок�
 
 
 
-![AstroPaper I18n](/public/magistrate-yao-puts-a-stone-on-trial.png)
+![AstroPaper I18n](/magistrate-yao-puts-a-stone-on-trial.png)
 
 
 

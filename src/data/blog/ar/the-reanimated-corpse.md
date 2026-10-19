@@ -8,7 +8,7 @@ description: "وبقي السائقون الأربعة طوال الليل في 
 
 
 
-![AstroPaper I18n](/public/the-reanimated-corpse.png)
+![AstroPaper I18n](/the-reanimated-corpse.png)
 
 
 

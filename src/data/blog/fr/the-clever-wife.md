@@ -8,7 +8,7 @@ description: "Les travailleurs de longue date sont harcelés par de riches propr
 
 
 
-![AstroPaper I18n](/public/the-clever-wife.png)
+![AstroPaper I18n](/the-clever-wife.png)
 
 
 

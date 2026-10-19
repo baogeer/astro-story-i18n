@@ -8,7 +8,7 @@ description: "عائلة وانغ شيكسين فقيرة. تحتقره عائل
 
 
 
-![AstroPaper I18n](/public/parameter-error-plase-check-your-request-parameters.png)
+![AstroPaper I18n](/parameter-error-plase-check-your-request-parameters.png)
 
 
 

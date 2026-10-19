@@ -8,7 +8,7 @@ description: "تجمع حكايات الفاوانيا العديد من الت�
 
 
 
-![AstroPaper I18n](/public/peony-anecdotes.png)
+![AstroPaper I18n](/peony-anecdotes.png)
 
 
 

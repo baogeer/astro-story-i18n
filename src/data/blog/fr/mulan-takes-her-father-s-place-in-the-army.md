@@ -8,7 +8,7 @@ description: "Pendant la période Wei du Nord, son père étant âgé et son fr�
 
 
 
-![AstroPaper I18n](/public/mulan-takes-her-father-s-place-in-the-army.png)
+![AstroPaper I18n](/mulan-takes-her-father-s-place-in-the-army.png)
 
 
 

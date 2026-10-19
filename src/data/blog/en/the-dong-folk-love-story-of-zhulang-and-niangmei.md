@@ -8,7 +8,7 @@ description: "Jurang and her mother fell in love and eloped, and Juro was murder
 
 
 
-![AstroPaper I18n](/public/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
+![AstroPaper I18n](/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
 
 
 

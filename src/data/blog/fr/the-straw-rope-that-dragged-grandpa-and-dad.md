@@ -8,7 +8,7 @@ description: "Le fils a soupçonné que son père était gravement malade. Il a 
 
 
 
-![AstroPaper I18n](/public/the-straw-rope-that-dragged-grandpa-and-dad.png)
+![AstroPaper I18n](/the-straw-rope-that-dragged-grandpa-and-dad.png)
 
 
 

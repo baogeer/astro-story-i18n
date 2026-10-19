@@ -8,7 +8,7 @@ description: "Ван Цю был избран во дворец, и супруг
 
 
 
-![AstroPaper I18n](/public/wanqiu-and-the-bitter-herb.png)
+![AstroPaper I18n](/wanqiu-and-the-bitter-herb.png)
 
 
 

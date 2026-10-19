@@ -8,7 +8,7 @@ description: "Хуан Лунши, национальный игрок в го, 
 
 
 
-![AstroPaper I18n](/public/the-dream-that-made-huang-longshi-the-go-sage.png)
+![AstroPaper I18n](/the-dream-that-made-huang-longshi-the-go-sage.png)
 
 
 

@@ -8,7 +8,7 @@ description: "قام المراهق التبتي الفقير دون تشو زا
 
 
 
-![AstroPaper I18n](/public/the-princess-s-pearl-shoe.png)
+![AstroPaper I18n](/the-princess-s-pearl-shoe.png)
 
 
 

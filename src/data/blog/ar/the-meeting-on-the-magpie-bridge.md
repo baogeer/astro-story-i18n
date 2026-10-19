@@ -8,7 +8,7 @@ description: "وتفصل الأم الملكية التي ترسم نهر تيا
 
 
 
-![AstroPaper I18n](/public/the-meeting-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-meeting-on-the-magpie-bridge.png)
 
 
 

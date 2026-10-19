@@ -8,7 +8,7 @@ description: "Pendant la dynastie Qin, la femme Meng Jiang a sauvé le fugitif F
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-weeping-down-the-great-wall.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tang Xuanzong flew thousands of miles to carry lychee for his belo
 
 
 
-![AstroPaper I18n](/public/a-rider-s-dust-and-a-concubine-s-smile.png)
+![AstroPaper I18n](/a-rider-s-dust-and-a-concubine-s-smile.png)
 
 
 

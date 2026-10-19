@@ -8,7 +8,7 @@ description: "В 1938 году гоминьдановцы убивали люд�
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
+![AstroPaper I18n](/the-tujia-legend-of-the-swallow-cave-treasure-map.png)
 
 
 

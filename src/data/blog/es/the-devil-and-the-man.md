@@ -8,7 +8,7 @@ description: "An Ning, descendiente de la familia Dong, se encontró con un comp
 
 
 
-![AstroPaper I18n](/public/the-devil-and-the-man.png)
+![AstroPaper I18n](/the-devil-and-the-man.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чтобы преодолеть Великую засуху на �
 
 
 
-![AstroPaper I18n](/public/qiaomei-and-the-embroidered-dragon.png)
+![AstroPaper I18n](/qiaomei-and-the-embroidered-dragon.png)
 
 
 

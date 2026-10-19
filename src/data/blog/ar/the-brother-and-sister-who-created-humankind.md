@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة قبيلة يلاو، كان أبو قو
 
 
 
-![AstroPaper I18n](/public/the-brother-and-sister-who-created-humankind.png)
+![AstroPaper I18n](/the-brother-and-sister-who-created-humankind.png)
 
 
 

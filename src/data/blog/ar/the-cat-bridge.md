@@ -8,7 +8,7 @@ description: "قام حرفي جلدي قديم في هانغتشو بتربية
 
 
 
-![AstroPaper I18n](/public/the-cat-bridge.png)
+![AstroPaper I18n](/the-cat-bridge.png)
 
 
 

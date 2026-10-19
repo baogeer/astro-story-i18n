@@ -8,7 +8,7 @@ description: "Xie Daoyun es de una familia famosa de la dinastía Jin del Este y
 
 
 
-![AstroPaper I18n](/public/xie-daoyun-s-calm-in-crisis.png)
+![AstroPaper I18n](/xie-daoyun-s-calm-in-crisis.png)
 
 
 

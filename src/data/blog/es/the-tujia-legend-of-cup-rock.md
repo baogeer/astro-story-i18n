@@ -8,7 +8,7 @@ description: "El monte Emei y el monte Bamian libran batallas inmortales, y las 
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-cup-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-cup-rock.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que el emperador Shun no regresó de su expedici
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-spotted-bamboo.png)
+![AstroPaper I18n](/the-origin-of-the-spotted-bamboo.png)
 
 
 

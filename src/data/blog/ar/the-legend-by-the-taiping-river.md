@@ -8,7 +8,7 @@ description: "تأثر لو دونغ بين بالأعمال الصالحة لل
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-taiping-river.png)
+![AstroPaper I18n](/the-legend-by-the-taiping-river.png)
 
 
 

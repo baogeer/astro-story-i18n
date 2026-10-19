@@ -8,7 +8,7 @@ description: "Tras la derrota de Liangshan, Hu Sanniang se escondi√≥ en el jard√
 
 
 
-![AstroPaper I18n](/public/the-black-peony.png)
+![AstroPaper I18n](/the-black-peony.png)
 
 
 

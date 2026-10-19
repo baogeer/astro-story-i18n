@@ -8,7 +8,7 @@ description: "Юй Лун и Цзинь Фэн превратили Пую в ж
 
 
 
-![AstroPaper I18n](/public/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
+![AstroPaper I18n](/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
 
 
 

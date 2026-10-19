@@ -8,7 +8,7 @@ description: "Спутника мыши проглотила змея. Она с
 
 
 
-![AstroPaper I18n](/public/the-righteous-mouse.png)
+![AstroPaper I18n](/the-righteous-mouse.png)
 
 
 

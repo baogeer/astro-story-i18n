@@ -8,7 +8,7 @@ description: "El monje no respetó las reglas del Buda y huyó sin permiso, y Gu
 
 
 
-![AstroPaper I18n](/public/the-monk-who-fled-behind-the-nun-s-back.png)
+![AstroPaper I18n](/the-monk-who-fled-behind-the-nun-s-back.png)
 
 
 

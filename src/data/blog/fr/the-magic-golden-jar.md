@@ -8,7 +8,7 @@ description: "Il était une fois un vieux fermier qui déterrait un pot en or in
 
 
 
-![AstroPaper I18n](/public/the-magic-golden-jar.png)
+![AstroPaper I18n](/the-magic-golden-jar.png)
 
 
 

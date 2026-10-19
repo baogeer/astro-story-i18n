@@ -8,7 +8,7 @@ description: "وُلدت ليانغ شانبو وتشو ينغتاي في الأ
 
 
 
-![AstroPaper I18n](/public/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
+![AstroPaper I18n](/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
 
 
 

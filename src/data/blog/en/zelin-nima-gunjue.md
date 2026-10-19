@@ -8,7 +8,7 @@ description: "Zelin Nima realized that despite her parents' objections, she trav
 
 
 
-![AstroPaper I18n](/public/zelin-nima-gunjue.png)
+![AstroPaper I18n](/zelin-nima-gunjue.png)
 
 
 

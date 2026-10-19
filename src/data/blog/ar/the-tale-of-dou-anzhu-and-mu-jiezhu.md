@@ -8,7 +8,7 @@ description: "وقعت دو أنزو، وهي مجموعة عرقية شابة �
 
 
 
-![AstroPaper I18n](/public/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
+![AstroPaper I18n](/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
 
 
 

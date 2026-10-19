@@ -8,7 +8,7 @@ description: "Il était une fois un employé étranger qui voulait épouser une 
 
 
 
-![AstroPaper I18n](/public/the-squire-chooses-a-son-in-law.png)
+![AstroPaper I18n](/the-squire-chooses-a-son-in-law.png)
 
 
 

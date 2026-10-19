@@ -8,7 +8,7 @@ description: "اكتشف أحد الرعاة في وادي نهر يالونغ �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-a-king.png)
+![AstroPaper I18n](/the-legend-of-a-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Durante la Guerra de Resistencia contra la Agresión Japonesa, el 
 
 
 
-![AstroPaper I18n](/public/xu-beihong-s-south-seas-romance.png)
+![AstroPaper I18n](/xu-beihong-s-south-seas-romance.png)
 
 
 

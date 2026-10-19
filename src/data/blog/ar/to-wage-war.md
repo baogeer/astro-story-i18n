@@ -8,7 +8,7 @@ description: "خلال سنوات جياتشينغ، كان اللصوص متف�
 
 
 
-![AstroPaper I18n](/public/to-wage-war.png)
+![AstroPaper I18n](/to-wage-war.png)
 
 
 

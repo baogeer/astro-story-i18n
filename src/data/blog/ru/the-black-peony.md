@@ -8,7 +8,7 @@ description: "После поражения Ляншаня Ху Саньнян �
 
 
 
-![AstroPaper I18n](/public/the-black-peony.png)
+![AstroPaper I18n](/the-black-peony.png)
 
 
 

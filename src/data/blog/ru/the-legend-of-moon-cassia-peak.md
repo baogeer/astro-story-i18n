@@ -8,7 +8,7 @@ description: "В ночь праздника середины осени во в
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moon-cassia-peak.png)
+![AstroPaper I18n](/the-legend-of-moon-cassia-peak.png)
 
 
 

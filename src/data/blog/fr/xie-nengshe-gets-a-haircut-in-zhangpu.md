@@ -8,7 +8,7 @@ description: "Xie Nengshe a réduit de quatre yuans l'argent de la province. Ell
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-gets-a-haircut-in-zhangpu.png)
+![AstroPaper I18n](/xie-nengshe-gets-a-haircut-in-zhangpu.png)
 
 
 

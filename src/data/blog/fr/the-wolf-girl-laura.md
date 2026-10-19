@@ -8,7 +8,7 @@ description: "La petite fille, Laura, a été reprise et élevée par une loup-g
 
 
 
-![AstroPaper I18n](/public/the-wolf-girl-laura.png)
+![AstroPaper I18n](/the-wolf-girl-laura.png)
 
 
 

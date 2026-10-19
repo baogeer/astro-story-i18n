@@ -8,7 +8,7 @@ description: "Diao Chan, una bella mujer de finales de la dinastía Han, nació 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-diao-chan.png)
+![AstroPaper I18n](/the-legend-of-diao-chan.png)
 
 
 

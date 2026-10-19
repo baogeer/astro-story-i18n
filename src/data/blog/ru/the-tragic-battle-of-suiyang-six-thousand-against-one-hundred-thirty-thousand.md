@@ -8,7 +8,7 @@ description: "Во время восстания в Аньши Чжан Гуан
 
 
 
-![AstroPaper I18n](/public/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
+![AstroPaper I18n](/the-tragic-battle-of-suiyang-six-thousand-against-one-hundred-thirty-thousand.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chang Dayong est obsédé par les pivoines. Il a rencontré le dé
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy-gejin.png)
+![AstroPaper I18n](/the-peony-fairy-gejin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان الصياد في الأصل الابنة غير الشرع
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-dragon-maiden.png)
+![AstroPaper I18n](/the-peach-blossom-dragon-maiden.png)
 
 
 

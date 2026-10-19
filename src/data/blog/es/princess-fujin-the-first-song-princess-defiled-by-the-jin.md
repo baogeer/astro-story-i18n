@@ -8,7 +8,7 @@ description: "El emperador Fu Jin fue la primera princesa de la dinastía Song q
 
 
 
-![AstroPaper I18n](/public/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
+![AstroPaper I18n](/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "جبل فوشان هو جبل خفيف انبثق عندما ضغ�
 
 
 
-![AstroPaper I18n](/public/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
+![AstroPaper I18n](/the-immortal-cave-of-fushan-and-the-huai-king-fish.png)
 
 
 

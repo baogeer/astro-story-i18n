@@ -8,7 +8,7 @@ description: "В конце концов, Чжан Лаохань из окру�
 
 
 
-![AstroPaper I18n](/public/zhang-tong-s-journey-to-the-underworld.png)
+![AstroPaper I18n](/zhang-tong-s-journey-to-the-underworld.png)
 
 
 

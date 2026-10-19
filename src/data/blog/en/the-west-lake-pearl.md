@@ -8,7 +8,7 @@ description: "Yulong and Jin Feng used stones to create pearls. They guarded the
 
 
 
-![AstroPaper I18n](/public/the-west-lake-pearl.png)
+![AstroPaper I18n](/the-west-lake-pearl.png)
 
 
 

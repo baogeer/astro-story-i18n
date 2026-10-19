@@ -8,7 +8,7 @@ description: "Wang Zhaojun fue utilizada por el emperador Han Yuan como moneda d
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
+![AstroPaper I18n](/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
 
 
 

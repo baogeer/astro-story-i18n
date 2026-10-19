@@ -8,7 +8,7 @@ description: "Après le lycée, Du Mu Keju était fier de voyager. Il a rencontr
 
 
 
-![AstroPaper I18n](/public/du-mu-s-pride-after-scoring-high-in-the-imperial-exam.png)
+![AstroPaper I18n](/du-mu-s-pride-after-scoring-high-in-the-imperial-exam.png)
 
 
 

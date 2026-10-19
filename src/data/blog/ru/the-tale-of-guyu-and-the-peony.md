@@ -8,7 +8,7 @@ description: "Гу Юй, юноша из династии Тан, спас пи�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-guyu-and-the-peony.png)
+![AstroPaper I18n](/the-tale-of-guyu-and-the-peony.png)
 
 
 

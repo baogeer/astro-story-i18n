@@ -8,7 +8,7 @@ description: "La Tang Ying fue la flor de comunión más famosa de la playa en e
 
 
 
-![AstroPaper I18n](/public/the-most-glamorous-socialite-of-old-shanghai.png)
+![AstroPaper I18n](/the-most-glamorous-socialite-of-old-shanghai.png)
 
 
 

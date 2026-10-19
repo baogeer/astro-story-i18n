@@ -8,7 +8,7 @@ description: "Принцесса Руцзя на самом деле являе�
 
 
 
-![AstroPaper I18n](/public/the-true-story-of-the-ill-fated-princess-heshun-roujia.png)
+![AstroPaper I18n](/the-true-story-of-the-ill-fated-princess-heshun-roujia.png)
 
 
 

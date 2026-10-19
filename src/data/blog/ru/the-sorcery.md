@@ -8,7 +8,7 @@ description: "Если вы не верите в Гонг или нет, про�
 
 
 
-![AstroPaper I18n](/public/the-sorcery.png)
+![AstroPaper I18n](/the-sorcery.png)
 
 
 

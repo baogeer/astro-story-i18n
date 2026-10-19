@@ -8,7 +8,7 @@ description: "سافر باي سو جيونغ، الذي أصبح ثعبانًا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake.png)
 
 
 

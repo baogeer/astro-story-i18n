@@ -8,7 +8,7 @@ description: "El bisabuelo de Sun Taibai pasó la noche en el templo de Liugou y
 
 
 
-![AstroPaper I18n](/public/the-mountain-ogre.png)
+![AstroPaper I18n](/the-mountain-ogre.png)
 
 
 

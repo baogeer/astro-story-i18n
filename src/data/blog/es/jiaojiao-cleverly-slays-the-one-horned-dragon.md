@@ -8,7 +8,7 @@ description: "El Príncipe Qi del Unicornio del Dragón Marino del Este de China
 
 
 
-![AstroPaper I18n](/public/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
+![AstroPaper I18n](/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
 
 
 

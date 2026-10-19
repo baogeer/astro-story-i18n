@@ -8,7 +8,7 @@ description: "During the Qing Jiaqing years, the Yellow River floods. New scienc
 
 
 
-![AstroPaper I18n](/public/the-death-of-the-disaster-relief-inspector.png)
+![AstroPaper I18n](/the-death-of-the-disaster-relief-inspector.png)
 
 
 

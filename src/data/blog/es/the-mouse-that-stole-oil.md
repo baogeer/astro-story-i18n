@@ -8,7 +8,7 @@ description: "Tras la escena de «ratones robando petróleo» en Qingtang, el Sr
 
 
 
-![AstroPaper I18n](/public/the-mouse-that-stole-oil.png)
+![AstroPaper I18n](/the-mouse-that-stole-oil.png)
 
 
 

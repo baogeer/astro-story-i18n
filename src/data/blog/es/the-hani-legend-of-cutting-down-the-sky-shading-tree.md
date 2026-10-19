@@ -8,7 +8,7 @@ description: "Los antepasados de las tribus Hani y Brown se unieron para talar Ã
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
+![AstroPaper I18n](/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
 
 
 

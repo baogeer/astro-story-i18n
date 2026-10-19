@@ -8,7 +8,7 @@ description: "El antepasado de Buyi, Buje, trepaba caballos y moreras hasta el c
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-buyi-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-buyi-bronze-drum.png)
 
 
 

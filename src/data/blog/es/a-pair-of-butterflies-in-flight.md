@@ -8,7 +8,7 @@ description: "Zhu Yingtai, una mujer vestida de hombre, fue a la escuela y tuvo 
 
 
 
-![AstroPaper I18n](/public/a-pair-of-butterflies-in-flight.png)
+![AstroPaper I18n](/a-pair-of-butterflies-in-flight.png)
 
 
 

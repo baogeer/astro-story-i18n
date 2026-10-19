@@ -8,7 +8,7 @@ description: "Guo Weng, l'empereur de la dynastie Tang, a battu la princesse ave
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-drunken-beating-of-the-princess.png)
+![AstroPaper I18n](/the-tale-of-the-drunken-beating-of-the-princess.png)
 
 
 

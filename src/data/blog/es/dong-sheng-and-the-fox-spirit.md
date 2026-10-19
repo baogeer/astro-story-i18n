@@ -8,7 +8,7 @@ description: "Dong Sheng fue engañado por el seudónimo de la niña zorro, Ah S
 
 
 
-![AstroPaper I18n](/public/dong-sheng-and-the-fox-spirit.png)
+![AstroPaper I18n](/dong-sheng-and-the-fox-spirit.png)
 
 
 

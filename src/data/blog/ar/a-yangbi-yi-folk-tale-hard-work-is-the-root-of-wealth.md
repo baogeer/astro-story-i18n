@@ -8,7 +8,7 @@ description: "قام زوجان عجوزان من يي بالتلاعب بابن
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
+![AstroPaper I18n](/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
 
 
 

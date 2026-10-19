@@ -8,7 +8,7 @@ description: "El pescador era originalmente la hija ilegítima de la princesa Dr
 
 
 
-![AstroPaper I18n](/public/the-peach-blossom-dragon-maiden.png)
+![AstroPaper I18n](/the-peach-blossom-dragon-maiden.png)
 
 
 

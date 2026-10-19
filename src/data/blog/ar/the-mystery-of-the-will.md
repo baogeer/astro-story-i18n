@@ -8,7 +8,7 @@ description: "ترك المليونير وصية غامضة، مطالبًا ب�
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-will.png)
+![AstroPaper I18n](/the-mystery-of-the-will.png)
 
 
 

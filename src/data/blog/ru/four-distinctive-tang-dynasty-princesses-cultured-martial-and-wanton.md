@@ -8,7 +8,7 @@ description: "Каждая из четырех уникальных принце
 
 
 
-![AstroPaper I18n](/public/four-distinctive-tang-dynasty-princesses-cultured-martial-and-wanton.png)
+![AstroPaper I18n](/four-distinctive-tang-dynasty-princesses-cultured-martial-and-wanton.png)
 
 
 

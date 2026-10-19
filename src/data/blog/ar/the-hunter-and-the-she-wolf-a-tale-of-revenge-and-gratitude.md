@@ -8,7 +8,7 @@ description: "صعدت شياو دافنغ الجبل عن طريق الخطأ �
 
 
 
-![AstroPaper I18n](/public/the-hunter-and-the-she-wolf-a-tale-of-revenge-and-gratitude.png)
+![AstroPaper I18n](/the-hunter-and-the-she-wolf-a-tale-of-revenge-and-gratitude.png)
 
 
 

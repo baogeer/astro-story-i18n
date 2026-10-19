@@ -8,7 +8,7 @@ description: "Qiantang Jiang Caolong salvó a la gente y quiso matar al emperado
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jade-spring.png)
+![AstroPaper I18n](/the-legend-of-jade-spring.png)
 
 
 

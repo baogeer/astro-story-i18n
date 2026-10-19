@@ -8,7 +8,7 @@ description: "تزوجت الأميرة ليو يي من ليي، ابنة لي�
 
 
 
-![AstroPaper I18n](/public/the-first-princess-in-history-to-die-from-domestic-violence.png)
+![AstroPaper I18n](/the-first-princess-in-history-to-die-from-domestic-violence.png)
 
 
 

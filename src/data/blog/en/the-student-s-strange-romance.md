@@ -8,7 +8,7 @@ description: "A student rescued the white fox, and the white fox rewarded him wi
 
 
 
-![AstroPaper I18n](/public/the-student-s-strange-romance.png)
+![AstroPaper I18n](/the-student-s-strange-romance.png)
 
 
 

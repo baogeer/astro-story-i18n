@@ -8,7 +8,7 @@ description: "Chen Tian a été emprisonné alors qu'il se précipitait pour l'e
 
 
 
-![AstroPaper I18n](/public/the-wicked-taoist-and-the-fox-fairy.png)
+![AstroPaper I18n](/the-wicked-taoist-and-the-fox-fairy.png)
 
 
 

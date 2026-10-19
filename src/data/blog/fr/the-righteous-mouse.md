@@ -8,7 +8,7 @@ description: "Le compagnon d'une souris a été avalé par un serpent. Il lança
 
 
 
-![AstroPaper I18n](/public/the-righteous-mouse.png)
+![AstroPaper I18n](/the-righteous-mouse.png)
 
 
 

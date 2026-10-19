@@ -8,7 +8,7 @@ description: "Во времена династии Тан Ли Цзилань и
 
 
 
-![AstroPaper I18n](/public/the-wit-and-literary-grace-of-two-tang-dynasty-poetesses.png)
+![AstroPaper I18n](/the-wit-and-literary-grace-of-two-tang-dynasty-poetesses.png)
 
 
 

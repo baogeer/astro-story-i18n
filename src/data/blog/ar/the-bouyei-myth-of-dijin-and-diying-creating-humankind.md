@@ -8,7 +8,7 @@ description: "قام الأخ دي جين ودي يينغ بزراعة القر�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
+![AstroPaper I18n](/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
 
 
 

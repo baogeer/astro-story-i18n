@@ -8,7 +8,7 @@ description: "Юэ Фэй изучал литературу и боевые ис
 
 
 
-![AstroPaper I18n](/public/yue-fei-the-loyal-patriot.png)
+![AstroPaper I18n](/yue-fei-the-loyal-patriot.png)
 
 
 

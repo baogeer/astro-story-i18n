@@ -8,7 +8,7 @@ description: "Ma Ji est partie en mer et a dérivé vers le pays de Raksha, où 
 
 
 
-![AstroPaper I18n](/public/the-rakshasa-country-and-the-sea-market.png)
+![AstroPaper I18n](/the-rakshasa-country-and-the-sea-market.png)
 
 
 

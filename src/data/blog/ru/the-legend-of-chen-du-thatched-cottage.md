@@ -8,7 +8,7 @@ description: "У Тан Цзинчуаня было упрямое детств�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chen-du-thatched-cottage.png)
+![AstroPaper I18n](/the-legend-of-chen-du-thatched-cottage.png)
 
 
 

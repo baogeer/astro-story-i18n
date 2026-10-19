@@ -8,7 +8,7 @@ description: "Taijin Jinxing Li Changgeng a créé Xian Dan dans la montagne Shi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-emitting-cave.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-emitting-cave.png)
 
 
 

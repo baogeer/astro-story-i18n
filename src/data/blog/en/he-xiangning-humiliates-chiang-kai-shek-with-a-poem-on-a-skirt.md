@@ -8,7 +8,7 @@ description: "In 1935, because Chiang Kai-shek did not resist Japan, Ho Heung-ni
 
 
 
-![AstroPaper I18n](/public/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
+![AstroPaper I18n](/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
 
 
 

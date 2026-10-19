@@ -8,7 +8,7 @@ description: "مهرجان تشينغ مينغ هو أحد المواسم الـ
 
 
 
-![AstroPaper I18n](/public/qingming-festival.png)
+![AstroPaper I18n](/qingming-festival.png)
 
 
 

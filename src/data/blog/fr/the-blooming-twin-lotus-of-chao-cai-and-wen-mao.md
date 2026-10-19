@@ -8,7 +8,7 @@ description: "Chao Cai, une femme talentueuse du Jiangnan sous la dynastie Tang,
 
 
 
-![AstroPaper I18n](/public/the-blooming-twin-lotus-of-chao-cai-and-wen-mao.png)
+![AstroPaper I18n](/the-blooming-twin-lotus-of-chao-cai-and-wen-mao.png)
 
 
 

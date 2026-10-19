@@ -8,7 +8,7 @@ description: "La hija del emperador Yan fue en bote al Mar de China Oriental y, 
 
 
 
-![AstroPaper I18n](/public/the-story-of-jingwei-filling-the-sea.png)
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
 
 
 

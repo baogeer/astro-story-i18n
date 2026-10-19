@@ -8,7 +8,7 @@ description: "En primavera y otoño, Yan Wang construyó una ciudad para protege
 
 
 
-![AstroPaper I18n](/public/the-everlasting-lime-and-the-city-of-yanjing.png)
+![AstroPaper I18n](/the-everlasting-lime-and-the-city-of-yanjing.png)
 
 
 

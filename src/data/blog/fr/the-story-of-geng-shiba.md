@@ -8,7 +8,7 @@ description: "Geng 18 a demandé à sa femme si elle était veuve ou si elle s'�
 
 
 
-![AstroPaper I18n](/public/the-story-of-geng-shiba.png)
+![AstroPaper I18n](/the-story-of-geng-shiba.png)
 
 
 

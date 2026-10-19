@@ -8,7 +8,7 @@ description: "La vieille mère de la famille Zhuang a tissé le magnifique Zhuan
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-zhuang-brocade.png)
+![AstroPaper I18n](/the-story-of-the-zhuang-brocade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After the death of Karma, he wanted to be reincarnated by taking p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-living-buddha-s-reincarnation.png)
+![AstroPaper I18n](/the-legend-of-the-living-buddha-s-reincarnation.png)
 
 
 

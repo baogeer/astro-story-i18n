@@ -8,7 +8,7 @@ description: "Ли Ван, убийца дров, однажды застрел�
 
 
 
-![AstroPaper I18n](/public/the-grateful-white-rabbit.png)
+![AstroPaper I18n](/the-grateful-white-rabbit.png)
 
 
 

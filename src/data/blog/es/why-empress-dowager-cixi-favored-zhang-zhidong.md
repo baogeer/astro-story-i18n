@@ -8,7 +8,7 @@ description: "Zhang Zhidong, un adolescente, no pudo presentarse al examen porqu
 
 
 
-![AstroPaper I18n](/public/why-empress-dowager-cixi-favored-zhang-zhidong.png)
+![AstroPaper I18n](/why-empress-dowager-cixi-favored-zhang-zhidong.png)
 
 
 

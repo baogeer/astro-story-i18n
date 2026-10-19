@@ -8,7 +8,7 @@ description: "L'impératrice Wu Cheng du Nord du Qi ne voulait pas se sentir seu
 
 
 
-![AstroPaper I18n](/public/empress-hu-the-lustful-woman-of-her-age.png)
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Восемь фольклорных историй народа б
 
 
 
-![AstroPaper I18n](/public/eight-bouyei-folktales.png)
+![AstroPaper I18n](/eight-bouyei-folktales.png)
 
 
 

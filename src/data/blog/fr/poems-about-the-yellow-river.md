@@ -8,7 +8,7 @@ description: "Ce court essai est un recueil de poèmes sur le thème du fleuve J
 
 
 
-![AstroPaper I18n](/public/poems-about-the-yellow-river.png)
+![AstroPaper I18n](/poems-about-the-yellow-river.png)
 
 
 

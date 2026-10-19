@@ -8,7 +8,7 @@ description: "«xa0Liaozhai Zhi Zhixa0: Dragonxa0» raconte quatre histoires ét
 
 
 
-![AstroPaper I18n](/public/the-dragon-from-strange-tales-from-a-chinese-studio.png)
+![AstroPaper I18n](/the-dragon-from-strange-tales-from-a-chinese-studio.png)
 
 
 

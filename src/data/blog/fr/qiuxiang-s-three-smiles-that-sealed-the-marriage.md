@@ -8,7 +8,7 @@ description: "Tang Bohu, un fils talentueux de Jiangnan, a été souri et souri 
 
 
 
-![AstroPaper I18n](/public/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
+![AstroPaper I18n](/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
 
 
 

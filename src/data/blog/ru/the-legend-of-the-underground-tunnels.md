@@ -8,7 +8,7 @@ description: "Легенда гласит, что сказочная пещер�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-underground-tunnels.png)
+![AstroPaper I18n](/the-legend-of-the-underground-tunnels.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Во времена Тан Тайцзуна принцесса В�
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-the-most-successful-female-diplomat.png)
+![AstroPaper I18n](/princess-wencheng-the-most-successful-female-diplomat.png)
 
 
 

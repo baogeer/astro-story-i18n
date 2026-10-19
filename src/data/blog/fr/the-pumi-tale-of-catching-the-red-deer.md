@@ -8,7 +8,7 @@ description: "Le géant Jian Jianzu a abattu un cerf élaphe avec six chiens sac
 
 
 
-![AstroPaper I18n](/public/the-pumi-tale-of-catching-the-red-deer.png)
+![AstroPaper I18n](/the-pumi-tale-of-catching-the-red-deer.png)
 
 
 

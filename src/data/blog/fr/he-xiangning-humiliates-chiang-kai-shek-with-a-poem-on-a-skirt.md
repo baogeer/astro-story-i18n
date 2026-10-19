@@ -8,7 +8,7 @@ description: "En 1935, Chiang Kai-shek n'ayant pas résisté au Japon, Ho Heung-
 
 
 
-![AstroPaper I18n](/public/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
+![AstroPaper I18n](/he-xiangning-humiliates-chiang-kai-shek-with-a-poem-on-a-skirt.png)
 
 
 

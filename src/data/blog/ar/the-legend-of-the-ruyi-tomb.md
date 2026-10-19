@@ -8,7 +8,7 @@ description: "تعرض تشانغ باويي وزوجته للاضطهاد من 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ruyi-tomb.png)
+![AstroPaper I18n](/the-legend-of-the-ruyi-tomb.png)
 
 
 

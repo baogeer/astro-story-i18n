@@ -8,7 +8,7 @@ description: "Подросток смог понять язык птиц пос�
 
 
 
-![AstroPaper I18n](/public/the-spider-in-the-king-s-ear.png)
+![AstroPaper I18n](/the-spider-in-the-king-s-ear.png)
 
 
 

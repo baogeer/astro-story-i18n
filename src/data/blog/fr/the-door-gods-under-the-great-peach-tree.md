@@ -8,7 +8,7 @@ description: "La porte située sous le grand pêcher du mont Saku, dans la mer d
 
 
 
-![AstroPaper I18n](/public/the-door-gods-under-the-great-peach-tree.png)
+![AstroPaper I18n](/the-door-gods-under-the-great-peach-tree.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل إنقاذ الأم، ثري مادونا، التي �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-lantern.png)
 
 
 

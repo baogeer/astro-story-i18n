@@ -8,7 +8,7 @@ description: "Legend has it that a woman along the Yangyi River in Yunnan got pr
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
 
 
 

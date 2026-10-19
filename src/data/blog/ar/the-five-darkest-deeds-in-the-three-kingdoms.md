@@ -8,7 +8,7 @@ description: "يتحدث هذا المقال عن خمسة أشياء مخفية
 
 
 
-![AstroPaper I18n](/public/the-five-darkest-deeds-in-the-three-kingdoms.png)
+![AstroPaper I18n](/the-five-darkest-deeds-in-the-three-kingdoms.png)
 
 
 

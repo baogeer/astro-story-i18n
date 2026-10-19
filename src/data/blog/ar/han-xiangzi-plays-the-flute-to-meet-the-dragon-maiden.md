@@ -8,7 +8,7 @@ description: "كان Han Xiang Zi على شاطئ البحر ودعا الأمي
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
+![AstroPaper I18n](/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
 
 
 

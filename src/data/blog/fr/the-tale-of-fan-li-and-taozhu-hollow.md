@@ -8,7 +8,7 @@ description: "Au printemps et à l'automne, Fan Li s'est retiré sur les rives d
 
 
 
-![AstroPaper I18n](/public/the-tale-of-fan-li-and-taozhu-hollow.png)
+![AstroPaper I18n](/the-tale-of-fan-li-and-taozhu-hollow.png)
 
 
 

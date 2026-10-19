@@ -8,7 +8,7 @@ description: "Según la leyenda del té Longjing, la tía vieja y solitaria prep
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea.png)
 
 
 

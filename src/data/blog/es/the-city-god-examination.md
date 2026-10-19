@@ -8,7 +8,7 @@ description: "Song Tao fue invitada a tomar el examen en el inframundo debido a 
 
 
 
-![AstroPaper I18n](/public/the-city-god-examination.png)
+![AstroPaper I18n](/the-city-god-examination.png)
 
 
 

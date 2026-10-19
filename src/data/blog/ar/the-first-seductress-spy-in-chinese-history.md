@@ -8,7 +8,7 @@ description: "بصفتها امرأة جميلة كرّستها فيتنام ل�
 
 
 
-![AstroPaper I18n](/public/the-first-seductress-spy-in-chinese-history.png)
+![AstroPaper I18n](/the-first-seductress-spy-in-chinese-history.png)
 
 
 

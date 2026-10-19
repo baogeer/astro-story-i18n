@@ -8,7 +8,7 @@ description: "In ancient times, there were no fires; people ate raw food and fre
 
 
 
-![AstroPaper I18n](/public/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
+![AstroPaper I18n](/a-zhuang-legend-the-thunder-god-brings-fire-to-the-human-world.png)
 
 
 

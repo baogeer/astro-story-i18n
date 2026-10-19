@@ -8,7 +8,7 @@ description: "El rey Atila de los hunos atacó el oeste de Roma con el argumento
 
 
 
-![AstroPaper I18n](/public/attila-the-hun-s-great-battle-against-the-western-roman-empire-s-million-man-army.png)
+![AstroPaper I18n](/attila-the-hun-s-great-battle-against-the-western-roman-empire-s-million-man-army.png)
 
 
 

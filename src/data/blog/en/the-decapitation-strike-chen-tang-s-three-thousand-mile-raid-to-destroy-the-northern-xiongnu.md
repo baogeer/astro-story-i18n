@@ -8,7 +8,7 @@ description: "Chen Tang Jiaozhao of the Han dynasty rallied forces in the wester
 
 
 
-![AstroPaper I18n](/public/the-decapitation-strike-chen-tang-s-three-thousand-mile-raid-to-destroy-the-northern-xiongnu.png)
+![AstroPaper I18n](/the-decapitation-strike-chen-tang-s-three-thousand-mile-raid-to-destroy-the-northern-xiongnu.png)
 
 
 

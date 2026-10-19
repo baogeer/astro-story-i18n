@@ -8,7 +8,7 @@ description: "قام يو تشي غونغ ببناء معبد سينلين لت�
 
 
 
-![AstroPaper I18n](/public/yuchi-gong-builds-the-temple.png)
+![AstroPaper I18n](/yuchi-gong-builds-the-temple.png)
 
 
 

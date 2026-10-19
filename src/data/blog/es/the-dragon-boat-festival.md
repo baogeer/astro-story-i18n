@@ -8,7 +8,7 @@ description: "El Dragon Boat Festival se originó en conmemoración de Qu Yuan. 
 
 
 
-![AstroPaper I18n](/public/the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-dragon-boat-festival.png)
 
 
 

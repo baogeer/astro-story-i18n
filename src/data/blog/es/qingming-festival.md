@@ -8,7 +8,7 @@ description: "El Festival Ching Ming es una de las 24 estaciones. Los antiguos l
 
 
 
-![AstroPaper I18n](/public/qingming-festival.png)
+![AstroPaper I18n](/qingming-festival.png)
 
 
 

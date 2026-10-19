@@ -8,7 +8,7 @@ description: "Su Dongpo, écrivain de la dynastie Song, est accro à la pierre. 
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-passion-for-strange-stones.png)
+![AstroPaper I18n](/su-dongpo-s-passion-for-strange-stones.png)
 
 
 

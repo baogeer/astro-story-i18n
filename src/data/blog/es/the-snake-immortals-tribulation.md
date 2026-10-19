@@ -8,7 +8,7 @@ description: "Junto al monte Dagu, un par de hermanas serpientes han estado prac
 
 
 
-![AstroPaper I18n](/public/the-snake-immortals-tribulation.png)
+![AstroPaper I18n](/the-snake-immortals-tribulation.png)
 
 
 

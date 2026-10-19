@@ -8,7 +8,7 @@ description: "Da Li y Da Liu hicieron una apuesta después de beber. Da Li fue a
 
 
 
-![AstroPaper I18n](/public/the-drunk-who-groped-a-mannequin.png)
+![AstroPaper I18n](/the-drunk-who-groped-a-mannequin.png)
 
 
 

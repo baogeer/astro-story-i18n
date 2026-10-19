@@ -8,7 +8,7 @@ description: "كانت الأخت ليو مغنية من أسرة تشوانغ. 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie.png)
 
 
 

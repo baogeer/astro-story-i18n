@@ -8,7 +8,7 @@ description: "В период Воюющих царств Сямэнь Бао Р
 
 
 
-![AstroPaper I18n](/public/ximen-bao-governs-ye.png)
+![AstroPaper I18n](/ximen-bao-governs-ye.png)
 
 
 

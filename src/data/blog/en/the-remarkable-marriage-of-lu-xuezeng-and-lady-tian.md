@@ -8,7 +8,7 @@ description: "Lu Xue once went to Yue's family to get hired. Her cousin Liang Sh
 
 
 
-![AstroPaper I18n](/public/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
+![AstroPaper I18n](/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
 
 
 

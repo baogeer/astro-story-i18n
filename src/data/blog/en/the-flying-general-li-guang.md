@@ -8,7 +8,7 @@ description: "Li Guang is a famous general from Western Han. He fought with the 
 
 
 
-![AstroPaper I18n](/public/the-flying-general-li-guang.png)
+![AstroPaper I18n](/the-flying-general-li-guang.png)
 
 
 

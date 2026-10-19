@@ -8,7 +8,7 @@ description: "When Emperor Qianlong went down to Jiangnan, he picked tea in Shif
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-west-lake-dragon-well-tea.png)
 
 
 

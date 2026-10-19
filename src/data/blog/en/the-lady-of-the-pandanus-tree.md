@@ -8,7 +8,7 @@ description: "In the late Qing dynasty, Taiwanese widow Li Zhaoniang married and
 
 
 
-![AstroPaper I18n](/public/the-lady-of-the-pandanus-tree.png)
+![AstroPaper I18n](/the-lady-of-the-pandanus-tree.png)
 
 
 

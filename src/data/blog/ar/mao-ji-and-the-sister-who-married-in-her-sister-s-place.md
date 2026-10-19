@@ -8,7 +8,7 @@ description: "تظاهر ماو جي بأنه فقير لاختبار خطيبت
 
 
 
-![AstroPaper I18n](/public/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
+![AstroPaper I18n](/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
 
 
 

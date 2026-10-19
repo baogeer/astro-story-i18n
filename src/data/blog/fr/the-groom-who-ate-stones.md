@@ -8,7 +8,7 @@ description: "Le Xincheng Wangjia a un marié du nom de famille Wang. Il a étud
 
 
 
-![AstroPaper I18n](/public/the-groom-who-ate-stones.png)
+![AstroPaper I18n](/the-groom-who-ate-stones.png)
 
 
 

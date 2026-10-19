@@ -8,7 +8,7 @@ description: "На храмовой ярмарке Байчжушань опоз
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
 
 
 

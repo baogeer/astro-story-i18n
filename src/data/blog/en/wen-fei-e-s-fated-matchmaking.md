@@ -8,7 +8,7 @@ description: "A famous woman dressed up as a man in the exam and paid tribute to
 
 
 
-![AstroPaper I18n](/public/wen-fei-e-s-fated-matchmaking.png)
+![AstroPaper I18n](/wen-fei-e-s-fated-matchmaking.png)
 
 
 

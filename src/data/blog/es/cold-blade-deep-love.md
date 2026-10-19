@@ -8,7 +8,7 @@ description: "En los primeros años de la dinastía Qing, el caballero de Jiangh
 
 
 
-![AstroPaper I18n](/public/cold-blade-deep-love.png)
+![AstroPaper I18n](/cold-blade-deep-love.png)
 
 
 

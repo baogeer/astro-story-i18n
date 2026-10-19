@@ -8,7 +8,7 @@ description: "هرب ابن شيانغ يو، شيانغ شياو هو، إلى 
 
 
 
-![AstroPaper I18n](/public/the-sequel-to-a-step-into-the-past.png)
+![AstroPaper I18n](/the-sequel-to-a-step-into-the-past.png)
 
 
 

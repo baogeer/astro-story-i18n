@@ -8,7 +8,7 @@ description: "تقول الأسطورة أنه في العصور القديمة�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-yangtze-river.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-yangtze-river.png)
 
 
 

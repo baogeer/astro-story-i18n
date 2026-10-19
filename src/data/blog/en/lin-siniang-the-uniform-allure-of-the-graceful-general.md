@@ -8,7 +8,7 @@ description: "Due to the lack of text, it is impossible to summarize the plot of
 
 
 
-![AstroPaper I18n](/public/lin-siniang-the-uniform-allure-of-the-graceful-general.png)
+![AstroPaper I18n](/lin-siniang-the-uniform-allure-of-the-graceful-general.png)
 
 
 

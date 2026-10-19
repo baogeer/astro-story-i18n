@@ -8,7 +8,7 @@ description: "Два наставника и ученика практикова
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-cave-a-yi-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-cave-a-yi-folktale.png)
 
 
 

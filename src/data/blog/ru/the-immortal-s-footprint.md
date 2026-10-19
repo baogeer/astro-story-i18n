@@ -8,7 +8,7 @@ description: "Лаоцзы Ли Эр катался на зеленой коро
 
 
 
-![AstroPaper I18n](/public/the-immortal-s-footprint.png)
+![AstroPaper I18n](/the-immortal-s-footprint.png)
 
 
 

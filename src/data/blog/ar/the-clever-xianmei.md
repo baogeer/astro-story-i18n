@@ -8,7 +8,7 @@ description: "Xianmei، فتاة من مجموعة دونغ العرقية، ذ�
 
 
 
-![AstroPaper I18n](/public/the-clever-xianmei.png)
+![AstroPaper I18n](/the-clever-xianmei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت قواعد لعبة السهام في العصور الق
 
 
 
-![AstroPaper I18n](/public/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
+![AstroPaper I18n](/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
 
 
 

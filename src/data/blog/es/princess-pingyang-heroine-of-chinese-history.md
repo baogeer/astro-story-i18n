@@ -8,7 +8,7 @@ description: "Al final de Sui, Tang Gaozu y Li Yuan formaron un ejército. Su hi
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-heroine-of-chinese-history.png)
+![AstroPaper I18n](/princess-pingyang-heroine-of-chinese-history.png)
 
 
 

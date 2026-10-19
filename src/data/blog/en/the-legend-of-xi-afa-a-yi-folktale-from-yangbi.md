@@ -8,7 +8,7 @@ description: "Xi Afa of the Yangyi Yi tribe made the Dinggen Law stay stuck in p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xi-afa-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-legend-of-xi-afa-a-yi-folktale-from-yangbi.png)
 
 
 

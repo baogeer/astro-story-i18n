@@ -8,7 +8,7 @@ description: "Cowherd Star and Weaver were separated by the royal mother due to 
 
 
 
-![AstroPaper I18n](/public/the-love-story-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-love-story-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

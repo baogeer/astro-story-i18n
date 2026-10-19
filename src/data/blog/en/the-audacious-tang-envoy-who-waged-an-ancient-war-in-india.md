@@ -8,7 +8,7 @@ description: "Wang Xuanze went to India and was ambushed and taken prisoner by K
 
 
 
-![AstroPaper I18n](/public/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
+![AstroPaper I18n](/the-audacious-tang-envoy-who-waged-an-ancient-war-in-india.png)
 
 
 

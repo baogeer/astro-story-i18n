@@ -8,7 +8,7 @@ description: "استأجر العم سونغ يو من لايانغ منزلًا
 
 
 
-![AstroPaper I18n](/public/the-old-woman-who-sprayed-water.png)
+![AstroPaper I18n](/the-old-woman-who-sprayed-water.png)
 
 
 

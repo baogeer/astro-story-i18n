@@ -8,7 +8,7 @@ description: "Había una vez un dueño rico que estaba triste todo el día, pero
 
 
 
-![AstroPaper I18n](/public/silver-and-song.png)
+![AstroPaper I18n](/silver-and-song.png)
 
 
 

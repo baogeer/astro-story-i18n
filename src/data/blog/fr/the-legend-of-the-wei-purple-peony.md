@@ -8,7 +8,7 @@ description: "Sous la dynastie Ming, Zhu Yuanzhang s'est rendu à Caozhou pour v
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wei-purple-peony.png)
+![AstroPaper I18n](/the-legend-of-the-wei-purple-peony.png)
 
 
 

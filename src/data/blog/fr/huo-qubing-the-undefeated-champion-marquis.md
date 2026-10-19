@@ -8,7 +8,7 @@ description: "Le champion Han Hou Huo a conduit 10 000 coureurs à attaquer Hexi
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-undefeated-champion-marquis.png)
+![AstroPaper I18n](/huo-qubing-the-undefeated-champion-marquis.png)
 
 
 

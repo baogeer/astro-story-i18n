@@ -8,7 +8,7 @@ description: "The bachelor Wang Jinlu sought medical treatment from her mother a
 
 
 
-![AstroPaper I18n](/public/the-little-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-little-gourd-a-yangbi-yi-folktale.png)
 
 
 

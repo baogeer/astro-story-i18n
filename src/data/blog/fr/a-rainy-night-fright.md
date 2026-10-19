@@ -8,7 +8,7 @@ description: "Par une nuit pluvieuse, le chauffeur de taxi a gentiment transport
 
 
 
-![AstroPaper I18n](/public/a-rainy-night-fright.png)
+![AstroPaper I18n](/a-rainy-night-fright.png)
 
 
 

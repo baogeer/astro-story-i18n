@@ -8,7 +8,7 @@ description: "At the end of the Northern Song Dynasty, General Bian, an anti-Jin
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-withered-branch-peony.png)
 
 
 

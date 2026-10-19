@@ -8,7 +8,7 @@ description: "Dans l'Antiquité, les règles des fléchettes étaient strictesxa
 
 
 
-![AstroPaper I18n](/public/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
+![AstroPaper I18n](/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
 
 
 

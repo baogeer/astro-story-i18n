@@ -8,7 +8,7 @@ description: "Xu Shaojun, a poor scholar, bought fish to release, and later marr
 
 
 
-![AstroPaper I18n](/public/the-carp-spirit.png)
+![AstroPaper I18n](/the-carp-spirit.png)
 
 
 

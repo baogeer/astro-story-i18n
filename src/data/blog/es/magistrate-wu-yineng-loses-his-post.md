@@ -8,7 +8,7 @@ description: "En la dinastía Tang, Wu Yineng, el alcalde del condado de Zhaoyi,
 
 
 
-![AstroPaper I18n](/public/magistrate-wu-yineng-loses-his-post.png)
+![AstroPaper I18n](/magistrate-wu-yineng-loses-his-post.png)
 
 
 

@@ -8,7 +8,7 @@ description: "John and his wife Lily devised a plot to use Jenny's old lover Jac
 
 
 
-![AstroPaper I18n](/public/the-murder-that-left-no-trace.png)
+![AstroPaper I18n](/the-murder-that-left-no-trace.png)
 
 
 

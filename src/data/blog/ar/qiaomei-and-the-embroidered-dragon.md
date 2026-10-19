@@ -8,7 +8,7 @@ description: "من أجل التغلب على الجفاف الكبير في ا�
 
 
 
-![AstroPaper I18n](/public/qiaomei-and-the-embroidered-dragon.png)
+![AstroPaper I18n](/qiaomei-and-the-embroidered-dragon.png)
 
 
 

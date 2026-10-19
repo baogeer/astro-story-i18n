@@ -8,7 +8,7 @@ description: "عندما كان باي جينغكوان صغيرًا، ترك ش
 
 
 
-![AstroPaper I18n](/public/the-second-he-shi-jade.png)
+![AstroPaper I18n](/the-second-he-shi-jade.png)
 
 
 

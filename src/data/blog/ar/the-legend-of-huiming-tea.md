@@ -8,7 +8,7 @@ description: "قام الراهب هويمينغ بزراعة الشاي من ج
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huiming-tea.png)
+![AstroPaper I18n](/the-legend-of-huiming-tea.png)
 
 
 

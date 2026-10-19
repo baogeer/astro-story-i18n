@@ -8,7 +8,7 @@ description: "Zuo Guangdou, un oficial de la dinastía Ming, siguió la voluntad
 
 
 
-![AstroPaper I18n](/public/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
+![AstroPaper I18n](/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
 
 
 

@@ -8,7 +8,7 @@ description: "There are no mountains on the East China Sea. A series of mountain
 
 
 
-![AstroPaper I18n](/public/the-great-fish-of-the-eastern-sea.png)
+![AstroPaper I18n](/the-great-fish-of-the-eastern-sea.png)
 
 
 

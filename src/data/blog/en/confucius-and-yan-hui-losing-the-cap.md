@@ -8,7 +8,7 @@ description: "Yan Hui argued with the buyer whether 38 was 23 or 24, betting on 
 
 
 
-![AstroPaper I18n](/public/confucius-and-yan-hui-losing-the-cap.png)
+![AstroPaper I18n](/confucius-and-yan-hui-losing-the-cap.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The author's hometown is Hutadi, Jingyue Village, Dongfang Town. T
 
 
 
-![AstroPaper I18n](/public/the-birthplace-of-lord-hu.png)
+![AstroPaper I18n](/the-birthplace-of-lord-hu.png)
 
 
 

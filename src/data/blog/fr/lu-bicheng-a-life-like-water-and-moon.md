@@ -8,7 +8,7 @@ description: "Lu Bicheng est une jeune femme de la fin de la dynastie Qing. Son 
 
 
 
-![AstroPaper I18n](/public/lu-bicheng-a-life-like-water-and-moon.png)
+![AstroPaper I18n](/lu-bicheng-a-life-like-water-and-moon.png)
 
 
 

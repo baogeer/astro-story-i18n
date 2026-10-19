@@ -8,7 +8,7 @@ description: "على الأراضي العشبية على طول نهر براه
 
 
 
-![AstroPaper I18n](/public/the-clever-little-rabbit-luozhu.png)
+![AstroPaper I18n](/the-clever-little-rabbit-luozhu.png)
 
 
 

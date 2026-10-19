@@ -8,7 +8,7 @@ description: "Un homme d'affaires de la dynastie Ming est tombé malade en rentr
 
 
 
-![AstroPaper I18n](/public/li-shizhen-pretends-to-be-a-thief.png)
+![AstroPaper I18n](/li-shizhen-pretends-to-be-a-thief.png)
 
 
 

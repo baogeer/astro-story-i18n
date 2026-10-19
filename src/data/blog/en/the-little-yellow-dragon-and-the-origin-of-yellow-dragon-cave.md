@@ -8,7 +8,7 @@ description: "Little Huanglong escaped from Ziyun Cave and became a descendant t
 
 
 
-![AstroPaper I18n](/public/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
+![AstroPaper I18n](/the-little-yellow-dragon-and-the-origin-of-yellow-dragon-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "لعلاج التهاب المفاصل الذي تعاني منه 
 
 
 
-![AstroPaper I18n](/public/the-sable-king.png)
+![AstroPaper I18n](/the-sable-king.png)
 
 
 

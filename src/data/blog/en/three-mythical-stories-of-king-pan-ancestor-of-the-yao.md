@@ -8,7 +8,7 @@ description: "Three myths of the Yao ethnic group recounted that King Niu helped
 
 
 
-![AstroPaper I18n](/public/three-mythical-stories-of-king-pan-ancestor-of-the-yao.png)
+![AstroPaper I18n](/three-mythical-stories-of-king-pan-ancestor-of-the-yao.png)
 
 
 

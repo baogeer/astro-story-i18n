@@ -8,7 +8,7 @@ description: "8 ديسمبر من التقويم القمري هو مهرجان 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-laba-festival-and-laba-porridge.png)
+![AstroPaper I18n](/the-legend-of-the-laba-festival-and-laba-porridge.png)
 
 
 

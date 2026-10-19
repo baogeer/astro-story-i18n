@@ -8,7 +8,7 @@ description: "На второй год после провозглашения �
 
 
 
-![AstroPaper I18n](/public/the-xiaoyanyi-mountain-uprising.png)
+![AstroPaper I18n](/the-xiaoyanyi-mountain-uprising.png)
 
 
 

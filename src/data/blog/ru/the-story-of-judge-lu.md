@@ -8,7 +8,7 @@ description: "Чжу Эрдан из Линьяна подружился с Лу
 
 
 
-![AstroPaper I18n](/public/the-story-of-judge-lu.png)
+![AstroPaper I18n](/the-story-of-judge-lu.png)
 
 
 

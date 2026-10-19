@@ -8,7 +8,7 @@ description: "التقى آن نينغ، وهو سليل عائلة دونغ، �
 
 
 
-![AstroPaper I18n](/public/the-devil-and-the-man.png)
+![AstroPaper I18n](/the-devil-and-the-man.png)
 
 
 

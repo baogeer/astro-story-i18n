@@ -8,7 +8,7 @@ description: "تم تكريس شيه تزو للملك وو، لكنه وقع ف
 
 
 
-![AstroPaper I18n](/public/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
+![AstroPaper I18n](/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
 
 
 

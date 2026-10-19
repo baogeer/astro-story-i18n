@@ -8,7 +8,7 @@ description: "Las hermanas Lan Ying y Hui Ying de la familia Gusu Xue de la dina
 
 
 
-![AstroPaper I18n](/public/the-xue-sisters-who-shared-one-husband.png)
+![AstroPaper I18n](/the-xue-sisters-who-shared-one-husband.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В конце правления династии Цин домр�
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
+![AstroPaper I18n](/the-yangbi-yi-tale-of-the-hunter-who-murdered-for-merit-money.png)
 
 
 

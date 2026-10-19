@@ -8,7 +8,7 @@ description: "Después de que la vieja mujer demonio asesinara a la mujer Morita
 
 
 
-![AstroPaper I18n](/public/why-sweet-buckwheat-stalks-are-red.png)
+![AstroPaper I18n](/why-sweet-buckwheat-stalks-are-red.png)
 
 
 

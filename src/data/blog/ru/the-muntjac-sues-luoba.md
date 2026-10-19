@@ -8,7 +8,7 @@ description: "Зизи украла пшеницу и была застреле�
 
 
 
-![AstroPaper I18n](/public/the-muntjac-sues-luoba.png)
+![AstroPaper I18n](/the-muntjac-sues-luoba.png)
 
 
 

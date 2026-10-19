@@ -8,7 +8,7 @@ description: "Farmer's tall corn trees were ruined by a group of mysterious hors
 
 
 
-![AstroPaper I18n](/public/the-legend-of-horse-wolf-mountain.png)
+![AstroPaper I18n](/the-legend-of-horse-wolf-mountain.png)
 
 
 

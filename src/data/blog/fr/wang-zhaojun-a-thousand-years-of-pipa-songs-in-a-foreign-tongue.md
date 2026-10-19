@@ -8,7 +8,7 @@ description: "Wang Zhaojun était une femme populaire pendant la dynastie Han Yu
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-a-thousand-years-of-pipa-songs-in-a-foreign-tongue.png)
+![AstroPaper I18n](/wang-zhaojun-a-thousand-years-of-pipa-songs-in-a-foreign-tongue.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El profesor Sun Shaozhen analizó la formación de los personajes 
 
 
 
-![AstroPaper I18n](/public/cao-cao-s-suspicion-and-zhuge-liang-s-ingenuity.png)
+![AstroPaper I18n](/cao-cao-s-suspicion-and-zhuge-liang-s-ingenuity.png)
 
 
 

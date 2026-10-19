@@ -8,7 +8,7 @@ description: "Ironclad Li Sang offended Hades by harassing him. Hades sent a gho
 
 
 
-![AstroPaper I18n](/public/li-san-the-iron-tongued.png)
+![AstroPaper I18n](/li-san-the-iron-tongued.png)
 
 
 

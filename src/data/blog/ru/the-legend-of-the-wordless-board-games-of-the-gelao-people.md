@@ -8,7 +8,7 @@ description: "Жители Илао в Учуане, провинция Гуйч
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
+![AstroPaper I18n](/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
 
 
 

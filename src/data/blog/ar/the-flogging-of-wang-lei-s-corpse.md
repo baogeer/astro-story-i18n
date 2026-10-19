@@ -8,7 +8,7 @@ description: "بعد إطلاق النار على لوه تشنغ وقتله ع�
 
 
 
-![AstroPaper I18n](/public/the-flogging-of-wang-lei-s-corpse.png)
+![AstroPaper I18n](/the-flogging-of-wang-lei-s-corpse.png)
 
 
 

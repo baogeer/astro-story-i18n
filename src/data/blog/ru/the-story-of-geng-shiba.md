@@ -8,7 +8,7 @@ description: "Гэн 18 спросил жену, овдовела ли она и
 
 
 
-![AstroPaper I18n](/public/the-story-of-geng-shiba.png)
+![AstroPaper I18n](/the-story-of-geng-shiba.png)
 
 
 

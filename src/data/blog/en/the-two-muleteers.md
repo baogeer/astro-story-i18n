@@ -8,7 +8,7 @@ description: "Ah Hei and Abai worshipped old friends and chased horses together.
 
 
 
-![AstroPaper I18n](/public/the-two-muleteers.png)
+![AstroPaper I18n](/the-two-muleteers.png)
 
 
 

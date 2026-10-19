@@ -8,7 +8,7 @@ description: "Shih Tzu était à l'origine une femme de Huan Sha au Vietnam. Ell
 
 
 
-![AstroPaper I18n](/public/xi-shi-and-the-overturned-boat.png)
+![AstroPaper I18n](/xi-shi-and-the-overturned-boat.png)
 
 
 

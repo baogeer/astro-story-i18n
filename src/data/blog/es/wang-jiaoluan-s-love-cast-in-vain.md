@@ -8,7 +8,7 @@ description: "Durante los años de Tianshun de la dinastía Ming, el general mil
 
 
 
-![AstroPaper I18n](/public/wang-jiaoluan-s-love-cast-in-vain.png)
+![AstroPaper I18n](/wang-jiaoluan-s-love-cast-in-vain.png)
 
 
 

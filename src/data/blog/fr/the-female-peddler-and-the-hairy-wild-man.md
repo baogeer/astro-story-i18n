@@ -8,7 +8,7 @@ description: "La femme a passé la nuit et a appris la vérité lorsqu'elle a re
 
 
 
-![AstroPaper I18n](/public/the-female-peddler-and-the-hairy-wild-man.png)
+![AstroPaper I18n](/the-female-peddler-and-the-hairy-wild-man.png)
 
 
 

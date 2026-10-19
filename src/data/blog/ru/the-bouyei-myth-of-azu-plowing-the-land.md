@@ -8,7 +8,7 @@ description: "Чтобы избавиться от наводнения, гер�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-azu-plowing-the-land.png)
+![AstroPaper I18n](/the-bouyei-myth-of-azu-plowing-the-land.png)
 
 
 

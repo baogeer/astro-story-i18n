@@ -8,7 +8,7 @@ description: "Desde Jiajing hasta Nanming, la dinastía Ming tuvo diez oportunid
 
 
 
-![AstroPaper I18n](/public/ten-chances-that-could-have-prevented-the-fall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/ten-chances-that-could-have-prevented-the-fall-of-the-ming-dynasty.png)
 
 
 

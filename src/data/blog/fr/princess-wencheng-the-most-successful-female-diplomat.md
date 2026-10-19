@@ -8,7 +8,7 @@ description: "À l'époque de Tang Taizong, la princesse Wencheng, fille de la f
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-the-most-successful-female-diplomat.png)
+![AstroPaper I18n](/princess-wencheng-the-most-successful-female-diplomat.png)
 
 
 

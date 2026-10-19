@@ -8,7 +8,7 @@ description: "Après le mariage de Wang Yingxia et Yu Dufu, l'intervention de Da
 
 
 
-![AstroPaper I18n](/public/the-romantic-entanglements-of-wang-yingxia.png)
+![AstroPaper I18n](/the-romantic-entanglements-of-wang-yingxia.png)
 
 
 

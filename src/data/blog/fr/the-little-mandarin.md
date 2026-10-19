@@ -8,7 +8,7 @@ description: "Alors qu'il faisait une pause dans la salle d'étude, un maître a
 
 
 
-![AstroPaper I18n](/public/the-little-mandarin.png)
+![AstroPaper I18n](/the-little-mandarin.png)
 
 
 

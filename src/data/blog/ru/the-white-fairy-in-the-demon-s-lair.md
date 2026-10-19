@@ -8,7 +8,7 @@ description: "Ню Бяо, холостяк на пляже, устроился 
 
 
 
-![AstroPaper I18n](/public/the-white-fairy-in-the-demon-s-lair.png)
+![AstroPaper I18n](/the-white-fairy-in-the-demon-s-lair.png)
 
 
 

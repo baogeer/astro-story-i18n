@@ -8,7 +8,7 @@ description: "Yue Fei fought against Jin and opposed Gao Zong's quest for peace.
 
 
 
-![AstroPaper I18n](/public/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
+![AstroPaper I18n](/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
 
 
 

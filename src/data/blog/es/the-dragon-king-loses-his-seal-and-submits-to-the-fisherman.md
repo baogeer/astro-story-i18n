@@ -8,7 +8,7 @@ description: "El viejo pescador Shen Gong pescó en Haibaoyin, en la ciudad de L
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-loses-his-seal-and-submits-to-the-fisherman.png)
+![AstroPaper I18n](/the-dragon-king-loses-his-seal-and-submits-to-the-fisherman.png)
 
 
 

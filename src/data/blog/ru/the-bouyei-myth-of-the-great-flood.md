@@ -8,7 +8,7 @@ description: "В мифологии Пуея Буцзе был недоволе�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-the-great-flood.png)
+![AstroPaper I18n](/the-bouyei-myth-of-the-great-flood.png)
 
 
 

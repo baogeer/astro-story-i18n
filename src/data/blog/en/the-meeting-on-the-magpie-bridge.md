@@ -8,7 +8,7 @@ description: "The cowherd and weaver are separated by the royal mother drawing t
 
 
 
-![AstroPaper I18n](/public/the-meeting-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-meeting-on-the-magpie-bridge.png)
 
 
 

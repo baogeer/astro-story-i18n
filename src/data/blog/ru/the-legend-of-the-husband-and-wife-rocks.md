@@ -8,7 +8,7 @@ description: "Гора Хуасянь, Хэсян Ся Фан, влюбилас�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-husband-and-wife-rocks.png)
+![AstroPaper I18n](/the-legend-of-the-husband-and-wife-rocks.png)
 
 
 

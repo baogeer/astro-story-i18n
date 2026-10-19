@@ -8,7 +8,7 @@ description: "In order to overcome the drought, Qin Sanjiu was unable to cut the
 
 
 
-![AstroPaper I18n](/public/the-maonan-folktale-of-sanjiu.png)
+![AstroPaper I18n](/the-maonan-folktale-of-sanjiu.png)
 
 
 

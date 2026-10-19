@@ -8,7 +8,7 @@ description: "Госпожа Ван овдовела в раннем возра�
 
 
 
-![AstroPaper I18n](/public/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
+![AstroPaper I18n](/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
 
 
 

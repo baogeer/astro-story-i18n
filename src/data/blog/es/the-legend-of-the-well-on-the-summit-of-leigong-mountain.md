@@ -8,7 +8,7 @@ description: "Hay un pozo en la cima de la montaña Leigong que no se desborda c
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-well-on-the-summit-of-leigong-mountain.png)
+![AstroPaper I18n](/the-legend-of-the-well-on-the-summit-of-leigong-mountain.png)
 
 
 

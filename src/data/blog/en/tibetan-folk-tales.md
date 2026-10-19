@@ -8,7 +8,7 @@ description: "Tibetan folk tales are rich and varied, and are mainly divided int
 
 
 
-![AstroPaper I18n](/public/tibetan-folk-tales.png)
+![AstroPaper I18n](/tibetan-folk-tales.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Barefoot Daxian paraded the world. Seeing the drought at Zhuyuan D
 
 
 
-![AstroPaper I18n](/public/the-barefoot-immortal-a-dai-folktale.png)
+![AstroPaper I18n](/the-barefoot-immortal-a-dai-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The shepherd was the son of Soma and was whipped by his owner for 
 
 
 
-![AstroPaper I18n](/public/the-herd-boy-and-the-swift-horse.png)
+![AstroPaper I18n](/the-herd-boy-and-the-swift-horse.png)
 
 
 

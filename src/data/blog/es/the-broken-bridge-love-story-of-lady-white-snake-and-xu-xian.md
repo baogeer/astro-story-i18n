@@ -8,7 +8,7 @@ description: "Bai Niang Zi y Xu Xian se conocieron en el Puente Roto del Lago Oc
 
 
 
-![AstroPaper I18n](/public/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
 
 
 

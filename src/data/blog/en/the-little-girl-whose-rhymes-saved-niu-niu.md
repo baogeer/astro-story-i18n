@@ -8,7 +8,7 @@ description: "Little girl, Little Jenny loves to write jingles and taught brain-
 
 
 
-![AstroPaper I18n](/public/the-little-girl-whose-rhymes-saved-niu-niu.png)
+![AstroPaper I18n](/the-little-girl-whose-rhymes-saved-niu-niu.png)
 
 
 

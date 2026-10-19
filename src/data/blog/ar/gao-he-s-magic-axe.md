@@ -8,7 +8,7 @@ description: "بعد وفاة «إله الفأس» يان وو، استخدم �
 
 
 
-![AstroPaper I18n](/public/gao-he-s-magic-axe.png)
+![AstroPaper I18n](/gao-he-s-magic-axe.png)
 
 
 

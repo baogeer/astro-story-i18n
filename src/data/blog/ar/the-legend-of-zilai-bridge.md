@@ -8,7 +8,7 @@ description: "تم تدمير جسر جيراي، المعروف أصلاً با
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zilai-bridge.png)
+![AstroPaper I18n](/the-legend-of-zilai-bridge.png)
 
 
 

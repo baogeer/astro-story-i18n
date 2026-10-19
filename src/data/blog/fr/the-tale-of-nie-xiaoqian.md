@@ -8,7 +8,7 @@ description: "Ning Caichen a rencontré l'épéiste Yan Chixia à Huangsi et a r
 
 
 
-![AstroPaper I18n](/public/the-tale-of-nie-xiaoqian.png)
+![AstroPaper I18n](/the-tale-of-nie-xiaoqian.png)
 
 
 

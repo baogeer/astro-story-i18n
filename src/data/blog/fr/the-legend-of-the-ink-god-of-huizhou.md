@@ -8,7 +8,7 @@ description: "Gu Yu Ting a été trompé par le père et le fils de la famille M
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ink-god-of-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-ink-god-of-huizhou.png)
 
 
 

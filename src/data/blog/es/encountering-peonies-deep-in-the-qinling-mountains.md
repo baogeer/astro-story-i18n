@@ -8,7 +8,7 @@ description: "Durante el período Wanli de la dinastía Ming, el famoso médico 
 
 
 
-![AstroPaper I18n](/public/encountering-peonies-deep-in-the-qinling-mountains.png)
+![AstroPaper I18n](/encountering-peonies-deep-in-the-qinling-mountains.png)
 
 
 

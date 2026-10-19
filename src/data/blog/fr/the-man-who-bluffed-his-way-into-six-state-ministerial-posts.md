@@ -8,7 +8,7 @@ description: "Su Qin est venu d'une ferme, a appris l'art de la guerre verticale
 
 
 
-![AstroPaper I18n](/public/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
+![AstroPaper I18n](/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
 
 
 

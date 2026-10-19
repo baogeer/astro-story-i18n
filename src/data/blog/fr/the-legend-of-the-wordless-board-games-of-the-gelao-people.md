@@ -8,7 +8,7 @@ description: "Les Yilao de Wuchuan, dans le Guizhou, proposent une variété de 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
+![AstroPaper I18n](/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
 
 
 

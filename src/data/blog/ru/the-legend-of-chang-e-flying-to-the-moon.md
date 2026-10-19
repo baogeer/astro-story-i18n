@@ -8,7 +8,7 @@ description: "Хоу И вручил лекарство бессмертия с�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chang-e-flying-to-the-moon.png)
+![AstroPaper I18n](/the-legend-of-chang-e-flying-to-the-moon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن امرأة عجوز من الشما
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ade-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-ade-the-miao-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ху Му помнит третье поколение. В про�
 
 
 
-![AstroPaper I18n](/public/three-lives.png)
+![AstroPaper I18n](/three-lives.png)
 
 
 

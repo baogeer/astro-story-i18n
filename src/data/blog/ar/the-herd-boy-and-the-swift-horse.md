@@ -8,7 +8,7 @@ description: "كان الراعي ابن سوما وتعرض للجلد من ق�
 
 
 
-![AstroPaper I18n](/public/the-herd-boy-and-the-swift-horse.png)
+![AstroPaper I18n](/the-herd-boy-and-the-swift-horse.png)
 
 
 

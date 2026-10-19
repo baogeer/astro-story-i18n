@@ -8,7 +8,7 @@ description: "Mère Wang a été très gentille avec les gens et a construit deu
 
 
 
-![AstroPaper I18n](/public/the-heavenly-queen-mother-who-fed-the-people.png)
+![AstroPaper I18n](/the-heavenly-queen-mother-who-fed-the-people.png)
 
 
 

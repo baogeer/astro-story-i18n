@@ -8,7 +8,7 @@ description: "Shi Shaokang era originario de Jinyun en la dinast√≠a Tang. Mostr√
 
 
 
-![AstroPaper I18n](/public/the-story-of-master-shaokang-fifth-patriarch-of-the-lotus-school.png)
+![AstroPaper I18n](/the-story-of-master-shaokang-fifth-patriarch-of-the-lotus-school.png)
 
 
 

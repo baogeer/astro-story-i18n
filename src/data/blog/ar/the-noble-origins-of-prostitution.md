@@ -8,7 +8,7 @@ description: "تتتبع القصة أصل البغايا للسحرة في ال
 
 
 
-![AstroPaper I18n](/public/the-noble-origins-of-prostitution.png)
+![AstroPaper I18n](/the-noble-origins-of-prostitution.png)
 
 
 

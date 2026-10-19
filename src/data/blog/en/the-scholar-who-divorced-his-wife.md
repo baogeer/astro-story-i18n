@@ -8,7 +8,7 @@ description: "Lu Xiucai from Guangdong in the Southern Song Dynasty married the 
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-scholar-who-divorced-his-wife.png)
 
 
 

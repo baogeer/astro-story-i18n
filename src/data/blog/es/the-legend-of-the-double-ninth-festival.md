@@ -8,7 +8,7 @@ description: "El adolescente Jing Heng vengó al dios de la peste y pasó diez a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-ninth-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-ninth-festival.png)
 
 
 

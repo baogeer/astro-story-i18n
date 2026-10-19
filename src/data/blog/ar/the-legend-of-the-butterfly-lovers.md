@@ -8,7 +8,7 @@ description: "قامت ليانغ شانبو بزيارة الأصدقاء وع�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-butterfly-lovers.png)
+![AstroPaper I18n](/the-legend-of-the-butterfly-lovers.png)
 
 
 

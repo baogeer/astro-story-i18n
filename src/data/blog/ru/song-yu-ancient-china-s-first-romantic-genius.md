@@ -8,7 +8,7 @@ description: "Сун Ю, уроженец Чу в период Воюющих ц
 
 
 
-![AstroPaper I18n](/public/song-yu-ancient-china-s-first-romantic-genius.png)
+![AstroPaper I18n](/song-yu-ancient-china-s-first-romantic-genius.png)
 
 
 

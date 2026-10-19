@@ -8,7 +8,7 @@ description: "كانت امرأة تغسل الملابس بجانب النهر.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
 
 
 

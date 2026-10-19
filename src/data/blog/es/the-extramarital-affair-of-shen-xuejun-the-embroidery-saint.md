@@ -8,7 +8,7 @@ description: "Shen Xuejun, un bordador de finales de la dinastía Qing, tiene ex
 
 
 
-![AstroPaper I18n](/public/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
+![AstroPaper I18n](/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
 
 
 

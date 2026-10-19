@@ -8,7 +8,7 @@ description: "The brothers and sisters of the Yi tribe survived after the flood.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-flower-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-flower-festival.png)
 
 
 

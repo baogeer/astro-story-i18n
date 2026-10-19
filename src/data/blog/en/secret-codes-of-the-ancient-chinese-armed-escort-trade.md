@@ -8,7 +8,7 @@ description: "The rules of darts in ancient times were strict: “don't stay” 
 
 
 
-![AstroPaper I18n](/public/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
+![AstroPaper I18n](/secret-codes-of-the-ancient-chinese-armed-escort-trade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت ليانغ هونغيو في الأصل مومس من ج�
 
 
 
-![AstroPaper I18n](/public/the-courtesan-general-who-defeated-the-jin-army.png)
+![AstroPaper I18n](/the-courtesan-general-who-defeated-the-jin-army.png)
 
 
 

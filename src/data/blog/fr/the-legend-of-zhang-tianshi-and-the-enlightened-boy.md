@@ -8,7 +8,7 @@ description: "Zhang Tianshi a secouru l'orphelin et a choisi un trésor Feng Shu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
 
 
 

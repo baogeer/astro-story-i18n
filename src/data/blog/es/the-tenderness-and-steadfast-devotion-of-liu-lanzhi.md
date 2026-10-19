@@ -8,7 +8,7 @@ description: "Liu Lanzhi y Jiao Zhongqing están enamorados, pero la madre de Ji
 
 
 
-![AstroPaper I18n](/public/the-tenderness-and-steadfast-devotion-of-liu-lanzhi.png)
+![AstroPaper I18n](/the-tenderness-and-steadfast-devotion-of-liu-lanzhi.png)
 
 
 

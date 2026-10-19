@@ -8,7 +8,7 @@ description: "Shimen Mountain has Shimen. Legend has it that an old white-haired
 
 
 
-![AstroPaper I18n](/public/the-stone-gate-mountain.png)
+![AstroPaper I18n](/the-stone-gate-mountain.png)
 
 
 

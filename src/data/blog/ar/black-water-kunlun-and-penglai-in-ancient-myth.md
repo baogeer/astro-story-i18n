@@ -8,7 +8,7 @@ description: "لا تعتبر هيشوي وكونلون وهوراي في الأ
 
 
 
-![AstroPaper I18n](/public/black-water-kunlun-and-penglai-in-ancient-myth.png)
+![AstroPaper I18n](/black-water-kunlun-and-penglai-in-ancient-myth.png)
 
 
 

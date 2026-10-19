@@ -8,7 +8,7 @@ description: "كانت Chang'e في الأصل جنية. بسبب زواج هو 
 
 
 
-![AstroPaper I18n](/public/chang-e-ascends-to-heaven.png)
+![AstroPaper I18n](/chang-e-ascends-to-heaven.png)
 
 
 

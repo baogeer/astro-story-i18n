@@ -8,7 +8,7 @@ description: "Aunque Lu Dongbin es un inmortal, tiene un buen color de vino. Tam
 
 
 
-![AstroPaper I18n](/public/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
+![AstroPaper I18n](/the-lustful-immortal-lu-dongbin-s-three-trysts-with-white-peony.png)
 
 
 

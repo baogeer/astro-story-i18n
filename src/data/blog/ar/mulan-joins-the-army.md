@@ -8,7 +8,7 @@ description: "في شمال وي، بسبب شيخوخة والدها، انضم
 
 
 
-![AstroPaper I18n](/public/mulan-joins-the-army.png)
+![AstroPaper I18n](/mulan-joins-the-army.png)
 
 
 

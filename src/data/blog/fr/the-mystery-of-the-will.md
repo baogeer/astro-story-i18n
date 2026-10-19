@@ -8,7 +8,7 @@ description: "Le millionnaire a laissé un testament mystérieux, exigeant une r
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-will.png)
+![AstroPaper I18n](/the-mystery-of-the-will.png)
 
 
 

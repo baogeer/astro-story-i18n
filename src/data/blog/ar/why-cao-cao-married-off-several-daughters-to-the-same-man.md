@@ -8,7 +8,7 @@ description: "من أجل تأمين سلطته، تزوج كاو كاو من ك
 
 
 
-![AstroPaper I18n](/public/why-cao-cao-married-off-several-daughters-to-the-same-man.png)
+![AstroPaper I18n](/why-cao-cao-married-off-several-daughters-to-the-same-man.png)
 
 
 

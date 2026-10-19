@@ -8,7 +8,7 @@ description: "Ван Ююнь, известная знаменитость эп�
 
 
 
-![AstroPaper I18n](/public/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
+![AstroPaper I18n](/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Увидев, что битва между Чжу Жун и про
 
 
 
-![AstroPaper I18n](/public/the-myth-of-nuwa-mending-the-sky.png)
+![AstroPaper I18n](/the-myth-of-nuwa-mending-the-sky.png)
 
 
 

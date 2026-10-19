@@ -8,7 +8,7 @@ description: "Una niña de cabello largo de la etnia Dong descubrió que el dios
 
 
 
-![AstroPaper I18n](/public/the-long-haired-maiden-a-dong-folktale.png)
+![AstroPaper I18n](/the-long-haired-maiden-a-dong-folktale.png)
 
 
 

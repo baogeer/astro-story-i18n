@@ -8,7 +8,7 @@ description: "Hay muchas historias interesantes que circulan entre la gente del 
 
 
 
-![AstroPaper I18n](/public/amusing-folk-couplet-tales-from-southern-anhui.png)
+![AstroPaper I18n](/amusing-folk-couplet-tales-from-southern-anhui.png)
 
 
 

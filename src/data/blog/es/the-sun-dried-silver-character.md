@@ -8,7 +8,7 @@ description: "Liu Mancheng, propietario de la posada Yuejia en la ciudad de Qixi
 
 
 
-![AstroPaper I18n](/public/the-sun-dried-silver-character.png)
+![AstroPaper I18n](/the-sun-dried-silver-character.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le comté de Wu a un commissaire de comté fort et résolu. Voyant
 
 
 
-![AstroPaper I18n](/public/the-magistrate-of-wu-county.png)
+![AstroPaper I18n](/the-magistrate-of-wu-county.png)
 
 
 

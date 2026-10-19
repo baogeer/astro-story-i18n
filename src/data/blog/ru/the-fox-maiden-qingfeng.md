@@ -8,7 +8,7 @@ description: "Гэн сошёл с ума и сошёл с ума. Ночью о
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-qingfeng.png)
+![AstroPaper I18n](/the-fox-maiden-qingfeng.png)
 
 
 

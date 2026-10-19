@@ -8,7 +8,7 @@ description: "In addition to the male remains, the remains of two women were als
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-woman-buried-with-cao-cao.png)
+![AstroPaper I18n](/the-mystery-of-the-woman-buried-with-cao-cao.png)
 
 
 

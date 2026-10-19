@@ -8,7 +8,7 @@ description: "خلال عهد أسرة سونغ الجنوبية، تم تلفي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-vinegar-fish.png)
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
 
 
 

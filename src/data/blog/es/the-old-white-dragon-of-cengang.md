@@ -8,7 +8,7 @@ description: "El emperador Jade prohibió el acceso al agua a Cengang Bai Laolon
 
 
 
-![AstroPaper I18n](/public/the-old-white-dragon-of-cengang.png)
+![AstroPaper I18n](/the-old-white-dragon-of-cengang.png)
 
 
 

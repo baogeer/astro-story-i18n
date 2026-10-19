@@ -8,7 +8,7 @@ description: "Дядя Сун Ю из Лайяна арендовал забро
 
 
 
-![AstroPaper I18n](/public/the-old-woman-who-sprayed-water.png)
+![AstroPaper I18n](/the-old-woman-who-sprayed-water.png)
 
 
 

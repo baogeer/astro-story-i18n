@@ -8,7 +8,7 @@ description: "Après que Zhou Wu et Wang aient détruit Shang, Jiang Ziya a reç
 
 
 
-![AstroPaper I18n](/public/the-death-of-daji.png)
+![AstroPaper I18n](/the-death-of-daji.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Solangazi's wife, Sheba Zhuo, was delicious and lazy, and also abu
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-ox-the-donkey-the-rooster-and-the-couple.png)
+![AstroPaper I18n](/the-story-of-the-ox-the-donkey-the-rooster-and-the-couple.png)
 
 
 

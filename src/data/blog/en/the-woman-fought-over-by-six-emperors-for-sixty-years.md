@@ -8,7 +8,7 @@ description: "Empress Hsiao is naturally beautiful and has a peach blossom in he
 
 
 
-![AstroPaper I18n](/public/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
+![AstroPaper I18n](/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
 
 
 

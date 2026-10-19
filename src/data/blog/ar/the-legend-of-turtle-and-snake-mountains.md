@@ -8,7 +8,7 @@ description: "ستتم معاقبة السلحفاة والأفعى 2 من قب�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-turtle-and-snake-mountains.png)
+![AstroPaper I18n](/the-legend-of-turtle-and-snake-mountains.png)
 
 
 

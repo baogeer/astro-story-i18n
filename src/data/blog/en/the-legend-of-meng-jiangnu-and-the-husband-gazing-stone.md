@@ -8,7 +8,7 @@ description: "According to the legend of Wangfu Shishan in Ye County, Meng Jiang
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-and-the-husband-gazing-stone.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-and-the-husband-gazing-stone.png)
 
 
 

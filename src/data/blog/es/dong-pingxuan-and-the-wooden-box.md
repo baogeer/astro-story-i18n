@@ -8,7 +8,7 @@ description: "Una caja de madera excavada bajo una acacia en su ciudad natal, Do
 
 
 
-![AstroPaper I18n](/public/dong-pingxuan-and-the-wooden-box.png)
+![AstroPaper I18n](/dong-pingxuan-and-the-wooden-box.png)
 
 
 

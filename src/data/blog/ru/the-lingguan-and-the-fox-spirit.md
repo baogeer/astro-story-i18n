@@ -8,7 +8,7 @@ description: "Чаотянь Гуань завязал даосскую друж
 
 
 
-![AstroPaper I18n](/public/the-lingguan-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-lingguan-and-the-fox-spirit.png)
 
 
 

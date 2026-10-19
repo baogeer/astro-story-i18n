@@ -8,7 +8,7 @@ description: "أثناء العمل مع لي يو، قابلت شياو فاي 
 
 
 
-![AstroPaper I18n](/public/a-day-laborer-s-lucky-encounter.png)
+![AstroPaper I18n](/a-day-laborer-s-lucky-encounter.png)
 
 
 

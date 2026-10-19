@@ -8,7 +8,7 @@ description: "Qiantang tuvo una vez dos Su Xiaoxiao: una era una famosa prostitu
 
 
 
-![AstroPaper I18n](/public/the-two-su-xiaoxiao-of-qiantang.png)
+![AstroPaper I18n](/the-two-su-xiaoxiao-of-qiantang.png)
 
 
 

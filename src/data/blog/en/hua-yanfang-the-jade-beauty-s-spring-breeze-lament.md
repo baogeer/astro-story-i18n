@@ -8,7 +8,7 @@ description: "Wang Yuyun, a famous celebrity in the late Qing dynasty, performed
 
 
 
-![AstroPaper I18n](/public/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
+![AstroPaper I18n](/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
 
 
 

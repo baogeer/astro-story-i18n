@@ -8,7 +8,7 @@ description: "Dr. Zhang, an old traditional Chinese medicine practitioner, died 
 
 
 
-![AstroPaper I18n](/public/the-death-of-doctor-zhang.png)
+![AstroPaper I18n](/the-death-of-doctor-zhang.png)
 
 
 

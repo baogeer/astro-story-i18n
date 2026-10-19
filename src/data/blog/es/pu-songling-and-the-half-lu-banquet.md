@@ -8,7 +8,7 @@ description: "Pu Songling recibió el post del primer ministro titulado «Por fa
 
 
 
-![AstroPaper I18n](/public/pu-songling-and-the-half-lu-banquet.png)
+![AstroPaper I18n](/pu-songling-and-the-half-lu-banquet.png)
 
 
 

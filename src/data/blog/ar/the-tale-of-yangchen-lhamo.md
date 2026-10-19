@@ -8,7 +8,7 @@ description: "أُجبر يوجين رام على التجول لأن رئيسه
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yangchen-lhamo.png)
+![AstroPaper I18n](/the-tale-of-yangchen-lhamo.png)
 
 
 

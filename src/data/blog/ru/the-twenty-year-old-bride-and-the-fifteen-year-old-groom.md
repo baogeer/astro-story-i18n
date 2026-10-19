@@ -8,7 +8,7 @@ description: "Лан Лань, дочери из округа Чэньчжи в 
 
 
 
-![AstroPaper I18n](/public/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
+![AstroPaper I18n](/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
 
 
 

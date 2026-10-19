@@ -8,7 +8,7 @@ description: "وفقًا لأساطير Naxi، فإن البشر والتنين 
 
 
 
-![AstroPaper I18n](/public/the-naxi-legend-of-man-and-dragon.png)
+![AstroPaper I18n](/the-naxi-legend-of-man-and-dragon.png)
 
 
 

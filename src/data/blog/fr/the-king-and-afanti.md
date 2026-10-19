@@ -8,7 +8,7 @@ description: "Le roi et Avanti ont passé la nuit à chasser dans la vallée. Le
 
 
 
-![AstroPaper I18n](/public/the-king-and-afanti.png)
+![AstroPaper I18n](/the-king-and-afanti.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Yayuan, un jeune de l'ethnie Zhuang, s'est procuré une queu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hundred-bird-robe.png)
+![AstroPaper I18n](/the-legend-of-the-hundred-bird-robe.png)
 
 
 

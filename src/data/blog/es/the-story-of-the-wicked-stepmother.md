@@ -8,7 +8,7 @@ description: "Había una vez un hombre Siber cuya esposa murió dejando atrás a
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-wicked-stepmother.png)
+![AstroPaper I18n](/the-story-of-the-wicked-stepmother.png)
 
 
 

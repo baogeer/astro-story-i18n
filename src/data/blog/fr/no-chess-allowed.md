@@ -8,7 +8,7 @@ description: "Le poète de la dynastie Tang Li Yuan a été confondu par Tang Xu
 
 
 
-![AstroPaper I18n](/public/no-chess-allowed.png)
+![AstroPaper I18n](/no-chess-allowed.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Пожилая пара Йи любила своего единс�
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
+![AstroPaper I18n](/a-yangbi-yi-folk-tale-hard-work-is-the-root-of-wealth.png)
 
 
 

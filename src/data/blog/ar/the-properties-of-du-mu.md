@@ -8,7 +8,7 @@ description: "ينتمي دو مو إلى عشيرة جينغزاو دوجي، �
 
 
 
-![AstroPaper I18n](/public/the-properties-of-du-mu.png)
+![AstroPaper I18n](/the-properties-of-du-mu.png)
 
 
 

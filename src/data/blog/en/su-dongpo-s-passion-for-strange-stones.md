@@ -8,7 +8,7 @@ description: "Song dynasty writer Su Dongpo is addicted to stone. My cousin gave
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-passion-for-strange-stones.png)
+![AstroPaper I18n](/su-dongpo-s-passion-for-strange-stones.png)
 
 
 

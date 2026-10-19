@@ -8,7 +8,7 @@ description: "امرأة مشهورة ترتدي زي رجل في الامتحا
 
 
 
-![AstroPaper I18n](/public/wen-fei-e-s-fated-matchmaking.png)
+![AstroPaper I18n](/wen-fei-e-s-fated-matchmaking.png)
 
 
 

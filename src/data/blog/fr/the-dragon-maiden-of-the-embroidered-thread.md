@@ -8,7 +8,7 @@ description: "Pour soulager la sécheresse, Zheng Xihua a utilisé 49 jours pour
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-of-the-embroidered-thread.png)
+![AstroPaper I18n](/the-dragon-maiden-of-the-embroidered-thread.png)
 
 
 

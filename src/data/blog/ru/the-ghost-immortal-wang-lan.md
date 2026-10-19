@@ -8,7 +8,7 @@ description: "Ван Ланя, уроженца Рицу, по ошибке об
 
 
 
-![AstroPaper I18n](/public/the-ghost-immortal-wang-lan.png)
+![AstroPaper I18n](/the-ghost-immortal-wang-lan.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Монгольская мифология гласит, что и�
 
 
 
-![AstroPaper I18n](/public/mongolian-creation-myths.png)
+![AstroPaper I18n](/mongolian-creation-myths.png)
 
 
 

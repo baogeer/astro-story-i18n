@@ -8,7 +8,7 @@ description: "لي تشينغزاو وزاو مينغتشنغ صديقان مق�
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
+![AstroPaper I18n](/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
 
 
 

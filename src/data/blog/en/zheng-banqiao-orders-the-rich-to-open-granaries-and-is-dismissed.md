@@ -8,7 +8,7 @@ description: "When Zheng Banqiao was in Zhi County in Shandong, he was hungry an
 
 
 
-![AstroPaper I18n](/public/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
+![AstroPaper I18n](/zheng-banqiao-orders-the-rich-to-open-granaries-and-is-dismissed.png)
 
 
 

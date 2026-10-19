@@ -8,7 +8,7 @@ description: "منذ زمن بعيد، سرق ملك الشياطين الشرس
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-water-splashing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dai-water-splashing-festival.png)
 
 
 

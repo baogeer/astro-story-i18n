@@ -8,7 +8,7 @@ description: "El cazador trajo tres perros de caza para cazar en el monte Bimo e
 
 
 
-![AstroPaper I18n](/public/the-hunter-flees-bimo-mountain.png)
+![AstroPaper I18n](/the-hunter-flees-bimo-mountain.png)
 
 
 

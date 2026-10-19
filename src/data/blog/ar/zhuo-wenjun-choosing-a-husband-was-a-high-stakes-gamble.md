@@ -8,7 +8,7 @@ description: "Zhuo Wenjun أرملة حديثًا. سيما شيانغ تختا�
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-choosing-a-husband-was-a-high-stakes-gamble.png)
+![AstroPaper I18n](/zhuo-wenjun-choosing-a-husband-was-a-high-stakes-gamble.png)
 
 
 

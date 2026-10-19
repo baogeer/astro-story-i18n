@@ -8,7 +8,7 @@ description: "تم سحر الناس في نانزاو من قبل الخونة�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nuwa-s-descendants.png)
+![AstroPaper I18n](/the-legend-of-nuwa-s-descendants.png)
 
 
 

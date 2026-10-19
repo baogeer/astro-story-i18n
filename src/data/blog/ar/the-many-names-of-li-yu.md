@@ -8,7 +8,7 @@ description: "انتقلت لي يو، المعروفة سابقًا كزوجي�
 
 
 
-![AstroPaper I18n](/public/the-many-names-of-li-yu.png)
+![AstroPaper I18n](/the-many-names-of-li-yu.png)
 
 
 

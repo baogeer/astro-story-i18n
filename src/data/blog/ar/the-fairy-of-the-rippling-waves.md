@@ -8,7 +8,7 @@ description: "خلال سنوات جينغتاي من عهد أسرة مينغ،
 
 
 
-![AstroPaper I18n](/public/the-fairy-of-the-rippling-waves.png)
+![AstroPaper I18n](/the-fairy-of-the-rippling-waves.png)
 
 
 

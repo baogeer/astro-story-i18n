@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن الصبي هو بوذا جيد، �
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-eats-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-eats-the-moon.png)
 
 
 

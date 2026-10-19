@@ -8,7 +8,7 @@ description: "M. Hu voulait semer la confusion dans le monde souterrain. Son emp
 
 
 
-![AstroPaper I18n](/public/the-way-of-the-human-world.png)
+![AstroPaper I18n](/the-way-of-the-human-world.png)
 
 
 

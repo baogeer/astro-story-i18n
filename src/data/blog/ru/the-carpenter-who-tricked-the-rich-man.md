@@ -8,7 +8,7 @@ description: "В отместку богачам, которые часто из
 
 
 
-![AstroPaper I18n](/public/the-carpenter-who-tricked-the-rich-man.png)
+![AstroPaper I18n](/the-carpenter-who-tricked-the-rich-man.png)
 
 
 

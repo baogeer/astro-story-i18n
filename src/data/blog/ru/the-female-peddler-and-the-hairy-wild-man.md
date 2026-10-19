@@ -8,7 +8,7 @@ description: "Женщина осталась на ночь и узнала пр
 
 
 
-![AstroPaper I18n](/public/the-female-peddler-and-the-hairy-wild-man.png)
+![AstroPaper I18n](/the-female-peddler-and-the-hairy-wild-man.png)
 
 
 

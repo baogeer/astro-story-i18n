@@ -8,7 +8,7 @@ description: "Cai Wenji a été enlevé dans le sud de la Hongrie pendant la gue
 
 
 
-![AstroPaper I18n](/public/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
+![AstroPaper I18n](/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
 
 
 

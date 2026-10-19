@@ -8,7 +8,7 @@ description: "Le vieil homme était mécontent de la paresse de son fils et lui 
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-gold-coin.png)
+![AstroPaper I18n](/the-story-of-a-gold-coin.png)
 
 
 

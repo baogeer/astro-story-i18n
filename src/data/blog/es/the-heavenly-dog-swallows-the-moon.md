@@ -8,7 +8,7 @@ description: "La madre de Mu Lian usó bollos de carne de perro al vapor para en
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-swallows-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-swallows-the-moon.png)
 
 
 

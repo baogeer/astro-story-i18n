@@ -8,7 +8,7 @@ description: "Когда строилась Великая стена Бадал
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-king-of-hell-at-badaling-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-king-of-hell-at-badaling-great-wall.png)
 
 
 

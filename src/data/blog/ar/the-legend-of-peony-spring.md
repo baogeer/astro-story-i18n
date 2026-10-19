@@ -8,7 +8,7 @@ description: "تعيش عائلة مودان تحت جبل لونغمن. تعر�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-peony-spring.png)
+![AstroPaper I18n](/the-legend-of-peony-spring.png)
 
 
 

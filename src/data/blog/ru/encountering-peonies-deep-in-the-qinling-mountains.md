@@ -8,7 +8,7 @@ description: "В период правления Ваньли династии �
 
 
 
-![AstroPaper I18n](/public/encountering-peonies-deep-in-the-qinling-mountains.png)
+![AstroPaper I18n](/encountering-peonies-deep-in-the-qinling-mountains.png)
 
 
 

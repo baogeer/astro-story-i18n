@@ -8,7 +8,7 @@ description: "أمضى راعي البقر أيامه بمفرده، وساعد 
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl.png)
 
 
 

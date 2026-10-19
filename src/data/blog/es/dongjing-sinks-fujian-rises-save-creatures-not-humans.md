@@ -8,7 +8,7 @@ description: "Cuentos populares del sur de Fujian: Los ricos de Tokio son tacañ
 
 
 
-![AstroPaper I18n](/public/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
+![AstroPaper I18n](/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
 
 
 

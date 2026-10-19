@@ -8,7 +8,7 @@ description: "أنقذ دونغ تشاو نملة عندما عبر نهر كي�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-ant-king-s-gratitude.png)
+![AstroPaper I18n](/the-story-of-the-ant-king-s-gratitude.png)
 
 
 

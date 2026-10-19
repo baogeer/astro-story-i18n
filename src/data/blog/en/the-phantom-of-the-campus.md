@@ -8,7 +8,7 @@ description: "Lin Xiaonan met the ghost of a blind woman while studying on her o
 
 
 
-![AstroPaper I18n](/public/the-phantom-of-the-campus.png)
+![AstroPaper I18n](/the-phantom-of-the-campus.png)
 
 
 

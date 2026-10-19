@@ -8,7 +8,7 @@ description: "Ван Чжихэ зарабатывал на жизнь прод�
 
 
 
-![AstroPaper I18n](/public/the-legendary-origin-of-huizhou-stinky-tofu.png)
+![AstroPaper I18n](/the-legendary-origin-of-huizhou-stinky-tofu.png)
 
 
 

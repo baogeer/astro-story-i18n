@@ -8,7 +8,7 @@ description: "Jiang Shixiong a eu du mal à fonder une famille à cause de sa mo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-eryi-lou-king-of-tulou.png)
+![AstroPaper I18n](/the-legend-of-eryi-lou-king-of-tulou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Fisherman Liuhe lost his father when he was young, and his mother 
 
 
 
-![AstroPaper I18n](/public/liuhe-fills-the-qiantang-river.png)
+![AstroPaper I18n](/liuhe-fills-the-qiantang-river.png)
 
 
 

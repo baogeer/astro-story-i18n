@@ -8,7 +8,7 @@ description: "Lang Zhong went to Shimen Mountain alone to collect medicine and n
 
 
 
-![AstroPaper I18n](/public/three-men-in-peril-on-stone-gate-mountain.png)
+![AstroPaper I18n](/three-men-in-peril-on-stone-gate-mountain.png)
 
 
 

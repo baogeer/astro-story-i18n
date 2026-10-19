@@ -8,7 +8,7 @@ description: "كانت شيه تزو في الأصل امرأة من جبل زي
 
 
 
-![AstroPaper I18n](/public/the-earliest-victim-xi-shi.png)
+![AstroPaper I18n](/the-earliest-victim-xi-shi.png)
 
 
 

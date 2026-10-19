@@ -8,7 +8,7 @@ description: "Во времена Сон Чжин Чжона премьер-ми
 
 
 
-![AstroPaper I18n](/public/two-northern-song-chancellors-vying-to-marry-a-widow.png)
+![AstroPaper I18n](/two-northern-song-chancellors-vying-to-marry-a-widow.png)
 
 
 

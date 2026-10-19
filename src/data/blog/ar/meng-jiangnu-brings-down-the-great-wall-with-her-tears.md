@@ -8,7 +8,7 @@ description: "تزوجت المرأة منغ جيانغ من الهارب فان
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
+![AstroPaper I18n](/meng-jiangnu-brings-down-the-great-wall-with-her-tears.png)
 
 
 

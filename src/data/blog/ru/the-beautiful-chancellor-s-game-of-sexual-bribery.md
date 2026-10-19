@@ -8,7 +8,7 @@ description: "Чтобы закрепить власть в гареме, Шан
 
 
 
-![AstroPaper I18n](/public/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
+![AstroPaper I18n](/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
 
 
 

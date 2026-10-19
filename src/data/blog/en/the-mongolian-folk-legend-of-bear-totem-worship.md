@@ -8,7 +8,7 @@ description: "In Mongolian legends, bears are regarded as sacred ancestors. Afte
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-bear-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-bear-totem-worship.png)
 
 
 

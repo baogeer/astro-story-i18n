@@ -8,7 +8,7 @@ description: "Го Вэн, император династии Тан, в гне
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-drunken-beating-of-the-princess.png)
+![AstroPaper I18n](/the-tale-of-the-drunken-beating-of-the-princess.png)
 
 
 

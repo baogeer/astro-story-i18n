@@ -8,7 +8,7 @@ description: "قام المحقق يانغ شين بالتحقيق في انتح
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-the-suicide.png)
+![AstroPaper I18n](/the-truth-behind-the-suicide.png)
 
 
 

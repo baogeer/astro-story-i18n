@@ -8,7 +8,7 @@ description: "وانغ شياور مخلص ولطيف. يرقد على الجل�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
+![AstroPaper I18n](/the-legend-of-wang-xiaoer-zhang-guolao-and-he-xiangu.png)
 
 
 

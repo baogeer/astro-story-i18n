@@ -8,7 +8,7 @@ description: "L'érudit Kong Sheng s'est exilé et a rencontré le prince Fu de 
 
 
 
-![AstroPaper I18n](/public/jiaona-the-fox-maiden.png)
+![AstroPaper I18n](/jiaona-the-fox-maiden.png)
 
 
 

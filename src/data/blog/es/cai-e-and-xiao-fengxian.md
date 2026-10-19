@@ -8,7 +8,7 @@ description: "Durante su tiempo contra Yuan Huguo, el general Choi tuvo una brev
 
 
 
-![AstroPaper I18n](/public/cai-e-and-xiao-fengxian.png)
+![AstroPaper I18n](/cai-e-and-xiao-fengxian.png)
 
 
 

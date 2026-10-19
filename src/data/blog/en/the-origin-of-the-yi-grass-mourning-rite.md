@@ -8,7 +8,7 @@ description: "In the past, both father and son were Abi. My son saw three green 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-grass-mourning-rite.png)
+![AstroPaper I18n](/the-origin-of-the-yi-grass-mourning-rite.png)
 
 
 

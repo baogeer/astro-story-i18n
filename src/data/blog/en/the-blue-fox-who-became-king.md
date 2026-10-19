@@ -8,7 +8,7 @@ description: "A hungry fox fell into the dyeing tank and falsely called “Ga Zh
 
 
 
-![AstroPaper I18n](/public/the-blue-fox-who-became-king.png)
+![AstroPaper I18n](/the-blue-fox-who-became-king.png)
 
 
 

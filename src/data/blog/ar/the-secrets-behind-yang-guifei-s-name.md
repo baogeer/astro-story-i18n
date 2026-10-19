@@ -8,7 +8,7 @@ description: "يُعرف يانغ جويفي باسم يو نو ويو نيان�
 
 
 
-![AstroPaper I18n](/public/the-secrets-behind-yang-guifei-s-name.png)
+![AstroPaper I18n](/the-secrets-behind-yang-guifei-s-name.png)
 
 
 

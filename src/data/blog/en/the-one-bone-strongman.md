@@ -8,7 +8,7 @@ description: "There is a powerful man with only one arm in Shema Village. The la
 
 
 
-![AstroPaper I18n](/public/the-one-bone-strongman.png)
+![AstroPaper I18n](/the-one-bone-strongman.png)
 
 
 

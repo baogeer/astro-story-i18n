@@ -8,7 +8,7 @@ description: "Le roi Dahan a offensé son neveu Shunzhi parce qu'il était ivre 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moli-temple-the-first-temple-on-the-mongolian-steppe.png)
+![AstroPaper I18n](/the-legend-of-moli-temple-the-first-temple-on-the-mongolian-steppe.png)
 
 
 

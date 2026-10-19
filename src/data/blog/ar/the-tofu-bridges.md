@@ -8,7 +8,7 @@ description: "في هانغتشو في عهد أسرة سونغ الجنوبية
 
 
 
-![AstroPaper I18n](/public/the-tofu-bridges.png)
+![AstroPaper I18n](/the-tofu-bridges.png)
 
 
 

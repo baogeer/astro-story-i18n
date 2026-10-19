@@ -8,7 +8,7 @@ description: "كان Zhong Kui موهوبًا للغاية وفاز بالمرك
 
 
 
-![AstroPaper I18n](/public/the-death-of-zhong-kui.png)
+![AstroPaper I18n](/the-death-of-zhong-kui.png)
 
 
 

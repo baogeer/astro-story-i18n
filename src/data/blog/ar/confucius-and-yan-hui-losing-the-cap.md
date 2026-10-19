@@ -8,7 +8,7 @@ description: "تجادل يان هوي مع المشتري فيما إذا كا�
 
 
 
-![AstroPaper I18n](/public/confucius-and-yan-hui-losing-the-cap.png)
+![AstroPaper I18n](/confucius-and-yan-hui-losing-the-cap.png)
 
 
 

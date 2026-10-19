@@ -8,7 +8,7 @@ description: "White Snake Jing, Bai Suzhen, adored the world and became close fr
 
 
 
-![AstroPaper I18n](/public/madam-white-snake-a-heavenly-beauty-wed-to-a-foolish-faithless-man.png)
+![AstroPaper I18n](/madam-white-snake-a-heavenly-beauty-wed-to-a-foolish-faithless-man.png)
 
 
 

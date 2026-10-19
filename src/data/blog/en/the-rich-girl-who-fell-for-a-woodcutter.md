@@ -8,7 +8,7 @@ description: "Li Mengjin, a poor kid, made a living by cutting firewood. He was 
 
 
 
-![AstroPaper I18n](/public/the-rich-girl-who-fell-for-a-woodcutter.png)
+![AstroPaper I18n](/the-rich-girl-who-fell-for-a-woodcutter.png)
 
 
 

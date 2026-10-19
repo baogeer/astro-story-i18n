@@ -8,7 +8,7 @@ description: "Le moine Huiming cultivait le thé du mont Emei à Jiansi à Hexi.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huiming-tea.png)
+![AstroPaper I18n](/the-legend-of-huiming-tea.png)
 
 
 

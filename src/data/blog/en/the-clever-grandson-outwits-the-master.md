@@ -8,7 +8,7 @@ description: "Grandpa was harassed by his husband when he was cutting firewood; 
 
 
 
-![AstroPaper I18n](/public/the-clever-grandson-outwits-the-master.png)
+![AstroPaper I18n](/the-clever-grandson-outwits-the-master.png)
 
 
 

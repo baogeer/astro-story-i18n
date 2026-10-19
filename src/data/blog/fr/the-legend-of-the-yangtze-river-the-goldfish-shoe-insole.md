@@ -8,7 +8,7 @@ description: "Une mère s'est endormie en brodant des semelles en forme de poiss
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-the-goldfish-shoe-insole.png)
 
 
 

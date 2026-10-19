@@ -8,7 +8,7 @@ description: "Un petit marchand a entreposé un sac d'orge contenant trois pièc
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-who-stole-the-gold-coins.png)
+![AstroPaper I18n](/the-innkeeper-who-stole-the-gold-coins.png)
 
 
 

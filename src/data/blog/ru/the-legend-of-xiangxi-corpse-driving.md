@@ -8,7 +8,7 @@ description: "Легенда об истреблении трупов жител
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiangxi-corpse-driving.png)
+![AstroPaper I18n](/the-legend-of-xiangxi-corpse-driving.png)
 
 
 

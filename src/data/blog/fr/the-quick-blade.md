@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Ming, il y avait de nombreux bandits à Z
 
 
 
-![AstroPaper I18n](/public/the-quick-blade.png)
+![AstroPaper I18n](/the-quick-blade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Доктор Чжан, давний практикующий тр�
 
 
 
-![AstroPaper I18n](/public/the-death-of-doctor-zhang.png)
+![AstroPaper I18n](/the-death-of-doctor-zhang.png)
 
 
 

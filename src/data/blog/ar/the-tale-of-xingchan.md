@@ -8,7 +8,7 @@ description: "حصل شينغ تشان على مكافأة من شينغ شيا�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xingchan.png)
+![AstroPaper I18n](/the-tale-of-xingchan.png)
 
 
 

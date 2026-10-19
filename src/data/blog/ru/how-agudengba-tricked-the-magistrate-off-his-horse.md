@@ -8,7 +8,7 @@ description: "Когда Агутомба увидел, как Мунемото 
 
 
 
-![AstroPaper I18n](/public/how-agudengba-tricked-the-magistrate-off-his-horse.png)
+![AstroPaper I18n](/how-agudengba-tricked-the-magistrate-off-his-horse.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Принцесса Цай Гуо Цай Цзи вышла заму
 
 
 
-![AstroPaper I18n](/public/a-young-bride-an-old-husband-and-a-bizarre-war.png)
+![AstroPaper I18n](/a-young-bride-an-old-husband-and-a-bizarre-war.png)
 
 
 

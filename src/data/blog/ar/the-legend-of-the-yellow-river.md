@@ -8,7 +8,7 @@ description: "تحكي أسطورة النهر الأصفر قصة التنين 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river.png)
 
 
 

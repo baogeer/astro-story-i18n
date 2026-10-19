@@ -8,7 +8,7 @@ description: "The surname Luo Changji from Yangyi Daimai was secretly accused an
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-the-luo-and-chang-families-of-damaidi.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-the-luo-and-chang-families-of-damaidi.png)
 
 
 

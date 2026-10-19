@@ -8,7 +8,7 @@ description: "Лю Бэй и Сунь Цзянь осадили «Желтые �
 
 
 
-![AstroPaper I18n](/public/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
+![AstroPaper I18n](/liu-bei-s-military-merit-and-sun-jian-s-connections.png)
 
 
 

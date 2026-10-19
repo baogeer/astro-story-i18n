@@ -8,7 +8,7 @@ description: "An Ning, a descendant of the Dong family, met a companion turned i
 
 
 
-![AstroPaper I18n](/public/the-devil-and-the-man.png)
+![AstroPaper I18n](/the-devil-and-the-man.png)
 
 
 

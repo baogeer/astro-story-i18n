@@ -8,7 +8,7 @@ description: "Tras perder la propiedad familiar, el perezoso conspiró para apod
 
 
 
-![AstroPaper I18n](/public/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
+![AstroPaper I18n](/the-lazy-man-who-schemed-to-marry-off-his-sister-in-law.png)
 
 
 

@@ -8,7 +8,7 @@ description: "An old leather craftsman in Hangzhou raised an abandoned leopard c
 
 
 
-![AstroPaper I18n](/public/the-cat-bridge.png)
+![AstroPaper I18n](/the-cat-bridge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Confucius lost his father when he was a child and moved to Qufu wi
 
 
 
-![AstroPaper I18n](/public/what-confucius-did-before-turning-thirty.png)
+![AstroPaper I18n](/what-confucius-did-before-turning-thirty.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Seyan, un litigante de finales de la dinastía Ming y princip
 
 
 
-![AstroPaper I18n](/public/the-thumbprint-that-changed-the-deed.png)
+![AstroPaper I18n](/the-thumbprint-that-changed-the-deed.png)
 
 
 

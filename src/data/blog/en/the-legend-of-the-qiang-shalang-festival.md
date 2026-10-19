@@ -8,7 +8,7 @@ description: "The Qiang goddess Shalang teaches the Qiang people to dance every 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-shalang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-shalang-festival.png)
 
 
 

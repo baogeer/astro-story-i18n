@@ -8,7 +8,7 @@ description: "استخدمت مروحة 15 عصيدة الأرز مقابل ال
 
 
 
-![AstroPaper I18n](/public/fan-shiwu-and-the-golden-toad.png)
+![AstroPaper I18n](/fan-shiwu-and-the-golden-toad.png)
 
 
 

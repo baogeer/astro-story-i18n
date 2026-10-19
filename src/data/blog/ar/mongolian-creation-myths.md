@@ -8,7 +8,7 @@ description: "تقول الأساطير المنغولية أن العالم ك�
 
 
 
-![AstroPaper I18n](/public/mongolian-creation-myths.png)
+![AstroPaper I18n](/mongolian-creation-myths.png)
 
 
 

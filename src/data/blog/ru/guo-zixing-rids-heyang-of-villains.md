@@ -8,7 +8,7 @@ description: "Го Цзысин спас сестру и брата Ван Ся�
 
 
 
-![AstroPaper I18n](/public/guo-zixing-rids-heyang-of-villains.png)
+![AstroPaper I18n](/guo-zixing-rids-heyang-of-villains.png)
 
 
 

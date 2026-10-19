@@ -8,7 +8,7 @@ description: "Лю Шивэнь, выпавшая из списка, из-за �
 
 
 
-![AstroPaper I18n](/public/the-white-fox.png)
+![AstroPaper I18n](/the-white-fox.png)
 
 
 

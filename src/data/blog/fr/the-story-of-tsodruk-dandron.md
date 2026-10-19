@@ -8,7 +8,7 @@ description: "Cuozhu Danqiong a été épousé par le diable. Après avoir écha
 
 
 
-![AstroPaper I18n](/public/the-story-of-tsodruk-dandron.png)
+![AstroPaper I18n](/the-story-of-tsodruk-dandron.png)
 
 
 

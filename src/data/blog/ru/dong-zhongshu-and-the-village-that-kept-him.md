@@ -8,7 +8,7 @@ description: "Дун Чжуншу, великий конфуцианец из д
 
 
 
-![AstroPaper I18n](/public/dong-zhongshu-and-the-village-that-kept-him.png)
+![AstroPaper I18n](/dong-zhongshu-and-the-village-that-kept-him.png)
 
 
 

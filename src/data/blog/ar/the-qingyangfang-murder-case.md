@@ -8,7 +8,7 @@ description: "في السنوات الأولى لجمهورية الصين، أ�
 
 
 
-![AstroPaper I18n](/public/the-qingyangfang-murder-case.png)
+![AstroPaper I18n](/the-qingyangfang-murder-case.png)
 
 
 

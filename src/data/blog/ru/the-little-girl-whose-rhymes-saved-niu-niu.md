@@ -8,7 +8,7 @@ description: "Маленькая Дженни любит писать джинг
 
 
 
-![AstroPaper I18n](/public/the-little-girl-whose-rhymes-saved-niu-niu.png)
+![AstroPaper I18n](/the-little-girl-whose-rhymes-saved-niu-niu.png)
 
 
 

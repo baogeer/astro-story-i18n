@@ -8,7 +8,7 @@ description: "Agutomba apostó con el siervo a que el señor aprendería a ladra
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-lord-learns-to-bark.png)
+![AstroPaper I18n](/agudengba-stories-the-lord-learns-to-bark.png)
 
 
 

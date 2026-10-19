@@ -8,7 +8,7 @@ description: "After Su Dongpo was demoted as the governor of Dingzhou, he cleane
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-anecdotes-in-dingzhou.png)
+![AstroPaper I18n](/su-dongpo-s-anecdotes-in-dingzhou.png)
 
 
 

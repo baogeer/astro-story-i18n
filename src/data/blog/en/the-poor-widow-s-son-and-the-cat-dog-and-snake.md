@@ -8,7 +8,7 @@ description: "The widow's son borrowed money three times to do business and only
 
 
 
-![AstroPaper I18n](/public/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
+![AstroPaper I18n](/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
 
 
 

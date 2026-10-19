@@ -8,7 +8,7 @@ description: "Оуян Боюнь, ученый из династии Мин, б
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ten-thousand-scrolls-peony.png)
+![AstroPaper I18n](/the-legend-of-the-ten-thousand-scrolls-peony.png)
 
 
 

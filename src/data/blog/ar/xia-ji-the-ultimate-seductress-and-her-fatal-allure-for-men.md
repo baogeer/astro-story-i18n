@@ -8,7 +8,7 @@ description: "امرأة تشونكيو الجميلة، شيا جي، جميل�
 
 
 
-![AstroPaper I18n](/public/xia-ji-the-ultimate-seductress-and-her-fatal-allure-for-men.png)
+![AstroPaper I18n](/xia-ji-the-ultimate-seductress-and-her-fatal-allure-for-men.png)
 
 
 

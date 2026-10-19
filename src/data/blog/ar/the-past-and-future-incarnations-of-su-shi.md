@@ -8,7 +8,7 @@ description: "أُشيع أن سلف سو شي هو الأجداد الخمسة�
 
 
 
-![AstroPaper I18n](/public/the-past-and-future-incarnations-of-su-shi.png)
+![AstroPaper I18n](/the-past-and-future-incarnations-of-su-shi.png)
 
 
 

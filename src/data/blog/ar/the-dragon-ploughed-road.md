@@ -8,7 +8,7 @@ description: "تمت مطاردة ليو شيو من أسرة هان الشرق�
 
 
 
-![AstroPaper I18n](/public/the-dragon-ploughed-road.png)
+![AstroPaper I18n](/the-dragon-ploughed-road.png)
 
 
 

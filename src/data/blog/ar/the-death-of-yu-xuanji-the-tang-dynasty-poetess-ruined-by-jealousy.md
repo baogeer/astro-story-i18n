@@ -8,7 +8,7 @@ description: "بعد زواجها من لي يي، وهي فتاة موهوبة 
 
 
 
-![AstroPaper I18n](/public/the-death-of-yu-xuanji-the-tang-dynasty-poetess-ruined-by-jealousy.png)
+![AstroPaper I18n](/the-death-of-yu-xuanji-the-tang-dynasty-poetess-ruined-by-jealousy.png)
 
 
 

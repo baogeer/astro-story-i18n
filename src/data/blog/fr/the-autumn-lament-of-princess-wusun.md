@@ -8,7 +8,7 @@ description: "La princesse Wu Sun Liu Xijun est la fille du roi du fleuve Han oc
 
 
 
-![AstroPaper I18n](/public/the-autumn-lament-of-princess-wusun.png)
+![AstroPaper I18n](/the-autumn-lament-of-princess-wusun.png)
 
 
 

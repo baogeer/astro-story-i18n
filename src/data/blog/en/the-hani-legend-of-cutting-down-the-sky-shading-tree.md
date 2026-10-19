@@ -8,7 +8,7 @@ description: "The ancestors of the Hani and Brown tribes united to cut down shad
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
+![AstroPaper I18n](/the-hani-legend-of-cutting-down-the-sky-shading-tree.png)
 
 
 

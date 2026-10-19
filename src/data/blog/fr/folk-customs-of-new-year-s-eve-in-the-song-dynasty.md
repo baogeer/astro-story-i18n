@@ -8,7 +8,7 @@ description: "Le solstice d'hiver de la dynastie Song était considéré comme u
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
+![AstroPaper I18n](/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
 
 
 

@@ -8,7 +8,7 @@ description: "En la √©poca del emperador Han Wen, el famoso doctor Chun pretend√
 
 
 
-![AstroPaper I18n](/public/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
+![AstroPaper I18n](/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أصبحت Shangguan Waner عبدة رسمية بسبب جريمة
 
 
 
-![AstroPaper I18n](/public/the-scandalous-life-of-shangguan-wan-er-the-beautiful-female-prime-minister.png)
+![AstroPaper I18n](/the-scandalous-life-of-shangguan-wan-er-the-beautiful-female-prime-minister.png)
 
 
 

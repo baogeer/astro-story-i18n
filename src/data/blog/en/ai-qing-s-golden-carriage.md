@@ -8,7 +8,7 @@ description: "When the author read Ai Qing's poem “Spring Girl” when she was
 
 
 
-![AstroPaper I18n](/public/ai-qing-s-golden-carriage.png)
+![AstroPaper I18n](/ai-qing-s-golden-carriage.png)
 
 
 

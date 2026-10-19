@@ -8,7 +8,7 @@ description: "سون شو هي الزوجة الشجاعة لليانغ جي، �
 
 
 
-![AstroPaper I18n](/public/sun-shou-the-most-pitiful-looking-gangster-wife.png)
+![AstroPaper I18n](/sun-shou-the-most-pitiful-looking-gangster-wife.png)
 
 
 

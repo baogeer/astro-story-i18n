@@ -8,7 +8,7 @@ description: "Había una vez dos hermanos. El segundo hermano fue desalojado por
 
 
 
-![AstroPaper I18n](/public/the-magic-drum.png)
+![AstroPaper I18n](/the-magic-drum.png)
 
 
 

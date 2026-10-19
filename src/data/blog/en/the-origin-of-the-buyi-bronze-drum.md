@@ -8,7 +8,7 @@ description: "Buyi's ancestor, Buje, climbed horses and mulberry trees to the he
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-buyi-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-buyi-bronze-drum.png)
 
 
 

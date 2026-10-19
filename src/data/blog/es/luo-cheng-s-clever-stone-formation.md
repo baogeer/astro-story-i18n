@@ -8,7 +8,7 @@ description: "Al final de la dinastía Sui, Luo Cheng de Wagangzhai usó piedras
 
 
 
-![AstroPaper I18n](/public/luo-cheng-s-clever-stone-formation.png)
+![AstroPaper I18n](/luo-cheng-s-clever-stone-formation.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A poor old man was given dice by a fairy. By throwing them three t
 
 
 
-![AstroPaper I18n](/public/the-magic-dice.png)
+![AstroPaper I18n](/the-magic-dice.png)
 
 
 

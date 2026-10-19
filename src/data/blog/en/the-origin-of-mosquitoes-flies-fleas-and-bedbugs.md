@@ -8,7 +8,7 @@ description: "A relentless couple abandoned their children, and the brother and 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
+![AstroPaper I18n](/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
 
 
 

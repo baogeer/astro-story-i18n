@@ -8,7 +8,7 @@ description: "La partie occidentale de la région de Xiangxi compte de nombreuse
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-walking-corpses-in-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-walking-corpses-in-western-hunan.png)
 
 
 

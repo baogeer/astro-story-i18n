@@ -8,7 +8,7 @@ description: "Ga wa abrió el mundo y alzó el cielo con columnas de cobre y hie
 
 
 
-![AstroPaper I18n](/public/yawa-creates-heaven-earth-and-humanity.png)
+![AstroPaper I18n](/yawa-creates-heaven-earth-and-humanity.png)
 
 
 

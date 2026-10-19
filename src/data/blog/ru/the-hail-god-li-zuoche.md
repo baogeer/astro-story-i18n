@@ -8,7 +8,7 @@ description: "Тан Цзиву не прислушался к уговорам 
 
 
 
-![AstroPaper I18n](/public/the-hail-god-li-zuoche.png)
+![AstroPaper I18n](/the-hail-god-li-zuoche.png)
 
 
 

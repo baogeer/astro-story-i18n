@@ -8,7 +8,7 @@ description: "Lorsque l'empereur Sui Yang a visité le canal, il a vu des saules
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-reversed-names-of-willow-and-poplar.png)
+![AstroPaper I18n](/the-story-of-the-reversed-names-of-willow-and-poplar.png)
 
 
 

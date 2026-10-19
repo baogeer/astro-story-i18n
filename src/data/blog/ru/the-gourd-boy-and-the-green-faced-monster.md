@@ -8,7 +8,7 @@ description: "Сестра Чун спасала ласточек, чтобы п
 
 
 
-![AstroPaper I18n](/public/the-gourd-boy-and-the-green-faced-monster.png)
+![AstroPaper I18n](/the-gourd-boy-and-the-green-faced-monster.png)
 
 
 

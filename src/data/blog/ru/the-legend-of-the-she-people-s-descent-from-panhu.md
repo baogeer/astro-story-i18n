@@ -8,7 +8,7 @@ description: "Легенда племени Ше гласит, что предк
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-descent-from-panhu.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-descent-from-panhu.png)
 
 
 

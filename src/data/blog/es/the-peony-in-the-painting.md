@@ -8,7 +8,7 @@ description: "Los antiguos floricultores están obsesionados con pintar peonías
 
 
 
-![AstroPaper I18n](/public/the-peony-in-the-painting.png)
+![AstroPaper I18n](/the-peony-in-the-painting.png)
 
 
 

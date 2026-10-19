@@ -8,7 +8,7 @@ description: "Guan Qiufu y su primo Jiang Tan se casaron. Después de su matrimo
 
 
 
-![AstroPaper I18n](/public/guan-qiufu-a-flower-s-fate-like-spring.png)
+![AstroPaper I18n](/guan-qiufu-a-flower-s-fate-like-spring.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Pendant la dynastie Song du Sud, les frères Song ont été piég�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-vinegar-fish.png)
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
 
 
 

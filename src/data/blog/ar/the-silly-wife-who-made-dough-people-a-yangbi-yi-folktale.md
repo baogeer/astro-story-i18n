@@ -8,7 +8,7 @@ description: "هناك امرأة عجوز في جبال يي. يوبخها زو
 
 
 
-![AstroPaper I18n](/public/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-silly-wife-who-made-dough-people-a-yangbi-yi-folktale.png)
 
 
 

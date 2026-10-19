@@ -8,7 +8,7 @@ description: "Ян Чуньшэн навредил отцу Цзо Вэньвэ�
 
 
 
-![AstroPaper I18n](/public/giving-silver-to-the-man-who-beat-his-father.png)
+![AstroPaper I18n](/giving-silver-to-the-man-who-beat-his-father.png)
 
 
 

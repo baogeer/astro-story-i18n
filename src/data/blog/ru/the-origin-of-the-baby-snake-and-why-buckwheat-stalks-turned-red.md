@@ -8,7 +8,7 @@ description: "Деревне Мияма угрожала дикаря-людое
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-baby-snake-and-why-buckwheat-stalks-turned-red.png)
+![AstroPaper I18n](/the-origin-of-the-baby-snake-and-why-buckwheat-stalks-turned-red.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Touched by her unhappy marriage and new ideas, Qiu Jin traveled ea
 
 
 
-![AstroPaper I18n](/public/qiu-jin-s-last-three-years-from-women-s-liberation-to-national-liberation.png)
+![AstroPaper I18n](/qiu-jin-s-last-three-years-from-women-s-liberation-to-national-liberation.png)
 
 
 

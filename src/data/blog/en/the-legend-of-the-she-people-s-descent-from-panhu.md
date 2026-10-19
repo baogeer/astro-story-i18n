@@ -8,7 +8,7 @@ description: "Legend of the Shes tribe is that the ancestor was the dog god Panj
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-descent-from-panhu.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-descent-from-panhu.png)
 
 
 

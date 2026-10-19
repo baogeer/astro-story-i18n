@@ -8,7 +8,7 @@ description: "Song Jiang es el jefe de la montaña Liangshan y tiene muchos cora
 
 
 
-![AstroPaper I18n](/public/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
+![AstroPaper I18n](/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
 
 
 

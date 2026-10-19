@@ -8,7 +8,7 @@ description: "حاول تاجر التحف سون يو الاستيلاء على
 
 
 
-![AstroPaper I18n](/public/the-black-dog.png)
+![AstroPaper I18n](/the-black-dog.png)
 
 
 

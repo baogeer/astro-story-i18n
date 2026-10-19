@@ -8,7 +8,7 @@ description: "A lonely old aunt in Longjing Village guards the 18 old tea plants
 
 
 
-![AstroPaper I18n](/public/the-ancestor-of-longjing-tea.png)
+![AstroPaper I18n](/the-ancestor-of-longjing-tea.png)
 
 
 

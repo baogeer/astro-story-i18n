@@ -8,7 +8,7 @@ description: "Хан Сян Цзы — племянник Хань Юя. Он н
 
 
 
-![AstroPaper I18n](/public/the-story-of-han-xiangzi-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-story-of-han-xiangzi-of-the-eight-immortals.png)
 
 
 

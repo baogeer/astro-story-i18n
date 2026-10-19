@@ -8,7 +8,7 @@ description: "Reyoshi et Sawakan coupaient du bois de chauffage ensemble pour tr
 
 
 
-![AstroPaper I18n](/public/two-friends-divide-the-gold.png)
+![AstroPaper I18n](/two-friends-divide-the-gold.png)
 
 
 

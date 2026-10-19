@@ -8,7 +8,7 @@ description: "Dong Xiaowan, a famous prostitute from Qin Huai, admired famous pe
 
 
 
-![AstroPaper I18n](/public/dong-xiaowan-even-a-salon-hostess-needs-a-home.png)
+![AstroPaper I18n](/dong-xiaowan-even-a-salon-hostess-needs-a-home.png)
 
 
 

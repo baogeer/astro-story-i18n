@@ -8,7 +8,7 @@ description: "Cao Shake Er est une figure pleine d'esprit à Hong Kong. Il s'est
 
 
 
-![AstroPaper I18n](/public/the-stories-of-cao-the-thin-faced.png)
+![AstroPaper I18n](/the-stories-of-cao-the-thin-faced.png)
 
 
 

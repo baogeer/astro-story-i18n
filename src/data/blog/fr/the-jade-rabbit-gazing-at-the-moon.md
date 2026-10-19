@@ -8,7 +8,7 @@ description: "Yu Tu a volé un endroit étrange et a été secouru par le chasse
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-gazing-at-the-moon.png)
+![AstroPaper I18n](/the-jade-rabbit-gazing-at-the-moon.png)
 
 
 

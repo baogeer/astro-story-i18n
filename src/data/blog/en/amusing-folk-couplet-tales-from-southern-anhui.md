@@ -8,7 +8,7 @@ description: "There are many interesting stories circulating among people in sou
 
 
 
-![AstroPaper I18n](/public/amusing-folk-couplet-tales-from-southern-anhui.png)
+![AstroPaper I18n](/amusing-folk-couplet-tales-from-southern-anhui.png)
 
 
 

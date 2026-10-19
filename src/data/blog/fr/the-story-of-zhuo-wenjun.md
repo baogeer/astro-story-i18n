@@ -8,7 +8,7 @@ description: "Zhuo Wenjun, une femme talentueuse de la dynastie Han, vient de de
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhuo-wenjun.png)
+![AstroPaper I18n](/the-story-of-zhuo-wenjun.png)
 
 
 

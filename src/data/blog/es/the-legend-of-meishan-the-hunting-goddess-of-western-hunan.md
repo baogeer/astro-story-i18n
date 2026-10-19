@@ -8,7 +8,7 @@ description: "La chica de Meishan es una cazadora de Tujia en Xiangxi. Habla con
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-meishan-the-hunting-goddess-of-western-hunan.png)
 
 
 

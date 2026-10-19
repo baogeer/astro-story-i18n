@@ -8,7 +8,7 @@ description: "كان سائق السيارة مدمنًا على الكحول، 
 
 
 
-![AstroPaper I18n](/public/the-drinking-companion.png)
+![AstroPaper I18n](/the-drinking-companion.png)
 
 
 

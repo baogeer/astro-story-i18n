@@ -8,7 +8,7 @@ description: "Ning Guanwa is the grandson of the Sun God. Her parents gave her d
 
 
 
-![AstroPaper I18n](/public/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
+![AstroPaper I18n](/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
 
 
 

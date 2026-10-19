@@ -8,7 +8,7 @@ description: "Три брата Бай Чжу Ян обвинили своего
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
+![AstroPaper I18n](/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
 
 
 

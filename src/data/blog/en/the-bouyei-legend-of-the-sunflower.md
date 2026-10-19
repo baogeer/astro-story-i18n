@@ -8,7 +8,7 @@ description: "The devil Kaka breaks the golden chain, the sun falls, and the ear
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sunflower.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sunflower.png)
 
 
 

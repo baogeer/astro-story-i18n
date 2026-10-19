@@ -8,7 +8,7 @@ description: "يُعد شيه تزو تجسيدًا لجمال «السمكة ا
 
 
 
-![AstroPaper I18n](/public/xi-shi-china-s-greatest-beauty.png)
+![AstroPaper I18n](/xi-shi-china-s-greatest-beauty.png)
 
 
 

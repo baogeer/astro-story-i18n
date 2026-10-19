@@ -8,7 +8,7 @@ description: "Sun Zichu, conocida como la «idiota del sol», está obsesionada 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-abao.png)
+![AstroPaper I18n](/the-tale-of-abao.png)
 
 
 

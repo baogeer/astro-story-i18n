@@ -8,7 +8,7 @@ description: "كان أويانغ بويون، وهو باحث من أسرة م�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ten-thousand-scrolls-peony.png)
+![AstroPaper I18n](/the-legend-of-the-ten-thousand-scrolls-peony.png)
 
 
 

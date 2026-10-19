@@ -8,7 +8,7 @@ description: "El viejo monje se metió profundamente en su camino. Tras su muert
 
 
 
-![AstroPaper I18n](/public/the-monk-of-changqing.png)
+![AstroPaper I18n](/the-monk-of-changqing.png)
 
 
 

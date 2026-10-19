@@ -8,7 +8,7 @@ description: "Hongfu is a young singer named Yang Su-fu. Li Jing, a melancholy y
 
 
 
-![AstroPaper I18n](/public/the-tale-of-hongfu-and-the-melancholy-young-man.png)
+![AstroPaper I18n](/the-tale-of-hongfu-and-the-melancholy-young-man.png)
 
 
 

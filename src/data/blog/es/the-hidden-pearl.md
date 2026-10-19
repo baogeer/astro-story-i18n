@@ -8,7 +8,7 @@ description: "Durante los años Yongle de la dinastía Ming, He Yuzhang, un flor
 
 
 
-![AstroPaper I18n](/public/the-hidden-pearl.png)
+![AstroPaper I18n](/the-hidden-pearl.png)
 
 
 

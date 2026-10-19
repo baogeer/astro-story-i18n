@@ -8,7 +8,7 @@ description: "El líder de una banda estadounidense James Balger, apodado «El h
 
 
 
-![AstroPaper I18n](/public/the-gangster-life-of-america-s-most-wanted-man.png)
+![AstroPaper I18n](/the-gangster-life-of-america-s-most-wanted-man.png)
 
 
 

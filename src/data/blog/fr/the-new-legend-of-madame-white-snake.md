@@ -8,7 +8,7 @@ description: "White Snake Bai Su-jeong a épousé Xu Xian en échange d'avoir sa
 
 
 
-![AstroPaper I18n](/public/the-new-legend-of-madame-white-snake.png)
+![AstroPaper I18n](/the-new-legend-of-madame-white-snake.png)
 
 
 

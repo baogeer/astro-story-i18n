@@ -8,7 +8,7 @@ description: "Niu Biao, un soltero en la playa, solicitó un trabajo como cuidad
 
 
 
-![AstroPaper I18n](/public/the-white-fairy-in-the-demon-s-lair.png)
+![AstroPaper I18n](/the-white-fairy-in-the-demon-s-lair.png)
 
 
 

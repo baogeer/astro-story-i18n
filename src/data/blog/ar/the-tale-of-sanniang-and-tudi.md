@@ -8,7 +8,7 @@ description: "وقعت ثلاث فتيات من ماونان في حب أرض ش
 
 
 
-![AstroPaper I18n](/public/the-tale-of-sanniang-and-tudi.png)
+![AstroPaper I18n](/the-tale-of-sanniang-and-tudi.png)
 
 
 

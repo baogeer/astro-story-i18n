@@ -8,7 +8,7 @@ description: "Гора Цзыян, ранее известная как гора
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ziyang-mountain.png)
+![AstroPaper I18n](/the-legend-of-ziyang-mountain.png)
 
 
 

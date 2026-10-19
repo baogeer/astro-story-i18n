@@ -8,7 +8,7 @@ description: "في الحكايات الشعبية لقبيلة Yangyi Yi، تع
 
 
 
-![AstroPaper I18n](/public/the-origin-of-lazan-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-origin-of-lazan-a-yangbi-yi-folktale.png)
 
 
 

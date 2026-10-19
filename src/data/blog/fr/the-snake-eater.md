@@ -8,7 +8,7 @@ description: "Lu Fengning aime les délicieux serpents. Le petit serpent l'a ava
 
 
 
-![AstroPaper I18n](/public/the-snake-eater.png)
+![AstroPaper I18n](/the-snake-eater.png)
 
 
 

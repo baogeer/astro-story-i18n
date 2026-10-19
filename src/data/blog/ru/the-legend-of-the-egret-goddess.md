@@ -8,7 +8,7 @@ description: "Богиню Ширасаги привлек звук фортеп
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-egret-goddess.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ah Zhi, una niña huérfana de la etnia yi, fue obligada a perder 
 
 
 
-![AstroPaper I18n](/public/the-black-horse-pool.png)
+![AstroPaper I18n](/the-black-horse-pool.png)
 
 
 

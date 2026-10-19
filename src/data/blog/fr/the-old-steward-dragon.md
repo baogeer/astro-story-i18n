@@ -8,7 +8,7 @@ description: "Un vieux dragon vit à Longtan à Zhengjiashan, dans le Zhoushan. 
 
 
 
-![AstroPaper I18n](/public/the-old-steward-dragon.png)
+![AstroPaper I18n](/the-old-steward-dragon.png)
 
 
 

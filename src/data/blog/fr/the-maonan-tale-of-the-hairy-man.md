@@ -8,7 +8,7 @@ description: "Mao Ren, un pauvre garçon de la tribu Maonan, est devenu un géan
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-the-hairy-man.png)
+![AstroPaper I18n](/the-maonan-tale-of-the-hairy-man.png)
 
 
 

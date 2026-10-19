@@ -8,7 +8,7 @@ description: "عندما كان شعب هاني يبحث عن الكلمات، �
 
 
 
-![AstroPaper I18n](/public/why-the-hani-people-have-no-written-language.png)
+![AstroPaper I18n](/why-the-hani-people-have-no-written-language.png)
 
 
 

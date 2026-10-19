@@ -8,7 +8,7 @@ description: "Лэшань Лочжу и Сирен Джим поженилис�
 
 
 
-![AstroPaper I18n](/public/the-story-of-lesang-luozhu-and-ciren-jimu.png)
+![AstroPaper I18n](/the-story-of-lesang-luozhu-and-ciren-jimu.png)
 
 
 

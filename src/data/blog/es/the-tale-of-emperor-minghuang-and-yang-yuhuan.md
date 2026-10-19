@@ -8,7 +8,7 @@ description: "Tang Minghuang Li Longji canonizó a Yang Yuhuan como concubina re
 
 
 
-![AstroPaper I18n](/public/the-tale-of-emperor-minghuang-and-yang-yuhuan.png)
+![AstroPaper I18n](/the-tale-of-emperor-minghuang-and-yang-yuhuan.png)
 
 
 

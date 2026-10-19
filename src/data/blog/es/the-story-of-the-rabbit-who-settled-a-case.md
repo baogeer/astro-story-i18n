@@ -8,7 +8,7 @@ description: "Li Yong fue cambiado por presa por el hijo del terrateniente, y lo
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-rabbit-who-settled-a-case.png)
+![AstroPaper I18n](/the-story-of-the-rabbit-who-settled-a-case.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cuando se estaba construyendo la Gran Muralla de Badaling, un gran
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-king-of-hell-at-badaling-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-king-of-hell-at-badaling-great-wall.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Para deshacerse de los bandidos, Huang Haisheng, un joven grupo é
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-folktale-of-the-fuheng-yi-people-outwitting-bandits.png)
+![AstroPaper I18n](/the-yangbi-yi-folktale-of-the-fuheng-yi-people-outwitting-bandits.png)
 
 
 

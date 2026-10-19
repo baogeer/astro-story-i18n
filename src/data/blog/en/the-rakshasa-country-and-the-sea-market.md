@@ -8,7 +8,7 @@ description: "Ma Ji went out to sea and drifted to the country of Raksha, where 
 
 
 
-![AstroPaper I18n](/public/the-rakshasa-country-and-the-sea-market.png)
+![AstroPaper I18n](/the-rakshasa-country-and-the-sea-market.png)
 
 
 

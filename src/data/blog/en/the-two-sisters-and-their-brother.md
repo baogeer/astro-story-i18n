@@ -8,7 +8,7 @@ description: "The elder sister had a vicious heart and killed her younger brothe
 
 
 
-![AstroPaper I18n](/public/the-two-sisters-and-their-brother.png)
+![AstroPaper I18n](/the-two-sisters-and-their-brother.png)
 
 
 

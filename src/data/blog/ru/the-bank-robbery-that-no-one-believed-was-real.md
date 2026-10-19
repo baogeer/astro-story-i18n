@@ -8,7 +8,7 @@ description: "Группа грабителей, выдававших себя �
 
 
 
-![AstroPaper I18n](/public/the-bank-robbery-that-no-one-believed-was-real.png)
+![AstroPaper I18n](/the-bank-robbery-that-no-one-believed-was-real.png)
 
 
 

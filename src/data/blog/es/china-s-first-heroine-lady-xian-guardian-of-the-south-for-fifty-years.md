@@ -8,7 +8,7 @@ description: "La Sra. Xian fue la líder de la minoría étnica de Lingnan en la
 
 
 
-![AstroPaper I18n](/public/china-s-first-heroine-lady-xian-guardian-of-the-south-for-fifty-years.png)
+![AstroPaper I18n](/china-s-first-heroine-lady-xian-guardian-of-the-south-for-fifty-years.png)
 
 
 

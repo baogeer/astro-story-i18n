@@ -8,7 +8,7 @@ description: "حقق وانغ جيان نجاحًا كبيرًا في توحيد
 
 
 
-![AstroPaper I18n](/public/the-tragic-fates-of-qin-heroes-only-timely-retirement-brought-good-ends.png)
+![AstroPaper I18n](/the-tragic-fates-of-qin-heroes-only-timely-retirement-brought-good-ends.png)
 
 
 

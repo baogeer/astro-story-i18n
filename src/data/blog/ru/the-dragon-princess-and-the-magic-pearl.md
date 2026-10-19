@@ -8,7 +8,7 @@ description: "Он освободил редкую желтую гигантск
 
 
 
-![AstroPaper I18n](/public/the-dragon-princess-and-the-magic-pearl.png)
+![AstroPaper I18n](/the-dragon-princess-and-the-magic-pearl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Diao Chan era originalmente la prostituta cantante de Wang Yun. Pa
 
 
 
-![AstroPaper I18n](/public/the-story-of-diaochan-the-moon-shaming-beauty.png)
+![AstroPaper I18n](/the-story-of-diaochan-the-moon-shaming-beauty.png)
 
 
 

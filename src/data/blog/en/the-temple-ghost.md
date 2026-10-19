@@ -8,7 +8,7 @@ description: "Showman Wang Qihou was entangled by an ugly woman. The woman tease
 
 
 
-![AstroPaper I18n](/public/the-temple-ghost.png)
+![AstroPaper I18n](/the-temple-ghost.png)
 
 
 

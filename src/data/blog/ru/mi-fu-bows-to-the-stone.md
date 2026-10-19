@@ -8,7 +8,7 @@ description: "Когда он служил в армии Увэя, он услы
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-the-stone.png)
+![AstroPaper I18n](/mi-fu-bows-to-the-stone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "حارب يو فاي ضد جين وعارض سعي جاو زونغ
 
 
 
-![AstroPaper I18n](/public/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
+![AstroPaper I18n](/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
 
 
 

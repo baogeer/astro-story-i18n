@@ -8,7 +8,7 @@ description: "Two carps from Yaochi in the Celestial Realm fell in love and were
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-stones.png)
+![AstroPaper I18n](/the-legend-of-the-carp-stones.png)
 
 
 

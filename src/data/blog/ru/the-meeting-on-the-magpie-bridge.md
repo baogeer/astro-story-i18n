@@ -8,7 +8,7 @@ description: "Пастуха и ткача разделяет королевск
 
 
 
-![AstroPaper I18n](/public/the-meeting-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-meeting-on-the-magpie-bridge.png)
 
 
 

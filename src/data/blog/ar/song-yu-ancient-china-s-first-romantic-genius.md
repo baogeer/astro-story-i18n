@@ -8,7 +8,7 @@ description: "كان سونغ يو، وهو من مواليد تشو في فتر
 
 
 
-![AstroPaper I18n](/public/song-yu-ancient-china-s-first-romantic-genius.png)
+![AstroPaper I18n](/song-yu-ancient-china-s-first-romantic-genius.png)
 
 
 

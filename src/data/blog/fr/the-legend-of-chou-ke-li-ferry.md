@@ -8,7 +8,7 @@ description: "L'ancien ferry de Yangjiu Chou Keli Ferry était gravement malade 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chou-ke-li-ferry.png)
+![AstroPaper I18n](/the-legend-of-chou-ke-li-ferry.png)
 
 
 

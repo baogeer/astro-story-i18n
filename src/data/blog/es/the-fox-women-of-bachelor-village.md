@@ -8,7 +8,7 @@ description: "En la dinastía Ming, la Aldea de los Solteros llegó a tomar el p
 
 
 
-![AstroPaper I18n](/public/the-fox-women-of-bachelor-village.png)
+![AstroPaper I18n](/the-fox-women-of-bachelor-village.png)
 
 
 

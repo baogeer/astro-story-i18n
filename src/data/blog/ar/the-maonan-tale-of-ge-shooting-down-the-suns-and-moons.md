@@ -8,7 +8,7 @@ description: "استفاد البطل القديم غري بشكل كبير وأ
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
+![AstroPaper I18n](/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
 
 
 

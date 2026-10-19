@@ -8,7 +8,7 @@ description: "В период Северной Вэй, поскольку ее �
 
 
 
-![AstroPaper I18n](/public/mulan-takes-her-father-s-place-in-the-army.png)
+![AstroPaper I18n](/mulan-takes-her-father-s-place-in-the-army.png)
 
 
 

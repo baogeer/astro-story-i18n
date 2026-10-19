@@ -8,7 +8,7 @@ description: "La dinastía Ming tenía un estricto sistema de selección de conc
 
 
 
-![AstroPaper I18n](/public/why-a-ming-dynasty-eunuch-dared-to-sexually-harass-a-widowed-empress.png)
+![AstroPaper I18n](/why-a-ming-dynasty-eunuch-dared-to-sexually-harass-a-widowed-empress.png)
 
 
 

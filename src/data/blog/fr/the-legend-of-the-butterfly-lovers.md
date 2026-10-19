@@ -8,7 +8,7 @@ description: "Liang Shanbo a rendu visite à des amis et a appris que Zhu Yingta
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-butterfly-lovers.png)
+![AstroPaper I18n](/the-legend-of-the-butterfly-lovers.png)
 
 
 

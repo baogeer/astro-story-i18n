@@ -8,7 +8,7 @@ description: "The Guizhou Zhaimu Dong family packed large rice dumplings and sac
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dong-people-s-linwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dong-people-s-linwang-festival.png)
 
 
 

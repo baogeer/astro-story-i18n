@@ -8,7 +8,7 @@ description: "Fox Jing enredó a la nuera de los Shijia en Wan Cun. Cada vez que
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-in-the-bottle.png)
+![AstroPaper I18n](/the-fox-spirit-in-the-bottle.png)
 
 
 

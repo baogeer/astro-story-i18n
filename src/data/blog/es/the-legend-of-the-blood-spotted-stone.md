@@ -8,7 +8,7 @@ description: "Hay pórfidos ensangrentados en la ladera norte de Badaling. Cuent
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-blood-spotted-stone.png)
+![AstroPaper I18n](/the-legend-of-the-blood-spotted-stone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "L'explorateur Bai Fan a découvert que son ami Sun Lin avait pén�
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-hanging-coffins.png)
+![AstroPaper I18n](/the-mystery-of-the-hanging-coffins.png)
 
 
 

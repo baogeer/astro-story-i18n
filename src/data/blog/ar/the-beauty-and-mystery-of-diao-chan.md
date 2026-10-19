@@ -8,7 +8,7 @@ description: "تجولت دياو تشان بين دونغ تشو ولو بو ب
 
 
 
-![AstroPaper I18n](/public/the-beauty-and-mystery-of-diao-chan.png)
+![AstroPaper I18n](/the-beauty-and-mystery-of-diao-chan.png)
 
 
 

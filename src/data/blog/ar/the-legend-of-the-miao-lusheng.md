@@ -8,7 +8,7 @@ description: "توفيت ابنة الإمبراطور تياندي غو سو ب
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-lusheng.png)
+![AstroPaper I18n](/the-legend-of-the-miao-lusheng.png)
 
 
 

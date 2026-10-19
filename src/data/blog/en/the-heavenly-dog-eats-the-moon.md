@@ -8,7 +8,7 @@ description: "Legend has it that the boy is a good Buddha, but his mother tricke
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-eats-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-eats-the-moon.png)
 
 
 

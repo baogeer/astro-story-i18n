@@ -8,7 +8,7 @@ description: "وقع اثنان من أسماك الكارب من ياوتشي �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-stones.png)
+![AstroPaper I18n](/the-legend-of-the-carp-stones.png)
 
 
 

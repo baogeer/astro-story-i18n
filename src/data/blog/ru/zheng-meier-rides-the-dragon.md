@@ -8,7 +8,7 @@ description: "Чжэн Майер сильна и научилась своим 
 
 
 
-![AstroPaper I18n](/public/zheng-meier-rides-the-dragon.png)
+![AstroPaper I18n](/zheng-meier-rides-the-dragon.png)
 
 
 

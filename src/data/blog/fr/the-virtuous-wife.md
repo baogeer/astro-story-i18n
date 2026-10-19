@@ -8,7 +8,7 @@ description: "Qi Gong a abandonné la sage épouse parce qu'il était riche et a
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife.png)
+![AstroPaper I18n](/the-virtuous-wife.png)
 
 
 

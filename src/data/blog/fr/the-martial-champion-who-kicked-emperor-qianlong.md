@@ -8,7 +8,7 @@ description: "Pendant la période Qianlong de la dynastie Qing, le champion Wu M
 
 
 
-![AstroPaper I18n](/public/the-martial-champion-who-kicked-emperor-qianlong.png)
+![AstroPaper I18n](/the-martial-champion-who-kicked-emperor-qianlong.png)
 
 
 

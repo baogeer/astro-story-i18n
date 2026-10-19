@@ -8,7 +8,7 @@ description: "يعيش التنين الأسود الكبير في عش الصف
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-moves-away.png)
+![AstroPaper I18n](/the-great-black-dragon-moves-away.png)
 
 
 

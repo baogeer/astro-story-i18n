@@ -8,7 +8,7 @@ description: "La bestia gigante del lago Tailai atacó repetidamente a personas 
 
 
 
-![AstroPaper I18n](/public/the-hidden-killer-of-lake-tele.png)
+![AstroPaper I18n](/the-hidden-killer-of-lake-tele.png)
 
 
 

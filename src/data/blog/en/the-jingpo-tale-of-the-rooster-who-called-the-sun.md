@@ -8,7 +8,7 @@ description: "Legend has it that in ancient times, there were nine suns, and eve
 
 
 
-![AstroPaper I18n](/public/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
+![AstroPaper I18n](/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
 
 
 

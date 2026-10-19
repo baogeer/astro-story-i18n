@@ -8,7 +8,7 @@ description: "في ظل ثقافة التوظيف الكثيفة لسلالة ه
 
 
 
-![AstroPaper I18n](/public/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
+![AstroPaper I18n](/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
 
 
 

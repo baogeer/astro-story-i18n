@@ -8,7 +8,7 @@ description: "La criada de Washington, Qiu Xiang, sonrió y sonrió tres veces a
 
 
 
-![AstroPaper I18n](/public/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
+![AstroPaper I18n](/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
 
 
 

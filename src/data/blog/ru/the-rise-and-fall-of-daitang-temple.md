@@ -8,7 +8,7 @@ description: "Тан Сюаньцзун из династии Тан постр�
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-daitang-temple.png)
+![AstroPaper I18n](/the-rise-and-fall-of-daitang-temple.png)
 
 
 

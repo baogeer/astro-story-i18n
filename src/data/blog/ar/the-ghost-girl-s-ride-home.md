@@ -8,7 +8,7 @@ description: "بعد أن التقط سائق المسافات الطويلة ا
 
 
 
-![AstroPaper I18n](/public/the-ghost-girl-s-ride-home.png)
+![AstroPaper I18n](/the-ghost-girl-s-ride-home.png)
 
 
 

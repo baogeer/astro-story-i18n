@@ -8,7 +8,7 @@ description: "عندما غزت قوات الحلفاء المكونة من ثم
 
 
 
-![AstroPaper I18n](/public/the-little-palace-maid-and-the-pearls.png)
+![AstroPaper I18n](/the-little-palace-maid-and-the-pearls.png)
 
 
 

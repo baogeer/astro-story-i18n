@@ -8,7 +8,7 @@ description: "Li Jianchun a utilisé sa théorie picturale pour apprécier «xa0
 
 
 
-![AstroPaper I18n](/public/du-fu-s-west-ridge-snow-scene.png)
+![AstroPaper I18n](/du-fu-s-west-ridge-snow-scene.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El magistral Zhang es descendiente del escultor nuclear de Yangyi 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-skillful-zhang-the-walnut-carver.png)
+![AstroPaper I18n](/the-tale-of-skillful-zhang-the-walnut-carver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Жители деревни Цзяннань поженились.
 
 
 
-![AstroPaper I18n](/public/the-bridegroom.png)
+![AstroPaper I18n](/the-bridegroom.png)
 
 
 

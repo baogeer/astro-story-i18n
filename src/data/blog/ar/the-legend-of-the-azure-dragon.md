@@ -8,7 +8,7 @@ description: "تشينغ لونغ وريد دراجون مسؤولان عن ال
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-azure-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-azure-dragon.png)
 
 
 

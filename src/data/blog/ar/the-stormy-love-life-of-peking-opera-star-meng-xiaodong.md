@@ -8,7 +8,7 @@ description: "يتمتع مينغ شياودونغ، الذي يعمل في أو
 
 
 
-![AstroPaper I18n](/public/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
+![AstroPaper I18n](/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
 
 
 

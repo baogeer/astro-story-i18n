@@ -8,7 +8,7 @@ description: "El joven cazador usó un albañil para capturar a una doncella cel
 
 
 
-![AstroPaper I18n](/public/the-heavenly-maiden-s-blessing.png)
+![AstroPaper I18n](/the-heavenly-maiden-s-blessing.png)
 
 
 

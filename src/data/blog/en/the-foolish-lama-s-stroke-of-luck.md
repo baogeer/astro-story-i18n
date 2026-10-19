@@ -8,7 +8,7 @@ description: "After the death of the princess of the king's three brothers, the 
 
 
 
-![AstroPaper I18n](/public/the-foolish-lama-s-stroke-of-luck.png)
+![AstroPaper I18n](/the-foolish-lama-s-stroke-of-luck.png)
 
 
 

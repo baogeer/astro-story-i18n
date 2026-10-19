@@ -8,7 +8,7 @@ description: "Feng Yi se ahogó en el río Amarillo en busca de narcisos para Ch
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hebo-and-the-yellow-river-map.png)
+![AstroPaper I18n](/the-legend-of-hebo-and-the-yellow-river-map.png)
 
 
 

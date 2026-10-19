@@ -8,7 +8,7 @@ description: "Weishan was originally a mountain, and two grandchildren lived the
 
 
 
-![AstroPaper I18n](/public/the-legend-of-weishan-lake.png)
+![AstroPaper I18n](/the-legend-of-weishan-lake.png)
 
 
 

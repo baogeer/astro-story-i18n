@@ -8,7 +8,7 @@ description: "Como mujer hermosa dedicada a Wang Wu por Vietnam, Xi Tzu confunde
 
 
 
-![AstroPaper I18n](/public/the-first-seductress-spy-in-chinese-history.png)
+![AstroPaper I18n](/the-first-seductress-spy-in-chinese-history.png)
 
 
 

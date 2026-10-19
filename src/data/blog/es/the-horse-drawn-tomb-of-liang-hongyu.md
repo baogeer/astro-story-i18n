@@ -8,7 +8,7 @@ description: "Liang Hongyu se recuperó de sus heridas tras la derrota de Jin Bi
 
 
 
-![AstroPaper I18n](/public/the-horse-drawn-tomb-of-liang-hongyu.png)
+![AstroPaper I18n](/the-horse-drawn-tomb-of-liang-hongyu.png)
 
 
 

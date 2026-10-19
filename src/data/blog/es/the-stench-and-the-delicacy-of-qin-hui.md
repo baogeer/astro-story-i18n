@@ -8,7 +8,7 @@ description: "Después de que Qin Hui mató a Yue Fei, el mundo lo regañó. Qin
 
 
 
-![AstroPaper I18n](/public/the-stench-and-the-delicacy-of-qin-hui.png)
+![AstroPaper I18n](/the-stench-and-the-delicacy-of-qin-hui.png)
 
 
 

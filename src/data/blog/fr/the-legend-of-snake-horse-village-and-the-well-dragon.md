@@ -8,7 +8,7 @@ description: "Le chasseur de Yi Zuo Qingshan a sauvé Little Dragon King, et la 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-snake-horse-village-and-the-well-dragon.png)
+![AstroPaper I18n](/the-legend-of-snake-horse-village-and-the-well-dragon.png)
 
 
 

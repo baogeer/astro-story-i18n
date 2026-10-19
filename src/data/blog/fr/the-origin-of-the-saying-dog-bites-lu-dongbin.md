@@ -8,7 +8,7 @@ description: "Pour inciter son ami Gou Yao à étudier, Lu Dongbin a délibéré
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
+![AstroPaper I18n](/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
 
 
 

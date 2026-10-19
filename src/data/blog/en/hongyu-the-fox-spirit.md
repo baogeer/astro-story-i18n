@@ -8,7 +8,7 @@ description: "Feng Sheng had a private meeting with the fox girl, Hongyu left af
 
 
 
-![AstroPaper I18n](/public/hongyu-the-fox-spirit.png)
+![AstroPaper I18n](/hongyu-the-fox-spirit.png)
 
 
 

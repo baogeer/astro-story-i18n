@@ -8,7 +8,7 @@ description: "The steep mountain was arid and water was scarce. Changfamei, a Do
 
 
 
-![AstroPaper I18n](/public/the-dong-legend-of-the-long-haired-girl-bai-re.png)
+![AstroPaper I18n](/the-dong-legend-of-the-long-haired-girl-bai-re.png)
 
 
 

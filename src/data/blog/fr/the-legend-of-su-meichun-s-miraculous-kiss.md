@@ -8,7 +8,7 @@ description: "Femme étrange de Xuanzhou, dans le sud de l'Anhui, les lèvres de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-su-meichun-s-miraculous-kiss.png)
+![AstroPaper I18n](/the-legend-of-su-meichun-s-miraculous-kiss.png)
 
 
 

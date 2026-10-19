@@ -8,7 +8,7 @@ description: "Diao Chan wandered between Dong Zhuo and Lu Bu with her stunning b
 
 
 
-![AstroPaper I18n](/public/the-beauty-and-mystery-of-diao-chan.png)
+![AstroPaper I18n](/the-beauty-and-mystery-of-diao-chan.png)
 
 
 

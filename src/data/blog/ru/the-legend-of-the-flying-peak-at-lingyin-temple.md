@@ -8,7 +8,7 @@ description: "Сумасшедший монах из храма Линьинь �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-flying-peak-at-lingyin-temple.png)
+![AstroPaper I18n](/the-legend-of-the-flying-peak-at-lingyin-temple.png)
 
 
 

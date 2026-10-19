@@ -8,7 +8,7 @@ description: "La jeune fille de Qianlong et la princesse Xiao étaient très aim
 
 
 
-![AstroPaper I18n](/public/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
+![AstroPaper I18n](/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
 
 
 

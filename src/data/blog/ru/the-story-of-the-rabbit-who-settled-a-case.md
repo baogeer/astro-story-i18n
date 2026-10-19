@@ -8,7 +8,7 @@ description: "Сын землевладельца обменял Ли Юна н�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-rabbit-who-settled-a-case.png)
+![AstroPaper I18n](/the-story-of-the-rabbit-who-settled-a-case.png)
 
 
 

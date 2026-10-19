@@ -8,7 +8,7 @@ description: "Jia Fugui a profité de la Conférence des Disciples pour se faire
 
 
 
-![AstroPaper I18n](/public/folk-legends-of-feng-shui-the-master-takes-a-disciple.png)
+![AstroPaper I18n](/folk-legends-of-feng-shui-the-master-takes-a-disciple.png)
 
 
 

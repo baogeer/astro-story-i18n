@@ -8,7 +8,7 @@ description: "Лю Хэ из Западной Хани был уволен вс�
 
 
 
-![AstroPaper I18n](/public/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
+![AstroPaper I18n](/the-27-day-emperor-liu-he-and-his-abandoned-tomb-in-juye.png)
 
 
 

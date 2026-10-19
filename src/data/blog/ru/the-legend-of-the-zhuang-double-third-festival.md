@@ -8,7 +8,7 @@ description: "Вэй Дагуй из семьи Чжуан оскорбил ту
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-zhuang-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-the-zhuang-double-third-festival.png)
 
 
 

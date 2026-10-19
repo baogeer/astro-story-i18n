@@ -8,7 +8,7 @@ description: "После того как генерал Суй Ван Лэй з�
 
 
 
-![AstroPaper I18n](/public/the-flogging-of-wang-lei-s-corpse.png)
+![AstroPaper I18n](/the-flogging-of-wang-lei-s-corpse.png)
 
 
 

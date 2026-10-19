@@ -8,7 +8,7 @@ description: "Братья и сестры племени И выжили пос
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-people-s-flower-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yi-people-s-flower-festival.png)
 
 
 

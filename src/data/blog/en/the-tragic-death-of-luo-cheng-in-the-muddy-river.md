@@ -8,7 +8,7 @@ description: "After his defeat, Luo Chengbing was hunted down by Yang Lin's ghos
 
 
 
-![AstroPaper I18n](/public/the-tragic-death-of-luo-cheng-in-the-muddy-river.png)
+![AstroPaper I18n](/the-tragic-death-of-luo-cheng-in-the-muddy-river.png)
 
 
 

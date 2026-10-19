@@ -8,7 +8,7 @@ description: "Два карпа из Яочи в Поднебесном царс
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-stones.png)
+![AstroPaper I18n](/the-legend-of-the-carp-stones.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Нефритовый император обесценил Цве�
 
 
 
-![AstroPaper I18n](/public/the-flower-fairy-who-loved-the-mortal-world.png)
+![AstroPaper I18n](/the-flower-fairy-who-loved-the-mortal-world.png)
 
 
 

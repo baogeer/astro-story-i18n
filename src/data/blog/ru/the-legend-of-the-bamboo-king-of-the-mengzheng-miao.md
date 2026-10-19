@@ -8,7 +8,7 @@ description: "Гу Тан, девушка из племени Мяо, вышла
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
 
 
 

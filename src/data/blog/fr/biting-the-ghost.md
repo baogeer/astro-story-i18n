@@ -8,7 +8,7 @@ description: "Un vieil homme a fait une sieste une nuit d'été, et une femme fa
 
 
 
-![AstroPaper I18n](/public/biting-the-ghost.png)
+![AstroPaper I18n](/biting-the-ghost.png)
 
 
 

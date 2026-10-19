@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les 12 soleils du ciel brûlaient la terre
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sun.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sun.png)
 
 
 

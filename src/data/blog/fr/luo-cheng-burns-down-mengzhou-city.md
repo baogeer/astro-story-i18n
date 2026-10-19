@@ -8,7 +8,7 @@ description: "Luo Cheng a dirigé l'armée Wa Gang pour combattre le garde de la
 
 
 
-![AstroPaper I18n](/public/luo-cheng-burns-down-mengzhou-city.png)
+![AstroPaper I18n](/luo-cheng-burns-down-mengzhou-city.png)
 
 
 

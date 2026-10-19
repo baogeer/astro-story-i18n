@@ -8,7 +8,7 @@ description: "استسلم لي باي ليونغوانغ لي لين خلال �
 
 
 
-![AstroPaper I18n](/public/li-bai-a-speck-of-dust-in-history.png)
+![AstroPaper I18n](/li-bai-a-speck-of-dust-in-history.png)
 
 
 

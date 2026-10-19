@@ -8,7 +8,7 @@ description: "Женщине грустно, потому что ее муж п�
 
 
 
-![AstroPaper I18n](/public/the-blood-jade-bracelet.png)
+![AstroPaper I18n](/the-blood-jade-bracelet.png)
 
 
 

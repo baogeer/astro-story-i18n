@@ -8,7 +8,7 @@ description: "Yellow River carp has gone through many hardships and gathered at 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
+![AstroPaper I18n](/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les inondations faisaient rage, les démon
 
 
 
-![AstroPaper I18n](/public/a-zhuang-folktale-the-origin-of-the-bronze-drum-dance.png)
+![AstroPaper I18n](/a-zhuang-folktale-the-origin-of-the-bronze-drum-dance.png)
 
 
 

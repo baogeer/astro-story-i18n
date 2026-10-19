@@ -8,7 +8,7 @@ description: "عندما التقى تشانغ زاو بطاوي ذو شعر أ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-rice-mountain.png)
+![AstroPaper I18n](/the-legend-of-white-rice-mountain.png)
 
 
 

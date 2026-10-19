@@ -8,7 +8,7 @@ description: "Во время перерыва в учебной комнате 
 
 
 
-![AstroPaper I18n](/public/the-little-mandarin.png)
+![AstroPaper I18n](/the-little-mandarin.png)
 
 
 

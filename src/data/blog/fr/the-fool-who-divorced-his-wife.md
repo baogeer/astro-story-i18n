@@ -8,7 +8,7 @@ description: "Les idiots ne peuvent dire ni le vrai ni le mensongexa0; ils prenn
 
 
 
-![AstroPaper I18n](/public/the-fool-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-fool-who-divorced-his-wife.png)
 
 
 

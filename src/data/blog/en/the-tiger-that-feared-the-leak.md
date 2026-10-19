@@ -8,7 +8,7 @@ description: "A cow dealer took the cow out of the temple and sighed, “Ghosts 
 
 
 
-![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
 
 
 

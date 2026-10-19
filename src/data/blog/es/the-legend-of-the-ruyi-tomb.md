@@ -8,7 +8,7 @@ description: "Zhang Baoyi y su esposa fueron perseguidos por traidores e invasor
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ruyi-tomb.png)
+![AstroPaper I18n](/the-legend-of-the-ruyi-tomb.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ван Чжаоцзюню приказали покинуть Са
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhaojun-and-the-falling-geese.png)
+![AstroPaper I18n](/the-story-of-zhaojun-and-the-falling-geese.png)
 
 
 

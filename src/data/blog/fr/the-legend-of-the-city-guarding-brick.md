@@ -8,7 +8,7 @@ description: "La légende des briques de Dingcheng raconte que lorsque Jiayuguan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-city-guarding-brick.png)
+![AstroPaper I18n](/the-legend-of-the-city-guarding-brick.png)
 
 
 

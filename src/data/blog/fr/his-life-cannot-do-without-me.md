@@ -8,7 +8,7 @@ description: "On a demandé à Yu Guangzhong pourquoi il n'avait pas répondu au
 
 
 
-![AstroPaper I18n](/public/his-life-cannot-do-without-me.png)
+![AstroPaper I18n](/his-life-cannot-do-without-me.png)
 
 
 

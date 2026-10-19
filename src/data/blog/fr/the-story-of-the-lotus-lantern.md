@@ -8,7 +8,7 @@ description: "Le titre est «xa0L'histoire de la lanterne Lotusxa0». Le texte n
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-story-of-the-lotus-lantern.png)
 
 
 

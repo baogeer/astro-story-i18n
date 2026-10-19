@@ -8,7 +8,7 @@ description: "Este es un cuento popular de Yangjiao Yi. Antes de morir, la joven
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mother-s-hand.png)
+![AstroPaper I18n](/the-story-of-the-mother-s-hand.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In order to find green peonies, Huaxianggong followed the instruct
 
 
 
-![AstroPaper I18n](/public/the-green-peony.png)
+![AstroPaper I18n](/the-green-peony.png)
 
 
 

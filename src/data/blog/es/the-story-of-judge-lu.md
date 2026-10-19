@@ -8,7 +8,7 @@ description: "Zhu Erdan de Lingyang se hizo amigo de Lu Fan. Lu Ban cambió de o
 
 
 
-![AstroPaper I18n](/public/the-story-of-judge-lu.png)
+![AstroPaper I18n](/the-story-of-judge-lu.png)
 
 
 

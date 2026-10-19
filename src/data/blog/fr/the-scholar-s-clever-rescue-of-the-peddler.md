@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Qing, Yao Genping, qui vendait du tofu, a
 
 
 
-![AstroPaper I18n](/public/the-scholar-s-clever-rescue-of-the-peddler.png)
+![AstroPaper I18n](/the-scholar-s-clever-rescue-of-the-peddler.png)
 
 
 

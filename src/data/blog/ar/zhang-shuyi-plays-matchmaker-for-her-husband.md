@@ -8,7 +8,7 @@ description: "بعد الزواج، لم يكن لدى تشيونغ سوك يي 
 
 
 
-![AstroPaper I18n](/public/zhang-shuyi-plays-matchmaker-for-her-husband.png)
+![AstroPaper I18n](/zhang-shuyi-plays-matchmaker-for-her-husband.png)
 
 
 

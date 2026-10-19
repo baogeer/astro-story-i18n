@@ -8,7 +8,7 @@ description: "Чжоу Даору преподавал в семье Юань Ш
 
 
 
-![AstroPaper I18n](/public/the-strange-marriage-of-zhou-daoru.png)
+![AstroPaper I18n](/the-strange-marriage-of-zhou-daoru.png)
 
 
 

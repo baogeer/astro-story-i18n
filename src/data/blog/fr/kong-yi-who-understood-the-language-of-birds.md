@@ -8,7 +8,7 @@ description: "Kong Yi est un seigneur au grand cœur qui a reçu des plumes pour
 
 
 
-![AstroPaper I18n](/public/kong-yi-who-understood-the-language-of-birds.png)
+![AstroPaper I18n](/kong-yi-who-understood-the-language-of-birds.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أثناء أخذ استراحة في غرفة الدراسة، ر
 
 
 
-![AstroPaper I18n](/public/the-little-mandarin.png)
+![AstroPaper I18n](/the-little-mandarin.png)
 
 
 

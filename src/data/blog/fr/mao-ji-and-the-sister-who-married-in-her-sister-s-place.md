@@ -8,7 +8,7 @@ description: "Mao Ji a fait semblant d'être pauvre pour tester sa fiancée. La 
 
 
 
-![AstroPaper I18n](/public/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
+![AstroPaper I18n](/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
 
 
 

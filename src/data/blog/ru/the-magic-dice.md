@@ -8,7 +8,7 @@ description: "Фея подарила бедному старику кости. 
 
 
 
-![AstroPaper I18n](/public/the-magic-dice.png)
+![AstroPaper I18n](/the-magic-dice.png)
 
 
 

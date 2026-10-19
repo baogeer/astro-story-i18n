@@ -8,7 +8,7 @@ description: "During the War of Resistance Against Japanese Aggression, the pain
 
 
 
-![AstroPaper I18n](/public/xu-beihong-s-south-seas-romance.png)
+![AstroPaper I18n](/xu-beihong-s-south-seas-romance.png)
 
 
 

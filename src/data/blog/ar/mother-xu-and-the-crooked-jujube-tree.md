@@ -8,7 +8,7 @@ description: "حصلت شو مو دائمًا على ابنها شو 40 عامً
 
 
 
-![AstroPaper I18n](/public/mother-xu-and-the-crooked-jujube-tree.png)
+![AstroPaper I18n](/mother-xu-and-the-crooked-jujube-tree.png)
 
 
 

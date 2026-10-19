@@ -8,7 +8,7 @@ description: "كان شومان وانغ كيهو متورطًا من قبل ا�
 
 
 
-![AstroPaper I18n](/public/the-temple-ghost.png)
+![AstroPaper I18n](/the-temple-ghost.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Вор, выдавая себя за коллегу, ворвал�
 
 
 
-![AstroPaper I18n](/public/a-dormitory-anecdote.png)
+![AstroPaper I18n](/a-dormitory-anecdote.png)
 
 
 

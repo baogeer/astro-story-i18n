@@ -8,7 +8,7 @@ description: "Lady Meng Jiang a traversé toutes les épreuves pour retrouver so
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu.png)
 
 
 

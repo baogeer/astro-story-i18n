@@ -8,7 +8,7 @@ description: "Chang'e era originalmente un hada. Debido al meritorio matrimonio 
 
 
 
-![AstroPaper I18n](/public/chang-e-ascends-to-heaven.png)
+![AstroPaper I18n](/chang-e-ascends-to-heaven.png)
 
 
 

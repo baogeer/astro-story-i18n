@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة شعب يي، في العصور القد
 
 
 
-![AstroPaper I18n](/public/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان الإمبراطور تشيان لونغ يحلم بأن ا
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-fragrant-concubine.png)
+![AstroPaper I18n](/the-story-of-the-fragrant-concubine.png)
 
 
 

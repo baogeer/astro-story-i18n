@@ -8,7 +8,7 @@ description: "في «رومانسية الممالك الثلاث»، في كل 
 
 
 
-![AstroPaper I18n](/public/top-ten-classic-single-rider-rescues-in-three-kingdoms-history.png)
+![AstroPaper I18n](/top-ten-classic-single-rider-rescues-in-three-kingdoms-history.png)
 
 
 

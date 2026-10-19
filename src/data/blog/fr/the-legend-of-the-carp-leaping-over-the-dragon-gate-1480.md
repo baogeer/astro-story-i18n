@@ -8,7 +8,7 @@ description: "Les carpes du fleuve Jaune ont connu de nombreuses difficultés et
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
+![AstroPaper I18n](/the-legend-of-the-carp-leaping-over-the-dragon-gate-1480.png)
 
 
 

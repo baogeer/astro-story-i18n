@@ -8,7 +8,7 @@ description: "Zhu Yigui élevait des canards pour gagner sa vie et s'est lié d'
 
 
 
-![AstroPaper I18n](/public/the-duck-king-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-duck-king-a-taiwanese-folktale.png)
 
 
 

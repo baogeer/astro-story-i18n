@@ -8,7 +8,7 @@ description: "ساعدت لي بي تانغ سوزونغ في تهدئة الت�
 
 
 
-![AstroPaper I18n](/public/li-mi-retires-to-the-mountains.png)
+![AstroPaper I18n](/li-mi-retires-to-the-mountains.png)
 
 
 

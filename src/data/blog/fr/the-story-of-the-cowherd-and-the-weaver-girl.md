@@ -8,7 +8,7 @@ description: "Lorsque la tisserande est tombée amoureuse de la vache matinale, 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-story-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le vacher et le tisserand sont devenus mari et femme grâce à une
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
 
 
 

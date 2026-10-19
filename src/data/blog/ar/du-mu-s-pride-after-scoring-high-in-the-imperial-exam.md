@@ -8,7 +8,7 @@ description: "بعد المدرسة الثانوية، كان Du Mu Keju فخو�
 
 
 
-![AstroPaper I18n](/public/du-mu-s-pride-after-scoring-high-in-the-imperial-exam.png)
+![AstroPaper I18n](/du-mu-s-pride-after-scoring-high-in-the-imperial-exam.png)
 
 
 

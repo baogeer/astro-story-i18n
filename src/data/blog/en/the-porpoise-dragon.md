@@ -8,7 +8,7 @@ description: "Pig Borong is produced in Jiangxi. It is shaped like a short drago
 
 
 
-![AstroPaper I18n](/public/the-porpoise-dragon.png)
+![AstroPaper I18n](/the-porpoise-dragon.png)
 
 
 

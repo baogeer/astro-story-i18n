@@ -8,7 +8,7 @@ description: "Zhang Tianshi was demeaned because his nephew sprinkled flowers in
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
 
 
 

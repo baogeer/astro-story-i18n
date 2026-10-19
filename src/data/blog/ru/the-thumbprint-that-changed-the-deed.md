@@ -8,7 +8,7 @@ description: "Ян Сейян, судебный адвокат в период �
 
 
 
-![AstroPaper I18n](/public/the-thumbprint-that-changed-the-deed.png)
+![AstroPaper I18n](/the-thumbprint-that-changed-the-deed.png)
 
 
 

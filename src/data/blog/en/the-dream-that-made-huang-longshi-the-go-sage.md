@@ -8,7 +8,7 @@ description: "Huang Longshi, a national Go player, is proud of his talent and wa
 
 
 
-![AstroPaper I18n](/public/the-dream-that-made-huang-longshi-the-go-sage.png)
+![AstroPaper I18n](/the-dream-that-made-huang-longshi-the-go-sage.png)
 
 
 

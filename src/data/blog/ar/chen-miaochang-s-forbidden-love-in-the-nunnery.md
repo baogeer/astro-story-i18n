@@ -8,7 +8,7 @@ description: "تشين مياوتشانغ، راهبة من جنوب سونغ، 
 
 
 
-![AstroPaper I18n](/public/chen-miaochang-s-forbidden-love-in-the-nunnery.png)
+![AstroPaper I18n](/chen-miaochang-s-forbidden-love-in-the-nunnery.png)
 
 
 

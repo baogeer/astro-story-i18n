@@ -8,7 +8,7 @@ description: "تجرأ شاعر غنائي سونغ الشمالية تشو با
 
 
 
-![AstroPaper I18n](/public/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
+![AstroPaper I18n](/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
 
 
 

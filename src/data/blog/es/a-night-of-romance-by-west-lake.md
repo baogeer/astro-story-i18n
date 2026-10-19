@@ -8,7 +8,7 @@ description: "Durante el Año Nuevo de Mañana, el famoso personaje de Hangzhou,
 
 
 
-![AstroPaper I18n](/public/a-night-of-romance-by-west-lake.png)
+![AstroPaper I18n](/a-night-of-romance-by-west-lake.png)
 
 
 

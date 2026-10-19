@@ -8,7 +8,7 @@ description: "العنوان هو «قصة فانوس اللوتس». يشير �
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-story-of-the-lotus-lantern.png)
 
 
 

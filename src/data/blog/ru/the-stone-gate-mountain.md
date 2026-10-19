@@ -8,7 +8,7 @@ description: "На горе Шимэнь есть Шимэн. Легенда г�
 
 
 
-![AstroPaper I18n](/public/the-stone-gate-mountain.png)
+![AstroPaper I18n](/the-stone-gate-mountain.png)
 
 
 

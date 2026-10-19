@@ -8,7 +8,7 @@ description: "Panjiu était à l'origine une star de Tengu et s'est transformé 
 
 
 
-![AstroPaper I18n](/public/the-she-folktale-of-king-panhu-and-the-third-princess.png)
+![AstroPaper I18n](/the-she-folktale-of-king-panhu-and-the-third-princess.png)
 
 
 

@@ -8,7 +8,7 @@ description: "خلال سنوات يونغل من عهد أسرة مينغ، ت�
 
 
 
-![AstroPaper I18n](/public/the-hidden-pearl.png)
+![AstroPaper I18n](/the-hidden-pearl.png)
 
 
 

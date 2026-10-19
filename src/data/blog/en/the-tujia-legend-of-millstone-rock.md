@@ -8,7 +8,7 @@ description: "After the flood, the brother and sister escaped on a gourd. In ord
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-millstone-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-millstone-rock.png)
 
 
 

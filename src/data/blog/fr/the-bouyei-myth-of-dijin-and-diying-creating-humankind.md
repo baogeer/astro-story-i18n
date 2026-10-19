@@ -8,7 +8,7 @@ description: "Frère Di Jin et Di Ying cultivaient des gourdes géantes. Lorsque
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
+![AstroPaper I18n](/the-bouyei-myth-of-dijin-and-diying-creating-humankind.png)
 
 
 

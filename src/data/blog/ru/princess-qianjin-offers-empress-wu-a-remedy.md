@@ -8,7 +8,7 @@ description: "Когда принцесса Цяньцзинь увидела г
 
 
 
-![AstroPaper I18n](/public/princess-qianjin-offers-empress-wu-a-remedy.png)
+![AstroPaper I18n](/princess-qianjin-offers-empress-wu-a-remedy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li from Weixian County rented a house to an old man. The old man w
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-of-weixian.png)
+![AstroPaper I18n](/the-fox-spirit-of-weixian.png)
 
 
 

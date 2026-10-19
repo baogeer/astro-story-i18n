@@ -8,7 +8,7 @@ description: "El joven buriato Hori Tomert robó la túnica de plumas del hada c
 
 
 
-![AstroPaper I18n](/public/the-mongolian-myth-of-the-swan-totem.png)
+![AstroPaper I18n](/the-mongolian-myth-of-the-swan-totem.png)
 
 
 

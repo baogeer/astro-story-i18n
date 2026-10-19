@@ -8,7 +8,7 @@ description: "Чжан Тяньши спас сироту и выбрал сок
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
 
 
 

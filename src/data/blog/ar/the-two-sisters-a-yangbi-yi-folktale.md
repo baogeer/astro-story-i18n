@@ -8,7 +8,7 @@ description: "ذات مرة، كانت هناك شقيقتان. بدت الأخ�
 
 
 
-![AstroPaper I18n](/public/the-two-sisters-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-two-sisters-a-yangbi-yi-folktale.png)
 
 
 

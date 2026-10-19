@@ -8,7 +8,7 @@ description: "Сун Мэйлин была важной женщиной на п
 
 
 
-![AstroPaper I18n](/public/soong-mei-ling-s-five-historic-contributions.png)
+![AstroPaper I18n](/soong-mei-ling-s-five-historic-contributions.png)
 
 
 

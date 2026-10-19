@@ -8,7 +8,7 @@ description: "Wang Zhaojun returned to his hometown province before leaving the 
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-and-the-peach-blossom-fish.png)
+![AstroPaper I18n](/wang-zhaojun-and-the-peach-blossom-fish.png)
 
 
 

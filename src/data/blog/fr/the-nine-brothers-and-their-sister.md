@@ -8,7 +8,7 @@ description: "Les neuf frères aînés partaient à la chasse tous les jours, ma
 
 
 
-![AstroPaper I18n](/public/the-nine-brothers-and-their-sister.png)
+![AstroPaper I18n](/the-nine-brothers-and-their-sister.png)
 
 
 

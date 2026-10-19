@@ -8,7 +8,7 @@ description: "Prince of Juxian County met Ying Ning, a flower girl in Shangyuan 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yingning.png)
+![AstroPaper I18n](/the-tale-of-yingning.png)
 
 
 

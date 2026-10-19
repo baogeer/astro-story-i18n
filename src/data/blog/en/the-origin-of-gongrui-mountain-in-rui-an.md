@@ -8,7 +8,7 @@ description: "There were frequent fires in Ruian City in the Ming dynasty. Slopp
 
 
 
-![AstroPaper I18n](/public/the-origin-of-gongrui-mountain-in-rui-an.png)
+![AstroPaper I18n](/the-origin-of-gongrui-mountain-in-rui-an.png)
 
 
 

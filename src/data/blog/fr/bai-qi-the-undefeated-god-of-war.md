@@ -8,7 +8,7 @@ description: "Bai Qi était un général célèbre de la dynastie Qin pendant la
 
 
 
-![AstroPaper I18n](/public/bai-qi-the-undefeated-god-of-war.png)
+![AstroPaper I18n](/bai-qi-the-undefeated-god-of-war.png)
 
 
 

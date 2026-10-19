@@ -8,7 +8,7 @@ description: "كانت دياو تشان في الأصل العاهرة الغن
 
 
 
-![AstroPaper I18n](/public/the-story-of-diaochan-the-moon-shaming-beauty.png)
+![AstroPaper I18n](/the-story-of-diaochan-the-moon-shaming-beauty.png)
 
 
 

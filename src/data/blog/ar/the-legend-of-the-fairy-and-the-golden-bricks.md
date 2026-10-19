@@ -8,7 +8,7 @@ description: "وعدت جنية بالزواج خلال عام الكارثة ل
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fairy-and-the-golden-bricks.png)
+![AstroPaper I18n](/the-legend-of-the-fairy-and-the-golden-bricks.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Mi Yu has a serious habit of being clean and has been demoted due 
 
 
 
-![AstroPaper I18n](/public/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
+![AstroPaper I18n](/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lorsque les Sept Fées sont mortes, elles ont brûlé de l'encens 
 
 
 
-![AstroPaper I18n](/public/the-seven-fairies-and-the-auspicious-tea.png)
+![AstroPaper I18n](/the-seven-fairies-and-the-auspicious-tea.png)
 
 
 

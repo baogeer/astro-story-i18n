@@ -8,7 +8,7 @@ description: "Чжун Мэй вышла замуж за бедного учен
 
 
 
-![AstroPaper I18n](/public/the-stone-maiden.png)
+![AstroPaper I18n](/the-stone-maiden.png)
 
 
 

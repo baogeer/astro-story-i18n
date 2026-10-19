@@ -8,7 +8,7 @@ description: "Wu Qinghuan, une femme talentueuse de la dynastie Ming, s'est rend
 
 
 
-![AstroPaper I18n](/public/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
+![AstroPaper I18n](/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
 
 
 

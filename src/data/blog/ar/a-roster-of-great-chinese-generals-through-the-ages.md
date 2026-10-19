@@ -8,7 +8,7 @@ description: "تتضمن هذه المقالة 100 جنرال مشهور تم ا
 
 
 
-![AstroPaper I18n](/public/a-roster-of-great-chinese-generals-through-the-ages.png)
+![AstroPaper I18n](/a-roster-of-great-chinese-generals-through-the-ages.png)
 
 
 

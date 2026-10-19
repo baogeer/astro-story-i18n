@@ -8,7 +8,7 @@ description: "أصبح راعي البقر والحائك زوجًا وزوجة 
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl-reunite-on-the-magpie-bridge.png)
 
 
 

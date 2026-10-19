@@ -8,7 +8,7 @@ description: "En busca de la legendaria Chica Naranja, el Príncipe Dawa pasó p
 
 
 
-![AstroPaper I18n](/public/the-orange-maiden.png)
+![AstroPaper I18n](/the-orange-maiden.png)
 
 
 

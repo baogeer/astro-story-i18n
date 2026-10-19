@@ -8,7 +8,7 @@ description: "La antigua antepasada femenina del pueblo Yi, Ayu God, era tanto m
 
 
 
-![AstroPaper I18n](/public/the-origin-of-ayu-the-yi-ancestral-goddess.png)
+![AstroPaper I18n](/the-origin-of-ayu-the-yi-ancestral-goddess.png)
 
 
 

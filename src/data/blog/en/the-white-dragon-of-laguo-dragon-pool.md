@@ -8,7 +8,7 @@ description: "There is a small white dragon that can be transformed into a human
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-of-laguo-dragon-pool.png)
+![AstroPaper I18n](/the-white-dragon-of-laguo-dragon-pool.png)
 
 
 

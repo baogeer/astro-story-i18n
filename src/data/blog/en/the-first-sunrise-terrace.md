@@ -8,7 +8,7 @@ description: "Liu Chun sacrificed to find the Sun, which was taken by the Demon 
 
 
 
-![AstroPaper I18n](/public/the-first-sunrise-terrace.png)
+![AstroPaper I18n](/the-first-sunrise-terrace.png)
 
 
 

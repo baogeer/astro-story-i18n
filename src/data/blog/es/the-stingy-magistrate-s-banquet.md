@@ -8,7 +8,7 @@ description: "Para que la gente pudiera celebrar el tacaño banquete de Zongben,
 
 
 
-![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+![AstroPaper I18n](/the-stingy-magistrate-s-banquet.png)
 
 
 

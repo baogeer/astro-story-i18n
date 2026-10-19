@@ -8,7 +8,7 @@ description: "El viejo sirviente del tejedor, Xiunyu, soñaba con escapar del pa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-forget-me-not.png)
+![AstroPaper I18n](/the-legend-of-the-forget-me-not.png)
 
 
 

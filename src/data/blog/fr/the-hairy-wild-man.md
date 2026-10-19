@@ -8,7 +8,7 @@ description: "Le sauvage de Mao a volé la belle fille en tant qu'épouse, et la
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man.png)
+![AstroPaper I18n](/the-hairy-wild-man.png)
 
 
 

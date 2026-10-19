@@ -8,7 +8,7 @@ description: "La nuit, dans un dortoir pour filles d'une école, lorsqu'une fill
 
 
 
-![AstroPaper I18n](/public/the-ground-floor-toilet-in-the-girls-dormitory.png)
+![AstroPaper I18n](/the-ground-floor-toilet-in-the-girls-dormitory.png)
 
 
 

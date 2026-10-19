@@ -8,7 +8,7 @@ description: "During the Jingtai years of the Ming dynasty, Zhang Guanghui left 
 
 
 
-![AstroPaper I18n](/public/the-fairy-of-the-rippling-waves.png)
+![AstroPaper I18n](/the-fairy-of-the-rippling-waves.png)
 
 
 

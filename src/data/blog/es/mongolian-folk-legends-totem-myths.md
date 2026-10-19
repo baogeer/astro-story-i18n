@@ -8,7 +8,7 @@ description: "El folclore mongol conserva ricos restos de mitología tótem. Los
 
 
 
-![AstroPaper I18n](/public/mongolian-folk-legends-totem-myths.png)
+![AstroPaper I18n](/mongolian-folk-legends-totem-myths.png)
 
 
 

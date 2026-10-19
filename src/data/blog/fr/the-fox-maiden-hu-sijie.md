@@ -8,7 +8,7 @@ description: "Naosheng Tarzan est d'abord tomb√© amoureux de la fille renard, s≈
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-hu-sijie.png)
+![AstroPaper I18n](/the-fox-maiden-hu-sijie.png)
 
 
 

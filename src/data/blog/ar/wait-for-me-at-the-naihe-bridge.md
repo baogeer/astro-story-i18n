@@ -8,7 +8,7 @@ description: "عاد وانغ تشينغ من أسرة مينغ من المنز�
 
 
 
-![AstroPaper I18n](/public/wait-for-me-at-the-naihe-bridge.png)
+![AstroPaper I18n](/wait-for-me-at-the-naihe-bridge.png)
 
 
 

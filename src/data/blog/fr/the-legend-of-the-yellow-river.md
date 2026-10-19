@@ -8,7 +8,7 @@ description: "La légende du fleuve Jaune raconte l'histoire du dragon dans le c
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أوركيد هي أرملة توسلت من أجل لقمة ال�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ghost-festival.png)
+![AstroPaper I18n](/the-legend-of-the-ghost-festival.png)
 
 
 

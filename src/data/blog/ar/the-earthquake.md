@@ -8,7 +8,7 @@ description: "في السنة السابعة من عمر كانغشي، عندم
 
 
 
-![AstroPaper I18n](/public/the-earthquake.png)
+![AstroPaper I18n](/the-earthquake.png)
 
 
 

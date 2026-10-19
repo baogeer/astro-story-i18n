@@ -8,7 +8,7 @@ description: "Cet article classe des prostituées célèbres telles que Sai Jinh
 
 
 
-![AstroPaper I18n](/public/the-ten-richest-courtesans-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-richest-courtesans-in-chinese-history.png)
 
 
 

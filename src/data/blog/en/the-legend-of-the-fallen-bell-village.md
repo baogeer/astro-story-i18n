@@ -8,7 +8,7 @@ description: "Zhong Luo Village was originally known as Xiaomiao Village. The mo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fallen-bell-village.png)
+![AstroPaper I18n](/the-legend-of-the-fallen-bell-village.png)
 
 
 

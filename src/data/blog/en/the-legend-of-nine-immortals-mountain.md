@@ -8,7 +8,7 @@ description: "Brothers Yang Wen and Yang Wu were given a dragon-shaped undergrou
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nine-immortals-mountain.png)
+![AstroPaper I18n](/the-legend-of-nine-immortals-mountain.png)
 
 
 

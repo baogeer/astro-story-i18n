@@ -8,7 +8,7 @@ description: "В этой истории прослеживается проис
 
 
 
-![AstroPaper I18n](/public/the-noble-origins-of-prostitution.png)
+![AstroPaper I18n](/the-noble-origins-of-prostitution.png)
 
 
 

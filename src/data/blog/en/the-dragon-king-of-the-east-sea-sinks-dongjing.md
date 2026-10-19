@@ -8,7 +8,7 @@ description: "Dragon King Aoguang of the East China Sea expanded his territory, 
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
+![AstroPaper I18n](/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
 
 
 

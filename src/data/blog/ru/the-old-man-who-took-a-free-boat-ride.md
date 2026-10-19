@@ -8,7 +8,7 @@ description: "Принц Ли из Цзяхэ навестил своих дру
 
 
 
-![AstroPaper I18n](/public/the-old-man-who-took-a-free-boat-ride.png)
+![AstroPaper I18n](/the-old-man-who-took-a-free-boat-ride.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Yufeng a révélé la liste pour sauver Mlle Yan, effrayée 
 
 
 
-![AstroPaper I18n](/public/how-zhangfeng-shoal-got-its-name.png)
+![AstroPaper I18n](/how-zhangfeng-shoal-got-its-name.png)
 
 
 

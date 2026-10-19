@@ -8,7 +8,7 @@ description: "Wang Dazhi thought of the old blue and white porcelain bowl in his
 
 
 
-![AstroPaper I18n](/public/the-porcelain-shard-on-the-root-carving.png)
+![AstroPaper I18n](/the-porcelain-shard-on-the-root-carving.png)
 
 
 

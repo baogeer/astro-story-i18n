@@ -8,7 +8,7 @@ description: "Lu Xue fue una vez a la familia de Yue para que lo contrataran. Su
 
 
 
-![AstroPaper I18n](/public/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
+![AstroPaper I18n](/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
 
 
 

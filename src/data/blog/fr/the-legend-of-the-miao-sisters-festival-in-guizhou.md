@@ -8,7 +8,7 @@ description: "Le festival des sœurs Hmong trouve son origine dans deux légende
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-sisters-festival-in-guizhou.png)
+![AstroPaper I18n](/the-legend-of-the-miao-sisters-festival-in-guizhou.png)
 
 
 

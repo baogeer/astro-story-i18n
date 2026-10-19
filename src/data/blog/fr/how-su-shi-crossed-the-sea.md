@@ -8,7 +8,7 @@ description: "Après avoir été banni à Danzhou, Su Shi a traversé la mer pou
 
 
 
-![AstroPaper I18n](/public/how-su-shi-crossed-the-sea.png)
+![AstroPaper I18n](/how-su-shi-crossed-the-sea.png)
 
 
 

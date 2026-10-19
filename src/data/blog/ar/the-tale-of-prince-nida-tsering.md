@@ -8,7 +8,7 @@ description: "تزوج الأمير نيدا سيرين من جيانغ دان �
 
 
 
-![AstroPaper I18n](/public/the-tale-of-prince-nida-tsering.png)
+![AstroPaper I18n](/the-tale-of-prince-nida-tsering.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wu Cheng-en ne s'en est pas bien sorti. En tant que Gong Sheng, il
 
 
 
-![AstroPaper I18n](/public/wu-cheng-en-s-three-journeys-to-beijing.png)
+![AstroPaper I18n](/wu-cheng-en-s-three-journeys-to-beijing.png)
 
 
 

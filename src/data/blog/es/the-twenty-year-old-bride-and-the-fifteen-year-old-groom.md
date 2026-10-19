@@ -8,7 +8,7 @@ description: "Lan Lan, hija del condado de Chenzhi en el condado de Zhaoxin dura
 
 
 
-![AstroPaper I18n](/public/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
+![AstroPaper I18n](/the-twenty-year-old-bride-and-the-fifteen-year-old-groom.png)
 
 
 

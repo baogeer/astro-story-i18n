@@ -8,7 +8,7 @@ description: "عندما كانت الأم المسكينة وابنها يقط�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-magic-jar.png)
+![AstroPaper I18n](/the-legend-of-the-magic-jar.png)
 
 
 

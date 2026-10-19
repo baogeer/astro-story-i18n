@@ -8,7 +8,7 @@ description: "24-летняя женщина, практикующая меди�
 
 
 
-![AstroPaper I18n](/public/the-art-of-ventriloquism.png)
+![AstroPaper I18n](/the-art-of-ventriloquism.png)
 
 
 

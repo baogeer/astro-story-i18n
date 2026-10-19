@@ -8,7 +8,7 @@ description: "Liu Danting, a post-graduate student from Luoyang, loved growing p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-liu-yellow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-dai-liu-yellow-peony.png)
 
 
 

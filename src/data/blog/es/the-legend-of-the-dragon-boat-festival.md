@@ -8,7 +8,7 @@ description: "El hijo de la difunta familia Miao fue asesinado por un malvado dr
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-boat-festival.png)
 
 
 

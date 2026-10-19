@@ -8,7 +8,7 @@ description: "Li Shishi, une célèbre prostituée de la dynastie Song du Nord, 
 
 
 
-![AstroPaper I18n](/public/the-death-of-li-shishi-the-courtesan-who-captivated-emperor-huizong.png)
+![AstroPaper I18n](/the-death-of-li-shishi-the-courtesan-who-captivated-emperor-huizong.png)
 
 
 

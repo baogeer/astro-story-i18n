@@ -8,7 +8,7 @@ description: "Три матери и дочери живут за предела
 
 
 
-![AstroPaper I18n](/public/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
+![AstroPaper I18n](/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
 
 
 

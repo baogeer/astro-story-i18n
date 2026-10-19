@@ -8,7 +8,7 @@ description: "سعى جور وكاري للحصول على كنز للناس. ت
 
 
 
-![AstroPaper I18n](/public/the-treasure-of-purple-cloud-cave.png)
+![AstroPaper I18n](/the-treasure-of-purple-cloud-cave.png)
 
 
 

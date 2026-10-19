@@ -8,7 +8,7 @@ description: "The birds gathered to choose the king, and the bats played tricks:
 
 
 
-![AstroPaper I18n](/public/the-bat-who-would-be-king.png)
+![AstroPaper I18n](/the-bat-who-would-be-king.png)
 
 
 

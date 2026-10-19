@@ -8,7 +8,7 @@ description: "Shih Tzu is the embodiment of the beauty of “sinking fish,” bu
 
 
 
-![AstroPaper I18n](/public/xi-shi-china-s-greatest-beauty.png)
+![AstroPaper I18n](/xi-shi-china-s-greatest-beauty.png)
 
 
 

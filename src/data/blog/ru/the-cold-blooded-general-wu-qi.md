@@ -8,7 +8,7 @@ description: "У Ци был военным в Воюющих царствах �
 
 
 
-![AstroPaper I18n](/public/the-cold-blooded-general-wu-qi.png)
+![AstroPaper I18n](/the-cold-blooded-general-wu-qi.png)
 
 
 

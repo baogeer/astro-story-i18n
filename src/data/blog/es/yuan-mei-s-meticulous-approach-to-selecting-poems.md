@@ -8,7 +8,7 @@ description: "La selección de poesía de Yuan Mei se centra en lo «fresco» y 
 
 
 
-![AstroPaper I18n](/public/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
+![AstroPaper I18n](/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
 
 
 

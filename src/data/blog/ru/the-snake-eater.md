@@ -8,7 +8,7 @@ description: "Лу Фэннин любит вкусных змей. Малень
 
 
 
-![AstroPaper I18n](/public/the-snake-eater.png)
+![AstroPaper I18n](/the-snake-eater.png)
 
 
 

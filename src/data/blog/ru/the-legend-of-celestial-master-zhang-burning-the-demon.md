@@ -8,7 +8,7 @@ description: "Племянница Чжан Тяньши вышла замуж. 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-celestial-master-zhang-burning-the-demon.png)
+![AstroPaper I18n](/the-legend-of-celestial-master-zhang-burning-the-demon.png)
 
 
 

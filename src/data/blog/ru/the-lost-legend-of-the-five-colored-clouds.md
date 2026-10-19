@@ -8,7 +8,7 @@ description: "В годы правления династии Цин ферме�
 
 
 
-![AstroPaper I18n](/public/the-lost-legend-of-the-five-colored-clouds.png)
+![AstroPaper I18n](/the-lost-legend-of-the-five-colored-clouds.png)
 
 
 

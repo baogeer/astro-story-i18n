@@ -8,7 +8,7 @@ description: "В западной части региона Сянси мног�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-walking-corpses-in-western-hunan.png)
+![AstroPaper I18n](/the-legend-of-the-walking-corpses-in-western-hunan.png)
 
 
 

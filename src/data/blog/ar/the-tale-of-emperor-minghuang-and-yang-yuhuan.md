@@ -8,7 +8,7 @@ description: "قام تانغ مينغهوانغ لي لونغجي بتعميد 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-emperor-minghuang-and-yang-yuhuan.png)
+![AstroPaper I18n](/the-tale-of-emperor-minghuang-and-yang-yuhuan.png)
 
 
 

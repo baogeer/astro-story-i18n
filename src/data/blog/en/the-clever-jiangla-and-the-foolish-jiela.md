@@ -8,7 +8,7 @@ description: "“Jiang Ra and Gila” tells a series of intellectual fighting st
 
 
 
-![AstroPaper I18n](/public/the-clever-jiangla-and-the-foolish-jiela.png)
+![AstroPaper I18n](/the-clever-jiangla-and-the-foolish-jiela.png)
 
 
 

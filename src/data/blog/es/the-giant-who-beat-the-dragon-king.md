@@ -8,7 +8,7 @@ description: "Cuando el gigante Qian Dawang recogió sal del otro lado del río 
 
 
 
-![AstroPaper I18n](/public/the-giant-who-beat-the-dragon-king.png)
+![AstroPaper I18n](/the-giant-who-beat-the-dragon-king.png)
 
 
 

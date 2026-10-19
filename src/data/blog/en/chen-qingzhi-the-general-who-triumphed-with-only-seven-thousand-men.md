@@ -8,7 +8,7 @@ description: "General Chen Qingzhi of the southern dynasty was bad at riding and
 
 
 
-![AstroPaper I18n](/public/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
+![AstroPaper I18n](/chen-qingzhi-the-general-who-triumphed-with-only-seven-thousand-men.png)
 
 
 

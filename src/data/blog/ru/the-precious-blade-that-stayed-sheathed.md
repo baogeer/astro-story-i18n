@@ -8,7 +8,7 @@ description: "У кузнеца Гуань Цзимина есть родово�
 
 
 
-![AstroPaper I18n](/public/the-precious-blade-that-stayed-sheathed.png)
+![AstroPaper I18n](/the-precious-blade-that-stayed-sheathed.png)
 
 
 

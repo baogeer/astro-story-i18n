@@ -8,7 +8,7 @@ description: "Frère Lianer a enterré la vieille dame qui demandait de la nourr
 
 
 
-![AstroPaper I18n](/public/the-story-of-simple-second-brother.png)
+![AstroPaper I18n](/the-story-of-simple-second-brother.png)
 
 
 

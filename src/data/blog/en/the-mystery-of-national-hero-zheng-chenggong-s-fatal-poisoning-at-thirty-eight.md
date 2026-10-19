@@ -8,7 +8,7 @@ description: "After Zheng successfully recovered Taiwan, he was only 38 years ol
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
+![AstroPaper I18n](/the-mystery-of-national-hero-zheng-chenggong-s-fatal-poisoning-at-thirty-eight.png)
 
 
 

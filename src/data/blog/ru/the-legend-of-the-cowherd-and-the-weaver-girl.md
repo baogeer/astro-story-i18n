@@ -8,7 +8,7 @@ description: "Пастух подвергся жестокому обращен�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

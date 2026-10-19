@@ -8,7 +8,7 @@ description: "У семьи Синьчэн Ванцзя есть жених с �
 
 
 
-![AstroPaper I18n](/public/the-groom-who-ate-stones.png)
+![AstroPaper I18n](/the-groom-who-ate-stones.png)
 
 
 

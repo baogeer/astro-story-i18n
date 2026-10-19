@@ -8,7 +8,7 @@ description: "Xiaomei Su et son frère aîné Su Shi se battent souvent dans la 
 
 
 
-![AstroPaper I18n](/public/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
+![AstroPaper I18n](/su-dongpo-and-his-sister-mock-each-other-s-looks.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عندما ذهب سون تشاورين في موعد مع لي ش
 
 
 
-![AstroPaper I18n](/public/the-gold-necklace-found-by-chance.png)
+![AstroPaper I18n](/the-gold-necklace-found-by-chance.png)
 
 
 

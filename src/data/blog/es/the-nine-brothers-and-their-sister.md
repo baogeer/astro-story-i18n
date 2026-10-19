@@ -8,7 +8,7 @@ description: "Los nueve hermanos mayores salían a cazar todos los días, pero s
 
 
 
-![AstroPaper I18n](/public/the-nine-brothers-and-their-sister.png)
+![AstroPaper I18n](/the-nine-brothers-and-their-sister.png)
 
 
 

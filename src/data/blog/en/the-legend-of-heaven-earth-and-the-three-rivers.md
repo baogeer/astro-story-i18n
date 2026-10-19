@@ -8,7 +8,7 @@ description: "The legacy of Nu Wa Butian was turned into Changbai Mountain, and 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-heaven-earth-and-the-three-rivers.png)
+![AstroPaper I18n](/the-legend-of-heaven-earth-and-the-three-rivers.png)
 
 
 

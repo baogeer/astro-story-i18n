@@ -8,7 +8,7 @@ description: "Принцесса Вэньчэн вышла замуж за За�
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-enters-tibet.png)
+![AstroPaper I18n](/princess-wencheng-enters-tibet.png)
 
 
 

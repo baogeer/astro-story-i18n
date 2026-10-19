@@ -8,7 +8,7 @@ description: "Hay dragones malvados en el río Yangjiao, y el leñador Qing Ge i
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-dragon-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-dragon-bridge.png)
 
 
 

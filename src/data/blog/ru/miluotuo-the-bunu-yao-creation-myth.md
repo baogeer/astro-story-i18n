@@ -8,7 +8,7 @@ description: "Мирото использовал дождевую шляпу и
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-bunu-yao-creation-myth.png)
+![AstroPaper I18n](/miluotuo-the-bunu-yao-creation-myth.png)
 
 
 

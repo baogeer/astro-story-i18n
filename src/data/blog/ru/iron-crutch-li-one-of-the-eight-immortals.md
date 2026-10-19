@@ -8,7 +8,7 @@ description: "Ли Сюань отправился в духовное путе�
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/iron-crutch-li-one-of-the-eight-immortals.png)
 
 
 

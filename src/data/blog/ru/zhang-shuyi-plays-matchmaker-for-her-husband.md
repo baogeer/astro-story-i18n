@@ -8,7 +8,7 @@ description: "После женитьбы у Чун Сук-и не было де
 
 
 
-![AstroPaper I18n](/public/zhang-shuyi-plays-matchmaker-for-her-husband.png)
+![AstroPaper I18n](/zhang-shuyi-plays-matchmaker-for-her-husband.png)
 
 
 

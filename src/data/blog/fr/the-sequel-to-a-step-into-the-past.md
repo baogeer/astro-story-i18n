@@ -8,7 +8,7 @@ description: "Le fils de Xiang Yu, Xiang Xiaohu, s'est enfui au Yunnan. Sous le 
 
 
 
-![AstroPaper I18n](/public/the-sequel-to-a-step-into-the-past.png)
+![AstroPaper I18n](/the-sequel-to-a-step-into-the-past.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Tang Jingchuan tuvo una infancia obstinada y estaba enojado con mu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chen-du-thatched-cottage.png)
+![AstroPaper I18n](/the-legend-of-chen-du-thatched-cottage.png)
 
 
 

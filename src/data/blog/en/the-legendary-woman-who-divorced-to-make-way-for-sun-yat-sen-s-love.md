@@ -8,7 +8,7 @@ description: "In 1915, Sun Yat-sen wrote to his wife Lu Muzhen requesting a divo
 
 
 
-![AstroPaper I18n](/public/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
+![AstroPaper I18n](/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
 
 
 

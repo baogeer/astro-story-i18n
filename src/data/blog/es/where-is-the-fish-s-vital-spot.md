@@ -8,7 +8,7 @@ description: "Los tres hermanos siguen discutiendo sobre si la vida del pez depe
 
 
 
-![AstroPaper I18n](/public/where-is-the-fish-s-vital-spot.png)
+![AstroPaper I18n](/where-is-the-fish-s-vital-spot.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lu You from Southern Song and Tang Wan Qingmei became a married co
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
+![AstroPaper I18n](/the-tragic-love-of-lu-you-and-tang-wan-at-shen-garden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the story of “Shih Tzu Shen Jiang”, the beautiful Vietnames
 
 
 
-![AstroPaper I18n](/public/xi-shi-drowns-in-the-river.png)
+![AstroPaper I18n](/xi-shi-drowns-in-the-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Fan Lihua marched west to Mulei County in Xinjiang and was stopped
 
 
 
-![AstroPaper I18n](/public/fan-lihua-and-the-mulei-river.png)
+![AstroPaper I18n](/fan-lihua-and-the-mulei-river.png)
 
 
 

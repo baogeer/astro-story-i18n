@@ -8,7 +8,7 @@ description: "تزوج هويشانغ تشو جيهنغ من امرأة فقير
 
 
 
-![AstroPaper I18n](/public/the-huizhou-merchant-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-huizhou-merchant-who-divorced-his-wife.png)
 
 
 

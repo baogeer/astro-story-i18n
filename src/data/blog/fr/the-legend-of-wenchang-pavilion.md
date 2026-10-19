@@ -8,7 +8,7 @@ description: "Le paysan Bao Zhonggui et le maître Zhou Liangqing étaient à l'
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wenchang-pavilion.png)
+![AstroPaper I18n](/the-legend-of-wenchang-pavilion.png)
 
 
 

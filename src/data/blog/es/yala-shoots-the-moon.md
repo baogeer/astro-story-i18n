@@ -8,7 +8,7 @@ description: "Para salvar a la gente, la pareja de cazadores, Yara y Nie, siguie
 
 
 
-![AstroPaper I18n](/public/yala-shoots-the-moon.png)
+![AstroPaper I18n](/yala-shoots-the-moon.png)
 
 
 

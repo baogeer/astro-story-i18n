@@ -8,7 +8,7 @@ description: "Después de que Qiu Xia se casara con la familia Wang, su suegra, 
 
 
 
-![AstroPaper I18n](/public/the-father-who-saved-his-daughter.png)
+![AstroPaper I18n](/the-father-who-saved-his-daughter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El dueño de la montaña robó el grano y Lan Tianfeng se llevó a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
 
 
 

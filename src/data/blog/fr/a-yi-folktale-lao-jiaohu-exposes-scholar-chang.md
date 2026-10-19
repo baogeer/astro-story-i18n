@@ -8,7 +8,7 @@ description: "Le grand-père Chang Gong de l'ethnie Yi, à l'origine nom de fami
 
 
 
-![AstroPaper I18n](/public/a-yi-folktale-lao-jiaohu-exposes-scholar-chang.png)
+![AstroPaper I18n](/a-yi-folktale-lao-jiaohu-exposes-scholar-chang.png)
 
 
 

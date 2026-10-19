@@ -8,7 +8,7 @@ description: "After his defeat, Taiping Army general Miao Xinbing took over the 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhai-mountain.png)
+![AstroPaper I18n](/the-legend-of-zhai-mountain.png)
 
 
 

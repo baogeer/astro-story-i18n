@@ -8,7 +8,7 @@ description: "По слухам, предшественником Су Ши бы
 
 
 
-![AstroPaper I18n](/public/the-past-and-future-incarnations-of-su-shi.png)
+![AstroPaper I18n](/the-past-and-future-incarnations-of-su-shi.png)
 
 
 

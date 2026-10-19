@@ -8,7 +8,7 @@ description: "Qin Shi Huang a utilisé un fouet de montagne pour pousser la mont
 
 
 
-![AstroPaper I18n](/public/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
+![AstroPaper I18n](/the-ninth-dragon-maiden-outwits-qin-shi-huang-for-his-mountain-driving-whip.png)
 
 
 

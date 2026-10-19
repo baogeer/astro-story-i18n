@@ -8,7 +8,7 @@ description: "Il y a longtemps, pour que le Soleil et la Lune apparaissent régu
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-moqiu-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-moqiu-festival.png)
 
 
 

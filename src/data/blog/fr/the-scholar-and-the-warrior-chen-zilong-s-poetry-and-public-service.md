@@ -8,7 +8,7 @@ description: "Chen Zilong était poète à la fin de la dynastie Ming et dirigea
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-warrior-chen-zilong-s-poetry-and-public-service.png)
+![AstroPaper I18n](/the-scholar-and-the-warrior-chen-zilong-s-poetry-and-public-service.png)
 
 
 

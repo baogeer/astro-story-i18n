@@ -8,7 +8,7 @@ description: "Les jeunes ancêtres de la tribu Yilao ont découvert le cinabre l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-treasure-king-bodhisattva.png)
+![AstroPaper I18n](/the-legend-of-the-treasure-king-bodhisattva.png)
 
 
 

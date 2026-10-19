@@ -8,7 +8,7 @@ description: "At the end of the Ming Dynasty, there were many bandits in Zhangqi
 
 
 
-![AstroPaper I18n](/public/the-quick-blade.png)
+![AstroPaper I18n](/the-quick-blade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Si no crees en el Gong o no, la profecía del adivino dice que mor
 
 
 
-![AstroPaper I18n](/public/the-sorcery.png)
+![AstroPaper I18n](/the-sorcery.png)
 
 
 

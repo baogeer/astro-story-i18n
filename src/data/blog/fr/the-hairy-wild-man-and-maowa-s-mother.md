@@ -8,7 +8,7 @@ description: "Autrefois, une fille a été cambriolée par des sauvages de Mao e
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man-and-maowa-s-mother.png)
+![AstroPaper I18n](/the-hairy-wild-man-and-maowa-s-mother.png)
 
 
 

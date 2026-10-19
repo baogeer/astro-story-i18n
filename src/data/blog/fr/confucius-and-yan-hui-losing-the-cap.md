@@ -8,7 +8,7 @@ description: "Yan Hui a discuté avec l'acheteur pour savoir si 38 était 23 ou 
 
 
 
-![AstroPaper I18n](/public/confucius-and-yan-hui-losing-the-cap.png)
+![AstroPaper I18n](/confucius-and-yan-hui-losing-the-cap.png)
 
 
 

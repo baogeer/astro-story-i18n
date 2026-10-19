@@ -8,7 +8,7 @@ description: "La reine du Premier ministre, Bao Chuan, a jeté des hortensias et
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
+![AstroPaper I18n](/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
 
 
 

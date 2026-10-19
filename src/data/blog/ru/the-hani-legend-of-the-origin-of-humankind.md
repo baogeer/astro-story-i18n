@@ -8,7 +8,7 @@ description: "Согласно легендам Хани, Небесный От�
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-origin-of-humankind.png)
+![AstroPaper I18n](/the-hani-legend-of-the-origin-of-humankind.png)
 
 
 

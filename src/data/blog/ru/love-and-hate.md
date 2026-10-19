@@ -8,7 +8,7 @@ description: "Му Жун и Сяои подошли к Лю Ханьяню, ч�
 
 
 
-![AstroPaper I18n](/public/love-and-hate.png)
+![AstroPaper I18n](/love-and-hate.png)
 
 
 

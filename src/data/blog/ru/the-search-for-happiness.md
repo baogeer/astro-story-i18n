@@ -8,7 +8,7 @@ description: "Чтобы обрести счастье, молодые жите�
 
 
 
-![AstroPaper I18n](/public/the-search-for-happiness.png)
+![AstroPaper I18n](/the-search-for-happiness.png)
 
 
 

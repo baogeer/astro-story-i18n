@@ -8,7 +8,7 @@ description: "In order to avoid being annexed by Mongolia, successive kings marr
 
 
 
-![AstroPaper I18n](/public/the-goryeo-dynasty-that-survived-through-women.png)
+![AstroPaper I18n](/the-goryeo-dynasty-that-survived-through-women.png)
 
 
 

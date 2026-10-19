@@ -8,7 +8,7 @@ description: "La princesse Agai a été forcée par son père, Liang Wang, d'emp
 
 
 
-![AstroPaper I18n](/public/the-princess-who-drank-peacock-gall.png)
+![AstroPaper I18n](/the-princess-who-drank-peacock-gall.png)
 
 
 

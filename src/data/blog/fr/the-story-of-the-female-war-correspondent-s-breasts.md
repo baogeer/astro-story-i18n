@@ -8,7 +8,7 @@ description: "Lors de la réunion de mobilisation sino-vietnamienne pour la guer
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-female-war-correspondent-s-breasts.png)
+![AstroPaper I18n](/the-story-of-the-female-war-correspondent-s-breasts.png)
 
 
 

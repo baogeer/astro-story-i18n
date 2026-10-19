@@ -8,7 +8,7 @@ description: "Tang Xuanzong de la dynastie Tang a construit le temple Tang pour 
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-daitang-temple.png)
+![AstroPaper I18n](/the-rise-and-fall-of-daitang-temple.png)
 
 
 

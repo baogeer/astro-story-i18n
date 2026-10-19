@@ -8,7 +8,7 @@ description: "Zhou Sheng et Cheng Sheng sont les meilleurs amis. Zhou Sheng a é
 
 
 
-![AstroPaper I18n](/public/how-cheng-became-an-immortal.png)
+![AstroPaper I18n](/how-cheng-became-an-immortal.png)
 
 
 

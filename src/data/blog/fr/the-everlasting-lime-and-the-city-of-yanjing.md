@@ -8,7 +8,7 @@ description: "Au printemps et à l'automne, Yan Wang a construit une ville pour 
 
 
 
-![AstroPaper I18n](/public/the-everlasting-lime-and-the-city-of-yanjing.png)
+![AstroPaper I18n](/the-everlasting-lime-and-the-city-of-yanjing.png)
 
 
 

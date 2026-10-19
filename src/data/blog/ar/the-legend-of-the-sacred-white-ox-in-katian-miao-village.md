@@ -8,7 +8,7 @@ description: "في العصور القديمة، كانت الأبقار الخ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sacred-white-ox-in-katian-miao-village.png)
+![AstroPaper I18n](/the-legend-of-the-sacred-white-ox-in-katian-miao-village.png)
 
 
 

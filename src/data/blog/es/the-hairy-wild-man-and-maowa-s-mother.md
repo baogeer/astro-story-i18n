@@ -8,7 +8,7 @@ description: "En los viejos tiempos, los salvajes de Mao robaron a una niña y d
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man-and-maowa-s-mother.png)
+![AstroPaper I18n](/the-hairy-wild-man-and-maowa-s-mother.png)
 
 
 

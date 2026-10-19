@@ -8,7 +8,7 @@ description: "La erudita Zhang Zhen se quedó con la familia Jin de su suegro y 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-carp-maiden.png)
+![AstroPaper I18n](/the-tale-of-the-carp-maiden.png)
 
 
 

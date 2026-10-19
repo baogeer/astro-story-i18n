@@ -8,7 +8,7 @@ description: "Le rocher féerique Jingmeishan de Taipei est très présent. La l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-footprints.png)
+![AstroPaper I18n](/the-legend-of-the-footprints.png)
 
 
 

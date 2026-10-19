@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Han de l'Est, lorsque le maître kabu
 
 
 
-![AstroPaper I18n](/public/the-infatuated-dancer-lai-ying-er.png)
+![AstroPaper I18n](/the-infatuated-dancer-lai-ying-er.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يصنع Zhang Laohan وزوجته التوفو من أجل لقم
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-the-birth-of-the-heavenly-master.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-the-birth-of-the-heavenly-master.png)
 
 
 

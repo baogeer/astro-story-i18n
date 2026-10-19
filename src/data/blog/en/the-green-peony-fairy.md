@@ -8,7 +8,7 @@ description: "Young Liu Junsheng braved the rain to lift up Peony, which was des
 
 
 
-![AstroPaper I18n](/public/the-green-peony-fairy.png)
+![AstroPaper I18n](/the-green-peony-fairy.png)
 
 
 

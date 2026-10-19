@@ -8,7 +8,7 @@ description: "В городе Шу, провинция Цзяннин, во вр
 
 
 
-![AstroPaper I18n](/public/tang-bohu-s-gift-of-a-painting.png)
+![AstroPaper I18n](/tang-bohu-s-gift-of-a-painting.png)
 
 
 

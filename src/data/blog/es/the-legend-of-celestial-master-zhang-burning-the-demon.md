@@ -8,7 +8,7 @@ description: "La sobrina de Zhang Tianshi se casó. Las hadas locales acosaron a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-celestial-master-zhang-burning-the-demon.png)
+![AstroPaper I18n](/the-legend-of-celestial-master-zhang-burning-the-demon.png)
 
 
 

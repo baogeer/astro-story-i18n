@@ -8,7 +8,7 @@ description: "في طريق العودة، قابلت لي يولو شياولي
 
 
 
-![AstroPaper I18n](/public/a-fatal-meeting-with-a-beauty-far-from-home.png)
+![AstroPaper I18n](/a-fatal-meeting-with-a-beauty-far-from-home.png)
 
 
 

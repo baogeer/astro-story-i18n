@@ -8,7 +8,7 @@ description: "In the Tang Dynasty, Cui Sheng visited a doctor, and the singer Ho
 
 
 
-![AstroPaper I18n](/public/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
+![AstroPaper I18n](/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
 
 
 

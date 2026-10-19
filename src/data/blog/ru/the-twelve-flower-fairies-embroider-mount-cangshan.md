@@ -8,7 +8,7 @@ description: "В древние времена люди творили зло. �
 
 
 
-![AstroPaper I18n](/public/the-twelve-flower-fairies-embroider-mount-cangshan.png)
+![AstroPaper I18n](/the-twelve-flower-fairies-embroider-mount-cangshan.png)
 
 
 

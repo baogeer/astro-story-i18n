@@ -8,7 +8,7 @@ description: "Императрица Доу поймала Ши-тцу и упа
 
 
 
-![AstroPaper I18n](/public/the-story-of-fan-li-and-xi-shi-in-yixing.png)
+![AstroPaper I18n](/the-story-of-fan-li-and-xi-shi-in-yixing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The poor old lady broke off her goat's tail because of her split, 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-reshung-gampo-the-goat-tail.png)
+![AstroPaper I18n](/the-tale-of-reshung-gampo-the-goat-tail.png)
 
 
 

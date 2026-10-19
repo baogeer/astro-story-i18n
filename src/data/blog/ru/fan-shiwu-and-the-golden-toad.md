@@ -8,7 +8,7 @@ description: "Fan 15 использовал рисовую кашу в обме�
 
 
 
-![AstroPaper I18n](/public/fan-shiwu-and-the-golden-toad.png)
+![AstroPaper I18n](/fan-shiwu-and-the-golden-toad.png)
 
 
 

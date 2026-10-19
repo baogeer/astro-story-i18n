@@ -8,7 +8,7 @@ description: "L'empereur Han Wen et l'empereur Jing ont promu les cadeaux léger
 
 
 
-![AstroPaper I18n](/public/the-enduring-legacy-of-the-wen-jing-era.png)
+![AstroPaper I18n](/the-enduring-legacy-of-the-wen-jing-era.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Saver es el guardaespaldas del rey Wu Sangui y es tan ágil como u
 
 
 
-![AstroPaper I18n](/public/bao-zhu-retrieves-the-pipa.png)
+![AstroPaper I18n](/bao-zhu-retrieves-the-pipa.png)
 
 
 

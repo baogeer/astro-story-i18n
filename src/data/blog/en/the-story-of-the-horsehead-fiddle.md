@@ -8,7 +8,7 @@ description: "After shepherd Su He's white horse died of illness, Tuo Meng made 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-horsehead-fiddle.png)
+![AstroPaper I18n](/the-story-of-the-horsehead-fiddle.png)
 
 
 

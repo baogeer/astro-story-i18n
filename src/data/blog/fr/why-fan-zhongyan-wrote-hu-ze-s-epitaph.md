@@ -8,7 +8,7 @@ description: "Fan Zhongyuan, un célèbre ministre de la dynastie des Song du No
 
 
 
-![AstroPaper I18n](/public/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
+![AstroPaper I18n](/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
 
 
 

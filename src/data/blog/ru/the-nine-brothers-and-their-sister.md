@@ -8,7 +8,7 @@ description: "Девять старших братьев каждый день �
 
 
 
-![AstroPaper I18n](/public/the-nine-brothers-and-their-sister.png)
+![AstroPaper I18n](/the-nine-brothers-and-their-sister.png)
 
 
 

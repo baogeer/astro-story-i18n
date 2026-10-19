@@ -8,7 +8,7 @@ description: "Ли Би помогла Тан Сузуну успокоить в
 
 
 
-![AstroPaper I18n](/public/li-mi-retires-to-the-mountains.png)
+![AstroPaper I18n](/li-mi-retires-to-the-mountains.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت Xun Guanniang، ابنة Xun Song في عهد أسرة ج
 
 
 
-![AstroPaper I18n](/public/xun-guanniang-breaks-through-the-siege-alone.png)
+![AstroPaper I18n](/xun-guanniang-breaks-through-the-siege-alone.png)
 
 
 

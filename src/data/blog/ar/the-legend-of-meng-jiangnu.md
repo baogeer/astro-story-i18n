@@ -8,7 +8,7 @@ description: "مرت السيدة منغ جيانغ بكل المصاعب للع
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu.png)
 
 
 

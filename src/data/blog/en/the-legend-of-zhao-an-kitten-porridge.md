@@ -8,7 +8,7 @@ description: "The new daughter-in-law of Zhaoan's family during the Qing dynasty
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhao-an-kitten-porridge.png)
+![AstroPaper I18n](/the-legend-of-zhao-an-kitten-porridge.png)
 
 
 

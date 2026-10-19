@@ -8,7 +8,7 @@ description: "D'anciennes inondations ont inondé le monde et le frère et la s�
 
 
 
-![AstroPaper I18n](/public/the-qiang-folktale-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-qiang-folktale-of-the-sun-and-the-moon.png)
 
 
 

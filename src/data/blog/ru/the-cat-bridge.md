@@ -8,7 +8,7 @@ description: "Старый кожевенник из Ханчжоу выраст
 
 
 
-![AstroPaper I18n](/public/the-cat-bridge.png)
+![AstroPaper I18n](/the-cat-bridge.png)
 
 
 

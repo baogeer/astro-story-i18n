@@ -8,7 +8,7 @@ description: "Yang Sheng s'est rendu à Laoshan pour trouver des fleurs étrange
 
 
 
-![AstroPaper I18n](/public/the-twin-flower-immortals-of-mount-lao.png)
+![AstroPaper I18n](/the-twin-flower-immortals-of-mount-lao.png)
 
 
 

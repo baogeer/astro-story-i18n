@@ -8,7 +8,7 @@ description: "Su Dongpo s'est rendu à Hangzhou pour prendre les choses en main.
 
 
 
-![AstroPaper I18n](/public/su-dongpo-paints-fans-to-settle-a-case.png)
+![AstroPaper I18n](/su-dongpo-paints-fans-to-settle-a-case.png)
 
 
 

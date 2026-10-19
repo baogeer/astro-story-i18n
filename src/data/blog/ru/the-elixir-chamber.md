@@ -8,7 +8,7 @@ description: "После обыска в доме Чжан Цзючжэна ег
 
 
 
-![AstroPaper I18n](/public/the-elixir-chamber.png)
+![AstroPaper I18n](/the-elixir-chamber.png)
 
 
 

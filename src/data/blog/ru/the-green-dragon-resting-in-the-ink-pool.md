@@ -8,7 +8,7 @@ description: "Из-за сильной засухи в Цаочжоу племя
 
 
 
-![AstroPaper I18n](/public/the-green-dragon-resting-in-the-ink-pool.png)
+![AstroPaper I18n](/the-green-dragon-resting-in-the-ink-pool.png)
 
 
 

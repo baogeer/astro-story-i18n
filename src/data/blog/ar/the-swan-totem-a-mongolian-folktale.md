@@ -8,7 +8,7 @@ description: "على ضفاف بحيرة بايكال، سرق هوري تومي
 
 
 
-![AstroPaper I18n](/public/the-swan-totem-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-swan-totem-a-mongolian-folktale.png)
 
 
 

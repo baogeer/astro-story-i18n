@@ -8,7 +8,7 @@ description: "Tang Yizong murió debido al amor que sentía por su hija, la prin
 
 
 
-![AstroPaper I18n](/public/the-injustice-after-princess-tongchang-s-death.png)
+![AstroPaper I18n](/the-injustice-after-princess-tongchang-s-death.png)
 
 
 

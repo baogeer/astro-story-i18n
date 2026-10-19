@@ -8,7 +8,7 @@ description: "According to Yi folk tales, the mother's call for her child comes 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-custom-of-mothers-calling-back-children-s-souls.png)
+![AstroPaper I18n](/the-origin-of-the-yi-custom-of-mothers-calling-back-children-s-souls.png)
 
 
 

@@ -8,7 +8,7 @@ description: "جي كانغ هو شخص مشهور من وي جين. على ال
 
 
 
-![AstroPaper I18n](/public/ji-kang-forever-thirty-nine.png)
+![AstroPaper I18n](/ji-kang-forever-thirty-nine.png)
 
 
 

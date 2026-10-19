@@ -8,7 +8,7 @@ description: "Liu Sanjie, a Zhuang girl from the Tang Dynasty, sang mountain son
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
 
 
 

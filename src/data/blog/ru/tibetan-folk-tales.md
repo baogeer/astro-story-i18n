@@ -8,7 +8,7 @@ description: "Тибетские народные сказки богаты и �
 
 
 
-![AstroPaper I18n](/public/tibetan-folk-tales.png)
+![AstroPaper I18n](/tibetan-folk-tales.png)
 
 
 

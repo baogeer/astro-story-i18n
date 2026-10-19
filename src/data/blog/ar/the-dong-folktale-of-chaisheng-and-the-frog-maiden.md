@@ -8,7 +8,7 @@ description: "عندما أحضر تشاي شنغ الماء، أعاد ضفدع
 
 
 
-![AstroPaper I18n](/public/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
+![AstroPaper I18n](/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
 
 
 

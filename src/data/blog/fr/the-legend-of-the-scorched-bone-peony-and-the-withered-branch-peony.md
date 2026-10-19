@@ -8,7 +8,7 @@ description: "Selon une légende, la pivoine brûlée aurait en fait la même or
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تجسد السيد زهي وي، الجد السادس لطائف
 
 
 
-![AstroPaper I18n](/public/the-story-of-master-zhiwei-sixth-patriarch-of-the-tiantai-school.png)
+![AstroPaper I18n](/the-story-of-master-zhiwei-sixth-patriarch-of-the-tiantai-school.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Легенда гласит, что блины «Цзиньюнь�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jinyun-flatbread.png)
+![AstroPaper I18n](/the-legend-of-the-jinyun-flatbread.png)
 
 
 

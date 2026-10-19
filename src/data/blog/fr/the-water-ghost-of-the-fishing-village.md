@@ -8,7 +8,7 @@ description: "L'histoire s'intitule «xa0Le fantôme de l'eau dans un village de
 
 
 
-![AstroPaper I18n](/public/the-water-ghost-of-the-fishing-village.png)
+![AstroPaper I18n](/the-water-ghost-of-the-fishing-village.png)
 
 
 

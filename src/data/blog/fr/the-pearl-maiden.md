@@ -8,7 +8,7 @@ description: "La femme qui cueillait les perles a attrapé la moule et a relâch
 
 
 
-![AstroPaper I18n](/public/the-pearl-maiden.png)
+![AstroPaper I18n](/the-pearl-maiden.png)
 
 
 

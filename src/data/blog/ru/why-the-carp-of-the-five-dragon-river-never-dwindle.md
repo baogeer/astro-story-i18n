@@ -8,7 +8,7 @@ description: "Во время рыбалки Лао Чжан не прислуш
 
 
 
-![AstroPaper I18n](/public/why-the-carp-of-the-five-dragon-river-never-dwindle.png)
+![AstroPaper I18n](/why-the-carp-of-the-five-dragon-river-never-dwindle.png)
 
 
 

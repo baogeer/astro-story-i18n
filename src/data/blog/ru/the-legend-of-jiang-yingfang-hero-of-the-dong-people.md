@@ -8,7 +8,7 @@ description: "Жестокая эксплуатация людей в динас
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jiang-yingfang-hero-of-the-dong-people.png)
+![AstroPaper I18n](/the-legend-of-jiang-yingfang-hero-of-the-dong-people.png)
 
 
 

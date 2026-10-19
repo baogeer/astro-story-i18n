@@ -8,7 +8,7 @@ description: "Para recompensar a Wang Yun por haberla acogido, Diao Chan estaba 
 
 
 
-![AstroPaper I18n](/public/diaochan-s-fateful-name-and-wang-yun-s-plot-against-dong-zhuo.png)
+![AstroPaper I18n](/diaochan-s-fateful-name-and-wang-yun-s-plot-against-dong-zhuo.png)
 
 
 

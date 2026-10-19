@@ -8,7 +8,7 @@ description: "Вдовствующая императрица Цинь Сюан�
 
 
 
-![AstroPaper I18n](/public/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
+![AstroPaper I18n](/the-qin-queen-dowager-s-bedchamber-diplomacy.png)
 
 
 

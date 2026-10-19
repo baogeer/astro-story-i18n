@@ -8,7 +8,7 @@ description: "كان فنغ شياو تشينغ ذكيًا بما يكفي لت�
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
+![AstroPaper I18n](/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
 
 
 

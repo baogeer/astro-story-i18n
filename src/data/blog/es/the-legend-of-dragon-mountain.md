@@ -8,7 +8,7 @@ description: "El Pequeño Dragón Negro actuó mal después de hacerse cargo del
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-mountain.png)
+![AstroPaper I18n](/the-legend-of-dragon-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أنقذ تشانغ تشنغ، وهو رجل ثري من أسرة 
 
 
 
-![AstroPaper I18n](/public/the-ghost-who-borrowed-silver.png)
+![AstroPaper I18n](/the-ghost-who-borrowed-silver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Fei a vendu de la viande et a créé une carte «xa0Prends l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-peach-garden-oath.png)
+![AstroPaper I18n](/the-legend-of-the-peach-garden-oath.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Guolao a emprunté une route à dos d'âne lorsqu'il a renco
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
+![AstroPaper I18n](/the-story-of-zhang-guolao-riding-his-donkey-backwards.png)
 
 
 

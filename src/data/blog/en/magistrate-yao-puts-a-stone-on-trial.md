@@ -8,7 +8,7 @@ description: "Yao Shizhi, a Qing official from Teng County in the Qing Dynasty, 
 
 
 
-![AstroPaper I18n](/public/magistrate-yao-puts-a-stone-on-trial.png)
+![AstroPaper I18n](/magistrate-yao-puts-a-stone-on-trial.png)
 
 
 

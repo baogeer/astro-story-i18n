@@ -8,7 +8,7 @@ description: "اشترى مدير المدرسة قماشًا أحمر لستا�
 
 
 
-![AstroPaper I18n](/public/the-red-bed-curtains.png)
+![AstroPaper I18n](/the-red-bed-curtains.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Дочь императора Тяньди Гоу Су умерл�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-lusheng.png)
+![AstroPaper I18n](/the-legend-of-the-miao-lusheng.png)
 
 
 

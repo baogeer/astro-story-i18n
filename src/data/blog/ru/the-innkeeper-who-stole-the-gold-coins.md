@@ -8,7 +8,7 @@ description: "Маленький торговец хранил мешок с я�
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-who-stole-the-gold-coins.png)
+![AstroPaper I18n](/the-innkeeper-who-stole-the-gold-coins.png)
 
 
 

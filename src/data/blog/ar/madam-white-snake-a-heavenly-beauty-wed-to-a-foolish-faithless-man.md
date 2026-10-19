@@ -8,7 +8,7 @@ description: "عشق وايت سناك جينغ، باي سوزين، العال
 
 
 
-![AstroPaper I18n](/public/madam-white-snake-a-heavenly-beauty-wed-to-a-foolish-faithless-man.png)
+![AstroPaper I18n](/madam-white-snake-a-heavenly-beauty-wed-to-a-foolish-faithless-man.png)
 
 
 

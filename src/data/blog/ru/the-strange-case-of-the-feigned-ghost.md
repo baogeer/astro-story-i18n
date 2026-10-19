@@ -8,7 +8,7 @@ description: "Губернатора Тана Чжию, который непо�
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-feigned-ghost.png)
+![AstroPaper I18n](/the-strange-case-of-the-feigned-ghost.png)
 
 
 

@@ -8,7 +8,7 @@ description: "ذات مرة، كان هناك رجل سيبر توفيت زوج�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-wicked-stepmother.png)
+![AstroPaper I18n](/the-story-of-the-wicked-stepmother.png)
 
 
 

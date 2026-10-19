@@ -8,7 +8,7 @@ description: "Zhang Tianshi fue humillado porque su sobrino roció flores en el 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-the-heavenly-master-descends-to-earth.png)
 
 
 

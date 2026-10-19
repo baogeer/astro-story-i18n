@@ -8,7 +8,7 @@ description: "قاد مياو وانغ منغ زيو من قبيلة مياو ا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-flower-mountain-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-flower-mountain-festival.png)
 
 
 

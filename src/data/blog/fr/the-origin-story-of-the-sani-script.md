@@ -8,7 +8,7 @@ description: "Il existe plusieurs légendes concernant l'origine de l'écriture 
 
 
 
-![AstroPaper I18n](/public/the-origin-story-of-the-sani-script.png)
+![AstroPaper I18n](/the-origin-story-of-the-sani-script.png)
 
 
 

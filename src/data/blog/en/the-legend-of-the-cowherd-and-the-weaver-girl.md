@@ -8,7 +8,7 @@ description: "The cowherd was abused by his brother and sister, and became depen
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "أرسلت أسرة تانغ أساتذة فنغ شوي للعثو
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-feng-shui-dragon-veins.png)
+![AstroPaper I18n](/folk-tales-of-feng-shui-dragon-veins.png)
 
 
 

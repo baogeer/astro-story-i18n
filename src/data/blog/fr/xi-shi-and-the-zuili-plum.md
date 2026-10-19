@@ -8,7 +8,7 @@ description: "Étant donné que le texte principal indique uniquement l'auteur e
 
 
 
-![AstroPaper I18n](/public/xi-shi-and-the-zuili-plum.png)
+![AstroPaper I18n](/xi-shi-and-the-zuili-plum.png)
 
 
 

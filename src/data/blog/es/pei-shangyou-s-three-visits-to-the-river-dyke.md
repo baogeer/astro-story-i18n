@@ -8,7 +8,7 @@ description: "Pei Shangyou subió al terraplén a altas horas de la noche para s
 
 
 
-![AstroPaper I18n](/public/pei-shangyou-s-three-visits-to-the-river-dyke.png)
+![AstroPaper I18n](/pei-shangyou-s-three-visits-to-the-river-dyke.png)
 
 
 

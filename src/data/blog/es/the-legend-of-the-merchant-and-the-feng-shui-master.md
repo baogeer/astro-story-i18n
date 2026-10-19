@@ -8,7 +8,7 @@ description: "Los comerciantes de la dinastía Qing le pidieron al Sr. Feng Shui
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-merchant-and-the-feng-shui-master.png)
+![AstroPaper I18n](/the-legend-of-the-merchant-and-the-feng-shui-master.png)
 
 
 

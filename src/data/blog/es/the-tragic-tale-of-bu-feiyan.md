@@ -8,7 +8,7 @@ description: "Bu Fei es hermosa y talentosa, pero se casó con un rudo oficial m
 
 
 
-![AstroPaper I18n](/public/the-tragic-tale-of-bu-feiyan.png)
+![AstroPaper I18n](/the-tragic-tale-of-bu-feiyan.png)
 
 
 

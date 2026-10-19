@@ -8,7 +8,7 @@ description: "Liu Yu est tombée sur la falaise pour ramasser son chapeau et est
 
 
 
-![AstroPaper I18n](/public/the-boy-who-rode-an-eagle-to-safety.png)
+![AstroPaper I18n](/the-boy-who-rode-an-eagle-to-safety.png)
 
 
 

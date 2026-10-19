@@ -8,7 +8,7 @@ description: "Este artículo presenta a diez generales famosos, incluidos Sun Wu
 
 
 
-![AstroPaper I18n](/public/ten-great-generals-and-statesmen-of-chinese-history.png)
+![AstroPaper I18n](/ten-great-generals-and-statesmen-of-chinese-history.png)
 
 
 

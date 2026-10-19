@@ -8,7 +8,7 @@ description: "Taiwan dîne autour du poêle pendant le Nouvel An lunaire. Chaque
 
 
 
-![AstroPaper I18n](/public/taiwanese-folk-customs-of-the-new-year.png)
+![AstroPaper I18n](/taiwanese-folk-customs-of-the-new-year.png)
 
 
 

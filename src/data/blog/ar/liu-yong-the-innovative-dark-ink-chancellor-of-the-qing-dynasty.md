@@ -8,7 +8,7 @@ description: "يُعرف ليو يونغ، وهو خطاط من أسرة تشي�
 
 
 
-![AstroPaper I18n](/public/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
+![AstroPaper I18n](/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
 
 
 

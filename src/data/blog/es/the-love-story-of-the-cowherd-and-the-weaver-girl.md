@@ -8,7 +8,7 @@ description: "Cowherd Star y Weaver fueron separados por la madre real debido a 
 
 
 
-![AstroPaper I18n](/public/the-love-story-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-love-story-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

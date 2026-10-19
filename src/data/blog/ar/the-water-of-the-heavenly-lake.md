@@ -8,7 +8,7 @@ description: "في العصور القديمة، عثر ملك التنين في
 
 
 
-![AstroPaper I18n](/public/the-water-of-the-heavenly-lake.png)
+![AstroPaper I18n](/the-water-of-the-heavenly-lake.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Selon les légendes des Naxi, les humains et les dragons sont des 
 
 
 
-![AstroPaper I18n](/public/the-naxi-legend-of-man-and-dragon.png)
+![AstroPaper I18n](/the-naxi-legend-of-man-and-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Maître Zhi Wei, le sixième ancêtre de la secte Tiantai sous la 
 
 
 
-![AstroPaper I18n](/public/the-story-of-master-zhiwei-sixth-patriarch-of-the-tiantai-school.png)
+![AstroPaper I18n](/the-story-of-master-zhiwei-sixth-patriarch-of-the-tiantai-school.png)
 
 
 

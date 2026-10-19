@@ -8,7 +8,7 @@ description: "جينيو، ثاني أصغر جد لعائلة جين، يقع �
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-and-the-morning-glory.png)
+![AstroPaper I18n](/the-golden-ox-and-the-morning-glory.png)
 
 
 

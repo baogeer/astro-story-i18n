@@ -8,7 +8,7 @@ description: "После того как Цю Ся вышла замуж за с
 
 
 
-![AstroPaper I18n](/public/the-father-who-saved-his-daughter.png)
+![AstroPaper I18n](/the-father-who-saved-his-daughter.png)
 
 
 

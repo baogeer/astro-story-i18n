@@ -8,7 +8,7 @@ description: "Para aliviar la sequía, Zheng Xihua usó 49 días para bordar un 
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-of-the-embroidered-thread.png)
+![AstroPaper I18n](/the-dragon-maiden-of-the-embroidered-thread.png)
 
 
 

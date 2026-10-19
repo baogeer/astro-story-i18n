@@ -8,7 +8,7 @@ description: "ذهب البروفيسور أوتيريس إلى أعماق ال�
 
 
 
-![AstroPaper I18n](/public/the-search-for-the-amazon-anaconda.png)
+![AstroPaper I18n](/the-search-for-the-amazon-anaconda.png)
 
 
 

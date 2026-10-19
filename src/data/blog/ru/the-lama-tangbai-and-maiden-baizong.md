@@ -8,7 +8,7 @@ description: "С другой стороны, могущественный за�
 
 
 
-![AstroPaper I18n](/public/the-lama-tangbai-and-maiden-baizong.png)
+![AstroPaper I18n](/the-lama-tangbai-and-maiden-baizong.png)
 
 
 

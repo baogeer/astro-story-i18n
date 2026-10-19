@@ -8,7 +8,7 @@ description: "During the Qin dynasty, Meng Jiang's husband Wan Qiliang was expro
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-winter-clothes.png)
+![AstroPaper I18n](/meng-jiangnu-brings-winter-clothes.png)
 
 
 

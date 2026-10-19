@@ -8,7 +8,7 @@ description: "Lors de la Rébellion des Sept, Li Hualong s'est cachée dans un t
 
 
 
-![AstroPaper I18n](/public/the-wild-dog-monster.png)
+![AstroPaper I18n](/the-wild-dog-monster.png)
 
 
 

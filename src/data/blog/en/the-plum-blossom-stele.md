@@ -8,7 +8,7 @@ description: "The old stonemason found a strange stone reflecting the shadow of 
 
 
 
-![AstroPaper I18n](/public/the-plum-blossom-stele.png)
+![AstroPaper I18n](/the-plum-blossom-stele.png)
 
 
 

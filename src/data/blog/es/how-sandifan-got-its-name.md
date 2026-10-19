@@ -8,7 +8,7 @@ description: "En los primeros años de la dinastía Tang, el emperador Meng Yang
 
 
 
-![AstroPaper I18n](/public/how-sandifan-got-its-name.png)
+![AstroPaper I18n](/how-sandifan-got-its-name.png)
 
 
 

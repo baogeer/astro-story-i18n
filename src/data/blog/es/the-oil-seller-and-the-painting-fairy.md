@@ -8,7 +8,7 @@ description: "Venden muñecos de aceite para comprar fotos de mujeres hermosas. 
 
 
 
-![AstroPaper I18n](/public/the-oil-seller-and-the-painting-fairy.png)
+![AstroPaper I18n](/the-oil-seller-and-the-painting-fairy.png)
 
 
 

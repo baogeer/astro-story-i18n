@@ -8,7 +8,7 @@ description: "Pour que Meng Zi, qui avait perdu sa jeunesse, puisse retourner à
 
 
 
-![AstroPaper I18n](/public/mencius-mother-the-embodiment-of-motherhood.png)
+![AstroPaper I18n](/mencius-mother-the-embodiment-of-motherhood.png)
 
 
 

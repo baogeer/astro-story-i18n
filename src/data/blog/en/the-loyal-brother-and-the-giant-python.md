@@ -8,7 +8,7 @@ description: "The Hu brothers in Gotian Village cut firewood and met a giant pyt
 
 
 
-![AstroPaper I18n](/public/the-loyal-brother-and-the-giant-python.png)
+![AstroPaper I18n](/the-loyal-brother-and-the-giant-python.png)
 
 
 

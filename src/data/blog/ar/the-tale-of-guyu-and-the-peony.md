@@ -8,7 +8,7 @@ description: "أنقذ غو يو، وهو شاب من أسرة تانغ، نبا
 
 
 
-![AstroPaper I18n](/public/the-tale-of-guyu-and-the-peony.png)
+![AstroPaper I18n](/the-tale-of-guyu-and-the-peony.png)
 
 
 

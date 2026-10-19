@@ -8,7 +8,7 @@ description: "Каждый раз, когда в истории случалис
 
 
 
-![AstroPaper I18n](/public/beauties-eaten-in-chinese-history.png)
+![AstroPaper I18n](/beauties-eaten-in-chinese-history.png)
 
 
 

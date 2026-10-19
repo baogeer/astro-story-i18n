@@ -8,7 +8,7 @@ description: "At the exhibition, Xu Beihong saw that Qiu Ying's “Mei Fei Photo
 
 
 
-![AstroPaper I18n](/public/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
+![AstroPaper I18n](/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
 
 
 

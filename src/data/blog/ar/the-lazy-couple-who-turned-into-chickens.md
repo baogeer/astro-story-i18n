@@ -8,7 +8,7 @@ description: "طلب زوجان لذيذان وكسلان من الآلهة ال
 
 
 
-![AstroPaper I18n](/public/the-lazy-couple-who-turned-into-chickens.png)
+![AstroPaper I18n](/the-lazy-couple-who-turned-into-chickens.png)
 
 
 

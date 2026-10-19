@@ -8,7 +8,7 @@ description: "El granjero Lu Dongbin se reunió cuando la carretera Xianyu Lings
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-waist-supporting-stone.png)
+![AstroPaper I18n](/the-legend-of-the-waist-supporting-stone.png)
 
 
 

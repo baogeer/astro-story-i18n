@@ -8,7 +8,7 @@ description: "Yang Guifei est connu sous les noms de Yu Nu, Yu Niang et Yuhuan. 
 
 
 
-![AstroPaper I18n](/public/the-secrets-behind-yang-guifei-s-name.png)
+![AstroPaper I18n](/the-secrets-behind-yang-guifei-s-name.png)
 
 
 

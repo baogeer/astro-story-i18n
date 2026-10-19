@@ -8,7 +8,7 @@ description: "Из-за своего сна король бросил мальч
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-cuomei.png)
+![AstroPaper I18n](/the-dragon-maiden-cuomei.png)
 
 
 

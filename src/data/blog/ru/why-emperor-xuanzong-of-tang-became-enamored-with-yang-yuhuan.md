@@ -8,7 +8,7 @@ description: "Тан Сюаньцзун почувствовал себя опу
 
 
 
-![AstroPaper I18n](/public/why-emperor-xuanzong-of-tang-became-enamored-with-yang-yuhuan.png)
+![AstroPaper I18n](/why-emperor-xuanzong-of-tang-became-enamored-with-yang-yuhuan.png)
 
 
 

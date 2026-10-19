@@ -8,7 +8,7 @@ description: "Семья Ван Сяо бедна. Она зарабатывае
 
 
 
-![AstroPaper I18n](/public/the-fox-wife.png)
+![AstroPaper I18n](/the-fox-wife.png)
 
 
 

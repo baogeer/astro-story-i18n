@@ -8,7 +8,7 @@ description: "قام أغودونبا عن عمد بتسريع الياك عبر
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-whetstone.png)
+![AstroPaper I18n](/agu-dunba-and-the-whetstone.png)
 
 
 

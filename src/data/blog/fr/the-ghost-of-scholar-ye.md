@@ -8,7 +8,7 @@ description: "Ye Sheng était extrêmement talentueux, mais il n'a pas réussi s
 
 
 
-![AstroPaper I18n](/public/the-ghost-of-scholar-ye.png)
+![AstroPaper I18n](/the-ghost-of-scholar-ye.png)
 
 
 

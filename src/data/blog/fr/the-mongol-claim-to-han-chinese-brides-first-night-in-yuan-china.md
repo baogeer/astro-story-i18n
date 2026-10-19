@@ -8,7 +8,7 @@ description: "Les Mongols de la dynastie Yuan ont régné sur le peuple Han, ont
 
 
 
-![AstroPaper I18n](/public/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
+![AstroPaper I18n](/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
 
 
 

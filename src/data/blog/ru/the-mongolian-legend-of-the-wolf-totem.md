@@ -8,7 +8,7 @@ description: "Согласно монгольскому фольклору, ох
 
 
 
-![AstroPaper I18n](/public/the-mongolian-legend-of-the-wolf-totem.png)
+![AstroPaper I18n](/the-mongolian-legend-of-the-wolf-totem.png)
 
 
 

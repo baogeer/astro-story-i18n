@@ -8,7 +8,7 @@ description: "Jia Sidao, la traîtresse de la dynastie des Song du Sud, comptait
 
 
 
-![AstroPaper I18n](/public/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
+![AstroPaper I18n](/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
 
 
 

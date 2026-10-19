@@ -8,7 +8,7 @@ description: "Li Wan, un tueur de bois de chauffage, a tiré un jour sur un loup
 
 
 
-![AstroPaper I18n](/public/the-grateful-white-rabbit.png)
+![AstroPaper I18n](/the-grateful-white-rabbit.png)
 
 
 

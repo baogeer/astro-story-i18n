@@ -8,7 +8,7 @@ description: "Al final de la dinastía Han del Este, para deshacerse de Dong Zhu
 
 
 
-![AstroPaper I18n](/public/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
+![AstroPaper I18n](/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
 
 
 

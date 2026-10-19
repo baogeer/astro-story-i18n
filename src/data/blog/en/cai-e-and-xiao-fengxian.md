@@ -8,7 +8,7 @@ description: "During his time against Yuan Huguo, General Choi had a brief relat
 
 
 
-![AstroPaper I18n](/public/cai-e-and-xiao-fengxian.png)
+![AstroPaper I18n](/cai-e-and-xiao-fengxian.png)
 
 
 

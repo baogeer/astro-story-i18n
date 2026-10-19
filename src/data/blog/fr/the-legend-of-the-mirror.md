@@ -8,7 +8,7 @@ description: "Xinsheng Airlines n'a pas cru à la rumeur selon laquelle les toil
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-mirror.png)
+![AstroPaper I18n](/the-legend-of-the-mirror.png)
 
 
 

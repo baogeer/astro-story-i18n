@@ -8,7 +8,7 @@ description: "Big Kou et Little Kou sont deux personnes avares. Quand Little Kou
 
 
 
-![AstroPaper I18n](/public/the-miserly-cousins.png)
+![AstroPaper I18n](/the-miserly-cousins.png)
 
 
 

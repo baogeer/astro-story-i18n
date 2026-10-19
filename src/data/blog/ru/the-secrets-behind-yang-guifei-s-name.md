@@ -8,7 +8,7 @@ description: "Ян Гуйфэй известен как Юй Ню, Ю Нян и 
 
 
 
-![AstroPaper I18n](/public/the-secrets-behind-yang-guifei-s-name.png)
+![AstroPaper I18n](/the-secrets-behind-yang-guifei-s-name.png)
 
 
 

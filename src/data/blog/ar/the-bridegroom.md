@@ -8,7 +8,7 @@ description: "تزوج القرويون في جيانغنان. رأى العري
 
 
 
-![AstroPaper I18n](/public/the-bridegroom.png)
+![AstroPaper I18n](/the-bridegroom.png)
 
 
 

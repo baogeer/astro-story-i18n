@@ -8,7 +8,7 @@ description: "Hangzhou ha estado seca y sin lluvia durante mucho tiempo. El anci
 
 
 
-![AstroPaper I18n](/public/the-first-spring-of-wushan.png)
+![AstroPaper I18n](/the-first-spring-of-wushan.png)
 
 
 

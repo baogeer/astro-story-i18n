@@ -8,7 +8,7 @@ description: "Pour que les pauvres puissent manger du b≈ìuf, Agutomba a emprunt√
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
+![AstroPaper I18n](/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
 
 
 

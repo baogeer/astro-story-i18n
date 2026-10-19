@@ -8,7 +8,7 @@ description: "Lorsque le moine Hui Kong a vu les moines des deux maisons se disp
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-beheaded-cat.png)
+![AstroPaper I18n](/the-tale-of-the-beheaded-cat.png)
 
 
 

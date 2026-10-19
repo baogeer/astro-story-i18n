@@ -8,7 +8,7 @@ description: "В холодную зиму мать заставила Ах Ця
 
 
 
-![AstroPaper I18n](/public/the-silkworm-maiden.png)
+![AstroPaper I18n](/the-silkworm-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Eight Immortals each crossed the sea with their treasures at H
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-crossing-the-sea.png)
+![AstroPaper I18n](/the-eight-immortals-crossing-the-sea.png)
 
 
 

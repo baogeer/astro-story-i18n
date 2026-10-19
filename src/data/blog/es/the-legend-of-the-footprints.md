@@ -8,7 +8,7 @@ description: "La roca de las hadas Jingmeishan de Taipéi tiene una huella enorm
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-footprints.png)
+![AstroPaper I18n](/the-legend-of-the-footprints.png)
 
 
 

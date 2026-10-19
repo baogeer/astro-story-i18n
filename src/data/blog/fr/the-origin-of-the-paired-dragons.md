@@ -8,7 +8,7 @@ description: "Deux jeunes dragons s'ébattent dans le lac Hongze depuis la mer J
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-paired-dragons.png)
+![AstroPaper I18n](/the-origin-of-the-paired-dragons.png)
 
 
 

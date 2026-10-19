@@ -8,7 +8,7 @@ description: "Mientras Zhang San y Li Si se apresuraban a ir a la reunión, Li S
 
 
 
-![AstroPaper I18n](/public/dividing-the-silver.png)
+![AstroPaper I18n](/dividing-the-silver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El letrista de la canción nórdica Zhou Bangyan se atrevió a com
 
 
 
-![AstroPaper I18n](/public/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
+![AstroPaper I18n](/the-writer-who-dared-to-compete-with-an-emperor-for-a-courtesan.png)
 
 
 

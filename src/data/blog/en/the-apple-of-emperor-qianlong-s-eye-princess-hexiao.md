@@ -8,7 +8,7 @@ description: "The young daughter of Qianlong and Princess Xiao were most loved. 
 
 
 
-![AstroPaper I18n](/public/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
+![AstroPaper I18n](/the-apple-of-emperor-qianlong-s-eye-princess-hexiao.png)
 
 
 

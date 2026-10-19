@@ -8,7 +8,7 @@ description: "Naosheng Tarzan first fell in love with the fox daughter, Sister H
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-hu-sijie.png)
+![AstroPaper I18n](/the-fox-maiden-hu-sijie.png)
 
 
 

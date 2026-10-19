@@ -8,7 +8,7 @@ description: "In order for people from the Yi ethnic group to eat thick-shelled 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangbi-walnut-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-yangbi-walnut-goddess.png)
 
 
 

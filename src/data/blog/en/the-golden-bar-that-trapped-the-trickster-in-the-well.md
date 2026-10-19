@@ -8,7 +8,7 @@ description: "Once upon a time, there was a crook in the village who was used to
 
 
 
-![AstroPaper I18n](/public/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
+![AstroPaper I18n](/the-golden-bar-that-trapped-the-trickster-in-the-well.png)
 
 
 

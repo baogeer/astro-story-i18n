@@ -8,7 +8,7 @@ description: "An old mother met her deceased son on Yin Yang Street. The son pre
 
 
 
-![AstroPaper I18n](/public/the-heartless-dead-son-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-heartless-dead-son-a-yangbi-yi-folktale.png)
 
 
 

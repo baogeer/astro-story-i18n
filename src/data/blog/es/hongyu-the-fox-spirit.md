@@ -8,7 +8,7 @@ description: "Feng Sheng tuvo una reunión privada con la niña zorro, Hongyu se
 
 
 
-![AstroPaper I18n](/public/hongyu-the-fox-spirit.png)
+![AstroPaper I18n](/hongyu-the-fox-spirit.png)
 
 
 

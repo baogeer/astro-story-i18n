@@ -8,7 +8,7 @@ description: "In order to fight against the tyranny of the Black God of Toast, Z
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
 
 
 

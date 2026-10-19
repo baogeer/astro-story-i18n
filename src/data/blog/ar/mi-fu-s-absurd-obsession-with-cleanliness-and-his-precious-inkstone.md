@@ -8,7 +8,7 @@ description: "لدى Mi Yu عادة جادة تتمثل في النظافة وق
 
 
 
-![AstroPaper I18n](/public/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
+![AstroPaper I18n](/mi-fu-s-absurd-obsession-with-cleanliness-and-his-precious-inkstone.png)
 
 
 

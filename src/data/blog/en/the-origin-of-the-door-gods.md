@@ -8,7 +8,7 @@ description: "The title of this story is “The Origin of Gods”, and the main 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-door-gods.png)
+![AstroPaper I18n](/the-origin-of-the-door-gods.png)
 
 
 

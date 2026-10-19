@@ -8,7 +8,7 @@ description: "La esposa de un hombre de negocios en Qingzhou había estado en un
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-who-lay-with-a-white-dog.png)
+![AstroPaper I18n](/the-merchant-s-wife-who-lay-with-a-white-dog.png)
 
 
 

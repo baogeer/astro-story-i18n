@@ -8,7 +8,7 @@ description: "Scholars have examined Zhang Ji's “Night Parking at Fengqiao”,
 
 
 
-![AstroPaper I18n](/public/moonset-and-crow-cry-puzzle-in-zhang-ji-s-maple-bridge-night-mooring.png)
+![AstroPaper I18n](/moonset-and-crow-cry-puzzle-in-zhang-ji-s-maple-bridge-night-mooring.png)
 
 
 

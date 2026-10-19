@@ -8,7 +8,7 @@ description: "Sœur Sun a été bénie par les connaissances de Qiao, et les deu
 
 
 
-![AstroPaper I18n](/public/sun-yaoniang-s-sacrifice-for-faithful-love.png)
+![AstroPaper I18n](/sun-yaoniang-s-sacrifice-for-faithful-love.png)
 
 
 

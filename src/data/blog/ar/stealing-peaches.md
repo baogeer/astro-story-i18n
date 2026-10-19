@@ -8,7 +8,7 @@ description: "عندما كنت طفلاً، شاهدت «يانتشون» في 
 
 
 
-![AstroPaper I18n](/public/stealing-peaches.png)
+![AstroPaper I18n](/stealing-peaches.png)
 
 
 

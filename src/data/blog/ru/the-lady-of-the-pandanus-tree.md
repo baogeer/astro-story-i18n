@@ -8,7 +8,7 @@ description: "Во времена поздней династии Цин тай�
 
 
 
-![AstroPaper I18n](/public/the-lady-of-the-pandanus-tree.png)
+![AstroPaper I18n](/the-lady-of-the-pandanus-tree.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Kim Se-sung a agi de manière imprudente. Après avoir quitté la 
 
 
 
-![AstroPaper I18n](/public/the-mad-monk-jin-shicheng.png)
+![AstroPaper I18n](/the-mad-monk-jin-shicheng.png)
 
 
 

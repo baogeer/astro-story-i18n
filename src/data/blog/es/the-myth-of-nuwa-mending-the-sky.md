@@ -8,7 +8,7 @@ description: "Cuando Nu Wa vio que la batalla entre Zhu Rong y los trabajadores 
 
 
 
-![AstroPaper I18n](/public/the-myth-of-nuwa-mending-the-sky.png)
+![AstroPaper I18n](/the-myth-of-nuwa-mending-the-sky.png)
 
 
 

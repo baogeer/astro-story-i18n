@@ -8,7 +8,7 @@ description: "Ученый Кун Шэн отправился в изгнани�
 
 
 
-![AstroPaper I18n](/public/jiaona-the-fox-maiden.png)
+![AstroPaper I18n](/jiaona-the-fox-maiden.png)
 
 
 

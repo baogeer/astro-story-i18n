@@ -8,7 +8,7 @@ description: "Jinzang Island was flooded by Dragon King in the East China Sea du
 
 
 
-![AstroPaper I18n](/public/boiling-the-sea-to-subdue-the-dragon-king.png)
+![AstroPaper I18n](/boiling-the-sea-to-subdue-the-dragon-king.png)
 
 
 

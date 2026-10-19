@@ -8,7 +8,7 @@ description: "Охотники на Яо Гань Сун влюбились в �
 
 
 
-![AstroPaper I18n](/public/the-lovers-who-rose-from-the-flames.png)
+![AstroPaper I18n](/the-lovers-who-rose-from-the-flames.png)
 
 
 

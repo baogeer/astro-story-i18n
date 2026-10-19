@@ -8,7 +8,7 @@ description: "Para buscar a Zhishui, el huérfano de Yi rescató a la mítica ra
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-moon-lute.png)
+![AstroPaper I18n](/the-legend-of-the-yi-moon-lute.png)
 
 
 

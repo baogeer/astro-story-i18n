@@ -8,7 +8,7 @@ description: "Il s'agit d'un conte populaire de Yangjiao Yi. Avant sa mort, la j
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mother-s-hand.png)
+![AstroPaper I18n](/the-story-of-the-mother-s-hand.png)
 
 
 

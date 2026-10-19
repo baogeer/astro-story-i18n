@@ -8,7 +8,7 @@ description: "Тупые черепахи хотят монополизиров�
 
 
 
-![AstroPaper I18n](/public/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
+![AstroPaper I18n](/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
 
 
 

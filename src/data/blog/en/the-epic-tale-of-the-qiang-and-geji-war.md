@@ -8,7 +8,7 @@ description: "The Jiuzi tribe, an ancestor of the Qiang people, was invaded by t
 
 
 
-![AstroPaper I18n](/public/the-epic-tale-of-the-qiang-and-geji-war.png)
+![AstroPaper I18n](/the-epic-tale-of-the-qiang-and-geji-war.png)
 
 
 

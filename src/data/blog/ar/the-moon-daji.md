@@ -8,7 +8,7 @@ description: "اختفى الأطفال وماتوا واحدًا تلو الآ�
 
 
 
-![AstroPaper I18n](/public/the-moon-daji.png)
+![AstroPaper I18n](/the-moon-daji.png)
 
 
 

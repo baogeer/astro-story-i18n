@@ -8,7 +8,7 @@ description: "Tang Xuanzong voló miles de millas para llevar lichi para su quer
 
 
 
-![AstroPaper I18n](/public/a-rider-s-dust-and-a-concubine-s-smile.png)
+![AstroPaper I18n](/a-rider-s-dust-and-a-concubine-s-smile.png)
 
 
 

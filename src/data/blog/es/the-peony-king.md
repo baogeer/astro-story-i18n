@@ -8,7 +8,7 @@ description: "Hay una planta llamada «Peony King» en la aldea de Zhaolou, en C
 
 
 
-![AstroPaper I18n](/public/the-peony-king.png)
+![AstroPaper I18n](/the-peony-king.png)
 
 
 

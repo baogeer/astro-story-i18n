@@ -8,7 +8,7 @@ description: "Восточный Цзинь, Чжу Интай, учился в 
 
 
 
-![AstroPaper I18n](/public/the-story-of-liang-shanbo-and-zhu-yingtai.png)
+![AstroPaper I18n](/the-story-of-liang-shanbo-and-zhu-yingtai.png)
 
 
 

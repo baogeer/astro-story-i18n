@@ -8,7 +8,7 @@ description: "À Tiaoxi, dans le Zhejiang, un monstre né d'un couple a été ab
 
 
 
-![AstroPaper I18n](/public/the-hundred-petal-dragon.png)
+![AstroPaper I18n](/the-hundred-petal-dragon.png)
 
 
 

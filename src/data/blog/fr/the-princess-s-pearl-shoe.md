@@ -8,7 +8,7 @@ description: "Le pauvre adolescent tibétain Dun Zhu Zaxi a coupé du bois pour 
 
 
 
-![AstroPaper I18n](/public/the-princess-s-pearl-shoe.png)
+![AstroPaper I18n](/the-princess-s-pearl-shoe.png)
 
 
 

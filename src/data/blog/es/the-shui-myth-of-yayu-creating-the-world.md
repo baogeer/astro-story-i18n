@@ -8,7 +8,7 @@ description: "La diosa de los acuarios es increíblemente poderosa. Abrió el mu
 
 
 
-![AstroPaper I18n](/public/the-shui-myth-of-yayu-creating-the-world.png)
+![AstroPaper I18n](/the-shui-myth-of-yayu-creating-the-world.png)
 
 
 

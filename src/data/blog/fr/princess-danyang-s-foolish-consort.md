@@ -8,7 +8,7 @@ description: "La princesse Danyang a épousé le célèbre général Xue Wanche.
 
 
 
-![AstroPaper I18n](/public/princess-danyang-s-foolish-consort.png)
+![AstroPaper I18n](/princess-danyang-s-foolish-consort.png)
 
 
 

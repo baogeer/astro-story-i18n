@@ -8,7 +8,7 @@ description: "The Golden Baht Fairy came down and was obsessed with Duan Duan Du
 
 
 
-![AstroPaper I18n](/public/fairy-jin-zhu.png)
+![AstroPaper I18n](/fairy-jin-zhu.png)
 
 
 

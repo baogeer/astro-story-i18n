@@ -8,7 +8,7 @@ description: "أخذ السيد لوويا استراحة في هوانغجيا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
+![AstroPaper I18n](/the-legend-of-master-luoya-and-the-mountain-spring-from-his-sword.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сай Цзиньхуа, известная проститутка
 
 
 
-![AstroPaper I18n](/public/sai-jinhua-the-courtesan-who-disarmed-the-invaders.png)
+![AstroPaper I18n](/sai-jinhua-the-courtesan-who-disarmed-the-invaders.png)
 
 
 

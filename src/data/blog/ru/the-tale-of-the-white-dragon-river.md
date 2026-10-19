@@ -8,7 +8,7 @@ description: "Бай Лун — добросердечный старший сы
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-white-dragon-river.png)
+![AstroPaper I18n](/the-tale-of-the-white-dragon-river.png)
 
 
 

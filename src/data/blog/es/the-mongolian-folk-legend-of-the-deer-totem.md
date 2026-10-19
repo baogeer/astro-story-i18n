@@ -8,7 +8,7 @@ description: "Según las leyendas mongolas, Shalu fue adoptado por cazadores cua
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-the-deer-totem.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-the-deer-totem.png)
 
 
 

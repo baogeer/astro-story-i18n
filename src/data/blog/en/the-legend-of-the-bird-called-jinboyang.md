@@ -8,7 +8,7 @@ description: "The vicious stepmother designed her stepson to grow fried soybeans
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bird-called-jinboyang.png)
+![AstroPaper I18n](/the-legend-of-the-bird-called-jinboyang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Во времена династии Тан Цуй Шэн посе
 
 
 
-![AstroPaper I18n](/public/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
+![AstroPaper I18n](/red-sleeve-a-tang-dynasty-love-fulfilled-by-the-kunlun-slave.png)
 
 
 

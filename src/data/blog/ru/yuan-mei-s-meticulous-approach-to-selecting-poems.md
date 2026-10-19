@@ -8,7 +8,7 @@ description: "В подборке стихов Юань Мэй основное 
 
 
 
-![AstroPaper I18n](/public/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
+![AstroPaper I18n](/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
 
 
 

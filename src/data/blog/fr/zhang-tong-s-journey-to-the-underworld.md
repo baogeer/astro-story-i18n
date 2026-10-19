@@ -8,7 +8,7 @@ description: "À la fin de la journée, Zhang Laohan du comté de Pingxing a fai
 
 
 
-![AstroPaper I18n](/public/zhang-tong-s-journey-to-the-underworld.png)
+![AstroPaper I18n](/zhang-tong-s-journey-to-the-underworld.png)
 
 
 

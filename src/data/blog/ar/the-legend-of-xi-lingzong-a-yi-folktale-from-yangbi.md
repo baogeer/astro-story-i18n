@@ -8,7 +8,7 @@ description: "بعد أن تعرض شي لينغ للسخرية من قبل صا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-legend-of-xi-lingzong-a-yi-folktale-from-yangbi.png)
 
 
 

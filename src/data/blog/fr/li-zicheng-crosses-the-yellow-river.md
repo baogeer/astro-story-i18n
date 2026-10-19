@@ -8,7 +8,7 @@ description: "Le texte de l'histoire est manquant et le résumé ne peut pas êt
 
 
 
-![AstroPaper I18n](/public/li-zicheng-crosses-the-yellow-river.png)
+![AstroPaper I18n](/li-zicheng-crosses-the-yellow-river.png)
 
 
 

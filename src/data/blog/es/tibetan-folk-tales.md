@@ -8,7 +8,7 @@ description: "Los cuentos populares tibetanos son ricos y variados, y se dividen
 
 
 
-![AstroPaper I18n](/public/tibetan-folk-tales.png)
+![AstroPaper I18n](/tibetan-folk-tales.png)
 
 
 

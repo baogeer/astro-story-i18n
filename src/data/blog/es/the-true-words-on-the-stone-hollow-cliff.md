@@ -8,7 +8,7 @@ description: "En el Festival del Melocotón de Yuhuangge, Tieguai Li Huazuo irru
 
 
 
-![AstroPaper I18n](/public/the-true-words-on-the-stone-hollow-cliff.png)
+![AstroPaper I18n](/the-true-words-on-the-stone-hollow-cliff.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qiu ignoró su riqueza y fue testarudo. El día de Año Nuevo, eng
 
 
 
-![AstroPaper I18n](/public/expecting-value-line-2-column-1-char-1.png)
+![AstroPaper I18n](/expecting-value-line-2-column-1-char-1.png)
 
 
 

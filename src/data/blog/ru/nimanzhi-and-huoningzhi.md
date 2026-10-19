@@ -8,7 +8,7 @@ description: "Ниманджи подверглась жестокому обр�
 
 
 
-![AstroPaper I18n](/public/nimanzhi-and-huoningzhi.png)
+![AstroPaper I18n](/nimanzhi-and-huoningzhi.png)
 
 
 

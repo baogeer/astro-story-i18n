@@ -8,7 +8,7 @@ description: "An old man took a nap on a summer night, and a female ghost in a m
 
 
 
-![AstroPaper I18n](/public/biting-the-ghost.png)
+![AstroPaper I18n](/biting-the-ghost.png)
 
 
 

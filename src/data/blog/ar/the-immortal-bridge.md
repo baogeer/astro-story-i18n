@@ -8,7 +8,7 @@ description: "على جسر حجري طبيعي في السفوح الشرقية
 
 
 
-![AstroPaper I18n](/public/the-immortal-bridge.png)
+![AstroPaper I18n](/the-immortal-bridge.png)
 
 
 

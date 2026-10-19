@@ -8,7 +8,7 @@ description: "Wei Qing comenzó como pastor ilegítimo, y es tranquilo y generos
 
 
 
-![AstroPaper I18n](/public/the-empire-s-twin-pillars-wei-qing-and-huo-qubing.png)
+![AstroPaper I18n](/the-empire-s-twin-pillars-wei-qing-and-huo-qubing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تتمتع مقاطعة وو بمفوض مقاطعة قوي وحا
 
 
 
-![AstroPaper I18n](/public/the-magistrate-of-wu-county.png)
+![AstroPaper I18n](/the-magistrate-of-wu-county.png)
 
 
 

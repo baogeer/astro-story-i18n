@@ -8,7 +8,7 @@ description: "Су Дунпо управляет Западным озером �
 
 
 
-![AstroPaper I18n](/public/the-story-of-dongpo-pork.png)
+![AstroPaper I18n](/the-story-of-dongpo-pork.png)
 
 
 

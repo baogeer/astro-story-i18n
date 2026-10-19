@@ -8,7 +8,7 @@ description: "Para superar la sequía, Qin Sanjiu no pudo cortar la montaña con
 
 
 
-![AstroPaper I18n](/public/the-maonan-folktale-of-sanjiu.png)
+![AstroPaper I18n](/the-maonan-folktale-of-sanjiu.png)
 
 
 

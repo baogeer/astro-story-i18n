@@ -8,7 +8,7 @@ description: "La sœur et le frère ont livré du riz et des dattes à leur gran
 
 
 
-![AstroPaper I18n](/public/the-tiger-grandmother.png)
+![AstroPaper I18n](/the-tiger-grandmother.png)
 
 
 

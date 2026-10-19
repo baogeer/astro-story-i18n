@@ -8,7 +8,7 @@ description: "سعى وو تشي إلى الثروة. عندما كان مراه
 
 
 
-![AstroPaper I18n](/public/wu-qi-shamelessly-abandons-mother-kills-wife-and-betrays-country-for-wealth.png)
+![AstroPaper I18n](/wu-qi-shamelessly-abandons-mother-kills-wife-and-betrays-country-for-wealth.png)
 
 
 

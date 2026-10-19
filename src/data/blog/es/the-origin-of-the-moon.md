@@ -8,7 +8,7 @@ description: "Para alegrar la noche, Yuemei, la niña de Zhuangxiang, trajo lint
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-moon.png)
+![AstroPaper I18n](/the-origin-of-the-moon.png)
 
 
 

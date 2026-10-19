@@ -8,7 +8,7 @@ description: "عبر الزوج الكبير تشانغ من شانشي النه
 
 
 
-![AstroPaper I18n](/public/old-master-zhang-and-the-giant-turtle.png)
+![AstroPaper I18n](/old-master-zhang-and-the-giant-turtle.png)
 
 
 

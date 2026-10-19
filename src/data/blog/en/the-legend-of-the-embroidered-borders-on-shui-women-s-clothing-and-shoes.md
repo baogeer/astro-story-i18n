@@ -8,7 +8,7 @@ description: "When the ancestors of the aquarium moved to the three capitals of 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-borders-on-shui-women-s-clothing-and-shoes.png)
 
 
 

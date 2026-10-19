@@ -8,7 +8,7 @@ description: "В конце правления династии Мин банд�
 
 
 
-![AstroPaper I18n](/public/the-one-eyed-river-bandit-ah-liu.png)
+![AstroPaper I18n](/the-one-eyed-river-bandit-ah-liu.png)
 
 
 

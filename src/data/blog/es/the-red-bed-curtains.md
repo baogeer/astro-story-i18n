@@ -8,7 +8,7 @@ description: "El director de la escuela compró tela roja para las cortinas de l
 
 
 
-![AstroPaper I18n](/public/the-red-bed-curtains.png)
+![AstroPaper I18n](/the-red-bed-curtains.png)
 
 
 

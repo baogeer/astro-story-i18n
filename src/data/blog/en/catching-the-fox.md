@@ -8,7 +8,7 @@ description: "Sun Laoweng was bold, caught a yellow-haired and green-mouthed fox
 
 
 
-![AstroPaper I18n](/public/catching-the-fox.png)
+![AstroPaper I18n](/catching-the-fox.png)
 
 
 

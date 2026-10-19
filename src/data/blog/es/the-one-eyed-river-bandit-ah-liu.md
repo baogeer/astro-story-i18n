@@ -8,7 +8,7 @@ description: "Al final de la dinastía Ming, el bandido Ah Liu robó a funcionar
 
 
 
-![AstroPaper I18n](/public/the-one-eyed-river-bandit-ah-liu.png)
+![AstroPaper I18n](/the-one-eyed-river-bandit-ah-liu.png)
 
 
 

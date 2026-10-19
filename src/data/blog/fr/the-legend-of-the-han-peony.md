@@ -8,7 +8,7 @@ description: "La légende raconte que les pivoines et les pivoines du temple Mid
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-han-peony.png)
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
 
 
 

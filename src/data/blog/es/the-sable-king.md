@@ -8,7 +8,7 @@ description: "Para curar la artritis de su madre, Liu Sanzhu fue a la montaña C
 
 
 
-![AstroPaper I18n](/public/the-sable-king.png)
+![AstroPaper I18n](/the-sable-king.png)
 
 
 

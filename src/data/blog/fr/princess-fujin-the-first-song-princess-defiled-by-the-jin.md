@@ -8,7 +8,7 @@ description: "L'empereur Fu Jin a été la première princesse de la dynastie So
 
 
 
-![AstroPaper I18n](/public/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
+![AstroPaper I18n](/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
 
 
 

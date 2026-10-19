@@ -8,7 +8,7 @@ description: "Весной и осенью Янь Ван построил гор
 
 
 
-![AstroPaper I18n](/public/the-everlasting-lime-and-the-city-of-yanjing.png)
+![AstroPaper I18n](/the-everlasting-lime-and-the-city-of-yanjing.png)
 
 
 

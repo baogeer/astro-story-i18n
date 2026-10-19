@@ -8,7 +8,7 @@ description: "Guided by Dream White Rabbit, a Yi hunter, traveled to the Yangjia
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sapilu-and-the-little-walnut.png)
+![AstroPaper I18n](/the-legend-of-sapilu-and-the-little-walnut.png)
 
 
 

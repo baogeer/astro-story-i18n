@@ -8,7 +8,7 @@ description: "Ga wa broke open the world and held up the sky with copper and iro
 
 
 
-![AstroPaper I18n](/public/yawa-creates-heaven-earth-and-humanity.png)
+![AstroPaper I18n](/yawa-creates-heaven-earth-and-humanity.png)
 
 
 

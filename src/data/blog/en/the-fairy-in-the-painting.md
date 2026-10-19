@@ -8,7 +8,7 @@ description: "Gao Mingfeng bought an ancient painting from the Song Dynasty. A m
 
 
 
-![AstroPaper I18n](/public/the-fairy-in-the-painting.png)
+![AstroPaper I18n](/the-fairy-in-the-painting.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le moine fou du temple Lingyin a prédit que le sommet de la monta
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-flying-peak-at-lingyin-temple.png)
+![AstroPaper I18n](/the-legend-of-the-flying-peak-at-lingyin-temple.png)
 
 
 

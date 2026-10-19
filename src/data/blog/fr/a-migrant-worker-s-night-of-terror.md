@@ -8,7 +8,7 @@ description: "La travailleuse, Huang Juanjuan, est retournée en détresse la nu
 
 
 
-![AstroPaper I18n](/public/a-migrant-worker-s-night-of-terror.png)
+![AstroPaper I18n](/a-migrant-worker-s-night-of-terror.png)
 
 
 

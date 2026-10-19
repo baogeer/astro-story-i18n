@@ -8,7 +8,7 @@ description: "Avanti a été confronté à deux questionsxa0: le vieux chasseur 
 
 
 
-![AstroPaper I18n](/public/selected-xinjiang-uyghur-folk-tales.png)
+![AstroPaper I18n](/selected-xinjiang-uyghur-folk-tales.png)
 
 
 

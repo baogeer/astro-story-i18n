@@ -8,7 +8,7 @@ description: "Huang Sheng estudió en el Palacio Qing bajo la montaña Laoshan y
 
 
 
-![AstroPaper I18n](/public/fragrant-jade.png)
+![AstroPaper I18n](/fragrant-jade.png)
 
 
 

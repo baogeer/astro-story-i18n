@@ -8,7 +8,7 @@ description: "At the end of the Eastern Han dynasty, there was chaos among the e
 
 
 
-![AstroPaper I18n](/public/the-eastern-han-palace-coup-eunuchs-kill-dou-wu-and-seize-power.png)
+![AstroPaper I18n](/the-eastern-han-palace-coup-eunuchs-kill-dou-wu-and-seize-power.png)
 
 
 

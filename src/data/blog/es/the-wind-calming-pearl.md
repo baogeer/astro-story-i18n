@@ -8,7 +8,7 @@ description: "El joven que cortaba leña de vez en cuando atrapaba a Ding Feng Z
 
 
 
-![AstroPaper I18n](/public/the-wind-calming-pearl.png)
+![AstroPaper I18n](/the-wind-calming-pearl.png)
 
 
 

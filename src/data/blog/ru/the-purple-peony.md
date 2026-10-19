@@ -8,7 +8,7 @@ description: "Основной текст отсутствует, а резюм�
 
 
 
-![AstroPaper I18n](/public/the-purple-peony.png)
+![AstroPaper I18n](/the-purple-peony.png)
 
 
 

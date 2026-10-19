@@ -8,7 +8,7 @@ description: "The living Buddha of Ji Gong was originally Li Xiuyuan, a native o
 
 
 
-![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+![AstroPaper I18n](/ji-gong-the-living-buddha.png)
 
 
 

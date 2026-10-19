@@ -8,7 +8,7 @@ description: "Tianxin Zhaizi originally had an amazing clean spring. People had 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-sand-well.png)
+![AstroPaper I18n](/the-legend-of-the-white-sand-well.png)
 
 
 

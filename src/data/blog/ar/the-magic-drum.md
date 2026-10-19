@@ -8,7 +8,7 @@ description: "ذات مرة، كان هناك شقيقان. تم طرد الأخ
 
 
 
-![AstroPaper I18n](/public/the-magic-drum.png)
+![AstroPaper I18n](/the-magic-drum.png)
 
 
 

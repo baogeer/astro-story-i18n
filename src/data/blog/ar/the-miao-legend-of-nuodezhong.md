@@ -8,7 +8,7 @@ description: "قام الرجل العجوز من يانغلو بحراسة ال
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-nuodezhong.png)
+![AstroPaper I18n](/the-miao-legend-of-nuodezhong.png)
 
 
 

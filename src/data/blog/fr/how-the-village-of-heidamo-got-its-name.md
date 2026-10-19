@@ -8,7 +8,7 @@ description: "Dans le conte populaire de la tribu Yi de Yangyi, des catastrophes
 
 
 
-![AstroPaper I18n](/public/how-the-village-of-heidamo-got-its-name.png)
+![AstroPaper I18n](/how-the-village-of-heidamo-got-its-name.png)
 
 
 

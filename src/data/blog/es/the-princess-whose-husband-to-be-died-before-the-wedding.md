@@ -8,7 +8,7 @@ description: "La princesa Lone Stone rescató a un hombre que fue perseguido cua
 
 
 
-![AstroPaper I18n](/public/the-princess-whose-husband-to-be-died-before-the-wedding.png)
+![AstroPaper I18n](/the-princess-whose-husband-to-be-died-before-the-wedding.png)
 
 
 

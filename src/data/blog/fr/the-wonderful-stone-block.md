@@ -8,7 +8,7 @@ description: "Lorsque le pont de Nishikura a été construit sous la dynastie Mi
 
 
 
-![AstroPaper I18n](/public/the-wonderful-stone-block.png)
+![AstroPaper I18n](/the-wonderful-stone-block.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La gente de Nanzhao estaba embrujada por los traidores, pensando q
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nuwa-s-descendants.png)
+![AstroPaper I18n](/the-legend-of-nuwa-s-descendants.png)
 
 
 

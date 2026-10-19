@@ -8,7 +8,7 @@ description: "Wu est accro au jeu. Après le dividende de fin d'année, il est r
 
 
 
-![AstroPaper I18n](/public/the-ghost-gamble.png)
+![AstroPaper I18n](/the-ghost-gamble.png)
 
 
 

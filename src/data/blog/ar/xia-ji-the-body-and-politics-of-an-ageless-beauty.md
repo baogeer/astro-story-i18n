@@ -8,7 +8,7 @@ description: "شيا جي هي الأميرة تشنغ غو من تشونكيو.
 
 
 
-![AstroPaper I18n](/public/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
+![AstroPaper I18n](/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
 
 
 

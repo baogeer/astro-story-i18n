@@ -8,7 +8,7 @@ description: "Laozi Li Yi était invité chez Han Gu Guan Yin Xi pour tester ses
 
 
 
-![AstroPaper I18n](/public/laozi-s-prophecy.png)
+![AstroPaper I18n](/laozi-s-prophecy.png)
 
 
 

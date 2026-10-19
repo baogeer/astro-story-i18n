@@ -8,7 +8,7 @@ description: "Мяо Ван Мэн Цзыю из племени мяо возг�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-flower-mountain-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-flower-mountain-festival.png)
 
 
 

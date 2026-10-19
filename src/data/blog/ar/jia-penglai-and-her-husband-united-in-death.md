@@ -8,7 +8,7 @@ description: "كان جيا بينغلاي وشانغقوانزيلانغ صغي
 
 
 
-![AstroPaper I18n](/public/jia-penglai-and-her-husband-united-in-death.png)
+![AstroPaper I18n](/jia-penglai-and-her-husband-united-in-death.png)
 
 
 

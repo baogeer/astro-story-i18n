@@ -8,7 +8,7 @@ description: "Tras el allanamiento de la casa de Zhang Juzheng, su tercer hijo, 
 
 
 
-![AstroPaper I18n](/public/the-elixir-chamber.png)
+![AstroPaper I18n](/the-elixir-chamber.png)
 
 
 

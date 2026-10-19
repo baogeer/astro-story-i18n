@@ -8,7 +8,7 @@ description: "El cazador Fang Cuncun visitó la cueva de Laoshi por la noche, co
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-strange-encounter.png)
+![AstroPaper I18n](/the-hunter-s-strange-encounter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "L'île de Jinzang a été inondée par Dragon King dans la mer de 
 
 
 
-![AstroPaper I18n](/public/boiling-the-sea-to-subdue-the-dragon-king.png)
+![AstroPaper I18n](/boiling-the-sea-to-subdue-the-dragon-king.png)
 
 
 

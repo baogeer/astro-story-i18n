@@ -8,7 +8,7 @@ description: "Wang Zhaojun a reçu l'ordre de quitter Saihe et a joué du pipa e
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhaojun-and-the-falling-geese.png)
+![AstroPaper I18n](/the-story-of-zhaojun-and-the-falling-geese.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت Dong Shuangcheng في الأصل امرأة جميلة ت
 
 
 
-![AstroPaper I18n](/public/the-queen-mother-of-the-west-and-her-peach-fairy.png)
+![AstroPaper I18n](/the-queen-mother-of-the-west-and-her-peach-fairy.png)
 
 
 

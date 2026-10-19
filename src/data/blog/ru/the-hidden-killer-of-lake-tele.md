@@ -8,7 +8,7 @@ description: "Гигантский зверь озера Тайлай неодн
 
 
 
-![AstroPaper I18n](/public/the-hidden-killer-of-lake-tele.png)
+![AstroPaper I18n](/the-hidden-killer-of-lake-tele.png)
 
 
 

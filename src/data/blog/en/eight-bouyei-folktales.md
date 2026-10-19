@@ -8,7 +8,7 @@ description: "Eight folklore stories of the Buyei people, covering stories such 
 
 
 
-![AstroPaper I18n](/public/eight-bouyei-folktales.png)
+![AstroPaper I18n](/eight-bouyei-folktales.png)
 
 
 

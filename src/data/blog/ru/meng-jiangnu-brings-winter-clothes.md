@@ -8,7 +8,7 @@ description: "Во времена династии Цинь муж Мэн Цзя
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-winter-clothes.png)
+![AstroPaper I18n](/meng-jiangnu-brings-winter-clothes.png)
 
 
 

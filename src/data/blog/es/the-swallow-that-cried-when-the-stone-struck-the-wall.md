@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que hay un par de golondrinas dentro de la Puert
 
 
 
-![AstroPaper I18n](/public/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
+![AstroPaper I18n](/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
 
 
 

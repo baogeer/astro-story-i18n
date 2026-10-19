@@ -8,7 +8,7 @@ description: "En la Séptima Rebelión, Li Hualong se escondió entre un montón
 
 
 
-![AstroPaper I18n](/public/the-wild-dog-monster.png)
+![AstroPaper I18n](/the-wild-dog-monster.png)
 
 
 

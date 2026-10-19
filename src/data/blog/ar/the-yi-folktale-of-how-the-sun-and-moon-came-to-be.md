@@ -8,7 +8,7 @@ description: "أراد زوجان التخلي عن أطفالهما والسم�
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
+![AstroPaper I18n](/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
 
 
 

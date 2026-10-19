@@ -8,7 +8,7 @@ description: "Killing Tail Dragon nació de Oolong Jing y Wu, la esposa del gobe
 
 
 
-![AstroPaper I18n](/public/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
+![AstroPaper I18n](/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
 
 
 

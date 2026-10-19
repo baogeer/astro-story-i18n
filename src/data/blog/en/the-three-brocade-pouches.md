@@ -8,7 +8,7 @@ description: "At the end of his life, Xiucai left three tips. He set up a bureau
 
 
 
-![AstroPaper I18n](/public/the-three-brocade-pouches.png)
+![AstroPaper I18n](/the-three-brocade-pouches.png)
 
 
 

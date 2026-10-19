@@ -8,7 +8,7 @@ description: "Предложения Вэй Гу о браке во времен
 
 
 
-![AstroPaper I18n](/public/wei-gu-s-wife-a-tale-of-predestined-marriage.png)
+![AstroPaper I18n](/wei-gu-s-wife-a-tale-of-predestined-marriage.png)
 
 
 

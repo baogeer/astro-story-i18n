@@ -8,7 +8,7 @@ description: "Green Pearl — прекрасная наложница, наня�
 
 
 
-![AstroPaper I18n](/public/green-pearl-the-death-of-a-wealthy-bachelor.png)
+![AstroPaper I18n](/green-pearl-the-death-of-a-wealthy-bachelor.png)
 
 
 

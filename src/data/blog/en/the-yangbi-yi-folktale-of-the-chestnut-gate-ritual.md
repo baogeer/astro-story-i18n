@@ -8,7 +8,7 @@ description: "In the legend of the Yangyi Yi tribe, one of the father and son wh
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
+![AstroPaper I18n](/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Pendant la période Jiaqing de la dynastie Qing, le soulèvement d
 
 
 
-![AstroPaper I18n](/public/the-heroine-wang-cong-er.png)
+![AstroPaper I18n](/the-heroine-wang-cong-er.png)
 
 
 

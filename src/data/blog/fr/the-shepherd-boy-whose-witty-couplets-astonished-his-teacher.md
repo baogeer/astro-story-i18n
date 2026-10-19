@@ -8,7 +8,7 @@ description: "Zhu Xiao, un jeune berger, s'est caché devant l'académie pour é
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-whose-witty-couplets-astonished-his-teacher.png)
+![AstroPaper I18n](/the-shepherd-boy-whose-witty-couplets-astonished-his-teacher.png)
 
 
 

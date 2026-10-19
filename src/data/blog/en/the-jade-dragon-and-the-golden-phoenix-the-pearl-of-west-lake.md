@@ -8,7 +8,7 @@ description: "Yu Long and Jin Feng turned Puyu into a pearl. After Wang's mother
 
 
 
-![AstroPaper I18n](/public/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
+![AstroPaper I18n](/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
 
 
 

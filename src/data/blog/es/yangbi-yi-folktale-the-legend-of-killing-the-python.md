@@ -8,7 +8,7 @@ description: "Cuando el vendedor cantó con la serpiente demoníaca, los aldeano
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
 
 
 

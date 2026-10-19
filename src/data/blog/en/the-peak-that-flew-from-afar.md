@@ -8,7 +8,7 @@ description: "The crazy monk saved the people in the village in front of Lingyin
 
 
 
-![AstroPaper I18n](/public/the-peak-that-flew-from-afar.png)
+![AstroPaper I18n](/the-peak-that-flew-from-afar.png)
 
 
 

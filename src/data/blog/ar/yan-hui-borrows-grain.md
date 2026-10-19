@@ -8,7 +8,7 @@ description: "نفد طعام مرشدي ومتدربي كونفوشيوس، و�
 
 
 
-![AstroPaper I18n](/public/yan-hui-borrows-grain.png)
+![AstroPaper I18n](/yan-hui-borrows-grain.png)
 
 
 

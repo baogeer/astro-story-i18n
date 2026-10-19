@@ -8,7 +8,7 @@ description: "لإنقاذ زوجها شو شيان، الذي كان خائفً
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-snake-road.png)
+![AstroPaper I18n](/the-legend-of-white-snake-road.png)
 
 
 

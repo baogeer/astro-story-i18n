@@ -8,7 +8,7 @@ description: "El maestro Shengkong de la dinastía Tang visitó la montaña Daci
 
 
 
-![AstroPaper I18n](/public/the-dream-of-the-tiger-spring.png)
+![AstroPaper I18n](/the-dream-of-the-tiger-spring.png)
 
 
 

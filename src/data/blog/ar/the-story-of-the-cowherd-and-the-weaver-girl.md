@@ -8,7 +8,7 @@ description: "عندما وقعت النساجة في حب بقرة الصباح
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-story-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

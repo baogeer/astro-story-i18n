@@ -8,7 +8,7 @@ description: "Fan 15 usó gachas de arroz a cambio de almejas doradas del Black 
 
 
 
-![AstroPaper I18n](/public/fan-shiwu-and-the-golden-toad.png)
+![AstroPaper I18n](/fan-shiwu-and-the-golden-toad.png)
 
 
 

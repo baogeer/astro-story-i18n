@@ -8,7 +8,7 @@ description: "Once upon a time, there was a family, and the father went out and 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-silkworm-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-silkworm-goddess.png)
 
 
 

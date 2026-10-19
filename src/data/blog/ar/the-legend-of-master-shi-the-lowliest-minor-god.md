@@ -8,7 +8,7 @@ description: "الجد شي جيد في النبيذ ويتجرأ على الك�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-shi-the-lowliest-minor-god.png)
+![AstroPaper I18n](/the-legend-of-master-shi-the-lowliest-minor-god.png)
 
 
 

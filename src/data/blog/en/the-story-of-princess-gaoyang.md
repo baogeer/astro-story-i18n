@@ -8,7 +8,7 @@ description: "Prime Minister Fong Hyun-ling's son's legacy. Gao Yangxin defended
 
 
 
-![AstroPaper I18n](/public/the-story-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-story-of-princess-gaoyang.png)
 
 
 

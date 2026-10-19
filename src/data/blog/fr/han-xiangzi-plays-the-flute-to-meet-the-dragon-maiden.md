@@ -8,7 +8,7 @@ description: "Han Xiang Zi était au bord de la mer et a invité les sept prince
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
+![AstroPaper I18n](/han-xiangzi-plays-the-flute-to-meet-the-dragon-maiden.png)
 
 
 

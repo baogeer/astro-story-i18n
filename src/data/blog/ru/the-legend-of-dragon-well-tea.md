@@ -8,7 +8,7 @@ description: "Согласно легенде о чае «Лунцзин», од
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea.png)
 
 
 

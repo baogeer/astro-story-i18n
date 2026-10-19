@@ -8,7 +8,7 @@ description: "La pobre erudita Jang Jin se rindió a su suegro Kim Jae-sang y vi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
+![AstroPaper I18n](/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
 
 
 

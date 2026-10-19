@@ -8,7 +8,7 @@ description: "حوّل يو لونغ وجين فنغ بويو إلى لؤلؤة.
 
 
 
-![AstroPaper I18n](/public/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
+![AstroPaper I18n](/the-jade-dragon-and-the-golden-phoenix-the-pearl-of-west-lake.png)
 
 
 

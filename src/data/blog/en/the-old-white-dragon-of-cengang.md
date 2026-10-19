@@ -8,7 +8,7 @@ description: "Cengang Bai Laolong was banned from the water by Emperor Jade due 
 
 
 
-![AstroPaper I18n](/public/the-old-white-dragon-of-cengang.png)
+![AstroPaper I18n](/the-old-white-dragon-of-cengang.png)
 
 
 

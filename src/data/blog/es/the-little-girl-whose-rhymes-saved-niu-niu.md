@@ -8,7 +8,7 @@ description: "A la pequeña Jenny le encanta escribir jingles y enseñó a vacas
 
 
 
-![AstroPaper I18n](/public/the-little-girl-whose-rhymes-saved-niu-niu.png)
+![AstroPaper I18n](/the-little-girl-whose-rhymes-saved-niu-niu.png)
 
 
 

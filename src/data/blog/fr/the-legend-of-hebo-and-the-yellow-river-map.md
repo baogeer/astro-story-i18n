@@ -8,7 +8,7 @@ description: "Feng Yi s'est noyé dans le fleuve Jaune à la recherche de jonqui
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hebo-and-the-yellow-river-map.png)
+![AstroPaper I18n](/the-legend-of-hebo-and-the-yellow-river-map.png)
 
 
 

@@ -8,7 +8,7 @@ description: "الأميرة أنلي هي ابنة تانغ تشونغزونغ 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-anle-who-poisoned-her-father.png)
+![AstroPaper I18n](/the-tale-of-princess-anle-who-poisoned-her-father.png)
 
 
 

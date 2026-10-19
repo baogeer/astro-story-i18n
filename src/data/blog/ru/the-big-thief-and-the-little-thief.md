@@ -8,7 +8,7 @@ description: "Когда-то старик научил своих четвер�
 
 
 
-![AstroPaper I18n](/public/the-big-thief-and-the-little-thief.png)
+![AstroPaper I18n](/the-big-thief-and-the-little-thief.png)
 
 
 

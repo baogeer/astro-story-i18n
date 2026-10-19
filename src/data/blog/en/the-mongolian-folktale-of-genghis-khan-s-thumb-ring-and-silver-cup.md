@@ -8,7 +8,7 @@ description: "Legend has it that Genghis Khan's loyal brother, Zamuhe, designed 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
 
 
 

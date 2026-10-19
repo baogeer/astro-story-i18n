@@ -8,7 +8,7 @@ description: "وفي حالة القاضي تانغ زونغ بو زين، طُ�
 
 
 
-![AstroPaper I18n](/public/the-perceptive-judge.png)
+![AstroPaper I18n](/the-perceptive-judge.png)
 
 
 

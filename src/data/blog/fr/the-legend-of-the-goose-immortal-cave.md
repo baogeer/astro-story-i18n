@@ -8,7 +8,7 @@ description: "Avant que Loren ne se rende à Pékin pour passer l'examen, son r�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goose-immortal-cave.png)
+![AstroPaper I18n](/the-legend-of-the-goose-immortal-cave.png)
 
 
 

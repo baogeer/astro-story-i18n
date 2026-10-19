@@ -8,7 +8,7 @@ description: "Братья Мяо Бака и мать Ба зависят др�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-moon-dance.png)
+![AstroPaper I18n](/the-legend-of-the-miao-moon-dance.png)
 
 
 

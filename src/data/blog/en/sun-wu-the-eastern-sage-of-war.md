@@ -8,7 +8,7 @@ description: "Sun Wu was a military man during the Spring and Autumn period. He 
 
 
 
-![AstroPaper I18n](/public/sun-wu-the-eastern-sage-of-war.png)
+![AstroPaper I18n](/sun-wu-the-eastern-sage-of-war.png)
 
 
 

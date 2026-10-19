@@ -8,7 +8,7 @@ description: "Once upon a time, an orphan fisherman picked up a big screw by acc
 
 
 
-![AstroPaper I18n](/public/the-regret-of-a-broken-promise.png)
+![AstroPaper I18n](/the-regret-of-a-broken-promise.png)
 
 
 

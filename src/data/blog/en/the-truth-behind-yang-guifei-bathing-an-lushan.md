@@ -8,7 +8,7 @@ description: "Yang Guifei recognized An Lushan as her righteous son. After her b
 
 
 
-![AstroPaper I18n](/public/the-truth-behind-yang-guifei-bathing-an-lushan.png)
+![AstroPaper I18n](/the-truth-behind-yang-guifei-bathing-an-lushan.png)
 
 
 

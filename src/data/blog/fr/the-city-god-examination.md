@@ -8,7 +8,7 @@ description: "Song Tao a été invitée à passer l'examen dans le monde souterr
 
 
 
-![AstroPaper I18n](/public/the-city-god-examination.png)
+![AstroPaper I18n](/the-city-god-examination.png)
 
 
 

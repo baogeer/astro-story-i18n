@@ -8,7 +8,7 @@ description: "استقر كل من هواليانغ وليانغ هوا، الل
 
 
 
-![AstroPaper I18n](/public/the-magic-treasure-bowl.png)
+![AstroPaper I18n](/the-magic-treasure-bowl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le vieux moine est allé au plus profond de son chemin. Après sa 
 
 
 
-![AstroPaper I18n](/public/the-monk-of-changqing.png)
+![AstroPaper I18n](/the-monk-of-changqing.png)
 
 
 

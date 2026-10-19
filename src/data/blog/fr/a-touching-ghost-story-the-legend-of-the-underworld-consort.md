@@ -8,7 +8,7 @@ description: "Xueyi a été chargée de rechercher Wang Qian, la femme fantôme 
 
 
 
-![AstroPaper I18n](/public/a-touching-ghost-story-the-legend-of-the-underworld-consort.png)
+![AstroPaper I18n](/a-touching-ghost-story-the-legend-of-the-underworld-consort.png)
 
 
 

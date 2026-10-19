@@ -8,7 +8,7 @@ description: "اكتشف لاو وانغ تو ذئبًا أسود تجريبيً
 
 
 
-![AstroPaper I18n](/public/luring-the-wolf-into-the-truck.png)
+![AstroPaper I18n](/luring-the-wolf-into-the-truck.png)
 
 
 

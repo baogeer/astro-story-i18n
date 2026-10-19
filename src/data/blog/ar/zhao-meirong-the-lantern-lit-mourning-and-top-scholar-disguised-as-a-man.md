@@ -8,7 +8,7 @@ description: "في عهد أسرة مينغ، قام زاو مي وشو بمطا
 
 
 
-![AstroPaper I18n](/public/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
+![AstroPaper I18n](/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
 
 
 

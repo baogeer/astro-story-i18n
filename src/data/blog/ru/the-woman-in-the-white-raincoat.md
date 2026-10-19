@@ -8,7 +8,7 @@ description: "В дождливый день моего детства мы с �
 
 
 
-![AstroPaper I18n](/public/the-woman-in-the-white-raincoat.png)
+![AstroPaper I18n](/the-woman-in-the-white-raincoat.png)
 
 
 

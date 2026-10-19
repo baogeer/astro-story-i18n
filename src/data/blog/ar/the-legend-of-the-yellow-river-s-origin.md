@@ -8,7 +8,7 @@ description: "كانت هناك حالات جفاف كبيرة في العصور
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river-s-origin.png)
 
 
 

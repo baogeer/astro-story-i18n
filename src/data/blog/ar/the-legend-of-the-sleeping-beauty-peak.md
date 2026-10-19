@@ -8,7 +8,7 @@ description: "زوجان محبان من جبل باميان في توجيا. ذ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-sleeping-beauty-peak.png)
+![AstroPaper I18n](/the-legend-of-the-sleeping-beauty-peak.png)
 
 
 

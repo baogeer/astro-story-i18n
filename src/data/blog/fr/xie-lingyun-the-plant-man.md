@@ -8,7 +8,7 @@ description: "Parce qu'elle aime les plantes paysagères, Xie Lingyun a visité 
 
 
 
-![AstroPaper I18n](/public/xie-lingyun-the-plant-man.png)
+![AstroPaper I18n](/xie-lingyun-the-plant-man.png)
 
 
 

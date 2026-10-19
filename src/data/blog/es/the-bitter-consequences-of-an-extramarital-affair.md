@@ -8,7 +8,7 @@ description: "Érase una vez, un hombre abandonó a su esposa y tuvo una aventur
 
 
 
-![AstroPaper I18n](/public/the-bitter-consequences-of-an-extramarital-affair.png)
+![AstroPaper I18n](/the-bitter-consequences-of-an-extramarital-affair.png)
 
 
 

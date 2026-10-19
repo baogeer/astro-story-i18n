@@ -8,7 +8,7 @@ description: "En la antigüedad, a los dioses se les caían los dientes y se con
 
 
 
-![AstroPaper I18n](/public/the-pumpkin-that-gave-birth-to-humankind.png)
+![AstroPaper I18n](/the-pumpkin-that-gave-birth-to-humankind.png)
 
 
 

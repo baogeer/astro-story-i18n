@@ -8,7 +8,7 @@ description: "During the Northern Wei period, because her father was old and her
 
 
 
-![AstroPaper I18n](/public/mulan-takes-her-father-s-place-in-the-army.png)
+![AstroPaper I18n](/mulan-takes-her-father-s-place-in-the-army.png)
 
 
 

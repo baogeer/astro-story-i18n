@@ -8,7 +8,7 @@ description: "Ван Фа, продающий тофу в провинции Ю�
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-slays-the-stone-lion-spirit.png)
+![AstroPaper I18n](/lu-dongbin-slays-the-stone-lion-spirit.png)
 
 
 

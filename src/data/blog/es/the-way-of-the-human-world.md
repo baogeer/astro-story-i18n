@@ -8,7 +8,7 @@ description: "El Sr. Hu quería confundir al inframundo. Su empleador lo envió 
 
 
 
-![AstroPaper I18n](/public/the-way-of-the-human-world.png)
+![AstroPaper I18n](/the-way-of-the-human-world.png)
 
 
 

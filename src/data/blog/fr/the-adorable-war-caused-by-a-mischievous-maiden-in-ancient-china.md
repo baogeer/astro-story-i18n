@@ -8,7 +8,7 @@ description: "Tsai Ji et Qi Huan Gong ont fait basculer le bateau de façon ludi
 
 
 
-![AstroPaper I18n](/public/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
+![AstroPaper I18n](/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
 
 
 

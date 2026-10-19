@@ -8,7 +8,7 @@ description: "В прошлом роса была, несмотря на зас�
 
 
 
-![AstroPaper I18n](/public/why-there-is-no-dew-in-dry-weather.png)
+![AstroPaper I18n](/why-there-is-no-dew-in-dry-weather.png)
 
 
 

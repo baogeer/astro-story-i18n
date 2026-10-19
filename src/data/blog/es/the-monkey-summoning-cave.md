@@ -8,7 +8,7 @@ description: "El gobernador de Hangzhou vio al viejo monje jugar al ajedrez con 
 
 
 
-![AstroPaper I18n](/public/the-monkey-summoning-cave.png)
+![AstroPaper I18n](/the-monkey-summoning-cave.png)
 
 
 

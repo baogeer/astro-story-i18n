@@ -8,7 +8,7 @@ description: "النص الرئيسي مفقود، ولا يمكن إنشاء ا
 
 
 
-![AstroPaper I18n](/public/the-purple-peony.png)
+![AstroPaper I18n](/the-purple-peony.png)
 
 
 

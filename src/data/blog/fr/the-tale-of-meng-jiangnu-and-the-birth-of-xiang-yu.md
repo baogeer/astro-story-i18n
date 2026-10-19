@@ -8,7 +8,7 @@ description: "Pour protéger le sang de Wan Xiliang, la femme Meng Jiang s'est e
 
 
 
-![AstroPaper I18n](/public/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
+![AstroPaper I18n](/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
 
 
 

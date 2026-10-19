@@ -8,7 +8,7 @@ description: "بعد وفاة والديه، استولى الأخ الأكبر 
 
 
 
-![AstroPaper I18n](/public/the-story-of-selling-fragrant-farts.png)
+![AstroPaper I18n](/the-story-of-selling-fragrant-farts.png)
 
 
 

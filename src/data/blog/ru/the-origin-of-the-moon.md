@@ -8,7 +8,7 @@ description: "Чтобы скрасить ночь, девушка из Чжуа
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-moon.png)
+![AstroPaper I18n](/the-origin-of-the-moon.png)
 
 
 

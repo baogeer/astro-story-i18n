@@ -8,7 +8,7 @@ description: "When the Seven Fairies died, they burned incense and asked for hel
 
 
 
-![AstroPaper I18n](/public/the-seven-fairies-and-the-auspicious-tea.png)
+![AstroPaper I18n](/the-seven-fairies-and-the-auspicious-tea.png)
 
 
 

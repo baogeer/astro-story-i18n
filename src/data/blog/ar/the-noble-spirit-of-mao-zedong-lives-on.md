@@ -8,7 +8,7 @@ description: "تسجل قائمة الهدايا في مجموعة ماو تسي
 
 
 
-![AstroPaper I18n](/public/the-noble-spirit-of-mao-zedong-lives-on.png)
+![AstroPaper I18n](/the-noble-spirit-of-mao-zedong-lives-on.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Du Qiuniang a été favorisée par Li Wei et Tang Xianzong pour av
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
+![AstroPaper I18n](/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
 
 
 

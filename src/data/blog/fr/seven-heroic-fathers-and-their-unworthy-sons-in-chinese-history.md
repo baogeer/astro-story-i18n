@@ -8,7 +8,7 @@ description: "Il existe sept couples père-fils célèbres dans l'histoire de la
 
 
 
-![AstroPaper I18n](/public/seven-heroic-fathers-and-their-unworthy-sons-in-chinese-history.png)
+![AstroPaper I18n](/seven-heroic-fathers-and-their-unworthy-sons-in-chinese-history.png)
 
 
 

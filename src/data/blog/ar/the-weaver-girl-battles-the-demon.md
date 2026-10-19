@@ -8,7 +8,7 @@ description: "سقط راعي البقر في يد الشيطان وأذى ال�
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-battles-the-demon.png)
+![AstroPaper I18n](/the-weaver-girl-battles-the-demon.png)
 
 
 

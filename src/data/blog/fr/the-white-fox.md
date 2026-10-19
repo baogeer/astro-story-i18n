@@ -8,7 +8,7 @@ description: "Liu Shiwen, qui a été rayée de la liste, a vécu dans le temple
 
 
 
-![AstroPaper I18n](/public/the-white-fox.png)
+![AstroPaper I18n](/the-white-fox.png)
 
 
 

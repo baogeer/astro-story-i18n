@@ -8,7 +8,7 @@ description: "Lei Yingfu is Zhou Enlai's military secretary. Mao Zedong called h
 
 
 
-![AstroPaper I18n](/public/how-zhou-enlai-s-military-secretary-predicted-the-inchon-landing.png)
+![AstroPaper I18n](/how-zhou-enlai-s-military-secretary-predicted-the-inchon-landing.png)
 
 
 

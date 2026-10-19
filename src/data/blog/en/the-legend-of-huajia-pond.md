@@ -8,7 +8,7 @@ description: "In the wasteland outside Qingchun Gate in Hangzhou, Huatai Shi rec
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huajia-pond.png)
+![AstroPaper I18n](/the-legend-of-huajia-pond.png)
 
 
 

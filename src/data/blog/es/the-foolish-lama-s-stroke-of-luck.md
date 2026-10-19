@@ -8,7 +8,7 @@ description: "Tras la muerte de la princesa de los tres hermanos del rey, el fan
 
 
 
-![AstroPaper I18n](/public/the-foolish-lama-s-stroke-of-luck.png)
+![AstroPaper I18n](/the-foolish-lama-s-stroke-of-luck.png)
 
 
 

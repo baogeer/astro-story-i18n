@@ -8,7 +8,7 @@ description: "Белая Змея Бай Су Чжон вышла замуж з�
 
 
 
-![AstroPaper I18n](/public/the-new-legend-of-madame-white-snake.png)
+![AstroPaper I18n](/the-new-legend-of-madame-white-snake.png)
 
 
 

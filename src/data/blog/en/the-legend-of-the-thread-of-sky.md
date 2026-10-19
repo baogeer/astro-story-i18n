@@ -8,7 +8,7 @@ description: "Shi Wa fell in love with Flower Girl, but Thor was jealous and spl
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thread-of-sky.png)
+![AstroPaper I18n](/the-legend-of-the-thread-of-sky.png)
 
 
 

@@ -8,7 +8,7 @@ description: "اعتنى ابن شقيق عائلة سو من مجموعة يي 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
 
 
 

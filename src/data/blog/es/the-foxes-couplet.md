@@ -8,7 +8,7 @@ description: "Cuando Jiao Sheng lo leía por la noche, dos chicas zorro vinieron
 
 
 
-![AstroPaper I18n](/public/the-foxes-couplet.png)
+![AstroPaper I18n](/the-foxes-couplet.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the war at the end of the Ming Dynasty, the powerful gentleman 
 
 
 
-![AstroPaper I18n](/public/choosing-a-son-in-law-in-turbulent-times.png)
+![AstroPaper I18n](/choosing-a-son-in-law-in-turbulent-times.png)
 
 
 

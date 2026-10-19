@@ -8,7 +8,7 @@ description: "Чтобы отомстить за брата, дикая кошк
 
 
 
-![AstroPaper I18n](/public/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
+![AstroPaper I18n](/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чтобы отомстить за свою мать, Цинь И 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tujia-king-qin-hou.png)
+![AstroPaper I18n](/the-legend-of-the-tujia-king-qin-hou.png)
 
 
 

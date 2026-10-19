@@ -8,7 +8,7 @@ description: "En 1915, Sun Yat-sen escribió a su esposa Lu Muzhen solicitando e
 
 
 
-![AstroPaper I18n](/public/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
+![AstroPaper I18n](/the-legendary-woman-who-divorced-to-make-way-for-sun-yat-sen-s-love.png)
 
 
 

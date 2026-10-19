@@ -8,7 +8,7 @@ description: "Le vacher a été maltraité par son frère et sa sœur et a renco
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-tale-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

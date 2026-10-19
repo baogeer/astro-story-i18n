@@ -8,7 +8,7 @@ description: "Чжао Лаохань из Цаочжоу и его дочь Д�
 
 
 
-![AstroPaper I18n](/public/the-peony-more-precious-than-life.png)
+![AstroPaper I18n](/the-peony-more-precious-than-life.png)
 
 
 

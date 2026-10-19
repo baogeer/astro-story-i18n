@@ -8,7 +8,7 @@ description: "Sister Chun saved swallows to get gourd seeds and grow gourd babie
 
 
 
-![AstroPaper I18n](/public/the-gourd-boy-and-the-green-faced-monster.png)
+![AstroPaper I18n](/the-gourd-boy-and-the-green-faced-monster.png)
 
 
 

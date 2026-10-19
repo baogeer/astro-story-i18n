@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة تانغ، ذهب وانغ يان 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-the-ferryman.png)
+![AstroPaper I18n](/the-legend-of-wang-the-ferryman.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Цзя Сидао, предательница Южной дина�
 
 
 
-![AstroPaper I18n](/public/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
+![AstroPaper I18n](/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
 
 
 

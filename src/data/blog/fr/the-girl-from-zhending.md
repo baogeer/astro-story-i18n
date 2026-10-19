@@ -8,7 +8,7 @@ description: "Une belle-fille de 67 ans doit être tombée enceinte après avoir
 
 
 
-![AstroPaper I18n](/public/the-girl-from-zhending.png)
+![AstroPaper I18n](/the-girl-from-zhending.png)
 
 
 

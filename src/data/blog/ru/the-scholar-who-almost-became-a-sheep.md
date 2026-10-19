@@ -8,7 +8,7 @@ description: "Некий герцог из Шэньси вспоминает с�
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-almost-became-a-sheep.png)
+![AstroPaper I18n](/the-scholar-who-almost-became-a-sheep.png)
 
 
 

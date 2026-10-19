@@ -8,7 +8,7 @@ description: "Le propriétaire de l'hôtel, Leung Ka-chu, a passé dix ans à ch
 
 
 
-![AstroPaper I18n](/public/the-spring-source-inn.png)
+![AstroPaper I18n](/the-spring-source-inn.png)
 
 
 

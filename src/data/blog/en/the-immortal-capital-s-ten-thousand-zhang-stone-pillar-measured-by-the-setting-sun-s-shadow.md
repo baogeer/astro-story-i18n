@@ -8,7 +8,7 @@ description: "Fan Xianke, an official from Jinyun in the Ming dynasty, presented
 
 
 
-![AstroPaper I18n](/public/the-immortal-capital-s-ten-thousand-zhang-stone-pillar-measured-by-the-setting-sun-s-shadow.png)
+![AstroPaper I18n](/the-immortal-capital-s-ten-thousand-zhang-stone-pillar-measured-by-the-setting-sun-s-shadow.png)
 
 
 

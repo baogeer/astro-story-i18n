@@ -8,7 +8,7 @@ description: "Debido a su hermosa madre, fue degradada por el Emperador de Jade.
 
 
 
-![AstroPaper I18n](/public/the-butterfly-fairy.png)
+![AstroPaper I18n](/the-butterfly-fairy.png)
 
 
 

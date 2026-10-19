@@ -8,7 +8,7 @@ description: "Érase una vez, tuve dos hermanos. Uno era Qin, que estaba dispues
 
 
 
-![AstroPaper I18n](/public/the-tale-of-diligence-and-thrift.png)
+![AstroPaper I18n](/the-tale-of-diligence-and-thrift.png)
 
 
 

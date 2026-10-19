@@ -8,7 +8,7 @@ description: "El monje loco salvó a la gente del pueblo frente al templo Lingyi
 
 
 
-![AstroPaper I18n](/public/the-peak-that-flew-from-afar.png)
+![AstroPaper I18n](/the-peak-that-flew-from-afar.png)
 
 
 

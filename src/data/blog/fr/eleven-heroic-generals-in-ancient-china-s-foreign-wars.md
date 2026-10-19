@@ -8,7 +8,7 @@ description: "Onze généraux exceptionnels pour combattre des ennemis étranger
 
 
 
-![AstroPaper I18n](/public/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
+![AstroPaper I18n](/eleven-heroic-generals-in-ancient-china-s-foreign-wars.png)
 
 
 

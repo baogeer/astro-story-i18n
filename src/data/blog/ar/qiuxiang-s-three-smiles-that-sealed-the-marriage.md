@@ -8,7 +8,7 @@ description: "ابتسم تانغ بوهو، الابن الموهوب لجيا�
 
 
 
-![AstroPaper I18n](/public/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
+![AstroPaper I18n](/qiuxiang-s-three-smiles-that-sealed-the-marriage.png)
 
 
 

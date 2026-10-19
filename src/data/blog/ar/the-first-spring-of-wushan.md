@@ -8,7 +8,7 @@ description: "كانت هانغتشو جافة وبدون مطر لفترة طو
 
 
 
-![AstroPaper I18n](/public/the-first-spring-of-wushan.png)
+![AstroPaper I18n](/the-first-spring-of-wushan.png)
 
 
 

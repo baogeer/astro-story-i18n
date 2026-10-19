@@ -8,7 +8,7 @@ description: "Джуранг и ее мать полюбили друг друг
 
 
 
-![AstroPaper I18n](/public/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
+![AstroPaper I18n](/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
 
 
 

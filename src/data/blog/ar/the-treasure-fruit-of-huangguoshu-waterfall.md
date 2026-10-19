@@ -8,7 +8,7 @@ description: "قام الرجل العجوز بزراعة 100 شجرة فاكه�
 
 
 
-![AstroPaper I18n](/public/the-treasure-fruit-of-huangguoshu-waterfall.png)
+![AstroPaper I18n](/the-treasure-fruit-of-huangguoshu-waterfall.png)
 
 
 

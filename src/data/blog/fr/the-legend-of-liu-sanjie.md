@@ -8,7 +8,7 @@ description: "Sœur Liu était une chanteuse de la dynastie Zhuang. Elle a chant
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie.png)
 
 
 

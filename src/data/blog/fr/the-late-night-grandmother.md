@@ -8,7 +8,7 @@ description: "Je suis restée chez un ami tard dans la nuit, et pendant que je p
 
 
 
-![AstroPaper I18n](/public/the-late-night-grandmother.png)
+![AstroPaper I18n](/the-late-night-grandmother.png)
 
 
 

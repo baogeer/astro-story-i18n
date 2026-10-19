@@ -8,7 +8,7 @@ description: "Ah San, le troisième fils d'un vieil ouvrier Miao, a quitté la m
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-san-the-miao-king.png)
+![AstroPaper I18n](/the-story-of-a-san-the-miao-king.png)
 
 
 

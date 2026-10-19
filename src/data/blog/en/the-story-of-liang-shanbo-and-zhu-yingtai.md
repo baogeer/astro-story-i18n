@@ -8,7 +8,7 @@ description: "Eastern Jin, Zhu Yingtai, studied in the same style as a man. He w
 
 
 
-![AstroPaper I18n](/public/the-story-of-liang-shanbo-and-zhu-yingtai.png)
+![AstroPaper I18n](/the-story-of-liang-shanbo-and-zhu-yingtai.png)
 
 
 

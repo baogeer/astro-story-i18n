@@ -8,7 +8,7 @@ description: "La mère de Wang et Wang Laohan ont construit un pont en bois et i
 
 
 
-![AstroPaper I18n](/public/the-story-of-mother-wang-s-bridge.png)
+![AstroPaper I18n](/the-story-of-mother-wang-s-bridge.png)
 
 
 

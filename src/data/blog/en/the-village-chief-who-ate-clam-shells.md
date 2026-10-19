@@ -8,7 +8,7 @@ description: "Mountain people and village chiefs went on a trip for the first ti
 
 
 
-![AstroPaper I18n](/public/the-village-chief-who-ate-clam-shells.png)
+![AstroPaper I18n](/the-village-chief-who-ate-clam-shells.png)
 
 
 

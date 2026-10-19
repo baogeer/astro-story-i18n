@@ -8,7 +8,7 @@ description: "La ribera del río Amarillo reúne modismos y leyendas como el pil
 
 
 
-![AstroPaper I18n](/public/idioms-and-poems-of-the-yellow-river.png)
+![AstroPaper I18n](/idioms-and-poems-of-the-yellow-river.png)
 
 
 

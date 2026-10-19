@@ -8,7 +8,7 @@ description: "Dendrobium, Ma Bao et Snake sont nés à une époque troublée. Il
 
 
 
-![AstroPaper I18n](/public/bao-shezi-the-wanhu-bandit.png)
+![AstroPaper I18n](/bao-shezi-the-wanhu-bandit.png)
 
 
 

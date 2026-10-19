@@ -8,7 +8,7 @@ description: "Агутомба был молодым слугой, и вождь
 
 
 
-![AstroPaper I18n](/public/agu-dunba-stories-blow-on-me.png)
+![AstroPaper I18n](/agu-dunba-stories-blow-on-me.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Las tortugas tontas quieren monopolizar la sabiduría del mundo, e
 
 
 
-![AstroPaper I18n](/public/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
+![AstroPaper I18n](/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
 
 
 

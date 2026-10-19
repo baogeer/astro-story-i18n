@@ -8,7 +8,7 @@ description: "رأى الإمبراطور جايد الابن الأكبر لم�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-great-wall-passes.png)
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Семья Мудана живет под горой Лунмэн�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-peony-spring.png)
+![AstroPaper I18n](/the-legend-of-peony-spring.png)
 
 
 

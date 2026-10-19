@@ -8,7 +8,7 @@ description: "Au cœur des montagnes de l'ouest du Xiangxi, les deux sœurs se s
 
 
 
-![AstroPaper I18n](/public/the-clever-girl-and-the-bear-granny.png)
+![AstroPaper I18n](/the-clever-girl-and-the-bear-granny.png)
 
 
 

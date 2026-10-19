@@ -8,7 +8,7 @@ description: "Lorsque les pigeons mâles ont vu les fruits d'automne disparaîtr
 
 
 
-![AstroPaper I18n](/public/the-pigeon-who-killed-his-wife.png)
+![AstroPaper I18n](/the-pigeon-who-killed-his-wife.png)
 
 
 

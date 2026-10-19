@@ -8,7 +8,7 @@ description: "Li Shizhen conoció a un hombre que afirmaba tener una extraña en
 
 
 
-![AstroPaper I18n](/public/li-shizhen-s-clever-cure-for-a-stubborn-illness.png)
+![AstroPaper I18n](/li-shizhen-s-clever-cure-for-a-stubborn-illness.png)
 
 
 

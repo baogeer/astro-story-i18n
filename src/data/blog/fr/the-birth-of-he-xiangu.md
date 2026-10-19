@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Yuan et au début de la dynastie Ming, Li
 
 
 
-![AstroPaper I18n](/public/the-birth-of-he-xiangu.png)
+![AstroPaper I18n](/the-birth-of-he-xiangu.png)
 
 
 

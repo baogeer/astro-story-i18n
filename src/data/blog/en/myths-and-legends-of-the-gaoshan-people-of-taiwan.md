@@ -8,7 +8,7 @@ description: "In ancient times, the Alpine people in Taiwan had no written words
 
 
 
-![AstroPaper I18n](/public/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
+![AstroPaper I18n](/myths-and-legends-of-the-gaoshan-people-of-taiwan.png)
 
 
 

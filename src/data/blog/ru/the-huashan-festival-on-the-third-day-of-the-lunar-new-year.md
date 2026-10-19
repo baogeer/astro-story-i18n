@@ -8,7 +8,7 @@ description: "Фестиваль Хуашань — это традиционн�
 
 
 
-![AstroPaper I18n](/public/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
+![AstroPaper I18n](/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In order to avenge her brother, the wild cat pretended to befriend
 
 
 
-![AstroPaper I18n](/public/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
+![AstroPaper I18n](/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
 
 
 

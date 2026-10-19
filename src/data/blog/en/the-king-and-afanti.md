@@ -8,7 +8,7 @@ description: "The king and Avanti spent the night hunting in the valley. The kin
 
 
 
-![AstroPaper I18n](/public/the-king-and-afanti.png)
+![AstroPaper I18n](/the-king-and-afanti.png)
 
 
 

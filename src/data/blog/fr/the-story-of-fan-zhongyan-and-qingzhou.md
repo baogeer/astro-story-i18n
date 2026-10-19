@@ -8,7 +8,7 @@ description: "Au cours de ses dernières années, Fan Zhongyuan n'a été respon
 
 
 
-![AstroPaper I18n](/public/the-story-of-fan-zhongyan-and-qingzhou.png)
+![AstroPaper I18n](/the-story-of-fan-zhongyan-and-qingzhou.png)
 
 
 

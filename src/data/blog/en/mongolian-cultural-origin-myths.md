@@ -8,7 +8,7 @@ description: "In the mythology of the origin of Mongolian culture, swallows stol
 
 
 
-![AstroPaper I18n](/public/mongolian-cultural-origin-myths.png)
+![AstroPaper I18n](/mongolian-cultural-origin-myths.png)
 
 
 

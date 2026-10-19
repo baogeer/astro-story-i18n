@@ -8,7 +8,7 @@ description: "Liang Shanbo visited friends and learned that Zhu Yingtai is a wom
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-butterfly-lovers.png)
+![AstroPaper I18n](/the-legend-of-the-butterfly-lovers.png)
 
 
 

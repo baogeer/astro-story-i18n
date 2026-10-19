@@ -8,7 +8,7 @@ description: "В анекдотах о пионах собрано множес�
 
 
 
-![AstroPaper I18n](/public/peony-anecdotes.png)
+![AstroPaper I18n](/peony-anecdotes.png)
 
 
 

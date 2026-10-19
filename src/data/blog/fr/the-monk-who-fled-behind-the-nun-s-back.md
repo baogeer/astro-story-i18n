@@ -8,7 +8,7 @@ description: "Le moine n'a pas respecté les règles du Bouddha et s'est enfui s
 
 
 
-![AstroPaper I18n](/public/the-monk-who-fled-behind-the-nun-s-back.png)
+![AstroPaper I18n](/the-monk-who-fled-behind-the-nun-s-back.png)
 
 
 

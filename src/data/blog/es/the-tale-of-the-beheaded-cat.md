@@ -8,7 +8,7 @@ description: "Cuando el monje Hui Kong vio a los monjes de las dos casas discuti
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-beheaded-cat.png)
+![AstroPaper I18n](/the-tale-of-the-beheaded-cat.png)
 
 
 

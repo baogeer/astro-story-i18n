@@ -8,7 +8,7 @@ description: "Молодой фехтовальщик усердно отраб�
 
 
 
-![AstroPaper I18n](/public/the-ancient-sword.png)
+![AstroPaper I18n](/the-ancient-sword.png)
 
 
 

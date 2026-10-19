@@ -8,7 +8,7 @@ description: "حارب علي النمر لإنقاذ الجنيات، وأصا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-alishan-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-legend-of-alishan-a-taiwanese-folktale.png)
 
 
 

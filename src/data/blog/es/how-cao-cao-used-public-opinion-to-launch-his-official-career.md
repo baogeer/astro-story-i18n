@@ -8,7 +8,7 @@ description: "Bajo la fuerte cultura de empleo de la dinastía Han, los personaj
 
 
 
-![AstroPaper I18n](/public/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
+![AstroPaper I18n](/how-cao-cao-used-public-opinion-to-launch-his-official-career.png)
 
 
 

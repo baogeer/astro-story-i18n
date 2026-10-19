@@ -8,7 +8,7 @@ description: "يجمع Ouyang Xiu بين السياسة والأدب والأك�
 
 
 
-![AstroPaper I18n](/public/ouyang-xiu-and-the-life-of-song-dynasty-scholar-officials.png)
+![AstroPaper I18n](/ouyang-xiu-and-the-life-of-song-dynasty-scholar-officials.png)
 
 
 

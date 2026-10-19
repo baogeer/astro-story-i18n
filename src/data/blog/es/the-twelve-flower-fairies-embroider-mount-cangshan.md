@@ -8,7 +8,7 @@ description: "En la antigüedad, los humanos hacían el mal. El Emperador de Jad
 
 
 
-![AstroPaper I18n](/public/the-twelve-flower-fairies-embroider-mount-cangshan.png)
+![AstroPaper I18n](/the-twelve-flower-fairies-embroider-mount-cangshan.png)
 
 
 

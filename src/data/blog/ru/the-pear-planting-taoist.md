@@ -8,7 +8,7 @@ description: "Соотечественники продают груши на б
 
 
 
-![AstroPaper I18n](/public/the-pear-planting-taoist.png)
+![AstroPaper I18n](/the-pear-planting-taoist.png)
 
 
 

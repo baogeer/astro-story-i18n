@@ -8,7 +8,7 @@ description: "بعد مداهمة منزل تشانغ جوزنغ، أضرب اب
 
 
 
-![AstroPaper I18n](/public/the-elixir-chamber.png)
+![AstroPaper I18n](/the-elixir-chamber.png)
 
 
 

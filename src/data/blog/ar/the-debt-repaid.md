@@ -8,7 +8,7 @@ description: "ترك جيانغ مانزي ناقلة نفط تحتوي على �
 
 
 
-![AstroPaper I18n](/public/the-debt-repaid.png)
+![AstroPaper I18n](/the-debt-repaid.png)
 
 
 

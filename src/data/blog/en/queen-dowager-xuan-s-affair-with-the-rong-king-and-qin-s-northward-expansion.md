@@ -8,7 +8,7 @@ description: "Queen Qin Zhaowang's mother, Empress Dowager Xuan (Mian Bazi), had
 
 
 
-![AstroPaper I18n](/public/queen-dowager-xuan-s-affair-with-the-rong-king-and-qin-s-northward-expansion.png)
+![AstroPaper I18n](/queen-dowager-xuan-s-affair-with-the-rong-king-and-qin-s-northward-expansion.png)
 
 
 

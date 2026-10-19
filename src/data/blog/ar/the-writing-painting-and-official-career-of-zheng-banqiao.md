@@ -8,7 +8,7 @@ description: "وُلد Zheng Banqiao فقيرًا وكان متعلمًا في �
 
 
 
-![AstroPaper I18n](/public/the-writing-painting-and-official-career-of-zheng-banqiao.png)
+![AstroPaper I18n](/the-writing-painting-and-official-career-of-zheng-banqiao.png)
 
 
 

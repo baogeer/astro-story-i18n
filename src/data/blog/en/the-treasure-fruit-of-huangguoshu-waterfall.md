@@ -8,7 +8,7 @@ description: "The old man planted 100 yellow fruit trees only produced one fruit
 
 
 
-![AstroPaper I18n](/public/the-treasure-fruit-of-huangguoshu-waterfall.png)
+![AstroPaper I18n](/the-treasure-fruit-of-huangguoshu-waterfall.png)
 
 
 

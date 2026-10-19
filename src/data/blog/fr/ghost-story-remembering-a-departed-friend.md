@@ -8,7 +8,7 @@ description: "Xiao Qiu et Xiao Ji se sont rencontrés au lycée et sont progress
 
 
 
-![AstroPaper I18n](/public/ghost-story-remembering-a-departed-friend.png)
+![AstroPaper I18n](/ghost-story-remembering-a-departed-friend.png)
 
 
 

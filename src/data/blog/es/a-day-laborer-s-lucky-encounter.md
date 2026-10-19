@@ -8,7 +8,7 @@ description: "Mientras trabajaba con Li Yu, Xiao Fei conoció a Wang Tao, una ma
 
 
 
-![AstroPaper I18n](/public/a-day-laborer-s-lucky-encounter.png)
+![AstroPaper I18n](/a-day-laborer-s-lucky-encounter.png)
 
 
 

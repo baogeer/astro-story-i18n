@@ -8,7 +8,7 @@ description: "ولد يانغ يوهوان في شودي وأصبح فيما ب�
 
 
 
-![AstroPaper I18n](/public/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
+![AstroPaper I18n](/yang-yuhuan-and-the-song-of-everlasting-sorrow.png)
 
 
 

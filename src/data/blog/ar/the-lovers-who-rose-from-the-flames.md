@@ -8,7 +8,7 @@ description: "وقع صيادو ياو غان سونغ في حب تشن فنغ. 
 
 
 
-![AstroPaper I18n](/public/the-lovers-who-rose-from-the-flames.png)
+![AstroPaper I18n](/the-lovers-who-rose-from-the-flames.png)
 
 
 

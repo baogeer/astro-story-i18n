@@ -8,7 +8,7 @@ description: "Агутомба переоделся в режиссёра и п�
 
 
 
-![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+![AstroPaper I18n](/akhu-tonpa-and-the-wedding-night.png)
 
 
 

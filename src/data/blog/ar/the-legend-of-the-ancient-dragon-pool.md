@@ -8,7 +8,7 @@ description: "أغرت أسطورة زائفة عن اعتراف ميزوجين 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ancient-dragon-pool.png)
+![AstroPaper I18n](/the-legend-of-the-ancient-dragon-pool.png)
 
 
 

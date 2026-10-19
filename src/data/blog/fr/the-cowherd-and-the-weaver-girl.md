@@ -8,7 +8,7 @@ description: "Le vacher passait ses journées seul et les tisserands s'entraidai
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl.png)
 
 
 

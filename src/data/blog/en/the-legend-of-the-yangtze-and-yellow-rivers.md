@@ -8,7 +8,7 @@ description: "In ancient times, the Blue and Yellow Dragons were turned into mon
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-and-yellow-rivers.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-and-yellow-rivers.png)
 
 
 

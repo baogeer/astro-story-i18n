@@ -8,7 +8,7 @@ description: "El Festival de la Madre Hani proviene de una viuda que trabajó du
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-mother-worship-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-mother-worship-festival.png)
 
 
 

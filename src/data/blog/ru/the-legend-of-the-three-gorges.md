@@ -8,7 +8,7 @@ description: "Гуаньинь, Любань и Цинь Шихуанди за �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-gorges.png)
+![AstroPaper I18n](/the-legend-of-the-three-gorges.png)
 
 
 

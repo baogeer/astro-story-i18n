@@ -8,7 +8,7 @@ description: "Во время войны в конце правления дин
 
 
 
-![AstroPaper I18n](/public/choosing-a-son-in-law-in-turbulent-times.png)
+![AstroPaper I18n](/choosing-a-son-in-law-in-turbulent-times.png)
 
 
 

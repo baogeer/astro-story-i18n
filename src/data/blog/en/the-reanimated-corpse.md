@@ -8,7 +8,7 @@ description: "The four drivers stayed overnight in the morgue. The female corpse
 
 
 
-![AstroPaper I18n](/public/the-reanimated-corpse.png)
+![AstroPaper I18n](/the-reanimated-corpse.png)
 
 
 

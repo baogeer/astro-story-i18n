@@ -8,7 +8,7 @@ description: "ذهب أمير سافالون بعيدًا بحثًا عن محظ
 
 
 
-![AstroPaper I18n](/public/the-black-faced-prince.png)
+![AstroPaper I18n](/the-black-faced-prince.png)
 
 
 

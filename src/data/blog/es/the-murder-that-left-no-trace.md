@@ -8,7 +8,7 @@ description: "John y su esposa Lily idearon un complot para usar al antiguo aman
 
 
 
-![AstroPaper I18n](/public/the-murder-that-left-no-trace.png)
+![AstroPaper I18n](/the-murder-that-left-no-trace.png)
 
 
 

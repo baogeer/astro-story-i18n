@@ -8,7 +8,7 @@ description: "La jeune fille de l'ethnie Buyei, douée pour le batik, était gra
 
 
 
-![AstroPaper I18n](/public/the-bouyei-folk-tale-of-the-fern-sprout.png)
+![AstroPaper I18n](/the-bouyei-folk-tale-of-the-fern-sprout.png)
 
 
 

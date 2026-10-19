@@ -8,7 +8,7 @@ description: "ذهب شيانغ كاي كو للتسوق مع والده شيا�
 
 
 
-![AstroPaper I18n](/public/an-anecdote-of-chiang-kai-shek-and-his-son.png)
+![AstroPaper I18n](/an-anecdote-of-chiang-kai-shek-and-his-son.png)
 
 
 

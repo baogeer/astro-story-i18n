@@ -8,7 +8,7 @@ description: "Когда-то жена-иностранка сотрудника
 
 
 
-![AstroPaper I18n](/public/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
+![AstroPaper I18n](/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
 
 
 

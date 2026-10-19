@@ -8,7 +8,7 @@ description: "كان لدى Tianxin Zhaizi في الأصل نبع نظيف مذ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-sand-well.png)
+![AstroPaper I18n](/the-legend-of-the-white-sand-well.png)
 
 
 

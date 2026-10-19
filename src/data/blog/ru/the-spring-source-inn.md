@@ -8,7 +8,7 @@ description: "Владелец отеля Люн Ка-чу потратил де
 
 
 
-![AstroPaper I18n](/public/the-spring-source-inn.png)
+![AstroPaper I18n](/the-spring-source-inn.png)
 
 
 

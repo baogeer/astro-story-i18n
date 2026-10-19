@@ -8,7 +8,7 @@ description: "Мастер Шэнконг из династии Тан посе�
 
 
 
-![AstroPaper I18n](/public/the-dream-of-the-tiger-spring.png)
+![AstroPaper I18n](/the-dream-of-the-tiger-spring.png)
 
 
 

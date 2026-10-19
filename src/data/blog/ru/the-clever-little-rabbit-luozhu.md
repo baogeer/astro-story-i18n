@@ -8,7 +8,7 @@ description: "На пастбищах реки Брахмапутра Ло Чж�
 
 
 
-![AstroPaper I18n](/public/the-clever-little-rabbit-luozhu.png)
+![AstroPaper I18n](/the-clever-little-rabbit-luozhu.png)
 
 
 

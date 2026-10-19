@@ -8,7 +8,7 @@ description: "En la antigüedad, había seis soles en el cielo y el calor de la 
 
 
 
-![AstroPaper I18n](/public/the-man-who-shot-down-five-suns.png)
+![AstroPaper I18n](/the-man-who-shot-down-five-suns.png)
 
 
 

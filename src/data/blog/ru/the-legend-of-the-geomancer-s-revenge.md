@@ -8,7 +8,7 @@ description: "В годы правления династии Цин богат�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-revenge.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-revenge.png)
 
 
 

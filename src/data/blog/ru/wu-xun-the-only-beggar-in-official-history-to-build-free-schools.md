@@ -8,7 +8,7 @@ description: "У Сюнь с детства занимался попрошай�
 
 
 
-![AstroPaper I18n](/public/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
+![AstroPaper I18n](/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
 
 
 

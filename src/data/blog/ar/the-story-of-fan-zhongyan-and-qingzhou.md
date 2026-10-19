@@ -8,7 +8,7 @@ description: "في سنواته الأخيرة، كان فان تشونغيوا�
 
 
 
-![AstroPaper I18n](/public/the-story-of-fan-zhongyan-and-qingzhou.png)
+![AstroPaper I18n](/the-story-of-fan-zhongyan-and-qingzhou.png)
 
 
 

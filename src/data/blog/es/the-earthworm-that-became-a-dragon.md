@@ -8,7 +8,7 @@ description: "Lee Kin-cheong salvó a un dragón y le dio orbes para devolverle 
 
 
 
-![AstroPaper I18n](/public/the-earthworm-that-became-a-dragon.png)
+![AstroPaper I18n](/the-earthworm-that-became-a-dragon.png)
 
 
 

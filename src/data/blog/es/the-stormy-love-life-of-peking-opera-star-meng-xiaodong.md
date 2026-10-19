@@ -8,7 +8,7 @@ description: "Meng Xiaodong, kun de ópera de Pekín, tiene ambas habilidades ar
 
 
 
-![AstroPaper I18n](/public/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
+![AstroPaper I18n](/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
 
 
 

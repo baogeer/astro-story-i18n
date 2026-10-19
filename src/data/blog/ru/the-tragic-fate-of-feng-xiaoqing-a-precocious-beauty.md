@@ -8,7 +8,7 @@ description: "Фэн Сяоцин был достаточно умен, чтоб
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
+![AstroPaper I18n](/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
 
 
 

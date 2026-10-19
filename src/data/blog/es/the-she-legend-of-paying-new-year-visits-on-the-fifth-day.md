@@ -8,7 +8,7 @@ description: "El joven grupo étnico Shes tuvo dolor de estómago en su segundo 
 
 
 
-![AstroPaper I18n](/public/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
+![AstroPaper I18n](/the-she-legend-of-paying-new-year-visits-on-the-fifth-day.png)
 
 
 

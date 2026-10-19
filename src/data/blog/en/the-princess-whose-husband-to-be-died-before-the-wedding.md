@@ -8,7 +8,7 @@ description: "Princess Lone Stone rescued a man who was hunted down on her way b
 
 
 
-![AstroPaper I18n](/public/the-princess-whose-husband-to-be-died-before-the-wedding.png)
+![AstroPaper I18n](/the-princess-whose-husband-to-be-died-before-the-wedding.png)
 
 
 

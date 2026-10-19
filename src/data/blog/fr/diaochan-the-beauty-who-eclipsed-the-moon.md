@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Han de l'Est, Dong Zhuo était autori
 
 
 
-![AstroPaper I18n](/public/diaochan-the-beauty-who-eclipsed-the-moon.png)
+![AstroPaper I18n](/diaochan-the-beauty-who-eclipsed-the-moon.png)
 
 
 

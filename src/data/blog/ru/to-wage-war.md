@@ -8,7 +8,7 @@ description: "В годы Цзяцина в Сянъяне свирепство�
 
 
 
-![AstroPaper I18n](/public/to-wage-war.png)
+![AstroPaper I18n](/to-wage-war.png)
 
 
 

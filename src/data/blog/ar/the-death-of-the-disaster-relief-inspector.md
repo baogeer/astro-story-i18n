@@ -8,7 +8,7 @@ description: "خلال سنوات تشينغ جياكينغ، يفيض النه�
 
 
 
-![AstroPaper I18n](/public/the-death-of-the-disaster-relief-inspector.png)
+![AstroPaper I18n](/the-death-of-the-disaster-relief-inspector.png)
 
 
 

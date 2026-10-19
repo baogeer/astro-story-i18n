@@ -8,7 +8,7 @@ description: "Когда мать Ло Сяокая умерла, его уни�
 
 
 
-![AstroPaper I18n](/public/luo-xiaocai-sues-the-bully-zuo-huchao.png)
+![AstroPaper I18n](/luo-xiaocai-sues-the-bully-zuo-huchao.png)
 
 
 

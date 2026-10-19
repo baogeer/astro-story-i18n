@@ -8,7 +8,7 @@ description: "Семья Чэнь Цзячжуана и Чэнь Юаньвая 
 
 
 
-![AstroPaper I18n](/public/the-scholarly-family.png)
+![AstroPaper I18n](/the-scholarly-family.png)
 
 
 

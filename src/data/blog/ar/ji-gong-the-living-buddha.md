@@ -8,7 +8,7 @@ description: "كان بوذا الحي لجي غونغ في الأصل لي شي
 
 
 
-![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+![AstroPaper I18n](/ji-gong-the-living-buddha.png)
 
 
 

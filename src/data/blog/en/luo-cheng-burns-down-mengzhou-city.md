@@ -8,7 +8,7 @@ description: "Luo Cheng led the Wa Gang army to fight with Mengzhou city guard Z
 
 
 
-![AstroPaper I18n](/public/luo-cheng-burns-down-mengzhou-city.png)
+![AstroPaper I18n](/luo-cheng-burns-down-mengzhou-city.png)
 
 
 

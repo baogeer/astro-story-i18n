@@ -8,7 +8,7 @@ description: "В годы правления Цин Цзяцина произо�
 
 
 
-![AstroPaper I18n](/public/the-death-of-the-disaster-relief-inspector.png)
+![AstroPaper I18n](/the-death-of-the-disaster-relief-inspector.png)
 
 
 

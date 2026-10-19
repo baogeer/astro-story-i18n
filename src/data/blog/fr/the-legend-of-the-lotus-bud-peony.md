@@ -8,7 +8,7 @@ description: "La fille d'un cultivateur de fleurs, Chun Rui, tombe amoureuse de 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-bud-peony.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-bud-peony.png)
 
 
 

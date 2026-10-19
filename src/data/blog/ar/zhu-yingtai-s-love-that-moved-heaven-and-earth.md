@@ -8,7 +8,7 @@ description: "ذهبت تشو ينغتاي، وهي أنثى ترتدي زي ر�
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-s-love-that-moved-heaven-and-earth.png)
+![AstroPaper I18n](/zhu-yingtai-s-love-that-moved-heaven-and-earth.png)
 
 
 

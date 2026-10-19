@@ -8,7 +8,7 @@ description: "Lu Xiucai, originaire du Guangdong sous la dynastie des Song du Su
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-scholar-who-divorced-his-wife.png)
 
 
 

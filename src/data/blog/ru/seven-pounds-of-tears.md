@@ -8,7 +8,7 @@ description: "Фею Хуа Эр по ошибке унизили делать �
 
 
 
-![AstroPaper I18n](/public/seven-pounds-of-tears.png)
+![AstroPaper I18n](/seven-pounds-of-tears.png)
 
 
 

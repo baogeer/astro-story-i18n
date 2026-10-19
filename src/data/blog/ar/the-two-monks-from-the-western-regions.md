@@ -8,7 +8,7 @@ description: "واجه اثنان من الرهبان الغربيين صعوب�
 
 
 
-![AstroPaper I18n](/public/the-two-monks-from-the-western-regions.png)
+![AstroPaper I18n](/the-two-monks-from-the-western-regions.png)
 
 
 

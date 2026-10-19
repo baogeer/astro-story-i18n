@@ -8,7 +8,7 @@ description: "Li Sheng de Caozhou quemó hasta la muerte a toda la familia de la
 
 
 
-![AstroPaper I18n](/public/the-king-of-the-nine-mountains.png)
+![AstroPaper I18n](/the-king-of-the-nine-mountains.png)
 
 
 

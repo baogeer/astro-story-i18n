@@ -8,7 +8,7 @@ description: "A widow, Yu Niang, raised her daughter Harutsuki alone to study. H
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yu-niang-of-huizhou.png)
+![AstroPaper I18n](/the-tale-of-yu-niang-of-huizhou.png)
 
 
 

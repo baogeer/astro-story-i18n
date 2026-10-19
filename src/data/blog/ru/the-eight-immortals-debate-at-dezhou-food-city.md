@@ -8,7 +8,7 @@ description: "Восемь бессмертных отправились в не
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-debate-at-dezhou-food-city.png)
+![AstroPaper I18n](/the-eight-immortals-debate-at-dezhou-food-city.png)
 
 
 

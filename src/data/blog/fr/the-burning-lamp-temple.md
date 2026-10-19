@@ -8,7 +8,7 @@ description: "Hui Ming a emmené tous les moines au temple de Tianning. En cours
 
 
 
-![AstroPaper I18n](/public/the-burning-lamp-temple.png)
+![AstroPaper I18n](/the-burning-lamp-temple.png)
 
 
 

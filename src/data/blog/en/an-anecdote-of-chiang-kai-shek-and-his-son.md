@@ -8,7 +8,7 @@ description: "Chiang Kai-kuo went shopping with his father Chiang Kai-shek and s
 
 
 
-![AstroPaper I18n](/public/an-anecdote-of-chiang-kai-shek-and-his-son.png)
+![AstroPaper I18n](/an-anecdote-of-chiang-kai-shek-and-his-son.png)
 
 
 

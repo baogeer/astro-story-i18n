@@ -8,7 +8,7 @@ description: "The Black Dragon's evil caused the lake to dry up, but when the dr
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-cave.png)
+![AstroPaper I18n](/the-white-dragon-cave.png)
 
 
 

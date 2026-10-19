@@ -8,7 +8,7 @@ description: "Emperor Han and Zhao Empress Shangguan was sent to the palace to b
 
 
 
-![AstroPaper I18n](/public/the-only-child-bride-empress-in-chinese-history.png)
+![AstroPaper I18n](/the-only-child-bride-empress-in-chinese-history.png)
 
 
 

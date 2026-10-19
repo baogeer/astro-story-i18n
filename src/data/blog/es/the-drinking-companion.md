@@ -8,7 +8,7 @@ description: "El conductor del automóvil era adicto al alcohol, y cuando robaba
 
 
 
-![AstroPaper I18n](/public/the-drinking-companion.png)
+![AstroPaper I18n](/the-drinking-companion.png)
 
 
 

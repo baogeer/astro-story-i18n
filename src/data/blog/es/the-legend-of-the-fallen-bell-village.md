@@ -8,7 +8,7 @@ description: "La aldea de Zhong Luo originalmente se conocía como la aldea de X
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-fallen-bell-village.png)
+![AstroPaper I18n](/the-legend-of-the-fallen-bell-village.png)
 
 
 

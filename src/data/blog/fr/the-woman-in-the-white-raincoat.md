@@ -8,7 +8,7 @@ description: "Un jour de pluie de mon enfance, mon partenaire et moi jouions dan
 
 
 
-![AstroPaper I18n](/public/the-woman-in-the-white-raincoat.png)
+![AstroPaper I18n](/the-woman-in-the-white-raincoat.png)
 
 
 

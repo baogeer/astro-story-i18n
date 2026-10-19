@@ -8,7 +8,7 @@ description: "غالبًا ما اختار الضريح الإمبراطوري �
 
 
 
-![AstroPaper I18n](/public/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
+![AstroPaper I18n](/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
 
 
 

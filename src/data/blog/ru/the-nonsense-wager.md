@@ -8,7 +8,7 @@ description: "Все трое согласились не вдаваться в 
 
 
 
-![AstroPaper I18n](/public/the-nonsense-wager.png)
+![AstroPaper I18n](/the-nonsense-wager.png)
 
 
 

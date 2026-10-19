@@ -8,7 +8,7 @@ description: "Ученый Лю Яньчан влюбился в трех бла
 
 
 
-![AstroPaper I18n](/public/the-lotus-lantern-splitting-the-mountain-to-save-his-mother.png)
+![AstroPaper I18n](/the-lotus-lantern-splitting-the-mountain-to-save-his-mother.png)
 
 
 

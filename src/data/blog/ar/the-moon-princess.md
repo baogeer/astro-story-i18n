@@ -8,7 +8,7 @@ description: "تتمتع الأميرات الثلاث لنهر خان القا�
 
 
 
-![AstroPaper I18n](/public/the-moon-princess.png)
+![AstroPaper I18n](/the-moon-princess.png)
 
 
 

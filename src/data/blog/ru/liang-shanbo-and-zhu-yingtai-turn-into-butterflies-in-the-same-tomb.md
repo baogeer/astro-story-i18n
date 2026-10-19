@@ -8,7 +8,7 @@ description: "Лян Шанбо из Западного Цзиня подруж�
 
 
 
-![AstroPaper I18n](/public/liang-shanbo-and-zhu-yingtai-turn-into-butterflies-in-the-same-tomb.png)
+![AstroPaper I18n](/liang-shanbo-and-zhu-yingtai-turn-into-butterflies-in-the-same-tomb.png)
 
 
 

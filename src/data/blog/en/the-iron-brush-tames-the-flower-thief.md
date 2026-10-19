@@ -8,7 +8,7 @@ description: "“Iron Pen Flower Thief” tells the story of an amazing person w
 
 
 
-![AstroPaper I18n](/public/the-iron-brush-tames-the-flower-thief.png)
+![AstroPaper I18n](/the-iron-brush-tames-the-flower-thief.png)
 
 
 

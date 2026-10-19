@@ -8,7 +8,7 @@ description: "Big Kou y Little Kou son dos personas tacañas. Cuando Little Kou 
 
 
 
-![AstroPaper I18n](/public/the-miserly-cousins.png)
+![AstroPaper I18n](/the-miserly-cousins.png)
 
 
 

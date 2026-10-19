@@ -8,7 +8,7 @@ description: "La señora Huarui era la concubina favorita del posterior señor S
 
 
 
-![AstroPaper I18n](/public/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
+![AstroPaper I18n](/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
 
 
 

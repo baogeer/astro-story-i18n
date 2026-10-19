@@ -8,7 +8,7 @@ description: "Después de que Pangu fuera pionero en el mundo, se convirtieron e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-pangu.png)
+![AstroPaper I18n](/the-legend-of-pangu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بان وفو دولونغ: هناك تنين أصلع قبيح و
 
 
 
-![AstroPaper I18n](/public/pan-he-subdues-the-bald-dragon.png)
+![AstroPaper I18n](/pan-he-subdues-the-bald-dragon.png)
 
 
 

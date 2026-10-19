@@ -8,7 +8,7 @@ description: "Ah Long, une jeune ethnie Yi, est gentille et filiale. Huanglong T
 
 
 
-![AstroPaper I18n](/public/the-magic-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-magic-gourd-a-yangbi-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "À l'époque de Qing Xianfeng, le samouraï Dazhen a été trompé
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-one-eyed-hero.png)
+![AstroPaper I18n](/the-legend-of-the-one-eyed-hero.png)
 
 
 

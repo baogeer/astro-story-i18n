@@ -8,7 +8,7 @@ description: "Cui Yingying conoció a Zhang Sheng y tuvo un matrimonio por el re
 
 
 
-![AstroPaper I18n](/public/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
+![AstroPaper I18n](/cui-yingying-and-du-liniang-which-one-is-closer-to-love.png)
 
 
 

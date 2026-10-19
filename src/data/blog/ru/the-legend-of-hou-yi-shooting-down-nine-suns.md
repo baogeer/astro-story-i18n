@@ -8,7 +8,7 @@ description: "Девять из двенадцати сыновей импера
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hou-yi-shooting-down-nine-suns.png)
+![AstroPaper I18n](/the-legend-of-hou-yi-shooting-down-nine-suns.png)
 
 
 

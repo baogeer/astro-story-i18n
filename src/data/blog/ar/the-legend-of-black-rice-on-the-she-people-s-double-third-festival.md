@@ -8,7 +8,7 @@ description: "سرق مالك الجبل الحبوب، واستعاد لان ت
 
 
 
-![AstroPaper I18n](/public/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-black-rice-on-the-she-people-s-double-third-festival.png)
 
 
 

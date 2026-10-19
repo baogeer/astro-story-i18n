@@ -8,7 +8,7 @@ description: "Sous l'emprise de l'idée de chasteté, les anciennes veuves ont t
 
 
 
-![AstroPaper I18n](/public/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
+![AstroPaper I18n](/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le professeur Oteris s'est enfoncé dans la jungle pour prouver qu
 
 
 
-![AstroPaper I18n](/public/the-search-for-the-amazon-anaconda.png)
+![AstroPaper I18n](/the-search-for-the-amazon-anaconda.png)
 
 
 

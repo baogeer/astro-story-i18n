@@ -8,7 +8,7 @@ description: "Яо Цзи привел на трон 11 фей, чтобы по�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-peak.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-peak.png)
 
 
 

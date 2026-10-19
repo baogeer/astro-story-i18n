@@ -8,7 +8,7 @@ description: "La esposa de Solangazi, Sheba Zhuo, era deliciosa y perezosa, y ta
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-ox-the-donkey-the-rooster-and-the-couple.png)
+![AstroPaper I18n](/the-story-of-the-ox-the-donkey-the-rooster-and-the-couple.png)
 
 
 

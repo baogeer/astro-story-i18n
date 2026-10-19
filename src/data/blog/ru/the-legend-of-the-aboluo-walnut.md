@@ -8,7 +8,7 @@ description: "Ах Бао страдает странной болезнью. С
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-aboluo-walnut.png)
+![AstroPaper I18n](/the-legend-of-the-aboluo-walnut.png)
 
 
 

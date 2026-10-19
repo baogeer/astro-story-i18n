@@ -8,7 +8,7 @@ description: "He Long disguised himself as a farmer and moved from Honghu Wharf 
 
 
 
-![AstroPaper I18n](/public/he-long-s-clever-crossing-of-the-enemy-checkpoint.png)
+![AstroPaper I18n](/he-long-s-clever-crossing-of-the-enemy-checkpoint.png)
 
 
 

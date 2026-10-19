@@ -8,7 +8,7 @@ description: "Le bodhisattva Kannon a ordonné aux macaques de s'entraîner dans
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-monkey-becoming-human.png)
+![AstroPaper I18n](/the-legend-of-the-monkey-becoming-human.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In the folk tale of the Yi tribe of Yangyi, disasters continue to 
 
 
 
-![AstroPaper I18n](/public/how-the-village-of-heidamo-got-its-name.png)
+![AstroPaper I18n](/how-the-village-of-heidamo-got-its-name.png)
 
 
 

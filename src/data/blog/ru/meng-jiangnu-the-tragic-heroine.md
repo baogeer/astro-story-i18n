@@ -8,7 +8,7 @@ description: "Она вышла замуж за Мэн Цзяна, когда В
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-the-tragic-heroine.png)
+![AstroPaper I18n](/meng-jiangnu-the-tragic-heroine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "У Шэнь Чжэньчжу есть таланты и давни
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+![AstroPaper I18n](/the-legend-of-shen-zhenzhu.png)
 
 
 

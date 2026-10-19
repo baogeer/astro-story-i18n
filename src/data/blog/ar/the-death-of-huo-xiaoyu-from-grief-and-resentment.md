@@ -8,7 +8,7 @@ description: "كانت Huo Xiaoyu في الأصل ابنة الملك Huo، وك
 
 
 
-![AstroPaper I18n](/public/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
+![AstroPaper I18n](/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
 
 
 

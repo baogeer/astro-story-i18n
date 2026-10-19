@@ -8,7 +8,7 @@ description: "Xu Wenchang has been smart since childhood: his uncle asked him to
 
 
 
-![AstroPaper I18n](/public/three-witty-stories-of-xu-wenchang.png)
+![AstroPaper I18n](/three-witty-stories-of-xu-wenchang.png)
 
 
 

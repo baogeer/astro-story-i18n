@@ -8,7 +8,7 @@ description: "The monk did not abide by the Buddha's rules and fled without perm
 
 
 
-![AstroPaper I18n](/public/the-monk-who-fled-behind-the-nun-s-back.png)
+![AstroPaper I18n](/the-monk-who-fled-behind-the-nun-s-back.png)
 
 
 

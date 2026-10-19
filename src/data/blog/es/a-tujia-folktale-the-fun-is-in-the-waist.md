@@ -8,7 +8,7 @@ description: "Cher, la hija de un tesorero de Shinan Futian de la dinastía Qing
 
 
 
-![AstroPaper I18n](/public/a-tujia-folktale-the-fun-is-in-the-waist.png)
+![AstroPaper I18n](/a-tujia-folktale-the-fun-is-in-the-waist.png)
 
 
 

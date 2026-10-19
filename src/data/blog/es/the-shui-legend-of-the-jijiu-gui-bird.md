@@ -8,7 +8,7 @@ description: "El pobre Dragón y Serpiente de Acuario ayudaron a superar las dif
 
 
 
-![AstroPaper I18n](/public/the-shui-legend-of-the-jijiu-gui-bird.png)
+![AstroPaper I18n](/the-shui-legend-of-the-jijiu-gui-bird.png)
 
 
 

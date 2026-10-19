@@ -8,7 +8,7 @@ description: "يبحث راعي البقر والأسلوب ويو شون عن �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cowherd-and-the-magic-gourd.png)
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-magic-gourd.png)
 
 
 

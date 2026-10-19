@@ -8,7 +8,7 @@ description: "Чтобы вдохновить своего друга Гоу Я�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
+![AstroPaper I18n](/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
 
 
 

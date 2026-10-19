@@ -8,7 +8,7 @@ description: "Ван Цзянь, молодой хмонг, влюбляется
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-mountain-climbing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-mountain-climbing-festival.png)
 
 
 

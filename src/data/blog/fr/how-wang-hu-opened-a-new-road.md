@@ -8,7 +8,7 @@ description: "Afin de sortir de l'impasse dans laquelle se trouve le temple de L
 
 
 
-![AstroPaper I18n](/public/how-wang-hu-opened-a-new-road.png)
+![AstroPaper I18n](/how-wang-hu-opened-a-new-road.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Fung Ping-on found a giant turtle, and after killing him, he had a
 
 
 
-![AstroPaper I18n](/public/the-softshell-turtle-treasure.png)
+![AstroPaper I18n](/the-softshell-turtle-treasure.png)
 
 
 

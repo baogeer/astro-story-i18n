@@ -8,7 +8,7 @@ description: "Stubborn 3 envió una carta al hada zorro Hu Laohan y descubrió q
 
 
 
-![AstroPaper I18n](/public/stubborn-san-and-the-fox.png)
+![AstroPaper I18n](/stubborn-san-and-the-fox.png)
 
 
 

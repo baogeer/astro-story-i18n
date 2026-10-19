@@ -8,7 +8,7 @@ description: "في العصور القديمة، تعلمت الأميرة جي�
 
 
 
-![AstroPaper I18n](/public/the-foolish-son-in-law.png)
+![AstroPaper I18n](/the-foolish-son-in-law.png)
 
 
 

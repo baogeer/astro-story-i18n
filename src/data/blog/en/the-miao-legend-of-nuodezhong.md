@@ -8,7 +8,7 @@ description: "The old man from Yangluo guarded the two cucumbers, and his daught
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-nuodezhong.png)
+![AstroPaper I18n](/the-miao-legend-of-nuodezhong.png)
 
 
 

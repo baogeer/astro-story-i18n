@@ -8,7 +8,7 @@ description: "Old man Xiao has four sons, and after splitting up, they took turn
 
 
 
-![AstroPaper I18n](/public/the-father-who-was-nearly-starved-by-his-many-sons.png)
+![AstroPaper I18n](/the-father-who-was-nearly-starved-by-his-many-sons.png)
 
 
 

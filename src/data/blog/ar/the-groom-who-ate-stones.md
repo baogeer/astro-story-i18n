@@ -8,7 +8,7 @@ description: "لدى Xincheng Wangjia عريس يحمل لقب وانغ. درس 
 
 
 
-![AstroPaper I18n](/public/the-groom-who-ate-stones.png)
+![AstroPaper I18n](/the-groom-who-ate-stones.png)
 
 
 

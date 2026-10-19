@@ -8,7 +8,7 @@ description: "Li Shizhen a rencontré un homme qui prétendait avoir une maladie
 
 
 
-![AstroPaper I18n](/public/li-shizhen-s-clever-cure-for-a-stubborn-illness.png)
+![AstroPaper I18n](/li-shizhen-s-clever-cure-for-a-stubborn-illness.png)
 
 
 

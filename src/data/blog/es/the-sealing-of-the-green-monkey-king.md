@@ -8,7 +8,7 @@ description: "El Rey Mono Azul dirigió a un grupo de monos para dañar la lader
 
 
 
-![AstroPaper I18n](/public/the-sealing-of-the-green-monkey-king.png)
+![AstroPaper I18n](/the-sealing-of-the-green-monkey-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El rey y Avanti pasaron la noche cazando en el valle. El rey se qu
 
 
 
-![AstroPaper I18n](/public/the-king-and-afanti.png)
+![AstroPaper I18n](/the-king-and-afanti.png)
 
 
 

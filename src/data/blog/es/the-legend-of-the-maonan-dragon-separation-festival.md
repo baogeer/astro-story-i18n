@@ -8,7 +8,7 @@ description: "Tras el solsticio de verano, los maonanos celebraron el Festival d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-dragon-separation-festival.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-dragon-separation-festival.png)
 
 
 

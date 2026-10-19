@@ -8,7 +8,7 @@ description: "Mu Rong y Xiaoyi se acercaron a Liu Hanyan para vengar la muerte d
 
 
 
-![AstroPaper I18n](/public/love-and-hate.png)
+![AstroPaper I18n](/love-and-hate.png)
 
 
 

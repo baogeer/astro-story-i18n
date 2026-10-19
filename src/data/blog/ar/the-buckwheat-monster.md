@@ -8,7 +8,7 @@ description: "احتفظ رجل مسن من ناغاياما بالحنطة ال
 
 
 
-![AstroPaper I18n](/public/the-buckwheat-monster.png)
+![AstroPaper I18n](/the-buckwheat-monster.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ян Юйхуань изначально была королево
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-yuhuan.png)
+![AstroPaper I18n](/the-story-of-yang-yuhuan.png)
 
 
 

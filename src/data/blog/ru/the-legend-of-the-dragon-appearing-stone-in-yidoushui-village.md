@@ -8,7 +8,7 @@ description: "В деревне Идоушуй была засуха, и жит�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
 
 
 

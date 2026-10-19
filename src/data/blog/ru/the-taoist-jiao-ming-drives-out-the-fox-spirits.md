@@ -8,7 +8,7 @@ description: "Дом Донг Мо Аня лиса выбросила вмест
 
 
 
-![AstroPaper I18n](/public/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
+![AstroPaper I18n](/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
 
 
 

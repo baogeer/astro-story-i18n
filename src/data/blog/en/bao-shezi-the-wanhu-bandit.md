@@ -8,7 +8,7 @@ description: "Dendrobium, Ma Bao, and Snake were born in troubled times. They ro
 
 
 
-![AstroPaper I18n](/public/bao-shezi-the-wanhu-bandit.png)
+![AstroPaper I18n](/bao-shezi-the-wanhu-bandit.png)
 
 
 

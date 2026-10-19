@@ -8,7 +8,7 @@ description: "El pueblo Hani considera al cuco como un «heboama». Cuenta la le
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hani-limazhu-festival.png)
+![AstroPaper I18n](/the-legend-of-the-hani-limazhu-festival.png)
 
 
 

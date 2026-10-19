@@ -8,7 +8,7 @@ description: "Shiyi, un dieu médecin Miao, est allé au paradis pour rechercher
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-divine-healer-shi-siyi.png)
+![AstroPaper I18n](/the-legend-of-the-miao-divine-healer-shi-siyi.png)
 
 
 

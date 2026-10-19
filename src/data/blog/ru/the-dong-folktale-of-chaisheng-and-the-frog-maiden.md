@@ -8,7 +8,7 @@ description: "Когда Чай Шэн принес воды, он принес 
 
 
 
-![AstroPaper I18n](/public/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
+![AstroPaper I18n](/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
 
 
 

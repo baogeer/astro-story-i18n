@@ -8,7 +8,7 @@ description: "September 9 of the lunar calendar is Chung Yeung Festival, which i
 
 
 
-![AstroPaper I18n](/public/double-ninth-festival.png)
+![AstroPaper I18n](/double-ninth-festival.png)
 
 
 

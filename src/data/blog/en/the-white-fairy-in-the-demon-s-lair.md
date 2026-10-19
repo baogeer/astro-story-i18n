@@ -8,7 +8,7 @@ description: "Niu Biao, a bachelor on the beach, applied for a job as caretaker 
 
 
 
-![AstroPaper I18n](/public/the-white-fairy-in-the-demon-s-lair.png)
+![AstroPaper I18n](/the-white-fairy-in-the-demon-s-lair.png)
 
 
 

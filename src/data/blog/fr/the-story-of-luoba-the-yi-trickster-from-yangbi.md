@@ -8,7 +8,7 @@ description: "Roba, originaire de l'ethnie Yi, est plein d'esprit et plein d'hum
 
 
 
-![AstroPaper I18n](/public/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
+![AstroPaper I18n](/the-story-of-luoba-the-yi-trickster-from-yangbi.png)
 
 
 

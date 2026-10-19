@@ -8,7 +8,7 @@ description: "Когда император Суй Ян посетил кана�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-reversed-names-of-willow-and-poplar.png)
+![AstroPaper I18n](/the-story-of-the-reversed-names-of-willow-and-poplar.png)
 
 
 

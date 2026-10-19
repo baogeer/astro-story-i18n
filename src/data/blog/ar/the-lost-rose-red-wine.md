@@ -8,7 +8,7 @@ description: "من أجل الانتقام من والدها، كسرت مي ن�
 
 
 
-![AstroPaper I18n](/public/the-lost-rose-red-wine.png)
+![AstroPaper I18n](/the-lost-rose-red-wine.png)
 
 
 

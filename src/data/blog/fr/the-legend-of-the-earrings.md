@@ -8,7 +8,7 @@ description: "Diao Chan était à l'origine la prostituée chantante de Wang Yun
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-earrings.png)
+![AstroPaper I18n](/the-legend-of-the-earrings.png)
 
 
 

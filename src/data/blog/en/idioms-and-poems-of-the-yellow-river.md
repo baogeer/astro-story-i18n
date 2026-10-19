@@ -8,7 +8,7 @@ description: "The waterside of the Yellow River brings together idioms and legen
 
 
 
-![AstroPaper I18n](/public/idioms-and-poems-of-the-yellow-river.png)
+![AstroPaper I18n](/idioms-and-poems-of-the-yellow-river.png)
 
 
 

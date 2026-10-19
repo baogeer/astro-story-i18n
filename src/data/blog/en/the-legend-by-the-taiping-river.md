@@ -8,7 +8,7 @@ description: "Lu Dongbin was moved by the good deeds of an old couple who were o
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-taiping-river.png)
+![AstroPaper I18n](/the-legend-by-the-taiping-river.png)
 
 
 

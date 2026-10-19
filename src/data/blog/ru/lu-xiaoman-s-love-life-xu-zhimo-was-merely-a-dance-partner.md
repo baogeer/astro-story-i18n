@@ -8,7 +8,7 @@ description: "Лу Сяомань всю жизнь преследует сво�
 
 
 
-![AstroPaper I18n](/public/lu-xiaoman-s-love-life-xu-zhimo-was-merely-a-dance-partner.png)
+![AstroPaper I18n](/lu-xiaoman-s-love-life-xu-zhimo-was-merely-a-dance-partner.png)
 
 
 

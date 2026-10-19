@@ -8,7 +8,7 @@ description: "Во времена династии Сун старые ферм�
 
 
 
-![AstroPaper I18n](/public/the-old-gardener-and-the-flower-fairy.png)
+![AstroPaper I18n](/the-old-gardener-and-the-flower-fairy.png)
 
 
 

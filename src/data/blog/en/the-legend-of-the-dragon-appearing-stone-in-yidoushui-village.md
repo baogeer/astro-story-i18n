@@ -8,7 +8,7 @@ description: "There was a drought in Yidoushui Village, and villagers asked for 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Император Фу Цзинь стала первой при�
 
 
 
-![AstroPaper I18n](/public/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
+![AstroPaper I18n](/princess-fujin-the-first-song-princess-defiled-by-the-jin.png)
 
 
 

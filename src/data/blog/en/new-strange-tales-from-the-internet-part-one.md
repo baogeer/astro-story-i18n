@@ -8,7 +8,7 @@ description: "A student from Nan Yue entered the online tomb site at night. Afte
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-part-one.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-one.png)
 
 
 

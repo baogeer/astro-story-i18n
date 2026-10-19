@@ -8,7 +8,7 @@ description: "Когда предки племени Дай переселили
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-elephant-that-led-the-way.png)
+![AstroPaper I18n](/the-legend-of-the-white-elephant-that-led-the-way.png)
 
 
 

@@ -8,7 +8,7 @@ description: "هناك نبتة «Peony King» في قرية Zhaolou في Caozho
 
 
 
-![AstroPaper I18n](/public/the-peony-king.png)
+![AstroPaper I18n](/the-peony-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "En la antigüedad, las inundaciones hacían estragos, los demonios
 
 
 
-![AstroPaper I18n](/public/a-zhuang-folktale-the-origin-of-the-bronze-drum-dance.png)
+![AstroPaper I18n](/a-zhuang-folktale-the-origin-of-the-bronze-drum-dance.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Yuhuan era originalmente la reina Shou, hijo de Tang Xuanzong
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-yuhuan.png)
+![AstroPaper I18n](/the-story-of-yang-yuhuan.png)
 
 
 

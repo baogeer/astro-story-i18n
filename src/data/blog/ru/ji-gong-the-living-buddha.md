@@ -8,7 +8,7 @@ description: "Живым Буддой Цзигуна изначально был
 
 
 
-![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+![AstroPaper I18n](/ji-gong-the-living-buddha.png)
 
 
 

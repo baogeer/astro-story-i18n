@@ -8,7 +8,7 @@ description: "In the Ming dynasty, the people who pledged food for seven, saw th
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-xitang-temple-fair.png)
+![AstroPaper I18n](/the-origin-of-the-xitang-temple-fair.png)
 
 
 

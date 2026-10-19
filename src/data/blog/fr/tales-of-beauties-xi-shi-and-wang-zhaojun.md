@@ -8,7 +8,7 @@ description: "Shih Tzu était dévoué au roi Wu, mais il est tombé en conflit 
 
 
 
-![AstroPaper I18n](/public/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
+![AstroPaper I18n](/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
 
 
 

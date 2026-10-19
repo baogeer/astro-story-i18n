@@ -8,7 +8,7 @@ description: "La dinastía Tang envió a los maestros del Feng Shui a buscar la 
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-feng-shui-dragon-veins.png)
+![AstroPaper I18n](/folk-tales-of-feng-shui-dragon-veins.png)
 
 
 

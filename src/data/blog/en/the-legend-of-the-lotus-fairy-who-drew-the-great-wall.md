@@ -8,7 +8,7 @@ description: "During the Apocalypse in the Ming Dynasty, Wang Bingzhen and Zhao 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-fairy-who-drew-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-fairy-who-drew-the-great-wall.png)
 
 
 

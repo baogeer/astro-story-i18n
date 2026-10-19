@@ -8,7 +8,7 @@ description: "El campeón Han, Hou Huo, lideró a 10 000 jinetes para atacar a H
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-undefeated-champion-marquis.png)
+![AstroPaper I18n](/huo-qubing-the-undefeated-champion-marquis.png)
 
 
 

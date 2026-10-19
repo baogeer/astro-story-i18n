@@ -8,7 +8,7 @@ description: "Wang Xizhi envied Zhang Zhi, the Eastern Han Chinese calligrapher,
 
 
 
-![AstroPaper I18n](/public/wang-xizhi-practicing-calligraphy-by-the-ink-pool.png)
+![AstroPaper I18n](/wang-xizhi-practicing-calligraphy-by-the-ink-pool.png)
 
 
 

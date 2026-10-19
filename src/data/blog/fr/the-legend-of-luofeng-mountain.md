@@ -8,7 +8,7 @@ description: "Wang Xiao, un bûcheron honnête et loyal, a trouvé de l'argent h
 
 
 
-![AstroPaper I18n](/public/the-legend-of-luofeng-mountain.png)
+![AstroPaper I18n](/the-legend-of-luofeng-mountain.png)
 
 
 

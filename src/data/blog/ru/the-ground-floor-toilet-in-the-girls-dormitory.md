@@ -8,7 +8,7 @@ description: "Ночью в школьной комнате в общежити�
 
 
 
-![AstroPaper I18n](/public/the-ground-floor-toilet-in-the-girls-dormitory.png)
+![AstroPaper I18n](/the-ground-floor-toilet-in-the-girls-dormitory.png)
 
 
 

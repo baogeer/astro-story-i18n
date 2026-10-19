@@ -8,7 +8,7 @@ description: "خلال فترة جياتشينغ من عهد أسرة تشينغ
 
 
 
-![AstroPaper I18n](/public/the-heroine-wang-cong-er.png)
+![AstroPaper I18n](/the-heroine-wang-cong-er.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Bajo la opresión de la idea de la castidad, las viudas antiguas i
 
 
 
-![AstroPaper I18n](/public/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
+![AstroPaper I18n](/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
 
 
 

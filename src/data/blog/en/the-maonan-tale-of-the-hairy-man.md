@@ -8,7 +8,7 @@ description: "Mao Ren, a poor boy from the Maonan tribe, grew into an extremely 
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-the-hairy-man.png)
+![AstroPaper I18n](/the-maonan-tale-of-the-hairy-man.png)
 
 
 

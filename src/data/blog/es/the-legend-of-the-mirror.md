@@ -8,7 +8,7 @@ description: "Xinsheng Airlines no creyó el rumor de que el baño del campus es
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-mirror.png)
+![AstroPaper I18n](/the-legend-of-the-mirror.png)
 
 
 

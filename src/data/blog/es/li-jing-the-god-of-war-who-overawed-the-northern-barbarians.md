@@ -8,7 +8,7 @@ description: "Li Jing era un militar a principios de la dinastía Tang. Dirigió
 
 
 
-![AstroPaper I18n](/public/li-jing-the-god-of-war-who-overawed-the-northern-barbarians.png)
+![AstroPaper I18n](/li-jing-the-god-of-war-who-overawed-the-northern-barbarians.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تقع وانغ جيان، وهي شابة من الهمونغ، �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-mountain-climbing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-mountain-climbing-festival.png)
 
 
 

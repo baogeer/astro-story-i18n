@@ -8,7 +8,7 @@ description: "Mount Emei and Mount Bamian have immortal battles, and the boulder
 
 
 
-![AstroPaper I18n](/public/the-tujia-legend-of-cup-rock.png)
+![AstroPaper I18n](/the-tujia-legend-of-cup-rock.png)
 
 
 

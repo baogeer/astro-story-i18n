@@ -8,7 +8,7 @@ description: "شجع اليتيم المسكين المسمى كايما فلو�
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-golden-water-lily.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-golden-water-lily.png)
 
 
 

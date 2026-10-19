@@ -8,7 +8,7 @@ description: "Zhong Liquan est né après avoir été général sous la dynastie
 
 
 
-![AstroPaper I18n](/public/zhongli-quan-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhongli-quan-one-of-the-eight-immortals.png)
 
 
 

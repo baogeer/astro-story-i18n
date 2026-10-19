@@ -8,7 +8,7 @@ description: "In the evening, I took a nap while listening to the teacher talk a
 
 
 
-![AstroPaper I18n](/public/the-wronged-ghost-on-campus.png)
+![AstroPaper I18n](/the-wronged-ghost-on-campus.png)
 
 
 

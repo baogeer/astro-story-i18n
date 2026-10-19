@@ -8,7 +8,7 @@ description: "According to the legend of the Yi tribe, Roba wisely fought agains
 
 
 
-![AstroPaper I18n](/public/why-the-yi-people-are-carried-feet-first-at-funerals.png)
+![AstroPaper I18n](/why-the-yi-people-are-carried-feet-first-at-funerals.png)
 
 
 

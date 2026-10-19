@@ -8,7 +8,7 @@ description: "El dragón y el tigre lucharon entre sí al borde de un manantial 
 
 
 
-![AstroPaper I18n](/public/the-quarrel-between-the-dragon-and-the-tiger.png)
+![AstroPaper I18n](/the-quarrel-between-the-dragon-and-the-tiger.png)
 
 
 

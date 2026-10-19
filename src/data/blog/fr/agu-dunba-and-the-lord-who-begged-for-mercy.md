@@ -8,7 +8,7 @@ description: "Agutomba a dit au seigneur qu'il voulait utiliser des vaches pour 
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-lord-who-begged-for-mercy.png)
+![AstroPaper I18n](/agu-dunba-and-the-lord-who-begged-for-mercy.png)
 
 
 

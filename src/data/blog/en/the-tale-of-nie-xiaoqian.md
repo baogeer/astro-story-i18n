@@ -8,7 +8,7 @@ description: "Ning Caichen met the swordsman Yan Chixia at Huangsi and rejected 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-nie-xiaoqian.png)
+![AstroPaper I18n](/the-tale-of-nie-xiaoqian.png)
 
 
 

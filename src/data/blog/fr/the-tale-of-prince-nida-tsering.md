@@ -8,7 +8,7 @@ description: "Le prince Nida Ciren de Jiang Dan a épousé la sage concubine Lag
 
 
 
-![AstroPaper I18n](/public/the-tale-of-prince-nida-tsering.png)
+![AstroPaper I18n](/the-tale-of-prince-nida-tsering.png)
 
 
 

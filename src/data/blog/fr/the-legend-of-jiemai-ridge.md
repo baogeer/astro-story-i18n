@@ -8,7 +8,7 @@ description: "«xa0Jiemai Lingxa0» est un folklore répandu à Jinyun. L'auteur
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jiemai-ridge.png)
+![AstroPaper I18n](/the-legend-of-jiemai-ridge.png)
 
 
 

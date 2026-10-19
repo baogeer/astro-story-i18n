@@ -8,7 +8,7 @@ description: "Древняя королевская семья с самого �
 
 
 
-![AstroPaper I18n](/public/royal-sexual-initiation-taught-hands-on-by-palace-women.png)
+![AstroPaper I18n](/royal-sexual-initiation-taught-hands-on-by-palace-women.png)
 
 
 

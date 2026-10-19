@@ -8,7 +8,7 @@ description: "La gente de las montañas y los jefes de las aldeas hicieron un vi
 
 
 
-![AstroPaper I18n](/public/the-village-chief-who-ate-clam-shells.png)
+![AstroPaper I18n](/the-village-chief-who-ate-clam-shells.png)
 
 
 

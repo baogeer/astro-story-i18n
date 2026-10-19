@@ -8,7 +8,7 @@ description: "Yi hero Zhige Aaron shot down the extra sun and moon, making the w
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-yi-people.png)
 
 
 

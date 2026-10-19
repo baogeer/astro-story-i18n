@@ -8,7 +8,7 @@ description: "بعد الانتهاء من بناء جسر غوانغجي في �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
+![AstroPaper I18n](/the-legend-of-the-immortals-and-buddha-disputing-the-bridge-name.png)
 
 
 

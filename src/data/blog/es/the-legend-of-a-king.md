@@ -8,7 +8,7 @@ description: "Un pastor del valle del río Yalong, en el Tíbet, descubrió a un
 
 
 
-![AstroPaper I18n](/public/the-legend-of-a-king.png)
+![AstroPaper I18n](/the-legend-of-a-king.png)
 
 
 

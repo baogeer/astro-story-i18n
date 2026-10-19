@@ -8,7 +8,7 @@ description: "To cure her mother's arthritis, Liu Sanzhu went to Changbai Mounta
 
 
 
-![AstroPaper I18n](/public/the-sable-king.png)
+![AstroPaper I18n](/the-sable-king.png)
 
 
 

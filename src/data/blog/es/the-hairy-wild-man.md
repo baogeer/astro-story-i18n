@@ -8,7 +8,7 @@ description: "El salvaje de Mao robó a la hermosa niña para que fuera su espos
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man.png)
+![AstroPaper I18n](/the-hairy-wild-man.png)
 
 
 

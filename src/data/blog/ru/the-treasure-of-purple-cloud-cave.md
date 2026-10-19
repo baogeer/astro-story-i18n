@@ -8,7 +8,7 @@ description: "Гор и Кэрри искали сокровища для люд
 
 
 
-![AstroPaper I18n](/public/the-treasure-of-purple-cloud-cave.png)
+![AstroPaper I18n](/the-treasure-of-purple-cloud-cave.png)
 
 
 

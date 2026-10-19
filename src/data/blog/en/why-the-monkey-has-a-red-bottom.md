@@ -8,7 +8,7 @@ description: "Once upon a time, a monkey stole a girl and gave birth to a baby m
 
 
 
-![AstroPaper I18n](/public/why-the-monkey-has-a-red-bottom.png)
+![AstroPaper I18n](/why-the-monkey-has-a-red-bottom.png)
 
 
 

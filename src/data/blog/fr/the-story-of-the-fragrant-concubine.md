@@ -8,7 +8,7 @@ description: "L'empereur Qianlong a rêvé qu'une femme occidentale était armé
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-fragrant-concubine.png)
+![AstroPaper I18n](/the-story-of-the-fragrant-concubine.png)
 
 
 

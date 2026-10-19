@@ -8,7 +8,7 @@ description: "حلقت شيه نينغشي رأسها إلى المقاطعة و
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
+![AstroPaper I18n](/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
 
 
 

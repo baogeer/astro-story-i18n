@@ -8,7 +8,7 @@ description: "Pour sauver son mari Xu Xian, qui était mort de peur, Baek Su-jeo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-snake-road.png)
+![AstroPaper I18n](/the-legend-of-white-snake-road.png)
 
 
 

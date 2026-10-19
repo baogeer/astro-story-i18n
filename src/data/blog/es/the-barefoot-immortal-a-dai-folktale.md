@@ -8,7 +8,7 @@ description: "Daxian descalzo desfiló por el mundo. Al ver la sequía en la pre
 
 
 
-![AstroPaper I18n](/public/the-barefoot-immortal-a-dai-folktale.png)
+![AstroPaper I18n](/the-barefoot-immortal-a-dai-folktale.png)
 
 
 

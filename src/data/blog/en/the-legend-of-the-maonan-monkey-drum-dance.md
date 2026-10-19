@@ -8,7 +8,7 @@ description: "According to Maonan legends, children go up the mountain to pick g
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-monkey-drum-dance.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
 
 
 

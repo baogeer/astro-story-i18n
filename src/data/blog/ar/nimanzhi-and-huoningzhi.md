@@ -8,7 +8,7 @@ description: "تعرضت نيمانجي لسوء المعاملة من قبل ز
 
 
 
-![AstroPaper I18n](/public/nimanzhi-and-huoningzhi.png)
+![AstroPaper I18n](/nimanzhi-and-huoningzhi.png)
 
 
 

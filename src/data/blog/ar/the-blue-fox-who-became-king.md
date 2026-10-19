@@ -8,7 +8,7 @@ description: "سقط ثعلب جائع في خزان الصباغة وأطلق �
 
 
 
-![AstroPaper I18n](/public/the-blue-fox-who-became-king.png)
+![AstroPaper I18n](/the-blue-fox-who-became-king.png)
 
 
 

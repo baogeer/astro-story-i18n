@@ -8,7 +8,7 @@ description: "Les dix principaux torts de l'histoire chinoise incluent Han Xin, 
 
 
 
-![AstroPaper I18n](/public/the-ten-most-wronged-generals-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-wronged-generals-in-chinese-history.png)
 
 
 

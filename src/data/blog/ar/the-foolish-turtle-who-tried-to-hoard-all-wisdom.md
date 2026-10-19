@@ -8,7 +8,7 @@ description: "تريد السلاحف الغبية احتكار حكمة الع�
 
 
 
-![AstroPaper I18n](/public/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
+![AstroPaper I18n](/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Бан Чжаовэнь преуспел. Она помогла с
 
 
 
-![AstroPaper I18n](/public/ban-zhao-the-great-female-scholar-of-the-eastern-han-dynasty.png)
+![AstroPaper I18n](/ban-zhao-the-great-female-scholar-of-the-eastern-han-dynasty.png)
 
 
 

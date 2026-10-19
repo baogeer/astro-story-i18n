@@ -8,7 +8,7 @@ description: "Невестку племени Шицзя в Ваньцуне з�
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-in-the-bottle.png)
+![AstroPaper I18n](/the-fox-spirit-in-the-bottle.png)
 
 
 

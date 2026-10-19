@@ -8,7 +8,7 @@ description: "كانت بانجيو في الأصل نجمة تينغو وتحو
 
 
 
-![AstroPaper I18n](/public/the-she-folktale-of-king-panhu-and-the-third-princess.png)
+![AstroPaper I18n](/the-she-folktale-of-king-panhu-and-the-third-princess.png)
 
 
 

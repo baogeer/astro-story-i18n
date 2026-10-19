@@ -8,7 +8,7 @@ description: "Тиегуай Ли разводил уток в стране чу
 
 
 
-![AstroPaper I18n](/public/iron-crutch-li-and-the-duck-cages.png)
+![AstroPaper I18n](/iron-crutch-li-and-the-duck-cages.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت لي شيشي، العاهرة الشهيرة من أسر
 
 
 
-![AstroPaper I18n](/public/the-death-of-li-shishi-the-courtesan-who-captivated-emperor-huizong.png)
+![AstroPaper I18n](/the-death-of-li-shishi-the-courtesan-who-captivated-emperor-huizong.png)
 
 
 

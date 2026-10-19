@@ -8,7 +8,7 @@ description: "El dragón de piedra azul en la cima del monte Fushan y las grande
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fox-mountain.png)
+![AstroPaper I18n](/the-legend-of-fox-mountain.png)
 
 
 

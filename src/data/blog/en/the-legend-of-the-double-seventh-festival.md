@@ -8,7 +8,7 @@ description: "Legend has it that the ugly girl Begging was helped by the Seven F
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-seventh-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-seventh-festival.png)
 
 
 

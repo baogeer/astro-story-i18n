@@ -8,7 +8,7 @@ description: "Yang Guifei's true weight is still difficult to verify; her wealth
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-yang-yuhuan-s-true-height-and-weight.png)
+![AstroPaper I18n](/the-mystery-of-yang-yuhuan-s-true-height-and-weight.png)
 
 
 

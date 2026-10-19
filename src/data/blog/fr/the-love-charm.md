@@ -8,7 +8,7 @@ description: "Une sœur de Xiangxi est tombée amoureuse de Ge Chai au premier r
 
 
 
-![AstroPaper I18n](/public/the-love-charm.png)
+![AstroPaper I18n](/the-love-charm.png)
 
 
 

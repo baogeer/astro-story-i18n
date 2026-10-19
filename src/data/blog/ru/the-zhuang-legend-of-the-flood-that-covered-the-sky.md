@@ -8,7 +8,7 @@ description: "Чжан Баобу захватил Лэй Гун из-за за�
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-the-flood-that-covered-the-sky.png)
+![AstroPaper I18n](/the-zhuang-legend-of-the-flood-that-covered-the-sky.png)
 
 
 

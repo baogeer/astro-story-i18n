@@ -8,7 +8,7 @@ description: "كان تشين زيلونج شاعرًا في أواخر عهد �
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-warrior-chen-zilong-s-poetry-and-public-service.png)
+![AstroPaper I18n](/the-scholar-and-the-warrior-chen-zilong-s-poetry-and-public-service.png)
 
 
 

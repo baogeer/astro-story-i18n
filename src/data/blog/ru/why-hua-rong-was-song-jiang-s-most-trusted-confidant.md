@@ -8,7 +8,7 @@ description: "Сун Цзян — глава горы Ляншань, у нег�
 
 
 
-![AstroPaper I18n](/public/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
+![AstroPaper I18n](/why-hua-rong-was-song-jiang-s-most-trusted-confidant.png)
 
 
 

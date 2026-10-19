@@ -8,7 +8,7 @@ description: "L'origine de la fête du «xa06 juinxa0» du peuple Buyeixa0: les 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-june-sixth-festival.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-june-sixth-festival.png)
 
 
 

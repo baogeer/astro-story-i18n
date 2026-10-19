@@ -8,7 +8,7 @@ description: "Xuanyuan Huangdi practised magic at Dinghu Peak in Xiandu, Jinyun.
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xiandu-danyu-jade.png)
+![AstroPaper I18n](/the-legend-of-xiandu-danyu-jade.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في السنوات الأولى من حكم أسرة تشينغ،
 
 
 
-![AstroPaper I18n](/public/cold-blade-deep-love.png)
+![AstroPaper I18n](/cold-blade-deep-love.png)
 
 
 

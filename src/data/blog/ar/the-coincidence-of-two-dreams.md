@@ -8,7 +8,7 @@ description: "شاب يدعى تانغ دي في بغداد في منتصف حي
 
 
 
-![AstroPaper I18n](/public/the-coincidence-of-two-dreams.png)
+![AstroPaper I18n](/the-coincidence-of-two-dreams.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li du comté de Weixian a loué une maison à un vieil homme. Le v
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-of-weixian.png)
+![AstroPaper I18n](/the-fox-spirit-of-weixian.png)
 
 
 

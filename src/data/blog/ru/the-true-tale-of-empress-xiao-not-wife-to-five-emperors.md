@@ -8,7 +8,7 @@ description: "После Сяо император Суй Ян был послу
 
 
 
-![AstroPaper I18n](/public/the-true-tale-of-empress-xiao-not-wife-to-five-emperors.png)
+![AstroPaper I18n](/the-true-tale-of-empress-xiao-not-wife-to-five-emperors.png)
 
 
 

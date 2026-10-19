@@ -8,7 +8,7 @@ description: "Los poetas de la dinastía Tang Du Mu, Bai Juyi y Yuan Yi también
 
 
 
-![AstroPaper I18n](/public/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
+![AstroPaper I18n](/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
 
 
 

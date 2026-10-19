@@ -8,7 +8,7 @@ description: "The fisherman Tofu was mocked for breaking the net and caught Blue
 
 
 
-![AstroPaper I18n](/public/the-fish-maiden.png)
+![AstroPaper I18n](/the-fish-maiden.png)
 
 
 

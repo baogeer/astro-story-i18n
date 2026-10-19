@@ -8,7 +8,7 @@ description: "Il y a 100 caractères du sanskrit sur la paroi rocheuse de Huizho
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
 
 
 

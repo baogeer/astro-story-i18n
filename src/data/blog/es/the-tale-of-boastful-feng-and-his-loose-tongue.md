@@ -8,7 +8,7 @@ description: "En la dinastía Ming, a Feng le encantaba presumir y se moría de 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
 
 
 

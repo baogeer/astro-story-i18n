@@ -8,7 +8,7 @@ description: "The poor shepherd, Lily and the only old horse in her family, died
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
 
 
 

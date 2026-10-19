@@ -8,7 +8,7 @@ description: "Chai Lang got instructions to save the fairy and used a copper pot
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-a-yi-folktale.png)
+![AstroPaper I18n](/the-dragon-maiden-a-yi-folktale.png)
 
 
 

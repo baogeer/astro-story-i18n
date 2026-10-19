@@ -8,7 +8,7 @@ description: "Qi Gong abandonó a la sabia esposa porque era rico y se casó con
 
 
 
-![AstroPaper I18n](/public/the-virtuous-wife.png)
+![AstroPaper I18n](/the-virtuous-wife.png)
 
 
 

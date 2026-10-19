@@ -8,7 +8,7 @@ description: "While working with Li Yu, Xiao Fei met Wang Tao, a decoration mast
 
 
 
-![AstroPaper I18n](/public/a-day-laborer-s-lucky-encounter.png)
+![AstroPaper I18n](/a-day-laborer-s-lucky-encounter.png)
 
 
 

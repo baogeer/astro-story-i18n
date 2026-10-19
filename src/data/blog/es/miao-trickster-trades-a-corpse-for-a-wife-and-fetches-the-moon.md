@@ -8,7 +8,7 @@ description: "La vieja mentira se hacía pasar por un funcionario a cambio de la
 
 
 
-![AstroPaper I18n](/public/miao-trickster-trades-a-corpse-for-a-wife-and-fetches-the-moon.png)
+![AstroPaper I18n](/miao-trickster-trades-a-corpse-for-a-wife-and-fetches-the-moon.png)
 
 
 

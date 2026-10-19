@@ -8,7 +8,7 @@ description: "Como dicen el rey y los monjes, los ojos del león de piedra está
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-stone-lion-that-wept-blood.png)
+![AstroPaper I18n](/the-story-of-the-stone-lion-that-wept-blood.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Les grands maïs des fermiers ont été détruits par un groupe de
 
 
 
-![AstroPaper I18n](/public/the-legend-of-horse-wolf-mountain.png)
+![AstroPaper I18n](/the-legend-of-horse-wolf-mountain.png)
 
 
 

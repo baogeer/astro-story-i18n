@@ -8,7 +8,7 @@ description: "La mère de Mu Lian a utilisé des petits pains cuits à la vapeur
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-swallows-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-swallows-the-moon.png)
 
 
 

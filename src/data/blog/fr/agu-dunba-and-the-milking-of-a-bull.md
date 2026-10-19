@@ -8,7 +8,7 @@ description: "Le riche propriétaire chauve a obligé l'éleveur Zaxipengtso à 
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-milking-of-a-bull.png)
+![AstroPaper I18n](/agu-dunba-and-the-milking-of-a-bull.png)
 
 
 

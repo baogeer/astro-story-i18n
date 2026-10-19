@@ -8,7 +8,7 @@ description: "In order to protect the Qiang people, the girl from the Ho family 
 
 
 
-![AstroPaper I18n](/public/the-qiang-folktale-of-aduo-the-maiden.png)
+![AstroPaper I18n](/the-qiang-folktale-of-aduo-the-maiden.png)
 
 
 

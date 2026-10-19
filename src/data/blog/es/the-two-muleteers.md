@@ -8,7 +8,7 @@ description: "Ah Hei y Abai adoraban a viejos amigos y perseguían caballos junt
 
 
 
-![AstroPaper I18n](/public/the-two-muleteers.png)
+![AstroPaper I18n](/the-two-muleteers.png)
 
 
 

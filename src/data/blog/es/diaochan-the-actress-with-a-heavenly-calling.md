@@ -8,7 +8,7 @@ description: "Wang Yun usó a Diao Chan para alejar a Dong Zhuo y Lu Bu. Tras la
 
 
 
-![AstroPaper I18n](/public/diaochan-the-actress-with-a-heavenly-calling.png)
+![AstroPaper I18n](/diaochan-the-actress-with-a-heavenly-calling.png)
 
 
 

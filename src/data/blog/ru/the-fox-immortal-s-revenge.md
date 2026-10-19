@@ -8,7 +8,7 @@ description: "Цю Гун не верил в фею лис; притворивш
 
 
 
-![AstroPaper I18n](/public/the-fox-immortal-s-revenge.png)
+![AstroPaper I18n](/the-fox-immortal-s-revenge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Птицы собрались, чтобы выбрать коро�
 
 
 
-![AstroPaper I18n](/public/the-bat-who-would-be-king.png)
+![AstroPaper I18n](/the-bat-who-would-be-king.png)
 
 
 

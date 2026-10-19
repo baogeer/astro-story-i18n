@@ -8,7 +8,7 @@ description: "Когда Цзяо Шэн читал ее по ночам, две
 
 
 
-![AstroPaper I18n](/public/the-foxes-couplet.png)
+![AstroPaper I18n](/the-foxes-couplet.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Al final de la dinastía Ming, el grupo étnico buyei de la monta�
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
 
 
 

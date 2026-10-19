@@ -8,7 +8,7 @@ description: "Семья Чжу Майчэня во времена династ�
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhu-maichen-s-wife-who-remarried.png)
+![AstroPaper I18n](/the-story-of-zhu-maichen-s-wife-who-remarried.png)
 
 
 

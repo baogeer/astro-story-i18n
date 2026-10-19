@@ -8,7 +8,7 @@ description: "Lorsque Yao Guangxiao a fondé Kyoto, il a demandé l'aide des cin
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-five-fire-gods-blasting-guangou.png)
+![AstroPaper I18n](/the-legend-of-the-five-fire-gods-blasting-guangou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "En Wei del Norte, debido a la vejez de su padre, Mulan se unió al
 
 
 
-![AstroPaper I18n](/public/mulan-joins-the-army.png)
+![AstroPaper I18n](/mulan-joins-the-army.png)
 
 
 

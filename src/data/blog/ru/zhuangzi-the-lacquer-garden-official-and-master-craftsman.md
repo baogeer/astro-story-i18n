@@ -8,7 +8,7 @@ description: "Когда Чжуанцзы работал клерком в ма�
 
 
 
-![AstroPaper I18n](/public/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
+![AstroPaper I18n](/zhuangzi-the-lacquer-garden-official-and-master-craftsman.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد التحاقه بالمدرسة الابتدائية، تر
 
 
 
-![AstroPaper I18n](/public/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
+![AstroPaper I18n](/the-self-taught-countryman-who-became-a-peking-university-professor-and-nobel-nominee.png)
 
 
 

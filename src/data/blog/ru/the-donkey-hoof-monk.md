@@ -8,7 +8,7 @@ description: "Монах с ослиными копытами спрятал ч�
 
 
 
-![AstroPaper I18n](/public/the-donkey-hoof-monk.png)
+![AstroPaper I18n](/the-donkey-hoof-monk.png)
 
 
 

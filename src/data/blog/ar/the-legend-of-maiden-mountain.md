@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة تانغ، وقعت يينغ غو 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-maiden-mountain.png)
+![AstroPaper I18n](/the-legend-of-maiden-mountain.png)
 
 
 

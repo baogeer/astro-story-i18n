@@ -8,7 +8,7 @@ description: "Le village de Heping a été réduit en esclavage par des bandits 
 
 
 
-![AstroPaper I18n](/public/the-dragon-and-phoenix-bring-blessings.png)
+![AstroPaper I18n](/the-dragon-and-phoenix-bring-blessings.png)
 
 
 

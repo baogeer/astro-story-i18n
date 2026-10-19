@@ -8,7 +8,7 @@ description: "When the weaver fell in love with the morning cow, she was split u
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-story-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

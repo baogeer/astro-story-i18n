@@ -8,7 +8,7 @@ description: "Une femme lavait ses vêtements au bord de la rivière. Trois gran
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-a-gelao-folktale.png)
 
 
 

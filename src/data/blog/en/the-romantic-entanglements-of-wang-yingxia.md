@@ -8,7 +8,7 @@ description: "After Wang Yingxia and Yu Dufu got married, there was a rift due t
 
 
 
-![AstroPaper I18n](/public/the-romantic-entanglements-of-wang-yingxia.png)
+![AstroPaper I18n](/the-romantic-entanglements-of-wang-yingxia.png)
 
 
 

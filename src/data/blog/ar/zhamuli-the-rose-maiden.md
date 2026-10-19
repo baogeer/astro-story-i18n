@@ -8,7 +8,7 @@ description: "فاري مجتهد ولطيف. بعد إنقاذ ثعبان أب�
 
 
 
-![AstroPaper I18n](/public/zhamuli-the-rose-maiden.png)
+![AstroPaper I18n](/zhamuli-the-rose-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В книге «Ляочжай Чжи: Дракон» расска
 
 
 
-![AstroPaper I18n](/public/the-dragon-from-strange-tales-from-a-chinese-studio.png)
+![AstroPaper I18n](/the-dragon-from-strange-tales-from-a-chinese-studio.png)
 
 
 

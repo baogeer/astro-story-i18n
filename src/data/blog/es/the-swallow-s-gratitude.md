@@ -8,7 +8,7 @@ description: "Una pobre anciana del oeste atendió a una golondrina herida. Al a
 
 
 
-![AstroPaper I18n](/public/the-swallow-s-gratitude.png)
+![AstroPaper I18n](/the-swallow-s-gratitude.png)
 
 
 

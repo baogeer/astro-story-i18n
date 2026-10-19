@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة مينغ، تمردت مجموعة
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
+![AstroPaper I18n](/the-bouyei-legend-of-eating-zongzi-on-the-double-sixth-festival.png)
 
 
 

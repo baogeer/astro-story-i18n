@@ -8,7 +8,7 @@ description: "Le chef Zaxi Wangdui a été faussement accusé par le ministre en
 
 
 
-![AstroPaper I18n](/public/the-cook-zhaxi-wangdui-grows-pearls.png)
+![AstroPaper I18n](/the-cook-zhaxi-wangdui-grows-pearls.png)
 
 
 

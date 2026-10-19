@@ -8,7 +8,7 @@ description: "Император Чжаоюань из династии Тан �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-mengxi-zhao.png)
+![AstroPaper I18n](/the-legend-of-mengxi-zhao.png)
 
 
 

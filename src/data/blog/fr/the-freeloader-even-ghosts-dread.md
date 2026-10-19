@@ -8,7 +8,7 @@ description: "M. Baek Chi a triché en mangeant et en buvant partout. Couplets n
 
 
 
-![AstroPaper I18n](/public/the-freeloader-even-ghosts-dread.png)
+![AstroPaper I18n](/the-freeloader-even-ghosts-dread.png)
 
 
 

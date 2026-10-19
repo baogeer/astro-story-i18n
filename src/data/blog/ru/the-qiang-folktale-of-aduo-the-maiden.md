@@ -8,7 +8,7 @@ description: "Чтобы защитить народ Цян, девочка из
 
 
 
-![AstroPaper I18n](/public/the-qiang-folktale-of-aduo-the-maiden.png)
+![AstroPaper I18n](/the-qiang-folktale-of-aduo-the-maiden.png)
 
 
 

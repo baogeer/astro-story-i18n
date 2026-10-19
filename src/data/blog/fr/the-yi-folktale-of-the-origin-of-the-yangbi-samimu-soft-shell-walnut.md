@@ -8,7 +8,7 @@ description: "Lors de l'élevage, les sœurs Yi ont reçu l'ordre de la vieille 
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-origin-of-the-yangbi-samimu-soft-shell-walnut.png)
 
 
 

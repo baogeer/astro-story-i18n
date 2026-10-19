@@ -8,7 +8,7 @@ description: "Маленький черный дракон, взяв на себ
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-mountain.png)
+![AstroPaper I18n](/the-legend-of-dragon-mountain.png)
 
 
 

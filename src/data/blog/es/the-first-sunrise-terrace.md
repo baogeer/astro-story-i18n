@@ -8,7 +8,7 @@ description: "Liu Chun se sacrificó para encontrar el Sol, que fue tomado por e
 
 
 
-![AstroPaper I18n](/public/the-first-sunrise-terrace.png)
+![AstroPaper I18n](/the-first-sunrise-terrace.png)
 
 
 

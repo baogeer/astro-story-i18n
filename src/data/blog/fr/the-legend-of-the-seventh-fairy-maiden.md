@@ -8,7 +8,7 @@ description: "Les Sept Fées ont utilisé la blague «xa0Senrikusa, Cent joursxa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-seventh-fairy-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Once upon a time, someone wanted to ascend to heaven and have a go
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hen-and-chicks-constellation.png)
+![AstroPaper I18n](/the-origin-of-the-hen-and-chicks-constellation.png)
 
 
 

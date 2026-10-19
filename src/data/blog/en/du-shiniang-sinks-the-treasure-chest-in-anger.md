@@ -8,7 +8,7 @@ description: "Du Shiniang, a famous prostitute from the Ming dynasty, redeemed h
 
 
 
-![AstroPaper I18n](/public/du-shiniang-sinks-the-treasure-chest-in-anger.png)
+![AstroPaper I18n](/du-shiniang-sinks-the-treasure-chest-in-anger.png)
 
 
 

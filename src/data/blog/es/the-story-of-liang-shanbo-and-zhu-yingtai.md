@@ -8,7 +8,7 @@ description: "El Jin del Este, Zhu Yingtai, estudió con el mismo estilo que un 
 
 
 
-![AstroPaper I18n](/public/the-story-of-liang-shanbo-and-zhu-yingtai.png)
+![AstroPaper I18n](/the-story-of-liang-shanbo-and-zhu-yingtai.png)
 
 
 

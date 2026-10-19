@@ -8,7 +8,7 @@ description: "Senior husband Zhang from Shanxi crossed the river with his family
 
 
 
-![AstroPaper I18n](/public/old-master-zhang-and-the-giant-turtle.png)
+![AstroPaper I18n](/old-master-zhang-and-the-giant-turtle.png)
 
 
 

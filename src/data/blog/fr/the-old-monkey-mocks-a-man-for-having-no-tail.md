@@ -8,7 +8,7 @@ description: "Un fermier de l'ancienne Tianzhu a été emmené par un groupe de 
 
 
 
-![AstroPaper I18n](/public/the-old-monkey-mocks-a-man-for-having-no-tail.png)
+![AstroPaper I18n](/the-old-monkey-mocks-a-man-for-having-no-tail.png)
 
 
 

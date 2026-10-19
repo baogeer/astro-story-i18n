@@ -8,7 +8,7 @@ description: "La princesse Anle est la fille de Tang Zhongzong et Li Xian. Son s
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-anle-who-poisoned-her-father.png)
+![AstroPaper I18n](/the-tale-of-princess-anle-who-poisoned-her-father.png)
 
 
 

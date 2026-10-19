@@ -8,7 +8,7 @@ description: "تروي حكاية يانغيي يي الشعبية «تشانغ 
 
 
 
-![AstroPaper I18n](/public/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
+![AstroPaper I18n](/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
 
 
 

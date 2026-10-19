@@ -8,7 +8,7 @@ description: "Jin Yunchang mendie seul depuis son enfance. Il a étudié en secr
 
 
 
-![AstroPaper I18n](/public/anecdotes-of-jin-yunchang-the-late-qing-governor-of-the-western-frontier.png)
+![AstroPaper I18n](/anecdotes-of-jin-yunchang-the-late-qing-governor-of-the-western-frontier.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The third sister lived a rich life after marrying Snake Lang. When
 
 
 
-![AstroPaper I18n](/public/the-snake-husband-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-snake-husband-a-taiwanese-folktale.png)
 
 
 

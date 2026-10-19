@@ -8,7 +8,7 @@ description: "كان تشو ياوزونغ أول قائد. أقام الإمب�
 
 
 
-![AstroPaper I18n](/public/when-heaven-sends-rain-a-mother-must-remarry.png)
+![AstroPaper I18n](/when-heaven-sends-rain-a-mother-must-remarry.png)
 
 
 

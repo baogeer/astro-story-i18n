@@ -8,7 +8,7 @@ description: "El pescador Liuhe perdió a su padre cuando era joven y su madre v
 
 
 
-![AstroPaper I18n](/public/liuhe-fills-the-qiantang-river.png)
+![AstroPaper I18n](/liuhe-fills-the-qiantang-river.png)
 
 
 

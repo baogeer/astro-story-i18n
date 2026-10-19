@@ -8,7 +8,7 @@ description: "Zizi a volé du blé et a été abattue par le chasseur Rob. Aprè
 
 
 
-![AstroPaper I18n](/public/the-muntjac-sues-luoba.png)
+![AstroPaper I18n](/the-muntjac-sues-luoba.png)
 
 
 

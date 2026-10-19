@@ -8,7 +8,7 @@ description: "Лю Саньцзе, девушка из Чжуана из дин�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie-the-zhuang-song-fairy.png)
 
 
 

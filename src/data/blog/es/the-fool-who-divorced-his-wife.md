@@ -8,7 +8,7 @@ description: "Los idiotas no pueden decir la verdad ni la falsedad; a menudo se 
 
 
 
-![AstroPaper I18n](/public/the-fool-who-divorced-his-wife.png)
+![AstroPaper I18n](/the-fool-who-divorced-his-wife.png)
 
 
 

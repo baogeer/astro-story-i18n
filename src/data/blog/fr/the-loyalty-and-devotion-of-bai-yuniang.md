@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Song du Sud, Cheng Wanli a fui parce 
 
 
 
-![AstroPaper I18n](/public/the-loyalty-and-devotion-of-bai-yuniang.png)
+![AstroPaper I18n](/the-loyalty-and-devotion-of-bai-yuniang.png)
 
 
 

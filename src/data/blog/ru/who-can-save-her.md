@@ -8,7 +8,7 @@ description: "После потери сына ее муж Лю Чжаоген �
 
 
 
-![AstroPaper I18n](/public/who-can-save-her.png)
+![AstroPaper I18n](/who-can-save-her.png)
 
 
 

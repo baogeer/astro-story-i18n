@@ -8,7 +8,7 @@ description: "L'hortensia de Gao Zu a été arraché par le méchant chien blanc
 
 
 
-![AstroPaper I18n](/public/baolong-the-dog-husband.png)
+![AstroPaper I18n](/baolong-the-dog-husband.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A poor young man from the Zhuang family falls in love with a girl,
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-ball.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-ball.png)
 
 
 

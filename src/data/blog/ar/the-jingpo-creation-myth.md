@@ -8,7 +8,7 @@ description: "في أساطير جينغبو، يجب على جين التحرر
 
 
 
-![AstroPaper I18n](/public/the-jingpo-creation-myth.png)
+![AstroPaper I18n](/the-jingpo-creation-myth.png)
 
 
 

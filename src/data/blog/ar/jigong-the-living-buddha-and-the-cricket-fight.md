@@ -8,7 +8,7 @@ description: "أنقذ جي غونغ كاربنتر تشانغ، الذي دفع
 
 
 
-![AstroPaper I18n](/public/jigong-the-living-buddha-and-the-cricket-fight.png)
+![AstroPaper I18n](/jigong-the-living-buddha-and-the-cricket-fight.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В конце правления династии Суй Ло Чэ
 
 
 
-![AstroPaper I18n](/public/luo-cheng-burns-down-mengzhou-city.png)
+![AstroPaper I18n](/luo-cheng-burns-down-mengzhou-city.png)
 
 
 

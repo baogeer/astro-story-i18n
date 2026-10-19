@@ -8,7 +8,7 @@ description: "Чожу Даньцюн женился на дьяволе. Сбе
 
 
 
-![AstroPaper I18n](/public/the-story-of-tsodruk-dandron.png)
+![AstroPaper I18n](/the-story-of-tsodruk-dandron.png)
 
 
 

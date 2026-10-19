@@ -8,7 +8,7 @@ description: "Las prostitutas antiguas se dividieron en cinco categorías. Las p
 
 
 
-![AstroPaper I18n](/public/ancient-china-s-courtesans-who-were-state-employees.png)
+![AstroPaper I18n](/ancient-china-s-courtesans-who-were-state-employees.png)
 
 
 

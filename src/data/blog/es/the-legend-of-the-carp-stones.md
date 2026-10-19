@@ -8,7 +8,7 @@ description: "Dos carpas de Yaochi, en el Reino Celestial, se enamoraron y el em
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-stones.png)
+![AstroPaper I18n](/the-legend-of-the-carp-stones.png)
 
 
 

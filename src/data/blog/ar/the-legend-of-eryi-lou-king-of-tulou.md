@@ -8,7 +8,7 @@ description: "وجد جيانغ شيشيونغ صعوبة في تكوين أسر
 
 
 
-![AstroPaper I18n](/public/the-legend-of-eryi-lou-king-of-tulou.png)
+![AstroPaper I18n](/the-legend-of-eryi-lou-king-of-tulou.png)
 
 
 

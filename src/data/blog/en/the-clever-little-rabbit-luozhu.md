@@ -8,7 +8,7 @@ description: "On the grassland along the Brahmaputra River, Luo Zhu, used the in
 
 
 
-![AstroPaper I18n](/public/the-clever-little-rabbit-luozhu.png)
+![AstroPaper I18n](/the-clever-little-rabbit-luozhu.png)
 
 
 

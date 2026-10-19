@@ -8,7 +8,7 @@ description: "La légende raconte que Liu Jiapo à Xinhuang possède une «xa0pi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-slope-and-cave.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-slope-and-cave.png)
 
 
 

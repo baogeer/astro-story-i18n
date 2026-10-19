@@ -8,7 +8,7 @@ description: "Sun Taibai's great-grandfather stayed overnight at Liugou Temple a
 
 
 
-![AstroPaper I18n](/public/the-mountain-ogre.png)
+![AstroPaper I18n](/the-mountain-ogre.png)
 
 
 

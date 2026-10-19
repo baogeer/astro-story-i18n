@@ -8,7 +8,7 @@ description: "خلال عهد أسرة سونغ الجنوبية، غزا جيش
 
 
 
-![AstroPaper I18n](/public/liang-hongyu-beats-the-war-drum-at-jinshan.png)
+![AstroPaper I18n](/liang-hongyu-beats-the-war-drum-at-jinshan.png)
 
 
 

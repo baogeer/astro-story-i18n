@@ -8,7 +8,7 @@ description: "This short essay is a collection of poems on the theme of the Yell
 
 
 
-![AstroPaper I18n](/public/poems-about-the-yellow-river.png)
+![AstroPaper I18n](/poems-about-the-yellow-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhu Geliang a épousé Huang Shuo, la fille laide du célèbre Hua
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-s-ugly-wife.png)
+![AstroPaper I18n](/zhuge-liang-s-ugly-wife.png)
 
 
 

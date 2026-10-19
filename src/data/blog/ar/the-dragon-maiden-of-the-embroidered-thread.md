@@ -8,7 +8,7 @@ description: "للتخفيف من الجفاف، استخدم Zheng Xihua 49 ي�
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-of-the-embroidered-thread.png)
+![AstroPaper I18n](/the-dragon-maiden-of-the-embroidered-thread.png)
 
 
 

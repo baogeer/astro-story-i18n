@@ -8,7 +8,7 @@ description: "Chaque fois qu'il y a eu une famine ou des violences dans l'histoi
 
 
 
-![AstroPaper I18n](/public/beauties-eaten-in-chinese-history.png)
+![AstroPaper I18n](/beauties-eaten-in-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عيد الأضحى هو عيد الأضحى للمجموعات ا
 
 
 
-![AstroPaper I18n](/public/muslim-customs-of-eid-al-adha.png)
+![AstroPaper I18n](/muslim-customs-of-eid-al-adha.png)
 
 
 

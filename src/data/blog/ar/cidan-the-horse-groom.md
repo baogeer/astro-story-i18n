@@ -8,7 +8,7 @@ description: "وقع مافوزيدان في حب زوجة الزعيم سام �
 
 
 
-![AstroPaper I18n](/public/cidan-the-horse-groom.png)
+![AstroPaper I18n](/cidan-the-horse-groom.png)
 
 
 

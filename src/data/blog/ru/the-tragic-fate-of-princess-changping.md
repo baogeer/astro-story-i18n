@@ -8,7 +8,7 @@ description: "Принцесса Чанпин умерла в Фэнмине. Е
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-princess-changping.png)
+![AstroPaper I18n](/the-tragic-fate-of-princess-changping.png)
 
 
 

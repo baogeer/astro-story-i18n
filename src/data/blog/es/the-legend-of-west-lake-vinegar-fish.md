@@ -8,7 +8,7 @@ description: "Durante la dinastía Song del Sur, los hermanos Song fueron incrim
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-vinegar-fish.png)
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
 
 
 

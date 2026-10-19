@@ -8,7 +8,7 @@ description: "Чтобы наладить отношения с династие
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-s-journey-to-tibet.png)
+![AstroPaper I18n](/princess-wencheng-s-journey-to-tibet.png)
 
 
 

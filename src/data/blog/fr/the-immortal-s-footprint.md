@@ -8,7 +8,7 @@ description: "Laozi Li Er est monté sur une vache verte et a fait pression dans
 
 
 
-![AstroPaper I18n](/public/the-immortal-s-footprint.png)
+![AstroPaper I18n](/the-immortal-s-footprint.png)
 
 
 

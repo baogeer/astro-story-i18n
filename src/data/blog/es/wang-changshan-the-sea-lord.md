@@ -8,7 +8,7 @@ description: "Wang Changshan estaba endeudado y diseñó una espada falsa con su
 
 
 
-![AstroPaper I18n](/public/wang-changshan-the-sea-lord.png)
+![AstroPaper I18n](/wang-changshan-the-sea-lord.png)
 
 
 

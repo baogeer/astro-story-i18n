@@ -8,7 +8,7 @@ description: "La madre Wang fue muy amable con la gente y construyó dos montañ
 
 
 
-![AstroPaper I18n](/public/the-heavenly-queen-mother-who-fed-the-people.png)
+![AstroPaper I18n](/the-heavenly-queen-mother-who-fed-the-people.png)
 
 
 

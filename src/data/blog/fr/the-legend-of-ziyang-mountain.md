@@ -8,7 +8,7 @@ description: "La montagne Ziyang, anciennement connue sous le nom de montagne Fu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ziyang-mountain.png)
+![AstroPaper I18n](/the-legend-of-ziyang-mountain.png)
 
 
 

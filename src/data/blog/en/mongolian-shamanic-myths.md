@@ -8,7 +8,7 @@ description: "In Mongolian shaman mythology, the Tenjin faction taught magic to 
 
 
 
-![AstroPaper I18n](/public/mongolian-shamanic-myths.png)
+![AstroPaper I18n](/mongolian-shamanic-myths.png)
 
 
 

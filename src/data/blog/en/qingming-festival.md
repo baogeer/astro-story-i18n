@@ -8,7 +8,7 @@ description: "The Ching Ming Festival is one of the 24 seasons. The ancients use
 
 
 
-![AstroPaper I18n](/public/qingming-festival.png)
+![AstroPaper I18n](/qingming-festival.png)
 
 
 

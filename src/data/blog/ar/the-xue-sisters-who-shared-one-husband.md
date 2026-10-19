@@ -8,7 +8,7 @@ description: "كانت الأختين لان يينغ وهوي يينغ من ع�
 
 
 
-![AstroPaper I18n](/public/the-xue-sisters-who-shared-one-husband.png)
+![AstroPaper I18n](/the-xue-sisters-who-shared-one-husband.png)
 
 
 

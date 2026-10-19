@@ -8,7 +8,7 @@ description: "Da Li et Da Liu ont fait un pari après avoir bu. Da Li est allée
 
 
 
-![AstroPaper I18n](/public/the-drunk-who-groped-a-mannequin.png)
+![AstroPaper I18n](/the-drunk-who-groped-a-mannequin.png)
 
 
 

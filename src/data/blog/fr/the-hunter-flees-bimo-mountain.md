@@ -8,7 +8,7 @@ description: "Le chasseur a amené trois chiens de chasse pour chasser sur le mo
 
 
 
-![AstroPaper I18n](/public/the-hunter-flees-bimo-mountain.png)
+![AstroPaper I18n](/the-hunter-flees-bimo-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Король Свон защищал страну, а минист
 
 
 
-![AstroPaper I18n](/public/the-swan-minister.png)
+![AstroPaper I18n](/the-swan-minister.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Во времена династии Тан на Пионовой 
 
 
 
-![AstroPaper I18n](/public/the-flower-king-and-the-flower-queen.png)
+![AstroPaper I18n](/the-flower-king-and-the-flower-queen.png)
 
 
 

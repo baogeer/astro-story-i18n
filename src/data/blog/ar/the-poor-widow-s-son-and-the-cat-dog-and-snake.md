@@ -8,7 +8,7 @@ description: "اقترض ابن الأرملة المال ثلاث مرات لل
 
 
 
-![AstroPaper I18n](/public/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
+![AstroPaper I18n](/the-poor-widow-s-son-and-the-cat-dog-and-snake.png)
 
 
 

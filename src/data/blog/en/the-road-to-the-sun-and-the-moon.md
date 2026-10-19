@@ -8,7 +8,7 @@ description: "In order to marry his beloved Hanlushka, Jannik embarked on a jour
 
 
 
-![AstroPaper I18n](/public/the-road-to-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-road-to-the-sun-and-the-moon.png)
 
 
 

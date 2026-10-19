@@ -8,7 +8,7 @@ description: "When Chai Sheng fetched water, he brought back a frog, and it turn
 
 
 
-![AstroPaper I18n](/public/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
+![AstroPaper I18n](/the-dong-folktale-of-chaisheng-and-the-frog-maiden.png)
 
 
 

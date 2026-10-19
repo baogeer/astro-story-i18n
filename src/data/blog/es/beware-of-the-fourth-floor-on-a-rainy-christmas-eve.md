@@ -8,7 +8,7 @@ description: "En Nochebuena, «yo» y Gao Chu regresamos al edificio y descubrim
 
 
 
-![AstroPaper I18n](/public/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
+![AstroPaper I18n](/beware-of-the-fourth-floor-on-a-rainy-christmas-eve.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фестиваль Чинг Мин — один из 24 сезон
 
 
 
-![AstroPaper I18n](/public/qingming-festival.png)
+![AstroPaper I18n](/qingming-festival.png)
 
 
 

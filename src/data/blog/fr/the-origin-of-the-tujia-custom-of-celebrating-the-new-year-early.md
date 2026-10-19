@@ -8,7 +8,7 @@ description: "Afin de résister aux envahisseurs étrangers, le roi Yang Guru a 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-tujia-custom-of-celebrating-the-new-year-early.png)
+![AstroPaper I18n](/the-origin-of-the-tujia-custom-of-celebrating-the-new-year-early.png)
 
 
 

@@ -8,7 +8,7 @@ description: "اصطاد شيوا حلزونًا ذهبيًا أثناء الص�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-snail-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-snail-maiden.png)
 
 
 

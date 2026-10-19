@@ -8,7 +8,7 @@ description: "Wang Zhaojun volunteered to marry the Huns and called for Han Xie 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-wang-zhaojun-s-peace-marriage-beyond-the-great-wall.png)
 
 
 

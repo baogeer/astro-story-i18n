@@ -8,7 +8,7 @@ description: "Приливные воды реки Цяньтан неоднок
 
 
 
-![AstroPaper I18n](/public/king-qian-shoots-the-tidal-bore.png)
+![AstroPaper I18n](/king-qian-shoots-the-tidal-bore.png)
 
 
 

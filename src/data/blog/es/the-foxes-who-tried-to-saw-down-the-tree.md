@@ -8,7 +8,7 @@ description: "Iron Li, un cazador de la Edad de Oro, atraía a los zorros con pa
 
 
 
-![AstroPaper I18n](/public/the-foxes-who-tried-to-saw-down-the-tree.png)
+![AstroPaper I18n](/the-foxes-who-tried-to-saw-down-the-tree.png)
 
 
 

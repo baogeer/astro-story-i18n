@@ -8,7 +8,7 @@ description: "When Ding Qianxi was sheltered from the rain, she was sincerely tr
 
 
 
-![AstroPaper I18n](/public/the-story-of-ding-qianxi.png)
+![AstroPaper I18n](/the-story-of-ding-qianxi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yue Fei luchó contra Jin y se opuso a la búsqueda de paz de Gao 
 
 
 
-![AstroPaper I18n](/public/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
+![AstroPaper I18n](/the-death-of-yue-fei-the-hidden-roots-of-an-inescapable-fate.png)
 
 
 

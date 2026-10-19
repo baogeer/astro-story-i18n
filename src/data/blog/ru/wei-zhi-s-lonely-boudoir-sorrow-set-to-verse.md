@@ -8,7 +8,7 @@ description: "Вэй Чжи — жена Цзэн Бу из группы Norther
 
 
 
-![AstroPaper I18n](/public/wei-zhi-s-lonely-boudoir-sorrow-set-to-verse.png)
+![AstroPaper I18n](/wei-zhi-s-lonely-boudoir-sorrow-set-to-verse.png)
 
 
 

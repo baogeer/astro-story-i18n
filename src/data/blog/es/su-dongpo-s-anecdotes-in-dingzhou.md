@@ -8,7 +8,7 @@ description: "Tras la degradación de Su Dongpo como gobernador de Dingzhou, eli
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-anecdotes-in-dingzhou.png)
+![AstroPaper I18n](/su-dongpo-s-anecdotes-in-dingzhou.png)
 
 
 

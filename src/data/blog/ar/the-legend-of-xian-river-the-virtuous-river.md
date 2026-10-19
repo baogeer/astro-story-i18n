@@ -8,7 +8,7 @@ description: "يُعرف نهر Shijihe في Laiyang أيضًا باسم نهر 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xian-river-the-virtuous-river.png)
+![AstroPaper I18n](/the-legend-of-xian-river-the-virtuous-river.png)
 
 
 

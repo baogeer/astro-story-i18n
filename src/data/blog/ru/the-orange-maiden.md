@@ -8,7 +8,7 @@ description: "В поисках легендарной Оранжевой дев
 
 
 
-![AstroPaper I18n](/public/the-orange-maiden.png)
+![AstroPaper I18n](/the-orange-maiden.png)
 
 
 

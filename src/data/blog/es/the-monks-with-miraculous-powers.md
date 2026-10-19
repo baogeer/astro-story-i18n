@@ -8,7 +8,7 @@ description: "Los dos monjes occidentales tenían una apariencia extraña e inic
 
 
 
-![AstroPaper I18n](/public/the-monks-with-miraculous-powers.png)
+![AstroPaper I18n](/the-monks-with-miraculous-powers.png)
 
 
 

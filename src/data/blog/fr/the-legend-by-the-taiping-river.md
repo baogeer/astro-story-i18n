@@ -8,7 +8,7 @@ description: "Lu Dongbin a été ému par les bonnes actions d'un vieux couple q
 
 
 
-![AstroPaper I18n](/public/the-legend-by-the-taiping-river.png)
+![AstroPaper I18n](/the-legend-by-the-taiping-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Poor Tibetan teenager Dun Zhu Zaxi cut wood to get a golden axe, f
 
 
 
-![AstroPaper I18n](/public/the-princess-s-pearl-shoe.png)
+![AstroPaper I18n](/the-princess-s-pearl-shoe.png)
 
 
 

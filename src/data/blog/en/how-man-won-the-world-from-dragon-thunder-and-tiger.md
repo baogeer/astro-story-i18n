@@ -8,7 +8,7 @@ description: "Renhe, Dragon, Lei, and Tiger are brothers, and they don't give up
 
 
 
-![AstroPaper I18n](/public/how-man-won-the-world-from-dragon-thunder-and-tiger.png)
+![AstroPaper I18n](/how-man-won-the-world-from-dragon-thunder-and-tiger.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wang Baochuan a jeté des hortensias et a épousé Xue Pinggui pen
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
+![AstroPaper I18n](/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
 
 
 

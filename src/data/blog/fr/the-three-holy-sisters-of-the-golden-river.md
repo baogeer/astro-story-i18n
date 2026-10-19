@@ -8,7 +8,7 @@ description: "Les trois filles du roi Longwang de la rivière Jinsha ont été t
 
 
 
-![AstroPaper I18n](/public/the-three-holy-sisters-of-the-golden-river.png)
+![AstroPaper I18n](/the-three-holy-sisters-of-the-golden-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The old monk from Jinshi Cave in Hongshan Mountain raised a golden
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-colt.png)
+![AstroPaper I18n](/the-legend-of-the-golden-colt.png)
 
 
 

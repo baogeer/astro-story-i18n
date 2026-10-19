@@ -8,7 +8,7 @@ description: "Feng Yi voulait devenir immortel. Après avoir cherché du jus de 
 
 
 
-![AstroPaper I18n](/public/how-feng-yi-became-the-river-god.png)
+![AstroPaper I18n](/how-feng-yi-became-the-river-god.png)
 
 
 

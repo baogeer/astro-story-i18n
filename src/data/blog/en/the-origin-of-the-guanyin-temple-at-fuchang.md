@@ -8,7 +8,7 @@ description: "At the Baizhushan Temple Fair, people from Yoshimura and Longjie w
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
 
 
 

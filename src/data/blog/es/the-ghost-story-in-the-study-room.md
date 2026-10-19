@@ -8,7 +8,7 @@ description: "Un meritorio estudiante de la Universidad de Ciencias Políticas y
 
 
 
-![AstroPaper I18n](/public/the-ghost-story-in-the-study-room.png)
+![AstroPaper I18n](/the-ghost-story-in-the-study-room.png)
 
 
 

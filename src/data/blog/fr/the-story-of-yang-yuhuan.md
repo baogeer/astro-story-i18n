@@ -8,7 +8,7 @@ description: "Yang Yuhuan était à l'origine la reine Shou, le fils de Tang Xua
 
 
 
-![AstroPaper I18n](/public/the-story-of-yang-yuhuan.png)
+![AstroPaper I18n](/the-story-of-yang-yuhuan.png)
 
 
 

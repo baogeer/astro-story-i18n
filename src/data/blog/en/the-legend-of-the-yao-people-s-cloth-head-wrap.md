@@ -8,7 +8,7 @@ description: "An ancestral dragon dog of the Yao tribe bit off Ziwang's head and
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
+![AstroPaper I18n](/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
 
 
 

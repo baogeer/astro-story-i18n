@@ -8,7 +8,7 @@ description: "En la dinastía Ming, Zhao Mei y Xu igualaron a Sun Jigao. El padr
 
 
 
-![AstroPaper I18n](/public/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
+![AstroPaper I18n](/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
 
 
 

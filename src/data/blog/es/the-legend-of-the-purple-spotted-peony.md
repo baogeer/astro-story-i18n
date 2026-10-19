@@ -8,7 +8,7 @@ description: "Shi Yishou, un ermitaño al final de la dinastía Ming, se negó a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-purple-spotted-peony.png)
+![AstroPaper I18n](/the-legend-of-the-purple-spotted-peony.png)
 
 
 

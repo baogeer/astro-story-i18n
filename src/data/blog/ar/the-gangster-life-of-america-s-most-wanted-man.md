@@ -8,7 +8,7 @@ description: "كان زعيم العصابة الأمريكية جيمس بال�
 
 
 
-![AstroPaper I18n](/public/the-gangster-life-of-america-s-most-wanted-man.png)
+![AstroPaper I18n](/the-gangster-life-of-america-s-most-wanted-man.png)
 
 
 

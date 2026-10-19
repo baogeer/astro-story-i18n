@@ -8,7 +8,7 @@ description: "Она Шанха Лаовэй была трудолюбива и 
 
 
 
-![AstroPaper I18n](/public/the-she-folktale-of-sending-a-measure-of-rice.png)
+![AstroPaper I18n](/the-she-folktale-of-sending-a-measure-of-rice.png)
 
 
 

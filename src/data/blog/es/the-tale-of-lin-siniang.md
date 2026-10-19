@@ -8,7 +8,7 @@ description: "Chen Baoyao, de la provincia de Qingzhou, se encontró con la herm
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lin-siniang.png)
+![AstroPaper I18n](/the-tale-of-lin-siniang.png)
 
 
 

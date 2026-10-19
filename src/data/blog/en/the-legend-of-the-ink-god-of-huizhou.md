@@ -8,7 +8,7 @@ description: "Gu Yu Ting was deceived by the Moon family's father and son to ste
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ink-god-of-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-ink-god-of-huizhou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "To protect Wan Xiliang's blood, the woman Meng Jiang fled to Wujia
 
 
 
-![AstroPaper I18n](/public/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
+![AstroPaper I18n](/the-tale-of-meng-jiangnu-and-the-birth-of-xiang-yu.png)
 
 
 

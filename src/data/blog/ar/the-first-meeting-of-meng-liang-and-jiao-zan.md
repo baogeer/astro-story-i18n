@@ -8,7 +8,7 @@ description: "كان منغ ليانغلي قادرًا على مشاركة قو
 
 
 
-![AstroPaper I18n](/public/the-first-meeting-of-meng-liang-and-jiao-zan.png)
+![AstroPaper I18n](/the-first-meeting-of-meng-liang-and-jiao-zan.png)
 
 
 

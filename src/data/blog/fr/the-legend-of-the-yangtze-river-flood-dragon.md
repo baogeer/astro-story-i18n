@@ -8,7 +8,7 @@ description: "La légende du «xa0jiao ambulantxa0» du fleuve Yangtsé raconte 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-flood-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-flood-dragon.png)
 
 
 

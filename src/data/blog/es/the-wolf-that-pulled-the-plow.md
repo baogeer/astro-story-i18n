@@ -8,7 +8,7 @@ description: "Cuando un granjero en medio de la ladera de la montaña vio a un l
 
 
 
-![AstroPaper I18n](/public/the-wolf-that-pulled-the-plow.png)
+![AstroPaper I18n](/the-wolf-that-pulled-the-plow.png)
 
 
 

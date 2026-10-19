@@ -8,7 +8,7 @@ description: "Zhang Bairen did good deeds to save the monk, and was gifted with 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
+![AstroPaper I18n](/the-legend-of-the-jade-emperor-and-the-longkou-long-stem-pear.png)
 
 
 

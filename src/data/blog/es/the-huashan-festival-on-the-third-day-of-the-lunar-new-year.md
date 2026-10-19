@@ -8,7 +8,7 @@ description: "El Festival Huashan es un festival tradicional que celebran los mi
 
 
 
-![AstroPaper I18n](/public/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
+![AstroPaper I18n](/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
 
 
 

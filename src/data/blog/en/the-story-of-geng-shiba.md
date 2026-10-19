@@ -8,7 +8,7 @@ description: "Geng 18 asked his wife if she was widowed or remarried when she wa
 
 
 
-![AstroPaper I18n](/public/the-story-of-geng-shiba.png)
+![AstroPaper I18n](/the-story-of-geng-shiba.png)
 
 
 

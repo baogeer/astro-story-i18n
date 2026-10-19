@@ -8,7 +8,7 @@ description: "عثرت كير على كرة تنين بجوار الخور وا�
 
 
 
-![AstroPaper I18n](/public/the-black-dragon.png)
+![AstroPaper I18n](/the-black-dragon.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Saver هو الحارس الشخصي للملك وو سانغي، 
 
 
 
-![AstroPaper I18n](/public/bao-zhu-retrieves-the-pipa.png)
+![AstroPaper I18n](/bao-zhu-retrieves-the-pipa.png)
 
 
 

@@ -8,7 +8,7 @@ description: "A one-yuan coin that came rolling in by itself reminds the protago
 
 
 
-![AstroPaper I18n](/public/the-one-yuan-coin.png)
+![AstroPaper I18n](/the-one-yuan-coin.png)
 
 
 

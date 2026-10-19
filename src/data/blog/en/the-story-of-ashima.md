@@ -8,7 +8,7 @@ description: "Ashima and her orphan Ahu have a lifelong relationship, but they a
 
 
 
-![AstroPaper I18n](/public/the-story-of-ashima.png)
+![AstroPaper I18n](/the-story-of-ashima.png)
 
 
 

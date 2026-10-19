@@ -8,7 +8,7 @@ description: "في السنة الأولى من حكم الإمبراطور تش
 
 
 
-![AstroPaper I18n](/public/han-valor-the-battle-to-rescue-geng-gong.png)
+![AstroPaper I18n](/han-valor-the-battle-to-rescue-geng-gong.png)
 
 
 

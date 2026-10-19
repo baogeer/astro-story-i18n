@@ -8,7 +8,7 @@ description: "Mrs. Qiao Guo came from the Lingnan tribe. She married Gao Liang, 
 
 
 
-![AstroPaper I18n](/public/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
+![AstroPaper I18n](/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
 
 
 

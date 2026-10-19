@@ -8,7 +8,7 @@ description: "In the early years of the Republic of China, Cai Yi was placed und
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
+![AstroPaper I18n](/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يدعي تشانغ غولاو أنه ولد في ياو، وعا�
 
 
 
-![AstroPaper I18n](/public/zhang-guolao-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhang-guolao-one-of-the-eight-immortals.png)
 
 
 

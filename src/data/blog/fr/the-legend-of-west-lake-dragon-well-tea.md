@@ -8,7 +8,7 @@ description: "Lorsque l'empereur Qianlong est allé au Jiangnan, il a cueilli du
 
 
 
-![AstroPaper I18n](/public/the-legend-of-west-lake-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-west-lake-dragon-well-tea.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В мифах и легендах семьи Туцзя есть �
 
 
 
-![AstroPaper I18n](/public/tujia-myths-and-legends.png)
+![AstroPaper I18n](/tujia-myths-and-legends.png)
 
 
 

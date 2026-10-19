@@ -8,7 +8,7 @@ description: "En la mitología chamánica mongola, la facción Tenjin enseñaba 
 
 
 
-![AstroPaper I18n](/public/mongolian-shamanic-myths.png)
+![AstroPaper I18n](/mongolian-shamanic-myths.png)
 
 
 

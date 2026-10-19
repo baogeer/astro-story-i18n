@@ -8,7 +8,7 @@ description: "La princesse Liu Yi de Liyi, fille de Liu Xiu, l'empereur fondateu
 
 
 
-![AstroPaper I18n](/public/the-first-princess-in-history-to-die-from-domestic-violence.png)
+![AstroPaper I18n](/the-first-princess-in-history-to-die-from-domestic-violence.png)
 
 
 

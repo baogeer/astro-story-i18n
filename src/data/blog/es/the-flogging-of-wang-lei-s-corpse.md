@@ -8,7 +8,7 @@ description: "Después de que el general Sui Wang Lei matara a tiros a Luo Cheng
 
 
 
-![AstroPaper I18n](/public/the-flogging-of-wang-lei-s-corpse.png)
+![AstroPaper I18n](/the-flogging-of-wang-lei-s-corpse.png)
 
 
 

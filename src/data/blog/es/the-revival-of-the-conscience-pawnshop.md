@@ -8,7 +8,7 @@ description: "Zhang Yipin, un meticuloso propietario de una casa de empeños, se
 
 
 
-![AstroPaper I18n](/public/the-revival-of-the-conscience-pawnshop.png)
+![AstroPaper I18n](/the-revival-of-the-conscience-pawnshop.png)
 
 
 

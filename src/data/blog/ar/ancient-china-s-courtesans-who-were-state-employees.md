@@ -8,7 +8,7 @@ description: "تم تقسيم البغايا القديمة إلى خمس فئا
 
 
 
-![AstroPaper I18n](/public/ancient-china-s-courtesans-who-were-state-employees.png)
+![AstroPaper I18n](/ancient-china-s-courtesans-who-were-state-employees.png)
 
 
 

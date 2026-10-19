@@ -8,7 +8,7 @@ description: "كانت الفتاة من مجموعة بويي العرقية ا
 
 
 
-![AstroPaper I18n](/public/the-bouyei-folk-tale-of-the-fern-sprout.png)
+![AstroPaper I18n](/the-bouyei-folk-tale-of-the-fern-sprout.png)
 
 
 

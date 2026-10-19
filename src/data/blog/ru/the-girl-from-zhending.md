@@ -8,7 +8,7 @@ description: "Наверное, 67-летняя невестка заберем�
 
 
 
-![AstroPaper I18n](/public/the-girl-from-zhending.png)
+![AstroPaper I18n](/the-girl-from-zhending.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Хань Сянцзы, один из восьми бессмерт
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/han-xiangzi-one-of-the-eight-immortals.png)
 
 
 

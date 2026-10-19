@@ -8,7 +8,7 @@ description: "Tianxin Zhaizi originalmente tenía un manantial increíblemente l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-sand-well.png)
+![AstroPaper I18n](/the-legend-of-the-white-sand-well.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يتمتع Shen Zhenzhu بمواهب وعلاقة مدى الحي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+![AstroPaper I18n](/the-legend-of-shen-zhenzhu.png)
 
 
 

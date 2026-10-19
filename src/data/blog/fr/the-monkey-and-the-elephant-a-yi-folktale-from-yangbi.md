@@ -8,7 +8,7 @@ description: "Les singes ont faim de pêches de l'autre côté de la rivière, m
 
 
 
-![AstroPaper I18n](/public/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-monkey-and-the-elephant-a-yi-folktale-from-yangbi.png)
 
 
 

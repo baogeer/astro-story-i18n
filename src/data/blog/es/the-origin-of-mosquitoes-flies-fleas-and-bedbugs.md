@@ -8,7 +8,7 @@ description: "Una pareja implacable abandonó a sus hijos y el hermano y la herm
 
 
 
-![AstroPaper I18n](/public/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
+![AstroPaper I18n](/the-origin-of-mosquitoes-flies-fleas-and-bedbugs.png)
 
 
 

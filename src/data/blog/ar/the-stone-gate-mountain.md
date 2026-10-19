@@ -8,7 +8,7 @@ description: "يحتوي جبل شيمن على شيمن. تقول الأسطو�
 
 
 
-![AstroPaper I18n](/public/the-stone-gate-mountain.png)
+![AstroPaper I18n](/the-stone-gate-mountain.png)
 
 
 

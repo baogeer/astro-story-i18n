@@ -8,7 +8,7 @@ description: "Luban's apprentice Zhao is arrogant and arrogant; he wants to comp
 
 
 
-![AstroPaper I18n](/public/lu-ban-teaches-his-apprentice-a-lesson.png)
+![AstroPaper I18n](/lu-ban-teaches-his-apprentice-a-lesson.png)
 
 
 

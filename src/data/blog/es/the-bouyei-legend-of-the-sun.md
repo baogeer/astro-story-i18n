@@ -8,7 +8,7 @@ description: "En la antigüedad, los 12 soles del cielo quemaban la tierra hasta
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-sun.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-sun.png)
 
 
 

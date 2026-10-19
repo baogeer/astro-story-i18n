@@ -8,7 +8,7 @@ description: "Feng Xiaoqing was smart enough to recite the Buddhist sutras since
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
+![AstroPaper I18n](/the-tragic-fate-of-feng-xiaoqing-a-precocious-beauty.png)
 
 
 

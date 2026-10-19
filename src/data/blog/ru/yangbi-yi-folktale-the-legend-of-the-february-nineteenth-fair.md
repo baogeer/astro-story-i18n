@@ -8,7 +8,7 @@ description: "Ах Сян из деревни Чжи на реке Янъи бы
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
 
 
 

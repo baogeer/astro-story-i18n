@@ -8,7 +8,7 @@ description: "لقد ثبط رينكسيا جيوزي والده من المشا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
+![AstroPaper I18n](/the-legend-of-the-nine-brothers-of-fengting-and-the-healing-stream.png)
 
 
 

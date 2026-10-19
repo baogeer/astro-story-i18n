@@ -8,7 +8,7 @@ description: "Wang Baochuan lanzó hortensias y se casó con Xue Pinggui durante
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
+![AstroPaper I18n](/wang-baochuan-the-beautiful-writer-with-stories-to-tell.png)
 
 
 

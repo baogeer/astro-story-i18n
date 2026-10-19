@@ -8,7 +8,7 @@ description: "На дне озера Цзиньню живет Телец. В с
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-lake.png)
+![AstroPaper I18n](/the-golden-ox-lake.png)
 
 
 

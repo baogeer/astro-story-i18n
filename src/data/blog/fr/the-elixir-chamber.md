@@ -8,7 +8,7 @@ description: "Après que la maison de Zhang Juzheng ait été perquisitionnée, 
 
 
 
-![AstroPaper I18n](/public/the-elixir-chamber.png)
+![AstroPaper I18n](/the-elixir-chamber.png)
 
 
 

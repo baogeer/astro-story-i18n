@@ -8,7 +8,7 @@ description: "La paysanne Yi, Ejia, labourait le sol et cultivait durement les v
 
 
 
-![AstroPaper I18n](/public/the-ploughing-song-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-ploughing-song-a-yi-folktale-from-yangbi.png)
 
 
 

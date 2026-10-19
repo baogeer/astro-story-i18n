@@ -8,7 +8,7 @@ description: "Han Xin a été humilié quand il était jeune. Plus tard, il a re
 
 
 
-![AstroPaper I18n](/public/han-xin-the-peerless-military-genius.png)
+![AstroPaper I18n](/han-xin-the-peerless-military-genius.png)
 
 
 

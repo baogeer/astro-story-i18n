@@ -8,7 +8,7 @@ description: "Le peintre Du Feng'e de Sizhou est spécialisé dans la peinture d
 
 
 
-![AstroPaper I18n](/public/the-girl-who-claimed-to-be-a-fox-fairy.png)
+![AstroPaper I18n](/the-girl-who-claimed-to-be-a-fox-fairy.png)
 
 
 

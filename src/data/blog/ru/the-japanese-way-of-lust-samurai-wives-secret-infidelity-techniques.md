@@ -8,7 +8,7 @@ description: "В эпоху японских самураев жены-саму�
 
 
 
-![AstroPaper I18n](/public/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
+![AstroPaper I18n](/the-japanese-way-of-lust-samurai-wives-secret-infidelity-techniques.png)
 
 
 

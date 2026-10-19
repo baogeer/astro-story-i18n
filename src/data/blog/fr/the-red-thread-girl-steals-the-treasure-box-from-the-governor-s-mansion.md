@@ -8,7 +8,7 @@ description: "Le vrai nom de Red Line est Hong Xian. Elle était à l'origine la
 
 
 
-![AstroPaper I18n](/public/the-red-thread-girl-steals-the-treasure-box-from-the-governor-s-mansion.png)
+![AstroPaper I18n](/the-red-thread-girl-steals-the-treasure-box-from-the-governor-s-mansion.png)
 
 
 

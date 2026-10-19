@@ -8,7 +8,7 @@ description: "Wang Zhaojun was elected to the Han Palace as a folk woman. She wa
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
+![AstroPaper I18n](/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Hong Hong, prostituée pop de la dynastie Tang, était célèbre p
 
 
 
-![AstroPaper I18n](/public/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
+![AstroPaper I18n](/the-tang-dynasty-songstress-who-charmed-two-emperors.png)
 
 
 

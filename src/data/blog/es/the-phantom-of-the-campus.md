@@ -8,7 +8,7 @@ description: "Lin Xiaonan conoció al fantasma de una mujer ciega mientras estud
 
 
 
-![AstroPaper I18n](/public/the-phantom-of-the-campus.png)
+![AstroPaper I18n](/the-phantom-of-the-campus.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Принцесса Гоян — дочь Тан Тайцзуна. 
 
 
 
-![AstroPaper I18n](/public/the-tragic-love-of-princess-gaoyang.png)
+![AstroPaper I18n](/the-tragic-love-of-princess-gaoyang.png)
 
 
 

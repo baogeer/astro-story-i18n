@@ -8,7 +8,7 @@ description: "Ли Цзин был военным в начале династи
 
 
 
-![AstroPaper I18n](/public/li-jing-the-god-of-war-who-overawed-the-northern-barbarians.png)
+![AstroPaper I18n](/li-jing-the-god-of-war-who-overawed-the-northern-barbarians.png)
 
 
 

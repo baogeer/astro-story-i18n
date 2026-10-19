@@ -8,7 +8,7 @@ description: "Après que Pangu ait été le pionnier du monde, ils sont devenus 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-pangu.png)
+![AstroPaper I18n](/the-legend-of-pangu.png)
 
 
 

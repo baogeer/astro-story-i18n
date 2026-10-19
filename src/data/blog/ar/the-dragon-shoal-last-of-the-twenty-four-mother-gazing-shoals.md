@@ -8,7 +8,7 @@ description: "بعد رعي البقرة، لا داعي للقلق بشأن ا�
 
 
 
-![AstroPaper I18n](/public/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
+![AstroPaper I18n](/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
 
 
 

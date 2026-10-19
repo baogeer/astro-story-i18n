@@ -8,7 +8,7 @@ description: "Brother Lianer buried the old lady asking for food, married his da
 
 
 
-![AstroPaper I18n](/public/the-story-of-simple-second-brother.png)
+![AstroPaper I18n](/the-story-of-simple-second-brother.png)
 
 
 

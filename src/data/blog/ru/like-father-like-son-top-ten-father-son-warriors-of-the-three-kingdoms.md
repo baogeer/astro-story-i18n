@@ -8,7 +8,7 @@ description: "В этой статье рассказывается о деся�
 
 
 
-![AstroPaper I18n](/public/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
+![AstroPaper I18n](/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
 
 
 

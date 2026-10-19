@@ -8,7 +8,7 @@ description: "تصرف كيم سي سونغ بتهور. بعد مغادرته ا
 
 
 
-![AstroPaper I18n](/public/the-mad-monk-jin-shicheng.png)
+![AstroPaper I18n](/the-mad-monk-jin-shicheng.png)
 
 
 

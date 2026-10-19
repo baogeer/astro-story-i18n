@@ -8,7 +8,7 @@ description: "Huangdi and Yandi joined forces with various tribes to defeat Lu Y
 
 
 
-![AstroPaper I18n](/public/the-descendants-of-yan-and-huang.png)
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
 
 
 

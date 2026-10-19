@@ -8,7 +8,7 @@ description: "Lin Yuanwai acusó falsamente al élder Chen Qin de matar a su gat
 
 
 
-![AstroPaper I18n](/public/settling-a-cat-claim-with-a-rice-spoon.png)
+![AstroPaper I18n](/settling-a-cat-claim-with-a-rice-spoon.png)
 
 
 

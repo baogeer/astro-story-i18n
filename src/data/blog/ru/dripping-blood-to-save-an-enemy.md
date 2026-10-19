@@ -8,7 +8,7 @@ description: "Лу Молин был разработан и приглашен 
 
 
 
-![AstroPaper I18n](/public/dripping-blood-to-save-an-enemy.png)
+![AstroPaper I18n](/dripping-blood-to-save-an-enemy.png)
 
 
 

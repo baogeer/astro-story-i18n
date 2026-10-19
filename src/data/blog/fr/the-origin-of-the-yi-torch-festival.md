@@ -8,7 +8,7 @@ description: "Le héros Yi, Abu, a retiré le «xa0Xiaxa0» du démon et l'a pi�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-yi-torch-festival.png)
 
 
 

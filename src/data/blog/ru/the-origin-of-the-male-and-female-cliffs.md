@@ -8,7 +8,7 @@ description: "В деревне Чаншоу, поселок Фухэн, Янь�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-male-and-female-cliffs.png)
+![AstroPaper I18n](/the-origin-of-the-male-and-female-cliffs.png)
 
 
 

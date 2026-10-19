@@ -8,7 +8,7 @@ description: "A famous prostitute from Beijing, Yu Tang Chun fell in love with W
 
 
 
-![AstroPaper I18n](/public/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
+![AstroPaper I18n](/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
 
 
 

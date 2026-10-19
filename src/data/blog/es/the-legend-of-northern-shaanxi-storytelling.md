@@ -8,7 +8,7 @@ description: "La leyenda del cuento del norte de Shaanxi se originó durante el 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-northern-shaanxi-storytelling.png)
+![AstroPaper I18n](/the-legend-of-northern-shaanxi-storytelling.png)
 
 
 

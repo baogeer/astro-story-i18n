@@ -8,7 +8,7 @@ description: "À côté de la tour Gulou à Hangzhou, près du pont anonyme, se 
 
 
 
-![AstroPaper I18n](/public/the-bridge-of-waiting-for-the-immortal.png)
+![AstroPaper I18n](/the-bridge-of-waiting-for-the-immortal.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сяо Цю и Сяо Цзи познакомились в сре�
 
 
 
-![AstroPaper I18n](/public/ghost-story-remembering-a-departed-friend.png)
+![AstroPaper I18n](/ghost-story-remembering-a-departed-friend.png)
 
 
 

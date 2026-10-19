@@ -8,7 +8,7 @@ description: "Есть маленький белый дракон, которо�
 
 
 
-![AstroPaper I18n](/public/the-white-dragon-of-laguo-dragon-pool.png)
+![AstroPaper I18n](/the-white-dragon-of-laguo-dragon-pool.png)
 
 
 

@@ -8,7 +8,7 @@ description: "حصل Chai Lang على تعليمات لإنقاذ الجنية �
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-a-yi-folktale.png)
+![AstroPaper I18n](/the-dragon-maiden-a-yi-folktale.png)
 
 
 

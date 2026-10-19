@@ -8,7 +8,7 @@ description: "Богиня Цян Шалан учит народ Цян танц
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-shalang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-shalang-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تسجل عشر حكايات عن تشنغ بانتشياو حكا
 
 
 
-![AstroPaper I18n](/public/ten-anecdotes-of-zheng-banqiao.png)
+![AstroPaper I18n](/ten-anecdotes-of-zheng-banqiao.png)
 
 
 

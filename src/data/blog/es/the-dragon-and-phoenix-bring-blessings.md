@@ -8,7 +8,7 @@ description: "La aldea de Heping fue esclavizada por bandidos y azotada por una 
 
 
 
-![AstroPaper I18n](/public/the-dragon-and-phoenix-bring-blessings.png)
+![AstroPaper I18n](/the-dragon-and-phoenix-bring-blessings.png)
 
 
 

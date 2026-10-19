@@ -8,7 +8,7 @@ description: "Il était une fois, le vieil homme a enseigné un métier à ses q
 
 
 
-![AstroPaper I18n](/public/the-big-thief-and-the-little-thief.png)
+![AstroPaper I18n](/the-big-thief-and-the-little-thief.png)
 
 
 

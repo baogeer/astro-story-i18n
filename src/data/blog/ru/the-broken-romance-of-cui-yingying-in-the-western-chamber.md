@@ -8,7 +8,7 @@ description: "Цуй Инъин жила со своей матерью в хр�
 
 
 
-![AstroPaper I18n](/public/the-broken-romance-of-cui-yingying-in-the-western-chamber.png)
+![AstroPaper I18n](/the-broken-romance-of-cui-yingying-in-the-western-chamber.png)
 
 
 

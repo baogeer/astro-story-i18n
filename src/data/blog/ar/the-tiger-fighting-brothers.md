@@ -8,7 +8,7 @@ description: "ثلاثة أشقاء من منطقة مينان الجبلية. �
 
 
 
-![AstroPaper I18n](/public/the-tiger-fighting-brothers.png)
+![AstroPaper I18n](/the-tiger-fighting-brothers.png)
 
 
 

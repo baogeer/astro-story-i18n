@@ -8,7 +8,7 @@ description: "En los primeros años de la República de China, Yuan Shikai puso 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
+![AstroPaper I18n](/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
 
 
 

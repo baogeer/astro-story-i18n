@@ -8,7 +8,7 @@ description: "Fu Qiubo, un hada del oeste de Han, viajó a Jingning con dos grul
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-creek.png)
+![AstroPaper I18n](/the-legend-of-crane-creek.png)
 
 
 

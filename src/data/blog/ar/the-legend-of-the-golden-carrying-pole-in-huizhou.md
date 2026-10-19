@@ -8,7 +8,7 @@ description: "هناك 100 حرف من اللغة السنسكريتية على 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
 
 
 

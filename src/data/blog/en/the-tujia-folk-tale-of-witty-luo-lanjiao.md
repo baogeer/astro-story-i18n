@@ -8,7 +8,7 @@ description: "Luo Lanjiao is a smart and witty Tujia woman. When she got married
 
 
 
-![AstroPaper I18n](/public/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
+![AstroPaper I18n](/the-tujia-folk-tale-of-witty-luo-lanjiao.png)
 
 
 

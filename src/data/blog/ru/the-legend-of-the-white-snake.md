@@ -8,7 +8,7 @@ description: "Бай Су Чжон, превратившийся в белую �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake.png)
 
 
 

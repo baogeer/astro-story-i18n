@@ -8,7 +8,7 @@ description: "Il n'y a pas de montagnes sur la mer de Chine orientale. Une séri
 
 
 
-![AstroPaper I18n](/public/the-great-fish-of-the-eastern-sea.png)
+![AstroPaper I18n](/the-great-fish-of-the-eastern-sea.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Aguton Baru conoció a un arrogante Lama de la Barra de Hierro, y 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudengba-goodbye.png)
+![AstroPaper I18n](/the-tale-of-agudengba-goodbye.png)
 
 
 

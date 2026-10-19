@@ -8,7 +8,7 @@ description: "В этой статье представлены семь лег�
 
 
 
-![AstroPaper I18n](/public/legends-of-the-peony.png)
+![AstroPaper I18n](/legends-of-the-peony.png)
 
 
 

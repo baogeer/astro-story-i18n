@@ -8,7 +8,7 @@ description: "Вэй Цин родилась домашней рабыней и 
 
 
 
-![AstroPaper I18n](/public/the-ever-victorious-general-wei-qing.png)
+![AstroPaper I18n](/the-ever-victorious-general-wei-qing.png)
 
 
 

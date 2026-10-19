@@ -8,7 +8,7 @@ description: "Le père de Zuo Wenwei a été blessé par Yang Chunsheng lors du 
 
 
 
-![AstroPaper I18n](/public/giving-silver-to-the-man-who-beat-his-father.png)
+![AstroPaper I18n](/giving-silver-to-the-man-who-beat-his-father.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La historia rastrea el origen de las prostitutas hasta las brujas 
 
 
 
-![AstroPaper I18n](/public/the-noble-origins-of-prostitution.png)
+![AstroPaper I18n](/the-noble-origins-of-prostitution.png)
 
 
 

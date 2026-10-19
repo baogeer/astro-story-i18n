@@ -8,7 +8,7 @@ description: "أصبح تشو وين جون فقيرًا ومعوزًا في ا�
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-sells-wine-only-for-love.png)
+![AstroPaper I18n](/zhuo-wenjun-sells-wine-only-for-love.png)
 
 
 

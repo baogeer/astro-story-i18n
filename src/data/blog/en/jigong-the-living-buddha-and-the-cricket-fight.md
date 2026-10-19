@@ -8,7 +8,7 @@ description: "Ji Gong rescued Carpenter Zhang, who was driven to death by a vill
 
 
 
-![AstroPaper I18n](/public/jigong-the-living-buddha-and-the-cricket-fight.png)
+![AstroPaper I18n](/jigong-the-living-buddha-and-the-cricket-fight.png)
 
 
 

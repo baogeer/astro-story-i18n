@@ -8,7 +8,7 @@ description: "Chen Miaochang, une religieuse de Southern Song, est à la fois ta
 
 
 
-![AstroPaper I18n](/public/chen-miaochang-s-forbidden-love-in-the-nunnery.png)
+![AstroPaper I18n](/chen-miaochang-s-forbidden-love-in-the-nunnery.png)
 
 
 

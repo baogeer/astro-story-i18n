@@ -8,7 +8,7 @@ description: "ذات مرة، سرق قرد فتاة وأنجب قردًا صغ�
 
 
 
-![AstroPaper I18n](/public/why-the-monkey-has-a-red-bottom.png)
+![AstroPaper I18n](/why-the-monkey-has-a-red-bottom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qiu Gong was an official in Zunhua. He bombarded a group of foxes 
 
 
 
-![AstroPaper I18n](/public/the-vengeful-fox-of-zunhua-office.png)
+![AstroPaper I18n](/the-vengeful-fox-of-zunhua-office.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Mao Ji fingió ser pobre para poner a prueba a su prometida. La he
 
 
 
-![AstroPaper I18n](/public/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
+![AstroPaper I18n](/mao-ji-and-the-sister-who-married-in-her-sister-s-place.png)
 
 
 

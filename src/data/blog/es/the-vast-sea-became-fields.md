@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que las montañas del Himalaya eran originalment
 
 
 
-![AstroPaper I18n](/public/the-vast-sea-became-fields.png)
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
 
 
 

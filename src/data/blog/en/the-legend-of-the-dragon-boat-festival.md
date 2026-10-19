@@ -8,7 +8,7 @@ description: "The son of the Miao family's late family, was killed by an evil dr
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-boat-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-boat-festival.png)
 
 
 

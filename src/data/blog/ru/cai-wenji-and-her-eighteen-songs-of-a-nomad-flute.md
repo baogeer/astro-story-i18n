@@ -8,7 +8,7 @@ description: "Цай Вэньцзи была похищена на юге Вен
 
 
 
-![AstroPaper I18n](/public/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
+![AstroPaper I18n](/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
 
 
 

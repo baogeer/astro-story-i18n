@@ -8,7 +8,7 @@ description: "تقوم عمة عجوز وحيدة في قرية Longjing بحر�
 
 
 
-![AstroPaper I18n](/public/the-ancestor-of-longjing-tea.png)
+![AstroPaper I18n](/the-ancestor-of-longjing-tea.png)
 
 
 

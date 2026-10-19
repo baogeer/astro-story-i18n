@@ -8,7 +8,7 @@ description: "En la piscina profunda al oeste del puente Yunlong en Yangjiao, la
 
 
 
-![AstroPaper I18n](/public/the-eight-duck-pond.png)
+![AstroPaper I18n](/the-eight-duck-pond.png)
 
 
 

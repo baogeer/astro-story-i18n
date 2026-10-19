@@ -8,7 +8,7 @@ description: "Hu Lanqi es la primera mujer general mayor de China. Escapó del m
 
 
 
-![AstroPaper I18n](/public/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
+![AstroPaper I18n](/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ли Цинчжао и Чжао Минчэн — близкие д
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
+![AstroPaper I18n](/li-qingzhao-it-all-began-with-a-well-matched-marriage.png)
 
 
 

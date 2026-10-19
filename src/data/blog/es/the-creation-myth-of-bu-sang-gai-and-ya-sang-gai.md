@@ -8,7 +8,7 @@ description: "Tenjin envió a dos dioses, Busangai y Yasangai, para traer calaba
 
 
 
-![AstroPaper I18n](/public/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
+![AstroPaper I18n](/the-creation-myth-of-bu-sang-gai-and-ya-sang-gai.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В древнем фольклоре сохранилось мно
 
 
 
-![AstroPaper I18n](/public/selected-ancient-chinese-folk-feng-shui-tales.png)
+![AstroPaper I18n](/selected-ancient-chinese-folk-feng-shui-tales.png)
 
 
 

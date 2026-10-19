@@ -8,7 +8,7 @@ description: "تم تبني منغ كيوهوا من قبل Guo Yuanwai وزوج
 
 
 
-![AstroPaper I18n](/public/the-tragedy-of-vengeance.png)
+![AstroPaper I18n](/the-tragedy-of-vengeance.png)
 
 
 

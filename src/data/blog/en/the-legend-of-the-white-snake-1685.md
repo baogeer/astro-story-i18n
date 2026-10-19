@@ -8,7 +8,7 @@ description: "White Snake Bai Suzhen visited the West Lake and met Xu Xian throu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-1685.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-1685.png)
 
 
 

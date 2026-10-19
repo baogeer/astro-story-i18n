@@ -8,7 +8,7 @@ description: "The newlywed poem can't see in the mirror that her husband is youn
 
 
 
-![AstroPaper I18n](/public/the-ominous-sign-in-the-mirror.png)
+![AstroPaper I18n](/the-ominous-sign-in-the-mirror.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Durante el período de los Tres Reinos, Zhu Geliang conquistó Lus
 
 
 
-![AstroPaper I18n](/public/the-origin-of-steamed-buns.png)
+![AstroPaper I18n](/the-origin-of-steamed-buns.png)
 
 
 

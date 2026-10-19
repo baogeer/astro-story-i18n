@@ -8,7 +8,7 @@ description: "Guanyin, Luban, and Qin Shi Huang each met to complete 100 miracle
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-gorges.png)
+![AstroPaper I18n](/the-legend-of-the-three-gorges.png)
 
 
 

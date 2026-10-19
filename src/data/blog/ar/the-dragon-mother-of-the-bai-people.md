@@ -8,7 +8,7 @@ description: "حملت الفتاة التي قطعت الحطب في قرية L
 
 
 
-![AstroPaper I18n](/public/the-dragon-mother-of-the-bai-people.png)
+![AstroPaper I18n](/the-dragon-mother-of-the-bai-people.png)
 
 
 

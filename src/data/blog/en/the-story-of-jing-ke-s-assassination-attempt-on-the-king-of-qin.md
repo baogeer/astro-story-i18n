@@ -8,7 +8,7 @@ description: "At the end of the Warring States period, Prince Yan Zidan heavily 
 
 
 
-![AstroPaper I18n](/public/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
+![AstroPaper I18n](/the-story-of-jing-ke-s-assassination-attempt-on-the-king-of-qin.png)
 
 
 

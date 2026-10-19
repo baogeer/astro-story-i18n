@@ -8,7 +8,7 @@ description: "La reine Gong Zhaojun a été délibérément diabolisée pour son
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
+![AstroPaper I18n](/the-mystery-of-wang-zhaojun-three-years-without-the-emperor-s-favor.png)
 
 
 

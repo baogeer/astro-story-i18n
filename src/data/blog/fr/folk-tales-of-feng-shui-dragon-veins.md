@@ -8,7 +8,7 @@ description: "La dynastie Tang a envoyé des maîtres du Feng Shui pour trouver 
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-feng-shui-dragon-veins.png)
+![AstroPaper I18n](/folk-tales-of-feng-shui-dragon-veins.png)
 
 
 

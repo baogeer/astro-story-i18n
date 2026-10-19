@@ -8,7 +8,7 @@ description: "Once upon a time, one son often scolded his mother; later, seeing 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-nici-ritual.png)
+![AstroPaper I18n](/the-origin-of-the-yi-nici-ritual.png)
 
 
 

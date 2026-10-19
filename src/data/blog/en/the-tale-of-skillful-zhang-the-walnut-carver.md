@@ -8,7 +8,7 @@ description: "The masterful Zhang is a descendant of Yangyi Zhang's nuclear carv
 
 
 
-![AstroPaper I18n](/public/the-tale-of-skillful-zhang-the-walnut-carver.png)
+![AstroPaper I18n](/the-tale-of-skillful-zhang-the-walnut-carver.png)
 
 
 

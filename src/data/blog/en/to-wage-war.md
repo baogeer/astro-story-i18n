@@ -8,7 +8,7 @@ description: "During the Jiaqing years, thieves were rampant in Xiangyang. Maste
 
 
 
-![AstroPaper I18n](/public/to-wage-war.png)
+![AstroPaper I18n](/to-wage-war.png)
 
 
 

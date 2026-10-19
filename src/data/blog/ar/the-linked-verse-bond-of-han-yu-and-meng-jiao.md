@@ -8,7 +8,7 @@ description: "هان يو ومينغ جياو حنونان للغاية. غال�
 
 
 
-![AstroPaper I18n](/public/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
+![AstroPaper I18n](/the-linked-verse-bond-of-han-yu-and-meng-jiao.png)
 
 
 

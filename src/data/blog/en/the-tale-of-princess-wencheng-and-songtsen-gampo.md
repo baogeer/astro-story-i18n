@@ -8,7 +8,7 @@ description: "After Princess Wencheng entered Tibet, there was harmony between T
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
+![AstroPaper I18n](/the-tale-of-princess-wencheng-and-songtsen-gampo.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تأثرت بنات الملك لونغوانغ الثلاث من 
 
 
 
-![AstroPaper I18n](/public/the-three-holy-sisters-of-the-golden-river.png)
+![AstroPaper I18n](/the-three-holy-sisters-of-the-golden-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dou Anzhu, a young Qiang ethnic group, fell in love with Mu Jiezhu
 
 
 
-![AstroPaper I18n](/public/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
+![AstroPaper I18n](/the-tale-of-dou-anzhu-and-mu-jiezhu.png)
 
 
 

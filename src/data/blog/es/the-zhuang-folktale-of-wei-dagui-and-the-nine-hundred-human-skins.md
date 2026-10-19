@@ -8,7 +8,7 @@ description: "Wei Dagui, de la familia Zhuang, se preocupaba por la gente y el e
 
 
 
-![AstroPaper I18n](/public/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
+![AstroPaper I18n](/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
 
 
 

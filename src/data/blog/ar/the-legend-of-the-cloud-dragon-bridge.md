@@ -8,7 +8,7 @@ description: "هناك تنانين شريرة في نهر يانغجياو، و
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cloud-dragon-bridge.png)
+![AstroPaper I18n](/the-legend-of-the-cloud-dragon-bridge.png)
 
 
 

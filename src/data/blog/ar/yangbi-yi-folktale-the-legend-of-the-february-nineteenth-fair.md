@@ -8,7 +8,7 @@ description: "اختطف الملك كاو آه شيانغ من قرية زهي 
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
 
 
 

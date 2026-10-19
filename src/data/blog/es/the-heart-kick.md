@@ -8,7 +8,7 @@ description: "A finales de la dinastía Qing, el maestro de dardos Lu Lianju se 
 
 
 
-![AstroPaper I18n](/public/the-heart-kick.png)
+![AstroPaper I18n](/the-heart-kick.png)
 
 
 

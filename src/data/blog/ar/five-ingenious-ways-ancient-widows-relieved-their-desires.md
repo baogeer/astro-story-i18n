@@ -8,7 +8,7 @@ description: "في ظل قمع فكرة العفة، توصلت الأرامل �
 
 
 
-![AstroPaper I18n](/public/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
+![AstroPaper I18n](/five-ingenious-ways-ancient-widows-relieved-their-desires.png)
 
 
 

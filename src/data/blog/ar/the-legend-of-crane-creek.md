@@ -8,7 +8,7 @@ description: "سافرت فو كيوبو، وهي جنية من غرب هان، 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-crane-creek.png)
+![AstroPaper I18n](/the-legend-of-crane-creek.png)
 
 
 

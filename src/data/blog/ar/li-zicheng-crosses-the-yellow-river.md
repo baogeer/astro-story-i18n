@@ -8,7 +8,7 @@ description: "نص القصة مفقود، ولا يمكن إنشاء الملخ
 
 
 
-![AstroPaper I18n](/public/li-zicheng-crosses-the-yellow-river.png)
+![AstroPaper I18n](/li-zicheng-crosses-the-yellow-river.png)
 
 
 

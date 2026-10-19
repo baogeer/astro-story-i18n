@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que el té Longjing se originó a partir de una 
 
 
 
-![AstroPaper I18n](/public/the-legend-and-development-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-and-development-of-dragon-well-tea.png)
 
 
 

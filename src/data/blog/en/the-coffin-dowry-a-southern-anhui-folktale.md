@@ -8,7 +8,7 @@ description: "Wang Yuheng, the owner of a roast shop in southern Anhui, coveted 
 
 
 
-![AstroPaper I18n](/public/the-coffin-dowry-a-southern-anhui-folktale.png)
+![AstroPaper I18n](/the-coffin-dowry-a-southern-anhui-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В конце правления династии Восточна
 
 
 
-![AstroPaper I18n](/public/the-infatuated-dancer-lai-ying-er.png)
+![AstroPaper I18n](/the-infatuated-dancer-lai-ying-er.png)
 
 
 

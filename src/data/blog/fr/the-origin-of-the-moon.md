@@ -8,7 +8,7 @@ description: "Afin d'illuminer la nuit, Yuemei, fille de Zhuangxiang, a apporté
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-moon.png)
+![AstroPaper I18n](/the-origin-of-the-moon.png)
 
 
 

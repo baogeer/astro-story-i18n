@@ -8,7 +8,7 @@ description: "El viejo Xiao tiene cuatro hijos y, después de separarse, se turn
 
 
 
-![AstroPaper I18n](/public/the-father-who-was-nearly-starved-by-his-many-sons.png)
+![AstroPaper I18n](/the-father-who-was-nearly-starved-by-his-many-sons.png)
 
 
 

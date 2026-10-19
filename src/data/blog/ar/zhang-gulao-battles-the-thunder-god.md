@@ -8,7 +8,7 @@ description: "تعرض Zhang Gu للتنمر بعد انفصاله عن شقيق
 
 
 
-![AstroPaper I18n](/public/zhang-gulao-battles-the-thunder-god.png)
+![AstroPaper I18n](/zhang-gulao-battles-the-thunder-god.png)
 
 
 

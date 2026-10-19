@@ -8,7 +8,7 @@ description: "Un jeune homme s'est occupé de pivoines au mont Lushan. Le soir d
 
 
 
-![AstroPaper I18n](/public/the-peonies-of-luoyang-from-mount-mang.png)
+![AstroPaper I18n](/the-peonies-of-luoyang-from-mount-mang.png)
 
 
 

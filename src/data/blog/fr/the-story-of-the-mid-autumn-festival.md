@@ -8,7 +8,7 @@ description: "Le 15 août du calendrier lunaire a lieu la fête de la mi-automne
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-mid-autumn-festival.png)
+![AstroPaper I18n](/the-story-of-the-mid-autumn-festival.png)
 
 
 

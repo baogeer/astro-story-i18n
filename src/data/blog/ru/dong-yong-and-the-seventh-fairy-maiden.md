@@ -8,7 +8,7 @@ description: "Донг Юн продалась на похороны своег�
 
 
 
-![AstroPaper I18n](/public/dong-yong-and-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/dong-yong-and-the-seventh-fairy-maiden.png)
 
 
 

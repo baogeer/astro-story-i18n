@@ -8,7 +8,7 @@ description: "Este artículo clasifica a prostitutas famosas como Sai Jinhua, Li
 
 
 
-![AstroPaper I18n](/public/the-ten-richest-courtesans-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-richest-courtesans-in-chinese-history.png)
 
 
 

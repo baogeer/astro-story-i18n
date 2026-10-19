@@ -8,7 +8,7 @@ description: "منذ وقت طويل، كان هناك تدريب هوانغلو
 
 
 
-![AstroPaper I18n](/public/the-legend-of-twin-dragon-gorge.png)
+![AstroPaper I18n](/the-legend-of-twin-dragon-gorge.png)
 
 
 

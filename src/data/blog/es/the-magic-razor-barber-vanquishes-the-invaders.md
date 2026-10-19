@@ -8,7 +8,7 @@ description: "«King Sword» es una afeitadora en la ciudad de Tianzi, en la Rep
 
 
 
-![AstroPaper I18n](/public/the-magic-razor-barber-vanquishes-the-invaders.png)
+![AstroPaper I18n](/the-magic-razor-barber-vanquishes-the-invaders.png)
 
 
 

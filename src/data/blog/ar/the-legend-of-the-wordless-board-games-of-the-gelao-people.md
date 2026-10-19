@@ -8,7 +8,7 @@ description: "يتمتع شعب يلاو في ووتشوان وقويتشو بم
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
+![AstroPaper I18n](/the-legend-of-the-wordless-board-games-of-the-gelao-people.png)
 
 
 

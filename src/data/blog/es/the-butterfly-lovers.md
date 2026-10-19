@@ -8,7 +8,7 @@ description: "Zhu Yingtai, una mujer disfrazada de hombre, fue a Hangzhou a estu
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers.png)
+![AstroPaper I18n](/the-butterfly-lovers.png)
 
 
 

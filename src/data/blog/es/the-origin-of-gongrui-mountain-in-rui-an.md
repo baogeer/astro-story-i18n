@@ -8,7 +8,7 @@ description: "Hubo frecuentes incendios en la ciudad de Ruian durante la dinast√
 
 
 
-![AstroPaper I18n](/public/the-origin-of-gongrui-mountain-in-rui-an.png)
+![AstroPaper I18n](/the-origin-of-gongrui-mountain-in-rui-an.png)
 
 
 

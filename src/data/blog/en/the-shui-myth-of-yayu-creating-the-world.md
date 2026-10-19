@@ -8,7 +8,7 @@ description: "The goddess of Aquariums is incredibly powerful. She broke open th
 
 
 
-![AstroPaper I18n](/public/the-shui-myth-of-yayu-creating-the-world.png)
+![AstroPaper I18n](/the-shui-myth-of-yayu-creating-the-world.png)
 
 
 

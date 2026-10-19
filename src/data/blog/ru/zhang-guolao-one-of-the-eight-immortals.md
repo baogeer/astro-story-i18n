@@ -8,7 +8,7 @@ description: "Чжан Голао утверждает, что он родилс
 
 
 
-![AstroPaper I18n](/public/zhang-guolao-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/zhang-guolao-one-of-the-eight-immortals.png)
 
 
 

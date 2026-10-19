@@ -8,7 +8,7 @@ description: "A farmer in ancient Tianzhu was taken away by a group of monkeys. 
 
 
 
-![AstroPaper I18n](/public/the-old-monkey-mocks-a-man-for-having-no-tail.png)
+![AstroPaper I18n](/the-old-monkey-mocks-a-man-for-having-no-tail.png)
 
 
 

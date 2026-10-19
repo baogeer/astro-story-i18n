@@ -8,7 +8,7 @@ description: "يشعر وانغ شيانجي وزوجته لو داوماو بح
 
 
 
-![AstroPaper I18n](/public/wang-xianzhi-s-tragic-life-after-being-forced-to-marry-the-princess.png)
+![AstroPaper I18n](/wang-xianzhi-s-tragic-life-after-being-forced-to-marry-the-princess.png)
 
 
 

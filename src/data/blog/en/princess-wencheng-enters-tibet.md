@@ -8,7 +8,7 @@ description: "Princess Wencheng was married to Zampu in Tuban. She took on the m
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-enters-tibet.png)
+![AstroPaper I18n](/princess-wencheng-enters-tibet.png)
 
 
 

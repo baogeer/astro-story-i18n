@@ -8,7 +8,7 @@ description: "وقع آرون، وهو سليل قبيلة بويي، في حب 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
 
 
 

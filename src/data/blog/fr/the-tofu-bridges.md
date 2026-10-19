@@ -8,7 +8,7 @@ description: "À Hangzhou, sous la dynastie des Song du Sud, Anle Wang Zuo a aba
 
 
 
-![AstroPaper I18n](/public/the-tofu-bridges.png)
+![AstroPaper I18n](/the-tofu-bridges.png)
 
 
 

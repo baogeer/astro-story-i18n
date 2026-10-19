@@ -8,7 +8,7 @@ description: "Wang Lan, a native of Ritsu, was mistakenly tricked into a ghost, 
 
 
 
-![AstroPaper I18n](/public/the-ghost-immortal-wang-lan.png)
+![AstroPaper I18n](/the-ghost-immortal-wang-lan.png)
 
 
 

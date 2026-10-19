@@ -8,7 +8,7 @@ description: "تم ابتلاع رفيق الفأر بواسطة ثعبان. ك�
 
 
 
-![AstroPaper I18n](/public/the-righteous-mouse.png)
+![AstroPaper I18n](/the-righteous-mouse.png)
 
 
 

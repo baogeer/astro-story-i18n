@@ -8,7 +8,7 @@ description: "اصطحب شقيق وأخت لوبان تلميذهما إلى ه
 
 
 
-![AstroPaper I18n](/public/the-stone-censer.png)
+![AstroPaper I18n](/the-stone-censer.png)
 
 
 

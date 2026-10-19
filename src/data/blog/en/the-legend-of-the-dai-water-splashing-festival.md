@@ -8,7 +8,7 @@ description: "A long time ago, the ferocious demon king robbed the beautiful pri
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dai-water-splashing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-dai-water-splashing-festival.png)
 
 
 

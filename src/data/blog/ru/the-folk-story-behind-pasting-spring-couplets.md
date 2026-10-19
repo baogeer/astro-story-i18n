@@ -8,7 +8,7 @@ description: "Братья Камида и Юлей защищают перси�
 
 
 
-![AstroPaper I18n](/public/the-folk-story-behind-pasting-spring-couplets.png)
+![AstroPaper I18n](/the-folk-story-behind-pasting-spring-couplets.png)
 
 
 

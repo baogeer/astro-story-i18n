@@ -8,7 +8,7 @@ description: "Dado que el texto principal solo indica al autor y no proporciona 
 
 
 
-![AstroPaper I18n](/public/xi-shi-and-the-zuili-plum.png)
+![AstroPaper I18n](/xi-shi-and-the-zuili-plum.png)
 
 
 

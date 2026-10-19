@@ -8,7 +8,7 @@ description: "En la antigüedad, los dragones azules y amarillos se convertían 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-and-yellow-rivers.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-and-yellow-rivers.png)
 
 
 

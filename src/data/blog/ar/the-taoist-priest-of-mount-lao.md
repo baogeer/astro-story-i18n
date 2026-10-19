@@ -8,7 +8,7 @@ description: "ذهب الباحث وانغ تشي إلى لاوشان لمعرف
 
 
 
-![AstroPaper I18n](/public/the-taoist-priest-of-mount-lao.png)
+![AstroPaper I18n](/the-taoist-priest-of-mount-lao.png)
 
 
 

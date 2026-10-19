@@ -8,7 +8,7 @@ description: "Elder Chen Qin was falsely accused of killing his ancestral black 
 
 
 
-![AstroPaper I18n](/public/settling-a-cat-claim-with-a-rice-spoon.png)
+![AstroPaper I18n](/settling-a-cat-claim-with-a-rice-spoon.png)
 
 
 

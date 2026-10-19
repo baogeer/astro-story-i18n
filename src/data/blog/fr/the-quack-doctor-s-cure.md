@@ -8,7 +8,7 @@ description: "Parmi les salauds, Chen Zikun a été emmené de force à Jingwang
 
 
 
-![AstroPaper I18n](/public/the-quack-doctor-s-cure.png)
+![AstroPaper I18n](/the-quack-doctor-s-cure.png)
 
 
 

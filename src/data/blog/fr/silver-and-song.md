@@ -8,7 +8,7 @@ description: "Il était une fois un riche propriétaire qui était triste toute 
 
 
 
-![AstroPaper I18n](/public/silver-and-song.png)
+![AstroPaper I18n](/silver-and-song.png)
 
 
 

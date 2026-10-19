@@ -8,7 +8,7 @@ description: "La académica taiwanesa Nan Huaijin cuestionó que el culpable de 
 
 
 
-![AstroPaper I18n](/public/who-really-killed-yue-fei.png)
+![AstroPaper I18n](/who-really-killed-yue-fei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "لي وان، قاتل الحطب، أطلق النار ذات م�
 
 
 
-![AstroPaper I18n](/public/the-grateful-white-rabbit.png)
+![AstroPaper I18n](/the-grateful-white-rabbit.png)
 
 
 

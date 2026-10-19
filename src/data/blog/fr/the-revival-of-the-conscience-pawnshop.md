@@ -8,7 +8,7 @@ description: "Zhang Yipin, un propriétaire de prêteur sur gages consciencieux,
 
 
 
-![AstroPaper I18n](/public/the-revival-of-the-conscience-pawnshop.png)
+![AstroPaper I18n](/the-revival-of-the-conscience-pawnshop.png)
 
 
 

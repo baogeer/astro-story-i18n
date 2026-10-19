@@ -8,7 +8,7 @@ description: "Wei Qing was born a domestic slave and began her career because he
 
 
 
-![AstroPaper I18n](/public/the-ever-victorious-general-wei-qing.png)
+![AstroPaper I18n](/the-ever-victorious-general-wei-qing.png)
 
 
 

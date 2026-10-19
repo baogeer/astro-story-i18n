@@ -8,7 +8,7 @@ description: "Gao Fengqi went to Guangzhou to make a fortune selling peonies, an
 
 
 
-![AstroPaper I18n](/public/squire-gao-suns-his-silver-ingots.png)
+![AstroPaper I18n](/squire-gao-suns-his-silver-ingots.png)
 
 
 

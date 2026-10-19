@@ -8,7 +8,7 @@ description: "Una extraña enfermedad se desató en Miaozhai y el joven He Ah es
 
 
 
-![AstroPaper I18n](/public/the-magic-medicine-of-he-amang.png)
+![AstroPaper I18n](/the-magic-medicine-of-he-amang.png)
 
 
 

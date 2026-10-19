@@ -8,7 +8,7 @@ description: "The carp fairy falls in love with a barefoot shepherd boy and embr
 
 
 
-![AstroPaper I18n](/public/the-qiang-legend-of-the-cloud-shoes.png)
+![AstroPaper I18n](/the-qiang-legend-of-the-cloud-shoes.png)
 
 
 

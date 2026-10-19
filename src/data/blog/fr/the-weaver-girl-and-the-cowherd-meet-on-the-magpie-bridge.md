@@ -8,7 +8,7 @@ description: "L'histoire d'amour entre un vacher et un tisserand provient des Zh
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
 
 
 

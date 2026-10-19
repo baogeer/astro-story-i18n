@@ -8,7 +8,7 @@ description: "Un zorro hambriento cayó en el tanque de teñido y lo llamó fals
 
 
 
-![AstroPaper I18n](/public/the-blue-fox-who-became-king.png)
+![AstroPaper I18n](/the-blue-fox-who-became-king.png)
 
 
 

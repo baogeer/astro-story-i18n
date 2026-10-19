@@ -8,7 +8,7 @@ description: "El poeta oriental de Jin, Xie Lingyun, conoció a una repartidora 
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-s-daughter-matches-wits-with-xie-lingyun.png)
+![AstroPaper I18n](/the-innkeeper-s-daughter-matches-wits-with-xie-lingyun.png)
 
 
 

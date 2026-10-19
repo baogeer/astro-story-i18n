@@ -8,7 +8,7 @@ description: "كان سون لاونج جريئًا، وأمسك بثعلب ذو
 
 
 
-![AstroPaper I18n](/public/catching-the-fox.png)
+![AstroPaper I18n](/catching-the-fox.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان شي شاوكانغ من مواليد جينيون في ع�
 
 
 
-![AstroPaper I18n](/public/the-story-of-master-shaokang-fifth-patriarch-of-the-lotus-school.png)
+![AstroPaper I18n](/the-story-of-master-shaokang-fifth-patriarch-of-the-lotus-school.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le jeune Gadan est inséparable de sa femme Gongjin, mais la dées
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-gongtang-lhamo.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-gongtang-lhamo.png)
 
 
 

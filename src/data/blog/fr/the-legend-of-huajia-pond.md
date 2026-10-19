@@ -8,7 +8,7 @@ description: "Dans le terrain vague situé à l'extérieur de la porte Qingchun 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huajia-pond.png)
+![AstroPaper I18n](/the-legend-of-huajia-pond.png)
 
 
 

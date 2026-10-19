@@ -8,7 +8,7 @@ description: "امرأة حزينة لأن زوجها قد غير رأيها. ق
 
 
 
-![AstroPaper I18n](/public/the-blood-jade-bracelet.png)
+![AstroPaper I18n](/the-blood-jade-bracelet.png)
 
 
 

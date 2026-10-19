@@ -8,7 +8,7 @@ description: "The Peach Fairy was entangled by the Black Snake Master and saved 
 
 
 
-![AstroPaper I18n](/public/peach-blossom-fairy-outwits-the-black-snake-demon.png)
+![AstroPaper I18n](/peach-blossom-fairy-outwits-the-black-snake-demon.png)
 
 
 

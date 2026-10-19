@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة هان الشرقية، استخد
 
 
 
-![AstroPaper I18n](/public/diao-chan-worships-the-moon.png)
+![AstroPaper I18n](/diao-chan-worships-the-moon.png)
 
 
 

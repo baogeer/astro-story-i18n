@@ -8,7 +8,7 @@ description: "Лю Ланьчжи и Цзяо Чжунцин влюблены д
 
 
 
-![AstroPaper I18n](/public/the-tenderness-and-steadfast-devotion-of-liu-lanzhi.png)
+![AstroPaper I18n](/the-tenderness-and-steadfast-devotion-of-liu-lanzhi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Liu Shiwen, que quedó fuera de la lista, vivió en el templo de H
 
 
 
-![AstroPaper I18n](/public/the-white-fox.png)
+![AstroPaper I18n](/the-white-fox.png)
 
 
 

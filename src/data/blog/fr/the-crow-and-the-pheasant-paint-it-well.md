@@ -8,7 +8,7 @@ description: "Crow et Qingjiyuan sont deux amis blancs comme neige qui décident
 
 
 
-![AstroPaper I18n](/public/the-crow-and-the-pheasant-paint-it-well.png)
+![AstroPaper I18n](/the-crow-and-the-pheasant-paint-it-well.png)
 
 
 

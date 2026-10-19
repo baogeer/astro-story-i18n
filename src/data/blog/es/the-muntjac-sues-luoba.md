@@ -8,7 +8,7 @@ description: "Zizi robó trigo y fue asesinada a tiros por el cazador Rob. Tras 
 
 
 
-![AstroPaper I18n](/public/the-muntjac-sues-luoba.png)
+![AstroPaper I18n](/the-muntjac-sues-luoba.png)
 
 
 

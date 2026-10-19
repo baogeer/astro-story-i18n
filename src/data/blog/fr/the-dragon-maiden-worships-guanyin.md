@@ -8,7 +8,7 @@ description: "Dragon Girl, la petite fille du roi dragon de la mer de Chine orie
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-worships-guanyin.png)
+![AstroPaper I18n](/the-dragon-maiden-worships-guanyin.png)
 
 
 

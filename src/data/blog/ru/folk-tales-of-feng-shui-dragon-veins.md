@@ -8,7 +8,7 @@ description: "Династия Тан отправила мастеров фэн
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-feng-shui-dragon-veins.png)
+![AstroPaper I18n](/folk-tales-of-feng-shui-dragon-veins.png)
 
 
 

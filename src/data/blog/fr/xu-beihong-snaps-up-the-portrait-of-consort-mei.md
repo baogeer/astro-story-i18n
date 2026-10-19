@@ -8,7 +8,7 @@ description: "Lors de l'exposition, Xu Beihong a vu que la «xa0photo Mei Feixa0
 
 
 
-![AstroPaper I18n](/public/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
+![AstroPaper I18n](/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
 
 
 

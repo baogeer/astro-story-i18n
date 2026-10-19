@@ -8,7 +8,7 @@ description: "Princess Pingyang is the daughter of Tang Gaozu Li Yuan. At the en
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-wins-renown.png)
+![AstroPaper I18n](/princess-pingyang-wins-renown.png)
 
 
 

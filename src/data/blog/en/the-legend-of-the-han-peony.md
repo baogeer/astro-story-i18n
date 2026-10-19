@@ -8,7 +8,7 @@ description: "Legend has it that peonies and peonies at Mida-ji Temple in Kitao-
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-han-peony.png)
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
 
 
 

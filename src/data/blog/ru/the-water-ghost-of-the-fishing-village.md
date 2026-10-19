@@ -8,7 +8,7 @@ description: "Рассказ под названием «Водный призр
 
 
 
-![AstroPaper I18n](/public/the-water-ghost-of-the-fishing-village.png)
+![AstroPaper I18n](/the-water-ghost-of-the-fishing-village.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في فندق يانغتشو، أحضر شخص خمسة حمير �
 
 
 
-![AstroPaper I18n](/public/the-sorcery-of-turning-people-into-beasts.png)
+![AstroPaper I18n](/the-sorcery-of-turning-people-into-beasts.png)
 
 
 

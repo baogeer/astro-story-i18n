@@ -8,7 +8,7 @@ description: "Uncle Cao Guo's brother took over the talented wife and murdered t
 
 
 
-![AstroPaper I18n](/public/cao-guojiu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/cao-guojiu-one-of-the-eight-immortals.png)
 
 
 

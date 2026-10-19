@@ -8,7 +8,7 @@ description: "ثمانية قصص فولكلورية لشعب بويي، تغط�
 
 
 
-![AstroPaper I18n](/public/eight-bouyei-folktales.png)
+![AstroPaper I18n](/eight-bouyei-folktales.png)
 
 
 

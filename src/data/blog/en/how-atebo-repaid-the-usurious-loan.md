@@ -8,7 +8,7 @@ description: "Turkish officials wanted to use the “donkey to roll the mule and
 
 
 
-![AstroPaper I18n](/public/how-atebo-repaid-the-usurious-loan.png)
+![AstroPaper I18n](/how-atebo-repaid-the-usurious-loan.png)
 
 
 

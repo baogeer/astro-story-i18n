@@ -8,7 +8,7 @@ description: "Чтобы спасти жителей округа Шаньян, 
 
 
 
-![AstroPaper I18n](/public/the-dragonfly-messenger.png)
+![AstroPaper I18n](/the-dragonfly-messenger.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Après la mort de Karma, il a voulu se réincarner en ayant pitié
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-living-buddha-s-reincarnation.png)
+![AstroPaper I18n](/the-legend-of-the-living-buddha-s-reincarnation.png)
 
 
 

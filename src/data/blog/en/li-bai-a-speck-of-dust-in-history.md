@@ -8,7 +8,7 @@ description: "Li Bai surrendered to Yongwang Li Lin during the Anshi Rebellion a
 
 
 
-![AstroPaper I18n](/public/li-bai-a-speck-of-dust-in-history.png)
+![AstroPaper I18n](/li-bai-a-speck-of-dust-in-history.png)
 
 
 

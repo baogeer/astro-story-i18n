@@ -8,7 +8,7 @@ description: "ولدت دياو تشان، وهي امرأة جميلة من أ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-diao-chan.png)
+![AstroPaper I18n](/the-legend-of-diao-chan.png)
 
 
 

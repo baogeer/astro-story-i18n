@@ -8,7 +8,7 @@ description: "Mr. Chaotian Guan formed a Taoist friendship with the Fox Fairy. T
 
 
 
-![AstroPaper I18n](/public/the-lingguan-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-lingguan-and-the-fox-spirit.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lu Daoyi, a Maonan Hercules in the Qing Dynasty, carried boulders 
 
 
 
-![AstroPaper I18n](/public/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
+![AstroPaper I18n](/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
 
 
 

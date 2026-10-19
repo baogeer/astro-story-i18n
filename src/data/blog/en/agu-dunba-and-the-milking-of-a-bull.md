@@ -8,7 +8,7 @@ description: "The bald rich owner forced herder Zaxipengtso to herd bulls and de
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-milking-of-a-bull.png)
+![AstroPaper I18n](/agu-dunba-and-the-milking-of-a-bull.png)
 
 
 

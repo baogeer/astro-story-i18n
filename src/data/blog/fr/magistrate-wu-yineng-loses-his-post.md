@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, Wu Yineng, le maire du comté de Zhaoyi, a 
 
 
 
-![AstroPaper I18n](/public/magistrate-wu-yineng-loses-his-post.png)
+![AstroPaper I18n](/magistrate-wu-yineng-loses-his-post.png)
 
 
 

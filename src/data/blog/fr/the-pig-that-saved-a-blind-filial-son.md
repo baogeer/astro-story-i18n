@@ -8,7 +8,7 @@ description: "Xiao Zi, un aveugle de Wei Jiazhuang, a perdu pied et est tombée 
 
 
 
-![AstroPaper I18n](/public/the-pig-that-saved-a-blind-filial-son.png)
+![AstroPaper I18n](/the-pig-that-saved-a-blind-filial-son.png)
 
 
 

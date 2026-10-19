@@ -8,7 +8,7 @@ description: "كانت في الأصل الأميرة داي. كانت في ال
 
 
 
-![AstroPaper I18n](/public/princess-dayi-s-screen-of-sorrow.png)
+![AstroPaper I18n](/princess-dayi-s-screen-of-sorrow.png)
 
 
 

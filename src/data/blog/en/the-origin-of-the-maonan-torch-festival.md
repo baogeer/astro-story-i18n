@@ -8,7 +8,7 @@ description: "In order to resist alien invasions, the ancestors of the Maonan tr
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maonan-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-maonan-torch-festival.png)
 
 
 

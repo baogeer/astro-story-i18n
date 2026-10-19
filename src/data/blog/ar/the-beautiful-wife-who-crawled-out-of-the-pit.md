@@ -8,7 +8,7 @@ description: "قام ليو تشونغلي بإغراء هو لي، وقتلت �
 
 
 
-![AstroPaper I18n](/public/the-beautiful-wife-who-crawled-out-of-the-pit.png)
+![AstroPaper I18n](/the-beautiful-wife-who-crawled-out-of-the-pit.png)
 
 
 

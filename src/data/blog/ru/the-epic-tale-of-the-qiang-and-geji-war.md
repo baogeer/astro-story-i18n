@@ -8,7 +8,7 @@ description: "Племя Цзюцзы, предок народа цян, под�
 
 
 
-![AstroPaper I18n](/public/the-epic-tale-of-the-qiang-and-geji-war.png)
+![AstroPaper I18n](/the-epic-tale-of-the-qiang-and-geji-war.png)
 
 
 

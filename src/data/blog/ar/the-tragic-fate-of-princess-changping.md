@@ -8,7 +8,7 @@ description: "توفيت الأميرة تشانغبينغ في فنغمينغ. 
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-princess-changping.png)
+![AstroPaper I18n](/the-tragic-fate-of-princess-changping.png)
 
 
 

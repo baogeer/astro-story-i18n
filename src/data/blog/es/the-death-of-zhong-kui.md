@@ -8,7 +8,7 @@ description: "Zhong Kui tenía mucho talento y ganó el primer lugar en el exame
 
 
 
-![AstroPaper I18n](/public/the-death-of-zhong-kui.png)
+![AstroPaper I18n](/the-death-of-zhong-kui.png)
 
 
 

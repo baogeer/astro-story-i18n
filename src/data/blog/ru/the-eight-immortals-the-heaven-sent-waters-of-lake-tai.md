@@ -8,7 +8,7 @@ description: "Лу Дунбинь увидел, что жители округа
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-the-heaven-sent-waters-of-lake-tai.png)
+![AstroPaper I18n](/the-eight-immortals-the-heaven-sent-waters-of-lake-tai.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كان هناك حطاب في جبل الفاوانيا في عه�
 
 
 
-![AstroPaper I18n](/public/the-flower-king-and-the-flower-queen.png)
+![AstroPaper I18n](/the-flower-king-and-the-flower-queen.png)
 
 
 

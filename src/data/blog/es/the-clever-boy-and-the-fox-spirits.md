@@ -8,7 +8,7 @@ description: "Para salvar a su madre, que estaba embrujada por el demonio zorro,
 
 
 
-![AstroPaper I18n](/public/the-clever-boy-and-the-fox-spirits.png)
+![AstroPaper I18n](/the-clever-boy-and-the-fox-spirits.png)
 
 
 

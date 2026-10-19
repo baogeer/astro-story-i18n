@@ -8,7 +8,7 @@ description: "عندما قرأت الكاتبة قصيدة آي تشينغ «Sp
 
 
 
-![AstroPaper I18n](/public/ai-qing-s-golden-carriage.png)
+![AstroPaper I18n](/ai-qing-s-golden-carriage.png)
 
 
 

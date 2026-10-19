@@ -8,7 +8,7 @@ description: "Elle s'est mariée à Meng Jiang lorsque Wan Qiliang l'a vue se ba
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-the-tragic-heroine.png)
+![AstroPaper I18n](/meng-jiangnu-the-tragic-heroine.png)
 
 
 

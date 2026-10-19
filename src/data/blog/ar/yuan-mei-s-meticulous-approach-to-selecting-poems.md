@@ -8,7 +8,7 @@ description: "يركز اختيار يوان مي الشعري على «الطا
 
 
 
-![AstroPaper I18n](/public/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
+![AstroPaper I18n](/yuan-mei-s-meticulous-approach-to-selecting-poems.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Gu Tang, a Miao girl, married Zhujing and had many children. When 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
+![AstroPaper I18n](/the-legend-of-the-bamboo-king-of-the-mengzheng-miao.png)
 
 
 

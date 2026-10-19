@@ -8,7 +8,7 @@ description: "ولدت Killing Tail Dragon من أولونغ جينغ ووو، �
 
 
 
-![AstroPaper I18n](/public/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
+![AstroPaper I18n](/the-tail-cut-dragon-hangs-paper-money-at-his-mother-s-grave.png)
 
 
 

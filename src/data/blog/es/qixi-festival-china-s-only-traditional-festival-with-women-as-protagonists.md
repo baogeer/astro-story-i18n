@@ -8,7 +8,7 @@ description: "El Festival de Tanabata es el único festival tradicional con muje
 
 
 
-![AstroPaper I18n](/public/qixi-festival-china-s-only-traditional-festival-with-women-as-protagonists.png)
+![AstroPaper I18n](/qixi-festival-china-s-only-traditional-festival-with-women-as-protagonists.png)
 
 
 

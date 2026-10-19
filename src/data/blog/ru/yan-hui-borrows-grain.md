@@ -8,7 +8,7 @@ description: "У наставников и учеников Конфуция з�
 
 
 
-![AstroPaper I18n](/public/yan-hui-borrows-grain.png)
+![AstroPaper I18n](/yan-hui-borrows-grain.png)
 
 
 

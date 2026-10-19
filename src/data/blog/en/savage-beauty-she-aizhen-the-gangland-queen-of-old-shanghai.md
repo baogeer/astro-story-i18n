@@ -8,7 +8,7 @@ description: "She Aizhen is a female beach hooligan from the Republic of China. 
 
 
 
-![AstroPaper I18n](/public/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
+![AstroPaper I18n](/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
 
 
 

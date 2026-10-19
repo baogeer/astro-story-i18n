@@ -8,7 +8,7 @@ description: "La diva de la dynastie Tang Liu Shaojin et son talentueux fils Han
 
 
 
-![AstroPaper I18n](/public/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
+![AstroPaper I18n](/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
 
 
 

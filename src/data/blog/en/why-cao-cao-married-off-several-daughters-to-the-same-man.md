@@ -8,7 +8,7 @@ description: "In order to secure his power, Cao Cao married Cao Xian, Cao Jie, a
 
 
 
-![AstroPaper I18n](/public/why-cao-cao-married-off-several-daughters-to-the-same-man.png)
+![AstroPaper I18n](/why-cao-cao-married-off-several-daughters-to-the-same-man.png)
 
 
 

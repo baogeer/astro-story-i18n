@@ -8,7 +8,7 @@ description: "Les frères Kamida et Yulei protègent Dusaku Mountain Peach Grove
 
 
 
-![AstroPaper I18n](/public/the-folk-story-behind-pasting-spring-couplets.png)
+![AstroPaper I18n](/the-folk-story-behind-pasting-spring-couplets.png)
 
 
 

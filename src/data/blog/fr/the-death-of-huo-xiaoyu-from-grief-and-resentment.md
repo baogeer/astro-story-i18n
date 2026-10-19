@@ -8,7 +8,7 @@ description: "À l'origine fille du roi Huo, Huo Xiaoyu était exilée et a fait
 
 
 
-![AstroPaper I18n](/public/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
+![AstroPaper I18n](/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
 
 
 

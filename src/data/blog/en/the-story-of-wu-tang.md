@@ -8,7 +8,7 @@ description: "Wu Tang came from a poor background and is a clean official. He mi
 
 
 
-![AstroPaper I18n](/public/the-story-of-wu-tang.png)
+![AstroPaper I18n](/the-story-of-wu-tang.png)
 
 
 

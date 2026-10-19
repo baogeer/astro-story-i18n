@@ -8,7 +8,7 @@ description: "Два мальчика Бао игривы. Каждый день
 
 
 
-![AstroPaper I18n](/public/three-days-without-a-beating-and-they-tear-off-the-roof-tiles.png)
+![AstroPaper I18n](/three-days-without-a-beating-and-they-tear-off-the-roof-tiles.png)
 
 
 

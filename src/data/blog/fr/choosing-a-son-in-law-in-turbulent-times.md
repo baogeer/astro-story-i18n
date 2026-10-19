@@ -8,7 +8,7 @@ description: "Lors de la guerre à la fin de la dynastie Ming, le puissant gentl
 
 
 
-![AstroPaper I18n](/public/choosing-a-son-in-law-in-turbulent-times.png)
+![AstroPaper I18n](/choosing-a-son-in-law-in-turbulent-times.png)
 
 
 

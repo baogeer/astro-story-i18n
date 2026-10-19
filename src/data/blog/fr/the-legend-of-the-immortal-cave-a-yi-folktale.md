@@ -8,7 +8,7 @@ description: "Les deux mentors et apprentis se sont entraînés dans la grotte d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-cave-a-yi-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-cave-a-yi-folktale.png)
 
 
 

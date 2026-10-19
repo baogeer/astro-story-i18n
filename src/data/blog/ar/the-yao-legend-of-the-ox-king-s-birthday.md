@@ -8,7 +8,7 @@ description: "وفقًا لأسطورة مجموعة ياو العرقية، س�
 
 
 
-![AstroPaper I18n](/public/the-yao-legend-of-the-ox-king-s-birthday.png)
+![AstroPaper I18n](/the-yao-legend-of-the-ox-king-s-birthday.png)
 
 
 

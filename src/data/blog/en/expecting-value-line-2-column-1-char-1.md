@@ -8,7 +8,7 @@ description: "Qiu ignored his wealth and was stubborn. On New Year's Day, he tri
 
 
 
-![AstroPaper I18n](/public/expecting-value-line-2-column-1-char-1.png)
+![AstroPaper I18n](/expecting-value-line-2-column-1-char-1.png)
 
 
 

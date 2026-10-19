@@ -8,7 +8,7 @@ description: "Младенцы исчезали и умирали один за 
 
 
 
-![AstroPaper I18n](/public/the-moon-daji.png)
+![AstroPaper I18n](/the-moon-daji.png)
 
 
 

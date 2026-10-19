@@ -8,7 +8,7 @@ description: "Shangguan Waner était issue d'une famille célèbre, mais elle n'
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-shangguan-wan-er.png)
+![AstroPaper I18n](/the-rise-and-fall-of-shangguan-wan-er.png)
 
 
 

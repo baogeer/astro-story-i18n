@@ -8,7 +8,7 @@ description: "Принцесса Анле — дочь Тан Чжунцзуна
 
 
 
-![AstroPaper I18n](/public/the-tale-of-princess-anle-who-poisoned-her-father.png)
+![AstroPaper I18n](/the-tale-of-princess-anle-who-poisoned-her-father.png)
 
 
 

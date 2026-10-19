@@ -8,7 +8,7 @@ description: "Семья Ван Шисиня бедна. Его семья, Ли
 
 
 
-![AstroPaper I18n](/public/parameter-error-plase-check-your-request-parameters.png)
+![AstroPaper I18n](/parameter-error-plase-check-your-request-parameters.png)
 
 
 

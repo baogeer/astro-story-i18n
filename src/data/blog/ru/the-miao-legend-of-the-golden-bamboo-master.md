@@ -8,7 +8,7 @@ description: "Мастер Цзинь Чжу был очень умен, ког�
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-golden-bamboo-master.png)
+![AstroPaper I18n](/the-miao-legend-of-the-golden-bamboo-master.png)
 
 
 

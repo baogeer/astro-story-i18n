@@ -8,7 +8,7 @@ description: "Once upon a time, in order to recover the Sun and Moon, which had 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake.png)
 
 
 

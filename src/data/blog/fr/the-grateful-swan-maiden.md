@@ -8,7 +8,7 @@ description: "Le père et le fils de Zhang Laohan sauvent un cygne mordu par un 
 
 
 
-![AstroPaper I18n](/public/the-grateful-swan-maiden.png)
+![AstroPaper I18n](/the-grateful-swan-maiden.png)
 
 
 

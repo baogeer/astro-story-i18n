@@ -8,7 +8,7 @@ description: "В списке подарков из коллекции Мао Ц
 
 
 
-![AstroPaper I18n](/public/the-noble-spirit-of-mao-zedong-lives-on.png)
+![AstroPaper I18n](/the-noble-spirit-of-mao-zedong-lives-on.png)
 
 
 

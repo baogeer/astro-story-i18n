@@ -8,7 +8,7 @@ description: "تدير سو دونغ بو البحيرة الغربية في ه�
 
 
 
-![AstroPaper I18n](/public/the-story-of-dongpo-pork.png)
+![AstroPaper I18n](/the-story-of-dongpo-pork.png)
 
 
 

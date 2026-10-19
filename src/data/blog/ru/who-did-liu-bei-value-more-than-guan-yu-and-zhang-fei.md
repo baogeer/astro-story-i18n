@@ -8,7 +8,7 @@ description: "Когда Лю Бэй был в самом бедном поло�
 
 
 
-![AstroPaper I18n](/public/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
 
 
 

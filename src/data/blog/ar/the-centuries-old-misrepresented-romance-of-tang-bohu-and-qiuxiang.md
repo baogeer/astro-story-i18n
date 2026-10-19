@@ -8,7 +8,7 @@ description: "عاش تانغ ين حياة صعبة؛ لم يكن شخصًا م
 
 
 
-![AstroPaper I18n](/public/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
+![AstroPaper I18n](/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lorsque les dix filles de l'empereur Jade ont appris que les Immor
 
 
 
-![AstroPaper I18n](/public/the-fairy-maidens-and-the-magic-mirror.png)
+![AstroPaper I18n](/the-fairy-maidens-and-the-magic-mirror.png)
 
 
 

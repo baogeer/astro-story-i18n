@@ -8,7 +8,7 @@ description: "تم انتخاب وانغ تشاو جون في قصر هان كا
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
+![AstroPaper I18n](/wang-zhaojun-tears-as-a-stepson-s-bride-and-the-rise-of-xiongnu.png)
 
 
 

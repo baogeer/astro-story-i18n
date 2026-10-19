@@ -8,7 +8,7 @@ description: "Le festival des oiseaux de Yao fait suite aux graves dommages caus
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-bird-scaring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-bird-scaring-festival.png)
 
 
 

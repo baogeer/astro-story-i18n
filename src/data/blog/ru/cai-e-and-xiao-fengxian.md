@@ -8,7 +8,7 @@ description: "Во время борьбы против Юань Хуго ген
 
 
 
-![AstroPaper I18n](/public/cai-e-and-xiao-fengxian.png)
+![AstroPaper I18n](/cai-e-and-xiao-fengxian.png)
 
 
 

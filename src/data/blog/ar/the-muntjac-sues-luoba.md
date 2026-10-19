@@ -8,7 +8,7 @@ description: "سرق زيزي القمح وقتل برصاص الصياد روب
 
 
 
-![AstroPaper I18n](/public/the-muntjac-sues-luoba.png)
+![AstroPaper I18n](/the-muntjac-sues-luoba.png)
 
 
 

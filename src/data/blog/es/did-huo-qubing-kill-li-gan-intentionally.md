@@ -8,7 +8,7 @@ description: "Li Gan hirió a Wei Qing por la venganza de su padre. Huo Gubing m
 
 
 
-![AstroPaper I18n](/public/did-huo-qubing-kill-li-gan-intentionally.png)
+![AstroPaper I18n](/did-huo-qubing-kill-li-gan-intentionally.png)
 
 
 

@@ -8,7 +8,7 @@ description: "الأميرة نينغ غو هي ابنة تشو يوان تشا�
 
 
 
-![AstroPaper I18n](/public/the-helpless-sorrow-of-princess-ningguo.png)
+![AstroPaper I18n](/the-helpless-sorrow-of-princess-ningguo.png)
 
 
 

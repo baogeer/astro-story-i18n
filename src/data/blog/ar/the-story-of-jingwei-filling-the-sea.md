@@ -8,7 +8,7 @@ description: "ذهبت ابنة الإمبراطور يان بالقارب إل�
 
 
 
-![AstroPaper I18n](/public/the-story-of-jingwei-filling-the-sea.png)
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
 
 
 

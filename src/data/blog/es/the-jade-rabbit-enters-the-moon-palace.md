@@ -8,7 +8,7 @@ description: "Un par de conejos que practican para convertirse en inmortales se 
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-enters-the-moon-palace.png)
+![AstroPaper I18n](/the-jade-rabbit-enters-the-moon-palace.png)
 
 
 

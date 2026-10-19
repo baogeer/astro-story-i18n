@@ -8,7 +8,7 @@ description: "في ليلة ممطرة، حمل سائق التاكسي بلطف
 
 
 
-![AstroPaper I18n](/public/a-rainy-night-fright.png)
+![AstroPaper I18n](/a-rainy-night-fright.png)
 
 
 

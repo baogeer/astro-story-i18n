@@ -8,7 +8,7 @@ description: "Guan San confió en el capital que robó en aquel entonces para co
 
 
 
-![AstroPaper I18n](/public/the-foot-thief.png)
+![AstroPaper I18n](/the-foot-thief.png)
 
 
 

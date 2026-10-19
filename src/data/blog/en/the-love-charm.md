@@ -8,7 +8,7 @@ description: "A sister from Xiangxi fell in love with Ge Chai at first sight. Se
 
 
 
-![AstroPaper I18n](/public/the-love-charm.png)
+![AstroPaper I18n](/the-love-charm.png)
 
 
 

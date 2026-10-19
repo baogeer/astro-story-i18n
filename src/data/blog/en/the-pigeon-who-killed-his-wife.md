@@ -8,7 +8,7 @@ description: "When male pigeons saw the fall fruits disappear, they mistook thei
 
 
 
-![AstroPaper I18n](/public/the-pigeon-who-killed-his-wife.png)
+![AstroPaper I18n](/the-pigeon-who-killed-his-wife.png)
 
 
 

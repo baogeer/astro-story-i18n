@@ -8,7 +8,7 @@ description: "Le jeune fermier a trouvé un escargot des champs et l'a gardé da
 
 
 
-![AstroPaper I18n](/public/the-snail-maiden.png)
+![AstroPaper I18n](/the-snail-maiden.png)
 
 
 

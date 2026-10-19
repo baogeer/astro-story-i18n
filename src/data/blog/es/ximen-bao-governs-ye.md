@@ -8,7 +8,7 @@ description: "Durante el período de los Reinos Combatientes, Ximen Bao Ren Yeli
 
 
 
-![AstroPaper I18n](/public/ximen-bao-governs-ye.png)
+![AstroPaper I18n](/ximen-bao-governs-ye.png)
 
 
 

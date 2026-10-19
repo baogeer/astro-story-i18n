@@ -8,7 +8,7 @@ description: "After Liangshan's defeat, Hu Sanniang went into hiding in Huang Yu
 
 
 
-![AstroPaper I18n](/public/the-black-peony.png)
+![AstroPaper I18n](/the-black-peony.png)
 
 
 

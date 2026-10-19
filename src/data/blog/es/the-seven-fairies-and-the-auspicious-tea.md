@@ -8,7 +8,7 @@ description: "Cuando las Siete Hadas murieron, quemaron incienso y pidieron ayud
 
 
 
-![AstroPaper I18n](/public/the-seven-fairies-and-the-auspicious-tea.png)
+![AstroPaper I18n](/the-seven-fairies-and-the-auspicious-tea.png)
 
 
 

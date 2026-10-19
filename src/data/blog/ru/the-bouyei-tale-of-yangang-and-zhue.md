@@ -8,7 +8,7 @@ description: "Чжуэ заставили прыгнуть в реку с рад
 
 
 
-![AstroPaper I18n](/public/the-bouyei-tale-of-yangang-and-zhue.png)
+![AstroPaper I18n](/the-bouyei-tale-of-yangang-and-zhue.png)
 
 
 

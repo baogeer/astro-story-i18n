@@ -8,7 +8,7 @@ description: "Tras la derrota, el Gran Dragón Negro intentó bloquear el río Y
 
 
 
-![AstroPaper I18n](/public/the-origin-of-stone-gate-pass.png)
+![AstroPaper I18n](/the-origin-of-stone-gate-pass.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qianlong's private visit to Jiangnan coincided with the farmhouse 
 
 
 
-![AstroPaper I18n](/public/the-emperor-s-dilemma.png)
+![AstroPaper I18n](/the-emperor-s-dilemma.png)
 
 
 

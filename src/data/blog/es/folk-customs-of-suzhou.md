@@ -8,7 +8,7 @@ description: "Suzhou es rica en costumbres populares. Refleja vivir en armonía 
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-suzhou.png)
+![AstroPaper I18n](/folk-customs-of-suzhou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dumb turtles want to monopolize the world's wisdom, hide the wisdo
 
 
 
-![AstroPaper I18n](/public/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
+![AstroPaper I18n](/the-foolish-turtle-who-tried-to-hoard-all-wisdom.png)
 
 
 

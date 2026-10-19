@@ -8,7 +8,7 @@ description: "Zhi Qing, the elder of Shokoku-ji Temple, presented a bucket of Ji
 
 
 
-![AstroPaper I18n](/public/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
+![AstroPaper I18n](/the-abbot-of-xiangguo-temple-in-kaifeng-cleverly-humiliates-empress-dowager-cixi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Син Чан получил бонус от Xing Xian. Выйдя
 
 
 
-![AstroPaper I18n](/public/the-tale-of-xingchan.png)
+![AstroPaper I18n](/the-tale-of-xingchan.png)
 
 
 

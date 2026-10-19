@@ -8,7 +8,7 @@ description: "Ah Xiang, de la aldea de Zhi en el río Yangyi, fue secuestrada po
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-the-february-nineteenth-fair.png)
 
 
 

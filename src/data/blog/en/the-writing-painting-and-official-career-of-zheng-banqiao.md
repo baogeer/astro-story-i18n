@@ -8,7 +8,7 @@ description: "Zheng Banqiao was born poor and was literate at the age of three. 
 
 
 
-![AstroPaper I18n](/public/the-writing-painting-and-official-career-of-zheng-banqiao.png)
+![AstroPaper I18n](/the-writing-painting-and-official-career-of-zheng-banqiao.png)
 
 
 

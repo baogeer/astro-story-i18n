@@ -8,7 +8,7 @@ description: "By chance, the young man took firewood and got lucky enough to fly
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-palace-maiden-s-portrait.png)
+![AstroPaper I18n](/the-story-of-the-palace-maiden-s-portrait.png)
 
 
 

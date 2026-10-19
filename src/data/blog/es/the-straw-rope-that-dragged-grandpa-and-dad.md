@@ -8,7 +8,7 @@ description: "El hijo sospechó que su padre estaba gravemente enfermo, y frotó
 
 
 
-![AstroPaper I18n](/public/the-straw-rope-that-dragged-grandpa-and-dad.png)
+![AstroPaper I18n](/the-straw-rope-that-dragged-grandpa-and-dad.png)
 
 
 

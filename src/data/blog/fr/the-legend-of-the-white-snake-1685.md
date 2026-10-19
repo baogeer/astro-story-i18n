@@ -8,7 +8,7 @@ description: "White Snake Bai Suzhen a visité le lac de l'Ouest et a rencontré
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-1685.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-1685.png)
 
 
 

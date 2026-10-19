@@ -8,7 +8,7 @@ description: "Una pareja quería abandonar a sus hijos y dejarlos usar calabazas
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
+![AstroPaper I18n](/the-yi-folktale-of-how-the-sun-and-moon-came-to-be.png)
 
 
 

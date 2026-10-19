@@ -8,7 +8,7 @@ description: "Dans l'histoire de «xa0Shih Tzu Shen Jiangxa0», la belle femme v
 
 
 
-![AstroPaper I18n](/public/xi-shi-drowns-in-the-river.png)
+![AstroPaper I18n](/xi-shi-drowns-in-the-river.png)
 
 
 

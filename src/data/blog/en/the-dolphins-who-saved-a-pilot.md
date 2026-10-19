@@ -8,7 +8,7 @@ description: "Dutch pilot Fick parachuted into the sea and was besieged by three
 
 
 
-![AstroPaper I18n](/public/the-dolphins-who-saved-a-pilot.png)
+![AstroPaper I18n](/the-dolphins-who-saved-a-pilot.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The three Bai Zhu Yang brothers blamed their young son for stealin
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
+![AstroPaper I18n](/the-legend-of-the-baizhu-yang-family-s-taboo-against-eating-hearts.png)
 
 
 

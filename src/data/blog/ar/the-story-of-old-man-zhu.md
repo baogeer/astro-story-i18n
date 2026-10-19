@@ -8,7 +8,7 @@ description: "عاد رجل عجوز يدعى تشو من تشوجياكون ف�
 
 
 
-![AstroPaper I18n](/public/the-story-of-old-man-zhu.png)
+![AstroPaper I18n](/the-story-of-old-man-zhu.png)
 
 
 

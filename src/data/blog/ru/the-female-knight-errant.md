@@ -8,7 +8,7 @@ description: "Семья Гу Шэна бедна, а рыцарская жен�
 
 
 
-![AstroPaper I18n](/public/the-female-knight-errant.png)
+![AstroPaper I18n](/the-female-knight-errant.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Miroto used his master's rain hat and limbs to make everything in 
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-bunu-yao-creation-myth.png)
+![AstroPaper I18n](/miluotuo-the-bunu-yao-creation-myth.png)
 
 
 

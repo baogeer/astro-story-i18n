@@ -8,7 +8,7 @@ description: "La niña, Laura, fue rescatada y criada por una mujer lobo y se co
 
 
 
-![AstroPaper I18n](/public/the-wolf-girl-laura.png)
+![AstroPaper I18n](/the-wolf-girl-laura.png)
 
 
 

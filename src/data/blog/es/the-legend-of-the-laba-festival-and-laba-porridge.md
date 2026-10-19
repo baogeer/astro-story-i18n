@@ -8,7 +8,7 @@ description: "El 8 de diciembre del calendario lunar es el Festival de Laba, y e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-laba-festival-and-laba-porridge.png)
+![AstroPaper I18n](/the-legend-of-the-laba-festival-and-laba-porridge.png)
 
 
 

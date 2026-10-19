@@ -8,7 +8,7 @@ description: "À l'âge de 64 ans, Lu Dongbin a perdu sa carrière et a rencontr
 
 
 
-![AstroPaper I18n](/public/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
 
 
 

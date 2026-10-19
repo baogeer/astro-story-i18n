@@ -8,7 +8,7 @@ description: "En la mitología jingpo, Jane debería liberarse de la tierra y qu
 
 
 
-![AstroPaper I18n](/public/the-jingpo-creation-myth.png)
+![AstroPaper I18n](/the-jingpo-creation-myth.png)
 
 
 

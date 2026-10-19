@@ -8,7 +8,7 @@ description: "Le prince Xu a été chargé de remettre 3 000 yuans d'argent dans
 
 
 
-![AstroPaper I18n](/public/the-monkey-hero.png)
+![AstroPaper I18n](/the-monkey-hero.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lu Fengning is fond of tasty snakes. The little snake swallowed it
 
 
 
-![AstroPaper I18n](/public/the-snake-eater.png)
+![AstroPaper I18n](/the-snake-eater.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhu Juren visited the temple in Menglongtan and saw a young girl i
 
 
 
-![AstroPaper I18n](/public/the-painted-wall.png)
+![AstroPaper I18n](/the-painted-wall.png)
 
 
 

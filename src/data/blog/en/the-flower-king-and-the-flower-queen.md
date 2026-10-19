@@ -8,7 +8,7 @@ description: "There was a woodcutter in Peony Mountain in the Tang dynasty. He l
 
 
 
-![AstroPaper I18n](/public/the-flower-king-and-the-flower-queen.png)
+![AstroPaper I18n](/the-flower-king-and-the-flower-queen.png)
 
 
 

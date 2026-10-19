@@ -8,7 +8,7 @@ description: "Han Xiangzi, uno de los Ocho Inmortales, era originalmente el sobr
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/han-xiangzi-one-of-the-eight-immortals.png)
 
 
 

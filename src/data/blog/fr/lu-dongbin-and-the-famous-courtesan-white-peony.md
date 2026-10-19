@@ -8,7 +8,7 @@ description: "Lu Dongbin a eu une liaison avec la célèbre prostituée Bai Peon
 
 
 
-![AstroPaper I18n](/public/lu-dongbin-and-the-famous-courtesan-white-peony.png)
+![AstroPaper I18n](/lu-dongbin-and-the-famous-courtesan-white-peony.png)
 
 
 

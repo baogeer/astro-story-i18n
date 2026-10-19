@@ -8,7 +8,7 @@ description: "Deep in the forest, sisters Lilac and Lily rescued the flower fair
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-flower-fairy.png)
+![AstroPaper I18n](/the-story-of-the-flower-fairy.png)
 
 
 

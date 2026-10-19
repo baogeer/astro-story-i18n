@@ -8,7 +8,7 @@ description: "Пань И, основатель этнической групп�
 
 
 
-![AstroPaper I18n](/public/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
+![AstroPaper I18n](/a-fascinating-collection-of-yao-ancestral-myths-and-legends.png)
 
 
 

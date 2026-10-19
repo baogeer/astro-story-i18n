@@ -8,7 +8,7 @@ description: "Pendant son combat contre Yuan Huguo, le général Choi a eu une b
 
 
 
-![AstroPaper I18n](/public/cai-e-and-xiao-fengxian.png)
+![AstroPaper I18n](/cai-e-and-xiao-fengxian.png)
 
 
 

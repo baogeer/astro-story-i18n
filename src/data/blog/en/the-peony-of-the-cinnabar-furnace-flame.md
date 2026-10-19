@@ -8,7 +8,7 @@ description: "Wang Laohan's peony garden, a flower farmer in Caozhou, was bitten
 
 
 
-![AstroPaper I18n](/public/the-peony-of-the-cinnabar-furnace-flame.png)
+![AstroPaper I18n](/the-peony-of-the-cinnabar-furnace-flame.png)
 
 
 

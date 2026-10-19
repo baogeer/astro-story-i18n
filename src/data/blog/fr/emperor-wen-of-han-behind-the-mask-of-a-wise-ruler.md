@@ -8,7 +8,7 @@ description: "Lorsque l'empereur Han Wen Liu Heng est monté sur le trône, il a
 
 
 
-![AstroPaper I18n](/public/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
+![AstroPaper I18n](/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
 
 
 

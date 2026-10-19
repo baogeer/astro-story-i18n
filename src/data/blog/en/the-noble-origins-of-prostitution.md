@@ -8,7 +8,7 @@ description: "The story traces the origin of prostitutes to witches in primitive
 
 
 
-![AstroPaper I18n](/public/the-noble-origins-of-prostitution.png)
+![AstroPaper I18n](/the-noble-origins-of-prostitution.png)
 
 
 

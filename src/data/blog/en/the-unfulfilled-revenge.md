@@ -8,7 +8,7 @@ description: "Meng Jingui was convicted of robbery. He fled home from the Great 
 
 
 
-![AstroPaper I18n](/public/the-unfulfilled-revenge.png)
+![AstroPaper I18n](/the-unfulfilled-revenge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Afin de lutter contre la tyrannie du dieu noir du pain grillé, Za
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
 
 
 

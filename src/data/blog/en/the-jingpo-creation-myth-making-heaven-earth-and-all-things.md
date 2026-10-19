@@ -8,7 +8,7 @@ description: "Ning Guanwa created everything in heaven and earth, and the devil 
 
 
 
-![AstroPaper I18n](/public/the-jingpo-creation-myth-making-heaven-earth-and-all-things.png)
+![AstroPaper I18n](/the-jingpo-creation-myth-making-heaven-earth-and-all-things.png)
 
 
 

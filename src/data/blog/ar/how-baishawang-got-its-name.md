@@ -8,7 +8,7 @@ description: "أُمر يانغ ليولانج بمحاربة قطاع الطر�
 
 
 
-![AstroPaper I18n](/public/how-baishawang-got-its-name.png)
+![AstroPaper I18n](/how-baishawang-got-its-name.png)
 
 
 

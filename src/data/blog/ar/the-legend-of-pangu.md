@@ -8,7 +8,7 @@ description: "بعد أن كانت بانغو رائدة في العالم، أ�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-pangu.png)
+![AstroPaper I18n](/the-legend-of-pangu.png)
 
 
 

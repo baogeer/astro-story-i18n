@@ -8,7 +8,7 @@ description: "عائلة غو شنغ فقيرة، وتعيش امرأة شهام
 
 
 
-![AstroPaper I18n](/public/the-female-knight-errant.png)
+![AstroPaper I18n](/the-female-knight-errant.png)
 
 
 

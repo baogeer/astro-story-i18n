@@ -8,7 +8,7 @@ description: "El río Shijihe en Laiyang también se conoce como río Xianhe y r
 
 
 
-![AstroPaper I18n](/public/the-legend-of-xian-river-the-virtuous-river.png)
+![AstroPaper I18n](/the-legend-of-xian-river-the-virtuous-river.png)
 
 
 

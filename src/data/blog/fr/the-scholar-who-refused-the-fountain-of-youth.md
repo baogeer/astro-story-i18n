@@ -8,7 +8,7 @@ description: "L'érudite Qin Zhenyou s'est égarée et s'est perdue dans la font
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-refused-the-fountain-of-youth.png)
+![AstroPaper I18n](/the-scholar-who-refused-the-fountain-of-youth.png)
 
 
 

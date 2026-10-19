@@ -8,7 +8,7 @@ description: "قام الحرفيون بنقش الأحجار اللازمة ف�
 
 
 
-![AstroPaper I18n](/public/the-ice-road-that-carried-the-stones.png)
+![AstroPaper I18n](/the-ice-road-that-carried-the-stones.png)
 
 
 

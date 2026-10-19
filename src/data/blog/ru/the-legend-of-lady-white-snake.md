@@ -8,7 +8,7 @@ description: "Пэк Су Чжон и Сюй Сяньчэн поженились
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-white-snake.png)
+![AstroPaper I18n](/the-legend-of-lady-white-snake.png)
 
 
 

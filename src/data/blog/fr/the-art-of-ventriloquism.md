@@ -8,7 +8,7 @@ description: "Une femme de 24 ans qui exerçait la médecine a fermé sa porte l
 
 
 
-![AstroPaper I18n](/public/the-art-of-ventriloquism.png)
+![AstroPaper I18n](/the-art-of-ventriloquism.png)
 
 
 

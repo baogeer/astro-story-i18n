@@ -8,7 +8,7 @@ description: "Shan Liang et sa femme ont cultivé un melon d'hiver géant dans l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-guan-mountain.png)
+![AstroPaper I18n](/the-legend-of-guan-mountain.png)
 
 
 

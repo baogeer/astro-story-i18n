@@ -8,7 +8,7 @@ description: "En la antigüedad, los antepasados del pueblo Zhuang no tenían fu
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
+![AstroPaper I18n](/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
 
 
 

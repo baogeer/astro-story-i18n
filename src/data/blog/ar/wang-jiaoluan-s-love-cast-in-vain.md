@@ -8,7 +8,7 @@ description: "خلال سنوات تيانشون في عهد أسرة مينغ،
 
 
 
-![AstroPaper I18n](/public/wang-jiaoluan-s-love-cast-in-vain.png)
+![AstroPaper I18n](/wang-jiaoluan-s-love-cast-in-vain.png)
 
 
 

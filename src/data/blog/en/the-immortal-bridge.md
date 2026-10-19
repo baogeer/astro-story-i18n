@@ -8,7 +8,7 @@ description: "At a natural stone bridge in the eastern foothills of the eastern 
 
 
 
-![AstroPaper I18n](/public/the-immortal-bridge.png)
+![AstroPaper I18n](/the-immortal-bridge.png)
 
 
 

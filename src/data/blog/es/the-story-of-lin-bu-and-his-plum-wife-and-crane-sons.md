@@ -8,7 +8,7 @@ description: "Lin Yi vive recluido en la montaña Xiaogu en el Lago del Oeste. C
 
 
 
-![AstroPaper I18n](/public/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
+![AstroPaper I18n](/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
 
 
 

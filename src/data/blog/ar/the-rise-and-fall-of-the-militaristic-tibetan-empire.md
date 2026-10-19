@@ -8,7 +8,7 @@ description: "ورث سونغ زانجانبو أعمال والده ووحد ه
 
 
 
-![AstroPaper I18n](/public/the-rise-and-fall-of-the-militaristic-tibetan-empire.png)
+![AstroPaper I18n](/the-rise-and-fall-of-the-militaristic-tibetan-empire.png)
 
 
 

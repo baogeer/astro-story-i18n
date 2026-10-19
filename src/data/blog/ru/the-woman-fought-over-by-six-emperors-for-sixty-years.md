@@ -8,7 +8,7 @@ description: "Императрица Сяо от природы прекрасн
 
 
 
-![AstroPaper I18n](/public/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
+![AstroPaper I18n](/the-woman-fought-over-by-six-emperors-for-sixty-years.png)
 
 
 

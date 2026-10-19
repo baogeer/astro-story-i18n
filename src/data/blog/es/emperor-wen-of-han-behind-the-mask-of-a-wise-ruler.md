@@ -8,7 +8,7 @@ description: "Cuando el emperador Han Wen Liu Heng subió al trono, se asustó p
 
 
 
-![AstroPaper I18n](/public/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
+![AstroPaper I18n](/emperor-wen-of-han-behind-the-mask-of-a-wise-ruler.png)
 
 
 

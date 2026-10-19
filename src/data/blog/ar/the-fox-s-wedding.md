@@ -8,7 +8,7 @@ description: "كان غونغ يين شجاعًا عندما كان صغيرًا
 
 
 
-![AstroPaper I18n](/public/the-fox-s-wedding.png)
+![AstroPaper I18n](/the-fox-s-wedding.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le conte populaire de Yangyi Yi «xa0Zhang Carpenter Darely Remove
 
 
 
-![AstroPaper I18n](/public/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
+![AstroPaper I18n](/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
 
 
 

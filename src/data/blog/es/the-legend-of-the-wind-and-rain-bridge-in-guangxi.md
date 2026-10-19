@@ -8,7 +8,7 @@ description: "Los cangrejos llevaron a Peiguan, la esposa de Buka, descendiente 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
+![AstroPaper I18n](/the-legend-of-the-wind-and-rain-bridge-in-guangxi.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت زوجة الابن الجديدة لعائلة زاوا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhao-an-kitten-porridge.png)
+![AstroPaper I18n](/the-legend-of-zhao-an-kitten-porridge.png)
 
 
 

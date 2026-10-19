@@ -8,7 +8,7 @@ description: "Gao Fengqi s'est rendu à Guangzhou pour faire fortune en vendant 
 
 
 
-![AstroPaper I18n](/public/squire-gao-suns-his-silver-ingots.png)
+![AstroPaper I18n](/squire-gao-suns-his-silver-ingots.png)
 
 
 

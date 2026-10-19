@@ -8,7 +8,7 @@ description: "In ancient times, there were six suns in the sky, and the heat of 
 
 
 
-![AstroPaper I18n](/public/the-man-who-shot-down-five-suns.png)
+![AstroPaper I18n](/the-man-who-shot-down-five-suns.png)
 
 
 

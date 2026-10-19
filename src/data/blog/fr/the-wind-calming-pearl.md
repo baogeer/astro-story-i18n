@@ -8,7 +8,7 @@ description: "Le jeune homme qui coupait du bois de chauffage recevait parfois D
 
 
 
-![AstroPaper I18n](/public/the-wind-calming-pearl.png)
+![AstroPaper I18n](/the-wind-calming-pearl.png)
 
 
 

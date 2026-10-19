@@ -8,7 +8,7 @@ description: "Princess Yang Guifei was originally Tang Xuanzong's daughter-in-la
 
 
 
-![AstroPaper I18n](/public/yang-guifei-eve-was-a-femme-fatale-all-along.png)
+![AstroPaper I18n](/yang-guifei-eve-was-a-femme-fatale-all-along.png)
 
 
 

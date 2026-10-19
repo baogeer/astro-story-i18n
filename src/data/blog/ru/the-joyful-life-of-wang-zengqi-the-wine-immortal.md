@@ -8,7 +8,7 @@ description: "Ван Цзэнци всю жизнь пристрастился �
 
 
 
-![AstroPaper I18n](/public/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
+![AstroPaper I18n](/the-joyful-life-of-wang-zengqi-the-wine-immortal.png)
 
 
 

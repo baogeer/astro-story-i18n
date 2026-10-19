@@ -8,7 +8,7 @@ description: "Tras la muerte de sus padres, el hermano mayor se hizo cargo de la
 
 
 
-![AstroPaper I18n](/public/the-story-of-selling-fragrant-farts.png)
+![AstroPaper I18n](/the-story-of-selling-fragrant-farts.png)
 
 
 

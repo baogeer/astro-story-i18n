@@ -8,7 +8,7 @@ description: "In order to seek Zhishui, the Yi orphan rescued the mythical frog 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-moon-lute.png)
+![AstroPaper I18n](/the-legend-of-the-yi-moon-lute.png)
 
 
 

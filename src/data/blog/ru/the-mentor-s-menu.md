@@ -8,7 +8,7 @@ description: "Лю Наньюаню, писателю на пенсии из д�
 
 
 
-![AstroPaper I18n](/public/the-mentor-s-menu.png)
+![AstroPaper I18n](/the-mentor-s-menu.png)
 
 
 

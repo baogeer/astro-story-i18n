@@ -8,7 +8,7 @@ description: "Ван Юхэн, владелец магазина по приго
 
 
 
-![AstroPaper I18n](/public/the-coffin-dowry-a-southern-anhui-folktale.png)
+![AstroPaper I18n](/the-coffin-dowry-a-southern-anhui-folktale.png)
 
 
 

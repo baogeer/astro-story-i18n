@@ -8,7 +8,7 @@ description: "Чжу Интай, женщина в мужской одежде, 
 
 
 
-![AstroPaper I18n](/public/liang-shanbo-and-zhu-yingtai-a-pair-of-mandarin-ducks-never-apart.png)
+![AstroPaper I18n](/liang-shanbo-and-zhu-yingtai-a-pair-of-mandarin-ducks-never-apart.png)
 
 
 

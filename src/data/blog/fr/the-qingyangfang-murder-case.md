@@ -8,7 +8,7 @@ description: "Dans les premières années de la République de Chine, le riche m
 
 
 
-![AstroPaper I18n](/public/the-qingyangfang-murder-case.png)
+![AstroPaper I18n](/the-qingyangfang-murder-case.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dynasty Yun era originalmente cantante en Qiantang, y Su Shina, qu
 
 
 
-![AstroPaper I18n](/public/the-death-of-wang-zhaoyun-su-dongpo-s-faithful-companion-through-hardship.png)
+![AstroPaper I18n](/the-death-of-wang-zhaoyun-su-dongpo-s-faithful-companion-through-hardship.png)
 
 
 

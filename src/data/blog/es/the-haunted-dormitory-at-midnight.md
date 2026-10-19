@@ -8,7 +8,7 @@ description: "Hubo un caso en el que una chica se ahorcó en el dormitorio de un
 
 
 
-![AstroPaper I18n](/public/the-haunted-dormitory-at-midnight.png)
+![AstroPaper I18n](/the-haunted-dormitory-at-midnight.png)
 
 
 

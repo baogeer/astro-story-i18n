@@ -8,7 +8,7 @@ description: "У трудящихся-мигрантов Лю Саньфу не 
 
 
 
-![AstroPaper I18n](/public/the-misdelivered-greeting-card.png)
+![AstroPaper I18n](/the-misdelivered-greeting-card.png)
 
 
 

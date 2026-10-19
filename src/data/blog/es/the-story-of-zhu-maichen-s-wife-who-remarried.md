@@ -8,7 +8,7 @@ description: "La familia de Zhu Maichen en la dinastía Han era pobre. A menudo 
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhu-maichen-s-wife-who-remarried.png)
+![AstroPaper I18n](/the-story-of-zhu-maichen-s-wife-who-remarried.png)
 
 
 

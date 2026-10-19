@@ -8,7 +8,7 @@ description: "La princesa Jieyu fue ordenada por el emperador Wu de Han y su pri
 
 
 
-![AstroPaper I18n](/public/the-trials-and-tribulations-of-princess-jieyou.png)
+![AstroPaper I18n](/the-trials-and-tribulations-of-princess-jieyou.png)
 
 
 

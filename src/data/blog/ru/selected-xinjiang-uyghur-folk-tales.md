@@ -8,7 +8,7 @@ description: "Аванти задали два вопроса: старый ох
 
 
 
-![AstroPaper I18n](/public/selected-xinjiang-uyghur-folk-tales.png)
+![AstroPaper I18n](/selected-xinjiang-uyghur-folk-tales.png)
 
 
 

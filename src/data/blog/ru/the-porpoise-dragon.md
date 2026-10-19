@@ -8,7 +8,7 @@ description: "Pig Borong производится в провинции Цзян
 
 
 
-![AstroPaper I18n](/public/the-porpoise-dragon.png)
+![AstroPaper I18n](/the-porpoise-dragon.png)
 
 
 

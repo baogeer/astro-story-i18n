@@ -8,7 +8,7 @@ description: "Laozi Li Yi fue un huésped en la casa de Han Gu Guan Yin Xi para 
 
 
 
-![AstroPaper I18n](/public/laozi-s-prophecy.png)
+![AstroPaper I18n](/laozi-s-prophecy.png)
 
 
 

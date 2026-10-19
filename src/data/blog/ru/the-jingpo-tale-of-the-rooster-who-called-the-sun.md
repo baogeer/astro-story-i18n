@@ -8,7 +8,7 @@ description: "Легенда гласит, что в древние времен
 
 
 
-![AstroPaper I18n](/public/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
+![AstroPaper I18n](/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
 
 
 

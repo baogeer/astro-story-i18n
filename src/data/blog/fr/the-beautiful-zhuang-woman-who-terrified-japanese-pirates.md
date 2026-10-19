@@ -8,7 +8,7 @@ description: "Mme Wa, une femme générale Zhuang de la dynastie Ming, a récemm
 
 
 
-![AstroPaper I18n](/public/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
+![AstroPaper I18n](/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
 
 
 

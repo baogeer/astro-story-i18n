@@ -8,7 +8,7 @@ description: "صدم تشين تشي، المعروف باسم «وحش الشط
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-loses-at-chess.png)
+![AstroPaper I18n](/the-dragon-king-loses-at-chess.png)
 
 
 

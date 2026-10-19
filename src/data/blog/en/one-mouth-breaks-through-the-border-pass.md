@@ -8,7 +8,7 @@ description: "Wang Zhaojun was forced to remarry after the death of the Huns. Fe
 
 
 
-![AstroPaper I18n](/public/one-mouth-breaks-through-the-border-pass.png)
+![AstroPaper I18n](/one-mouth-breaks-through-the-border-pass.png)
 
 
 

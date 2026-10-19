@@ -8,7 +8,7 @@ description: "بعد أن فقدت ابنها، اعتنى زوجها ليو ز�
 
 
 
-![AstroPaper I18n](/public/who-can-save-her.png)
+![AstroPaper I18n](/who-can-save-her.png)
 
 
 

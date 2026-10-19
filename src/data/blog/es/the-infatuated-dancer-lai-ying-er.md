@@ -8,7 +8,7 @@ description: "Al final de la dinastía Han del Este, cuando el maestro kabuki de
 
 
 
-![AstroPaper I18n](/public/the-infatuated-dancer-lai-ying-er.png)
+![AstroPaper I18n](/the-infatuated-dancer-lai-ying-er.png)
 
 
 

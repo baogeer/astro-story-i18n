@@ -8,7 +8,7 @@ description: "Eastern Jin, Zhu Yingtai, a étudié dans le même style qu'un hom
 
 
 
-![AstroPaper I18n](/public/the-story-of-liang-shanbo-and-zhu-yingtai.png)
+![AstroPaper I18n](/the-story-of-liang-shanbo-and-zhu-yingtai.png)
 
 
 

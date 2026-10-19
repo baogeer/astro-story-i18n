@@ -8,7 +8,7 @@ description: "Big Black Dragon vit dans un nid de saules à Dalangba à Cangshan
 
 
 
-![AstroPaper I18n](/public/the-great-black-dragon-moves-away.png)
+![AstroPaper I18n](/the-great-black-dragon-moves-away.png)
 
 
 

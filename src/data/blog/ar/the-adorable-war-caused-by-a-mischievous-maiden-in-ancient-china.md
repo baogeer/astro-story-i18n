@@ -8,7 +8,7 @@ description: "هزت تساي جي وتشي هوان غونغ القارب بش�
 
 
 
-![AstroPaper I18n](/public/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
+![AstroPaper I18n](/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
 
 
 

@@ -8,7 +8,7 @@ description: "L'État de Fenzhou a déterminé que Zhu Gong était amoureux d'un
 
 
 
-![AstroPaper I18n](/public/the-fox-of-fenzhou.png)
+![AstroPaper I18n](/the-fox-of-fenzhou.png)
 
 
 

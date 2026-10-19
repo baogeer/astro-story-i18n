@@ -8,7 +8,7 @@ description: "An old cow herder in Mengku of the Dai tribe discovered that the b
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
+![AstroPaper I18n](/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
 
 
 

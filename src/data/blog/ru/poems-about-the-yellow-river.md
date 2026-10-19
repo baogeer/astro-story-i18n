@@ -8,7 +8,7 @@ description: "Это короткое эссе представляет собо
 
 
 
-![AstroPaper I18n](/public/poems-about-the-yellow-river.png)
+![AstroPaper I18n](/poems-about-the-yellow-river.png)
 
 
 

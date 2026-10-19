@@ -8,7 +8,7 @@ description: "В конце династии Юань и начале динас
 
 
 
-![AstroPaper I18n](/public/the-birth-of-he-xiangu.png)
+![AstroPaper I18n](/the-birth-of-he-xiangu.png)
 
 
 

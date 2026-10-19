@@ -8,7 +8,7 @@ description: "Les habitants du nord du Shaanxi considèrent la réparation des g
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
+![AstroPaper I18n](/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Jiu cortó un gran árbol de alcanfor en la luna. Cuando est
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
+![AstroPaper I18n](/the-legend-of-zhang-gulao-chopping-the-tree-in-the-moon.png)
 
 
 

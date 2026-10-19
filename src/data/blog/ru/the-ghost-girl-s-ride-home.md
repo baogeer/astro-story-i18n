@@ -8,7 +8,7 @@ description: "После того как водитель дальнего сл�
 
 
 
-![AstroPaper I18n](/public/the-ghost-girl-s-ride-home.png)
+![AstroPaper I18n](/the-ghost-girl-s-ride-home.png)
 
 
 

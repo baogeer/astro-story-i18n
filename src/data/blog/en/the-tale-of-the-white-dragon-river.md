@@ -8,7 +8,7 @@ description: "Bai Long is the kind-hearted eldest son of Dragon Palace in the Ea
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-white-dragon-river.png)
+![AstroPaper I18n](/the-tale-of-the-white-dragon-river.png)
 
 
 

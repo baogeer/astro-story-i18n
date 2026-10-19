@@ -8,7 +8,7 @@ description: "ولدت وي تشينغ عبدة منزلية وبدأت حيات
 
 
 
-![AstroPaper I18n](/public/the-ever-victorious-general-wei-qing.png)
+![AstroPaper I18n](/the-ever-victorious-general-wei-qing.png)
 
 
 

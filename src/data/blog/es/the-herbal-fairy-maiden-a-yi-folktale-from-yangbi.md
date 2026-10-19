@@ -8,7 +8,7 @@ description: "Para salvar a su suegra y a su madre, Shi Lan fue atacada y desmay
 
 
 
-![AstroPaper I18n](/public/the-herbal-fairy-maiden-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-herbal-fairy-maiden-a-yi-folktale-from-yangbi.png)
 
 
 

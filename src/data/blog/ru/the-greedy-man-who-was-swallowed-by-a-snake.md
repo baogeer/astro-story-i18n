@@ -8,7 +8,7 @@ description: "Учитель собрал хороший урожай цвето
 
 
 
-![AstroPaper I18n](/public/the-greedy-man-who-was-swallowed-by-a-snake.png)
+![AstroPaper I18n](/the-greedy-man-who-was-swallowed-by-a-snake.png)
 
 
 

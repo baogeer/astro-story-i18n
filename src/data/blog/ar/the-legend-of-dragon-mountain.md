@@ -8,7 +8,7 @@ description: "قام التنين الأسود الصغير بعمل شرير ب
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-mountain.png)
+![AstroPaper I18n](/the-legend-of-dragon-mountain.png)
 
 
 

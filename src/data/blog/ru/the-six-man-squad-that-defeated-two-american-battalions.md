@@ -8,7 +8,7 @@ description: "Ли Фэй возглавил группу из 6 человек,
 
 
 
-![AstroPaper I18n](/public/the-six-man-squad-that-defeated-two-american-battalions.png)
+![AstroPaper I18n](/the-six-man-squad-that-defeated-two-american-battalions.png)
 
 
 

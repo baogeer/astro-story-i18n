@@ -8,7 +8,7 @@ description: "Ученый Ван Ци отправился в Лаошань, �
 
 
 
-![AstroPaper I18n](/public/the-taoist-priest-of-mount-lao.png)
+![AstroPaper I18n](/the-taoist-priest-of-mount-lao.png)
 
 
 

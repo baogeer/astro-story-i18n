@@ -8,7 +8,7 @@ description: "Сунь Ву был военным в период весны и 
 
 
 
-![AstroPaper I18n](/public/sun-wu-the-eastern-sage-of-war.png)
+![AstroPaper I18n](/sun-wu-the-eastern-sage-of-war.png)
 
 
 

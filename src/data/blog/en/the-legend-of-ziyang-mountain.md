@@ -8,7 +8,7 @@ description: "Ziyang Mountain, formerly known as Fuyang Mountain, is rich in zic
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ziyang-mountain.png)
+![AstroPaper I18n](/the-legend-of-ziyang-mountain.png)
 
 
 

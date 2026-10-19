@@ -8,7 +8,7 @@ description: "Shih Tzu was originally a woman from Mount Zi Luo, and Yue Wang Go
 
 
 
-![AstroPaper I18n](/public/the-earliest-victim-xi-shi.png)
+![AstroPaper I18n](/the-earliest-victim-xi-shi.png)
 
 
 

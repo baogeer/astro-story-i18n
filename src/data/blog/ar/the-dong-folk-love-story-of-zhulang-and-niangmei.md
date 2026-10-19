@@ -8,7 +8,7 @@ description: "وقعت جورانغ ووالدتها في الحب وهربت، 
 
 
 
-![AstroPaper I18n](/public/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
+![AstroPaper I18n](/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
 
 
 

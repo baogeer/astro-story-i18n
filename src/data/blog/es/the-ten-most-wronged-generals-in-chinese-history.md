@@ -8,7 +8,7 @@ description: "Los diez principales errores de la historia china incluyen a Han X
 
 
 
-![AstroPaper I18n](/public/the-ten-most-wronged-generals-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-wronged-generals-in-chinese-history.png)
 
 
 

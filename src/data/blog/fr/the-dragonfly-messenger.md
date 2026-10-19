@@ -8,7 +8,7 @@ description: "Afin de sauver les habitants du comté de Shanyang, Guanyin a tran
 
 
 
-![AstroPaper I18n](/public/the-dragonfly-messenger.png)
+![AstroPaper I18n](/the-dragonfly-messenger.png)
 
 
 

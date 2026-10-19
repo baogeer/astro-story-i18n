@@ -8,7 +8,7 @@ description: "Al final de la dinastía Qing, Zhang Yuanwai adulteró injustament
 
 
 
-![AstroPaper I18n](/public/the-scholar-s-clever-rescue-of-the-peddler.png)
+![AstroPaper I18n](/the-scholar-s-clever-rescue-of-the-peddler.png)
 
 
 

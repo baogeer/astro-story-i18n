@@ -8,7 +8,7 @@ description: "Ах Чжи, девочку-сироту из этнической
 
 
 
-![AstroPaper I18n](/public/the-black-horse-pool.png)
+![AstroPaper I18n](/the-black-horse-pool.png)
 
 
 

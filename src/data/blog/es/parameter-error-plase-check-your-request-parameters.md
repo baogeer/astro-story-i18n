@@ -8,7 +8,7 @@ description: "La familia de Wang Shixin es pobre. Su familia, Li Wuyi, lo despre
 
 
 
-![AstroPaper I18n](/public/parameter-error-plase-check-your-request-parameters.png)
+![AstroPaper I18n](/parameter-error-plase-check-your-request-parameters.png)
 
 
 

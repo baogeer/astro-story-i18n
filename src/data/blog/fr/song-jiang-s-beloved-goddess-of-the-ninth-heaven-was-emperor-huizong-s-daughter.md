@@ -8,7 +8,7 @@ description: "Le rêve de Song Jiang de rencontrer la fille de Song Huizong pend
 
 
 
-![AstroPaper I18n](/public/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
+![AstroPaper I18n](/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
 
 
 

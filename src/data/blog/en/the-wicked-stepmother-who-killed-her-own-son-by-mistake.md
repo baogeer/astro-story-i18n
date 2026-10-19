@@ -8,7 +8,7 @@ description: "Once upon a time, an employee's foreign wife was eccentric and tri
 
 
 
-![AstroPaper I18n](/public/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
+![AstroPaper I18n](/the-wicked-stepmother-who-killed-her-own-son-by-mistake.png)
 
 
 

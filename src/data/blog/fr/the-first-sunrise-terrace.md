@@ -8,7 +8,7 @@ description: "Liu Chun s'est sacrifié pour trouver le Soleil, qui a été pris 
 
 
 
-![AstroPaper I18n](/public/the-first-sunrise-terrace.png)
+![AstroPaper I18n](/the-first-sunrise-terrace.png)
 
 
 

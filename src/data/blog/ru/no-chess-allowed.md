@@ -8,7 +8,7 @@ description: "Тан Сюаньцзун принял поэта династии
 
 
 
-![AstroPaper I18n](/public/no-chess-allowed.png)
+![AstroPaper I18n](/no-chess-allowed.png)
 
 
 

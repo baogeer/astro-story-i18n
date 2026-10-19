@@ -8,7 +8,7 @@ description: "На трон взошла принцесса Ён Су-шун. С
 
 
 
-![AstroPaper I18n](/public/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
+![AstroPaper I18n](/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
 
 
 

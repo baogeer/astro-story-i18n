@@ -8,7 +8,7 @@ description: "Lao Wang Tou discovered a lost experimental black wolf in a garden
 
 
 
-![AstroPaper I18n](/public/luring-the-wolf-into-the-truck.png)
+![AstroPaper I18n](/luring-the-wolf-into-the-truck.png)
 
 
 

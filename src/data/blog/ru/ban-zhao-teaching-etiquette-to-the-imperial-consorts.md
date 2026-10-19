@@ -8,7 +8,7 @@ description: "Бан Чжао был молод и овдовел. Чтобы в
 
 
 
-![AstroPaper I18n](/public/ban-zhao-teaching-etiquette-to-the-imperial-consorts.png)
+![AstroPaper I18n](/ban-zhao-teaching-etiquette-to-the-imperial-consorts.png)
 
 
 

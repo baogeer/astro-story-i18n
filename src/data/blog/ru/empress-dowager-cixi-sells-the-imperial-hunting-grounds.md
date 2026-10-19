@@ -8,7 +8,7 @@ description: "Чтобы заработать деньги, вдовствующ
 
 
 
-![AstroPaper I18n](/public/empress-dowager-cixi-sells-the-imperial-hunting-grounds.png)
+![AstroPaper I18n](/empress-dowager-cixi-sells-the-imperial-hunting-grounds.png)
 
 
 

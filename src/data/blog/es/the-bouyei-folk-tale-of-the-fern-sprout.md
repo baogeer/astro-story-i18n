@@ -8,7 +8,7 @@ description: "La niña de la etnia buyei, que era buena en el batik, estaba grav
 
 
 
-![AstroPaper I18n](/public/the-bouyei-folk-tale-of-the-fern-sprout.png)
+![AstroPaper I18n](/the-bouyei-folk-tale-of-the-fern-sprout.png)
 
 
 

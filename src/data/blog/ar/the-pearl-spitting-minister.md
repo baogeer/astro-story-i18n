@@ -8,7 +8,7 @@ description: "استعار ملك جنوب الصين وزير الشمال ال
 
 
 
-![AstroPaper I18n](/public/the-pearl-spitting-minister.png)
+![AstroPaper I18n](/the-pearl-spitting-minister.png)
 
 
 

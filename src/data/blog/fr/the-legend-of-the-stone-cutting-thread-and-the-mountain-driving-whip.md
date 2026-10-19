@@ -8,7 +8,7 @@ description: "Lors de la construction de la Grande Muraille, les maçons sont mo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-stone-cutting-thread-and-the-mountain-driving-whip.png)
+![AstroPaper I18n](/the-legend-of-the-stone-cutting-thread-and-the-mountain-driving-whip.png)
 
 
 

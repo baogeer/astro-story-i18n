@@ -8,7 +8,7 @@ description: "В конце правления династии Цин вдов�
 
 
 
-![AstroPaper I18n](/public/cixi-and-the-winter-peonies.png)
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
 
 
 

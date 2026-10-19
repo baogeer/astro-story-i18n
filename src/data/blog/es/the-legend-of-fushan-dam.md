@@ -8,7 +8,7 @@ description: "Xiao Yanqiang, del emperador Liang Wu, conquistó a 200 000 person
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fushan-dam.png)
+![AstroPaper I18n](/the-legend-of-fushan-dam.png)
 
 
 

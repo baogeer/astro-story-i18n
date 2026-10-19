@@ -8,7 +8,7 @@ description: "The prime minister's queen, Bao Chuan threw hydrangea and chose Ha
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
+![AstroPaper I18n](/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
 
 
 

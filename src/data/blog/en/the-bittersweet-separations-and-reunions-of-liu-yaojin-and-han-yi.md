@@ -8,7 +8,7 @@ description: "Tang dynasty diva Liu Shaojin and her talented son Han Yi became a
 
 
 
-![AstroPaper I18n](/public/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
+![AstroPaper I18n](/the-bittersweet-separations-and-reunions-of-liu-yaojin-and-han-yi.png)
 
 
 

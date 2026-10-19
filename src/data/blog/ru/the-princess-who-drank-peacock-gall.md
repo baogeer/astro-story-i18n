@@ -8,7 +8,7 @@ description: "Отец Лян Ван заставил принцессу Ага�
 
 
 
-![AstroPaper I18n](/public/the-princess-who-drank-peacock-gall.png)
+![AstroPaper I18n](/the-princess-who-drank-peacock-gall.png)
 
 
 

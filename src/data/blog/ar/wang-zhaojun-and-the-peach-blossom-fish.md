@@ -8,7 +8,7 @@ description: "عاد وانغ تشاو جون إلى مقاطعة مسقط رأ�
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-and-the-peach-blossom-fish.png)
+![AstroPaper I18n](/wang-zhaojun-and-the-peach-blossom-fish.png)
 
 
 

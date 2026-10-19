@@ -8,7 +8,7 @@ description: "Чтобы представители этнической гру�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangbi-walnut-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-yangbi-walnut-goddess.png)
 
 
 

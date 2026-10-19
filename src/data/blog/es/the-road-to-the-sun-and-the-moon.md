@@ -8,7 +8,7 @@ description: "Para casarse con su amada Hanlushka, Jannik emprendió un viaje en
 
 
 
-![AstroPaper I18n](/public/the-road-to-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-road-to-the-sun-and-the-moon.png)
 
 
 

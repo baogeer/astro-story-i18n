@@ -8,7 +8,7 @@ description: "ذهب سكان الجبال ورؤساء القرى في رحلة
 
 
 
-![AstroPaper I18n](/public/the-village-chief-who-ate-clam-shells.png)
+![AstroPaper I18n](/the-village-chief-who-ate-clam-shells.png)
 
 
 

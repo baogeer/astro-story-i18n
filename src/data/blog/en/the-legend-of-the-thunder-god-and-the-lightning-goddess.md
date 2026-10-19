@@ -8,7 +8,7 @@ description: "Leigong's electric mother is the mythical husband and wife gods wh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
 
 
 

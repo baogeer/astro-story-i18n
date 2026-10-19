@@ -8,7 +8,7 @@ description: "La vie de Tang Bohu a été mouvementée. Il a été emprisonné p
 
 
 
-![AstroPaper I18n](/public/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
+![AstroPaper I18n](/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
 
 
 

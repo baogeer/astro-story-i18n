@@ -8,7 +8,7 @@ description: "El festival de Panwang tiene su origen en una antigua leyenda yao:
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-panwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-panwang-festival.png)
 
 
 

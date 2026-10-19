@@ -8,7 +8,7 @@ description: "Давным-давно, чтобы вернуть Солнце и
 
 
 
-![AstroPaper I18n](/public/the-legend-of-sun-moon-lake.png)
+![AstroPaper I18n](/the-legend-of-sun-moon-lake.png)
 
 
 

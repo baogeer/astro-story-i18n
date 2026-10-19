@@ -8,7 +8,7 @@ description: "Il y avait un bûcheron à Peony Mountain sous la dynastie Tang. I
 
 
 
-![AstroPaper I18n](/public/the-flower-king-and-the-flower-queen.png)
+![AstroPaper I18n](/the-flower-king-and-the-flower-queen.png)
 
 
 

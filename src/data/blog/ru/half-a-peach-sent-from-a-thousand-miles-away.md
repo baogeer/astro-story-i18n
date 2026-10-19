@@ -8,7 +8,7 @@ description: "Невестка Дина добродетельна. Она по�
 
 
 
-![AstroPaper I18n](/public/half-a-peach-sent-from-a-thousand-miles-away.png)
+![AstroPaper I18n](/half-a-peach-sent-from-a-thousand-miles-away.png)
 
 
 

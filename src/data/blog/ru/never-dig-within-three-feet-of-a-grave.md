@@ -8,7 +8,7 @@ description: "Во времена династии Цин окружной чи�
 
 
 
-![AstroPaper I18n](/public/never-dig-within-three-feet-of-a-grave.png)
+![AstroPaper I18n](/never-dig-within-three-feet-of-a-grave.png)
 
 
 

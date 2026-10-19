@@ -8,7 +8,7 @@ description: "Аарон, потомок племени Буйей, влюбил
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Diao Chan a été utilisé par Wang Yun pour aliéner Dong Zhuo et
 
 
 
-![AstroPaper I18n](/public/diaochan-the-actress-with-a-heavenly-calling.png)
+![AstroPaper I18n](/diaochan-the-actress-with-a-heavenly-calling.png)
 
 
 

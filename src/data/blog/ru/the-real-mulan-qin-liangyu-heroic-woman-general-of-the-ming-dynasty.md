@@ -8,7 +8,7 @@ description: "Цинь Лянъюй была женщиной-генералом
 
 
 
-![AstroPaper I18n](/public/the-real-mulan-qin-liangyu-heroic-woman-general-of-the-ming-dynasty.png)
+![AstroPaper I18n](/the-real-mulan-qin-liangyu-heroic-woman-general-of-the-ming-dynasty.png)
 
 
 

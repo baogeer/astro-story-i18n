@@ -8,7 +8,7 @@ description: "Se le preguntó a Yu Guangzhong por qué no respondió a las acusa
 
 
 
-![AstroPaper I18n](/public/his-life-cannot-do-without-me.png)
+![AstroPaper I18n](/his-life-cannot-do-without-me.png)
 
 
 

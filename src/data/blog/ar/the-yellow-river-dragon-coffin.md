@@ -8,7 +8,7 @@ description: "في السبعينيات من القرن الماضي، اكتش�
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-dragon-coffin.png)
+![AstroPaper I18n](/the-yellow-river-dragon-coffin.png)
 
 
 

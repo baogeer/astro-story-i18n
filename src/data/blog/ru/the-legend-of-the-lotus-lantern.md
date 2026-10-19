@@ -8,7 +8,7 @@ description: "Чтобы спасти мать, Три Мадонны, кото�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-lantern.png)
 
 
 

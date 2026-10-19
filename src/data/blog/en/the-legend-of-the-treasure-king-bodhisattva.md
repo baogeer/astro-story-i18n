@@ -8,7 +8,7 @@ description: "The young ancestors of the Yilao tribe discovered cinnabar when th
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-treasure-king-bodhisattva.png)
+![AstroPaper I18n](/the-legend-of-the-treasure-king-bodhisattva.png)
 
 
 

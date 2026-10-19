@@ -8,7 +8,7 @@ description: "Le gouverneur de Hangzhou a vu le vieux moine jouer aux échecs av
 
 
 
-![AstroPaper I18n](/public/the-monkey-summoning-cave.png)
+![AstroPaper I18n](/the-monkey-summoning-cave.png)
 
 
 

@@ -8,7 +8,7 @@ description: "While Zhang San and Li Si were rushing to the gathering, Li Si tol
 
 
 
-![AstroPaper I18n](/public/dividing-the-silver.png)
+![AstroPaper I18n](/dividing-the-silver.png)
 
 
 

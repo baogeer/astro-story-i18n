@@ -8,7 +8,7 @@ description: "Xu Wenchang ha sido inteligente desde pequeño: su tío le pidió 
 
 
 
-![AstroPaper I18n](/public/three-witty-stories-of-xu-wenchang.png)
+![AstroPaper I18n](/three-witty-stories-of-xu-wenchang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Во время завтрашнего Нового года зн�
 
 
 
-![AstroPaper I18n](/public/a-night-of-romance-by-west-lake.png)
+![AstroPaper I18n](/a-night-of-romance-by-west-lake.png)
 
 
 

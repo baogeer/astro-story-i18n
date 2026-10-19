@@ -8,7 +8,7 @@ description: "Lorsque Jiayuguan a été construite, les murs de la ville étaien
 
 
 
-![AstroPaper I18n](/public/the-goat-that-carried-bricks.png)
+![AstroPaper I18n](/the-goat-that-carried-bricks.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ли Цинчжао родом из Цзинаня. Он роди�
 
 
 
-![AstroPaper I18n](/public/li-qingzhao-the-talented-woman-of-the-ages.png)
+![AstroPaper I18n](/li-qingzhao-the-talented-woman-of-the-ages.png)
 
 
 

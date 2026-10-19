@@ -8,7 +8,7 @@ description: "Los cuatro conductores pasaron la noche en la morgue. El cadáver 
 
 
 
-![AstroPaper I18n](/public/the-reanimated-corpse.png)
+![AstroPaper I18n](/the-reanimated-corpse.png)
 
 
 

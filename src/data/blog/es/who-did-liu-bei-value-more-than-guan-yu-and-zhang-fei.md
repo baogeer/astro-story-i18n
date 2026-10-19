@@ -8,7 +8,7 @@ description: "Cuando Liu Bei era más pobre, Mi Zhu no solo casó a su hermana c
 
 
 
-![AstroPaper I18n](/public/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/who-did-liu-bei-value-more-than-guan-yu-and-zhang-fei.png)
 
 
 

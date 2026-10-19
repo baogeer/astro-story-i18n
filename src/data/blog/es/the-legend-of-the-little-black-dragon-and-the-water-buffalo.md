@@ -8,7 +8,7 @@ description: "Un viejo pastor de vacas de Mengku, de la tribu Dai, descubrió qu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
+![AstroPaper I18n](/the-legend-of-the-little-black-dragon-and-the-water-buffalo.png)
 
 
 

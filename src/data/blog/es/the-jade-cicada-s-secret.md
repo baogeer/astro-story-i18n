@@ -8,7 +8,7 @@ description: "Yang Ping es un experto en tasación de antigüedades. Su ex espos
 
 
 
-![AstroPaper I18n](/public/the-jade-cicada-s-secret.png)
+![AstroPaper I18n](/the-jade-cicada-s-secret.png)
 
 
 

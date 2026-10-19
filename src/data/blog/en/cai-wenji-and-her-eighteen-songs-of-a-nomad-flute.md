@@ -8,7 +8,7 @@ description: "Cai Wenji was abducted to southern Hungary during the war in the l
 
 
 
-![AstroPaper I18n](/public/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
+![AstroPaper I18n](/cai-wenji-and-her-eighteen-songs-of-a-nomad-flute.png)
 
 
 

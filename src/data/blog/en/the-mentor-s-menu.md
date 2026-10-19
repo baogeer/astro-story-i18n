@@ -8,7 +8,7 @@ description: "Liu Nanyuan, a retired writer from the Ming dynasty, was reminded 
 
 
 
-![AstroPaper I18n](/public/the-mentor-s-menu.png)
+![AstroPaper I18n](/the-mentor-s-menu.png)
 
 
 

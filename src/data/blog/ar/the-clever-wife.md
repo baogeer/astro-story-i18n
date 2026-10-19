@@ -8,7 +8,7 @@ description: "يتعرض العمال منذ فترة طويلة للمضايق�
 
 
 
-![AstroPaper I18n](/public/the-clever-wife.png)
+![AstroPaper I18n](/the-clever-wife.png)
 
 
 

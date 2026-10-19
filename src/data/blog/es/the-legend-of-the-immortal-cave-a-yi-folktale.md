@@ -8,7 +8,7 @@ description: "Los dos mentores y aprendices practicaron en la cueva Xianren en S
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-cave-a-yi-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-cave-a-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل أن يأكل الناس من مجموعة يي الع
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangbi-walnut-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-yangbi-walnut-goddess.png)
 
 
 

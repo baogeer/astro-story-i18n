@@ -8,7 +8,7 @@ description: "There are three mothers and daughters from outside Luzhou City. Af
 
 
 
-![AstroPaper I18n](/public/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
+![AstroPaper I18n](/the-bear-granny-of-luzhou-china-s-little-red-riding-hood.png)
 
 
 

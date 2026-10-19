@@ -8,7 +8,7 @@ description: "King Dahan offended his nephew Shunzhi because he was drunk and ma
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moli-temple-the-first-temple-on-the-mongolian-steppe.png)
+![AstroPaper I18n](/the-legend-of-moli-temple-the-first-temple-on-the-mongolian-steppe.png)
 
 
 

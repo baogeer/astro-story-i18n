@@ -8,7 +8,7 @@ description: "Ученая Чжан Чжэнь жила в семье Цзинь
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-carp-maiden.png)
+![AstroPaper I18n](/the-tale-of-the-carp-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "التقى المزارع لو دونغ بين بينما كان �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-waist-supporting-stone.png)
+![AstroPaper I18n](/the-legend-of-the-waist-supporting-stone.png)
 
 
 

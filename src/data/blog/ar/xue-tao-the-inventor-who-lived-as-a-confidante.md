@@ -8,7 +8,7 @@ description: "كانت Xue Tao شاعرة وعاهرة رسمية من أسرة 
 
 
 
-![AstroPaper I18n](/public/xue-tao-the-inventor-who-lived-as-a-confidante.png)
+![AstroPaper I18n](/xue-tao-the-inventor-who-lived-as-a-confidante.png)
 
 
 

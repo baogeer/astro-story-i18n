@@ -8,7 +8,7 @@ description: "The Yangyi Yi folk tale “Zhang Carpenter Darely Removes Willow T
 
 
 
-![AstroPaper I18n](/public/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
+![AstroPaper I18n](/carpenter-zhang-vanquishes-the-willow-tree-spirit.png)
 
 
 

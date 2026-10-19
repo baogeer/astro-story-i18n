@@ -8,7 +8,7 @@ description: "Una tía vieja y solitaria de la aldea de Longjing guarda las 18 v
 
 
 
-![AstroPaper I18n](/public/the-ancestor-of-longjing-tea.png)
+![AstroPaper I18n](/the-ancestor-of-longjing-tea.png)
 
 
 

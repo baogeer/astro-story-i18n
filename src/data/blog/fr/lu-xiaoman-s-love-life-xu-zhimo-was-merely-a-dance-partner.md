@@ -8,7 +8,7 @@ description: "Lu Xiaoman poursuit sa passion tout au long de sa vie et a eu des 
 
 
 
-![AstroPaper I18n](/public/lu-xiaoman-s-love-life-xu-zhimo-was-merely-a-dance-partner.png)
+![AstroPaper I18n](/lu-xiaoman-s-love-life-xu-zhimo-was-merely-a-dance-partner.png)
 
 
 

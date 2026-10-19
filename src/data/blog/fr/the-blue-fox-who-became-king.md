@@ -8,7 +8,7 @@ description: "Un renard affamé est tombé dans le réservoir de teinture et a f
 
 
 
-![AstroPaper I18n](/public/the-blue-fox-who-became-king.png)
+![AstroPaper I18n](/the-blue-fox-who-became-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Hu Santaibao, un minero de oro de la República de China, desenter
 
 
 
-![AstroPaper I18n](/public/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
+![AstroPaper I18n](/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
 
 
 

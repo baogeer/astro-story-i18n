@@ -8,7 +8,7 @@ description: "Floods raged, and when they failed to block the water, he was kill
 
 
 
-![AstroPaper I18n](/public/the-story-of-yu-the-great-taming-the-flood.png)
+![AstroPaper I18n](/the-story-of-yu-the-great-taming-the-flood.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يبيعون الدمى الزيتية لشراء صور النس�
 
 
 
-![AstroPaper I18n](/public/the-oil-seller-and-the-painting-fairy.png)
+![AstroPaper I18n](/the-oil-seller-and-the-painting-fairy.png)
 
 
 

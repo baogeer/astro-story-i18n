@@ -8,7 +8,7 @@ description: "يعود أصل مهرجان بانوانغ إلى أسطورة ي
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-panwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-panwang-festival.png)
 
 
 

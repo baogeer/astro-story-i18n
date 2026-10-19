@@ -8,7 +8,7 @@ description: "The Jade Emperor banned rain for three years. Tianlong was crushed
 
 
 
-![AstroPaper I18n](/public/the-yi-legend-of-the-dragon-head-raising-day.png)
+![AstroPaper I18n](/the-yi-legend-of-the-dragon-head-raising-day.png)
 
 
 

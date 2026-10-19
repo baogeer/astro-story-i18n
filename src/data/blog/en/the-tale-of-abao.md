@@ -8,7 +8,7 @@ description: "Sun Zichu, known as the “Sun Idiot,” is obsessed with Abao, a 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-abao.png)
+![AstroPaper I18n](/the-tale-of-abao.png)
 
 
 

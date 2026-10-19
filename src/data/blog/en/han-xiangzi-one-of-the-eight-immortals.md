@@ -8,7 +8,7 @@ description: "Han Xiangzi, one of the Eight Immortals, was originally Han Yu's n
 
 
 
-![AstroPaper I18n](/public/han-xiangzi-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/han-xiangzi-one-of-the-eight-immortals.png)
 
 
 

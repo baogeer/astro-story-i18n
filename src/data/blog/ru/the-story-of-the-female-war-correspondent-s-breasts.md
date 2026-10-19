@@ -8,7 +8,7 @@ description: "На китайско-вьетнамском военном моб
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-female-war-correspondent-s-breasts.png)
+![AstroPaper I18n](/the-story-of-the-female-war-correspondent-s-breasts.png)
 
 
 

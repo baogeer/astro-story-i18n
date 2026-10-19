@@ -8,7 +8,7 @@ description: "Según las leyendas dai, la abuela Gu Hun fue expulsada porque se 
 
 
 
-![AstroPaper I18n](/public/the-dai-folktale-of-grandmother-rice-soul.png)
+![AstroPaper I18n](/the-dai-folktale-of-grandmother-rice-soul.png)
 
 
 

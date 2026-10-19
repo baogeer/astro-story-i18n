@@ -8,7 +8,7 @@ description: "أحضر وانغ شينغلو من تاييوان امرأة جم
 
 
 
-![AstroPaper I18n](/public/the-painted-skin.png)
+![AstroPaper I18n](/the-painted-skin.png)
 
 
 

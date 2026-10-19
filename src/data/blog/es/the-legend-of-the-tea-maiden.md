@@ -8,7 +8,7 @@ description: "El joven Awang rescató al hada del té Muri Liqing y se convirti�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tea-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-tea-maiden.png)
 
 
 

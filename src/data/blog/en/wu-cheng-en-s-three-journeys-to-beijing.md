@@ -8,7 +8,7 @@ description: "Wu Cheng-en didn't do well. As a Gong Sheng, he went to Beijing th
 
 
 
-![AstroPaper I18n](/public/wu-cheng-en-s-three-journeys-to-beijing.png)
+![AstroPaper I18n](/wu-cheng-en-s-three-journeys-to-beijing.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El soldado Akihara entregó munición por la noche y fue detenido 
 
 
 
-![AstroPaper I18n](/public/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
+![AstroPaper I18n](/a-chinese-army-driver-s-encounter-with-vietnamese-female-spies.png)
 
 
 

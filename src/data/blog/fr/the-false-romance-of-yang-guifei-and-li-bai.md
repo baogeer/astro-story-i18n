@@ -8,7 +8,7 @@ description: "La différence d'âge entre Yang Guifei et Shi Xian Li Bai est de 
 
 
 
-![AstroPaper I18n](/public/the-false-romance-of-yang-guifei-and-li-bai.png)
+![AstroPaper I18n](/the-false-romance-of-yang-guifei-and-li-bai.png)
 
 
 

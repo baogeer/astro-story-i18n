@@ -8,7 +8,7 @@ description: "L'épouse de la faction bien informée a été enlevée par Bao Zi
 
 
 
-![AstroPaper I18n](/public/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
+![AstroPaper I18n](/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
 
 
 

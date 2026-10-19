@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que el guion del acuario fue creado por nuestro 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-creator-of-the-shui-script.png)
+![AstroPaper I18n](/the-legend-of-the-creator-of-the-shui-script.png)
 
 
 

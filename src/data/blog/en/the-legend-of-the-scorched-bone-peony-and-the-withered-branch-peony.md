@@ -8,7 +8,7 @@ description: "There is a legend that the scorched peony is actually the same ori
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
 
 
 

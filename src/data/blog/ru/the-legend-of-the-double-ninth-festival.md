@@ -8,7 +8,7 @@ description: "Подросток Цзин Хэн отомстил за бога 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-ninth-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-ninth-festival.png)
 
 
 

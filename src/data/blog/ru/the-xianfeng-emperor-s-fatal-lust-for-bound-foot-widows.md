@@ -8,7 +8,7 @@ description: "Император Сяньфэн был одержим ханьс
 
 
 
-![AstroPaper I18n](/public/the-xianfeng-emperor-s-fatal-lust-for-bound-foot-widows.png)
+![AstroPaper I18n](/the-xianfeng-emperor-s-fatal-lust-for-bound-foot-widows.png)
 
 
 

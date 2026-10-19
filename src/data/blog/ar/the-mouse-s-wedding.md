@@ -8,7 +8,7 @@ description: "يبحث آباء الماوس عن أقوى زوج في العا�
 
 
 
-![AstroPaper I18n](/public/the-mouse-s-wedding.png)
+![AstroPaper I18n](/the-mouse-s-wedding.png)
 
 
 

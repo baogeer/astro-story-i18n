@@ -8,7 +8,7 @@ description: "El emperador Jade vio al hijo mayor del Rey Dragón en el Mar de C
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-great-wall-passes.png)
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
 
 
 

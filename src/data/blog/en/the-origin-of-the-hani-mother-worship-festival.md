@@ -8,7 +8,7 @@ description: "The Hani Mother Festival stems from a widow who worked hard to rai
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-mother-worship-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-mother-worship-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Liao Jingyi was forced by the county ordinance to search for Rebir
 
 
 
-![AstroPaper I18n](/public/the-resurrection-herb.png)
+![AstroPaper I18n](/the-resurrection-herb.png)
 
 
 

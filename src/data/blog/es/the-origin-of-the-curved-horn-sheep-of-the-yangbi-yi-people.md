@@ -8,7 +8,7 @@ description: "El abuelo Xinu se resistió a Yin y Hades lo recogió personalment
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-origin-of-the-curved-horn-sheep-of-the-yangbi-yi-people.png)
 
 
 

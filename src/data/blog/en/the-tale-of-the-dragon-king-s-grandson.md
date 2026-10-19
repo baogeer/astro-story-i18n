@@ -8,7 +8,7 @@ description: "Donghai Dragon Palace knocks for Princess Caizhu. After her death,
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-dragon-king-s-grandson.png)
+![AstroPaper I18n](/the-tale-of-the-dragon-king-s-grandson.png)
 
 
 

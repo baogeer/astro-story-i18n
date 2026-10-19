@@ -8,7 +8,7 @@ description: "Le bébé mouton a ramassé une fleur de pivoine et l'a plantée �
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-and-the-peony-maiden.png)
+![AstroPaper I18n](/the-shepherd-boy-and-the-peony-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un enfant qui ne sait pas parler a appris sa langue avec son profe
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-knock-knock-knock-there-s-something-to-eat-inside.png)
 
 
 

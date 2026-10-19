@@ -8,7 +8,7 @@ description: "В молодости Гун Инь был храбрым чело
 
 
 
-![AstroPaper I18n](/public/the-fox-s-wedding.png)
+![AstroPaper I18n](/the-fox-s-wedding.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Фань Сянькэ, чиновник из Цзиньюня во
 
 
 
-![AstroPaper I18n](/public/the-immortal-capital-s-ten-thousand-zhang-stone-pillar-measured-by-the-setting-sun-s-shadow.png)
+![AstroPaper I18n](/the-immortal-capital-s-ten-thousand-zhang-stone-pillar-measured-by-the-setting-sun-s-shadow.png)
 
 
 

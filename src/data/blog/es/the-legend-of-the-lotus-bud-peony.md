@@ -8,7 +8,7 @@ description: "La hija de un floricultor, Chun Rui, se enamora de Qiu Sheng. Qiu 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-bud-peony.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-bud-peony.png)
 
 
 

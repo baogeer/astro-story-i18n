@@ -8,7 +8,7 @@ description: "Los hermanos Yang Wen y Yang Wu recibieron un entierro subterráne
 
 
 
-![AstroPaper I18n](/public/the-legend-of-nine-immortals-mountain.png)
+![AstroPaper I18n](/the-legend-of-nine-immortals-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "اشتبهت شيونغ وانفو في أنها كانت في ا�
 
 
 
-![AstroPaper I18n](/public/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
+![AstroPaper I18n](/nine-sons-refused-their-father-burial-one-daughter-made-a-golden-coffin.png)
 
 
 

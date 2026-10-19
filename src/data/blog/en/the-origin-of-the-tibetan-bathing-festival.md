@@ -8,7 +8,7 @@ description: "After the death of Yutuo Yundan Gongbu, a famous Tibetan doctor, t
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-tibetan-bathing-festival.png)
+![AstroPaper I18n](/the-origin-of-the-tibetan-bathing-festival.png)
 
 
 

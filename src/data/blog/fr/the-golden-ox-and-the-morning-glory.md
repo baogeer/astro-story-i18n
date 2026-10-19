@@ -8,7 +8,7 @@ description: "Jinniu, le deuxième plus jeune grand-père de la famille Jin, tom
 
 
 
-![AstroPaper I18n](/public/the-golden-ox-and-the-morning-glory.png)
+![AstroPaper I18n](/the-golden-ox-and-the-morning-glory.png)
 
 
 

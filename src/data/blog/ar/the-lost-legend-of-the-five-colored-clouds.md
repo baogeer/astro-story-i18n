@@ -8,7 +8,7 @@ description: "خلال سنوات غوانغشو من عهد أسرة تشينغ
 
 
 
-![AstroPaper I18n](/public/the-lost-legend-of-the-five-colored-clouds.png)
+![AstroPaper I18n](/the-lost-legend-of-the-five-colored-clouds.png)
 
 
 

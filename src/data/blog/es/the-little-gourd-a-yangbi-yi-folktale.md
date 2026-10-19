@@ -8,7 +8,7 @@ description: "La soltera Wang Jinlu buscó tratamiento médico en su madre y su 
 
 
 
-![AstroPaper I18n](/public/the-little-gourd-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-little-gourd-a-yangbi-yi-folktale.png)
 
 
 

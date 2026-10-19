@@ -8,7 +8,7 @@ description: "Contes populaires du sud du Fujianxa0: Les riches de Tokyo sont av
 
 
 
-![AstroPaper I18n](/public/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
+![AstroPaper I18n](/dongjing-sinks-fujian-rises-save-creatures-not-humans.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Hangzhou solía ser una playa seca y la gente sufre por la falta d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-stone-man-ridge.png)
+![AstroPaper I18n](/the-legend-of-stone-man-ridge.png)
 
 
 

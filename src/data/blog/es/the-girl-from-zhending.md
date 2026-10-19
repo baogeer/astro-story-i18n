@@ -8,7 +8,7 @@ description: "Debe haber habido una nuera de 67 años que quedó embarazada desp
 
 
 
-![AstroPaper I18n](/public/the-girl-from-zhending.png)
+![AstroPaper I18n](/the-girl-from-zhending.png)
 
 
 

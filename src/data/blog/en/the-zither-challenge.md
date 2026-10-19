@@ -8,7 +8,7 @@ description: "Zhang was also framed and faked to investigate the case; his son, 
 
 
 
-![AstroPaper I18n](/public/the-zither-challenge.png)
+![AstroPaper I18n](/the-zither-challenge.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chen Yi trajo guardias de seguridad para rescatar a los habitantes
 
 
 
-![AstroPaper I18n](/public/chen-yi-outwits-the-enemy.png)
+![AstroPaper I18n](/chen-yi-outwits-the-enemy.png)
 
 
 

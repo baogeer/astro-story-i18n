@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة مينغ، سرق قاطع الط�
 
 
 
-![AstroPaper I18n](/public/the-one-eyed-river-bandit-ah-liu.png)
+![AstroPaper I18n](/the-one-eyed-river-bandit-ah-liu.png)
 
 
 

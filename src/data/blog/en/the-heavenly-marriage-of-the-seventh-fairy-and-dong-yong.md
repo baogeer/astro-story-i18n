@@ -8,7 +8,7 @@ description: "Dong Yong, who was sold by the Seven Fairies to help bury her fath
 
 
 
-![AstroPaper I18n](/public/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
+![AstroPaper I18n](/the-heavenly-marriage-of-the-seventh-fairy-and-dong-yong.png)
 
 
 

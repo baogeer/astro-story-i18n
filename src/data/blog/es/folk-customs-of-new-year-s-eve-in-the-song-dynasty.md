@@ -8,7 +8,7 @@ description: "El solsticio de invierno de la dinastÃ­a Song se consideraba una Â
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
+![AstroPaper I18n](/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
 
 
 

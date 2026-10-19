@@ -8,7 +8,7 @@ description: "The head of the school bought red cloth for bed curtains at the cl
 
 
 
-![AstroPaper I18n](/public/the-red-bed-curtains.png)
+![AstroPaper I18n](/the-red-bed-curtains.png)
 
 
 

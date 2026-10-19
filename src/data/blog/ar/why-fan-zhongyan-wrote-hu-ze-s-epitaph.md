@@ -8,7 +8,7 @@ description: "كتب فان تشونغيوان، الوزير الشهير في 
 
 
 
-![AstroPaper I18n](/public/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
+![AstroPaper I18n](/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
 
 
 

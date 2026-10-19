@@ -8,7 +8,7 @@ description: "El viejo cantero usó el jade de lanolina que había recogido para
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maiden-who-turned-into-jade.png)
+![AstroPaper I18n](/the-legend-of-the-maiden-who-turned-into-jade.png)
 
 
 

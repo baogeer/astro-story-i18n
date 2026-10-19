@@ -8,7 +8,7 @@ description: "La légende raconte qu'une vieille femme du nord a trouvé un pot 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-ade-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-ade-the-miao-king.png)
 
 
 

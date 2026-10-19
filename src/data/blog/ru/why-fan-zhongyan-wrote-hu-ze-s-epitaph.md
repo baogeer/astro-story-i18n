@@ -8,7 +8,7 @@ description: "Фань Чжунъюань, известный священник
 
 
 
-![AstroPaper I18n](/public/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
+![AstroPaper I18n](/why-fan-zhongyan-wrote-hu-ze-s-epitaph.png)
 
 
 

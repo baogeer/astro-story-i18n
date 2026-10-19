@@ -8,7 +8,7 @@ description: "Ocho estatuas de médicos mágicos están consagradas en la cueva 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhaoyin-cave.png)
+![AstroPaper I18n](/the-legend-of-zhaoyin-cave.png)
 
 
 

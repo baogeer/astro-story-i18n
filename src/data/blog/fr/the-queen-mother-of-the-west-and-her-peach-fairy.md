@@ -8,7 +8,7 @@ description: "Dong Shuangcheng était à l'origine une belle femme cueillant des
 
 
 
-![AstroPaper I18n](/public/the-queen-mother-of-the-west-and-her-peach-fairy.png)
+![AstroPaper I18n](/the-queen-mother-of-the-west-and-her-peach-fairy.png)
 
 
 

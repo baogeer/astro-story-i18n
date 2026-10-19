@@ -8,7 +8,7 @@ description: "Después de pastorear la vaca, no había necesidad de preocuparse 
 
 
 
-![AstroPaper I18n](/public/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
+![AstroPaper I18n](/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
 
 
 

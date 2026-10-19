@@ -8,7 +8,7 @@ description: "At the end of the Northern Song Dynasty, the twin daughters of Tan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
+![AstroPaper I18n](/the-legend-of-prince-pit-and-the-tang-twin-sisters.png)
 
 
 

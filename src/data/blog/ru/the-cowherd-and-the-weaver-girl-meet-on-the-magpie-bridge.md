@@ -8,7 +8,7 @@ description: "Его невестка издевалась над пастухо
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl-meet-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl-meet-on-the-magpie-bridge.png)
 
 
 

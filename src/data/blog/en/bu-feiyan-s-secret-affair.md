@@ -8,7 +8,7 @@ description: "Women from the Tang Dynasty were quite beautiful and talented, but
 
 
 
-![AstroPaper I18n](/public/bu-feiyan-s-secret-affair.png)
+![AstroPaper I18n](/bu-feiyan-s-secret-affair.png)
 
 
 

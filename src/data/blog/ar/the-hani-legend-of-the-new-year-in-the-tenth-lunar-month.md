@@ -8,7 +8,7 @@ description: "تقول الأسطورة أنه منذ زمن بعيد، ظهر �
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-new-year-in-the-tenth-lunar-month.png)
+![AstroPaper I18n](/the-hani-legend-of-the-new-year-in-the-tenth-lunar-month.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ши-цзы был предан королю У, но из-за м
 
 
 
-![AstroPaper I18n](/public/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
+![AstroPaper I18n](/tales-of-beauties-xi-shi-and-wang-zhaojun.png)
 
 
 

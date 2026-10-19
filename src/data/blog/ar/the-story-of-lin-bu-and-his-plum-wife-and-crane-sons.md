@@ -8,7 +8,7 @@ description: "تعيش لين يي في عزلة في جبل شياوجو في �
 
 
 
-![AstroPaper I18n](/public/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
+![AstroPaper I18n](/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
 
 
 

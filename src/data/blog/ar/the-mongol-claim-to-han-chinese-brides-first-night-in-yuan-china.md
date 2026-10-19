@@ -8,7 +8,7 @@ description: "حكم المغول في عهد أسرة يوان شعب الها�
 
 
 
-![AstroPaper I18n](/public/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
+![AstroPaper I18n](/the-mongol-claim-to-han-chinese-brides-first-night-in-yuan-china.png)
 
 
 

@@ -8,7 +8,7 @@ description: "«Цзян Ра и Гила» рассказывает серию 
 
 
 
-![AstroPaper I18n](/public/the-clever-jiangla-and-the-foolish-jiela.png)
+![AstroPaper I18n](/the-clever-jiangla-and-the-foolish-jiela.png)
 
 
 

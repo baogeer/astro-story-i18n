@@ -8,7 +8,7 @@ description: "After being laid off, Lao Geng met Zhang Fangzi, who had been arre
 
 
 
-![AstroPaper I18n](/public/a-hole-in-the-iou.png)
+![AstroPaper I18n](/a-hole-in-the-iou.png)
 
 
 

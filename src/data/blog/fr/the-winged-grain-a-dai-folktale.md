@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les céréales étaient aussi grosses que 
 
 
 
-![AstroPaper I18n](/public/the-winged-grain-a-dai-folktale.png)
+![AstroPaper I18n](/the-winged-grain-a-dai-folktale.png)
 
 
 

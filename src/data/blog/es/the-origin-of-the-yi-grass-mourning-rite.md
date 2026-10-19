@@ -8,7 +8,7 @@ description: "En el pasado, tanto el padre como el hijo eran Abi. Mi hijo vio tr
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-grass-mourning-rite.png)
+![AstroPaper I18n](/the-origin-of-the-yi-grass-mourning-rite.png)
 
 
 

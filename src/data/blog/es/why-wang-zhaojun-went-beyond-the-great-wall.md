@@ -8,7 +8,7 @@ description: "Tras entrar en el palacio, Wang Zhaojun no pudo ser convocado dura
 
 
 
-![AstroPaper I18n](/public/why-wang-zhaojun-went-beyond-the-great-wall.png)
+![AstroPaper I18n](/why-wang-zhaojun-went-beyond-the-great-wall.png)
 
 
 

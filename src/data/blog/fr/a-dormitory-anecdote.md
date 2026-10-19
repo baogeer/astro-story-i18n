@@ -8,7 +8,7 @@ description: "Le voleur s'est fait passer pour un collègue pour entrer par effr
 
 
 
-![AstroPaper I18n](/public/a-dormitory-anecdote.png)
+![AstroPaper I18n](/a-dormitory-anecdote.png)
 
 
 

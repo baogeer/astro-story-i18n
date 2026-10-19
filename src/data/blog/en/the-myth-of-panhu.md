@@ -8,7 +8,7 @@ description: "Pan Yu was originally a dragon dog transformed by a golden bug in 
 
 
 
-![AstroPaper I18n](/public/the-myth-of-panhu.png)
+![AstroPaper I18n](/the-myth-of-panhu.png)
 
 
 

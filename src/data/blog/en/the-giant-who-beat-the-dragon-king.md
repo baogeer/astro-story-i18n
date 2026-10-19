@@ -8,7 +8,7 @@ description: "When the giant Qian Dawang picked salt across the river to rest, t
 
 
 
-![AstroPaper I18n](/public/the-giant-who-beat-the-dragon-king.png)
+![AstroPaper I18n](/the-giant-who-beat-the-dragon-king.png)
 
 
 

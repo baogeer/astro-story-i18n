@@ -8,7 +8,7 @@ description: "يروي فيلم «جيانغ را وجيلا» سلسلة من �
 
 
 
-![AstroPaper I18n](/public/the-clever-jiangla-and-the-foolish-jiela.png)
+![AstroPaper I18n](/the-clever-jiangla-and-the-foolish-jiela.png)
 
 
 

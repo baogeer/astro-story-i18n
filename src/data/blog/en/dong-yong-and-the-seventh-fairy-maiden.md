@@ -8,7 +8,7 @@ description: "Dong Yong sold herself to the funeral of her father, and the Seven
 
 
 
-![AstroPaper I18n](/public/dong-yong-and-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/dong-yong-and-the-seventh-fairy-maiden.png)
 
 
 

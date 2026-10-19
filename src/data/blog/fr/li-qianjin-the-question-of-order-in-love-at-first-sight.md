@@ -8,7 +8,7 @@ description: "Dans le drame original «xa0Right on the Wallxa0», Li Qianjin et 
 
 
 
-![AstroPaper I18n](/public/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
+![AstroPaper I18n](/li-qianjin-the-question-of-order-in-love-at-first-sight.png)
 
 
 

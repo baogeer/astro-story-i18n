@@ -8,7 +8,7 @@ description: "Чтобы спасти людей, пара охотников, �
 
 
 
-![AstroPaper I18n](/public/yala-shoots-the-moon.png)
+![AstroPaper I18n](/yala-shoots-the-moon.png)
 
 
 

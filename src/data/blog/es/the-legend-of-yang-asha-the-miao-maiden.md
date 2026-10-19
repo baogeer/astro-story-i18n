@@ -8,7 +8,7 @@ description: "Nacida de un pozo, Yang Asha es hermosa e inteligente, y las nubes
 
 
 
-![AstroPaper I18n](/public/the-legend-of-yang-asha-the-miao-maiden.png)
+![AstroPaper I18n](/the-legend-of-yang-asha-the-miao-maiden.png)
 
 
 

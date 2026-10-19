@@ -8,7 +8,7 @@ description: "كسر شو بيهونغ التقليد القديم المتمث�
 
 
 
-![AstroPaper I18n](/public/the-story-of-xu-beihong-painting-pigs.png)
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
 
 
 

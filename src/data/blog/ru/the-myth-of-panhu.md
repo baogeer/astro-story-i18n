@@ -8,7 +8,7 @@ description: "Изначально Пань Ю была собакой-драк�
 
 
 
-![AstroPaper I18n](/public/the-myth-of-panhu.png)
+![AstroPaper I18n](/the-myth-of-panhu.png)
 
 
 

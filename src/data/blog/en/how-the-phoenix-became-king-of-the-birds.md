@@ -8,7 +8,7 @@ description: "Once upon a time, Phoenix dressed normally and lived in the woods 
 
 
 
-![AstroPaper I18n](/public/how-the-phoenix-became-king-of-the-birds.png)
+![AstroPaper I18n](/how-the-phoenix-became-king-of-the-birds.png)
 
 
 

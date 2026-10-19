@@ -8,7 +8,7 @@ description: "وقع جبل هواشيان هيكسيانغ شيا فان في �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-husband-and-wife-rocks.png)
+![AstroPaper I18n](/the-legend-of-the-husband-and-wife-rocks.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Название: «История фонаря лотоса». В
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-story-of-the-lotus-lantern.png)
 
 
 

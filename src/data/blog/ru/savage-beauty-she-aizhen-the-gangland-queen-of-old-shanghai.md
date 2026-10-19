@@ -8,7 +8,7 @@ description: "Шэ Айчжэнь — женщина-хулиганка из К�
 
 
 
-![AstroPaper I18n](/public/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
+![AstroPaper I18n](/savage-beauty-she-aizhen-the-gangland-queen-of-old-shanghai.png)
 
 
 

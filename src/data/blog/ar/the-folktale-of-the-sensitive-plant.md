@@ -8,7 +8,7 @@ description: "بعد أن شعر بالخجل وتكوين أسرة مع جني�
 
 
 
-![AstroPaper I18n](/public/the-folktale-of-the-sensitive-plant.png)
+![AstroPaper I18n](/the-folktale-of-the-sensitive-plant.png)
 
 
 

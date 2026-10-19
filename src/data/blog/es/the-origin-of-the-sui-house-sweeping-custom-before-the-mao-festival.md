@@ -8,7 +8,7 @@ description: "Después de que los antepasados de los acuarios se mudaran al río
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-sui-house-sweeping-custom-before-the-mao-festival.png)
+![AstroPaper I18n](/the-origin-of-the-sui-house-sweeping-custom-before-the-mao-festival.png)
 
 
 

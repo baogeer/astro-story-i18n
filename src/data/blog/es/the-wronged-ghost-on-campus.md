@@ -8,7 +8,7 @@ description: "Por la noche, me eché una siesta mientras escuchaba a la maestra 
 
 
 
-![AstroPaper I18n](/public/the-wronged-ghost-on-campus.png)
+![AstroPaper I18n](/the-wronged-ghost-on-campus.png)
 
 
 

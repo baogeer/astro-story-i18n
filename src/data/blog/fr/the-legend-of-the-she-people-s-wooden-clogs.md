@@ -8,7 +8,7 @@ description: "Un couple de She vit au cœur des montagnes et est souvent suivi p
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-she-people-s-wooden-clogs.png)
+![AstroPaper I18n](/the-legend-of-the-she-people-s-wooden-clogs.png)
 
 
 

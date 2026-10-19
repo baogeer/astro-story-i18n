@@ -8,7 +8,7 @@ description: "Во времена императора Хань Вэня зна�
 
 
 
-![AstroPaper I18n](/public/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
+![AstroPaper I18n](/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
 
 
 

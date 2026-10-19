@@ -8,7 +8,7 @@ description: "درس هوانغ شنغ في قصر تشينغ تحت جبل لا
 
 
 
-![AstroPaper I18n](/public/fragrant-jade.png)
+![AstroPaper I18n](/fragrant-jade.png)
 
 
 

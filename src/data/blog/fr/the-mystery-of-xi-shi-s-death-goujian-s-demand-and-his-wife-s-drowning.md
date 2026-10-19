@@ -8,7 +8,7 @@ description: "Après que Shih Tzu ait aidé le Vietnam à détruire Wu, la fin e
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-xi-shi-s-death-goujian-s-demand-and-his-wife-s-drowning.png)
+![AstroPaper I18n](/the-mystery-of-xi-shi-s-death-goujian-s-demand-and-his-wife-s-drowning.png)
 
 
 

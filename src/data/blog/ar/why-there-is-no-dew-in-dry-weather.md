@@ -8,7 +8,7 @@ description: "في الماضي، كان هناك ندى بغض النظر عن 
 
 
 
-![AstroPaper I18n](/public/why-there-is-no-dew-in-dry-weather.png)
+![AstroPaper I18n](/why-there-is-no-dew-in-dry-weather.png)
 
 
 

@@ -8,7 +8,7 @@ description: "На экзамене известная женщина перео
 
 
 
-![AstroPaper I18n](/public/wen-fei-e-s-fated-matchmaking.png)
+![AstroPaper I18n](/wen-fei-e-s-fated-matchmaking.png)
 
 
 

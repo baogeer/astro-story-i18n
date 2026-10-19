@@ -8,7 +8,7 @@ description: "El compañero de un ratón fue tragado por una serpiente. Miró fi
 
 
 
-![AstroPaper I18n](/public/the-righteous-mouse.png)
+![AstroPaper I18n](/the-righteous-mouse.png)
 
 
 

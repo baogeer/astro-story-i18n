@@ -8,7 +8,7 @@ description: "Selon la légende du peuple mongol, les chasseurs ont trouvé un b
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-tree-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-tree-totem-worship.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lan Tianfeng, une jeune femme de l'ethnie She, a volé du grain po
 
 
 
-![AstroPaper I18n](/public/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
+![AstroPaper I18n](/the-she-people-s-double-third-festival-black-rice-outing-and-antiphonal-singing.png)
 
 
 

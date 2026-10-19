@@ -8,7 +8,7 @@ description: "Мао Жэнь, бедный мальчик из племени �
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-the-hairy-man.png)
+![AstroPaper I18n](/the-maonan-tale-of-the-hairy-man.png)
 
 
 

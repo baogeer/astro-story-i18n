@@ -8,7 +8,7 @@ description: "Mme Li Jing a donné naissance à une patte, l'a fendue et a reçu
 
 
 
-![AstroPaper I18n](/public/the-story-of-nezha-s-havoc-in-the-sea.png)
+![AstroPaper I18n](/the-story-of-nezha-s-havoc-in-the-sea.png)
 
 
 

@@ -8,7 +8,7 @@ description: "When the little prince was born, the king was blind because he saw
 
 
 
-![AstroPaper I18n](/public/the-prince-who-sought-fairy-s-heart-flower-to-heal-his-father-s-eyes.png)
+![AstroPaper I18n](/the-prince-who-sought-fairy-s-heart-flower-to-heal-his-father-s-eyes.png)
 
 
 

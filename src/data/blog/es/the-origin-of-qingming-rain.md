@@ -8,7 +8,7 @@ description: "Ling Cailian se vio obligada a casarse y saltar al río, y Dragon 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-qingming-rain.png)
+![AstroPaper I18n](/the-origin-of-qingming-rain.png)
 
 
 

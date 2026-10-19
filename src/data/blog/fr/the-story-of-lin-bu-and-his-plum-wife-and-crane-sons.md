@@ -8,7 +8,7 @@ description: "Lin Yi vit isolée dans la montagne Xiaogu, dans le lac de l'Ouest
 
 
 
-![AstroPaper I18n](/public/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
+![AstroPaper I18n](/the-story-of-lin-bu-and-his-plum-wife-and-crane-sons.png)
 
 
 

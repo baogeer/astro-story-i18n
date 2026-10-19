@@ -8,7 +8,7 @@ description: "من أجل استعادة والدها المفقود وإطلا�
 
 
 
-![AstroPaper I18n](/public/the-boy-who-searched-for-fire.png)
+![AstroPaper I18n](/the-boy-who-searched-for-fire.png)
 
 
 

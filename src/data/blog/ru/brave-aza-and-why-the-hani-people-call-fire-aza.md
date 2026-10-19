@@ -8,7 +8,7 @@ description: "Чтобы загореться и найти своего отц�
 
 
 
-![AstroPaper I18n](/public/brave-aza-and-why-the-hani-people-call-fire-aza.png)
+![AstroPaper I18n](/brave-aza-and-why-the-hani-people-call-fire-aza.png)
 
 
 

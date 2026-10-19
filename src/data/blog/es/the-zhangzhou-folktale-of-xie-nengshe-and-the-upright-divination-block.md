@@ -8,7 +8,7 @@ description: "Xie Lian fue declarada culpable por robar pollos en falso y fue al
 
 
 
-![AstroPaper I18n](/public/the-zhangzhou-folktale-of-xie-nengshe-and-the-upright-divination-block.png)
+![AstroPaper I18n](/the-zhangzhou-folktale-of-xie-nengshe-and-the-upright-divination-block.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Bao Zhu was hired by the black-hearted Liu Laolang. He rescued a p
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy.png)
+![AstroPaper I18n](/the-peony-fairy.png)
 
 
 

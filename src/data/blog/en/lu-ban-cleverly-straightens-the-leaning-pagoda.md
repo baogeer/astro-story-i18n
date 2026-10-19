@@ -8,7 +8,7 @@ description: "In Gusu City, Luban saw the wooden tower built by a rich man tilt,
 
 
 
-![AstroPaper I18n](/public/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
+![AstroPaper I18n](/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
 
 
 

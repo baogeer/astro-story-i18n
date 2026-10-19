@@ -8,7 +8,7 @@ description: "كان الإخوة التسعة الأكبر سنًا يخرجو�
 
 
 
-![AstroPaper I18n](/public/the-nine-brothers-and-their-sister.png)
+![AstroPaper I18n](/the-nine-brothers-and-their-sister.png)
 
 
 

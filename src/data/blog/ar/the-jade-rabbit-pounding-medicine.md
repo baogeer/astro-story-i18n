@@ -8,7 +8,7 @@ description: "تقول الأسطورة أن هناك أرنبًا أبيض مث
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-pounding-medicine.png)
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
 
 
 

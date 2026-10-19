@@ -8,7 +8,7 @@ description: "بيج كو وليتل كو شخصان بخيلان. عندما ك
 
 
 
-![AstroPaper I18n](/public/the-miserly-cousins.png)
+![AstroPaper I18n](/the-miserly-cousins.png)
 
 
 

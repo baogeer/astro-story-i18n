@@ -8,7 +8,7 @@ description: "من أجل إنقاذ الفاوانيا التي دمرها ال
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-two-qiao-peony.png)
+![AstroPaper I18n](/the-legend-of-the-two-qiao-peony.png)
 
 
 

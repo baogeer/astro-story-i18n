@@ -8,7 +8,7 @@ description: "Чжан честно открыл таверну и угости�
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-seeks-revenge.png)
+![AstroPaper I18n](/the-dragon-king-seeks-revenge.png)
 
 
 

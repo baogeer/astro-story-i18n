@@ -8,7 +8,7 @@ description: "La princesa Eong Su-shun ascendió al trono. Después de convertir
 
 
 
-![AstroPaper I18n](/public/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
+![AstroPaper I18n](/the-brutal-truth-behind-history-s-legendary-beauty-traps.png)
 
 
 

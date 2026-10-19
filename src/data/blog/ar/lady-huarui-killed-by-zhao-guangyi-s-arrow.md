@@ -8,7 +8,7 @@ description: "كانت السيدة هواروي المحظية المفضلة �
 
 
 
-![AstroPaper I18n](/public/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
+![AstroPaper I18n](/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
 
 
 

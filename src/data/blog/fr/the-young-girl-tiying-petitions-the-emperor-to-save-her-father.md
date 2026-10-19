@@ -8,7 +8,7 @@ description: "À l'époque de l'empereur Han Wen, le célèbre docteur Chun avai
 
 
 
-![AstroPaper I18n](/public/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
+![AstroPaper I18n](/the-young-girl-tiying-petitions-the-emperor-to-save-her-father.png)
 
 
 

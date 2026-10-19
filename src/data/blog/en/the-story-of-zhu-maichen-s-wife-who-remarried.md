@@ -8,7 +8,7 @@ description: "Zhu Maichen's family in the Han Dynasty was poor. He often read bo
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhu-maichen-s-wife-who-remarried.png)
+![AstroPaper I18n](/the-story-of-zhu-maichen-s-wife-who-remarried.png)
 
 
 

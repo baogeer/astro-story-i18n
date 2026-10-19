@@ -8,7 +8,7 @@ description: "لم يؤسس Zhu Yuanzhang Zhu Di كأمير لأن والدته 
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-zhu-di-s-birth.png)
+![AstroPaper I18n](/the-mystery-of-zhu-di-s-birth.png)
 
 
 

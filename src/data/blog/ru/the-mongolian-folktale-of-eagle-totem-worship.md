@@ -8,7 +8,7 @@ description: "В монгольском фольклоре, как послан�
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-eagle-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-eagle-totem-worship.png)
 
 
 

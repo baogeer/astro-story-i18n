@@ -8,7 +8,7 @@ description: "في مهرجان Yuhuangge للخوخ، اقتحم Tieguai Li Hua
 
 
 
-![AstroPaper I18n](/public/the-true-words-on-the-stone-hollow-cliff.png)
+![AstroPaper I18n](/the-true-words-on-the-stone-hollow-cliff.png)
 
 
 

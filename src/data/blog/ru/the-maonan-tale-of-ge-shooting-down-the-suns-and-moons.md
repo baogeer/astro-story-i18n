@@ -8,7 +8,7 @@ description: "Древняя героиня Гри воспользовалас�
 
 
 
-![AstroPaper I18n](/public/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
+![AstroPaper I18n](/the-maonan-tale-of-ge-shooting-down-the-suns-and-moons.png)
 
 
 

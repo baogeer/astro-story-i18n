@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que las peonías y peonías del templo Mida-ji e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-han-peony.png)
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
 
 
 

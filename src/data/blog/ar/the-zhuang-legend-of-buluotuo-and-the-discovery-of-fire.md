@@ -8,7 +8,7 @@ description: "في العصور القديمة، لم يكن لدى أسلاف �
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
+![AstroPaper I18n](/the-zhuang-legend-of-buluotuo-and-the-discovery-of-fire.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ли Бай расслаблена и расслаблена. Он
 
 
 
-![AstroPaper I18n](/public/the-spending-habits-of-three-great-tang-poets.png)
+![AstroPaper I18n](/the-spending-habits-of-three-great-tang-poets.png)
 
 
 

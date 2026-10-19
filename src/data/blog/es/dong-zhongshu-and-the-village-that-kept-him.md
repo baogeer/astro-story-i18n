@@ -8,7 +8,7 @@ description: "Dong Zhongshu, un gran confuciano de la dinastía Han, pasó y se 
 
 
 
-![AstroPaper I18n](/public/dong-zhongshu-and-the-village-that-kept-him.png)
+![AstroPaper I18n](/dong-zhongshu-and-the-village-that-kept-him.png)
 
 
 

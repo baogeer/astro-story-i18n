@@ -8,7 +8,7 @@ description: "In the Ming dynasty, Zhao Mei and Xu matched Sun Jigao. Father Zha
 
 
 
-![AstroPaper I18n](/public/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
+![AstroPaper I18n](/zhao-meirong-the-lantern-lit-mourning-and-top-scholar-disguised-as-a-man.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Les Mongols de Bouriatie croient au totem Mangniu. La légende rac
 
 
 
-![AstroPaper I18n](/public/the-bull-totem-worship-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-bull-totem-worship-a-mongolian-folktale.png)
 
 
 

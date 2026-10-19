@@ -8,7 +8,7 @@ description: "Le charpentier Nima a été engagé pour le refaire après avoir d
 
 
 
-![AstroPaper I18n](/public/the-carpenter-who-tricked-the-rich-man.png)
+![AstroPaper I18n](/the-carpenter-who-tricked-the-rich-man.png)
 
 
 

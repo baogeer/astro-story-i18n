@@ -8,7 +8,7 @@ description: "Старик вздремнул летней ночью, и жен
 
 
 
-![AstroPaper I18n](/public/biting-the-ghost.png)
+![AstroPaper I18n](/biting-the-ghost.png)
 
 
 

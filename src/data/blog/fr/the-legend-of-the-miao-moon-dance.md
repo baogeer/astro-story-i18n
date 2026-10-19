@@ -8,7 +8,7 @@ description: "Les frères Miao Baka et Mother Ba dépendent l'un de l'autre et l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-moon-dance.png)
+![AstroPaper I18n](/the-legend-of-the-miao-moon-dance.png)
 
 
 

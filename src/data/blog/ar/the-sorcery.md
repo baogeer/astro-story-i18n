@@ -8,7 +8,7 @@ description: "إذا كنت لا تؤمن بالجونغ أم لا، فإن ال
 
 
 
-![AstroPaper I18n](/public/the-sorcery.png)
+![AstroPaper I18n](/the-sorcery.png)
 
 
 

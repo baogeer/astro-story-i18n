@@ -8,7 +8,7 @@ description: "سوتشو غنية بالعادات الشعبية. إنه يعك
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-suzhou.png)
+![AstroPaper I18n](/folk-customs-of-suzhou.png)
 
 
 

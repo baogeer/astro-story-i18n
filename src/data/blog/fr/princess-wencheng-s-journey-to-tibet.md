@@ -8,7 +8,7 @@ description: "Afin de bien s'entendre avec la dynastie Tang, Song Zan Kanbu a en
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-s-journey-to-tibet.png)
+![AstroPaper I18n](/princess-wencheng-s-journey-to-tibet.png)
 
 
 

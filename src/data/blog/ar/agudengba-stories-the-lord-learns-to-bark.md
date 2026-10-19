@@ -8,7 +8,7 @@ description: "راهن أجوتومبا مع الأقنان على أن الرب
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-lord-learns-to-bark.png)
+![AstroPaper I18n](/agudengba-stories-the-lord-learns-to-bark.png)
 
 
 

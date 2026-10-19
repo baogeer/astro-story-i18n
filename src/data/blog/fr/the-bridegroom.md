@@ -8,7 +8,7 @@ description: "Les villageois du Jiangnan se sont mariés. Le marié a vu la mari
 
 
 
-![AstroPaper I18n](/public/the-bridegroom.png)
+![AstroPaper I18n](/the-bridegroom.png)
 
 
 

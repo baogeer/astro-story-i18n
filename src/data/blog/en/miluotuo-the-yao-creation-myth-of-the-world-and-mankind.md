@@ -8,7 +8,7 @@ description: "Miroto used his master's body to make heaven and earth, and create
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-yao-creation-myth-of-the-world-and-mankind.png)
+![AstroPaper I18n](/miluotuo-the-yao-creation-myth-of-the-world-and-mankind.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wang Xizhi loves geese. He was happy to write â€œHuang Ting Jingâ€
 
 
 
-![AstroPaper I18n](/public/why-was-wang-xizhi-so-enamored-with-geese.png)
+![AstroPaper I18n](/why-was-wang-xizhi-so-enamored-with-geese.png)
 
 
 

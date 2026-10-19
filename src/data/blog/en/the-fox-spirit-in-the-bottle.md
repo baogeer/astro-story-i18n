@@ -8,7 +8,7 @@ description: "The daughter-in-law of the Shijia in Wan Cun was entangled by Fox 
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-in-the-bottle.png)
+![AstroPaper I18n](/the-fox-spirit-in-the-bottle.png)
 
 
 

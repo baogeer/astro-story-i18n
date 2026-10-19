@@ -8,7 +8,7 @@ description: "Zhang Guolao est rentré de Pantaohui. Voyant que l'âne monstre a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-guolao-building-the-corner-ridge-tower.png)
+![AstroPaper I18n](/the-legend-of-zhang-guolao-building-the-corner-ridge-tower.png)
 
 
 

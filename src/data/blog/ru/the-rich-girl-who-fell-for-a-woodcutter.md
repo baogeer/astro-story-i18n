@@ -8,7 +8,7 @@ description: "Ли Мэнцзинь, бедный ребенок, зарабат
 
 
 
-![AstroPaper I18n](/public/the-rich-girl-who-fell-for-a-woodcutter.png)
+![AstroPaper I18n](/the-rich-girl-who-fell-for-a-woodcutter.png)
 
 
 

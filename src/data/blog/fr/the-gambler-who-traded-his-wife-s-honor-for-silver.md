@@ -8,7 +8,7 @@ description: "Le diable Mahe a trouvé le billet en argent de Zhang San, mais le
 
 
 
-![AstroPaper I18n](/public/the-gambler-who-traded-his-wife-s-honor-for-silver.png)
+![AstroPaper I18n](/the-gambler-who-traded-his-wife-s-honor-for-silver.png)
 
 
 

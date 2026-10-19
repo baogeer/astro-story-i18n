@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que no hay ningún paso de Shimen en las estriba
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
+![AstroPaper I18n](/the-yi-folktale-of-the-black-dragon-breaking-open-stone-gate-pass.png)
 
 
 

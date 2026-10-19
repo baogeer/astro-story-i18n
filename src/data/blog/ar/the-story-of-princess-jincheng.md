@@ -8,7 +8,7 @@ description: "تزوجت الأميرة جينتشنغ من الأمير توب�
 
 
 
-![AstroPaper I18n](/public/the-story-of-princess-jincheng.png)
+![AstroPaper I18n](/the-story-of-princess-jincheng.png)
 
 
 

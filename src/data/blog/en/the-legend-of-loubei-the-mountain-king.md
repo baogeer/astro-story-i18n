@@ -8,7 +8,7 @@ description: "Yi hunters are outcasts. They are naturally blind and extremely po
 
 
 
-![AstroPaper I18n](/public/the-legend-of-loubei-the-mountain-king.png)
+![AstroPaper I18n](/the-legend-of-loubei-the-mountain-king.png)
 
 
 

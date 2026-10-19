@@ -8,7 +8,7 @@ description: "Sur les rives du lac Baïkal, Hori Tomert a volé un manteau de pl
 
 
 
-![AstroPaper I18n](/public/the-swan-totem-a-mongolian-folktale.png)
+![AstroPaper I18n](/the-swan-totem-a-mongolian-folktale.png)
 
 
 

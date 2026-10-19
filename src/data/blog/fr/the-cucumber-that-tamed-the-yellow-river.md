@@ -8,7 +8,7 @@ description: "Les anciens Hui cultivaient des concombres, et les Dexiens consid√
 
 
 
-![AstroPaper I18n](/public/the-cucumber-that-tamed-the-yellow-river.png)
+![AstroPaper I18n](/the-cucumber-that-tamed-the-yellow-river.png)
 
 
 

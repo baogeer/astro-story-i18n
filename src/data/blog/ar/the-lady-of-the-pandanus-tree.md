@@ -8,7 +8,7 @@ description: "في أواخر عهد أسرة تشينغ، تزوجت الأرم
 
 
 
-![AstroPaper I18n](/public/the-lady-of-the-pandanus-tree.png)
+![AstroPaper I18n](/the-lady-of-the-pandanus-tree.png)
 
 
 

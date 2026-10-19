@@ -8,7 +8,7 @@ description: "Поэтов династии Тан Ду Му, Бай Цзюи и
 
 
 
-![AstroPaper I18n](/public/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
+![AstroPaper I18n](/how-tang-dynasty-poets-recorded-their-brothel-visits.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد أن غنى البائع مع الثعبان الشيطان
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-killing-the-python.png)
 
 
 

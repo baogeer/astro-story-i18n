@@ -8,7 +8,7 @@ description: "ذهب Lang Zhong إلى جبل Shimen بمفرده لجمع ال�
 
 
 
-![AstroPaper I18n](/public/three-men-in-peril-on-stone-gate-mountain.png)
+![AstroPaper I18n](/three-men-in-peril-on-stone-gate-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le poids réel de Yang Guifei est encore difficile à vérifierxa0
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-yang-yuhuan-s-true-height-and-weight.png)
+![AstroPaper I18n](/the-mystery-of-yang-yuhuan-s-true-height-and-weight.png)
 
 
 

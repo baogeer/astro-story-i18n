@@ -8,7 +8,7 @@ description: "La «anécdota de Tamada» es una historia popular recopilada y re
 
 
 
-![AstroPaper I18n](/public/tales-of-yutian.png)
+![AstroPaper I18n](/tales-of-yutian.png)
 
 
 

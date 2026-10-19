@@ -8,7 +8,7 @@ description: "To save her husband Xu Xian, who was frightened to death, Baek Su-
 
 
 
-![AstroPaper I18n](/public/the-legend-of-white-snake-road.png)
+![AstroPaper I18n](/the-legend-of-white-snake-road.png)
 
 
 

@@ -8,7 +8,7 @@ description: "After herding the cow, there was no need to worry about food or cl
 
 
 
-![AstroPaper I18n](/public/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
+![AstroPaper I18n](/the-dragon-shoal-last-of-the-twenty-four-mother-gazing-shoals.png)
 
 
 

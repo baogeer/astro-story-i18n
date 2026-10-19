@@ -8,7 +8,7 @@ description: "The cowherd fell to the devil and harmed people everywhere. In ord
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-battles-the-demon.png)
+![AstroPaper I18n](/the-weaver-girl-battles-the-demon.png)
 
 
 

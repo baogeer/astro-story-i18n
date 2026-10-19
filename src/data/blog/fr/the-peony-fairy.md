@@ -8,7 +8,7 @@ description: "Bao Zhu a été embauché par Liu Laolang au cœur noir. Il a sauv
 
 
 
-![AstroPaper I18n](/public/the-peony-fairy.png)
+![AstroPaper I18n](/the-peony-fairy.png)
 
 
 

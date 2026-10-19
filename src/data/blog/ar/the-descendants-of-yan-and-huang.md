@@ -8,7 +8,7 @@ description: "انضم هوانغدي وياندي إلى قبائل مختلف�
 
 
 
-![AstroPaper I18n](/public/the-descendants-of-yan-and-huang.png)
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
 
 
 

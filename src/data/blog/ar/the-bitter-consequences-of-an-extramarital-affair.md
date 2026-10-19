@@ -8,7 +8,7 @@ description: "ذات مرة، تخلى رجل عن زوجته وأقام علا�
 
 
 
-![AstroPaper I18n](/public/the-bitter-consequences-of-an-extramarital-affair.png)
+![AstroPaper I18n](/the-bitter-consequences-of-an-extramarital-affair.png)
 
 
 

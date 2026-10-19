@@ -8,7 +8,7 @@ description: "خلال فترة يونغ تشنغ من عهد أسرة تشين�
 
 
 
-![AstroPaper I18n](/public/the-snowstorm-theft-of-loyal-bones.png)
+![AstroPaper I18n](/the-snowstorm-theft-of-loyal-bones.png)
 
 
 

@@ -8,7 +8,7 @@ description: "قام بطل Yi Zhige Aaron بإسقاط الشمس والقمر 
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-yi-people.png)
 
 
 

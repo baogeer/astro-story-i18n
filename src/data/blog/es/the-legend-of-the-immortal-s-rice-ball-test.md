@@ -8,7 +8,7 @@ description: "Yuanzai Tang Ling, Beitou, Taipéi. El hada se convirtió en un an
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-s-rice-ball-test.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-s-rice-ball-test.png)
 
 
 

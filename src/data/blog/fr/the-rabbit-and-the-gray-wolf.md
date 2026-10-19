@@ -8,7 +8,7 @@ description: "Des chèvres et des béliers mâles ont rencontré des loups en ro
 
 
 
-![AstroPaper I18n](/public/the-rabbit-and-the-gray-wolf.png)
+![AstroPaper I18n](/the-rabbit-and-the-gray-wolf.png)
 
 
 

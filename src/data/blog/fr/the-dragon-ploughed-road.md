@@ -8,7 +8,7 @@ description: "Liu Xiu, de la dynastie des Han de l'Est, a été poursuivi jusqu'
 
 
 
-![AstroPaper I18n](/public/the-dragon-ploughed-road.png)
+![AstroPaper I18n](/the-dragon-ploughed-road.png)
 
 
 

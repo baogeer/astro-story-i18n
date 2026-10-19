@@ -8,7 +8,7 @@ description: "Ван Сичжи любит гусей. Он был рад нап
 
 
 
-![AstroPaper I18n](/public/why-was-wang-xizhi-so-enamored-with-geese.png)
+![AstroPaper I18n](/why-was-wang-xizhi-so-enamored-with-geese.png)
 
 
 

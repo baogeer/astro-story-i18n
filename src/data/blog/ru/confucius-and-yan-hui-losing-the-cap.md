@@ -8,7 +8,7 @@ description: "Янь Хуэй поссорился с покупателем, б
 
 
 
-![AstroPaper I18n](/public/confucius-and-yan-hui-losing-the-cap.png)
+![AstroPaper I18n](/confucius-and-yan-hui-losing-the-cap.png)
 
 
 

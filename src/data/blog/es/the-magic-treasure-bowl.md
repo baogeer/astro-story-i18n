@@ -8,7 +8,7 @@ description: "Hualiang y Liang Hua, que huyeron del desierto a principios de la 
 
 
 
-![AstroPaper I18n](/public/the-magic-treasure-bowl.png)
+![AstroPaper I18n](/the-magic-treasure-bowl.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Агутомба сказал лорду, что хочет исп
 
 
 
-![AstroPaper I18n](/public/agu-dunba-and-the-lord-who-begged-for-mercy.png)
+![AstroPaper I18n](/agu-dunba-and-the-lord-who-begged-for-mercy.png)
 
 
 

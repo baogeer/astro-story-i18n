@@ -8,7 +8,7 @@ description: "Un anciano de Nagayama guardó su trigo sarraceno en otoño. Por l
 
 
 
-![AstroPaper I18n](/public/the-buckwheat-monster.png)
+![AstroPaper I18n](/the-buckwheat-monster.png)
 
 
 

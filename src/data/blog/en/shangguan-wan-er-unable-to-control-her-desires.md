@@ -8,7 +8,7 @@ description: "Shangguan Waner was a talented woman from the Tang Dynasty. Becaus
 
 
 
-![AstroPaper I18n](/public/shangguan-wan-er-unable-to-control-her-desires.png)
+![AstroPaper I18n](/shangguan-wan-er-unable-to-control-her-desires.png)
 
 
 

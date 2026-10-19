@@ -8,7 +8,7 @@ description: "Шоумена Ван Цихоу запутала уродлива
 
 
 
-![AstroPaper I18n](/public/the-temple-ghost.png)
+![AstroPaper I18n](/the-temple-ghost.png)
 
 
 

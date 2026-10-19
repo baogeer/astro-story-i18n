@@ -8,7 +8,7 @@ description: "Wu Qi fue militar en los Reinos Combatientes y sirvió en los tres
 
 
 
-![AstroPaper I18n](/public/the-cold-blooded-general-wu-qi.png)
+![AstroPaper I18n](/the-cold-blooded-general-wu-qi.png)
 
 
 

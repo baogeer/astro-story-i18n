@@ -8,7 +8,7 @@ description: "Из-за хаоса в семье Ван Цисяна было п
 
 
 
-![AstroPaper I18n](/public/the-weeping-ghosts.png)
+![AstroPaper I18n](/the-weeping-ghosts.png)
 
 
 

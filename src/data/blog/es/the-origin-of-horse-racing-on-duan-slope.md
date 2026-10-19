@@ -8,7 +8,7 @@ description: "Había una vez un rey de la aldea que tenía una salud excelente y
 
 
 
-![AstroPaper I18n](/public/the-origin-of-horse-racing-on-duan-slope.png)
+![AstroPaper I18n](/the-origin-of-horse-racing-on-duan-slope.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Бедная старушка из-за раскола отлом�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-reshung-gampo-the-goat-tail.png)
+![AstroPaper I18n](/the-tale-of-reshung-gampo-the-goat-tail.png)
 
 
 

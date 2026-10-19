@@ -8,7 +8,7 @@ description: "“I” saw the novel name of the “Three Point Water” restaura
 
 
 
-![AstroPaper I18n](/public/a-story-inspired-by-a-couplet.png)
+![AstroPaper I18n](/a-story-inspired-by-a-couplet.png)
 
 
 

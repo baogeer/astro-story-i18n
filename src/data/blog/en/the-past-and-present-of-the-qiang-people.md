@@ -8,7 +8,7 @@ description: "The Qiang people call themselves Erma and are descendants of Emper
 
 
 
-![AstroPaper I18n](/public/the-past-and-present-of-the-qiang-people.png)
+![AstroPaper I18n](/the-past-and-present-of-the-qiang-people.png)
 
 
 

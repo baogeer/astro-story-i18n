@@ -8,7 +8,7 @@ description: "تحتوي هذه المقالة على سبع أساطير عن �
 
 
 
-![AstroPaper I18n](/public/legends-of-the-peony.png)
+![AstroPaper I18n](/legends-of-the-peony.png)
 
 
 

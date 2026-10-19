@@ -8,7 +8,7 @@ description: "Se escribió por error una placa con el título «Lluvia» mientra
 
 
 
-![AstroPaper I18n](/public/the-story-of-emperor-kangxi-inscribing-a-plaque.png)
+![AstroPaper I18n](/the-story-of-emperor-kangxi-inscribing-a-plaque.png)
 
 
 

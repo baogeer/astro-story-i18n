@@ -8,7 +8,7 @@ description: "Пастух в долине реки Ялонг в Тибете �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-a-king.png)
+![AstroPaper I18n](/the-legend-of-a-king.png)
 
 
 

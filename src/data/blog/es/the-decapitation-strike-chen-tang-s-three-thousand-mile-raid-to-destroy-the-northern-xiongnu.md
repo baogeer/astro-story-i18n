@@ -8,7 +8,7 @@ description: "Chen Tang Jiaozhao, de la dinastía Han, reunió fuerzas en la reg
 
 
 
-![AstroPaper I18n](/public/the-decapitation-strike-chen-tang-s-three-thousand-mile-raid-to-destroy-the-northern-xiongnu.png)
+![AstroPaper I18n](/the-decapitation-strike-chen-tang-s-three-thousand-mile-raid-to-destroy-the-northern-xiongnu.png)
 
 
 

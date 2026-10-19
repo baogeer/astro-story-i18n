@@ -8,7 +8,7 @@ description: "La princesse Roujia est en fait la fille adoptive de Shunji. Elle 
 
 
 
-![AstroPaper I18n](/public/the-true-story-of-the-ill-fated-princess-heshun-roujia.png)
+![AstroPaper I18n](/the-true-story-of-the-ill-fated-princess-heshun-roujia.png)
 
 
 

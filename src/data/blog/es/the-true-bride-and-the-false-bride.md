@@ -8,7 +8,7 @@ description: "Las dos familias frente a la montaña frente a la montaña se casa
 
 
 
-![AstroPaper I18n](/public/the-true-bride-and-the-false-bride.png)
+![AstroPaper I18n](/the-true-bride-and-the-false-bride.png)
 
 
 

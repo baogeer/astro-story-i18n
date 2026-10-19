@@ -8,7 +8,7 @@ description: "Легенда гласит, что верный брат Чинг
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
 
 
 

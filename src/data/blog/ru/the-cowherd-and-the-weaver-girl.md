@@ -8,7 +8,7 @@ description: "Пастух провел дни в одиночестве, а т�
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl.png)
 
 
 

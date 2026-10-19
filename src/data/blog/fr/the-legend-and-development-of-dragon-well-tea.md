@@ -8,7 +8,7 @@ description: "La légende raconte que le thé Longjing provient d'une tasse de t
 
 
 
-![AstroPaper I18n](/public/the-legend-and-development-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-and-development-of-dragon-well-tea.png)
 
 
 

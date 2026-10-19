@@ -8,7 +8,7 @@ description: "Naosheng Tarzán se enamoró por primera vez de la hija zorro, la 
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-hu-sijie.png)
+![AstroPaper I18n](/the-fox-maiden-hu-sijie.png)
 
 
 

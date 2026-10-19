@@ -8,7 +8,7 @@ description: "Шань Лян и его жена вырастили гигант
 
 
 
-![AstroPaper I18n](/public/the-legend-of-guan-mountain.png)
+![AstroPaper I18n](/the-legend-of-guan-mountain.png)
 
 
 

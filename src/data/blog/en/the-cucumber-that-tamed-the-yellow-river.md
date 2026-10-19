@@ -8,7 +8,7 @@ description: "The old Hui people grew cucumbers, and Dexian people instructed cu
 
 
 
-![AstroPaper I18n](/public/the-cucumber-that-tamed-the-yellow-river.png)
+![AstroPaper I18n](/the-cucumber-that-tamed-the-yellow-river.png)
 
 
 

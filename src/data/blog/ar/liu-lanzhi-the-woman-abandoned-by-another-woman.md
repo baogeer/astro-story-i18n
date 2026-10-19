@@ -8,7 +8,7 @@ description: "بعد أن تزوجت ليو لانزهي من جياو تشون�
 
 
 
-![AstroPaper I18n](/public/liu-lanzhi-the-woman-abandoned-by-another-woman.png)
+![AstroPaper I18n](/liu-lanzhi-the-woman-abandoned-by-another-woman.png)
 
 
 

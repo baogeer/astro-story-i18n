@@ -8,7 +8,7 @@ description: "During the Song dynasty, old farmers in Changle Village loved flow
 
 
 
-![AstroPaper I18n](/public/the-old-gardener-and-the-flower-fairy.png)
+![AstroPaper I18n](/the-old-gardener-and-the-flower-fairy.png)
 
 
 

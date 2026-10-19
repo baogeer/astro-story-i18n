@@ -8,7 +8,7 @@ description: "Ban Zhao was young and widowed. In order to stand out from fashion
 
 
 
-![AstroPaper I18n](/public/ban-zhao-teaching-etiquette-to-the-imperial-consorts.png)
+![AstroPaper I18n](/ban-zhao-teaching-etiquette-to-the-imperial-consorts.png)
 
 
 

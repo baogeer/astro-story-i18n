@@ -8,7 +8,7 @@ description: "Xiucai Yue Cheng compró la flor muerta del enamoramiento, y el de
 
 
 
-![AstroPaper I18n](/public/the-lovelorn-flower-spirit.png)
+![AstroPaper I18n](/the-lovelorn-flower-spirit.png)
 
 
 

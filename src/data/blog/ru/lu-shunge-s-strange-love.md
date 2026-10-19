@@ -8,7 +8,7 @@ description: "Во время войны в Южной династии Сун �
 
 
 
-![AstroPaper I18n](/public/lu-shunge-s-strange-love.png)
+![AstroPaper I18n](/lu-shunge-s-strange-love.png)
 
 
 

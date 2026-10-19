@@ -8,7 +8,7 @@ description: "9 سبتمبر من التقويم القمري هو مهرجان 
 
 
 
-![AstroPaper I18n](/public/double-ninth-festival.png)
+![AstroPaper I18n](/double-ninth-festival.png)
 
 
 

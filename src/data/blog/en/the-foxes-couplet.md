@@ -8,7 +8,7 @@ description: "When Jiao Sheng was reading it at night, two fox girls came to mak
 
 
 
-![AstroPaper I18n](/public/the-foxes-couplet.png)
+![AstroPaper I18n](/the-foxes-couplet.png)
 
 
 

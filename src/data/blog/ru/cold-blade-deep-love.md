@@ -8,7 +8,7 @@ description: "В первые годы правления династии Ци�
 
 
 
-![AstroPaper I18n](/public/cold-blade-deep-love.png)
+![AstroPaper I18n](/cold-blade-deep-love.png)
 
 
 

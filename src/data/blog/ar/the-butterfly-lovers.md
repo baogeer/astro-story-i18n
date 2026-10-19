@@ -8,7 +8,7 @@ description: "ذهبت تشو ينغتاي، وهي أنثى ترتدي زي ر�
 
 
 
-![AstroPaper I18n](/public/the-butterfly-lovers.png)
+![AstroPaper I18n](/the-butterfly-lovers.png)
 
 
 

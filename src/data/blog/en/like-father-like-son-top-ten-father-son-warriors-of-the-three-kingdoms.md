@@ -8,7 +8,7 @@ description: "This article takes stock of ten groups of father and son soldiers 
 
 
 
-![AstroPaper I18n](/public/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
+![AstroPaper I18n](/like-father-like-son-top-ten-father-son-warriors-of-the-three-kingdoms.png)
 
 
 

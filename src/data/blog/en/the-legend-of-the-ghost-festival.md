@@ -8,7 +8,7 @@ description: "Orchid is a widow who begged for a living during the disaster. She
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ghost-festival.png)
+![AstroPaper I18n](/the-legend-of-the-ghost-festival.png)
 
 
 

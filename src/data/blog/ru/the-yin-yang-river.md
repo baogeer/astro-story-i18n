@@ -8,7 +8,7 @@ description: "Во время войны сопротивления японск
 
 
 
-![AstroPaper I18n](/public/the-yin-yang-river.png)
+![AstroPaper I18n](/the-yin-yang-river.png)
 
 
 

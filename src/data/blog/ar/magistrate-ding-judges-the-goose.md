@@ -8,7 +8,7 @@ description: "واجهت مقاطعة Dingzhi المعينة حديثًا معر
 
 
 
-![AstroPaper I18n](/public/magistrate-ding-judges-the-goose.png)
+![AstroPaper I18n](/magistrate-ding-judges-the-goose.png)
 
 
 

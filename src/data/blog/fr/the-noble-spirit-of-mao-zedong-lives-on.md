@@ -8,7 +8,7 @@ description: "La liste des cadeaux de la collection de Mao Zedong indique qu'il 
 
 
 
-![AstroPaper I18n](/public/the-noble-spirit-of-mao-zedong-lives-on.png)
+![AstroPaper I18n](/the-noble-spirit-of-mao-zedong-lives-on.png)
 
 
 

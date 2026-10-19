@@ -8,7 +8,7 @@ description: "En Hangzhou, en la dinastía Song del Sur, Anle Wang Zuo abandonó
 
 
 
-![AstroPaper I18n](/public/the-tofu-bridges.png)
+![AstroPaper I18n](/the-tofu-bridges.png)
 
 
 

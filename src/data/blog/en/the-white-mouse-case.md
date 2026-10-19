@@ -8,7 +8,7 @@ description: "There was no incident at the junction of Tengxian County in the Qi
 
 
 
-![AstroPaper I18n](/public/the-white-mouse-case.png)
+![AstroPaper I18n](/the-white-mouse-case.png)
 
 
 

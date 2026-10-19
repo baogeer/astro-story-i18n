@@ -8,7 +8,7 @@ description: "Дедушка Ши хорошо пьет вино и осмели
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-shi-the-lowliest-minor-god.png)
+![AstroPaper I18n](/the-legend-of-master-shi-the-lowliest-minor-god.png)
 
 
 

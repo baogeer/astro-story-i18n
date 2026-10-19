@@ -8,7 +8,7 @@ description: "من أجل أن يأكل الفقراء لحم البقر، اس�
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
+![AstroPaper I18n](/agudengba-and-the-ox-that-burrowed-into-the-ground.png)
 
 
 

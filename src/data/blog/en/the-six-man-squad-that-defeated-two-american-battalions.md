@@ -8,7 +8,7 @@ description: "Li Fei led a team of 6 to block two US military battalions at Moun
 
 
 
-![AstroPaper I18n](/public/the-six-man-squad-that-defeated-two-american-battalions.png)
+![AstroPaper I18n](/the-six-man-squad-that-defeated-two-american-battalions.png)
 
 
 

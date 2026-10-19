@@ -8,7 +8,7 @@ description: "خلال نهاية العالم في عهد أسرة مينغ، �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-fairy-who-drew-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-fairy-who-drew-the-great-wall.png)
 
 
 

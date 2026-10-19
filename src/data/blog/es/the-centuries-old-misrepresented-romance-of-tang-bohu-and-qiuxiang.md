@@ -8,7 +8,7 @@ description: "Tang Yin tuvo una vida dif√≠cil; no era una persona alegre. Perdi√
 
 
 
-![AstroPaper I18n](/public/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
+![AstroPaper I18n](/the-centuries-old-misrepresented-romance-of-tang-bohu-and-qiuxiang.png)
 
 
 

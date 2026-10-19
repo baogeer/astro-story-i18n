@@ -8,7 +8,7 @@ description: "Брат дяди Цао Го взял талантливую же
 
 
 
-![AstroPaper I18n](/public/cao-guojiu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/cao-guojiu-one-of-the-eight-immortals.png)
 
 
 

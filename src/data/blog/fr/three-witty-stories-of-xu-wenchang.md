@@ -8,7 +8,7 @@ description: "Xu Wenchang est intelligent depuis son enfancexa0: son oncle lui a
 
 
 
-![AstroPaper I18n](/public/three-witty-stories-of-xu-wenchang.png)
+![AstroPaper I18n](/three-witty-stories-of-xu-wenchang.png)
 
 
 

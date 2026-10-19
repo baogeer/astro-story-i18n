@@ -8,7 +8,7 @@ description: "La hermana Sun fue bendecida por el conocimiento de Qiao y las dos
 
 
 
-![AstroPaper I18n](/public/sun-yaoniang-s-sacrifice-for-faithful-love.png)
+![AstroPaper I18n](/sun-yaoniang-s-sacrifice-for-faithful-love.png)
 
 
 

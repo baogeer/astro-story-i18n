@@ -8,7 +8,7 @@ description: "Гао Минфэн купил древнюю картину у д
 
 
 
-![AstroPaper I18n](/public/the-fairy-in-the-painting.png)
+![AstroPaper I18n](/the-fairy-in-the-painting.png)
 
 
 

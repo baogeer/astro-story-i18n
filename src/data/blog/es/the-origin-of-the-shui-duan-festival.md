@@ -8,7 +8,7 @@ description: "El Festival Acuático se originó cuando los tres hermanos se sepa
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-shui-duan-festival.png)
+![AstroPaper I18n](/the-origin-of-the-shui-duan-festival.png)
 
 
 

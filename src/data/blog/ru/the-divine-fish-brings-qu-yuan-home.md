@@ -8,7 +8,7 @@ description: "Когда Цюй Игу приснилось, что священ
 
 
 
-![AstroPaper I18n](/public/the-divine-fish-brings-qu-yuan-home.png)
+![AstroPaper I18n](/the-divine-fish-brings-qu-yuan-home.png)
 
 
 

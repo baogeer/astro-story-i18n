@@ -8,7 +8,7 @@ description: "Lama Tang Baiqun, quant à lui, a été contraint par le puissant 
 
 
 
-![AstroPaper I18n](/public/the-lama-tangbai-and-maiden-baizong.png)
+![AstroPaper I18n](/the-lama-tangbai-and-maiden-baizong.png)
 
 
 

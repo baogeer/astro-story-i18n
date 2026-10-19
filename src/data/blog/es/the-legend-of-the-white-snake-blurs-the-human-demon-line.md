@@ -8,7 +8,7 @@ description: "La película «La leyenda de la serpiente blanca» reinterpreta la
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-blurs-the-human-demon-line.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-blurs-the-human-demon-line.png)
 
 
 

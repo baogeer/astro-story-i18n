@@ -8,7 +8,7 @@ description: "Les marchands de la dynastie Qing ont demandé Bu Ga à M. Feng Sh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-merchant-and-the-feng-shui-master.png)
+![AstroPaper I18n](/the-legend-of-the-merchant-and-the-feng-shui-master.png)
 
 
 

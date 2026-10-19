@@ -8,7 +8,7 @@ description: "Once upon a time, there was a village king who had excellent healt
 
 
 
-![AstroPaper I18n](/public/the-origin-of-horse-racing-on-duan-slope.png)
+![AstroPaper I18n](/the-origin-of-horse-racing-on-duan-slope.png)
 
 
 

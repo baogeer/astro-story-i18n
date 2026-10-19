@@ -8,7 +8,7 @@ description: "В Новый год по лунному календарю Тай
 
 
 
-![AstroPaper I18n](/public/taiwanese-folk-customs-of-the-new-year.png)
+![AstroPaper I18n](/taiwanese-folk-customs-of-the-new-year.png)
 
 
 

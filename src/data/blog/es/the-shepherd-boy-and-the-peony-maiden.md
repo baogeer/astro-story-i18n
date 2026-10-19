@@ -8,7 +8,7 @@ description: "La cría de oveja cogió una flor de peonía y la plantó en la en
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-and-the-peony-maiden.png)
+![AstroPaper I18n](/the-shepherd-boy-and-the-peony-maiden.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Бедная пастушка Лили и единственная
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-baihe-qiqige-and-the-yellow-steed.png)
 
 
 

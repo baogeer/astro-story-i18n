@@ -8,7 +8,7 @@ description: "عالجت سيدة عجوز فقيرة من الغرب بلنعً
 
 
 
-![AstroPaper I18n](/public/the-swallow-s-gratitude.png)
+![AstroPaper I18n](/the-swallow-s-gratitude.png)
 
 
 

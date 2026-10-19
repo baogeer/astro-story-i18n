@@ -8,7 +8,7 @@ description: "The sister and brother went to Grandma's house alone. Mom advised 
 
 
 
-![AstroPaper I18n](/public/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
+![AstroPaper I18n](/the-clever-sister-who-outwitted-the-shape-shifting-ogress.png)
 
 
 

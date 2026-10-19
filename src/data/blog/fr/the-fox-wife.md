@@ -8,7 +8,7 @@ description: "La famille de Wang Xiao est pauvre. Elle gagne sa vie en chassant 
 
 
 
-![AstroPaper I18n](/public/the-fox-wife.png)
+![AstroPaper I18n](/the-fox-wife.png)
 
 
 

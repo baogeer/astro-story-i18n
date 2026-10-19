@@ -8,7 +8,7 @@ description: "En los años 70 del siglo pasado, los aldeanos a lo largo del río
 
 
 
-![AstroPaper I18n](/public/the-yellow-river-dragon-coffin.png)
+![AstroPaper I18n](/the-yellow-river-dragon-coffin.png)
 
 
 

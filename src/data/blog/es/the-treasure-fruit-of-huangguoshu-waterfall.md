@@ -8,7 +8,7 @@ description: "El anciano plantó 100 árboles frutales amarillos y solo produjo 
 
 
 
-![AstroPaper I18n](/public/the-treasure-fruit-of-huangguoshu-waterfall.png)
+![AstroPaper I18n](/the-treasure-fruit-of-huangguoshu-waterfall.png)
 
 
 

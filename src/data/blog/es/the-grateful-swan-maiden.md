@@ -8,7 +8,7 @@ description: "El padre y el hijo de Zhang Laohan salvan a un cisne mordido por u
 
 
 
-![AstroPaper I18n](/public/the-grateful-swan-maiden.png)
+![AstroPaper I18n](/the-grateful-swan-maiden.png)
 
 
 

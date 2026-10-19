@@ -8,7 +8,7 @@ description: "يمكن لـ Hu Mu أن يتذكر الجيل الثالث. كا�
 
 
 
-![AstroPaper I18n](/public/three-lives.png)
+![AstroPaper I18n](/three-lives.png)
 
 
 

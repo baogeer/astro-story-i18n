@@ -8,7 +8,7 @@ description: "Bien que les frères et sœurs Chunsheng et Qiu soient pauvres, il
 
 
 
-![AstroPaper I18n](/public/the-legend-of-phoenix-mountain.png)
+![AstroPaper I18n](/the-legend-of-phoenix-mountain.png)
 
 
 

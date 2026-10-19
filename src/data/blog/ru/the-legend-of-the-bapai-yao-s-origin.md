@@ -8,7 +8,7 @@ description: "Предки Бапайяо изначально жили в Ху�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bapai-yao-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-bapai-yao-s-origin.png)
 
 
 

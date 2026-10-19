@@ -8,7 +8,7 @@ description: "ذات مرة، كان هناك مالك غني حزين طوال 
 
 
 
-![AstroPaper I18n](/public/silver-and-song.png)
+![AstroPaper I18n](/silver-and-song.png)
 
 
 

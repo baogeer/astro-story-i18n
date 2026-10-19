@@ -8,7 +8,7 @@ description: "Antes de su muerte, Bai Weng le dijo a su perezoso hijo Dan Yin qu
 
 
 
-![AstroPaper I18n](/public/old-man-bai-s-buried-silver.png)
+![AstroPaper I18n](/old-man-bai-s-buried-silver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Scholar Fang Dong followed the woman due to her frivolity, and was
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-talking-pupils.png)
+![AstroPaper I18n](/the-tale-of-the-talking-pupils.png)
 
 
 

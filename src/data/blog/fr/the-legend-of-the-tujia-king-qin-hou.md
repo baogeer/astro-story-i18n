@@ -8,7 +8,7 @@ description: "Afin de venger sa mère, Qin Yi a pratiqué la découpe d'arcs et 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tujia-king-qin-hou.png)
+![AstroPaper I18n](/the-legend-of-the-tujia-king-qin-hou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Yipin, a conscientious pawnshop owner, went blind and let hi
 
 
 
-![AstroPaper I18n](/public/the-revival-of-the-conscience-pawnshop.png)
+![AstroPaper I18n](/the-revival-of-the-conscience-pawnshop.png)
 
 
 

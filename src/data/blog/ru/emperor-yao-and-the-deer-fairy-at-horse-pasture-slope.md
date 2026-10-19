@@ -8,7 +8,7 @@ description: "Во время посещения Мумапо Ди Яо узна
 
 
 
-![AstroPaper I18n](/public/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
+![AstroPaper I18n](/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
 
 
 

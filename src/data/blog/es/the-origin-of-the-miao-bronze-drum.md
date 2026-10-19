@@ -8,7 +8,7 @@ description: "Para usar los tambores de bronce para la boda, Bo Songga, un joven
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-miao-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-miao-bronze-drum.png)
 
 
 

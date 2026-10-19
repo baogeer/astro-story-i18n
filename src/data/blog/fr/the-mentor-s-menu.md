@@ -8,7 +8,7 @@ description: "Liu Nanyuan, un écrivain retraité de la dynastie Ming, s'est fai
 
 
 
-![AstroPaper I18n](/public/the-mentor-s-menu.png)
+![AstroPaper I18n](/the-mentor-s-menu.png)
 
 
 

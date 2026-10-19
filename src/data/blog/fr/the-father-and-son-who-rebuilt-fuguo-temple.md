@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Ming, Taixu, de la province occidentale d
 
 
 
-![AstroPaper I18n](/public/the-father-and-son-who-rebuilt-fuguo-temple.png)
+![AstroPaper I18n](/the-father-and-son-who-rebuilt-fuguo-temple.png)
 
 
 

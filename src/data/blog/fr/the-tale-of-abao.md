@@ -8,7 +8,7 @@ description: "Sun Zichu, surnommée «xa0l'idiot du soleilxa0», est obsédée p
 
 
 
-![AstroPaper I18n](/public/the-tale-of-abao.png)
+![AstroPaper I18n](/the-tale-of-abao.png)
 
 
 

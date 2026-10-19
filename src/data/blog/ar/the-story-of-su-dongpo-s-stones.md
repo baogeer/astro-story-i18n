@@ -8,7 +8,7 @@ description: "ارتبط سو شي بـ Strange Stones طوال حياته. عن
 
 
 
-![AstroPaper I18n](/public/the-story-of-su-dongpo-s-stones.png)
+![AstroPaper I18n](/the-story-of-su-dongpo-s-stones.png)
 
 
 

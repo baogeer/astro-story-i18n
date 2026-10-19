@@ -8,7 +8,7 @@ description: "Фэн И хотел стать бессмертным. Прове
 
 
 
-![AstroPaper I18n](/public/how-feng-yi-became-the-river-god.png)
+![AstroPaper I18n](/how-feng-yi-became-the-river-god.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un groupe de braqueurs se faisant passer pour une équipe de tél�
 
 
 
-![AstroPaper I18n](/public/the-bank-robbery-that-no-one-believed-was-real.png)
+![AstroPaper I18n](/the-bank-robbery-that-no-one-believed-was-real.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Лю Маньчэн, владелец гостиницы Yuejia In
 
 
 
-![AstroPaper I18n](/public/the-sun-dried-silver-character.png)
+![AstroPaper I18n](/the-sun-dried-silver-character.png)
 
 
 

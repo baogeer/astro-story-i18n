@@ -8,7 +8,7 @@ description: "من أجل استخدام الطبول البرونزية لحف�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-miao-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-miao-bronze-drum.png)
 
 
 

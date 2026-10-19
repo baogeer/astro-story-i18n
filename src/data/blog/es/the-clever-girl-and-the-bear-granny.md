@@ -8,7 +8,7 @@ description: "En lo profundo de las montañas del oeste de Xiangxi, las dos herm
 
 
 
-![AstroPaper I18n](/public/the-clever-girl-and-the-bear-granny.png)
+![AstroPaper I18n](/the-clever-girl-and-the-bear-granny.png)
 
 
 

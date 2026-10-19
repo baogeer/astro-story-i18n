@@ -8,7 +8,7 @@ description: "Zhu Qiyu, Emperor Jing of the Ming Dynasty, summoned the famous pr
 
 
 
-![AstroPaper I18n](/public/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
+![AstroPaper I18n](/the-ming-dynasty-courtesan-who-dared-to-argue-with-the-emperor.png)
 
 
 

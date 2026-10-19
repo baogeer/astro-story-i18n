@@ -8,7 +8,7 @@ description: "Бу Фэйянь, наложница Хэнань Фугун Ца
 
 
 
-![AstroPaper I18n](/public/bu-feiyan-beaten-to-death-for-her-affair-with-a-neighbor.png)
+![AstroPaper I18n](/bu-feiyan-beaten-to-death-for-her-affair-with-a-neighbor.png)
 
 
 

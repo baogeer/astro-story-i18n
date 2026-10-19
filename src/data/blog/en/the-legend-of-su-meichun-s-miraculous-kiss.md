@@ -8,7 +8,7 @@ description: "A strange woman from Xuanzhou in southern Anhui, Su Mei's lips can
 
 
 
-![AstroPaper I18n](/public/the-legend-of-su-meichun-s-miraculous-kiss.png)
+![AstroPaper I18n](/the-legend-of-su-meichun-s-miraculous-kiss.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Suzhou est riche en coutumes populaires. Cela reflète le fait de 
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-suzhou.png)
+![AstroPaper I18n](/folk-customs-of-suzhou.png)
 
 
 

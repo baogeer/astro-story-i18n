@@ -8,7 +8,7 @@ description: "Guan Qiufu et son cousin Jiang Tan étaient mariés. Après leur m
 
 
 
-![AstroPaper I18n](/public/guan-qiufu-a-flower-s-fate-like-spring.png)
+![AstroPaper I18n](/guan-qiufu-a-flower-s-fate-like-spring.png)
 
 
 

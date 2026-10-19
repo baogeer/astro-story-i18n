@@ -8,7 +8,7 @@ description: "Бай Ци был известным полководцем ди�
 
 
 
-![AstroPaper I18n](/public/bai-qi-the-undefeated-god-of-war.png)
+![AstroPaper I18n](/bai-qi-the-undefeated-god-of-war.png)
 
 
 

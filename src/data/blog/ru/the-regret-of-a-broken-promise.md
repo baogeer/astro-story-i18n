@@ -8,7 +8,7 @@ description: "Когда-то рыбак-сирота случайно взял 
 
 
 
-![AstroPaper I18n](/public/the-regret-of-a-broken-promise.png)
+![AstroPaper I18n](/the-regret-of-a-broken-promise.png)
 
 
 

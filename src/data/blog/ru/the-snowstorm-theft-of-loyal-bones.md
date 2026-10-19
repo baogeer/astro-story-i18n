@@ -8,7 +8,7 @@ description: "В период правления Юнчжэна династии
 
 
 
-![AstroPaper I18n](/public/the-snowstorm-theft-of-loyal-bones.png)
+![AstroPaper I18n](/the-snowstorm-theft-of-loyal-bones.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Diao Chan deambuló entre Dong Zhuo y Lu Bu con su impresionante b
 
 
 
-![AstroPaper I18n](/public/the-beauty-and-mystery-of-diao-chan.png)
+![AstroPaper I18n](/the-beauty-and-mystery-of-diao-chan.png)
 
 
 

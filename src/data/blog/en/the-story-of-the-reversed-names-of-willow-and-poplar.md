@@ -8,7 +8,7 @@ description: "When Emperor Sui Yang visited the canal, he saw willows on both si
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-reversed-names-of-willow-and-poplar.png)
+![AstroPaper I18n](/the-story-of-the-reversed-names-of-willow-and-poplar.png)
 
 
 

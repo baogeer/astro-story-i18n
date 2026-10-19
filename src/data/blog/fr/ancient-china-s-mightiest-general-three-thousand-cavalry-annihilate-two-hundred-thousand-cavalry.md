@@ -8,7 +8,7 @@ description: "Le général Liang de la dynastie du Sud, Chen Qingzhi, était tro
 
 
 
-![AstroPaper I18n](/public/ancient-china-s-mightiest-general-three-thousand-cavalry-annihilate-two-hundred-thousand-cavalry.png)
+![AstroPaper I18n](/ancient-china-s-mightiest-general-three-thousand-cavalry-annihilate-two-hundred-thousand-cavalry.png)
 
 
 

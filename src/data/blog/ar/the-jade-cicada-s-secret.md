@@ -8,7 +8,7 @@ description: "يانغ بينغ خبير في تقييم التحف. اشترت 
 
 
 
-![AstroPaper I18n](/public/the-jade-cicada-s-secret.png)
+![AstroPaper I18n](/the-jade-cicada-s-secret.png)
 
 
 

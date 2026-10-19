@@ -8,7 +8,7 @@ description: "Фунг Пинг-он обнаружил гигантскую ч�
 
 
 
-![AstroPaper I18n](/public/the-softshell-turtle-treasure.png)
+![AstroPaper I18n](/the-softshell-turtle-treasure.png)
 
 
 

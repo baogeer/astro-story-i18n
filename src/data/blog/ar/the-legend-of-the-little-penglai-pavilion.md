@@ -8,7 +8,7 @@ description: "تروي الحكاية الشعبية «أسطورة ليتل ه�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-little-penglai-pavilion.png)
+![AstroPaper I18n](/the-legend-of-the-little-penglai-pavilion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhu Geliang has both merits and essays. He is the embodiment of lo
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-both-human-and-divine.png)
+![AstroPaper I18n](/zhuge-liang-both-human-and-divine.png)
 
 
 

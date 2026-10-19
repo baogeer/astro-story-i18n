@@ -8,7 +8,7 @@ description: "Ми Фэй — дочь Фуси. Она появилась на 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-luo-river-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-luo-river-goddess.png)
 
 
 

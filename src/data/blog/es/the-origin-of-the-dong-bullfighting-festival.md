@@ -8,7 +8,7 @@ description: "Los ancianos amantes de las vacas viajaron por todo el pueblo para
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-dong-bullfighting-festival.png)
+![AstroPaper I18n](/the-origin-of-the-dong-bullfighting-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "قدم وانغ يويون، أحد المشاهير المشهو�
 
 
 
-![AstroPaper I18n](/public/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
+![AstroPaper I18n](/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
 
 
 

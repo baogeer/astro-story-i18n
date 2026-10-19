@@ -8,7 +8,7 @@ description: "Il était une fois Phoenix s'habillait normalement et vivait dans 
 
 
 
-![AstroPaper I18n](/public/how-the-phoenix-became-king-of-the-birds.png)
+![AstroPaper I18n](/how-the-phoenix-became-king-of-the-birds.png)
 
 
 

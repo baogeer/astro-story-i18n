@@ -8,7 +8,7 @@ description: "Mirojia (Murojia), the founding goddess of the Zhuang people, pion
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-miluojia-creating-humans.png)
+![AstroPaper I18n](/the-zhuang-legend-of-miluojia-creating-humans.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The teacher raised a good harvest of flower snakes. Flower snakes 
 
 
 
-![AstroPaper I18n](/public/the-greedy-man-who-was-swallowed-by-a-snake.png)
+![AstroPaper I18n](/the-greedy-man-who-was-swallowed-by-a-snake.png)
 
 
 

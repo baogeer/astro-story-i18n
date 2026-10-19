@@ -8,7 +8,7 @@ description: "In the case of Judge Tang Zong Pu Zhen, both parties were asked to
 
 
 
-![AstroPaper I18n](/public/the-perceptive-judge.png)
+![AstroPaper I18n](/the-perceptive-judge.png)
 
 
 

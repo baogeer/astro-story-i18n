@@ -8,7 +8,7 @@ description: "تزامنت زيارة Qianlong الخاصة إلى Jiangnan مع
 
 
 
-![AstroPaper I18n](/public/the-emperor-s-dilemma.png)
+![AstroPaper I18n](/the-emperor-s-dilemma.png)
 
 
 

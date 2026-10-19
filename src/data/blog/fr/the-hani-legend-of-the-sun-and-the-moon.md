@@ -8,7 +8,7 @@ description: "Lao Qi, une jeune tribu Hani, a utilisé de l'herbe féerique pour
 
 
 
-![AstroPaper I18n](/public/the-hani-legend-of-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-hani-legend-of-the-sun-and-the-moon.png)
 
 
 

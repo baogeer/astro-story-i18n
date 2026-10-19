@@ -8,7 +8,7 @@ description: "على الرغم من أن الإخوة والأخوات تشون
 
 
 
-![AstroPaper I18n](/public/the-legend-of-phoenix-mountain.png)
+![AstroPaper I18n](/the-legend-of-phoenix-mountain.png)
 
 
 

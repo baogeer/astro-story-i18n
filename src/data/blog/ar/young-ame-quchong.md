@@ -8,7 +8,7 @@ description: "لم يتبع الشاب أميكو تعليمات زوجته وت
 
 
 
-![AstroPaper I18n](/public/young-ame-quchong.png)
+![AstroPaper I18n](/young-ame-quchong.png)
 
 
 

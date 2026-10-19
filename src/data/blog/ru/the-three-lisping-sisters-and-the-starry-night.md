@@ -8,7 +8,7 @@ description: "В семье Янъи есть три трудолюбивые д
 
 
 
-![AstroPaper I18n](/public/the-three-lisping-sisters-and-the-starry-night.png)
+![AstroPaper I18n](/the-three-lisping-sisters-and-the-starry-night.png)
 
 
 

@@ -8,7 +8,7 @@ description: "مارس المبارز الشاب مهاراته في السيف 
 
 
 
-![AstroPaper I18n](/public/the-ancient-sword.png)
+![AstroPaper I18n](/the-ancient-sword.png)
 
 
 

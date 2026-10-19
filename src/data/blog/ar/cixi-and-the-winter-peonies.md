@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة تشينغ، أرادت الإمب
 
 
 
-![AstroPaper I18n](/public/cixi-and-the-winter-peonies.png)
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
 
 
 

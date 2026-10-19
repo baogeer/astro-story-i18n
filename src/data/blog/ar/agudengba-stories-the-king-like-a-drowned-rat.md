@@ -8,7 +8,7 @@ description: "استخدم Agutomba خطة ذكية للانتقام من الم
 
 
 
-![AstroPaper I18n](/public/agudengba-stories-the-king-like-a-drowned-rat.png)
+![AstroPaper I18n](/agudengba-stories-the-king-like-a-drowned-rat.png)
 
 
 

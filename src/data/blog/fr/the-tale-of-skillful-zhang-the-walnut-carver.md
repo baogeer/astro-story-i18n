@@ -8,7 +8,7 @@ description: "Le magistral Zhang est un descendant du sculpteur nucléaire de Ya
 
 
 
-![AstroPaper I18n](/public/the-tale-of-skillful-zhang-the-walnut-carver.png)
+![AstroPaper I18n](/the-tale-of-skillful-zhang-the-walnut-carver.png)
 
 
 

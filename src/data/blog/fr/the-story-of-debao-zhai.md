@@ -8,7 +8,7 @@ description: "Li Chengfu a fait irruption par erreur chez Wang Yizheng du comté
 
 
 
-![AstroPaper I18n](/public/the-story-of-debao-zhai.png)
+![AstroPaper I18n](/the-story-of-debao-zhai.png)
 
 
 

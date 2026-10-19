@@ -8,7 +8,7 @@ description: "Un hada le regaló unos dados a un pobre anciano. Al lanzarlos tre
 
 
 
-![AstroPaper I18n](/public/the-magic-dice.png)
+![AstroPaper I18n](/the-magic-dice.png)
 
 
 

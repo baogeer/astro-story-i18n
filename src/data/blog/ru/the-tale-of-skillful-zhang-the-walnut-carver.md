@@ -8,7 +8,7 @@ description: "Мастерский Чжан является потомком р
 
 
 
-![AstroPaper I18n](/public/the-tale-of-skillful-zhang-the-walnut-carver.png)
+![AstroPaper I18n](/the-tale-of-skillful-zhang-the-walnut-carver.png)
 
 
 

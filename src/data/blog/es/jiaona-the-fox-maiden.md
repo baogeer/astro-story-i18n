@@ -8,7 +8,7 @@ description: "El erudito Kong Sheng se exilió y conoció al Príncipe Fu del Ha
 
 
 
-![AstroPaper I18n](/public/jiaona-the-fox-maiden.png)
+![AstroPaper I18n](/jiaona-the-fox-maiden.png)
 
 
 

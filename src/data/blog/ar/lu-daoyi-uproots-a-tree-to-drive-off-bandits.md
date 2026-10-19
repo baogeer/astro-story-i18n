@@ -8,7 +8,7 @@ description: "حمل لو داويي، وهو من قبيلة ماونان هر�
 
 
 
-![AstroPaper I18n](/public/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
+![AstroPaper I18n](/lu-daoyi-uproots-a-tree-to-drive-off-bandits.png)
 
 
 

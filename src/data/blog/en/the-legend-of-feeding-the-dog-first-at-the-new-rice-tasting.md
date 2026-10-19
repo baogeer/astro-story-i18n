@@ -8,7 +8,7 @@ description: "According to the legend of the Yi people, in ancient times, people
 
 
 
-![AstroPaper I18n](/public/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
+![AstroPaper I18n](/the-legend-of-feeding-the-dog-first-at-the-new-rice-tasting.png)
 
 
 

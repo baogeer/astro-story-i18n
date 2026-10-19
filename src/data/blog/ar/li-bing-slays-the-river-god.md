@@ -8,7 +8,7 @@ description: "عندما أصبح لي بينغ مسؤولًا محليًا في
 
 
 
-![AstroPaper I18n](/public/li-bing-slays-the-river-god.png)
+![AstroPaper I18n](/li-bing-slays-the-river-god.png)
 
 
 

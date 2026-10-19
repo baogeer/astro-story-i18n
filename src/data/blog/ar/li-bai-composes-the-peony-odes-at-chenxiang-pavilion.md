@@ -8,7 +8,7 @@ description: "في عهد أسرة تانغ، استمتع تانغ شوانزو
 
 
 
-![AstroPaper I18n](/public/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
+![AstroPaper I18n](/li-bai-composes-the-peony-odes-at-chenxiang-pavilion.png)
 
 
 

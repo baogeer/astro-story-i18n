@@ -8,7 +8,7 @@ description: "Shiwa atrapó un caracol dorado mientras pescaba en el río Fujian
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-snail-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-snail-maiden.png)
 
 
 

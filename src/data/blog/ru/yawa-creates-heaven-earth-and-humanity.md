@@ -8,7 +8,7 @@ description: "Газ открыл мир, поднял небо медными �
 
 
 
-![AstroPaper I18n](/public/yawa-creates-heaven-earth-and-humanity.png)
+![AstroPaper I18n](/yawa-creates-heaven-earth-and-humanity.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Zhang Guolao returned from Pantaohui. Seeing that the monster donk
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-guolao-building-the-corner-ridge-tower.png)
+![AstroPaper I18n](/the-legend-of-zhang-guolao-building-the-corner-ridge-tower.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El Sr. Fengyang no había regresado de su casa durante mucho tiemp
 
 
 
-![AstroPaper I18n](/public/the-scholar-of-fengyang.png)
+![AstroPaper I18n](/the-scholar-of-fengyang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El viejo ferry de Yangjiu Chou Keli Ferry estaba gravemente enferm
 
 
 
-![AstroPaper I18n](/public/the-legend-of-chou-ke-li-ferry.png)
+![AstroPaper I18n](/the-legend-of-chou-ke-li-ferry.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في ديانكانغشان ودالي ويوننان، من أج�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-peony.png)
+![AstroPaper I18n](/the-legend-of-the-golden-peony.png)
 
 
 

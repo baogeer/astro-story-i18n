@@ -8,7 +8,7 @@ description: "The shepherd stole an egg in Quan's eyes and fooled Mr. Feng Shui 
 
 
 
-![AstroPaper I18n](/public/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
+![AstroPaper I18n](/the-shepherd-boy-who-cleverly-won-luoshan-slope.png)
 
 
 

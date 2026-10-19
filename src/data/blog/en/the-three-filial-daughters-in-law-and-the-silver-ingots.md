@@ -8,7 +8,7 @@ description: "Mrs. Wang was widowed at an early age and worked hard to get her t
 
 
 
-![AstroPaper I18n](/public/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
+![AstroPaper I18n](/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les dieux tombaient de leurs dents et deve
 
 
 
-![AstroPaper I18n](/public/the-pumpkin-that-gave-birth-to-humankind.png)
+![AstroPaper I18n](/the-pumpkin-that-gave-birth-to-humankind.png)
 
 
 

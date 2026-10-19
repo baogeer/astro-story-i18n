@@ -8,7 +8,7 @@ description: "В округе У есть сильный и решительны
 
 
 
-![AstroPaper I18n](/public/the-magistrate-of-wu-county.png)
+![AstroPaper I18n](/the-magistrate-of-wu-county.png)
 
 
 

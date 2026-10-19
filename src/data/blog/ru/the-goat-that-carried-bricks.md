@@ -8,7 +8,7 @@ description: "Когда был построен Цзяюйгуань, горо�
 
 
 
-![AstroPaper I18n](/public/the-goat-that-carried-bricks.png)
+![AstroPaper I18n](/the-goat-that-carried-bricks.png)
 
 
 

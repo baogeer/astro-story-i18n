@@ -8,7 +8,7 @@ description: "Mientras veía la película en el palacio, la princesa Zhenghe se 
 
 
 
-![AstroPaper I18n](/public/the-far-sighted-princess-zhenghe.png)
+![AstroPaper I18n](/the-far-sighted-princess-zhenghe.png)
 
 
 

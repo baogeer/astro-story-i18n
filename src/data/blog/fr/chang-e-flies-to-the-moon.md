@@ -8,7 +8,7 @@ description: "Hou Yi a été forcée par Chang'e de travailler à l'extérieur d
 
 
 
-![AstroPaper I18n](/public/chang-e-flies-to-the-moon.png)
+![AstroPaper I18n](/chang-e-flies-to-the-moon.png)
 
 
 

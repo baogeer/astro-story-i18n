@@ -8,7 +8,7 @@ description: "Los bebés desaparecieron y murieron uno tras otro en la aldea de 
 
 
 
-![AstroPaper I18n](/public/the-moon-daji.png)
+![AstroPaper I18n](/the-moon-daji.png)
 
 
 

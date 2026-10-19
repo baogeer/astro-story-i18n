@@ -8,7 +8,7 @@ description: "Había una sequía en la aldea de Yidoushui y los aldeanos pidiero
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-appearing-stone-in-yidoushui-village.png)
 
 
 

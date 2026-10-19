@@ -8,7 +8,7 @@ description: "Según el folclore mongol, el cazador ahuyentó a la loba hembra y
 
 
 
-![AstroPaper I18n](/public/the-mongolian-legend-of-the-wolf-totem.png)
+![AstroPaper I18n](/the-mongolian-legend-of-the-wolf-totem.png)
 
 
 

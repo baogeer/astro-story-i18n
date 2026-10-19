@@ -8,7 +8,7 @@ description: "At the end of the Yuan Dynasty and the beginning of the Ming Dynas
 
 
 
-![AstroPaper I18n](/public/the-birth-of-he-xiangu.png)
+![AstroPaper I18n](/the-birth-of-he-xiangu.png)
 
 
 

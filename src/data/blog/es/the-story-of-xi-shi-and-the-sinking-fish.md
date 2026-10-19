@@ -8,7 +8,7 @@ description: "En primavera y otoño, tras ser derrotado por Wu Guo, Yue Wang Gou
 
 
 
-![AstroPaper I18n](/public/the-story-of-xi-shi-and-the-sinking-fish.png)
+![AstroPaper I18n](/the-story-of-xi-shi-and-the-sinking-fish.png)
 
 
 

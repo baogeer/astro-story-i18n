@@ -8,7 +8,7 @@ description: "Wang Jian, a young Hmong, falls in love with Mei Fu, a rich girl, 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-mountain-climbing-festival.png)
+![AstroPaper I18n](/the-legend-of-the-miao-mountain-climbing-festival.png)
 
 
 

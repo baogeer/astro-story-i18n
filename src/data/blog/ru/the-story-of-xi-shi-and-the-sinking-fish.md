@@ -8,7 +8,7 @@ description: "Весной и осенью, потерпев поражение 
 
 
 
-![AstroPaper I18n](/public/the-story-of-xi-shi-and-the-sinking-fish.png)
+![AstroPaper I18n](/the-story-of-xi-shi-and-the-sinking-fish.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La Serpiente Blanca Bai Suzhen visit√≥ el Lago del Oeste y conoci√
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-snake-1685.png)
+![AstroPaper I18n](/the-legend-of-the-white-snake-1685.png)
 
 
 

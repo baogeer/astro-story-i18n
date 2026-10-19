@@ -8,7 +8,7 @@ description: "Zhang Tianshi rescued the orphan and chose a Feng Shui treasure fo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Chen Yuanyuan, une célèbre prostituée de Gusu, a été prise co
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-chen-yuanyuan-s-whereabouts.png)
+![AstroPaper I18n](/the-mystery-of-chen-yuanyuan-s-whereabouts.png)
 
 
 

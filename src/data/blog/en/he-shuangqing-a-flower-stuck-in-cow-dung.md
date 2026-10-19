@@ -8,7 +8,7 @@ description: "He Shuangqing, a talented girl from the Qing Dynasty, was smart an
 
 
 
-![AstroPaper I18n](/public/he-shuangqing-a-flower-stuck-in-cow-dung.png)
+![AstroPaper I18n](/he-shuangqing-a-flower-stuck-in-cow-dung.png)
 
 
 

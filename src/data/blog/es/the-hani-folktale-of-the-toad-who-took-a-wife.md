@@ -8,7 +8,7 @@ description: "Una pareja de ancianos Hani obtuvo hijos de sapo de calabazas. Cua
 
 
 
-![AstroPaper I18n](/public/the-hani-folktale-of-the-toad-who-took-a-wife.png)
+![AstroPaper I18n](/the-hani-folktale-of-the-toad-who-took-a-wife.png)
 
 
 

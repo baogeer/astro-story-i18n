@@ -8,7 +8,7 @@ description: "Wu Shuji, un rico hombre de negocios del condado de Teng a finales
 
 
 
-![AstroPaper I18n](/public/mao-ying-s-lawsuit.png)
+![AstroPaper I18n](/mao-ying-s-lawsuit.png)
 
 
 

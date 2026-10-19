@@ -8,7 +8,7 @@ description: "Des personnes âgées qui aiment les vaches ont parcouru le villag
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-dong-bullfighting-festival.png)
+![AstroPaper I18n](/the-origin-of-the-dong-bullfighting-festival.png)
 
 
 

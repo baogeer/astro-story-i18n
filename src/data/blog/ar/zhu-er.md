@@ -8,7 +8,7 @@ description: "تقدم لي هوا من تشانغتشو في السن وقتل 
 
 
 
-![AstroPaper I18n](/public/zhu-er.png)
+![AstroPaper I18n](/zhu-er.png)
 
 
 

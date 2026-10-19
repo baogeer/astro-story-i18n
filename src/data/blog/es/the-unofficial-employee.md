@@ -8,7 +8,7 @@ description: "El viejo Charlie adoptó a un genio orangután en una pequeña est
 
 
 
-![AstroPaper I18n](/public/the-unofficial-employee.png)
+![AstroPaper I18n](/the-unofficial-employee.png)
 
 
 

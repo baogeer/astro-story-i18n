@@ -8,7 +8,7 @@ description: "The Jirai Bridge, originally known as Taiheian, was destroyed by f
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zilai-bridge.png)
+![AstroPaper I18n](/the-legend-of-zilai-bridge.png)
 
 
 

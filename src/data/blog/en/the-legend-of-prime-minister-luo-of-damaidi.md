@@ -8,7 +8,7 @@ description: "Prime Minister Luo went out of his way, but he was framed by his t
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prime-minister-luo-of-damaidi.png)
+![AstroPaper I18n](/the-legend-of-prime-minister-luo-of-damaidi.png)
 
 
 

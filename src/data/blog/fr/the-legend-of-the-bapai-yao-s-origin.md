@@ -8,7 +8,7 @@ description: "Les ancêtres de Bapaiyao vivaient à l'origine à Huguang Daozhou
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bapai-yao-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-bapai-yao-s-origin.png)
 
 
 

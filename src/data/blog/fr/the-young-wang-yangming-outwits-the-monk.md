@@ -8,7 +8,7 @@ description: "L'adolescent Wang Yangming a accompagné sa mère au temple pour b
 
 
 
-![AstroPaper I18n](/public/the-young-wang-yangming-outwits-the-monk.png)
+![AstroPaper I18n](/the-young-wang-yangming-outwits-the-monk.png)
 
 
 

@@ -8,7 +8,7 @@ description: "جاء سو تشين من مزرعة، وتعلم فن الحرب 
 
 
 
-![AstroPaper I18n](/public/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
+![AstroPaper I18n](/the-man-who-bluffed-his-way-into-six-state-ministerial-posts.png)
 
 
 

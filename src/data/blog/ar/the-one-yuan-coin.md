@@ -8,7 +8,7 @@ description: "عملة معدنية بقيمة يوان واحد دخلت من �
 
 
 
-![AstroPaper I18n](/public/the-one-yuan-coin.png)
+![AstroPaper I18n](/the-one-yuan-coin.png)
 
 
 

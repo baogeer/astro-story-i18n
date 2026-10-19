@@ -8,7 +8,7 @@ description: "Le général Dayu de Gengis Khan était étonnant. Lorsqu'il march
 
 
 
-![AstroPaper I18n](/public/the-valiant-mongol-general-dayu.png)
+![AstroPaper I18n](/the-valiant-mongol-general-dayu.png)
 
 
 

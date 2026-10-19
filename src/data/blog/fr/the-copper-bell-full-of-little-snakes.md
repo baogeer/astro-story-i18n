@@ -8,7 +8,7 @@ description: "Lors du nettoyage de l'ancien sentier du fleuve Jaune dans les ann
 
 
 
-![AstroPaper I18n](/public/the-copper-bell-full-of-little-snakes.png)
+![AstroPaper I18n](/the-copper-bell-full-of-little-snakes.png)
 
 
 

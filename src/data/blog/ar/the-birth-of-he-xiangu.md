@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة يوان وبداية عهد أس�
 
 
 
-![AstroPaper I18n](/public/the-birth-of-he-xiangu.png)
+![AstroPaper I18n](/the-birth-of-he-xiangu.png)
 
 
 

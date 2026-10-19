@@ -8,7 +8,7 @@ description: "Cuando la princesa Qianjin vio el dolor de cabeza de Wu Zetian, af
 
 
 
-![AstroPaper I18n](/public/princess-qianjin-offers-empress-wu-a-remedy.png)
+![AstroPaper I18n](/princess-qianjin-offers-empress-wu-a-remedy.png)
 
 
 

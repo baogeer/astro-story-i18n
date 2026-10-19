@@ -8,7 +8,7 @@ description: "اشترى شو شاوجون، وهو عالم فقير، الأس
 
 
 
-![AstroPaper I18n](/public/the-carp-spirit.png)
+![AstroPaper I18n](/the-carp-spirit.png)
 
 
 

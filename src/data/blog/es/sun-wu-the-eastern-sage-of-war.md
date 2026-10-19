@@ -8,7 +8,7 @@ description: "Sun Wu fue militar durante el período de primavera y otoño. Se t
 
 
 
-![AstroPaper I18n](/public/sun-wu-the-eastern-sage-of-war.png)
+![AstroPaper I18n](/sun-wu-the-eastern-sage-of-war.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Miyu behaves strangely. He wears a Chinese costume, worships a let
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-a-stone-as-his-brother.png)
+![AstroPaper I18n](/mi-fu-bows-to-a-stone-as-his-brother.png)
 
 
 

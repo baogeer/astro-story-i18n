@@ -8,7 +8,7 @@ description: "خلال سنوات تانغ تشنغ قوان، تزوجت الأ
 
 
 
-![AstroPaper I18n](/public/princess-gaoyang-and-the-monk-bianji.png)
+![AstroPaper I18n](/princess-gaoyang-and-the-monk-bianji.png)
 
 
 

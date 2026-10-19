@@ -8,7 +8,7 @@ description: "رجل عجوز فقير حصل على النرد من قبل جن
 
 
 
-![AstroPaper I18n](/public/the-magic-dice.png)
+![AstroPaper I18n](/the-magic-dice.png)
 
 
 

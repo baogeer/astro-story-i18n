@@ -8,7 +8,7 @@ description: "Wei Dagui of the Zhuang family cared for the people and was hated 
 
 
 
-![AstroPaper I18n](/public/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
+![AstroPaper I18n](/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
 
 
 

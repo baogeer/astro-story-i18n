@@ -8,7 +8,7 @@ description: "Ашима и ее сирота Аху живут в отноше�
 
 
 
-![AstroPaper I18n](/public/the-story-of-ashima.png)
+![AstroPaper I18n](/the-story-of-ashima.png)
 
 
 

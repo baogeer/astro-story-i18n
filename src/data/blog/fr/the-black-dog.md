@@ -8,7 +8,7 @@ description: "L'antiquaire Sun Yu a tenté de saisir les véritables œuvres de 
 
 
 
-![AstroPaper I18n](/public/the-black-dog.png)
+![AstroPaper I18n](/the-black-dog.png)
 
 
 

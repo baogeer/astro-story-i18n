@@ -8,7 +8,7 @@ description: "La hermana Moon es tímida y solo aparece en mitad de la luna. Las
 
 
 
-![AstroPaper I18n](/public/the-lunar-eclipse.png)
+![AstroPaper I18n](/the-lunar-eclipse.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Après que Qin Hui ait tué Yue Fei, il a été réprimandé par l
 
 
 
-![AstroPaper I18n](/public/the-stench-and-the-delicacy-of-qin-hui.png)
+![AstroPaper I18n](/the-stench-and-the-delicacy-of-qin-hui.png)
 
 
 

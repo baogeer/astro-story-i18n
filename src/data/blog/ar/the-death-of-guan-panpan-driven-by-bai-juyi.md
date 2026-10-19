@@ -8,7 +8,7 @@ description: "كان Guan Panpan مغنيًا موهوبًا من أسرة تا�
 
 
 
-![AstroPaper I18n](/public/the-death-of-guan-panpan-driven-by-bai-juyi.png)
+![AstroPaper I18n](/the-death-of-guan-panpan-driven-by-bai-juyi.png)
 
 
 

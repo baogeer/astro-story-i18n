@@ -8,7 +8,7 @@ description: "This article summarizes the anniversaries of the birth of the Chin
 
 
 
-![AstroPaper I18n](/public/birthday-commemorations-of-chinese-folk-deities.png)
+![AstroPaper I18n](/birthday-commemorations-of-chinese-folk-deities.png)
 
 
 

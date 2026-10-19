@@ -8,7 +8,7 @@ description: "After being shy and starting a family with the lotus fairy, the co
 
 
 
-![AstroPaper I18n](/public/the-folktale-of-the-sensitive-plant.png)
+![AstroPaper I18n](/the-folktale-of-the-sensitive-plant.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wu Qinghuan, una mujer talentosa de la dinastía Ming, fue a Beiji
 
 
 
-![AstroPaper I18n](/public/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
+![AstroPaper I18n](/wu-qinghuan-s-secret-love-for-the-young-scholar-in-the-next-boat.png)
 
 
 

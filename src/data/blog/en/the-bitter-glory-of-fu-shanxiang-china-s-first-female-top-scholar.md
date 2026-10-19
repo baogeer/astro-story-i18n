@@ -8,7 +8,7 @@ description: "Taiping Tianguo opened the first women's department, and Fu Shanxi
 
 
 
-![AstroPaper I18n](/public/the-bitter-glory-of-fu-shanxiang-china-s-first-female-top-scholar.png)
+![AstroPaper I18n](/the-bitter-glory-of-fu-shanxiang-china-s-first-female-top-scholar.png)
 
 
 

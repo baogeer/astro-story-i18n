@@ -8,7 +8,7 @@ description: "Mi compañera de cuarto, Ting Ting, me pidió que fuera al baño y
 
 
 
-![AstroPaper I18n](/public/come-with-me-to-pour-out-the-water.png)
+![AstroPaper I18n](/come-with-me-to-pour-out-the-water.png)
 
 
 

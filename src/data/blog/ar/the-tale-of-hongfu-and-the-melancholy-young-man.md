@@ -8,7 +8,7 @@ description: "هونغفو مغنية شابة تدعى يانغ سو فو. يش
 
 
 
-![AstroPaper I18n](/public/the-tale-of-hongfu-and-the-melancholy-young-man.png)
+![AstroPaper I18n](/the-tale-of-hongfu-and-the-melancholy-young-man.png)
 
 
 

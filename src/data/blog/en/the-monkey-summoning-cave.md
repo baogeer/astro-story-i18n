@@ -8,7 +8,7 @@ description: "The governor of Hangzhou saw the old monk play chess with the monk
 
 
 
-![AstroPaper I18n](/public/the-monkey-summoning-cave.png)
+![AstroPaper I18n](/the-monkey-summoning-cave.png)
 
 
 

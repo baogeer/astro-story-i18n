@@ -8,7 +8,7 @@ description: "Крутая гора была засушливой, а воды �
 
 
 
-![AstroPaper I18n](/public/the-dong-legend-of-the-long-haired-girl-bai-re.png)
+![AstroPaper I18n](/the-dong-legend-of-the-long-haired-girl-bai-re.png)
 
 
 

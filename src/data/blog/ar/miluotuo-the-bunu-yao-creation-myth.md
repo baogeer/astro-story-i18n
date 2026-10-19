@@ -8,7 +8,7 @@ description: "استخدم ميروتو قبعة المطر الخاصة بسي�
 
 
 
-![AstroPaper I18n](/public/miluotuo-the-bunu-yao-creation-myth.png)
+![AstroPaper I18n](/miluotuo-the-bunu-yao-creation-myth.png)
 
 
 

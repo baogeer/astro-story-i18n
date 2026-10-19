@@ -8,7 +8,7 @@ description: "Long ago, Mount Longmen blocked Yishui, but carps in the Yellow Ri
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-leaping-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-legend-of-the-carp-leaping-over-the-dragon-gate.png)
 
 
 

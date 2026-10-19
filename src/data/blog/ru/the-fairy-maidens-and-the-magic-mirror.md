@@ -8,7 +8,7 @@ description: "Когда десять дочерей императора Дже
 
 
 
-![AstroPaper I18n](/public/the-fairy-maidens-and-the-magic-mirror.png)
+![AstroPaper I18n](/the-fairy-maidens-and-the-magic-mirror.png)
 
 
 

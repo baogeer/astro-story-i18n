@@ -8,7 +8,7 @@ description: "وقع شي وا في حب فلاور جيرل، لكن ثور ك�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thread-of-sky.png)
+![AstroPaper I18n](/the-legend-of-the-thread-of-sky.png)
 
 
 

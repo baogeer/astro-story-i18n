@@ -8,7 +8,7 @@ description: "Le poème de la jeune mariée ne peut pas voir dans le miroir que 
 
 
 
-![AstroPaper I18n](/public/the-ominous-sign-in-the-mirror.png)
+![AstroPaper I18n](/the-ominous-sign-in-the-mirror.png)
 
 
 

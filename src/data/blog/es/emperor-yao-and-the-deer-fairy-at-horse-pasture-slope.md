@@ -8,7 +8,7 @@ description: "Durante su visita a Mumapo, Di Yao se enteró de que el Hada de lo
 
 
 
-![AstroPaper I18n](/public/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
+![AstroPaper I18n](/emperor-yao-and-the-deer-fairy-at-horse-pasture-slope.png)
 
 
 

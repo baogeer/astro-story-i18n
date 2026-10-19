@@ -8,7 +8,7 @@ description: "Xie Nengshe se afeitó la cabeza para ir a la provincia y viajó a
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
+![AstroPaper I18n](/xie-nengshe-rides-by-sedan-chair-to-zhangpu-for-a-haircut.png)
 
 
 

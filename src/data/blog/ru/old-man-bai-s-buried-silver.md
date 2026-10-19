@@ -8,7 +8,7 @@ description: "Перед смертью Бай Вэн рассказал сво�
 
 
 
-![AstroPaper I18n](/public/old-man-bai-s-buried-silver.png)
+![AstroPaper I18n](/old-man-bai-s-buried-silver.png)
 
 
 

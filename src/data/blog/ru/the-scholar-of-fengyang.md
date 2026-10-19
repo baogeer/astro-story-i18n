@@ -8,7 +8,7 @@ description: "Господин Фэньян давно не возвращалс
 
 
 
-![AstroPaper I18n](/public/the-scholar-of-fengyang.png)
+![AstroPaper I18n](/the-scholar-of-fengyang.png)
 
 
 

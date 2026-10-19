@@ -8,7 +8,7 @@ description: "La pauvre vieille dame a cassé la queue de sa chèvre à cause de
 
 
 
-![AstroPaper I18n](/public/the-tale-of-reshung-gampo-the-goat-tail.png)
+![AstroPaper I18n](/the-tale-of-reshung-gampo-the-goat-tail.png)
 
 
 

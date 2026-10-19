@@ -8,7 +8,7 @@ description: "Li, del condado de Weixian, alquiló una casa a un anciano. El vie
 
 
 
-![AstroPaper I18n](/public/the-fox-spirit-of-weixian.png)
+![AstroPaper I18n](/the-fox-spirit-of-weixian.png)
 
 
 

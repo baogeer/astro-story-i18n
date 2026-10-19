@@ -8,7 +8,7 @@ description: "Дедушка Черепаха был жадным и по оши
 
 
 
-![AstroPaper I18n](/public/legends-of-nushan.png)
+![AstroPaper I18n](/legends-of-nushan.png)
 
 
 

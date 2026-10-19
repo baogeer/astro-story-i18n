@@ -8,7 +8,7 @@ description: "Aaron, descendiente de la tribu Buyei, se enamoró de las Siete Ha
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-earth-god-offering-on-double-sixth.png)
 
 
 

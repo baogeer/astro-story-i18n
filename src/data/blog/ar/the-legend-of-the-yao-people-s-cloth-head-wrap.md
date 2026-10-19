@@ -8,7 +8,7 @@ description: "قام كلب التنين القديم من قبيلة ياو ب�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
+![AstroPaper I18n](/the-legend-of-the-yao-people-s-cloth-head-wrap.png)
 
 
 

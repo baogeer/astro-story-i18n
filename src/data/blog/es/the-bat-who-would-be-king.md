@@ -8,7 +8,7 @@ description: "Los pájaros se reunieron para elegir al rey y los murciélagos ju
 
 
 
-![AstroPaper I18n](/public/the-bat-who-would-be-king.png)
+![AstroPaper I18n](/the-bat-who-would-be-king.png)
 
 
 

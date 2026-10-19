@@ -8,7 +8,7 @@ description: "تحب الطفلة جيني الصغيرة كتابة الأنا�
 
 
 
-![AstroPaper I18n](/public/the-little-girl-whose-rhymes-saved-niu-niu.png)
+![AstroPaper I18n](/the-little-girl-whose-rhymes-saved-niu-niu.png)
 
 
 

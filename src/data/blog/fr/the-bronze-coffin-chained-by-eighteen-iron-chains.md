@@ -8,7 +8,7 @@ description: "La grande sécheresse du fleuve Yangtsé a révélé des monuments
 
 
 
-![AstroPaper I18n](/public/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
+![AstroPaper I18n](/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
 
 
 

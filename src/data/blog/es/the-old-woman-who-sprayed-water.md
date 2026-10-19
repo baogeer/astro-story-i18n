@@ -8,7 +8,7 @@ description: "El tío Song Yu de Laiyang alquiló una casa desierta. En mitad de
 
 
 
-![AstroPaper I18n](/public/the-old-woman-who-sprayed-water.png)
+![AstroPaper I18n](/the-old-woman-who-sprayed-water.png)
 
 
 

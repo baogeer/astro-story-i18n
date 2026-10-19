@@ -8,7 +8,7 @@ description: "Cada uno de los Ocho Inmortales cruzó el mar con sus tesoros en e
 
 
 
-![AstroPaper I18n](/public/the-eight-immortals-crossing-the-sea.png)
+![AstroPaper I18n](/the-eight-immortals-crossing-the-sea.png)
 
 
 

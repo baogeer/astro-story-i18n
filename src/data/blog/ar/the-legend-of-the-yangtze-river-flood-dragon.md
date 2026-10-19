@@ -8,7 +8,7 @@ description: "تقول أسطورة نهر اليانغتسي «المشي جي�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-flood-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-flood-dragon.png)
 
 
 

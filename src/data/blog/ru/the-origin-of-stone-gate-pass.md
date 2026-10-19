@@ -8,7 +8,7 @@ description: "После поражения Большой черный драк
 
 
 
-![AstroPaper I18n](/public/the-origin-of-stone-gate-pass.png)
+![AstroPaper I18n](/the-origin-of-stone-gate-pass.png)
 
 
 

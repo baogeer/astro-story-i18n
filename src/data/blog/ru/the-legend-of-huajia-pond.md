@@ -8,7 +8,7 @@ description: "На пустыре возле ворот Цинчунь в Хан
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huajia-pond.png)
+![AstroPaper I18n](/the-legend-of-huajia-pond.png)
 
 
 

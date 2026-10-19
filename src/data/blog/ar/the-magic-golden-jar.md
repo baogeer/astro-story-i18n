@@ -8,7 +8,7 @@ description: "ذات مرة، قام مزارع عجوز بحفر وعاء ذه�
 
 
 
-![AstroPaper I18n](/public/the-magic-golden-jar.png)
+![AstroPaper I18n](/the-magic-golden-jar.png)
 
 
 

@@ -8,7 +8,7 @@ description: "حارب التنين والنمر ضد بعضهما البعض ع
 
 
 
-![AstroPaper I18n](/public/the-quarrel-between-the-dragon-and-the-tiger.png)
+![AstroPaper I18n](/the-quarrel-between-the-dragon-and-the-tiger.png)
 
 
 

@@ -8,7 +8,7 @@ description: "خدع السيد بايك تشي الأكل والشرب في ك�
 
 
 
-![AstroPaper I18n](/public/the-freeloader-even-ghosts-dread.png)
+![AstroPaper I18n](/the-freeloader-even-ghosts-dread.png)
 
 
 

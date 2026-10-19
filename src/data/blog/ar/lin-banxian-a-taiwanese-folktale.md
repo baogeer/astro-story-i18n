@@ -8,7 +8,7 @@ description: "كان لين بانكسيان أستاذًا في فنغ شوي �
 
 
 
-![AstroPaper I18n](/public/lin-banxian-a-taiwanese-folktale.png)
+![AstroPaper I18n](/lin-banxian-a-taiwanese-folktale.png)
 
 
 

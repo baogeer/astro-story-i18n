@@ -8,7 +8,7 @@ description: "Luo Cheng dirigió al ejército de Wa Gang para luchar con el guar
 
 
 
-![AstroPaper I18n](/public/luo-cheng-burns-down-mengzhou-city.png)
+![AstroPaper I18n](/luo-cheng-burns-down-mengzhou-city.png)
 
 
 

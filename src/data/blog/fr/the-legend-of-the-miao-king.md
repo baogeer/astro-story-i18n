@@ -8,7 +8,7 @@ description: "Ade, un ancêtre de la tribu Miao, a été adopté par une vieille
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-king.png)
+![AstroPaper I18n](/the-legend-of-the-miao-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In order for the stingy Zongben feast to the people, Tudeng preten
 
 
 
-![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+![AstroPaper I18n](/the-stingy-magistrate-s-banquet.png)
 
 
 

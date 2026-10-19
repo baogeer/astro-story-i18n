@@ -8,7 +8,7 @@ description: "À la fin de la dynastie des Han de l'Est, afin de se débarrasser
 
 
 
-![AstroPaper I18n](/public/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
+![AstroPaper I18n](/diao-chan-ordered-to-seduce-the-beastly-father-and-son.png)
 
 
 

@@ -8,7 +8,7 @@ description: "There are various legends about the origin of the Sani script: it 
 
 
 
-![AstroPaper I18n](/public/the-origin-story-of-the-sani-script.png)
+![AstroPaper I18n](/the-origin-story-of-the-sani-script.png)
 
 
 

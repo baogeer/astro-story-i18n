@@ -8,7 +8,7 @@ description: "Во времена династии Мин, чтобы помеш
 
 
 
-![AstroPaper I18n](/public/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
+![AstroPaper I18n](/the-scandal-of-imperial-princesses-repeatedly-swindled-into-marriage-by-fraudulent-men.png)
 
 
 

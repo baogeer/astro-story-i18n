@@ -8,7 +8,7 @@ description: "خلال عام الغد الجديد، كان الشخص الشه
 
 
 
-![AstroPaper I18n](/public/a-night-of-romance-by-west-lake.png)
+![AstroPaper I18n](/a-night-of-romance-by-west-lake.png)
 
 
 

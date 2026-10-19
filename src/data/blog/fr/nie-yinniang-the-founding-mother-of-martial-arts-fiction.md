@@ -8,7 +8,7 @@ description: "Nie Yin Niang est la fille du général Wei Bo. Elle a été volé
 
 
 
-![AstroPaper I18n](/public/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
+![AstroPaper I18n](/nie-yinniang-the-founding-mother-of-martial-arts-fiction.png)
 
 
 

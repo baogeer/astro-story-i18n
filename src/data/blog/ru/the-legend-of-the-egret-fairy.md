@@ -8,7 +8,7 @@ description: "Юй Шаохун во сне влюбился в фею-цапл�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-fairy.png)
+![AstroPaper I18n](/the-legend-of-the-egret-fairy.png)
 
 
 

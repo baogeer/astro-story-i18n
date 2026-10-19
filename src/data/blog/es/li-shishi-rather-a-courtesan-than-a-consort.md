@@ -8,7 +8,7 @@ description: "Ante la oportunidad de entrar al palacio y convertirse en concubin
 
 
 
-![AstroPaper I18n](/public/li-shishi-rather-a-courtesan-than-a-consort.png)
+![AstroPaper I18n](/li-shishi-rather-a-courtesan-than-a-consort.png)
 
 
 

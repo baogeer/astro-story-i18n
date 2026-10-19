@@ -8,7 +8,7 @@ description: "Cierto duque de Shaanxi recuerda su vida pasada. Tras su muerte, v
 
 
 
-![AstroPaper I18n](/public/the-scholar-who-almost-became-a-sheep.png)
+![AstroPaper I18n](/the-scholar-who-almost-became-a-sheep.png)
 
 
 

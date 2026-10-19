@@ -8,7 +8,7 @@ description: "بعد أن قتلت المرأة الشيطانية العجوز 
 
 
 
-![AstroPaper I18n](/public/why-sweet-buckwheat-stalks-are-red.png)
+![AstroPaper I18n](/why-sweet-buckwheat-stalks-are-red.png)
 
 
 

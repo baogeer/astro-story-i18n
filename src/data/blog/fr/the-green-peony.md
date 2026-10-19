@@ -8,7 +8,7 @@ description: "Afin de trouver des pivoines vertes, Huaxianggong a suivi les inst
 
 
 
-![AstroPaper I18n](/public/the-green-peony.png)
+![AstroPaper I18n](/the-green-peony.png)
 
 
 

@@ -8,7 +8,7 @@ description: "عند بوابة معبد دونغيو، أظهر الكندور 
 
 
 
-![AstroPaper I18n](/public/the-eagle-tiger-god.png)
+![AstroPaper I18n](/the-eagle-tiger-god.png)
 
 
 

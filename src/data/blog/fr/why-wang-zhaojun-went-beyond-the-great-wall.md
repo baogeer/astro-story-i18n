@@ -8,7 +8,7 @@ description: "Après être entré dans le palais, Wang Zhaojun n'a pas pu être 
 
 
 
-![AstroPaper I18n](/public/why-wang-zhaojun-went-beyond-the-great-wall.png)
+![AstroPaper I18n](/why-wang-zhaojun-went-beyond-the-great-wall.png)
 
 
 

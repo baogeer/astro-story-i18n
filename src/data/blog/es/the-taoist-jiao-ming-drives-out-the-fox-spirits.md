@@ -8,7 +8,7 @@ description: "El zorro arrojó la casa de Dong Mo An con ladrillos y tejas, y no
 
 
 
-![AstroPaper I18n](/public/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
+![AstroPaper I18n](/the-taoist-jiao-ming-drives-out-the-fox-spirits.png)
 
 
 

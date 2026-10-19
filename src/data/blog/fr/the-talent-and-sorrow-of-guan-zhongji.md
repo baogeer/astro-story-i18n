@@ -8,7 +8,7 @@ description: "Guan Zhongji possède des talents exceptionnels. Après avoir épo
 
 
 
-![AstroPaper I18n](/public/the-talent-and-sorrow-of-guan-zhongji.png)
+![AstroPaper I18n](/the-talent-and-sorrow-of-guan-zhongji.png)
 
 
 

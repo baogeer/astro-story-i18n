@@ -8,7 +8,7 @@ description: "«Анекдот Тамады» — это народная ист
 
 
 
-![AstroPaper I18n](/public/tales-of-yutian.png)
+![AstroPaper I18n](/tales-of-yutian.png)
 
 
 

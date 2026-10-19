@@ -8,7 +8,7 @@ description: "Las peonías chinas tienen una larga historia. Se han introducido 
 
 
 
-![AstroPaper I18n](/public/peony-culture.png)
+![AstroPaper I18n](/peony-culture.png)
 
 
 

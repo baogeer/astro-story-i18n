@@ -8,7 +8,7 @@ description: "Dong Yong se vendió al funeral de su padre y las Siete Hadas se c
 
 
 
-![AstroPaper I18n](/public/dong-yong-and-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/dong-yong-and-the-seventh-fairy-maiden.png)
 
 
 

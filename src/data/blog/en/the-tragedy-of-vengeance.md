@@ -8,7 +8,7 @@ description: "Meng Qiuhua was adopted by Guo Yuanwai and his wife, and they also
 
 
 
-![AstroPaper I18n](/public/the-tragedy-of-vengeance.png)
+![AstroPaper I18n](/the-tragedy-of-vengeance.png)
 
 
 

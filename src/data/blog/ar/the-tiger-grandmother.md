@@ -8,7 +8,7 @@ description: "قامت الأخت والأخ بتسليم الأرز والتم�
 
 
 
-![AstroPaper I18n](/public/the-tiger-grandmother.png)
+![AstroPaper I18n](/the-tiger-grandmother.png)
 
 
 

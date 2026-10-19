@@ -8,7 +8,7 @@ description: "عندما رأت نو وا أن المعركة بين تشو رو
 
 
 
-![AstroPaper I18n](/public/the-myth-of-nuwa-mending-the-sky.png)
+![AstroPaper I18n](/the-myth-of-nuwa-mending-the-sky.png)
 
 
 

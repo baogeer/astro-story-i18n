@@ -8,7 +8,7 @@ description: "تسللت فتاة التنين، الابنة الصغيرة ل�
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-worships-guanyin.png)
+![AstroPaper I18n](/the-dragon-maiden-worships-guanyin.png)
 
 
 

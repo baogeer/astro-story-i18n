@@ -8,7 +8,7 @@ description: "من أجل الانتقام لأخيها، تظاهرت القط�
 
 
 
-![AstroPaper I18n](/public/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
+![AstroPaper I18n](/the-story-of-huang-jiangshan-outwitting-the-wildcat.png)
 
 
 

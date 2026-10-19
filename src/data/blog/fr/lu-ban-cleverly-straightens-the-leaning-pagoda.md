@@ -8,7 +8,7 @@ description: "Dans la ville de Gusu, Luban a vu la tour en bois construite par u
 
 
 
-![AstroPaper I18n](/public/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
+![AstroPaper I18n](/lu-ban-cleverly-straightens-the-leaning-pagoda.png)
 
 
 

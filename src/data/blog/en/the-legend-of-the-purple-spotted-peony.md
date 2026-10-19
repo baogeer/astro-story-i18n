@@ -8,7 +8,7 @@ description: "Shi Yishou, a hermit at the end of the Ming dynasty, refused to ac
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-purple-spotted-peony.png)
+![AstroPaper I18n](/the-legend-of-the-purple-spotted-peony.png)
 
 
 

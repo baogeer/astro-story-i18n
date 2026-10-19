@@ -8,7 +8,7 @@ description: "Мост Дзирай, первоначально известны
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zilai-bridge.png)
+![AstroPaper I18n](/the-legend-of-zilai-bridge.png)
 
 
 

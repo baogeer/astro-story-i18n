@@ -8,7 +8,7 @@ description: "Une vieille mère a rencontré son fils décédé dans la rue Yin 
 
 
 
-![AstroPaper I18n](/public/the-heartless-dead-son-a-yangbi-yi-folktale.png)
+![AstroPaper I18n](/the-heartless-dead-son-a-yangbi-yi-folktale.png)
 
 
 

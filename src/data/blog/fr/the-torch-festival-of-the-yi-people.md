@@ -8,7 +8,7 @@ description: "Le héros Yi Zhige Aaron a abattu le soleil et la lune supplément
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-yi-people.png)
 
 
 

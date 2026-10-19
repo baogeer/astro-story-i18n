@@ -8,7 +8,7 @@ description: "Para inspirar a su amigo Gou Yao a estudiar, Lu Dongbin rechazó d
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
+![AstroPaper I18n](/the-origin-of-the-saying-dog-bites-lu-dongbin.png)
 
 
 

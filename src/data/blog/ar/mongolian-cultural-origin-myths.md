@@ -8,7 +8,7 @@ description: "في أساطير أصل الثقافة المنغولية، سر�
 
 
 
-![AstroPaper I18n](/public/mongolian-cultural-origin-myths.png)
+![AstroPaper I18n](/mongolian-cultural-origin-myths.png)
 
 
 

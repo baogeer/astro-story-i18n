@@ -8,7 +8,7 @@ description: "على طول نهر يانغيي، قام مراهق من يي ب
 
 
 
-![AstroPaper I18n](/public/the-beach-where-a-mother-waits-for-her-dragon-son.png)
+![AstroPaper I18n](/the-beach-where-a-mother-waits-for-her-dragon-son.png)
 
 
 

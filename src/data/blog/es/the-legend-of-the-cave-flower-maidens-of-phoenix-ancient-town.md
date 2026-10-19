@@ -8,7 +8,7 @@ description: "La leyenda de la florista de Luodong circula en Phoenix, en Xiangx
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
+![AstroPaper I18n](/the-legend-of-the-cave-flower-maidens-of-phoenix-ancient-town.png)
 
 
 

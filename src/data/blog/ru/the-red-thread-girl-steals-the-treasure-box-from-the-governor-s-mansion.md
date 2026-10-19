@@ -8,7 +8,7 @@ description: "Настоящее имя «Красной линии» — Хун
 
 
 
-![AstroPaper I18n](/public/the-red-thread-girl-steals-the-treasure-box-from-the-governor-s-mansion.png)
+![AstroPaper I18n](/the-red-thread-girl-steals-the-treasure-box-from-the-governor-s-mansion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El autor hace un balance de diez ministros famosos desde Zhou occi
 
 
 
-![AstroPaper I18n](/public/ten-great-chancellors-of-ancient-china.png)
+![AstroPaper I18n](/ten-great-chancellors-of-ancient-china.png)
 
 
 

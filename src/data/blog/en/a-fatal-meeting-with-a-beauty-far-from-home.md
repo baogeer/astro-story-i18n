@@ -8,7 +8,7 @@ description: "On the way back, Li Yuluo met Xiaolian, who claimed to be the daug
 
 
 
-![AstroPaper I18n](/public/a-fatal-meeting-with-a-beauty-far-from-home.png)
+![AstroPaper I18n](/a-fatal-meeting-with-a-beauty-far-from-home.png)
 
 
 

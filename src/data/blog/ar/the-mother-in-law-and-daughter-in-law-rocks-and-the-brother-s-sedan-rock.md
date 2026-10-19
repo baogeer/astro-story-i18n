@@ -8,7 +8,7 @@ description: "يروي فيلم «ابنة الجدة روك، العم جياو
 
 
 
-![AstroPaper I18n](/public/the-mother-in-law-and-daughter-in-law-rocks-and-the-brother-s-sedan-rock.png)
+![AstroPaper I18n](/the-mother-in-law-and-daughter-in-law-rocks-and-the-brother-s-sedan-rock.png)
 
 
 

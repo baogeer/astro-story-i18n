@@ -8,7 +8,7 @@ description: "Согласно легенде о Сани, сбежавший ю
 
 
 
-![AstroPaper I18n](/public/how-wrestling-came-to-the-sani-people.png)
+![AstroPaper I18n](/how-wrestling-came-to-the-sani-people.png)
 
 
 

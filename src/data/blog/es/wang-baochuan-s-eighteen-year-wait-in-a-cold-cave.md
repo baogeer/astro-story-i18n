@@ -8,7 +8,7 @@ description: "La reina del primer ministro, Bao Chuan, lanzó hortensias y eligi
 
 
 
-![AstroPaper I18n](/public/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
+![AstroPaper I18n](/wang-baochuan-s-eighteen-year-wait-in-a-cold-cave.png)
 
 
 

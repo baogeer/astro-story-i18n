@@ -8,7 +8,7 @@ description: "Предк Буйи, Буйе, взбирался на лошад�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-buyi-bronze-drum.png)
+![AstroPaper I18n](/the-origin-of-the-buyi-bronze-drum.png)
 
 
 

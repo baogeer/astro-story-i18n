@@ -8,7 +8,7 @@ description: "ذهب شي، وهو طبيب إله مياو، إلى الجنة 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-divine-healer-shi-siyi.png)
+![AstroPaper I18n](/the-legend-of-the-miao-divine-healer-shi-siyi.png)
 
 
 

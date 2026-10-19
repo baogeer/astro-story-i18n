@@ -8,7 +8,7 @@ description: "«xa0J'aixa0» vu le nouveau nom du restaurant «xa0Three Point Wa
 
 
 
-![AstroPaper I18n](/public/a-story-inspired-by-a-couplet.png)
+![AstroPaper I18n](/a-story-inspired-by-a-couplet.png)
 
 
 

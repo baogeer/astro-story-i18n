@@ -8,7 +8,7 @@ description: "Lady Meng Jiang went through all the hardships to find her husband
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu.png)
 
 
 

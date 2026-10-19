@@ -8,7 +8,7 @@ description: "He Xianguu, originalmente conocido como He Qiong, es originario de
 
 
 
-![AstroPaper I18n](/public/how-he-xiangu-became-an-immortal.png)
+![AstroPaper I18n](/how-he-xiangu-became-an-immortal.png)
 
 
 

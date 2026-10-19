@@ -8,7 +8,7 @@ description: "Zhao Laoshang a fait de sœur Hua, qui avait échappé aux difficu
 
 
 
-![AstroPaper I18n](/public/the-red-peony-of-the-top-scholar.png)
+![AstroPaper I18n](/the-red-peony-of-the-top-scholar.png)
 
 
 

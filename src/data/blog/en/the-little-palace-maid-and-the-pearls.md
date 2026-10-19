@@ -8,7 +8,7 @@ description: "When the Eight-Nation Allied Forces invaded China, Cixi fled to Xi
 
 
 
-![AstroPaper I18n](/public/the-little-palace-maid-and-the-pearls.png)
+![AstroPaper I18n](/the-little-palace-maid-and-the-pearls.png)
 
 
 

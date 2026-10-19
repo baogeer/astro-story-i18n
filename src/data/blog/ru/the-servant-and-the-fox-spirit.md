@@ -8,7 +8,7 @@ description: "Слуга в храме Короку-дзи ночью встре
 
 
 
-![AstroPaper I18n](/public/the-servant-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-servant-and-the-fox-spirit.png)
 
 
 

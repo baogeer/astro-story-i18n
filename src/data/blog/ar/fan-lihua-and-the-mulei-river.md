@@ -8,7 +8,7 @@ description: "سار فان ليهوا غربًا إلى مقاطعة مولي �
 
 
 
-![AstroPaper I18n](/public/fan-lihua-and-the-mulei-river.png)
+![AstroPaper I18n](/fan-lihua-and-the-mulei-river.png)
 
 
 

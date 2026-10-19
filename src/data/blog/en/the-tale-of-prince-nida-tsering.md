@@ -8,7 +8,7 @@ description: "Prince Nida Ciren of Jiang Dan married the wise concubine Laguizem
 
 
 
-![AstroPaper I18n](/public/the-tale-of-prince-nida-tsering.png)
+![AstroPaper I18n](/the-tale-of-prince-nida-tsering.png)
 
 
 

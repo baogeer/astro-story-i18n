@@ -8,7 +8,7 @@ description: "Wang Lan, oriundo de Ritsu, fue engañado por error para convertir
 
 
 
-![AstroPaper I18n](/public/the-ghost-immortal-wang-lan.png)
+![AstroPaper I18n](/the-ghost-immortal-wang-lan.png)
 
 
 

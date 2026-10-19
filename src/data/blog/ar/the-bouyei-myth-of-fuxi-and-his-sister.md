@@ -8,7 +8,7 @@ description: "أحرقت الأرض اثني عشر شمسًا قديمة؛ وأ
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-fuxi-and-his-sister.png)
+![AstroPaper I18n](/the-bouyei-myth-of-fuxi-and-his-sister.png)
 
 
 

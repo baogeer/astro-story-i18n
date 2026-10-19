@@ -8,7 +8,7 @@ description: "Маленький кролик с помощью «питья в�
 
 
 
-![AstroPaper I18n](/public/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
+![AstroPaper I18n](/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
 
 
 

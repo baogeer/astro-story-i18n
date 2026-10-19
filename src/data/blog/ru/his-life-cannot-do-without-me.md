@@ -8,7 +8,7 @@ description: "Юй Гуанчжуна спросили, почему он не �
 
 
 
-![AstroPaper I18n](/public/his-life-cannot-do-without-me.png)
+![AstroPaper I18n](/his-life-cannot-do-without-me.png)
 
 
 

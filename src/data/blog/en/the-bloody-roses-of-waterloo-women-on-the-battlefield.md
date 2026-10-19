@@ -8,7 +8,7 @@ description: "On the Waterloo battlefield, women such as female French military 
 
 
 
-![AstroPaper I18n](/public/the-bloody-roses-of-waterloo-women-on-the-battlefield.png)
+![AstroPaper I18n](/the-bloody-roses-of-waterloo-women-on-the-battlefield.png)
 
 
 

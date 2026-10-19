@@ -8,7 +8,7 @@ description: "Le soir, j'ai fait une sieste en écoutant le professeur parler de
 
 
 
-![AstroPaper I18n](/public/the-wronged-ghost-on-campus.png)
+![AstroPaper I18n](/the-wronged-ghost-on-campus.png)
 
 
 

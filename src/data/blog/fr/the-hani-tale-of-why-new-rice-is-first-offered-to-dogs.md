@@ -8,7 +8,7 @@ description: "Selon les légendes de Hani, une fille du paradis a eu pitié de m
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
+![AstroPaper I18n](/the-hani-tale-of-why-new-rice-is-first-offered-to-dogs.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Постановление округа заставило Ляо 
 
 
 
-![AstroPaper I18n](/public/the-resurrection-herb.png)
+![AstroPaper I18n](/the-resurrection-herb.png)
 
 
 

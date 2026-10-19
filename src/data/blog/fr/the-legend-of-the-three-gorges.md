@@ -8,7 +8,7 @@ description: "Guanyin, Luban et Qin Shi Huang se sont rencontrés chacun pour ac
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-gorges.png)
+![AstroPaper I18n](/the-legend-of-the-three-gorges.png)
 
 
 

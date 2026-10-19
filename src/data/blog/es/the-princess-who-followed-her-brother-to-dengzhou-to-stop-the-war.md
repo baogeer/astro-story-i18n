@@ -8,7 +8,7 @@ description: "Tang Taizong invadió Goryeo en el este, pero la Hermana Imperial 
 
 
 
-![AstroPaper I18n](/public/the-princess-who-followed-her-brother-to-dengzhou-to-stop-the-war.png)
+![AstroPaper I18n](/the-princess-who-followed-her-brother-to-dengzhou-to-stop-the-war.png)
 
 
 

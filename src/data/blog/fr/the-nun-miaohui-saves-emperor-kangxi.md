@@ -8,7 +8,7 @@ description: "Pendant les années Kangxi, Yang Qilong a profité de l'occasion p
 
 
 
-![AstroPaper I18n](/public/the-nun-miaohui-saves-emperor-kangxi.png)
+![AstroPaper I18n](/the-nun-miaohui-saves-emperor-kangxi.png)
 
 
 

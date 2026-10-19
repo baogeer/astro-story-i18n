@@ -8,7 +8,7 @@ description: "Peng Yulin era el comandante de la marina del ejército Xiang a fi
 
 
 
-![AstroPaper I18n](/public/the-qing-military-genius-who-refused-high-office-six-times.png)
+![AstroPaper I18n](/the-qing-military-genius-who-refused-high-office-six-times.png)
 
 
 

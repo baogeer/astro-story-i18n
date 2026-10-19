@@ -8,7 +8,7 @@ description: "La légende raconte que les crêpes Jinyun sont nées lorsque Xuan
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jinyun-flatbread.png)
+![AstroPaper I18n](/the-legend-of-the-jinyun-flatbread.png)
 
 
 

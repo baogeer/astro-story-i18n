@@ -8,7 +8,7 @@ description: "После того как Цинь Хуэй убил Юэ Фэя,
 
 
 
-![AstroPaper I18n](/public/the-stench-and-the-delicacy-of-qin-hui.png)
+![AstroPaper I18n](/the-stench-and-the-delicacy-of-qin-hui.png)
 
 
 

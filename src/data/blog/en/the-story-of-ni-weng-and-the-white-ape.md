@@ -8,7 +8,7 @@ description: "When Ni Weng read it at night, the thousand-year-old white ape rea
 
 
 
-![AstroPaper I18n](/public/the-story-of-ni-weng-and-the-white-ape.png)
+![AstroPaper I18n](/the-story-of-ni-weng-and-the-white-ape.png)
 
 
 

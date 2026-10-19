@@ -8,7 +8,7 @@ description: "Le festival de la torche populaire de Yi Liyi est né de deux lég
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-limi-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-limi-yi-people.png)
 
 
 

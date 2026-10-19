@@ -8,7 +8,7 @@ description: "El Bodhisattva Guanyin se convirtió en una bella mujer que recaud
 
 
 
-![AstroPaper I18n](/public/guanyin-s-gift-of-the-painting.png)
+![AstroPaper I18n](/guanyin-s-gift-of-the-painting.png)
 
 
 

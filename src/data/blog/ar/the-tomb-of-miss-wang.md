@@ -8,7 +8,7 @@ description: "قبر الآنسة وانغ هو قبر الأميرة الكبر
 
 
 
-![AstroPaper I18n](/public/the-tomb-of-miss-wang.png)
+![AstroPaper I18n](/the-tomb-of-miss-wang.png)
 
 
 

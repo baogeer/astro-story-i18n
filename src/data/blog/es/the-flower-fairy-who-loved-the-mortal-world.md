@@ -8,7 +8,7 @@ description: "El Hada de las Flores fue devaluada como tortuga por el Emperador 
 
 
 
-![AstroPaper I18n](/public/the-flower-fairy-who-loved-the-mortal-world.png)
+![AstroPaper I18n](/the-flower-fairy-who-loved-the-mortal-world.png)
 
 
 

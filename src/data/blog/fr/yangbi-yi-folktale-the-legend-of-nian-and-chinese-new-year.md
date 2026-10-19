@@ -8,7 +8,7 @@ description: "Dans les temps anciens, il y avait des bêtes «xa0annuellesxa0» 
 
 
 
-![AstroPaper I18n](/public/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
 
 
 

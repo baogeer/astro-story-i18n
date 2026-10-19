@@ -8,7 +8,7 @@ description: "Племянник семьи Су, принадлежащей к 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-legend-of-the-three-terraces-of-heaven-and-earth.png)
 
 
 

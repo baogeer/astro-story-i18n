@@ -8,7 +8,7 @@ description: "يمرح اثنان من التنانين الصغار في بحي
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-paired-dragons.png)
+![AstroPaper I18n](/the-origin-of-the-paired-dragons.png)
 
 
 

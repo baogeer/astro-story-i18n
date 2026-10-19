@@ -8,7 +8,7 @@ description: "На протяжении всей своей жизни Су Ши
 
 
 
-![AstroPaper I18n](/public/the-story-of-su-dongpo-s-stones.png)
+![AstroPaper I18n](/the-story-of-su-dongpo-s-stones.png)
 
 
 

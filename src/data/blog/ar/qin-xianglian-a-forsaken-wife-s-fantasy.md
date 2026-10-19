@@ -8,7 +8,7 @@ description: "كامرأة مهجورة، تخيلت تشين شيانغليان
 
 
 
-![AstroPaper I18n](/public/qin-xianglian-a-forsaken-wife-s-fantasy.png)
+![AstroPaper I18n](/qin-xianglian-a-forsaken-wife-s-fantasy.png)
 
 
 

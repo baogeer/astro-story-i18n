@@ -8,7 +8,7 @@ description: "In search of the legendary Orange Girl, Prince Dawa went through h
 
 
 
-![AstroPaper I18n](/public/the-orange-maiden.png)
+![AstroPaper I18n](/the-orange-maiden.png)
 
 
 

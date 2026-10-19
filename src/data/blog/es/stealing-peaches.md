@@ -8,7 +8,7 @@ description: "Cuando era niña, vi «Yanchun» en Jinan y vi a una artista actua
 
 
 
-![AstroPaper I18n](/public/stealing-peaches.png)
+![AstroPaper I18n](/stealing-peaches.png)
 
 
 

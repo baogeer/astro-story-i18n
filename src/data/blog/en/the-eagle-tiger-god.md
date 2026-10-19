@@ -8,7 +8,7 @@ description: "At Dongyue Temple Gate, the condors and tigers showed their majest
 
 
 
-![AstroPaper I18n](/public/the-eagle-tiger-god.png)
+![AstroPaper I18n](/the-eagle-tiger-god.png)
 
 
 

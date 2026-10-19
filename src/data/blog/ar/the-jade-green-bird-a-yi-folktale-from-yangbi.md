@@ -8,7 +8,7 @@ description: "الأب لو غان مريض بشكل خطير. تزوجت أخت
 
 
 
-![AstroPaper I18n](/public/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
 
 
 

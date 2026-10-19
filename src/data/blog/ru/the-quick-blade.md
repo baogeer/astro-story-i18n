@@ -8,7 +8,7 @@ description: "В конце правления династии Мин в Чжа
 
 
 
-![AstroPaper I18n](/public/the-quick-blade.png)
+![AstroPaper I18n](/the-quick-blade.png)
 
 
 

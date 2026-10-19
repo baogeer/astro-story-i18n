@@ -8,7 +8,7 @@ description: "Une vieille tante solitaire du village de Longjing garde les 18 vi
 
 
 
-![AstroPaper I18n](/public/the-ancestor-of-longjing-tea.png)
+![AstroPaper I18n](/the-ancestor-of-longjing-tea.png)
 
 
 

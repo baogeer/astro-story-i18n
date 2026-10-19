@@ -8,7 +8,7 @@ description: "اتفق الثلاثة على عدم الوصول إلى جوهر
 
 
 
-![AstroPaper I18n](/public/the-nonsense-wager.png)
+![AstroPaper I18n](/the-nonsense-wager.png)
 
 
 

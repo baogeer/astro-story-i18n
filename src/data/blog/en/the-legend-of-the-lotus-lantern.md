@@ -8,7 +8,7 @@ description: "In order to save the mother, Three Madonna, who was crushed by Jir
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-lotus-lantern.png)
+![AstroPaper I18n](/the-legend-of-the-lotus-lantern.png)
 
 
 

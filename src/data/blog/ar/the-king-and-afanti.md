@@ -8,7 +8,7 @@ description: "أمضى الملك وأفانتي الليل في الصيد في
 
 
 
-![AstroPaper I18n](/public/the-king-and-afanti.png)
+![AstroPaper I18n](/the-king-and-afanti.png)
 
 
 

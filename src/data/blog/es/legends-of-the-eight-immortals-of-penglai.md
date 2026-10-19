@@ -8,7 +8,7 @@ description: "Leyendas como «Ocho inmortales cruzando el mar», «Su Dongpo vis
 
 
 
-![AstroPaper I18n](/public/legends-of-the-eight-immortals-of-penglai.png)
+![AstroPaper I18n](/legends-of-the-eight-immortals-of-penglai.png)
 
 
 

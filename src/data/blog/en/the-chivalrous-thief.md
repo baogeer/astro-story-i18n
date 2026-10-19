@@ -8,7 +8,7 @@ description: "San Yunsheng is a Baoding thief. He has limited his skills and dev
 
 
 
-![AstroPaper I18n](/public/the-chivalrous-thief.png)
+![AstroPaper I18n](/the-chivalrous-thief.png)
 
 
 

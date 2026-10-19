@@ -8,7 +8,7 @@ description: "In Shu Town, Jiangning, in the Ming Dynasty, Gengfu hosted Tang Bo
 
 
 
-![AstroPaper I18n](/public/tang-bohu-s-gift-of-a-painting.png)
+![AstroPaper I18n](/tang-bohu-s-gift-of-a-painting.png)
 
 
 

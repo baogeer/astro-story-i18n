@@ -8,7 +8,7 @@ description: "Sun Laoweng fue audaz, atrapó a un zorro de pelo amarillo y boca 
 
 
 
-![AstroPaper I18n](/public/catching-the-fox.png)
+![AstroPaper I18n](/catching-the-fox.png)
 
 
 

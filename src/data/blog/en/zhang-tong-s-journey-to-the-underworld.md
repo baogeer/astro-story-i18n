@@ -8,7 +8,7 @@ description: "At the end of the day, Zhang Laohan from Pingxing County made a ca
 
 
 
-![AstroPaper I18n](/public/zhang-tong-s-journey-to-the-underworld.png)
+![AstroPaper I18n](/zhang-tong-s-journey-to-the-underworld.png)
 
 
 

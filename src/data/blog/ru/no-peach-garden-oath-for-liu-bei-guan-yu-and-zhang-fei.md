@@ -8,7 +8,7 @@ description: "История встречи Лю Бэя, Гуань Юя и Чж
 
 
 
-![AstroPaper I18n](/public/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
+![AstroPaper I18n](/no-peach-garden-oath-for-liu-bei-guan-yu-and-zhang-fei.png)
 
 
 

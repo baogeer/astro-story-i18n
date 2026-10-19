@@ -8,7 +8,7 @@ description: "Король Лу высмеял храм Ню Ва своим с�
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-of-panlong-mountain.png)
+![AstroPaper I18n](/the-fox-maiden-of-panlong-mountain.png)
 
 
 

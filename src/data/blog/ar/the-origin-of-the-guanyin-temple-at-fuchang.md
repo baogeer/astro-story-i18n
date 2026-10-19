@@ -8,7 +8,7 @@ description: "في معرض معبد بايزهوشان، تعرض الأشخا�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
 
 
 

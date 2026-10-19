@@ -8,7 +8,7 @@ description: "Princess Jieyu was ordered by Emperor Han Wu to marry Wu Sun. She 
 
 
 
-![AstroPaper I18n](/public/princess-jieyou-s-life-of-trials.png)
+![AstroPaper I18n](/princess-jieyou-s-life-of-trials.png)
 
 
 

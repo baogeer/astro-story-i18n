@@ -8,7 +8,7 @@ description: "منذ فترة طويلة، من أجل ظهور الشمس وا�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-moqiu-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-moqiu-festival.png)
 
 
 

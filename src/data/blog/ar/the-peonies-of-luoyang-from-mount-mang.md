@@ -8,7 +8,7 @@ description: "اعتنى شاب بالفاوانيا في جبل لوشان. ف�
 
 
 
-![AstroPaper I18n](/public/the-peonies-of-luoyang-from-mount-mang.png)
+![AstroPaper I18n](/the-peonies-of-luoyang-from-mount-mang.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Legend has it that Liu Bangbing escaped to Qijia Village in Caozho
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-qi-s-golden-skirt-peony.png)
+![AstroPaper I18n](/the-legend-of-lady-qi-s-golden-skirt-peony.png)
 
 
 

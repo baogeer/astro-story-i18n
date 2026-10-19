@@ -8,7 +8,7 @@ description: "فقدت شياو زي، وهي رجل أعمى من وي جيات
 
 
 
-![AstroPaper I18n](/public/the-pig-that-saved-a-blind-filial-son.png)
+![AstroPaper I18n](/the-pig-that-saved-a-blind-filial-son.png)
 
 
 

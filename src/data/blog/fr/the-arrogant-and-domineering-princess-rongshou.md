@@ -8,7 +8,7 @@ description: "La princesse Rongshou Gulun est la fille du prince Gong. Elle a é
 
 
 
-![AstroPaper I18n](/public/the-arrogant-and-domineering-princess-rongshou.png)
+![AstroPaper I18n](/the-arrogant-and-domineering-princess-rongshou.png)
 
 
 

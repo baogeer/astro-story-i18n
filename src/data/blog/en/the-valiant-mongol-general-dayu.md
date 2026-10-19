@@ -8,7 +8,7 @@ description: "Genghis Khan's general Dayu was astonishing. When marching, he use
 
 
 
-![AstroPaper I18n](/public/the-valiant-mongol-general-dayu.png)
+![AstroPaper I18n](/the-valiant-mongol-general-dayu.png)
 
 
 

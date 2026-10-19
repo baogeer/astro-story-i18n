@@ -8,7 +8,7 @@ description: "Lorsque Jia Xu a fait sa première apparition officielle, il a per
 
 
 
-![AstroPaper I18n](/public/the-three-kingdoms-strategist-whose-first-appearance-brought-lasting-infamy.png)
+![AstroPaper I18n](/the-three-kingdoms-strategist-whose-first-appearance-brought-lasting-infamy.png)
 
 
 

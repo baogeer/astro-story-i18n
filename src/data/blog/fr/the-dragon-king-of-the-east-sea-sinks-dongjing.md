@@ -8,7 +8,7 @@ description: "Le roi dragon Aoguang de la mer de Chine orientale a étendu son t
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
+![AstroPaper I18n](/the-dragon-king-of-the-east-sea-sinks-dongjing.png)
 
 
 

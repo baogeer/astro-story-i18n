@@ -8,7 +8,7 @@ description: "Mi Fei is a daughter of Fuxi. She came to the world because she wa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-luo-river-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-luo-river-goddess.png)
 
 
 

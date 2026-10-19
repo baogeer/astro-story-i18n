@@ -8,7 +8,7 @@ description: "Il y avait de fréquents incendies dans la ville de Ruian sous la 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-gongrui-mountain-in-rui-an.png)
+![AstroPaper I18n](/the-origin-of-gongrui-mountain-in-rui-an.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Una mujer está triste porque su marido la ha cambiado de opinión
 
 
 
-![AstroPaper I18n](/public/the-blood-jade-bracelet.png)
+![AstroPaper I18n](/the-blood-jade-bracelet.png)
 
 
 

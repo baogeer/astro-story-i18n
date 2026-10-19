@@ -8,7 +8,7 @@ description: "Le moine aux sabots d'âne cachait des sabots d'âne noirs dans sa
 
 
 
-![AstroPaper I18n](/public/the-donkey-hoof-monk.png)
+![AstroPaper I18n](/the-donkey-hoof-monk.png)
 
 
 

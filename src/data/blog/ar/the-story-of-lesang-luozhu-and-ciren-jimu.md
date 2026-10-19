@@ -8,7 +8,7 @@ description: "تزوج ليشان لوزو وسيرين جيم بسبب علاق
 
 
 
-![AstroPaper I18n](/public/the-story-of-lesang-luozhu-and-ciren-jimu.png)
+![AstroPaper I18n](/the-story-of-lesang-luozhu-and-ciren-jimu.png)
 
 
 

@@ -8,7 +8,7 @@ description: "There were major droughts in ancient times, and Huanglong overcame
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river-s-origin.png)
 
 
 

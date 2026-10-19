@@ -8,7 +8,7 @@ description: "Чжан Баои и его жену преследовали пр
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ruyi-tomb.png)
+![AstroPaper I18n](/the-legend-of-the-ruyi-tomb.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сюнь Гуаньян, дочери Сюнь Суна из ди�
 
 
 
-![AstroPaper I18n](/public/xun-guanniang-breaks-through-the-siege-alone.png)
+![AstroPaper I18n](/xun-guanniang-breaks-through-the-siege-alone.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Shan Liang and his wife grew a giant winter melon in Shuangmen Mou
 
 
 
-![AstroPaper I18n](/public/the-legend-of-guan-mountain.png)
+![AstroPaper I18n](/the-legend-of-guan-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "كانت أسطورة جبل بانبينغ في تايوان مر
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
 
 
 

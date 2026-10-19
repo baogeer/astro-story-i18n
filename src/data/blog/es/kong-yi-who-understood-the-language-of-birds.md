@@ -8,7 +8,7 @@ description: "Kong Yi es un señor bondadoso que recibió plumas para tratar a l
 
 
 
-![AstroPaper I18n](/public/kong-yi-who-understood-the-language-of-birds.png)
+![AstroPaper I18n](/kong-yi-who-understood-the-language-of-birds.png)
 
 
 

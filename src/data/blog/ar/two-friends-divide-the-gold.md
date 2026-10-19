@@ -8,7 +8,7 @@ description: "قام ريوشي وسواكان بقطع الحطب معًا لل
 
 
 
-![AstroPaper I18n](/public/two-friends-divide-the-gold.png)
+![AstroPaper I18n](/two-friends-divide-the-gold.png)
 
 
 

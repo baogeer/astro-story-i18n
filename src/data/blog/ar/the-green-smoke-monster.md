@@ -8,7 +8,7 @@ description: "عندما كبر الأخ الأصغر، كان يتجول بحث
 
 
 
-![AstroPaper I18n](/public/the-green-smoke-monster.png)
+![AstroPaper I18n](/the-green-smoke-monster.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Cet article présente dix généraux célèbres, dont Sun Wu, Han 
 
 
 
-![AstroPaper I18n](/public/ten-great-generals-and-statesmen-of-chinese-history.png)
+![AstroPaper I18n](/ten-great-generals-and-statesmen-of-chinese-history.png)
 
 
 

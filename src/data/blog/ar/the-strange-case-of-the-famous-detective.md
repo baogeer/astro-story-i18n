@@ -8,7 +8,7 @@ description: "شكل الاستيلاء الشهير لو تشي من أسرة �
 
 
 
-![AstroPaper I18n](/public/the-strange-case-of-the-famous-detective.png)
+![AstroPaper I18n](/the-strange-case-of-the-famous-detective.png)
 
 
 

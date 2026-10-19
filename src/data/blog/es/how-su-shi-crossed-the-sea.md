@@ -8,7 +8,7 @@ description: "Tras ser desterrado a Danzhou, Su Shi cruzó el mar por primera ve
 
 
 
-![AstroPaper I18n](/public/how-su-shi-crossed-the-sea.png)
+![AstroPaper I18n](/how-su-shi-crossed-the-sea.png)
 
 
 

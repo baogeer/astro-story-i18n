@@ -8,7 +8,7 @@ description: "The two mentors and apprentices practiced at Xianren Cave in Shime
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-cave-a-yi-folktale.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-cave-a-yi-folktale.png)
 
 
 

@@ -8,7 +8,7 @@ description: "رينهي، دراغون، لي، وتايجر إخوة، ولا 
 
 
 
-![AstroPaper I18n](/public/how-man-won-the-world-from-dragon-thunder-and-tiger.png)
+![AstroPaper I18n](/how-man-won-the-world-from-dragon-thunder-and-tiger.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yang Liulang recibió la orden de luchar contra los bandidos. Para
 
 
 
-![AstroPaper I18n](/public/how-baishawang-got-its-name.png)
+![AstroPaper I18n](/how-baishawang-got-its-name.png)
 
 
 

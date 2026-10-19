@@ -8,7 +8,7 @@ description: "Le roi de Chine méridionale a emprunté le ministre du Nord, qui 
 
 
 
-![AstroPaper I18n](/public/the-pearl-spitting-minister.png)
+![AstroPaper I18n](/the-pearl-spitting-minister.png)
 
 
 

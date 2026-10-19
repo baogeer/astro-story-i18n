@@ -8,7 +8,7 @@ description: "After the old demon woman murdered the Morita woman, she also tric
 
 
 
-![AstroPaper I18n](/public/why-sweet-buckwheat-stalks-are-red.png)
+![AstroPaper I18n](/why-sweet-buckwheat-stalks-are-red.png)
 
 
 

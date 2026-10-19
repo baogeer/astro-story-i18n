@@ -8,7 +8,7 @@ description: "La niña de la etnia buyei se casó por separado. Quien pueda usar
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-the-wind-following-ear.png)
+![AstroPaper I18n](/the-bouyei-legend-of-the-wind-following-ear.png)
 
 
 

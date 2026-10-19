@@ -8,7 +8,7 @@ description: "Ху Ланьци — первая женщина-генерал-�
 
 
 
-![AstroPaper I18n](/public/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
+![AstroPaper I18n](/hu-lanqi-the-beautiful-major-general-s-bitter-love-for-chen-yi.png)
 
 
 

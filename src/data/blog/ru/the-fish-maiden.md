@@ -8,7 +8,7 @@ description: "Рыбака Тофу высмеивали за то, что он 
 
 
 
-![AstroPaper I18n](/public/the-fish-maiden.png)
+![AstroPaper I18n](/the-fish-maiden.png)
 
 
 

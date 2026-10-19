@@ -8,7 +8,7 @@ description: "Торговец антиквариатом Сунь Юй попы
 
 
 
-![AstroPaper I18n](/public/the-black-dog.png)
+![AstroPaper I18n](/the-black-dog.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Next to Mount Dagu, a pair of snake sisters have been practicing f
 
 
 
-![AstroPaper I18n](/public/the-snake-immortals-tribulation.png)
+![AstroPaper I18n](/the-snake-immortals-tribulation.png)
 
 
 

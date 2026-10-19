@@ -8,7 +8,7 @@ description: "Afin d'éviter d'être annexés par la Mongolie, les rois successi
 
 
 
-![AstroPaper I18n](/public/the-goryeo-dynasty-that-survived-through-women.png)
+![AstroPaper I18n](/the-goryeo-dynasty-that-survived-through-women.png)
 
 
 

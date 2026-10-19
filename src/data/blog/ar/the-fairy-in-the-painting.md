@@ -8,7 +8,7 @@ description: "اشترى Gao Mingfeng لوحة قديمة من أسرة سونغ
 
 
 
-![AstroPaper I18n](/public/the-fairy-in-the-painting.png)
+![AstroPaper I18n](/the-fairy-in-the-painting.png)
 
 
 

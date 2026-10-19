@@ -8,7 +8,7 @@ description: "El ladrón se hizo pasar por un colega para entrar en la casa y el
 
 
 
-![AstroPaper I18n](/public/a-dormitory-anecdote.png)
+![AstroPaper I18n](/a-dormitory-anecdote.png)
 
 
 

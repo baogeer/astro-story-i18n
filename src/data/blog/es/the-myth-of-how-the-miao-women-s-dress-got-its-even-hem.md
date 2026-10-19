@@ -8,7 +8,7 @@ description: "La esposa de la facción bien informada fue secuestrada por Bao Zi
 
 
 
-![AstroPaper I18n](/public/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
+![AstroPaper I18n](/the-myth-of-how-the-miao-women-s-dress-got-its-even-hem.png)
 
 
 

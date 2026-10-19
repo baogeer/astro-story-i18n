@@ -8,7 +8,7 @@ description: "The millionaire left a mysterious will, demanding an equal distrib
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-will.png)
+![AstroPaper I18n](/the-mystery-of-the-will.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда фермер посреди склона горы ув�
 
 
 
-![AstroPaper I18n](/public/the-wolf-that-pulled-the-plow.png)
+![AstroPaper I18n](/the-wolf-that-pulled-the-plow.png)
 
 
 

@@ -8,7 +8,7 @@ description: "التقى أغوتون بارو بآيرون رود لاما ال
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudengba-goodbye.png)
+![AstroPaper I18n](/the-tale-of-agudengba-goodbye.png)
 
 
 

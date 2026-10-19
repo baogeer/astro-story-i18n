@@ -8,7 +8,7 @@ description: "Ван Чжаоцзюнь вернулся в свою родну�
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-and-the-peach-blossom-fish.png)
+![AstroPaper I18n](/wang-zhaojun-and-the-peach-blossom-fish.png)
 
 
 

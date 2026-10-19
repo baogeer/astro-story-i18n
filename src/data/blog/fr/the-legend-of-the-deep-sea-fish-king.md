@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Ming, le pêcheur Li Bukong a tué par er
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-deep-sea-fish-king.png)
+![AstroPaper I18n](/the-legend-of-the-deep-sea-fish-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Dans les temps anciens, une sœur et un frère orphelins dépendai
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
 
 
 

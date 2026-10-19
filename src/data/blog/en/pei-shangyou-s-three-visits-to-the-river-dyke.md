@@ -8,7 +8,7 @@ description: "Pei Shangyou went up the embankment late at night to save her hung
 
 
 
-![AstroPaper I18n](/public/pei-shangyou-s-three-visits-to-the-river-dyke.png)
+![AstroPaper I18n](/pei-shangyou-s-three-visits-to-the-river-dyke.png)
 
 
 

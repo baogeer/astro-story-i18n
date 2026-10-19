@@ -8,7 +8,7 @@ description: "Dong Qichang a eu du mal à écrire la plaque. Il s'est fait passe
 
 
 
-![AstroPaper I18n](/public/dong-qichang-s-encounter-with-an-immortal.png)
+![AstroPaper I18n](/dong-qichang-s-encounter-with-an-immortal.png)
 
 
 

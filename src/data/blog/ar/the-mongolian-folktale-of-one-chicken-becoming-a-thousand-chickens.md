@@ -8,7 +8,7 @@ description: "قام ولدان من عائلة فقيرة بذبح الدجاج
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-one-chicken-becoming-a-thousand-chickens.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-one-chicken-becoming-a-thousand-chickens.png)
 
 
 

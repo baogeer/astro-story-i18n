@@ -8,7 +8,7 @@ description: "Dans les temps anciens, les dragons bleus et jaunes étaient trans
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-and-yellow-rivers.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-and-yellow-rivers.png)
 
 
 

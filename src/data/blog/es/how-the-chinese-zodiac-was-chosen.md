@@ -8,7 +8,7 @@ description: "El viejo revendedor recibió la orden de convocar animales domést
 
 
 
-![AstroPaper I18n](/public/how-the-chinese-zodiac-was-chosen.png)
+![AstroPaper I18n](/how-the-chinese-zodiac-was-chosen.png)
 
 
 

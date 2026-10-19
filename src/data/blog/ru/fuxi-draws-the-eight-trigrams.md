@@ -8,7 +8,7 @@ description: "В древнем Китае Фу Си после замужест
 
 
 
-![AstroPaper I18n](/public/fuxi-draws-the-eight-trigrams.png)
+![AstroPaper I18n](/fuxi-draws-the-eight-trigrams.png)
 
 
 

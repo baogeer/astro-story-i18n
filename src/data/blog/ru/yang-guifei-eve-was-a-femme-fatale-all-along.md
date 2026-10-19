@@ -8,7 +8,7 @@ description: "Принцесса Ян Гуйфэй изначально была
 
 
 
-![AstroPaper I18n](/public/yang-guifei-eve-was-a-femme-fatale-all-along.png)
+![AstroPaper I18n](/yang-guifei-eve-was-a-femme-fatale-all-along.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Neuf des douze fils de l'Empereur ont été envoyés pour être le
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hou-yi-shooting-down-nine-suns.png)
+![AstroPaper I18n](/the-legend-of-hou-yi-shooting-down-nine-suns.png)
 
 
 

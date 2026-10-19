@@ -8,7 +8,7 @@ description: "Ning Guanwa est le petit-fils du dieu Soleil. Ses parents lui ont 
 
 
 
-![AstroPaper I18n](/public/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
+![AstroPaper I18n](/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
 
 
 

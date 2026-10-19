@@ -8,7 +8,7 @@ description: "Mlle Zhu Yingtai, une jeune fille de la dynastie des Jin de l'Est,
 
 
 
-![AstroPaper I18n](/public/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
+![AstroPaper I18n](/zhu-yingtai-when-performance-art-becomes-a-virtue.png)
 
 
 

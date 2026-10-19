@@ -8,7 +8,7 @@ description: "Охотники на змей из Дунгуна одомашн�
 
 
 
-![AstroPaper I18n](/public/the-snake-charmer.png)
+![AstroPaper I18n](/the-snake-charmer.png)
 
 
 

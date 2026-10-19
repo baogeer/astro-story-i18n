@@ -8,7 +8,7 @@ description: "Дикарь Мао обокрал прекрасную девуш
 
 
 
-![AstroPaper I18n](/public/the-hairy-wild-man.png)
+![AstroPaper I18n](/the-hairy-wild-man.png)
 
 
 

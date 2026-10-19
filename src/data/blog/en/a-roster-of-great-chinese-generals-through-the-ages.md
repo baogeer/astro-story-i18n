@@ -8,7 +8,7 @@ description: "This article includes 100 famous generals selected from the Spring
 
 
 
-![AstroPaper I18n](/public/a-roster-of-great-chinese-generals-through-the-ages.png)
+![AstroPaper I18n](/a-roster-of-great-chinese-generals-through-the-ages.png)
 
 
 

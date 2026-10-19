@@ -8,7 +8,7 @@ description: "Wang Jiang fue derribado el día 10 para salvar a la gente, pero l
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-wang-jiang-shooting-down-the-ten-suns.png)
+![AstroPaper I18n](/the-bouyei-myth-of-wang-jiang-shooting-down-the-ten-suns.png)
 
 
 

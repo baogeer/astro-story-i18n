@@ -8,7 +8,7 @@ description: "Xia Ji es la princesa Zheng Guo de Chunqiu. Primero tuvo una avent
 
 
 
-![AstroPaper I18n](/public/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
+![AstroPaper I18n](/xia-ji-the-body-and-politics-of-an-ageless-beauty.png)
 
 
 

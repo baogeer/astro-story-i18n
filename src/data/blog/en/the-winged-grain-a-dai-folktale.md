@@ -8,7 +8,7 @@ description: "In ancient times, grains were as big as eggs and had wings, and fl
 
 
 
-![AstroPaper I18n](/public/the-winged-grain-a-dai-folktale.png)
+![AstroPaper I18n](/the-winged-grain-a-dai-folktale.png)
 
 
 

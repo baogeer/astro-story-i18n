@@ -8,7 +8,7 @@ description: "Alors qu'il servait dans l'armée de Wuwei, il a entendu qu'il y a
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-the-stone.png)
+![AstroPaper I18n](/mi-fu-bows-to-the-stone.png)
 
 
 

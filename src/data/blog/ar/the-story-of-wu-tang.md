@@ -8,7 +8,7 @@ description: "جاء وو تانغ من خلفية سيئة وهو مسؤول ن
 
 
 
-![AstroPaper I18n](/public/the-story-of-wu-tang.png)
+![AstroPaper I18n](/the-story-of-wu-tang.png)
 
 
 

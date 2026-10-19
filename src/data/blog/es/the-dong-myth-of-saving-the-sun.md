@@ -8,7 +8,7 @@ description: "La mitología dong «Save the Sun» cuenta la historia del demonio
 
 
 
-![AstroPaper I18n](/public/the-dong-myth-of-saving-the-sun.png)
+![AstroPaper I18n](/the-dong-myth-of-saving-the-sun.png)
 
 
 

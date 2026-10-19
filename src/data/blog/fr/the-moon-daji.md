@@ -8,7 +8,7 @@ description: "Des bébés ont disparu et sont morts les uns après les autres da
 
 
 
-![AstroPaper I18n](/public/the-moon-daji.png)
+![AstroPaper I18n](/the-moon-daji.png)
 
 
 

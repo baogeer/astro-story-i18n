@@ -8,7 +8,7 @@ description: "Shen Zhenzhu tiene talentos y una relación de por vida con el pob
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+![AstroPaper I18n](/the-legend-of-shen-zhenzhu.png)
 
 
 

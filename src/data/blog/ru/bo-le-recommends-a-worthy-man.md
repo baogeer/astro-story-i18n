@@ -8,7 +8,7 @@ description: "Боле уже в возрасте и порекомендова�
 
 
 
-![AstroPaper I18n](/public/bo-le-recommends-a-worthy-man.png)
+![AstroPaper I18n](/bo-le-recommends-a-worthy-man.png)
 
 
 

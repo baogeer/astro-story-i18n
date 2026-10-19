@@ -8,7 +8,7 @@ description: "غزا شياو يان تشيانغ بقيادة الإمبراط�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fushan-dam.png)
+![AstroPaper I18n](/the-legend-of-fushan-dam.png)
 
 
 

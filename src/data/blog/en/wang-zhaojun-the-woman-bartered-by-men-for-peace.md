@@ -8,7 +8,7 @@ description: "Wang Zhaojun was used by Emperor Han Yuan as a bargaining chip for
 
 
 
-![AstroPaper I18n](/public/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
+![AstroPaper I18n](/wang-zhaojun-the-woman-bartered-by-men-for-peace.png)
 
 
 

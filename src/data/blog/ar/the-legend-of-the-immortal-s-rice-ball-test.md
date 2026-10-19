@@ -8,7 +8,7 @@ description: "يوانزاي تانغ لينغ، بيتو، تايبيه. أصب
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-immortal-s-rice-ball-test.png)
+![AstroPaper I18n](/the-legend-of-the-immortal-s-rice-ball-test.png)
 
 
 

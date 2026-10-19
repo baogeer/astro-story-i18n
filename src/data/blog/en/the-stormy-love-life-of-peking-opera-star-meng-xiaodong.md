@@ -8,7 +8,7 @@ description: "Peking opera kun, Meng Xiaodong, has both artistic skills. He firs
 
 
 
-![AstroPaper I18n](/public/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
+![AstroPaper I18n](/the-stormy-love-life-of-peking-opera-star-meng-xiaodong.png)
 
 
 

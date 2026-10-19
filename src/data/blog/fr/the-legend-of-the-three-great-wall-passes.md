@@ -8,7 +8,7 @@ description: "L'empereur Jade a vu le fils aîné du Roi Dragon dans la mer de C
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-three-great-wall-passes.png)
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
 
 
 

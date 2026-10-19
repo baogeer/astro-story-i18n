@@ -8,7 +8,7 @@ description: "In order to relieve the suffering of the people, Mr. Shennong pers
 
 
 
-![AstroPaper I18n](/public/the-story-of-shennong-tasting-a-hundred-herbs.png)
+![AstroPaper I18n](/the-story-of-shennong-tasting-a-hundred-herbs.png)
 
 
 

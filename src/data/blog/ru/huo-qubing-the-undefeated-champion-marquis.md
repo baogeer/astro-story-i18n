@@ -8,7 +8,7 @@ description: "Чемпион провинции Хань Хоу Хо заста�
 
 
 
-![AstroPaper I18n](/public/huo-qubing-the-undefeated-champion-marquis.png)
+![AstroPaper I18n](/huo-qubing-the-undefeated-champion-marquis.png)
 
 
 

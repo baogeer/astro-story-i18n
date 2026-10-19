@@ -8,7 +8,7 @@ description: "Le chasseur Fang Cuncun a visité la grotte de Laoshi la nuit, a r
 
 
 
-![AstroPaper I18n](/public/the-hunter-s-strange-encounter.png)
+![AstroPaper I18n](/the-hunter-s-strange-encounter.png)
 
 
 

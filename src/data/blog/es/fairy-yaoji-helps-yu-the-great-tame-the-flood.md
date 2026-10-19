@@ -8,7 +8,7 @@ description: "Yao Ji llevó a once hadas al trono. Al ver que Dayu estaba atrapa
 
 
 
-![AstroPaper I18n](/public/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
+![AstroPaper I18n](/fairy-yaoji-helps-yu-the-great-tame-the-flood.png)
 
 
 

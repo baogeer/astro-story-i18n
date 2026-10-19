@@ -8,7 +8,7 @@ description: "Hangzhou has been dry and without rain for a long time. The old ma
 
 
 
-![AstroPaper I18n](/public/the-first-spring-of-wushan.png)
+![AstroPaper I18n](/the-first-spring-of-wushan.png)
 
 
 

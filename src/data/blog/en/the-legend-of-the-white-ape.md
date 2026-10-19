@@ -8,7 +8,7 @@ description: "When the Liang dynasty's ouyang dynasty marched south, his beautif
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-ape.png)
+![AstroPaper I18n](/the-legend-of-the-white-ape.png)
 
 
 

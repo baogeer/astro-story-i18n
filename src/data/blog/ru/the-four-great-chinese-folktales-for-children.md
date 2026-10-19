@@ -8,7 +8,7 @@ description: "К четырем основным китайским народн
 
 
 
-![AstroPaper I18n](/public/the-four-great-chinese-folktales-for-children.png)
+![AstroPaper I18n](/the-four-great-chinese-folktales-for-children.png)
 
 
 

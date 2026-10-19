@@ -8,7 +8,7 @@ description: "Kim Se-sung acted recklessly. After leaving home, he became insane
 
 
 
-![AstroPaper I18n](/public/the-mad-monk-jin-shicheng.png)
+![AstroPaper I18n](/the-mad-monk-jin-shicheng.png)
 
 
 

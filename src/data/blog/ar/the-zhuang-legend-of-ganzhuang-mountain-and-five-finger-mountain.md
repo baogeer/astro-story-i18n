@@ -8,7 +8,7 @@ description: "ابتكر بروتو وميلوشيا كل شيء تحت أوام
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
+![AstroPaper I18n](/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Baizhang Village in Yangyi was originally known as “Big White Co
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
 
 
 

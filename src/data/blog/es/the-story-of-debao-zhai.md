@@ -8,7 +8,7 @@ description: "Li Chengfu irrumpió por error en Wang Yizheng, del condado de Keq
 
 
 
-![AstroPaper I18n](/public/the-story-of-debao-zhai.png)
+![AstroPaper I18n](/the-story-of-debao-zhai.png)
 
 
 

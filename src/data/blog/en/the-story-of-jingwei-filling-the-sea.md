@@ -8,7 +8,7 @@ description: "The daughter of Emperor Yan went boating to the East China Sea and
 
 
 
-![AstroPaper I18n](/public/the-story-of-jingwei-filling-the-sea.png)
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
 
 
 

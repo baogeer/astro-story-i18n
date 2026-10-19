@@ -8,7 +8,7 @@ description: "باي شيلانج هو ابن لو دونغ بين وباي بي
 
 
 
-![AstroPaper I18n](/public/bai-shilang-and-the-gourd-that-captured-the-gods.png)
+![AstroPaper I18n](/bai-shilang-and-the-gourd-that-captured-the-gods.png)
 
 
 

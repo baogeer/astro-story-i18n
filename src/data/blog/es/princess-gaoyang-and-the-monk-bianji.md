@@ -8,7 +8,7 @@ description: "Durante los años de Tang Zhenguan, la princesa Gaoyang se casó e
 
 
 
-![AstroPaper I18n](/public/princess-gaoyang-and-the-monk-bianji.png)
+![AstroPaper I18n](/princess-gaoyang-and-the-monk-bianji.png)
 
 
 

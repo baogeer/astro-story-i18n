@@ -8,7 +8,7 @@ description: "People in northern Shaanxi regard repairing caves as a family even
 
 
 
-![AstroPaper I18n](/public/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
+![AstroPaper I18n](/folk-tales-of-the-northern-shaanxi-cave-dwellings.png)
 
 
 

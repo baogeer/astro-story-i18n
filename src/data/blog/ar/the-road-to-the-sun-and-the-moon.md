@@ -8,7 +8,7 @@ description: "من أجل الزواج من حبيبته هانلوشكا، شر
 
 
 
-![AstroPaper I18n](/public/the-road-to-the-sun-and-the-moon.png)
+![AstroPaper I18n](/the-road-to-the-sun-and-the-moon.png)
 
 
 

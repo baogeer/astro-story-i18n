@@ -8,7 +8,7 @@ description: "Принцесса Лоун Стоун спасла мужчину
 
 
 
-![AstroPaper I18n](/public/the-princess-whose-husband-to-be-died-before-the-wedding.png)
+![AstroPaper I18n](/the-princess-whose-husband-to-be-died-before-the-wedding.png)
 
 
 

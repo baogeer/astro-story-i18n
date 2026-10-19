@@ -8,7 +8,7 @@ description: "Han Xin fue humillado cuando era joven. Más tarde, se unió al ej
 
 
 
-![AstroPaper I18n](/public/han-xin-the-peerless-military-genius.png)
+![AstroPaper I18n](/han-xin-the-peerless-military-genius.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Yulong y Jin Feng usaron piedras para crear perlas. Los vigilaban 
 
 
 
-![AstroPaper I18n](/public/the-west-lake-pearl.png)
+![AstroPaper I18n](/the-west-lake-pearl.png)
 
 
 

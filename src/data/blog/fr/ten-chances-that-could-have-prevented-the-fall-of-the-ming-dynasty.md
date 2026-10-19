@@ -8,7 +8,7 @@ description: "De Jiajing à Nanming, la dynastie Ming a eu dix chances de sauver
 
 
 
-![AstroPaper I18n](/public/ten-chances-that-could-have-prevented-the-fall-of-the-ming-dynasty.png)
+![AstroPaper I18n](/ten-chances-that-could-have-prevented-the-fall-of-the-ming-dynasty.png)
 
 
 

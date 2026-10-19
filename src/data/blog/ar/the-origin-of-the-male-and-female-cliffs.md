@@ -8,7 +8,7 @@ description: "هناك منحدر غونغمو في قرية تشانغشو، ب
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-male-and-female-cliffs.png)
+![AstroPaper I18n](/the-origin-of-the-male-and-female-cliffs.png)
 
 
 

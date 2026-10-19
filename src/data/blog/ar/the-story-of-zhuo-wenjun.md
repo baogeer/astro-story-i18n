@@ -8,7 +8,7 @@ description: "Zhuo Wenjun، امرأة موهوبة من أسرة هان، أر�
 
 
 
-![AstroPaper I18n](/public/the-story-of-zhuo-wenjun.png)
+![AstroPaper I18n](/the-story-of-zhuo-wenjun.png)
 
 
 

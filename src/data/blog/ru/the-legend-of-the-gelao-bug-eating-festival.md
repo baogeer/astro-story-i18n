@@ -8,7 +8,7 @@ description: "Древняя гора Илао страдала из года в
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-gelao-bug-eating-festival.png)
+![AstroPaper I18n](/the-legend-of-the-gelao-bug-eating-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Le vieux tailleur de pierre a trouvé du jade lanoline et l'a scul
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jade-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-jade-maiden.png)
 
 
 

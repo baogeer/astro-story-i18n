@@ -8,7 +8,7 @@ description: "تعلمت غوو لو، وهي يتيمة من قبيلة يلا�
 
 
 
-![AstroPaper I18n](/public/the-gelao-love-story-of-luosipo.png)
+![AstroPaper I18n](/the-gelao-love-story-of-luosipo.png)
 
 
 

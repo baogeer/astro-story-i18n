@@ -8,7 +8,7 @@ description: "التقى ديفيد برجل عجوز محاط بحراس شخص
 
 
 
-![AstroPaper I18n](/public/the-strange-running-encounter-with-president-carter.png)
+![AstroPaper I18n](/the-strange-running-encounter-with-president-carter.png)
 
 
 

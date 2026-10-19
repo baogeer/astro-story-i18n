@@ -8,7 +8,7 @@ description: "Une pièce d'un yuan qui est arrivée d'elle-même rappelle au pro
 
 
 
-![AstroPaper I18n](/public/the-one-yuan-coin.png)
+![AstroPaper I18n](/the-one-yuan-coin.png)
 
 
 

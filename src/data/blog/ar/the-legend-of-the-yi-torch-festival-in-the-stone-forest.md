@@ -8,7 +8,7 @@ description: "من أجل محاربة طغيان إله الخبز المحمص
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
 
 
 

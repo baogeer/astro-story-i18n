@@ -8,7 +8,7 @@ description: "Zhang's mother often goes to Li's mother's house to eat and drink.
 
 
 
-![AstroPaper I18n](/public/the-mothers-in-law-and-the-rooster-s-midday-crow.png)
+![AstroPaper I18n](/the-mothers-in-law-and-the-rooster-s-midday-crow.png)
 
 
 

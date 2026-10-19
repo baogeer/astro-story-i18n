@@ -8,7 +8,7 @@ description: "قام الأخوان دارو وجيرو من قرية تياو �
 
 
 
-![AstroPaper I18n](/public/the-dragon-head-golden-hairpin.png)
+![AstroPaper I18n](/the-dragon-head-golden-hairpin.png)
 
 
 

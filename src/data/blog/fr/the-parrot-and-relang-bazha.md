@@ -8,7 +8,7 @@ description: "Gélambazar a profité de son mari pour avoir des relations sexuel
 
 
 
-![AstroPaper I18n](/public/the-parrot-and-relang-bazha.png)
+![AstroPaper I18n](/the-parrot-and-relang-bazha.png)
 
 
 

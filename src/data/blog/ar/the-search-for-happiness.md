@@ -8,7 +8,7 @@ description: "من أجل العثور على السعادة، سأل شباب �
 
 
 
-![AstroPaper I18n](/public/the-search-for-happiness.png)
+![AstroPaper I18n](/the-search-for-happiness.png)
 
 
 

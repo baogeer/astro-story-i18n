@@ -8,7 +8,7 @@ description: "تتناول تايوان العشاء حول الموقد خلا�
 
 
 
-![AstroPaper I18n](/public/taiwanese-folk-customs-of-the-new-year.png)
+![AstroPaper I18n](/taiwanese-folk-customs-of-the-new-year.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Floods flooded the earth in ancient times. A brother and sister su
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-the-great-flood.png)
+![AstroPaper I18n](/the-miao-legend-of-the-great-flood.png)
 
 
 

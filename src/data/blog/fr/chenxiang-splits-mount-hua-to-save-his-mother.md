@@ -8,7 +8,7 @@ description: "Afin de sauver sa mère, la Trois Nobles Madone, écrasée par son
 
 
 
-![AstroPaper I18n](/public/chenxiang-splits-mount-hua-to-save-his-mother.png)
+![AstroPaper I18n](/chenxiang-splits-mount-hua-to-save-his-mother.png)
 
 
 

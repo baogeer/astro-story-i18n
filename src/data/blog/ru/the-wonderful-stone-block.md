@@ -8,7 +8,7 @@ description: "Когда мост Нисикура был построен во 
 
 
 
-![AstroPaper I18n](/public/the-wonderful-stone-block.png)
+![AstroPaper I18n](/the-wonderful-stone-block.png)
 
 
 

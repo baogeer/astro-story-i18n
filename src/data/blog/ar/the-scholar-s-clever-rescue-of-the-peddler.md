@@ -8,7 +8,7 @@ description: "في نهاية عهد أسرة تشينغ، تعرض ياو جي�
 
 
 
-![AstroPaper I18n](/public/the-scholar-s-clever-rescue-of-the-peddler.png)
+![AstroPaper I18n](/the-scholar-s-clever-rescue-of-the-peddler.png)
 
 
 

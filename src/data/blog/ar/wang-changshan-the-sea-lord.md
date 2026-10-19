@@ -8,7 +8,7 @@ description: "كان وانغ تشانغشان مديونًا وصمم سيفً�
 
 
 
-![AstroPaper I18n](/public/wang-changshan-the-sea-lord.png)
+![AstroPaper I18n](/wang-changshan-the-sea-lord.png)
 
 
 

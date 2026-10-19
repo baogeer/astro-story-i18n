@@ -8,7 +8,7 @@ description: "Ali y la hermana Ali querían demasiado a su hijo Agou, y si la lu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-burning-island.png)
+![AstroPaper I18n](/the-legend-of-the-burning-island.png)
 
 
 

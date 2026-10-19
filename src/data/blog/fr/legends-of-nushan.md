@@ -8,7 +8,7 @@ description: "Papy Turtle était gourmand et a épousé par erreur sa fille, ses
 
 
 
-![AstroPaper I18n](/public/legends-of-nushan.png)
+![AstroPaper I18n](/legends-of-nushan.png)
 
 
 

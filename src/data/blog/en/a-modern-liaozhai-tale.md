@@ -8,7 +8,7 @@ description: "“I,” who has been obsessed with Liaozhai since childhood, met 
 
 
 
-![AstroPaper I18n](/public/a-modern-liaozhai-tale.png)
+![AstroPaper I18n](/a-modern-liaozhai-tale.png)
 
 
 

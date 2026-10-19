@@ -8,7 +8,7 @@ description: "The young farmer found a field snail and kept it in a water tank, 
 
 
 
-![AstroPaper I18n](/public/the-snail-maiden.png)
+![AstroPaper I18n](/the-snail-maiden.png)
 
 
 

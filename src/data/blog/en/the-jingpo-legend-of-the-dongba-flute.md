@@ -8,7 +8,7 @@ description: "According to Jingpo legends, a pair of farmers raised a boy but tr
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-dongba-flute.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-dongba-flute.png)
 
 
 

@@ -8,7 +8,7 @@ description: "الأميرة يونغتاي هي ابنة تانغ تشونغز�
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-princess-yongtai-s-death.png)
+![AstroPaper I18n](/the-mystery-of-princess-yongtai-s-death.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Согласно легендам маонанов, дети по�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-maonan-monkey-drum-dance.png)
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
 
 
 

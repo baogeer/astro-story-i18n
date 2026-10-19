@@ -8,7 +8,7 @@ description: "كانت للمرتزقة الستة نهايات مختلفة ج�
 
 
 
-![AstroPaper I18n](/public/the-six-most-famous-libertines-in-chinese-history.png)
+![AstroPaper I18n](/the-six-most-famous-libertines-in-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "في عام جينغزي، هاجمت قوات الحلفاء ال
 
 
 
-![AstroPaper I18n](/public/the-empress-dowager-cixi-flees-in-the-face-of-battle.png)
+![AstroPaper I18n](/the-empress-dowager-cixi-flees-in-the-face-of-battle.png)
 
 
 

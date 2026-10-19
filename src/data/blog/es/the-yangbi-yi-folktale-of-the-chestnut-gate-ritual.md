@@ -8,7 +8,7 @@ description: "En la leyenda de la tribu Yangyi, se desconoce a uno de los padres
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
+![AstroPaper I18n](/the-yangbi-yi-folktale-of-the-chestnut-gate-ritual.png)
 
 
 

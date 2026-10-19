@@ -8,7 +8,7 @@ description: "La légende raconte que les montagnes de l'Himalaya étaient à l'
 
 
 
-![AstroPaper I18n](/public/the-vast-sea-became-fields.png)
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
 
 
 

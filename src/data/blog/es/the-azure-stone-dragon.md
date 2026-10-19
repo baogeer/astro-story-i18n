@@ -8,7 +8,7 @@ description: "Qinglong fue originalmente guardaespaldas en el Palacio del Dragó
 
 
 
-![AstroPaper I18n](/public/the-azure-stone-dragon.png)
+![AstroPaper I18n](/the-azure-stone-dragon.png)
 
 
 

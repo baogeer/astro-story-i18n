@@ -8,7 +8,7 @@ description: "سأل Geng 18 زوجته عما إذا كانت أرملة أو �
 
 
 
-![AstroPaper I18n](/public/the-story-of-geng-shiba.png)
+![AstroPaper I18n](/the-story-of-geng-shiba.png)
 
 
 

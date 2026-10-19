@@ -8,7 +8,7 @@ description: "In ancient China, Fu Xi lived together with Nu Wa's brother and si
 
 
 
-![AstroPaper I18n](/public/fuxi-draws-the-eight-trigrams.png)
+![AstroPaper I18n](/fuxi-draws-the-eight-trigrams.png)
 
 
 

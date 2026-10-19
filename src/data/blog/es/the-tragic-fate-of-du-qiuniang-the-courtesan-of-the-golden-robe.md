@@ -8,7 +8,7 @@ description: "Li Wei y Tang Xianzong apoyaron a Du Qiuniang por crear su propio 
 
 
 
-![AstroPaper I18n](/public/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
+![AstroPaper I18n](/the-tragic-fate-of-du-qiuniang-the-courtesan-of-the-golden-robe.png)
 
 
 

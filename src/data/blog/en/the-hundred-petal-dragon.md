@@ -8,7 +8,7 @@ description: "In Tiaoxi, Zhejiang, a freak born to a couple was abandoned by the
 
 
 
-![AstroPaper I18n](/public/the-hundred-petal-dragon.png)
+![AstroPaper I18n](/the-hundred-petal-dragon.png)
 
 
 

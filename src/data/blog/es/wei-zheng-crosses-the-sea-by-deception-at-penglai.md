@@ -8,7 +8,7 @@ description: "Wei Zheng acompañó a Tang Taizong a Goryeo y estuvo destinado en
 
 
 
-![AstroPaper I18n](/public/wei-zheng-crosses-the-sea-by-deception-at-penglai.png)
+![AstroPaper I18n](/wei-zheng-crosses-the-sea-by-deception-at-penglai.png)
 
 
 

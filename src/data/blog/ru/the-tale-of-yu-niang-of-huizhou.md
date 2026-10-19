@@ -8,7 +8,7 @@ description: "Вдова, Ю Ньян, в одиночку вырастила с
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yu-niang-of-huizhou.png)
+![AstroPaper I18n](/the-tale-of-yu-niang-of-huizhou.png)
 
 
 

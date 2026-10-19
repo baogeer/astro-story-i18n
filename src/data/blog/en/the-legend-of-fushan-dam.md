@@ -8,7 +8,7 @@ description: "Emperor Liang Wu's Xiao Yanqiang conquered 200,000 people to build
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fushan-dam.png)
+![AstroPaper I18n](/the-legend-of-fushan-dam.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lorsque la dynastie Ouyang de la dynastie Liang a marché vers le 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-ape.png)
+![AstroPaper I18n](/the-legend-of-the-white-ape.png)
 
 
 

@@ -8,7 +8,7 @@ description: "L'empereur Zhaoyuan de la dynastie Tang a pleuré et choqué la Co
 
 
 
-![AstroPaper I18n](/public/the-legend-of-mengxi-zhao.png)
+![AstroPaper I18n](/the-legend-of-mengxi-zhao.png)
 
 
 

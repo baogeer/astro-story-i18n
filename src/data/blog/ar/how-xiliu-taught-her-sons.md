@@ -8,7 +8,7 @@ description: "هوسوياجي هي زوجة الأب. عندما ترك ربي�
 
 
 
-![AstroPaper I18n](/public/how-xiliu-taught-her-sons.png)
+![AstroPaper I18n](/how-xiliu-taught-her-sons.png)
 
 
 

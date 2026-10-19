@@ -8,7 +8,7 @@ description: "Liu Bei fue desalojado de Xiao Pei por Lu Bu, se quedó sin comida
 
 
 
-![AstroPaper I18n](/public/three-kingdoms-most-horrifying-hospitality-liu-an-s-wife-fed-to-liu-bei.png)
+![AstroPaper I18n](/three-kingdoms-most-horrifying-hospitality-liu-an-s-wife-fed-to-liu-bei.png)
 
 
 

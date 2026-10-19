@@ -8,7 +8,7 @@ description: "The Hani people held a grand “don't rub” funeral for the elder
 
 
 
-![AstroPaper I18n](/public/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
+![AstroPaper I18n](/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
 
 
 

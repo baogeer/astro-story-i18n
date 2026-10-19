@@ -8,7 +8,7 @@ description: "Мечта Сун Цзяна о встрече на девять �
 
 
 
-![AstroPaper I18n](/public/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
+![AstroPaper I18n](/song-jiang-s-beloved-goddess-of-the-ninth-heaven-was-emperor-huizong-s-daughter.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Изначально семья Цзэн была богата в 
 
 
 
-![AstroPaper I18n](/public/the-rice-carving.png)
+![AstroPaper I18n](/the-rice-carving.png)
 
 
 

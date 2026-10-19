@@ -8,7 +8,7 @@ description: "Сюн Синь, внук короля Чу Хуая, пас ов�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-shepherd-mountain.png)
+![AstroPaper I18n](/the-legend-of-shepherd-mountain.png)
 
 
 

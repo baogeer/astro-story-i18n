@@ -8,7 +8,7 @@ description: "In order to get along well with the Tang dynasty, Song Zan Kanbu s
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-s-journey-to-tibet.png)
+![AstroPaper I18n](/princess-wencheng-s-journey-to-tibet.png)
 
 
 

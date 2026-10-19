@@ -8,7 +8,7 @@ description: "A small merchant stored a barley bag containing three coins at an 
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-who-stole-the-gold-coins.png)
+![AstroPaper I18n](/the-innkeeper-who-stole-the-gold-coins.png)
 
 
 

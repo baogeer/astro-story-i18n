@@ -8,7 +8,7 @@ description: "Yao Ji brought 11 fairies to the throne to help Dayu heal the wate
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-goddess-peak.png)
+![AstroPaper I18n](/the-legend-of-the-goddess-peak.png)
 
 
 

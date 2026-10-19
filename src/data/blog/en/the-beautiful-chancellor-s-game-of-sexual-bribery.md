@@ -8,7 +8,7 @@ description: "In order to secure power in the harem, Shangguan Waner first follo
 
 
 
-![AstroPaper I18n](/public/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
+![AstroPaper I18n](/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
 
 
 

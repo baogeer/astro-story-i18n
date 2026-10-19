@@ -8,7 +8,7 @@ description: "يجمع الجانب المائي للنهر الأصفر بين 
 
 
 
-![AstroPaper I18n](/public/idioms-and-poems-of-the-yellow-river.png)
+![AstroPaper I18n](/idioms-and-poems-of-the-yellow-river.png)
 
 
 

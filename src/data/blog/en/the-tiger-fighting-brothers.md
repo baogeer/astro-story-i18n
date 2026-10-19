@@ -8,7 +8,7 @@ description: "Three brothers from the mountainous area of Minnan. The boss went 
 
 
 
-![AstroPaper I18n](/public/the-tiger-fighting-brothers.png)
+![AstroPaper I18n](/the-tiger-fighting-brothers.png)
 
 
 

@@ -8,7 +8,7 @@ description: "تعيش Yizhou Sang Sheng بمفردها وقد التقت بفت
 
 
 
-![AstroPaper I18n](/public/the-story-of-lianxiang.png)
+![AstroPaper I18n](/the-story-of-lianxiang.png)
 
 
 

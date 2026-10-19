@@ -8,7 +8,7 @@ description: "Existe la leyenda de que la peonía chamuscada tiene en realidad e
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
+![AstroPaper I18n](/the-legend-of-the-scorched-bone-peony-and-the-withered-branch-peony.png)
 
 
 

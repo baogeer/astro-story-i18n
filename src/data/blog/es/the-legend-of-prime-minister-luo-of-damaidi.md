@@ -8,7 +8,7 @@ description: "El primer ministro Luo hizo todo lo posible, pero sus traidores lo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-prime-minister-luo-of-damaidi.png)
+![AstroPaper I18n](/the-legend-of-prime-minister-luo-of-damaidi.png)
 
 
 

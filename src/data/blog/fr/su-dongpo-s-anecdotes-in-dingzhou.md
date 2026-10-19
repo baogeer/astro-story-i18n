@@ -8,7 +8,7 @@ description: "Après la rétrogradation de Su Dongpo en tant que gouverneur de D
 
 
 
-![AstroPaper I18n](/public/su-dongpo-s-anecdotes-in-dingzhou.png)
+![AstroPaper I18n](/su-dongpo-s-anecdotes-in-dingzhou.png)
 
 
 

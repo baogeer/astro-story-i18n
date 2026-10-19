@@ -8,7 +8,7 @@ description: "Li Yu, autrefois connue comme un couple immortel, a déménagé à
 
 
 
-![AstroPaper I18n](/public/the-many-names-of-li-yu.png)
+![AstroPaper I18n](/the-many-names-of-li-yu.png)
 
 
 

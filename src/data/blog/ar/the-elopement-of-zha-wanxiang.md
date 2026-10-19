@@ -8,7 +8,7 @@ description: "لم يكن أمام تشا وان هسيانغ ويانغ دين�
 
 
 
-![AstroPaper I18n](/public/the-elopement-of-zha-wanxiang.png)
+![AstroPaper I18n](/the-elopement-of-zha-wanxiang.png)
 
 
 

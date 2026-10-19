@@ -8,7 +8,7 @@ description: "لم تكن الإمبراطورة وو تشينغ من شمال �
 
 
 
-![AstroPaper I18n](/public/empress-hu-the-lustful-woman-of-her-age.png)
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
 
 
 

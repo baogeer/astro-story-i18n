@@ -8,7 +8,7 @@ description: "Ga wa a ouvert le monde et a soulevé le ciel avec des colonnes de
 
 
 
-![AstroPaper I18n](/public/yawa-creates-heaven-earth-and-humanity.png)
+![AstroPaper I18n](/yawa-creates-heaven-earth-and-humanity.png)
 
 
 

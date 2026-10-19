@@ -8,7 +8,7 @@ description: "Legend has it that the Keelung Fairy Cave has direct access to Tam
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-underground-tunnels.png)
+![AstroPaper I18n](/the-legend-of-the-underground-tunnels.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The little bunny used “drinking wine” to trick male wolves and
 
 
 
-![AstroPaper I18n](/public/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
+![AstroPaper I18n](/how-the-rabbit-tricked-the-wolf-and-fox-into-drinking-wedding-wine.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los monos se llevaron a Dianhua, la niña miao, y la torturaron. S
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-pleated-skirt.png)
+![AstroPaper I18n](/the-legend-of-the-pleated-skirt.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Су Хуэй (Цзы Жуолань), талантливая же
 
 
 
-![AstroPaper I18n](/public/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
+![AstroPaper I18n](/su-ruolan-and-the-xuanji-tu-palindrome-of-love.png)
 
 
 

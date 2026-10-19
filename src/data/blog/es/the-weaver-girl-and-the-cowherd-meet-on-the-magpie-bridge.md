@@ -8,7 +8,7 @@ description: "La historia de amor de un vaquero y un tejedor se origina en el oe
 
 
 
-![AstroPaper I18n](/public/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-weaver-girl-and-the-cowherd-meet-on-the-magpie-bridge.png)
 
 
 

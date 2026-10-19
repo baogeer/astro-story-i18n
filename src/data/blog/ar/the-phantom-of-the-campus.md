@@ -8,7 +8,7 @@ description: "قابلت لين شياونان شبح امرأة عمياء أث
 
 
 
-![AstroPaper I18n](/public/the-phantom-of-the-campus.png)
+![AstroPaper I18n](/the-phantom-of-the-campus.png)
 
 
 

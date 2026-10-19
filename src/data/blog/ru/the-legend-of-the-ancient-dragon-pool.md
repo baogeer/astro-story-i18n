@@ -8,7 +8,7 @@ description: "Ложная легенда о том, как Мидзуген и�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-ancient-dragon-pool.png)
+![AstroPaper I18n](/the-legend-of-the-ancient-dragon-pool.png)
 
 
 

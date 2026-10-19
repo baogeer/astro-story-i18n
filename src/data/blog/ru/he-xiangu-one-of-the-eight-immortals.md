@@ -8,7 +8,7 @@ description: "Хэ Сяньгуу — один из восьми бессмер�
 
 
 
-![AstroPaper I18n](/public/he-xiangu-one-of-the-eight-immortals.png)
+![AstroPaper I18n](/he-xiangu-one-of-the-eight-immortals.png)
 
 
 

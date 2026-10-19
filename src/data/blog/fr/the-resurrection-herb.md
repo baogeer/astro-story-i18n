@@ -8,7 +8,7 @@ description: "Liao Jingyi a été contraint par l'ordonnance du comté de recher
 
 
 
-![AstroPaper I18n](/public/the-resurrection-herb.png)
+![AstroPaper I18n](/the-resurrection-herb.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The three brothers continue to argue over whether the fish's life 
 
 
 
-![AstroPaper I18n](/public/where-is-the-fish-s-vital-spot.png)
+![AstroPaper I18n](/where-is-the-fish-s-vital-spot.png)
 
 
 

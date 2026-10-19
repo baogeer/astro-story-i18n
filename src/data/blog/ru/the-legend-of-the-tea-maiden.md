@@ -8,7 +8,7 @@ description: "Юная Аванг спасла чайную фею Мури Ли
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-tea-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-tea-maiden.png)
 
 
 

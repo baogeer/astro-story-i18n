@@ -8,7 +8,7 @@ description: "Wang Xiucai corrió al examen y lo robaron. Después de desaparece
 
 
 
-![AstroPaper I18n](/public/lu-ban-appears-to-scholar-wang-in-a-dream.png)
+![AstroPaper I18n](/lu-ban-appears-to-scholar-wang-in-a-dream.png)
 
 
 

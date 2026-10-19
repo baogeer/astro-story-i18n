@@ -8,7 +8,7 @@ description: "At the end of the Sui dynasty, an orphan girl with both talents in
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-shi-pavilion.png)
+![AstroPaper I18n](/the-legend-of-liu-shi-pavilion.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los altos maizales de Farmer fueron arruinados por un grupo de mis
 
 
 
-![AstroPaper I18n](/public/the-legend-of-horse-wolf-mountain.png)
+![AstroPaper I18n](/the-legend-of-horse-wolf-mountain.png)
 
 
 

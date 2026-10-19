@@ -8,7 +8,7 @@ description: "La princesa tibetana fue engañada por una criada, y los trillizos
 
 
 
-![AstroPaper I18n](/public/mindilin-the-magic-bird.png)
+![AstroPaper I18n](/mindilin-the-magic-bird.png)
 
 
 

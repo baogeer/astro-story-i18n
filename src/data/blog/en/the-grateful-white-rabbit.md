@@ -8,7 +8,7 @@ description: "Li Wan, a firewood slayer, once shot an evil wolf and saved a rabb
 
 
 
-![AstroPaper I18n](/public/the-grateful-white-rabbit.png)
+![AstroPaper I18n](/the-grateful-white-rabbit.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بينما كانت قبيلة Huaxiu تهاجر، فقد اليا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-yak.png)
+![AstroPaper I18n](/the-legend-of-the-white-yak.png)
 
 
 

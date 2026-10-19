@@ -8,7 +8,7 @@ description: "Pendant les années Jiaqing, les voleurs sévissaient à Xiangyang
 
 
 
-![AstroPaper I18n](/public/to-wage-war.png)
+![AstroPaper I18n](/to-wage-war.png)
 
 
 

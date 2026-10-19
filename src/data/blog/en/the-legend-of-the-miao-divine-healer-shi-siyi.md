@@ -8,7 +8,7 @@ description: "Shiyi, a Miao god doctor, went to heaven to seek immortality. When
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-divine-healer-shi-siyi.png)
+![AstroPaper I18n](/the-legend-of-the-miao-divine-healer-shi-siyi.png)
 
 
 

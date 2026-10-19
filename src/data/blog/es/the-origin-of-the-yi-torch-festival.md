@@ -8,7 +8,7 @@ description: "El héroe yi, Abu, quitó la «Xia» del demonio y lo atrapó en l
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-yi-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-yi-torch-festival.png)
 
 
 

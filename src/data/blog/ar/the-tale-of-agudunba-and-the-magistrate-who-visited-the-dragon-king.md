@@ -8,7 +8,7 @@ description: "تم شنق أغوتومبا تحت جسر من قبل مونيم�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
+![AstroPaper I18n](/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
 
 
 

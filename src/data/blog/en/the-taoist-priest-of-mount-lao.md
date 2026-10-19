@@ -8,7 +8,7 @@ description: "Scholar Wang Qi went to Laoshan to learn how. He couldn't bear the
 
 
 
-![AstroPaper I18n](/public/the-taoist-priest-of-mount-lao.png)
+![AstroPaper I18n](/the-taoist-priest-of-mount-lao.png)
 
 
 

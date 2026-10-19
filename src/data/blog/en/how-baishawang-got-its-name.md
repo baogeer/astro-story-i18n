@@ -8,7 +8,7 @@ description: "Yang Liulang was ordered to fight the bandits. In order to protect
 
 
 
-![AstroPaper I18n](/public/how-baishawang-got-its-name.png)
+![AstroPaper I18n](/how-baishawang-got-its-name.png)
 
 
 

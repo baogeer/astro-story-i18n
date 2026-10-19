@@ -8,7 +8,7 @@ description: "قام شان ليانغ وزوجته بزراعة بطيخ شتو
 
 
 
-![AstroPaper I18n](/public/the-legend-of-guan-mountain.png)
+![AstroPaper I18n](/the-legend-of-guan-mountain.png)
 
 
 

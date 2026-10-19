@@ -8,7 +8,7 @@ description: "Фестиваль народных факелов Йи Лии о�
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-limi-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-limi-yi-people.png)
 
 
 

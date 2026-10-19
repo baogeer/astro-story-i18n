@@ -8,7 +8,7 @@ description: "Au cours du Nouvel An de demain, le célèbre personnage de Hangzh
 
 
 
-![AstroPaper I18n](/public/a-night-of-romance-by-west-lake.png)
+![AstroPaper I18n](/a-night-of-romance-by-west-lake.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Los hijos de la familia rica llevaron al repartidor de libros a Be
 
 
 
-![AstroPaper I18n](/public/the-day-the-yellow-ox-and-black-ox-fought.png)
+![AstroPaper I18n](/the-day-the-yellow-ox-and-black-ox-fought.png)
 
 
 

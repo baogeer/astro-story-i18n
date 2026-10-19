@@ -8,7 +8,7 @@ description: "Yang Zhuangyuan tried to resign unsuccessfully, and was gambled to
 
 
 
-![AstroPaper I18n](/public/the-yi-folktale-of-top-scholar-yang-s-homecoming.png)
+![AstroPaper I18n](/the-yi-folktale-of-top-scholar-yang-s-homecoming.png)
 
 
 

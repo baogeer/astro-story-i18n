@@ -8,7 +8,7 @@ description: "إن ابنة زوجة وانغ جياجوانغ الذكية قا
 
 
 
-![AstroPaper I18n](/public/invalid-api-key-for-details-please-view-302-ai.png)
+![AstroPaper I18n](/invalid-api-key-for-details-please-view-302-ai.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Li Hua from Changzhou got old and got killed by the evil monk Suk 
 
 
 
-![AstroPaper I18n](/public/zhu-er.png)
+![AstroPaper I18n](/zhu-er.png)
 
 
 

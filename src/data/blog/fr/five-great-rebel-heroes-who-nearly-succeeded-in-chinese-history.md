@@ -8,7 +8,7 @@ description: "Les héros décontractés Chen Sheng, Zhang Jiao, Huang Chao, Li Z
 
 
 
-![AstroPaper I18n](/public/five-great-rebel-heroes-who-nearly-succeeded-in-chinese-history.png)
+![AstroPaper I18n](/five-great-rebel-heroes-who-nearly-succeeded-in-chinese-history.png)
 
 
 

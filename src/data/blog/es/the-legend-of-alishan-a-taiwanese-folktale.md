@@ -8,7 +8,7 @@ description: "Ali luchó contra el tigre para salvar a las dos hadas e hirió po
 
 
 
-![AstroPaper I18n](/public/the-legend-of-alishan-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-legend-of-alishan-a-taiwanese-folktale.png)
 
 
 

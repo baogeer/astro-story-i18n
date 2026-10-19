@@ -8,7 +8,7 @@ description: "Sous la dynastie Qing, un fonctionnaire du comté de Dongping, dan
 
 
 
-![AstroPaper I18n](/public/never-dig-within-three-feet-of-a-grave.png)
+![AstroPaper I18n](/never-dig-within-three-feet-of-a-grave.png)
 
 
 

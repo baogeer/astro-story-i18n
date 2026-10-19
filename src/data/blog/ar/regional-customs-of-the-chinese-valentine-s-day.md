@@ -8,7 +8,7 @@ description: "تاناباتا هو عيد الحب الصيني التقليد�
 
 
 
-![AstroPaper I18n](/public/regional-customs-of-the-chinese-valentine-s-day.png)
+![AstroPaper I18n](/regional-customs-of-the-chinese-valentine-s-day.png)
 
 
 

@@ -8,7 +8,7 @@ description: "بعد أن دمر تشو وو ووانغ شانغ، أُمر جي
 
 
 
-![AstroPaper I18n](/public/the-death-of-daji.png)
+![AstroPaper I18n](/the-death-of-daji.png)
 
 
 

@@ -8,7 +8,7 @@ description: "من أجل وليمة زونغبن البخيلة للشعب، ت
 
 
 
-![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+![AstroPaper I18n](/the-stingy-magistrate-s-banquet.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The girl who cut firewood in Lengtao Village got pregnant by eatin
 
 
 
-![AstroPaper I18n](/public/the-dragon-mother-of-the-bai-people.png)
+![AstroPaper I18n](/the-dragon-mother-of-the-bai-people.png)
 
 
 

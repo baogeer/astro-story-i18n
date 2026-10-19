@@ -8,7 +8,7 @@ description: "La leyenda del río Amarillo cuenta la historia del dragón del ci
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river.png)
 
 
 

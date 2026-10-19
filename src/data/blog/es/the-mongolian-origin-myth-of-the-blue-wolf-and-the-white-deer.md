@@ -8,7 +8,7 @@ description: "Según la leyenda del origen del pueblo mongol, un lobo azul y un 
 
 
 
-![AstroPaper I18n](/public/the-mongolian-origin-myth-of-the-blue-wolf-and-the-white-deer.png)
+![AstroPaper I18n](/the-mongolian-origin-myth-of-the-blue-wolf-and-the-white-deer.png)
 
 
 

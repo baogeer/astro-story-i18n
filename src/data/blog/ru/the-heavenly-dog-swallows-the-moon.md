@@ -8,7 +8,7 @@ description: "Мать Му Ляня использовала приготовл
 
 
 
-![AstroPaper I18n](/public/the-heavenly-dog-swallows-the-moon.png)
+![AstroPaper I18n](/the-heavenly-dog-swallows-the-moon.png)
 
 
 

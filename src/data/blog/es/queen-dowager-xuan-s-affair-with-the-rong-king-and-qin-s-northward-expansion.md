@@ -8,7 +8,7 @@ description: "La madre de la reina Qin Zhaowang, la emperatriz viuda Xuan (Mian 
 
 
 
-![AstroPaper I18n](/public/queen-dowager-xuan-s-affair-with-the-rong-king-and-qin-s-northward-expansion.png)
+![AstroPaper I18n](/queen-dowager-xuan-s-affair-with-the-rong-king-and-qin-s-northward-expansion.png)
 
 
 

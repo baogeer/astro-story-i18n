@@ -8,7 +8,7 @@ description: "نشأ المهرجان المائي من الإخوة الثلا�
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-shui-duan-festival.png)
+![AstroPaper I18n](/the-origin-of-the-shui-duan-festival.png)
 
 
 

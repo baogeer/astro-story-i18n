@@ -8,7 +8,7 @@ description: "L'année de Gengzi, les forces alliées des huit nations ont attaq
 
 
 
-![AstroPaper I18n](/public/the-empress-dowager-cixi-flees-in-the-face-of-battle.png)
+![AstroPaper I18n](/the-empress-dowager-cixi-flees-in-the-face-of-battle.png)
 
 
 

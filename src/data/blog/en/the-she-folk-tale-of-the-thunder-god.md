@@ -8,7 +8,7 @@ description: "Chen Hong, the Orion from Leizhou, relied on a nine-eared dog to c
 
 
 
-![AstroPaper I18n](/public/the-she-folk-tale-of-the-thunder-god.png)
+![AstroPaper I18n](/the-she-folk-tale-of-the-thunder-god.png)
 
 
 

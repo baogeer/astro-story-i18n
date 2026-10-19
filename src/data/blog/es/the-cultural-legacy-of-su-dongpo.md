@@ -8,7 +8,7 @@ description: "Su Dongpo fue criticado muchas veces a lo largo de su vida, pero s
 
 
 
-![AstroPaper I18n](/public/the-cultural-legacy-of-su-dongpo.png)
+![AstroPaper I18n](/the-cultural-legacy-of-su-dongpo.png)
 
 
 

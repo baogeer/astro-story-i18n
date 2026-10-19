@@ -8,7 +8,7 @@ description: "Una hermana de Xiangxi se enamoró de Ge Chai a primera vista. Al 
 
 
 
-![AstroPaper I18n](/public/the-love-charm.png)
+![AstroPaper I18n](/the-love-charm.png)
 
 
 

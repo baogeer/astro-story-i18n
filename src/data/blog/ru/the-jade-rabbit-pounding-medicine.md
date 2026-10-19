@@ -8,7 +8,7 @@ description: "Легенда гласит, что в Цукимии есть к�
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-pounding-medicine.png)
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
 
 
 

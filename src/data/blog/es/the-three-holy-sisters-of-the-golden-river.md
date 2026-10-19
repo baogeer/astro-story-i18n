@@ -8,7 +8,7 @@ description: "Las tres hijas del rey Longwang del río Jinsha se vieron afectada
 
 
 
-![AstroPaper I18n](/public/the-three-holy-sisters-of-the-golden-river.png)
+![AstroPaper I18n](/the-three-holy-sisters-of-the-golden-river.png)
 
 
 

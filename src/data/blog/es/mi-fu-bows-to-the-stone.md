@@ -8,7 +8,7 @@ description: "Cuando estaba sirviendo en el ejército de Wuwei, escuchó que hab
 
 
 
-![AstroPaper I18n](/public/mi-fu-bows-to-the-stone.png)
+![AstroPaper I18n](/mi-fu-bows-to-the-stone.png)
 
 
 

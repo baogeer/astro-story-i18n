@@ -8,7 +8,7 @@ description: "Legend has it that the Golden Man brought a sacred cow, a treasure
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-the-golden-man-who-helped-build-the-great-wall.png)
 
 
 

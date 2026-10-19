@@ -8,7 +8,7 @@ description: "فصل لاباك آية وغابي ألانج الفوضى وخل
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-hongdie-midie-creating-heaven-and-earth.png)
+![AstroPaper I18n](/the-hani-tale-of-hongdie-midie-creating-heaven-and-earth.png)
 
 
 

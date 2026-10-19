@@ -8,7 +8,7 @@ description: "Wang Yuyun, une célèbre célébrité de la fin de la dynastie Qi
 
 
 
-![AstroPaper I18n](/public/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
+![AstroPaper I18n](/hua-yanfang-the-jade-beauty-s-spring-breeze-lament.png)
 
 
 

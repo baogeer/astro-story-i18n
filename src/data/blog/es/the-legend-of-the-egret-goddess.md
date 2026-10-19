@@ -8,7 +8,7 @@ description: "La diosa Shirasagi se sintió atraída por el sonido del piano del
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-egret-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-egret-goddess.png)
 
 
 

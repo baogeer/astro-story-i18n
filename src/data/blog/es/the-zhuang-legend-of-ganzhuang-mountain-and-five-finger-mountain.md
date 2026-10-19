@@ -8,7 +8,7 @@ description: "Brotto y Milocia crearon todo bajo las órdenes del emperador Feng
 
 
 
-![AstroPaper I18n](/public/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
+![AstroPaper I18n](/the-zhuang-legend-of-ganzhuang-mountain-and-five-finger-mountain.png)
 
 
 

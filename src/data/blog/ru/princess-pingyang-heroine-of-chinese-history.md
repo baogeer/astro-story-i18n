@@ -8,7 +8,7 @@ description: "В конце Суя Тан Гаозу и Ли Юань созда
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-heroine-of-chinese-history.png)
+![AstroPaper I18n](/princess-pingyang-heroine-of-chinese-history.png)
 
 
 

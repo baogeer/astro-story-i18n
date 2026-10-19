@@ -8,7 +8,7 @@ description: "Lao Zhang n'écoute pas les enseignements de son père lorsqu'il p
 
 
 
-![AstroPaper I18n](/public/why-the-carp-of-the-five-dragon-river-never-dwindle.png)
+![AstroPaper I18n](/why-the-carp-of-the-five-dragon-river-never-dwindle.png)
 
 
 

@@ -8,7 +8,7 @@ description: "اصطحب هوي مينغ جميع الرهبان إلى معبد
 
 
 
-![AstroPaper I18n](/public/the-burning-lamp-temple.png)
+![AstroPaper I18n](/the-burning-lamp-temple.png)
 
 
 

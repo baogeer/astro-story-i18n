@@ -8,7 +8,7 @@ description: "Huangdi s'est dirigé vers le sud jusqu'à la gorge de Canglong. C
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-emperor-s-ascent-from-dinghu-peak.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-emperor-s-ascent-from-dinghu-peak.png)
 
 
 

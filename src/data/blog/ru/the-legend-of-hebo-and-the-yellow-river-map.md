@@ -8,7 +8,7 @@ description: "Фэн И утонул в Хуанхэ в поисках нарц�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-hebo-and-the-yellow-river-map.png)
+![AstroPaper I18n](/the-legend-of-hebo-and-the-yellow-river-map.png)
 
 
 

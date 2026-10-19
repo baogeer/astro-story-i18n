@@ -8,7 +8,7 @@ description: "Le Hani Mother Festival est l'œuvre d'une veuve qui a travaillé 
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-hani-mother-worship-festival.png)
+![AstroPaper I18n](/the-origin-of-the-hani-mother-worship-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Когда Гун Гун находился в провинции 
 
 
 
-![AstroPaper I18n](/public/zeng-gong-in-qizhou.png)
+![AstroPaper I18n](/zeng-gong-in-qizhou.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Eid al-Adha is an Eid al-Adha for ethnic groups such as the Hui an
 
 
 
-![AstroPaper I18n](/public/muslim-customs-of-eid-al-adha.png)
+![AstroPaper I18n](/muslim-customs-of-eid-al-adha.png)
 
 
 

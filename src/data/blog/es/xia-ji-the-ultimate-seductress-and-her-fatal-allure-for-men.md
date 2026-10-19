@@ -8,7 +8,7 @@ description: "La bella mujer de Chunqiu, Xia Ji, es naturalmente hermosa y se ve
 
 
 
-![AstroPaper I18n](/public/xia-ji-the-ultimate-seductress-and-her-fatal-allure-for-men.png)
+![AstroPaper I18n](/xia-ji-the-ultimate-seductress-and-her-fatal-allure-for-men.png)
 
 
 

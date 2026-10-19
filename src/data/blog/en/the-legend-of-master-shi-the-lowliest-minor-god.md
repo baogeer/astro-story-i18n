@@ -8,7 +8,7 @@ description: "Grandpa Shi is good at wine and dares to speak. He doesn't believe
 
 
 
-![AstroPaper I18n](/public/the-legend-of-master-shi-the-lowliest-minor-god.png)
+![AstroPaper I18n](/the-legend-of-master-shi-the-lowliest-minor-god.png)
 
 
 

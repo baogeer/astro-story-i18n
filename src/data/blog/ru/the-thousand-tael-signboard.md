@@ -8,7 +8,7 @@ description: "Босс Цзинь из Тунчэна был скуп и уст�
 
 
 
-![AstroPaper I18n](/public/the-thousand-tael-signboard.png)
+![AstroPaper I18n](/the-thousand-tael-signboard.png)
 
 
 

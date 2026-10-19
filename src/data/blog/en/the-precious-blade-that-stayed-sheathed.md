@@ -8,7 +8,7 @@ description: "Blacksmith Guan Ziming has an ancestral sword. Although he never p
 
 
 
-![AstroPaper I18n](/public/the-precious-blade-that-stayed-sheathed.png)
+![AstroPaper I18n](/the-precious-blade-that-stayed-sheathed.png)
 
 
 

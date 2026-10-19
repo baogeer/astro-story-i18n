@@ -8,7 +8,7 @@ description: "Dans le nord de Wei, en raison de la vieillesse de son père, Mula
 
 
 
-![AstroPaper I18n](/public/mulan-joins-the-army.png)
+![AstroPaper I18n](/mulan-joins-the-army.png)
 
 
 

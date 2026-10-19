@@ -8,7 +8,7 @@ description: "Qiu Gong ne croyait pas en la fée renardxa0; après avoir fait se
 
 
 
-![AstroPaper I18n](/public/the-fox-immortal-s-revenge.png)
+![AstroPaper I18n](/the-fox-immortal-s-revenge.png)
 
 
 

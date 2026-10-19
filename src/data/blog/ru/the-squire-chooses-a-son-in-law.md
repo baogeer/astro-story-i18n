@@ -8,7 +8,7 @@ description: "Когда-то иностранный работник хотел
 
 
 
-![AstroPaper I18n](/public/the-squire-chooses-a-son-in-law.png)
+![AstroPaper I18n](/the-squire-chooses-a-son-in-law.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The Weaver saved the Buyei people and bravely fought against Evil 
 
 
 
-![AstroPaper I18n](/public/the-bouyei-legend-of-fairy-maiden-mountain.png)
+![AstroPaper I18n](/the-bouyei-legend-of-fairy-maiden-mountain.png)
 
 
 

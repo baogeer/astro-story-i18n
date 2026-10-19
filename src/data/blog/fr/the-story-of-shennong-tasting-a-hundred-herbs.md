@@ -8,7 +8,7 @@ description: "Afin de soulager les souffrances de la population, M. Shennong a p
 
 
 
-![AstroPaper I18n](/public/the-story-of-shennong-tasting-a-hundred-herbs.png)
+![AstroPaper I18n](/the-story-of-shennong-tasting-a-hundred-herbs.png)
 
 
 

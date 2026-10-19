@@ -8,7 +8,7 @@ description: "تحدى نيو، وهو حرفي ماهر تحت جبل كانغ�
 
 
 
-![AstroPaper I18n](/public/snow-geese-to-the-rescue-in-the-snowy-mountains.png)
+![AstroPaper I18n](/snow-geese-to-the-rescue-in-the-snowy-mountains.png)
 
 
 

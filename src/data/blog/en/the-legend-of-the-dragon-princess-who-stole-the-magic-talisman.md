@@ -8,7 +8,7 @@ description: "Qin Shi Huang disrupted the sea with fairy talismans in search of 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
+![AstroPaper I18n](/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
 
 
 

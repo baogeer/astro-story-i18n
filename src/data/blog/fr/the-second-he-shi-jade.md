@@ -8,7 +8,7 @@ description: "Quand Bai Jingkuan était jeune, il a laissé seul son partenaire 
 
 
 
-![AstroPaper I18n](/public/the-second-he-shi-jade.png)
+![AstroPaper I18n](/the-second-he-shi-jade.png)
 
 
 

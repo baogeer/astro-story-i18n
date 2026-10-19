@@ -8,7 +8,7 @@ description: "في ليلة ممطرة، لجأت تشون باو من المط�
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lantian-jade.png)
+![AstroPaper I18n](/the-tale-of-lantian-jade.png)
 
 
 

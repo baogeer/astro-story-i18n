@@ -8,7 +8,7 @@ description: "The girl from the Buyei ethnic group who was good at batik was ser
 
 
 
-![AstroPaper I18n](/public/the-bouyei-folk-tale-of-the-fern-sprout.png)
+![AstroPaper I18n](/the-bouyei-folk-tale-of-the-fern-sprout.png)
 
 
 

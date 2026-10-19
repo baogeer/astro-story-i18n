@@ -8,7 +8,7 @@ description: "The donkey hoof monk hid black donkey hooves in his left hand and 
 
 
 
-![AstroPaper I18n](/public/the-donkey-hoof-monk.png)
+![AstroPaper I18n](/the-donkey-hoof-monk.png)
 
 
 

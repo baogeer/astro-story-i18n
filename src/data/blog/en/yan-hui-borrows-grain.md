@@ -8,7 +8,7 @@ description: "Confucius's mentors and apprentices went out of food, and Zilu was
 
 
 
-![AstroPaper I18n](/public/yan-hui-borrows-grain.png)
+![AstroPaper I18n](/yan-hui-borrows-grain.png)
 
 
 

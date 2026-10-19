@@ -8,7 +8,7 @@ description: "Торговец коровами вывел корову из х�
 
 
 
-![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
 
 
 

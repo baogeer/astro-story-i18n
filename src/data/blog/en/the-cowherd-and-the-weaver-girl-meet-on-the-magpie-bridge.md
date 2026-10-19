@@ -8,7 +8,7 @@ description: "The cowherd was abused by his sister-in-law. Thanks to the help of
 
 
 
-![AstroPaper I18n](/public/the-cowherd-and-the-weaver-girl-meet-on-the-magpie-bridge.png)
+![AstroPaper I18n](/the-cowherd-and-the-weaver-girl-meet-on-the-magpie-bridge.png)
 
 
 

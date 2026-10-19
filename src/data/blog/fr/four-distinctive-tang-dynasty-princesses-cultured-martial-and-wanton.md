@@ -8,7 +8,7 @@ description: "Chacune des quatre princesses uniques de la dynastie Tang a ses pr
 
 
 
-![AstroPaper I18n](/public/four-distinctive-tang-dynasty-princesses-cultured-martial-and-wanton.png)
+![AstroPaper I18n](/four-distinctive-tang-dynasty-princesses-cultured-martial-and-wanton.png)
 
 
 

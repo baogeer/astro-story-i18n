@@ -8,7 +8,7 @@ description: "После насильственной смерти челове�
 
 
 
-![AstroPaper I18n](/public/the-monk-s-sin.png)
+![AstroPaper I18n](/the-monk-s-sin.png)
 
 
 

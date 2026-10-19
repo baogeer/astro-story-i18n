@@ -8,7 +8,7 @@ description: "The three agreed not to get to the bottom of the matter in small t
 
 
 
-![AstroPaper I18n](/public/the-nonsense-wager.png)
+![AstroPaper I18n](/the-nonsense-wager.png)
 
 
 

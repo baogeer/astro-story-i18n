@@ -8,7 +8,7 @@ description: "من أجل إنقاذ الناس، اتبع الزوجان الص
 
 
 
-![AstroPaper I18n](/public/yala-shoots-the-moon.png)
+![AstroPaper I18n](/yala-shoots-the-moon.png)
 
 
 

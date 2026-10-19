@@ -8,7 +8,7 @@ description: "Jurang et sa mère sont tombées amoureuses et se sont enfuies, et
 
 
 
-![AstroPaper I18n](/public/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
+![AstroPaper I18n](/the-dong-folk-love-story-of-zhulang-and-niangmei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La légende raconte qu'une femme le long du fleuve Yangyi, dans le
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
+![AstroPaper I18n](/the-legend-of-the-straw-hat-man-of-the-yangbi-yi-people.png)
 
 
 

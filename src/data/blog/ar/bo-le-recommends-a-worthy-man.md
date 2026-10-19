@@ -8,7 +8,7 @@ description: "بول كبير في السن وأوصى صديقه جيوفانغ
 
 
 
-![AstroPaper I18n](/public/bo-le-recommends-a-worthy-man.png)
+![AstroPaper I18n](/bo-le-recommends-a-worthy-man.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La montagne escarpée était aride et l'eau était rare. Changfame
 
 
 
-![AstroPaper I18n](/public/the-dong-legend-of-the-long-haired-girl-bai-re.png)
+![AstroPaper I18n](/the-dong-legend-of-the-long-haired-girl-bai-re.png)
 
 
 

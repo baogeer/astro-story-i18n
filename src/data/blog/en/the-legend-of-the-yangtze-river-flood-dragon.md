@@ -8,7 +8,7 @@ description: "The legend of the Yangtze River “walking jiao” says that the s
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangtze-river-flood-dragon.png)
+![AstroPaper I18n](/the-legend-of-the-yangtze-river-flood-dragon.png)
 
 
 

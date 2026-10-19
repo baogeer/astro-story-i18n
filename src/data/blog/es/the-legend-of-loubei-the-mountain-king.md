@@ -8,7 +8,7 @@ description: "Los cazadores de Yi son parias. Son ciegos por naturaleza y extrem
 
 
 
-![AstroPaper I18n](/public/the-legend-of-loubei-the-mountain-king.png)
+![AstroPaper I18n](/the-legend-of-loubei-the-mountain-king.png)
 
 
 

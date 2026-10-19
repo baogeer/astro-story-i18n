@@ -8,7 +8,7 @@ description: "On the night of the Mid-Autumn Festival in the Tang dynasty, the f
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moon-cassia-peak.png)
+![AstroPaper I18n](/the-legend-of-moon-cassia-peak.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Wu Qi était un militaire dans les Royaumes combattants et a servi
 
 
 
-![AstroPaper I18n](/public/the-cold-blooded-general-wu-qi.png)
+![AstroPaper I18n](/the-cold-blooded-general-wu-qi.png)
 
 
 

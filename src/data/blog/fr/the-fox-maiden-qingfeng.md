@@ -8,7 +8,7 @@ description: "Geng s'est déchaîné et est devenu fou. Il est entré par effrac
 
 
 
-![AstroPaper I18n](/public/the-fox-maiden-qingfeng.png)
+![AstroPaper I18n](/the-fox-maiden-qingfeng.png)
 
 
 

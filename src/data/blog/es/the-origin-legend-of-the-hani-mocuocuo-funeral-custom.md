@@ -8,7 +8,7 @@ description: "El pueblo hani celebró un gran funeral «no frotes» por los anci
 
 
 
-![AstroPaper I18n](/public/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
+![AstroPaper I18n](/the-origin-legend-of-the-hani-mocuocuo-funeral-custom.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Prince Qi of the East China Sea Dragon's Unicorn turned into a bea
 
 
 
-![AstroPaper I18n](/public/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
+![AstroPaper I18n](/jiaojiao-cleverly-slays-the-one-horned-dragon.png)
 
 
 

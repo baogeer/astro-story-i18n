@@ -8,7 +8,7 @@ description: "Когда младший брат вырос, он стал ис�
 
 
 
-![AstroPaper I18n](/public/the-green-smoke-monster.png)
+![AstroPaper I18n](/the-green-smoke-monster.png)
 
 
 

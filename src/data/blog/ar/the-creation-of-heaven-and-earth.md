@@ -8,7 +8,7 @@ description: "تم توجيه بانغو من قبل العراف لمطاردة
 
 
 
-![AstroPaper I18n](/public/the-creation-of-heaven-and-earth.png)
+![AstroPaper I18n](/the-creation-of-heaven-and-earth.png)
 
 
 

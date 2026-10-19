@@ -8,7 +8,7 @@ description: "قامت الأرملة يو نيانغ بتربية ابنتها 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-yu-niang-of-huizhou.png)
+![AstroPaper I18n](/the-tale-of-yu-niang-of-huizhou.png)
 
 
 

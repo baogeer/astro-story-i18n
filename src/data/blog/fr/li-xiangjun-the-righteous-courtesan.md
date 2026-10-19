@@ -8,7 +8,7 @@ description: "Bien que Li Xiangjun soit chanteuse et prostituée à Qinglou, ell
 
 
 
-![AstroPaper I18n](/public/li-xiangjun-the-righteous-courtesan.png)
+![AstroPaper I18n](/li-xiangjun-the-righteous-courtesan.png)
 
 
 

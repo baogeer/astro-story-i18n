@@ -8,7 +8,7 @@ description: "Panjiu was originally a Tengu star and turned into a dragon dog in
 
 
 
-![AstroPaper I18n](/public/the-she-folktale-of-king-panhu-and-the-third-princess.png)
+![AstroPaper I18n](/the-she-folktale-of-king-panhu-and-the-third-princess.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La pauvre érudite Jang Jin s'est rendue à son beau-père Kim Jae
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
+![AstroPaper I18n](/the-legend-of-the-carp-spirit-s-love-for-a-poor-scholar.png)
 
 
 

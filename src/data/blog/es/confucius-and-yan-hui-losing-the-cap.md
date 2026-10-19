@@ -8,7 +8,7 @@ description: "Yan Hui discutió con el comprador si 38 tenía 23 o 24 años, apo
 
 
 
-![AstroPaper I18n](/public/confucius-and-yan-hui-losing-the-cap.png)
+![AstroPaper I18n](/confucius-and-yan-hui-losing-the-cap.png)
 
 
 

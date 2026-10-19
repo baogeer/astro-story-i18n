@@ -8,7 +8,7 @@ description: "There are 100 characters of Sanskrit on the rock wall in Huizhou. 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
+![AstroPaper I18n](/the-legend-of-the-golden-carrying-pole-in-huizhou.png)
 
 
 

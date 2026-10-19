@@ -8,7 +8,7 @@ description: "Le garçon a été jeté dans une grotte profonde par le roi à ca
 
 
 
-![AstroPaper I18n](/public/the-dragon-maiden-cuomei.png)
+![AstroPaper I18n](/the-dragon-maiden-cuomei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Il y a longtemps, il y a eu un entraînement Huanglong à la sorti
 
 
 
-![AstroPaper I18n](/public/the-legend-of-twin-dragon-gorge.png)
+![AstroPaper I18n](/the-legend-of-twin-dragon-gorge.png)
 
 
 

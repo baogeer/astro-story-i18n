@@ -8,7 +8,7 @@ description: "On a rainy night, Chun Bao sheltered from the rain and stayed alon
 
 
 
-![AstroPaper I18n](/public/the-tale-of-lantian-jade.png)
+![AstroPaper I18n](/the-tale-of-lantian-jade.png)
 
 
 

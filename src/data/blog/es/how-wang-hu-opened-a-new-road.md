@@ -8,7 +8,7 @@ description: "Para salir del callejón sin salida en el templo de Longhua, donde
 
 
 
-![AstroPaper I18n](/public/how-wang-hu-opened-a-new-road.png)
+![AstroPaper I18n](/how-wang-hu-opened-a-new-road.png)
 
 
 

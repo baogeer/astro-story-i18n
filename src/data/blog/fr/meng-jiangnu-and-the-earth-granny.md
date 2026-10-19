@@ -8,7 +8,7 @@ description: "Lady Meng Jiang a pleuré en disant que la Grande Muraille avait r
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-and-the-earth-granny.png)
+![AstroPaper I18n](/meng-jiangnu-and-the-earth-granny.png)
 
 
 

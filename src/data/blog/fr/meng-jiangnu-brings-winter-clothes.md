@@ -8,7 +8,7 @@ description: "Pendant la dynastie Qin, le mari de Meng Jiang, Wan Qiliang, a ét
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-brings-winter-clothes.png)
+![AstroPaper I18n](/meng-jiangnu-brings-winter-clothes.png)
 
 
 

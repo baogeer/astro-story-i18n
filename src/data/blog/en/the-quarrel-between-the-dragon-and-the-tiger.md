@@ -8,7 +8,7 @@ description: "The dragon and tiger fought against each other at the edge of a cl
 
 
 
-![AstroPaper I18n](/public/the-quarrel-between-the-dragon-and-the-tiger.png)
+![AstroPaper I18n](/the-quarrel-between-the-dragon-and-the-tiger.png)
 
 
 

@@ -8,7 +8,7 @@ description: "According to the legend of the Kunshan Noctilucent Peony, one is t
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-kunshan-night-glow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-kunshan-night-glow-peony.png)
 
 
 

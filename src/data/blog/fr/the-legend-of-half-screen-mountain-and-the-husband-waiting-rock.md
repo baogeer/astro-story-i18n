@@ -8,7 +8,7 @@ description: "La légende de la montagne Banping à Taïwan était à l'origine 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
+![AstroPaper I18n](/the-legend-of-half-screen-mountain-and-the-husband-waiting-rock.png)
 
 
 

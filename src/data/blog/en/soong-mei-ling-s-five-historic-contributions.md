@@ -8,7 +8,7 @@ description: "Song Meiling was an important woman in the Chinese political scene
 
 
 
-![AstroPaper I18n](/public/soong-mei-ling-s-five-historic-contributions.png)
+![AstroPaper I18n](/soong-mei-ling-s-five-historic-contributions.png)
 
 
 

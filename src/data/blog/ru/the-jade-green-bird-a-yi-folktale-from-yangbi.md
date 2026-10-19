@@ -8,7 +8,7 @@ description: "Отец Лу Гань тяжело болен. Её сестра-
 
 
 
-![AstroPaper I18n](/public/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
+![AstroPaper I18n](/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
 
 
 

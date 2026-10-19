@@ -8,7 +8,7 @@ description: "Outre les restes masculins, les restes de deux femmes ont égaleme
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-woman-buried-with-cao-cao.png)
+![AstroPaper I18n](/the-mystery-of-the-woman-buried-with-cao-cao.png)
 
 
 

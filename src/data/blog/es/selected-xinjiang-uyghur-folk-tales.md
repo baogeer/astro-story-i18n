@@ -8,7 +8,7 @@ description: "Avanti se enfrentó a dos preguntas: el viejo cazador preguntó si
 
 
 
-![AstroPaper I18n](/public/selected-xinjiang-uyghur-folk-tales.png)
+![AstroPaper I18n](/selected-xinjiang-uyghur-folk-tales.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Afin de retrouver Zhishui, l'orphelin Yi a sauvé la grenouille my
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yi-moon-lute.png)
+![AstroPaper I18n](/the-legend-of-the-yi-moon-lute.png)
 
 
 

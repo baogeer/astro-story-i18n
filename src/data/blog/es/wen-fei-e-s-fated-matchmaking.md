@@ -8,7 +8,7 @@ description: "Una mujer famosa se disfrazó de hombre en el examen y rindió hom
 
 
 
-![AstroPaper I18n](/public/wen-fei-e-s-fated-matchmaking.png)
+![AstroPaper I18n](/wen-fei-e-s-fated-matchmaking.png)
 
 
 

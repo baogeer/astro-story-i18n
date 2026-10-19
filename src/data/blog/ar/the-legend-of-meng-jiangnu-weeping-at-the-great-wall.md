@@ -8,7 +8,7 @@ description: "بعد ثلاثة أيام من زواج منغ جيانغ وفا�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-meng-jiangnu-weeping-at-the-great-wall.png)
+![AstroPaper I18n](/the-legend-of-meng-jiangnu-weeping-at-the-great-wall.png)
 
 
 

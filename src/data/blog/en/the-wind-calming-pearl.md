@@ -8,7 +8,7 @@ description: "The young man who cut firewood occasionally got Ding Feng Zhu and 
 
 
 
-![AstroPaper I18n](/public/the-wind-calming-pearl.png)
+![AstroPaper I18n](/the-wind-calming-pearl.png)
 
 
 

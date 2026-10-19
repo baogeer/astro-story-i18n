@@ -8,7 +8,7 @@ description: "En lo profundo del bosque, las hermanas Lilac y Lily rescataron a 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-flower-fairy.png)
+![AstroPaper I18n](/the-story-of-the-flower-fairy.png)
 
 
 

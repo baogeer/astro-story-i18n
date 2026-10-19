@@ -8,7 +8,7 @@ description: "В мифологии Цзинпо Джейн должна выр�
 
 
 
-![AstroPaper I18n](/public/the-jingpo-creation-myth.png)
+![AstroPaper I18n](/the-jingpo-creation-myth.png)
 
 
 

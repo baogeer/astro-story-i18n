@@ -8,7 +8,7 @@ description: "Su He is a little shepherd in Chahar Prairie. He adopted and caref
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-mongolian-horsehead-fiddle.png)
+![AstroPaper I18n](/the-origin-of-the-mongolian-horsehead-fiddle.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Сяо Яньцян во главе с императором Ля
 
 
 
-![AstroPaper I18n](/public/the-legend-of-fushan-dam.png)
+![AstroPaper I18n](/the-legend-of-fushan-dam.png)
 
 
 

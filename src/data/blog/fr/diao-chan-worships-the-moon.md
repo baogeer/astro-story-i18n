@@ -8,7 +8,7 @@ description: "√Ä la fin de la dynastie des Han de l'Est, Situ Wang Yun a utilis√
 
 
 
-![AstroPaper I18n](/public/diao-chan-worships-the-moon.png)
+![AstroPaper I18n](/diao-chan-worships-the-moon.png)
 
 
 

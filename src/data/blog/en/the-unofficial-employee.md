@@ -8,7 +8,7 @@ description: "The old man Charlie adopted an orangutan Genie at a small border s
 
 
 
-![AstroPaper I18n](/public/the-unofficial-employee.png)
+![AstroPaper I18n](/the-unofficial-employee.png)
 
 
 

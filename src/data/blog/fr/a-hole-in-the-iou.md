@@ -8,7 +8,7 @@ description: "Après avoir été licencié, Lao Geng a rencontré Zhang Fangzi, 
 
 
 
-![AstroPaper I18n](/public/a-hole-in-the-iou.png)
+![AstroPaper I18n](/a-hole-in-the-iou.png)
 
 
 

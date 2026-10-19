@@ -8,7 +8,7 @@ description: "Сюэи было поручено найти Ван Цянь, ж�
 
 
 
-![AstroPaper I18n](/public/a-touching-ghost-story-the-legend-of-the-underworld-consort.png)
+![AstroPaper I18n](/a-touching-ghost-story-the-legend-of-the-underworld-consort.png)
 
 
 

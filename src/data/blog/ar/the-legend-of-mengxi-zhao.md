@@ -8,7 +8,7 @@ description: "بكى الإمبراطور تشاويوان من أسرة تان�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-mengxi-zhao.png)
+![AstroPaper I18n](/the-legend-of-mengxi-zhao.png)
 
 
 

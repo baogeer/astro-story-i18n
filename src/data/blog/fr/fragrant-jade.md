@@ -8,7 +8,7 @@ description: "Huang Sheng a étudié au palais Qing sous le mont Laoshan et est 
 
 
 
-![AstroPaper I18n](/public/fragrant-jade.png)
+![AstroPaper I18n](/fragrant-jade.png)
 
 
 

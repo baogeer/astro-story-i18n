@@ -8,7 +8,7 @@ description: "Para salvar al médico que murió inocentemente porque el rey busc
 
 
 
-![AstroPaper I18n](/public/agudengba-and-the-king-who-wanted-to-be-young-again.png)
+![AstroPaper I18n](/agudengba-and-the-king-who-wanted-to-be-young-again.png)
 
 
 

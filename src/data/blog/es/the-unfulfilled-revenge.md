@@ -8,7 +8,7 @@ description: "Meng Jingui fue declarada culpable de robo. Huyó de la construcci
 
 
 
-![AstroPaper I18n](/public/the-unfulfilled-revenge.png)
+![AstroPaper I18n](/the-unfulfilled-revenge.png)
 
 
 

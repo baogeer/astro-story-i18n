@@ -8,7 +8,7 @@ description: "En la Puerta del Templo de Dongyue, los cóndores y los tigres mos
 
 
 
-![AstroPaper I18n](/public/the-eagle-tiger-god.png)
+![AstroPaper I18n](/the-eagle-tiger-god.png)
 
 
 

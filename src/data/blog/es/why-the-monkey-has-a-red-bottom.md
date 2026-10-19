@@ -8,7 +8,7 @@ description: "Érase una vez, un mono robó a una niña y dio a luz a un bebé m
 
 
 
-![AstroPaper I18n](/public/why-the-monkey-has-a-red-bottom.png)
+![AstroPaper I18n](/why-the-monkey-has-a-red-bottom.png)
 
 
 

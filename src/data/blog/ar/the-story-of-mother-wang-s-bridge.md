@@ -8,7 +8,7 @@ description: "قامت والدة وانغ ووانغ لاوهان ببناء ج
 
 
 
-![AstroPaper I18n](/public/the-story-of-mother-wang-s-bridge.png)
+![AstroPaper I18n](/the-story-of-mother-wang-s-bridge.png)
 
 
 

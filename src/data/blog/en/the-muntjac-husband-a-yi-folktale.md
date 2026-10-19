@@ -8,7 +8,7 @@ description: "My fiance, Ah Niu, went out to work and died in a car accident. Af
 
 
 
-![AstroPaper I18n](/public/the-muntjac-husband-a-yi-folktale.png)
+![AstroPaper I18n](/the-muntjac-husband-a-yi-folktale.png)
 
 
 

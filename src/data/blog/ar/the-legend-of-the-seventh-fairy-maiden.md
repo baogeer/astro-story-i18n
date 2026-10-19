@@ -8,7 +8,7 @@ description: "استخدمت الجنيات السبع نكتة الأم الم�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-seventh-fairy-maiden.png)
+![AstroPaper I18n](/the-legend-of-the-seventh-fairy-maiden.png)
 
 
 

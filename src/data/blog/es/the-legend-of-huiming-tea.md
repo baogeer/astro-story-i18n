@@ -8,7 +8,7 @@ description: "El monje Huiming cultivaba té desde el monte Emei hasta Jiansi en
 
 
 
-![AstroPaper I18n](/public/the-legend-of-huiming-tea.png)
+![AstroPaper I18n](/the-legend-of-huiming-tea.png)
 
 
 

@@ -8,7 +8,7 @@ description: "The winter solstice of the Song dynasty was regarded as a “Asian
 
 
 
-![AstroPaper I18n](/public/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
+![AstroPaper I18n](/folk-customs-of-new-year-s-eve-in-the-song-dynasty.png)
 
 
 

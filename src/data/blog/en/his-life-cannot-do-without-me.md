@@ -8,7 +8,7 @@ description: "Yu Guangzhong was asked why he didn't respond to Lee Ao's accusati
 
 
 
-![AstroPaper I18n](/public/his-life-cannot-do-without-me.png)
+![AstroPaper I18n](/his-life-cannot-do-without-me.png)
 
 
 

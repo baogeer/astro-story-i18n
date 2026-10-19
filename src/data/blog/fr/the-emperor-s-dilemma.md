@@ -8,7 +8,7 @@ description: "La visite privée de Qianlong à Jiangnan a coïncidé avec l'orga
 
 
 
-![AstroPaper I18n](/public/the-emperor-s-dilemma.png)
+![AstroPaper I18n](/the-emperor-s-dilemma.png)
 
 
 

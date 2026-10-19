@@ -8,7 +8,7 @@ description: "من أجل تأمين السلطة في الحريم، اتبعت
 
 
 
-![AstroPaper I18n](/public/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
+![AstroPaper I18n](/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
 
 
 

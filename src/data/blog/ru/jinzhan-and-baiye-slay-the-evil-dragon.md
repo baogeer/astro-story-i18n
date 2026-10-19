@@ -8,7 +8,7 @@ description: "В реке Цзюлун в Чжанчжоу водятся дра
 
 
 
-![AstroPaper I18n](/public/jinzhan-and-baiye-slay-the-evil-dragon.png)
+![AstroPaper I18n](/jinzhan-and-baiye-slay-the-evil-dragon.png)
 
 
 

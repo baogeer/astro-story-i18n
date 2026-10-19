@@ -8,7 +8,7 @@ description: "During the war in the Southern Song Dynasty, Lu Shunge, the daught
 
 
 
-![AstroPaper I18n](/public/lu-shunge-s-strange-love.png)
+![AstroPaper I18n](/lu-shunge-s-strange-love.png)
 
 
 

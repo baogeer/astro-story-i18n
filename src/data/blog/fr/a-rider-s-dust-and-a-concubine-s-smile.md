@@ -8,7 +8,7 @@ description: "Tang Xuanzong a parcouru des milliers de kilomètres pour transpor
 
 
 
-![AstroPaper I18n](/public/a-rider-s-dust-and-a-concubine-s-smile.png)
+![AstroPaper I18n](/a-rider-s-dust-and-a-concubine-s-smile.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Before his death, Bai Weng told his lazy son Dan Yin that silver w
 
 
 
-![AstroPaper I18n](/public/old-man-bai-s-buried-silver.png)
+![AstroPaper I18n](/old-man-bai-s-buried-silver.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Quand j'étais enfant, je regardais «xa0Yanchunxa0» à Jinan et 
 
 
 
-![AstroPaper I18n](/public/stealing-peaches.png)
+![AstroPaper I18n](/stealing-peaches.png)
 
 
 

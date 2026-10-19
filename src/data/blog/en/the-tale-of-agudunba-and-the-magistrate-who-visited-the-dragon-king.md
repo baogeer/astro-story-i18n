@@ -8,7 +8,7 @@ description: "Agutomba was hanged under a bridge by Munemoto, luring the evil kn
 
 
 
-![AstroPaper I18n](/public/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
+![AstroPaper I18n](/the-tale-of-agudunba-and-the-magistrate-who-visited-the-dragon-king.png)
 
 
 

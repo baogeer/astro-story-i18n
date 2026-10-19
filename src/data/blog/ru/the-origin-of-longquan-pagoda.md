@@ -8,7 +8,7 @@ description: "Легенда гласит, что все белые дракон
 
 
 
-![AstroPaper I18n](/public/the-origin-of-longquan-pagoda.png)
+![AstroPaper I18n](/the-origin-of-longquan-pagoda.png)
 
 
 

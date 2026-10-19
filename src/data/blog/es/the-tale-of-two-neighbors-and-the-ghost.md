@@ -8,7 +8,7 @@ description: "Rob fue cobarde e incomprendido por el diablo y arrojó la moneda 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-two-neighbors-and-the-ghost.png)
+![AstroPaper I18n](/the-tale-of-two-neighbors-and-the-ghost.png)
 
 
 

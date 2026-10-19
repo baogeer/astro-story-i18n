@@ -8,7 +8,7 @@ description: "Шестой Далай-Далай Цанъяо перевопло
 
 
 
-![AstroPaper I18n](/public/the-legend-of-milk-river.png)
+![AstroPaper I18n](/the-legend-of-milk-river.png)
 
 
 

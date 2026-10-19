@@ -8,7 +8,7 @@ description: "Чэнь Мяошан, династия Южная Сун, кра�
 
 
 
-![AstroPaper I18n](/public/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
+![AstroPaper I18n](/chen-miaochang-a-love-triangle-with-a-happy-ending.png)
 
 
 

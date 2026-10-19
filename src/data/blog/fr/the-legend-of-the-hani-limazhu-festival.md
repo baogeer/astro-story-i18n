@@ -8,7 +8,7 @@ description: "Le peuple Hani considère le coucou comme un «xa0heboamaxa0». La
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hani-limazhu-festival.png)
+![AstroPaper I18n](/the-legend-of-the-hani-limazhu-festival.png)
 
 
 

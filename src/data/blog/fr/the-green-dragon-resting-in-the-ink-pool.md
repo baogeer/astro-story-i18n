@@ -8,7 +8,7 @@ description: "En raison de la grande sécheresse qui sévissait à Caozhou, les 
 
 
 
-![AstroPaper I18n](/public/the-green-dragon-resting-in-the-ink-pool.png)
+![AstroPaper I18n](/the-green-dragon-resting-in-the-ink-pool.png)
 
 
 

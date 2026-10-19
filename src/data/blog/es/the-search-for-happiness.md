@@ -8,7 +8,7 @@ description: "Para encontrar la felicidad, los jóvenes maonanos preguntaron por
 
 
 
-![AstroPaper I18n](/public/the-search-for-happiness.png)
+![AstroPaper I18n](/the-search-for-happiness.png)
 
 
 

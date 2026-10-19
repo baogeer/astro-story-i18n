@@ -8,7 +8,7 @@ description: "The scholar Zhang Zhen stayed with her father-in-law's Jin family 
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-carp-maiden.png)
+![AstroPaper I18n](/the-tale-of-the-carp-maiden.png)
 
 
 

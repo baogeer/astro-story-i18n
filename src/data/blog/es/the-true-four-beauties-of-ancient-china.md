@@ -8,7 +8,7 @@ description: "El autor cuestionó que la mayoría de las cuatro bellezas tradici
 
 
 
-![AstroPaper I18n](/public/the-true-four-beauties-of-ancient-china.png)
+![AstroPaper I18n](/the-true-four-beauties-of-ancient-china.png)
 
 
 

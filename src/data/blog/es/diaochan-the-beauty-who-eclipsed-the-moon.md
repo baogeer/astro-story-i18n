@@ -8,7 +8,7 @@ description: "Al final de la dinastía Han del Este, Dong Zhuo era autoritario, 
 
 
 
-![AstroPaper I18n](/public/diaochan-the-beauty-who-eclipsed-the-moon.png)
+![AstroPaper I18n](/diaochan-the-beauty-who-eclipsed-the-moon.png)
 
 
 

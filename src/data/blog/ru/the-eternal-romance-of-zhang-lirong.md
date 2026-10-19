@@ -8,7 +8,7 @@ description: "Сунцзян Чжан Лижун и сын ее соседа Л�
 
 
 
-![AstroPaper I18n](/public/the-eternal-romance-of-zhang-lirong.png)
+![AstroPaper I18n](/the-eternal-romance-of-zhang-lirong.png)
 
 
 

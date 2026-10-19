@@ -8,7 +8,7 @@ description: "El millonario dejó un misterioso testamento en el que exigía una
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-will.png)
+![AstroPaper I18n](/the-mystery-of-the-will.png)
 
 
 

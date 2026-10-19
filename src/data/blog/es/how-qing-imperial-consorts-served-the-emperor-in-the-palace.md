@@ -8,7 +8,7 @@ description: "Todos los emperadores de la dinastía Qing fueron atendidos por el
 
 
 
-![AstroPaper I18n](/public/how-qing-imperial-consorts-served-the-emperor-in-the-palace.png)
+![AstroPaper I18n](/how-qing-imperial-consorts-served-the-emperor-in-the-palace.png)
 
 
 

@@ -8,7 +8,7 @@ description: "In order to get rid of the bandits, Huang Haisheng, a young Yi eth
 
 
 
-![AstroPaper I18n](/public/the-yangbi-yi-folktale-of-the-fuheng-yi-people-outwitting-bandits.png)
+![AstroPaper I18n](/the-yangbi-yi-folktale-of-the-fuheng-yi-people-outwitting-bandits.png)
 
 
 

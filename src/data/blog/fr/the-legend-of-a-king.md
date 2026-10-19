@@ -8,7 +8,7 @@ description: "Un berger de la vallée de la rivière Yalong au Tibet a découver
 
 
 
-![AstroPaper I18n](/public/the-legend-of-a-king.png)
+![AstroPaper I18n](/the-legend-of-a-king.png)
 
 
 

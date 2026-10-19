@@ -8,7 +8,7 @@ description: "El esposo mayor Zhang de Shanxi cruzó el río con su familia, y s
 
 
 
-![AstroPaper I18n](/public/old-master-zhang-and-the-giant-turtle.png)
+![AstroPaper I18n](/old-master-zhang-and-the-giant-turtle.png)
 
 
 

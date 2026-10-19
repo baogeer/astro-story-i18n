@@ -8,7 +8,7 @@ description: "Para asegurarse el poder en el harén, Shangguan Waner siguió pri
 
 
 
-![AstroPaper I18n](/public/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
+![AstroPaper I18n](/the-beautiful-chancellor-s-game-of-sexual-bribery.png)
 
 
 

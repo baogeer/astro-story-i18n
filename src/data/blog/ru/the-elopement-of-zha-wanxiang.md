@@ -8,7 +8,7 @@ description: "Ча Ван Сян и Ян Динлай, молодая женщи
 
 
 
-![AstroPaper I18n](/public/the-elopement-of-zha-wanxiang.png)
+![AstroPaper I18n](/the-elopement-of-zha-wanxiang.png)
 
 
 

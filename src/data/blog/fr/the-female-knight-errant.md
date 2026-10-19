@@ -8,7 +8,7 @@ description: "La famille de Gu Sheng est pauvre et une femme chevaleresque et sa
 
 
 
-![AstroPaper I18n](/public/the-female-knight-errant.png)
+![AstroPaper I18n](/the-female-knight-errant.png)
 
 
 

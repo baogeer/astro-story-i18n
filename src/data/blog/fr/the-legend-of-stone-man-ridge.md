@@ -8,7 +8,7 @@ description: "Hangzhou était autrefois une plage sèche et les habitants souffr
 
 
 
-![AstroPaper I18n](/public/the-legend-of-stone-man-ridge.png)
+![AstroPaper I18n](/the-legend-of-stone-man-ridge.png)
 
 
 

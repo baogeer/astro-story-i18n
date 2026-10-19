@@ -8,7 +8,7 @@ description: "In the three different texts, the cowherd, the second elementary s
 
 
 
-![AstroPaper I18n](/public/three-variants-of-the-cowherd-and-the-weaver-girl.png)
+![AstroPaper I18n](/three-variants-of-the-cowherd-and-the-weaver-girl.png)
 
 
 

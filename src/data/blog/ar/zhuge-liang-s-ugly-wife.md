@@ -8,7 +8,7 @@ description: "تزوج تشو جيليانغ من هوانغ شو، الابنة
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-s-ugly-wife.png)
+![AstroPaper I18n](/zhuge-liang-s-ugly-wife.png)
 
 
 

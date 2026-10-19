@@ -8,7 +8,7 @@ description: "كشف الجفاف الكبير في نهر اليانغتسي ع
 
 
 
-![AstroPaper I18n](/public/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
+![AstroPaper I18n](/the-bronze-coffin-chained-by-eighteen-iron-chains.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Lorsque Xuanyuan Huangdi est monté au paradis au pic Dinghu à Xi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+![AstroPaper I18n](/the-legend-of-jinyun-yellow-tea.png)
 
 
 

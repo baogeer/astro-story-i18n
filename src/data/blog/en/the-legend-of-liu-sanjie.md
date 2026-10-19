@@ -8,7 +8,7 @@ description: "Sister Liu was a singer from the Zhuang dynasty. She sang good son
 
 
 
-![AstroPaper I18n](/public/the-legend-of-liu-sanjie.png)
+![AstroPaper I18n](/the-legend-of-liu-sanjie.png)
 
 
 

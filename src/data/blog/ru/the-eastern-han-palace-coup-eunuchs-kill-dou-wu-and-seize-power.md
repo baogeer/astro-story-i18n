@@ -8,7 +8,7 @@ description: "В конце династии Восточная Хань сре�
 
 
 
-![AstroPaper I18n](/public/the-eastern-han-palace-coup-eunuchs-kill-dou-wu-and-seize-power.png)
+![AstroPaper I18n](/the-eastern-han-palace-coup-eunuchs-kill-dou-wu-and-seize-power.png)
 
 
 

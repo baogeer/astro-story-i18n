@@ -8,7 +8,7 @@ description: "Zuo Guangdou, an official of the Ming dynasty, followed the empero
 
 
 
-![AstroPaper I18n](/public/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
+![AstroPaper I18n](/the-story-of-zuo-guangdou-s-imperial-mission-to-root-out-treachery.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Qi Jiguang was born in Jiangmen, formed the Qi Jiajun and founded 
 
 
 
-![AstroPaper I18n](/public/qi-jiguang-the-invincible-general-who-crushed-invaders.png)
+![AstroPaper I18n](/qi-jiguang-the-invincible-general-who-crushed-invaders.png)
 
 
 

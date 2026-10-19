@@ -8,7 +8,7 @@ description: "El emperador Han Wen y el emperador Jing promovieron los dones lig
 
 
 
-![AstroPaper I18n](/public/the-enduring-legacy-of-the-wen-jing-era.png)
+![AstroPaper I18n](/the-enduring-legacy-of-the-wen-jing-era.png)
 
 
 

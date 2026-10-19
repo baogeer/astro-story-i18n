@@ -8,7 +8,7 @@ description: "Ah Qiao was forced by her mother to cut grass in the cold winter. 
 
 
 
-![AstroPaper I18n](/public/the-silkworm-maiden.png)
+![AstroPaper I18n](/the-silkworm-maiden.png)
 
 
 

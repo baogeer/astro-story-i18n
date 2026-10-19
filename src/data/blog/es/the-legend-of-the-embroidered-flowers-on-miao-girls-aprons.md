@@ -8,7 +8,7 @@ description: "En la antigüedad, una hermana y un hermano huérfanos dependían 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
+![AstroPaper I18n](/the-legend-of-the-embroidered-flowers-on-miao-girls-aprons.png)
 
 
 

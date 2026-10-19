@@ -8,7 +8,7 @@ description: "The Xincheng Wangjia has a groom with the surname Wang. He studied
 
 
 
-![AstroPaper I18n](/public/the-groom-who-ate-stones.png)
+![AstroPaper I18n](/the-groom-who-ate-stones.png)
 
 
 

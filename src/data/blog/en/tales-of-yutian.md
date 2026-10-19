@@ -8,7 +8,7 @@ description: "“Tamada Anecdote” is a folk story collected and collated by Li
 
 
 
-![AstroPaper I18n](/public/tales-of-yutian.png)
+![AstroPaper I18n](/tales-of-yutian.png)
 
 
 

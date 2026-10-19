@@ -8,7 +8,7 @@ description: "Emperor Tiandi's daughter Gou Su died after cutting off her finger
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-miao-lusheng.png)
+![AstroPaper I18n](/the-legend-of-the-miao-lusheng.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La despiadada madrastra diseñó a su hijastro para cultivar soja 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bird-called-jinboyang.png)
+![AstroPaper I18n](/the-legend-of-the-bird-called-jinboyang.png)
 
 
 

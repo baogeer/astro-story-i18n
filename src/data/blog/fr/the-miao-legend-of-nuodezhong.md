@@ -8,7 +8,7 @@ description: "Le vieil homme de Yangluo gardait les deux concombres et sa fille,
 
 
 
-![AstroPaper I18n](/public/the-miao-legend-of-nuodezhong.png)
+![AstroPaper I18n](/the-miao-legend-of-nuodezhong.png)
 
 
 

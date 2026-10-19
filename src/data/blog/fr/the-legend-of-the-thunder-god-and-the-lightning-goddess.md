@@ -8,7 +8,7 @@ description: "La mère électrique de Leigong est le mythique dieu mari et femme
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
 
 
 

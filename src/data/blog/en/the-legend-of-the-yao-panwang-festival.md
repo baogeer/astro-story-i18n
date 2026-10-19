@@ -8,7 +8,7 @@ description: "The Panwang Festival originates from an ancient Yao legend: it is 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yao-panwang-festival.png)
+![AstroPaper I18n](/the-legend-of-the-yao-panwang-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El Festival de las Antorchas del Pueblo de Yi Liyi se basa en dos 
 
 
 
-![AstroPaper I18n](/public/the-torch-festival-of-the-limi-yi-people.png)
+![AstroPaper I18n](/the-torch-festival-of-the-limi-yi-people.png)
 
 
 

@@ -8,7 +8,7 @@ description: "وقع الأمير شول في حب الراعية. تم إيقا
 
 
 
-![AstroPaper I18n](/public/the-tale-of-the-heart-linking-stream.png)
+![AstroPaper I18n](/the-tale-of-the-heart-linking-stream.png)
 
 
 

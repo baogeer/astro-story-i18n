@@ -8,7 +8,7 @@ description: "The origin of the “June 6” festival of the Buyei people: the a
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bouyei-june-sixth-festival.png)
+![AstroPaper I18n](/the-origin-of-the-bouyei-june-sixth-festival.png)
 
 
 

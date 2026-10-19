@@ -8,7 +8,7 @@ description: "Elle était à l'origine la princesse Dayi. Elle était à l'origi
 
 
 
-![AstroPaper I18n](/public/princess-dayi-s-screen-of-sorrow.png)
+![AstroPaper I18n](/princess-dayi-s-screen-of-sorrow.png)
 
 
 

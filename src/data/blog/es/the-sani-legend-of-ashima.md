@@ -8,7 +8,7 @@ description: "Ashima, una niña de la tribu Sani, es hermosa y trabajadora, y no
 
 
 
-![AstroPaper I18n](/public/the-sani-legend-of-ashima.png)
+![AstroPaper I18n](/the-sani-legend-of-ashima.png)
 
 
 

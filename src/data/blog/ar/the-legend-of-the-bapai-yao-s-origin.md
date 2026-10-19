@@ -8,7 +8,7 @@ description: "عاش أسلاف بابايياو في الأصل في هوجوا
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-bapai-yao-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-bapai-yao-s-origin.png)
 
 
 

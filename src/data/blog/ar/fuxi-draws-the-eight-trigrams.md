@@ -8,7 +8,7 @@ description: "في الصين القديمة، عاش فو شي مع شقيق و
 
 
 
-![AstroPaper I18n](/public/fuxi-draws-the-eight-trigrams.png)
+![AstroPaper I18n](/fuxi-draws-the-eight-trigrams.png)
 
 
 

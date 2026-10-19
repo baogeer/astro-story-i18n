@@ -8,7 +8,7 @@ description: "Zhu'e was forced to jump in a river and carry a rainbow to pick he
 
 
 
-![AstroPaper I18n](/public/the-bouyei-tale-of-yangang-and-zhue.png)
+![AstroPaper I18n](/the-bouyei-tale-of-yangang-and-zhue.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La niña que cortaba leña en la aldea de Lengtao quedó embarazad
 
 
 
-![AstroPaper I18n](/public/the-dragon-mother-of-the-bai-people.png)
+![AstroPaper I18n](/the-dragon-mother-of-the-bai-people.png)
 
 
 

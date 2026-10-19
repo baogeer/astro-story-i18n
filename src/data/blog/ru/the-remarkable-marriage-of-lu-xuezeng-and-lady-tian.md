@@ -8,7 +8,7 @@ description: "Однажды Лу Сюэ отправился к семье Юэ
 
 
 
-![AstroPaper I18n](/public/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
+![AstroPaper I18n](/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
 
 
 

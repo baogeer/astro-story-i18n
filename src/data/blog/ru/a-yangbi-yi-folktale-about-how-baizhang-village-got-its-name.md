@@ -8,7 +8,7 @@ description: "Деревня Байчжан в Янъи изначально н�
 
 
 
-![AstroPaper I18n](/public/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
+![AstroPaper I18n](/a-yangbi-yi-folktale-about-how-baizhang-village-got-its-name.png)
 
 
 

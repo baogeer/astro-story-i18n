@@ -8,7 +8,7 @@ description: "На фестивале персиков в Юхуанге Тие�
 
 
 
-![AstroPaper I18n](/public/the-true-words-on-the-stone-hollow-cliff.png)
+![AstroPaper I18n](/the-true-words-on-the-stone-hollow-cliff.png)
 
 
 

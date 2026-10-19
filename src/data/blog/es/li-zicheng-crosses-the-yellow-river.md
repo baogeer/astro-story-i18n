@@ -8,7 +8,7 @@ description: "Falta el texto de la historia y no se puede generar el resumen."
 
 
 
-![AstroPaper I18n](/public/li-zicheng-crosses-the-yellow-river.png)
+![AstroPaper I18n](/li-zicheng-crosses-the-yellow-river.png)
 
 
 

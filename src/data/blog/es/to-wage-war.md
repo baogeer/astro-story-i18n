@@ -8,7 +8,7 @@ description: "Durante los años de Jiaqing, los ladrones abundaban en Xiangyang.
 
 
 
-![AstroPaper I18n](/public/to-wage-war.png)
+![AstroPaper I18n](/to-wage-war.png)
 
 
 

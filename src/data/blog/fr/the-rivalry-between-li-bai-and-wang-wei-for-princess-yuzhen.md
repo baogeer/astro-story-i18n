@@ -8,7 +8,7 @@ description: "Sous la dynastie Tang, Li Bai et Wang Wei partageaient la princess
 
 
 
-![AstroPaper I18n](/public/the-rivalry-between-li-bai-and-wang-wei-for-princess-yuzhen.png)
+![AstroPaper I18n](/the-rivalry-between-li-bai-and-wang-wei-for-princess-yuzhen.png)
 
 
 

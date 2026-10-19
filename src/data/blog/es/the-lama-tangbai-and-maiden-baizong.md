@@ -8,7 +8,7 @@ description: "Lama Tang Baiqun, por otro lado, se vio obligado por el poderoso d
 
 
 
-![AstroPaper I18n](/public/the-lama-tangbai-and-maiden-baizong.png)
+![AstroPaper I18n](/the-lama-tangbai-and-maiden-baizong.png)
 
 
 

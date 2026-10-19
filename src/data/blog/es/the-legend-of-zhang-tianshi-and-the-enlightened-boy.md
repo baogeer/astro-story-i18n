@@ -8,7 +8,7 @@ description: "Zhang Tianshi rescató al huérfano y eligió un tesoro de Feng Sh
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Автор подводит итоги работы десяти �
 
 
 
-![AstroPaper I18n](/public/ten-great-chancellors-of-ancient-china.png)
+![AstroPaper I18n](/ten-great-chancellors-of-ancient-china.png)
 
 
 

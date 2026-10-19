@@ -8,7 +8,7 @@ description: "Le «xa0Lanting Prologuexa0» de la collection de Wangjiangzhai su
 
 
 
-![AstroPaper I18n](/public/the-deadly-calligraphy-scroll.png)
+![AstroPaper I18n](/the-deadly-calligraphy-scroll.png)
 
 
 

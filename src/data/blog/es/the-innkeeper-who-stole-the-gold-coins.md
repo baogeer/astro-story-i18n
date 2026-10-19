@@ -8,7 +8,7 @@ description: "Un pequeño comerciante guardó una bolsa de cebada que contenía 
 
 
 
-![AstroPaper I18n](/public/the-innkeeper-who-stole-the-gold-coins.png)
+![AstroPaper I18n](/the-innkeeper-who-stole-the-gold-coins.png)
 
 
 

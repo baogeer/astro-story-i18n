@@ -8,7 +8,7 @@ description: "Император Хань У приказал принцессе
 
 
 
-![AstroPaper I18n](/public/princess-jieyou-s-life-of-trials.png)
+![AstroPaper I18n](/princess-jieyou-s-life-of-trials.png)
 
 
 

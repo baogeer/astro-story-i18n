@@ -8,7 +8,7 @@ description: "Le fermier Lu Dongbin s'est rencontré alors que la route de Xiany
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-waist-supporting-stone.png)
+![AstroPaper I18n](/the-legend-of-the-waist-supporting-stone.png)
 
 
 

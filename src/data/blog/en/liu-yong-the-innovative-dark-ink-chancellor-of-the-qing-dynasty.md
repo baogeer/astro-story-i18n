@@ -8,7 +8,7 @@ description: "Liu Yong, a calligrapher from the Qing Dynasty, is known as the â€
 
 
 
-![AstroPaper I18n](/public/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
+![AstroPaper I18n](/liu-yong-the-innovative-dark-ink-chancellor-of-the-qing-dynasty.png)
 
 
 

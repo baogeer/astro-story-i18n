@@ -8,7 +8,7 @@ description: "Sue y yo rescatamos a un caballito blanco y dependen el uno del ot
 
 
 
-![AstroPaper I18n](/public/suhe-and-the-white-horse-the-origin-of-the-horsehead-fiddle.png)
+![AstroPaper I18n](/suhe-and-the-white-horse-the-origin-of-the-horsehead-fiddle.png)
 
 
 

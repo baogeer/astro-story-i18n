@@ -8,7 +8,7 @@ description: "وقعت مادونا الثلاثة في حب الإنسان لي
 
 
 
-![AstroPaper I18n](/public/the-magic-lotus-lantern.png)
+![AstroPaper I18n](/the-magic-lotus-lantern.png)
 
 
 

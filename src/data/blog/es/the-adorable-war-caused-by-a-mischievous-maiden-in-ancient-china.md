@@ -8,7 +8,7 @@ description: "Tsai Ji y Qi Huan Gong sacudieron el barco juguetonamente mientras
 
 
 
-![AstroPaper I18n](/public/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
+![AstroPaper I18n](/the-adorable-war-caused-by-a-mischievous-maiden-in-ancient-china.png)
 
 
 

@@ -8,7 +8,7 @@ description: "El apuesto adolescente kazajo Anders forma una familia feliz con l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-arasan-hot-spring.png)
+![AstroPaper I18n](/the-legend-of-the-arasan-hot-spring.png)
 
 
 

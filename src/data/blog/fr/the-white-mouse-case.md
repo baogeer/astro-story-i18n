@@ -8,7 +8,7 @@ description: "Il n'y a eu aucun incident à la jonction du comté de Tengxian so
 
 
 
-![AstroPaper I18n](/public/the-white-mouse-case.png)
+![AstroPaper I18n](/the-white-mouse-case.png)
 
 
 

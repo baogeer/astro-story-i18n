@@ -8,7 +8,7 @@ description: "Ву пристрастился к азартным играм. П
 
 
 
-![AstroPaper I18n](/public/the-ghost-gamble.png)
+![AstroPaper I18n](/the-ghost-gamble.png)
 
 
 

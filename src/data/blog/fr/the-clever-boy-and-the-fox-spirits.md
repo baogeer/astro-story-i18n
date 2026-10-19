@@ -8,7 +8,7 @@ description: "Pour sauver sa mère, ensorcelée par le démon renard, Jia Er, 10
 
 
 
-![AstroPaper I18n](/public/the-clever-boy-and-the-fox-spirits.png)
+![AstroPaper I18n](/the-clever-boy-and-the-fox-spirits.png)
 
 
 

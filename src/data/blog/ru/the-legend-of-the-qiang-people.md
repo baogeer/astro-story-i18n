@@ -8,7 +8,7 @@ description: "Му Цзечжу, предок племени Цян, влюби�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-qiang-people.png)
+![AstroPaper I18n](/the-legend-of-the-qiang-people.png)
 
 
 

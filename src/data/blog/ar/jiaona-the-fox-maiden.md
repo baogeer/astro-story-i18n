@@ -8,7 +8,7 @@ description: "ذهب الباحث كونغ شنغ إلى المنفى والتق
 
 
 
-![AstroPaper I18n](/public/jiaona-the-fox-maiden.png)
+![AstroPaper I18n](/jiaona-the-fox-maiden.png)
 
 
 

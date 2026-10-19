@@ -8,7 +8,7 @@ description: "Il y a eu de grandes sécheresses dans l'Antiquité et Huanglong a
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river-s-origin.png)
 
 
 

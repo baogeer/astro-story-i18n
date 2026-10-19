@@ -8,7 +8,7 @@ description: "Le patron Jin de Tongcheng était avare, et l'organisation d'un co
 
 
 
-![AstroPaper I18n](/public/the-thousand-tael-signboard.png)
+![AstroPaper I18n](/the-thousand-tael-signboard.png)
 
 
 

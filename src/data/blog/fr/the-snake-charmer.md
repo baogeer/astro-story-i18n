@@ -8,7 +8,7 @@ description: "Les chasseurs de serpents Donggun domestiquent le serpent bleu Erq
 
 
 
-![AstroPaper I18n](/public/the-snake-charmer.png)
+![AstroPaper I18n](/the-snake-charmer.png)
 
 
 

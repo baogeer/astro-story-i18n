@@ -8,7 +8,7 @@ description: "Wei Dagui, de la familia Zhuang, ofendió al emperador turco al ac
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-zhuang-double-third-festival.png)
+![AstroPaper I18n](/the-legend-of-the-zhuang-double-third-festival.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Un grupo de carpas del Mar de China Oriental saltó contra la Puer
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
+![AstroPaper I18n](/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
 
 
 

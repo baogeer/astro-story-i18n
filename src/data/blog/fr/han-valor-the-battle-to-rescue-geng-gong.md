@@ -8,7 +8,7 @@ description: "Au cours de la première année de l'empereur Zhang de la dynastie
 
 
 
-![AstroPaper I18n](/public/han-valor-the-battle-to-rescue-geng-gong.png)
+![AstroPaper I18n](/han-valor-the-battle-to-rescue-geng-gong.png)
 
 
 

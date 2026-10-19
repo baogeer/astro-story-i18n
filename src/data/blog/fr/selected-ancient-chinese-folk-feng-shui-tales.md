@@ -8,7 +8,7 @@ description: "Il existe de nombreuses merveilles du Feng Shui transmises dans le
 
 
 
-![AstroPaper I18n](/public/selected-ancient-chinese-folk-feng-shui-tales.png)
+![AstroPaper I18n](/selected-ancient-chinese-folk-feng-shui-tales.png)
 
 
 

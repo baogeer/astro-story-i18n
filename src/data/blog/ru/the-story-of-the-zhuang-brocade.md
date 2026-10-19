@@ -8,7 +8,7 @@ description: "Старая мать семьи Чжуан сплела крас�
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-zhuang-brocade.png)
+![AstroPaper I18n](/the-story-of-the-zhuang-brocade.png)
 
 
 

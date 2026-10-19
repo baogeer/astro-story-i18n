@@ -8,7 +8,7 @@ description: "آه سان، الابن الثالث لعامل مسن في مي�
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-san-the-miao-king.png)
+![AstroPaper I18n](/the-story-of-a-san-the-miao-king.png)
 
 
 

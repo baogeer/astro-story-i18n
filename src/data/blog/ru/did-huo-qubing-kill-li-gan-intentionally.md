@@ -8,7 +8,7 @@ description: "Ли Гань причинил вред Вэй Цину из-за 
 
 
 
-![AstroPaper I18n](/public/did-huo-qubing-kill-li-gan-intentionally.png)
+![AstroPaper I18n](/did-huo-qubing-kill-li-gan-intentionally.png)
 
 
 

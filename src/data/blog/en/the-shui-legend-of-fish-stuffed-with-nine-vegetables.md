@@ -8,7 +8,7 @@ description: "While the ancestors of the aquarium moved north, an old man gave a
 
 
 
-![AstroPaper I18n](/public/the-shui-legend-of-fish-stuffed-with-nine-vegetables.png)
+![AstroPaper I18n](/the-shui-legend-of-fish-stuffed-with-nine-vegetables.png)
 
 
 

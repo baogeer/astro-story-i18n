@@ -8,7 +8,7 @@ description: "In the late Qing dynasty, darts master Lu Lianju bumped into his b
 
 
 
-![AstroPaper I18n](/public/the-heart-kick.png)
+![AstroPaper I18n](/the-heart-kick.png)
 
 
 

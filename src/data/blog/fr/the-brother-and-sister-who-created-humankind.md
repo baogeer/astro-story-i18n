@@ -8,7 +8,7 @@ description: "Selon la légende de la tribu Yilao, Abouqug et Red Manxi étaient
 
 
 
-![AstroPaper I18n](/public/the-brother-and-sister-who-created-humankind.png)
+![AstroPaper I18n](/the-brother-and-sister-who-created-humankind.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Des légendes telles que «xa0Huit immortels traversant la merxa0�
 
 
 
-![AstroPaper I18n](/public/legends-of-the-eight-immortals-of-penglai.png)
+![AstroPaper I18n](/legends-of-the-eight-immortals-of-penglai.png)
 
 
 

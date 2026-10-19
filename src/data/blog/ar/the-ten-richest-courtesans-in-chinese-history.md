@@ -8,7 +8,7 @@ description: "تصنف هذه المقالة البغايا المشهورات �
 
 
 
-![AstroPaper I18n](/public/the-ten-richest-courtesans-in-chinese-history.png)
+![AstroPaper I18n](/the-ten-richest-courtesans-in-chinese-history.png)
 
 
 

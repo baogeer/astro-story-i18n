@@ -8,7 +8,7 @@ description: "Dong Shuangcheng was originally a beautiful woman picking peaches 
 
 
 
-![AstroPaper I18n](/public/the-queen-mother-of-the-west-and-her-peach-fairy.png)
+![AstroPaper I18n](/the-queen-mother-of-the-west-and-her-peach-fairy.png)
 
 
 

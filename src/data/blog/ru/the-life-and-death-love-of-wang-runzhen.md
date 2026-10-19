@@ -8,7 +8,7 @@ description: "Ван Руньчжэнь вышла замуж за семью Ш
 
 
 
-![AstroPaper I18n](/public/the-life-and-death-love-of-wang-runzhen.png)
+![AstroPaper I18n](/the-life-and-death-love-of-wang-runzhen.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Императору Цяньлуну приснилось, что
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-fragrant-concubine.png)
+![AstroPaper I18n](/the-story-of-the-fragrant-concubine.png)
 
 
 

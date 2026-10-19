@@ -8,7 +8,7 @@ description: "Bai Niang Zi and Xu Xian met at the West Lake Broken Bridge, becam
 
 
 
-![AstroPaper I18n](/public/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
+![AstroPaper I18n](/the-broken-bridge-love-story-of-lady-white-snake-and-xu-xian.png)
 
 
 

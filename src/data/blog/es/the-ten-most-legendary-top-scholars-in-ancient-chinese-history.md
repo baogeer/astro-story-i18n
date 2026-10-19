@@ -8,7 +8,7 @@ description: "La extraña historia de los diez ganadores: Zheng Hao se vio oblig
 
 
 
-![AstroPaper I18n](/public/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
 
 
 

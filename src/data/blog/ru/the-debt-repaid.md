@@ -8,7 +8,7 @@ description: "Цзян Маньцзы оставил нефтяной танке
 
 
 
-![AstroPaper I18n](/public/the-debt-repaid.png)
+![AstroPaper I18n](/the-debt-repaid.png)
 
 
 

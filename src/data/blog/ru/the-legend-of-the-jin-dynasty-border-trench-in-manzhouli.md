@@ -8,7 +8,7 @@ description: "Золотой солдат взял молодого монгол
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
+![AstroPaper I18n](/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
 
 
 

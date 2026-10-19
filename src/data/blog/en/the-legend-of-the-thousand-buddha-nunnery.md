@@ -8,7 +8,7 @@ description: "Jujube was framed when she complained for her husband. Her hair wa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-thousand-buddha-nunnery.png)
+![AstroPaper I18n](/the-legend-of-the-thousand-buddha-nunnery.png)
 
 
 

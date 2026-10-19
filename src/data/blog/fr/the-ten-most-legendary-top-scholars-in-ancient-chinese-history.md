@@ -8,7 +8,7 @@ description: "L'étrange histoire des dix gagnantsxa0: Zheng Hao a été forcée
 
 
 
-![AstroPaper I18n](/public/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
+![AstroPaper I18n](/the-ten-most-legendary-top-scholars-in-ancient-chinese-history.png)
 
 
 

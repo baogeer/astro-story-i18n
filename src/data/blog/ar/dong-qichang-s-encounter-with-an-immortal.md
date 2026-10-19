@@ -8,7 +8,7 @@ description: "واجه دونغ تشيتشانغ صعوبة في كتابة ال
 
 
 
-![AstroPaper I18n](/public/dong-qichang-s-encounter-with-an-immortal.png)
+![AstroPaper I18n](/dong-qichang-s-encounter-with-an-immortal.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В Тяньсине Чжацзы изначально был уд�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-white-sand-well.png)
+![AstroPaper I18n](/the-legend-of-the-white-sand-well.png)
 
 
 

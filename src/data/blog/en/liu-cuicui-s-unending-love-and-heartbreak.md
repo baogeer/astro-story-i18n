@@ -8,7 +8,7 @@ description: "Liu Cuicui and Jin Ding have been in love and married since childh
 
 
 
-![AstroPaper I18n](/public/liu-cuicui-s-unending-love-and-heartbreak.png)
+![AstroPaper I18n](/liu-cuicui-s-unending-love-and-heartbreak.png)
 
 
 

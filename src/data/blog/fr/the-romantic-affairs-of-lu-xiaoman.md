@@ -8,7 +8,7 @@ description: "Lu Xiaoman a d'abord épousé Wang Geng, puis est tombée amoureus
 
 
 
-![AstroPaper I18n](/public/the-romantic-affairs-of-lu-xiaoman.png)
+![AstroPaper I18n](/the-romantic-affairs-of-lu-xiaoman.png)
 
 
 

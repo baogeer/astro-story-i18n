@@ -8,7 +8,7 @@ description: "Les ancêtres de l'ethnie Qiang ont été contraints de migrer en 
 
 
 
-![AstroPaper I18n](/public/the-great-war-between-the-qiang-and-the-geji.png)
+![AstroPaper I18n](/the-great-war-between-the-qiang-and-the-geji.png)
 
 
 

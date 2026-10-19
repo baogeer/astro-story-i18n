@@ -8,7 +8,7 @@ description: "Li Jianchun utilizó su teoría pictórica para apreciar «Una ven
 
 
 
-![AstroPaper I18n](/public/du-fu-s-west-ridge-snow-scene.png)
+![AstroPaper I18n](/du-fu-s-west-ridge-snow-scene.png)
 
 
 

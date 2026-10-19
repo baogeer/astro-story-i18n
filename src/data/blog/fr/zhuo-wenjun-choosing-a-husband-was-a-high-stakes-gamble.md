@@ -8,7 +8,7 @@ description: "Zhuo Wenjun vient de devenir veuf. Sima Xiang est en train de choi
 
 
 
-![AstroPaper I18n](/public/zhuo-wenjun-choosing-a-husband-was-a-high-stakes-gamble.png)
+![AstroPaper I18n](/zhuo-wenjun-choosing-a-husband-was-a-high-stakes-gamble.png)
 
 
 

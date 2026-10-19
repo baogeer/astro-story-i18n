@@ -8,7 +8,7 @@ description: "اكتشف المستكشف باي فان أن صديقه سون �
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-the-hanging-coffins.png)
+![AstroPaper I18n](/the-mystery-of-the-hanging-coffins.png)
 
 
 

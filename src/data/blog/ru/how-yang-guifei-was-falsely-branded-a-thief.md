@@ -8,7 +8,7 @@ description: "На самом деле поэт династии Тан Чжан
 
 
 
-![AstroPaper I18n](/public/how-yang-guifei-was-falsely-branded-a-thief.png)
+![AstroPaper I18n](/how-yang-guifei-was-falsely-branded-a-thief.png)
 
 
 

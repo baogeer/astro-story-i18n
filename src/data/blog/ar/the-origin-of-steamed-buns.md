@@ -8,7 +8,7 @@ description: "خلال فترة الممالك الثلاث، غزا تشو جي
 
 
 
-![AstroPaper I18n](/public/the-origin-of-steamed-buns.png)
+![AstroPaper I18n](/the-origin-of-steamed-buns.png)
 
 
 

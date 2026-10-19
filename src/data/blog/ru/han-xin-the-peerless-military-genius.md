@@ -8,7 +8,7 @@ description: "В молодости Хань Синь подвергался у�
 
 
 
-![AstroPaper I18n](/public/han-xin-the-peerless-military-genius.png)
+![AstroPaper I18n](/han-xin-the-peerless-military-genius.png)
 
 
 

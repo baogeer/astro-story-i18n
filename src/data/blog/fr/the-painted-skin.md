@@ -8,7 +8,7 @@ description: "Wang Shenglu de Taiyuan a ramené à la maison une belle femme pou
 
 
 
-![AstroPaper I18n](/public/the-painted-skin.png)
+![AstroPaper I18n](/the-painted-skin.png)
 
 
 

@@ -8,7 +8,7 @@ description: "يمكن لشفاه سو مي، وهي امرأة غريبة من 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-su-meichun-s-miraculous-kiss.png)
+![AstroPaper I18n](/the-legend-of-su-meichun-s-miraculous-kiss.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Ван Вэйвэй сердито убил своего сове�
 
 
 
-![AstroPaper I18n](/public/men-who-raged-for-beauties-in-chinese-history.png)
+![AstroPaper I18n](/men-who-raged-for-beauties-in-chinese-history.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Afin de trouver le bonheur, les jeunes Maonans ont posé des quest
 
 
 
-![AstroPaper I18n](/public/the-search-for-happiness.png)
+![AstroPaper I18n](/the-search-for-happiness.png)
 
 
 

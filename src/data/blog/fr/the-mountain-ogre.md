@@ -8,7 +8,7 @@ description: "L'arrière-grand-père de Sun Taibai a passé la nuit au temple de
 
 
 
-![AstroPaper I18n](/public/the-mountain-ogre.png)
+![AstroPaper I18n](/the-mountain-ogre.png)
 
 
 

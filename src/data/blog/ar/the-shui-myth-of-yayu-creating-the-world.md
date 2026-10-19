@@ -8,7 +8,7 @@ description: "إلهة أحواض السمك قوية بشكل لا يصدق. ف
 
 
 
-![AstroPaper I18n](/public/the-shui-myth-of-yayu-creating-the-world.png)
+![AstroPaper I18n](/the-shui-myth-of-yayu-creating-the-world.png)
 
 
 

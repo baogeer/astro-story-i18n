@@ -8,7 +8,7 @@ description: "Pantai, a poor boy, saved the Goldfinch because of her kindness an
 
 
 
-![AstroPaper I18n](/public/the-diamond-maiden.png)
+![AstroPaper I18n](/the-diamond-maiden.png)
 
 
 

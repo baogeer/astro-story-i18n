@@ -8,7 +8,7 @@ description: "Yang Yuhuan was elected to the palace because she missed her homet
 
 
 
-![AstroPaper I18n](/public/the-beauty-who-shamed-the-flowers.png)
+![AstroPaper I18n](/the-beauty-who-shamed-the-flowers.png)
 
 
 

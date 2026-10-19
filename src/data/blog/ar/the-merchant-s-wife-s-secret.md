@@ -8,7 +8,7 @@ description: "اشتبه رجل الأعمال في أن زوجته كانت غ�
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-s-secret.png)
+![AstroPaper I18n](/the-merchant-s-wife-s-secret.png)
 
 
 

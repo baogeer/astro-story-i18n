@@ -8,7 +8,7 @@ description: "Mother Wang was very kind to the people and built two rice mountai
 
 
 
-![AstroPaper I18n](/public/the-heavenly-queen-mother-who-fed-the-people.png)
+![AstroPaper I18n](/the-heavenly-queen-mother-who-fed-the-people.png)
 
 
 

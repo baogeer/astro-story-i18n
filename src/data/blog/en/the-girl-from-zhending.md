@@ -8,7 +8,7 @@ description: "There must have been a 67-year-old daughter-in-law who became preg
 
 
 
-![AstroPaper I18n](/public/the-girl-from-zhending.png)
+![AstroPaper I18n](/the-girl-from-zhending.png)
 
 
 

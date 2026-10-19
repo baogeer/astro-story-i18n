@@ -8,7 +8,7 @@ description: "Un serviteur du temple Koroku-ji a rencontré une fée renard la n
 
 
 
-![AstroPaper I18n](/public/the-servant-and-the-fox-spirit.png)
+![AstroPaper I18n](/the-servant-and-the-fox-spirit.png)
 
 
 

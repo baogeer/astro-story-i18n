@@ -8,7 +8,7 @@ description: "Le pêcheur Tofu a été raillé pour avoir cassé le filet et a a
 
 
 
-![AstroPaper I18n](/public/the-fish-maiden.png)
+![AstroPaper I18n](/the-fish-maiden.png)
 
 
 

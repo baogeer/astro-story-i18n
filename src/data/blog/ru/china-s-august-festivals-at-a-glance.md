@@ -8,7 +8,7 @@ description: "В августе в Шэньчжоу проходит множе�
 
 
 
-![AstroPaper I18n](/public/china-s-august-festivals-at-a-glance.png)
+![AstroPaper I18n](/china-s-august-festivals-at-a-glance.png)
 
 
 

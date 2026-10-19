@@ -8,7 +8,7 @@ description: "La légende raconte que Liu Bangbing s'est enfui vers le village d
 
 
 
-![AstroPaper I18n](/public/the-legend-of-lady-qi-s-golden-skirt-peony.png)
+![AstroPaper I18n](/the-legend-of-lady-qi-s-golden-skirt-peony.png)
 
 
 

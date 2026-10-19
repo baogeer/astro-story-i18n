@@ -8,7 +8,7 @@ description: "La princesa Yongtai es hija de Tang Zhongzong y nieta de Wu Zetian
 
 
 
-![AstroPaper I18n](/public/the-mystery-of-princess-yongtai-s-death.png)
+![AstroPaper I18n](/the-mystery-of-princess-yongtai-s-death.png)
 
 
 

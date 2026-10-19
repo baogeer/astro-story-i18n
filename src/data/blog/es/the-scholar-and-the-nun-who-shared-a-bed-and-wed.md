@@ -8,7 +8,7 @@ description: "El erudito se enteró de que se encontró con una monja que se hac
 
 
 
-![AstroPaper I18n](/public/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
+![AstroPaper I18n](/the-scholar-and-the-nun-who-shared-a-bed-and-wed.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La noche del Festival del Medio Otoño de la dinastía Tang, el mo
 
 
 
-![AstroPaper I18n](/public/the-legend-of-moon-cassia-peak.png)
+![AstroPaper I18n](/the-legend-of-moon-cassia-peak.png)
 
 
 

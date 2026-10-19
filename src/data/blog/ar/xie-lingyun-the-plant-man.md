@@ -8,7 +8,7 @@ description: "نظرًا لأنها تحب نباتات المناظر الطب�
 
 
 
-![AstroPaper I18n](/public/xie-lingyun-the-plant-man.png)
+![AstroPaper I18n](/xie-lingyun-the-plant-man.png)
 
 
 

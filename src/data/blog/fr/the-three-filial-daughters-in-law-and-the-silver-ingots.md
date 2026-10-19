@@ -8,7 +8,7 @@ description: "Mme Wang est devenue veuve très jeune et a travaillé dur pour qu
 
 
 
-![AstroPaper I18n](/public/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
+![AstroPaper I18n](/the-three-filial-daughters-in-law-and-the-silver-ingots.png)
 
 
 

@@ -8,7 +8,7 @@ description: "La légende raconte que dans les temps anciens, il y avait neuf so
 
 
 
-![AstroPaper I18n](/public/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
+![AstroPaper I18n](/the-jingpo-tale-of-the-rooster-who-called-the-sun.png)
 
 
 

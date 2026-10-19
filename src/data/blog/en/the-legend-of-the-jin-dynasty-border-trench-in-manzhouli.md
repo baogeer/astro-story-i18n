@@ -8,7 +8,7 @@ description: "Battle, a young Mongolian, was taken by the Golden Soldier to buil
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
+![AstroPaper I18n](/the-legend-of-the-jin-dynasty-border-trench-in-manzhouli.png)
 
 
 

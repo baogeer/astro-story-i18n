@@ -8,7 +8,7 @@ description: "Xu Beihong a rompu la vieille tradition selon laquelle «xa0Les co
 
 
 
-![AstroPaper I18n](/public/the-story-of-xu-beihong-painting-pigs.png)
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
 
 
 

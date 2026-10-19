@@ -8,7 +8,7 @@ description: "Lu Xue est allé une fois dans la famille de Yue pour se faire emb
 
 
 
-![AstroPaper I18n](/public/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
+![AstroPaper I18n](/the-remarkable-marriage-of-lu-xuezeng-and-lady-tian.png)
 
 
 

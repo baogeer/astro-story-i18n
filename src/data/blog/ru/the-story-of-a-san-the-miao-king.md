@@ -8,7 +8,7 @@ description: "Ах Сан, третий сын пожилого рабочего
 
 
 
-![AstroPaper I18n](/public/the-story-of-a-san-the-miao-king.png)
+![AstroPaper I18n](/the-story-of-a-san-the-miao-king.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Para fijar la temporada agrícola, el joven hizo un reloj de sol y
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-spring-festival.png)
+![AstroPaper I18n](/the-legend-of-the-spring-festival.png)
 
 
 

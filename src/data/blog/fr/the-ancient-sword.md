@@ -8,7 +8,7 @@ description: "Le jeune épéiste a exercé ses compétences d'épée avec acharn
 
 
 
-![AstroPaper I18n](/public/the-ancient-sword.png)
+![AstroPaper I18n](/the-ancient-sword.png)
 
 
 

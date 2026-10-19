@@ -8,7 +8,7 @@ description: "Kier encontró una bola de dragón en el arroyo y accidentalmente 
 
 
 
-![AstroPaper I18n](/public/the-black-dragon.png)
+![AstroPaper I18n](/the-black-dragon.png)
 
 
 

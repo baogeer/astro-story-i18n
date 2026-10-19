@@ -8,7 +8,7 @@ description: "Lady Meng Jiang cried that the Great Wall had found her husband. S
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-and-the-earth-granny.png)
+![AstroPaper I18n](/meng-jiangnu-and-the-earth-granny.png)
 
 
 

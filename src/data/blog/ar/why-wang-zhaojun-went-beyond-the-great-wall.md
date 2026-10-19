@@ -8,7 +8,7 @@ description: "بعد دخول القصر، لم يكن من الممكن است�
 
 
 
-![AstroPaper I18n](/public/why-wang-zhaojun-went-beyond-the-great-wall.png)
+![AstroPaper I18n](/why-wang-zhaojun-went-beyond-the-great-wall.png)
 
 
 

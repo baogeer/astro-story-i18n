@@ -8,7 +8,7 @@ description: "Cuenta cuatro historias muy tristes: un veterano taiwanés que reg
 
 
 
-![AstroPaper I18n](/public/extreme-joy-begets-sorrow.png)
+![AstroPaper I18n](/extreme-joy-begets-sorrow.png)
 
 
 

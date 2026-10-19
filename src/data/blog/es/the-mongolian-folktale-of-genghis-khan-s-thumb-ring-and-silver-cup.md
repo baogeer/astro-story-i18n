@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que el leal hermano de Genghis Khan, Zamuhe, pla
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
+![AstroPaper I18n](/the-mongolian-folktale-of-genghis-khan-s-thumb-ring-and-silver-cup.png)
 
 
 

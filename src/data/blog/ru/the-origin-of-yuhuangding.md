@@ -8,7 +8,7 @@ description: "Эта история рассказывает историю пр
 
 
 
-![AstroPaper I18n](/public/the-origin-of-yuhuangding.png)
+![AstroPaper I18n](/the-origin-of-yuhuangding.png)
 
 
 

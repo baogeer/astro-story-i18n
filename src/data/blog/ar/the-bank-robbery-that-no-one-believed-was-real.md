@@ -8,7 +8,7 @@ description: "قامت مجموعة من اللصوص الذين تظاهروا 
 
 
 
-![AstroPaper I18n](/public/the-bank-robbery-that-no-one-believed-was-real.png)
+![AstroPaper I18n](/the-bank-robbery-that-no-one-believed-was-real.png)
 
 
 

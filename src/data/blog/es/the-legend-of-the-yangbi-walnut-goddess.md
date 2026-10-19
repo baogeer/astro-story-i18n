@@ -8,7 +8,7 @@ description: "Para que la gente de la etnia yi comiera nueces de cáscara gruesa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yangbi-walnut-goddess.png)
+![AstroPaper I18n](/the-legend-of-the-yangbi-walnut-goddess.png)
 
 
 

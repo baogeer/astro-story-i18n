@@ -8,7 +8,7 @@ description: "Когда мир только открылся, Нуоцян и �
 
 
 
-![AstroPaper I18n](/public/the-jingpo-myth-of-the-first-human-ancestors.png)
+![AstroPaper I18n](/the-jingpo-myth-of-the-first-human-ancestors.png)
 
 
 

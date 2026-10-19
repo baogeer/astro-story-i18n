@@ -8,7 +8,7 @@ description: "Le showman Wang Qihou a été empêtré par une femme laide. La fe
 
 
 
-![AstroPaper I18n](/public/the-temple-ghost.png)
+![AstroPaper I18n](/the-temple-ghost.png)
 
 
 

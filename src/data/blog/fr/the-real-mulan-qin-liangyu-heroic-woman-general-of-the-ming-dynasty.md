@@ -8,7 +8,7 @@ description: "Qin Liangyu était une femme générale à la fin de la dynastie M
 
 
 
-![AstroPaper I18n](/public/the-real-mulan-qin-liangyu-heroic-woman-general-of-the-ming-dynasty.png)
+![AstroPaper I18n](/the-real-mulan-qin-liangyu-heroic-woman-general-of-the-ming-dynasty.png)
 
 
 

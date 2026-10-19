@@ -8,7 +8,7 @@ description: "Tianbao a aidé les visiteurs à récupérer leurs bagues en or da
 
 
 
-![AstroPaper I18n](/public/tianbao-s-good-fortune.png)
+![AstroPaper I18n](/tianbao-s-good-fortune.png)
 
 
 

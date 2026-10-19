@@ -8,7 +8,7 @@ description: "Originalmente era la princesa Dayi. Originalmente era una Qianjin 
 
 
 
-![AstroPaper I18n](/public/princess-dayi-s-screen-of-sorrow.png)
+![AstroPaper I18n](/princess-dayi-s-screen-of-sorrow.png)
 
 
 

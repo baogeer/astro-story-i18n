@@ -8,7 +8,7 @@ description: "Après la mort de «xa0Axe Godxa0» Yan Wu, son apprenti aîné Ga
 
 
 
-![AstroPaper I18n](/public/gao-he-s-magic-axe.png)
+![AstroPaper I18n](/gao-he-s-magic-axe.png)
 
 
 

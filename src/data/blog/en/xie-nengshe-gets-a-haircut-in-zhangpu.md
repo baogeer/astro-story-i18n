@@ -8,7 +8,7 @@ description: "Xie Nengshe shaved off four yuan of money for the province. She ac
 
 
 
-![AstroPaper I18n](/public/xie-nengshe-gets-a-haircut-in-zhangpu.png)
+![AstroPaper I18n](/xie-nengshe-gets-a-haircut-in-zhangpu.png)
 
 
 

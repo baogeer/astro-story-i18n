@@ -8,7 +8,7 @@ description: "Hubo grandes sequías en la antigüedad, y Huanglong superó las l
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+![AstroPaper I18n](/the-legend-of-the-yellow-river-s-origin.png)
 
 
 

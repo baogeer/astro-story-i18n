@@ -8,7 +8,7 @@ description: "In order to relieve the flood, the hero of Buyi, Azu, plowed the g
 
 
 
-![AstroPaper I18n](/public/the-bouyei-myth-of-azu-plowing-the-land.png)
+![AstroPaper I18n](/the-bouyei-myth-of-azu-plowing-the-land.png)
 
 
 

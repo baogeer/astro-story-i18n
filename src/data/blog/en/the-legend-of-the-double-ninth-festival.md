@@ -8,7 +8,7 @@ description: "The teenager Jing Heng avenged the god of plague and spent ten yea
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-double-ninth-festival.png)
+![AstroPaper I18n](/the-legend-of-the-double-ninth-festival.png)
 
 
 

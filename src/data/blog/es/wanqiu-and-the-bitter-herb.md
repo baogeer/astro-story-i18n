@@ -8,7 +8,7 @@ description: "Wan Qiu fue elegido para el palacio y cegado por la consorte Zhen 
 
 
 
-![AstroPaper I18n](/public/wanqiu-and-the-bitter-herb.png)
+![AstroPaper I18n](/wanqiu-and-the-bitter-herb.png)
 
 
 

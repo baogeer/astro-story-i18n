@@ -8,7 +8,7 @@ description: "According to the legend of Longjing tea, the lonely old aunt cooke
 
 
 
-![AstroPaper I18n](/public/the-legend-of-dragon-well-tea.png)
+![AstroPaper I18n](/the-legend-of-dragon-well-tea.png)
 
 
 

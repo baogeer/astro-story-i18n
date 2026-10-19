@@ -8,7 +8,7 @@ description: "У Шуцзи, богатый бизнесмен из округа
 
 
 
-![AstroPaper I18n](/public/mao-ying-s-lawsuit.png)
+![AstroPaper I18n](/mao-ying-s-lawsuit.png)
 
 
 

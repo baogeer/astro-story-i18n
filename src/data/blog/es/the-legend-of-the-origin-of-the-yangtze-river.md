@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que en la antigüedad, había un pájaro gigante
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-origin-of-the-yangtze-river.png)
+![AstroPaper I18n](/the-legend-of-the-origin-of-the-yangtze-river.png)
 
 
 

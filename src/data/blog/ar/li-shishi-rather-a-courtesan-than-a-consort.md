@@ -8,7 +8,7 @@ description: "في مواجهة فرصة دخول القصر لتصبح محظي
 
 
 
-![AstroPaper I18n](/public/li-shishi-rather-a-courtesan-than-a-consort.png)
+![AstroPaper I18n](/li-shishi-rather-a-courtesan-than-a-consort.png)
 
 
 

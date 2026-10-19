@@ -8,7 +8,7 @@ description: "Handsome Kazakh teenager Anders forms a happy family with young gi
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-arasan-hot-spring.png)
+![AstroPaper I18n](/the-legend-of-the-arasan-hot-spring.png)
 
 
 

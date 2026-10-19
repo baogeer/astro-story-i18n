@@ -8,7 +8,7 @@ description: "Cuando Jia Xu hizo su primera aparición oficial, convenció a Li 
 
 
 
-![AstroPaper I18n](/public/the-three-kingdoms-strategist-whose-first-appearance-brought-lasting-infamy.png)
+![AstroPaper I18n](/the-three-kingdoms-strategist-whose-first-appearance-brought-lasting-infamy.png)
 
 
 

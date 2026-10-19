@@ -8,7 +8,7 @@ description: "جاء وي تشينغ من خلفية متواضعة. كانت ذ
 
 
 
-![AstroPaper I18n](/public/the-invincible-general-wei-qing-seven-victories-that-drove-the-xiongnu-away.png)
+![AstroPaper I18n](/the-invincible-general-wei-qing-seven-victories-that-drove-the-xiongnu-away.png)
 
 
 

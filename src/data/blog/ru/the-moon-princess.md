@@ -8,7 +8,7 @@ description: "У трех принцесс жестокой реки Хан на
 
 
 
-![AstroPaper I18n](/public/the-moon-princess.png)
+![AstroPaper I18n](/the-moon-princess.png)
 
 
 

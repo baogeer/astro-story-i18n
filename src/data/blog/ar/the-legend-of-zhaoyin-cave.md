@@ -8,7 +8,7 @@ description: "تم تكريس ثمانية تماثيل لأطباء السحر 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-zhaoyin-cave.png)
+![AstroPaper I18n](/the-legend-of-zhaoyin-cave.png)
 
 
 

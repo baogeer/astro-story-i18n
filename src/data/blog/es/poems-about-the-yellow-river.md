@@ -8,7 +8,7 @@ description: "Este breve ensayo es una colecci√≥n de poemas sobre el tema del r√
 
 
 
-![AstroPaper I18n](/public/poems-about-the-yellow-river.png)
+![AstroPaper I18n](/poems-about-the-yellow-river.png)
 
 
 

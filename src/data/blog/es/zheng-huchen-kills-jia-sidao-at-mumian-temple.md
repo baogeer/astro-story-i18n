@@ -8,7 +8,7 @@ description: "Jia Sidao, la traidora de la dinastía Song del Sur, confió en el
 
 
 
-![AstroPaper I18n](/public/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
+![AstroPaper I18n](/zheng-huchen-kills-jia-sidao-at-mumian-temple.png)
 
 
 

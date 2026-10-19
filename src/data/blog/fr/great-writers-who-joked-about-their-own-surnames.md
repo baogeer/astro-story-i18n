@@ -8,7 +8,7 @@ description: "Les auteurs Tang et Song tels que Du Fu, Liu Zongyuan, Su Shi et X
 
 
 
-![AstroPaper I18n](/public/great-writers-who-joked-about-their-own-surnames.png)
+![AstroPaper I18n](/great-writers-who-joked-about-their-own-surnames.png)
 
 
 

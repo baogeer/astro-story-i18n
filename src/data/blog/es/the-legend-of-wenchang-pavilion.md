@@ -8,7 +8,7 @@ description: "El campesino Bao Zhonggui y el maestro Zhou Liangqing eran origina
 
 
 
-![AstroPaper I18n](/public/the-legend-of-wenchang-pavilion.png)
+![AstroPaper I18n](/the-legend-of-wenchang-pavilion.png)
 
 
 

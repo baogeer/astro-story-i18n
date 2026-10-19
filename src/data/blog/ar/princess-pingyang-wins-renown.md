@@ -8,7 +8,7 @@ description: "الأميرة بينغيانغ هي ابنة تانغ قاوزو 
 
 
 
-![AstroPaper I18n](/public/princess-pingyang-wins-renown.png)
+![AstroPaper I18n](/princess-pingyang-wins-renown.png)
 
 
 

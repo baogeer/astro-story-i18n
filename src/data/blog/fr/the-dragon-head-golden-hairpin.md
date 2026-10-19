@@ -8,7 +8,7 @@ description: "Les frères Daro et Jiro du village de Tiao à Funayama ont pêch�
 
 
 
-![AstroPaper I18n](/public/the-dragon-head-golden-hairpin.png)
+![AstroPaper I18n](/the-dragon-head-golden-hairpin.png)
 
 
 

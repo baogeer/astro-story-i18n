@@ -8,7 +8,7 @@ description: "Afin de prendre feu et de retrouver son père, Azza, une jeune tri
 
 
 
-![AstroPaper I18n](/public/brave-aza-and-why-the-hani-people-call-fire-aza.png)
+![AstroPaper I18n](/brave-aza-and-why-the-hani-people-call-fire-aza.png)
 
 
 

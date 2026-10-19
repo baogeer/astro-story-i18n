@@ -8,7 +8,7 @@ description: "Бизнесмен заподозрил свою жену в не�
 
 
 
-![AstroPaper I18n](/public/the-merchant-s-wife-s-secret.png)
+![AstroPaper I18n](/the-merchant-s-wife-s-secret.png)
 
 
 

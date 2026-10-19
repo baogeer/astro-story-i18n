@@ -8,7 +8,7 @@ description: "Lorsque les trois sœurs ont creusé le sol, elles ont plaisanté 
 
 
 
-![AstroPaper I18n](/public/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
+![AstroPaper I18n](/a-bouyei-folk-tale-the-origin-of-frog-worship.png)
 
 
 

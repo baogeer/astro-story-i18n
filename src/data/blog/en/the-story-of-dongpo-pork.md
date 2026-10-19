@@ -8,7 +8,7 @@ description: "Su Dongpo manages West Lake in Hangzhou. The people sent pork to t
 
 
 
-![AstroPaper I18n](/public/the-story-of-dongpo-pork.png)
+![AstroPaper I18n](/the-story-of-dongpo-pork.png)
 
 
 

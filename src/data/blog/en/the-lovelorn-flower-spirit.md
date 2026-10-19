@@ -8,7 +8,7 @@ description: "Xiucai Yue Cheng bought the dead flower of infatuation, and the fl
 
 
 
-![AstroPaper I18n](/public/the-lovelorn-flower-spirit.png)
+![AstroPaper I18n](/the-lovelorn-flower-spirit.png)
 
 
 

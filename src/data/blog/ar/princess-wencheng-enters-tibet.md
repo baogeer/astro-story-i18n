@@ -8,7 +8,7 @@ description: "تزوجت الأميرة وينتشنغ من زامبو في تو
 
 
 
-![AstroPaper I18n](/public/princess-wencheng-enters-tibet.png)
+![AstroPaper I18n](/princess-wencheng-enters-tibet.png)
 
 
 

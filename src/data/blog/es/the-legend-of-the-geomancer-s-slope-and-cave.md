@@ -8,7 +8,7 @@ description: "Cuenta la leyenda que Liu Jiapo en Xinhuang tiene una «pendiente 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-geomancer-s-slope-and-cave.png)
+![AstroPaper I18n](/the-legend-of-the-geomancer-s-slope-and-cave.png)
 
 
 

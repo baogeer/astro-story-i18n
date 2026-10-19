@@ -8,7 +8,7 @@ description: "في أعماق الغابة، أنقذت الأختان ليلك 
 
 
 
-![AstroPaper I18n](/public/the-story-of-the-flower-fairy.png)
+![AstroPaper I18n](/the-story-of-the-flower-fairy.png)
 
 
 

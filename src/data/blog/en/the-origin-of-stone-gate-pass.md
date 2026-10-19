@@ -8,7 +8,7 @@ description: "After the defeat, the Big Black Dragon attempted to block the Yang
 
 
 
-![AstroPaper I18n](/public/the-origin-of-stone-gate-pass.png)
+![AstroPaper I18n](/the-origin-of-stone-gate-pass.png)
 
 
 

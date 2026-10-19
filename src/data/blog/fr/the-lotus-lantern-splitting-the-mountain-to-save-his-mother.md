@@ -8,7 +8,7 @@ description: "L'érudite Liu Yanchang est tombée amoureuse des Trois Nobles Mè
 
 
 
-![AstroPaper I18n](/public/the-lotus-lantern-splitting-the-mountain-to-save-his-mother.png)
+![AstroPaper I18n](/the-lotus-lantern-splitting-the-mountain-to-save-his-mother.png)
 
 
 

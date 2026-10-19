@@ -8,7 +8,7 @@ description: "La Sra. Wa, una general zhuang de la dinastía Ming, dirigió reci
 
 
 
-![AstroPaper I18n](/public/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
+![AstroPaper I18n](/the-beautiful-zhuang-woman-who-terrified-japanese-pirates.png)
 
 
 

@@ -8,7 +8,7 @@ description: "«King Sword» هي ماكينة حلاقة في مدينة تيا
 
 
 
-![AstroPaper I18n](/public/the-magic-razor-barber-vanquishes-the-invaders.png)
+![AstroPaper I18n](/the-magic-razor-barber-vanquishes-the-invaders.png)
 
 
 

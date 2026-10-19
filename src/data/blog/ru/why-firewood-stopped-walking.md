@@ -8,7 +8,7 @@ description: "Девушка из племени Дай влюбилась в м
 
 
 
-![AstroPaper I18n](/public/why-firewood-stopped-walking.png)
+![AstroPaper I18n](/why-firewood-stopped-walking.png)
 
 
 

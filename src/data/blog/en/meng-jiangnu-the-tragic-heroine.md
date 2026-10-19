@@ -8,7 +8,7 @@ description: "She became married to Meng Jiang when Wan Qiliang saw her bathing 
 
 
 
-![AstroPaper I18n](/public/meng-jiangnu-the-tragic-heroine.png)
+![AstroPaper I18n](/meng-jiangnu-the-tragic-heroine.png)
 
 
 

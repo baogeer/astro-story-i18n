@@ -8,7 +8,7 @@ description: "At the end of the Sui Dynasty, Luo Cheng of Wagangzhai used Gutou 
 
 
 
-![AstroPaper I18n](/public/luo-cheng-s-clever-stone-formation.png)
+![AstroPaper I18n](/luo-cheng-s-clever-stone-formation.png)
 
 
 

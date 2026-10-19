@@ -8,7 +8,7 @@ description: "Wu Xun ha mendigado desde pequeño y ha sufrido de analfabetismo, 
 
 
 
-![AstroPaper I18n](/public/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
+![AstroPaper I18n](/wu-xun-the-only-beggar-in-official-history-to-build-free-schools.png)
 
 
 

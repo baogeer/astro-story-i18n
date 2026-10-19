@@ -8,7 +8,7 @@ description: "Фестиваль Шэ основан на истории тре�
 
 
 
-![AstroPaper I18n](/public/the-legend-of-three-gao-brothers-and-the-she-people-s-spirit-inviting-festival.png)
+![AstroPaper I18n](/the-legend-of-three-gao-brothers-and-the-she-people-s-spirit-inviting-festival.png)
 
 
 

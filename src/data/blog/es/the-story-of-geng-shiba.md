@@ -8,7 +8,7 @@ description: "Geng, de 18 años, le preguntó a su esposa si había enviudado o 
 
 
 
-![AstroPaper I18n](/public/the-story-of-geng-shiba.png)
+![AstroPaper I18n](/the-story-of-geng-shiba.png)
 
 
 

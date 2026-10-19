@@ -8,7 +8,7 @@ description: "En la exposición, Xu Beihong vio que embajadores extranjeros comp
 
 
 
-![AstroPaper I18n](/public/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
+![AstroPaper I18n](/xu-beihong-snaps-up-the-portrait-of-consort-mei.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Чжао Баннин любит цветы, как и всю св
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-bangning-purple-peony.png)
+![AstroPaper I18n](/the-origin-of-the-bangning-purple-peony.png)
 
 
 

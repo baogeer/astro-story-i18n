@@ -8,7 +8,7 @@ description: "تحدى الشاب ليو جون شنغ المطر لرفع ال�
 
 
 
-![AstroPaper I18n](/public/the-green-peony-fairy.png)
+![AstroPaper I18n](/the-green-peony-fairy.png)
 
 
 

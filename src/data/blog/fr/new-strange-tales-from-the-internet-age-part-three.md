@@ -8,7 +8,7 @@ description: "«xa0New Liaozhai (3)xa0» rassemble cinq histoires étranges issu
 
 
 
-![AstroPaper I18n](/public/new-strange-tales-from-the-internet-age-part-three.png)
+![AstroPaper I18n](/new-strange-tales-from-the-internet-age-part-three.png)
 
 
 

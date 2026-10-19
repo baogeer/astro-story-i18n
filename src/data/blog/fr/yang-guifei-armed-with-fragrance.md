@@ -8,7 +8,7 @@ description: "Tang Xuanzong a rencontré Yang Yuhuan, qui avait une forte odeur 
 
 
 
-![AstroPaper I18n](/public/yang-guifei-armed-with-fragrance.png)
+![AstroPaper I18n](/yang-guifei-armed-with-fragrance.png)
 
 
 

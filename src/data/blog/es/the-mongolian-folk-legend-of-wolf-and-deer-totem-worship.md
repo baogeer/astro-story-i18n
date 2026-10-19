@@ -8,7 +8,7 @@ description: "Las leyendas mongolas reflejan el culto a los tótems de lobos y c
 
 
 
-![AstroPaper I18n](/public/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
+![AstroPaper I18n](/the-mongolian-folk-legend-of-wolf-and-deer-totem-worship.png)
 
 
 

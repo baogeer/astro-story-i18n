@@ -8,7 +8,7 @@ description: "Wu Qi recherchait la richesse. Adolescent, il s'est enfui après a
 
 
 
-![AstroPaper I18n](/public/wu-qi-shamelessly-abandons-mother-kills-wife-and-betrays-country-for-wealth.png)
+![AstroPaper I18n](/wu-qi-shamelessly-abandons-mother-kills-wife-and-betrays-country-for-wealth.png)
 
 
 

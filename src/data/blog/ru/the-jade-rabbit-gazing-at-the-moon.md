@@ -8,7 +8,7 @@ description: "Ю Ту украл странное место и был спас�
 
 
 
-![AstroPaper I18n](/public/the-jade-rabbit-gazing-at-the-moon.png)
+![AstroPaper I18n](/the-jade-rabbit-gazing-at-the-moon.png)
 
 
 

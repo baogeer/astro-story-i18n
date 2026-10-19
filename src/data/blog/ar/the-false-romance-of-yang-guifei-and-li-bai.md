@@ -8,7 +8,7 @@ description: "فارق السن بين يانغ جويفي وشي شيان لي 
 
 
 
-![AstroPaper I18n](/public/the-false-romance-of-yang-guifei-and-li-bai.png)
+![AstroPaper I18n](/the-false-romance-of-yang-guifei-and-li-bai.png)
 
 
 

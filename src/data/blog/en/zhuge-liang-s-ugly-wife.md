@@ -8,7 +8,7 @@ description: "Zhu Geliang married Huang Shuo, the ugly daughter of the famous pe
 
 
 
-![AstroPaper I18n](/public/zhuge-liang-s-ugly-wife.png)
+![AstroPaper I18n](/zhuge-liang-s-ugly-wife.png)
 
 
 

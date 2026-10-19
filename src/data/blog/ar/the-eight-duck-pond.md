@@ -8,7 +8,7 @@ description: "في البركة العميقة غرب جسر يون لونغ ف�
 
 
 
-![AstroPaper I18n](/public/the-eight-duck-pond.png)
+![AstroPaper I18n](/the-eight-duck-pond.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Shen Xuejun, brodeur de la fin de la dynastie Qing, possède d'exc
 
 
 
-![AstroPaper I18n](/public/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
+![AstroPaper I18n](/the-extramarital-affair-of-shen-xuejun-the-embroidery-saint.png)
 
 
 

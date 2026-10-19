@@ -8,7 +8,7 @@ description: "Para resistir las invasiones alienígenas, los antepasados de la t
 
 
 
-![AstroPaper I18n](/public/the-origin-of-the-maonan-torch-festival.png)
+![AstroPaper I18n](/the-origin-of-the-maonan-torch-festival.png)
 
 
 

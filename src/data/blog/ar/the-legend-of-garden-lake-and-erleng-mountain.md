@@ -8,7 +8,7 @@ description: "كان تشين إرين وزوجته لوتس حنونين في �
 
 
 
-![AstroPaper I18n](/public/the-legend-of-garden-lake-and-erleng-mountain.png)
+![AstroPaper I18n](/the-legend-of-garden-lake-and-erleng-mountain.png)
 
 
 

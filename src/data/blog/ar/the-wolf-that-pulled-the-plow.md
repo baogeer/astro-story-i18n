@@ -8,7 +8,7 @@ description: "عندما رأى مزارع في وسط سفح الجبل ذئب�
 
 
 
-![AstroPaper I18n](/public/the-wolf-that-pulled-the-plow.png)
+![AstroPaper I18n](/the-wolf-that-pulled-the-plow.png)
 
 
 

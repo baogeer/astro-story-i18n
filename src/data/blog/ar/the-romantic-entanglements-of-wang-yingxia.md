@@ -8,7 +8,7 @@ description: "بعد زواج وانغ ينغشيا ويو دوفو، حدث خ�
 
 
 
-![AstroPaper I18n](/public/the-romantic-entanglements-of-wang-yingxia.png)
+![AstroPaper I18n](/the-romantic-entanglements-of-wang-yingxia.png)
 
 
 

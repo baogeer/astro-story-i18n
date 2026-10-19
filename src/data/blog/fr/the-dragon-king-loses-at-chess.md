@@ -8,7 +8,7 @@ description: "Surnommé le «xa0monstre des échecs de la mer de Chine orientale
 
 
 
-![AstroPaper I18n](/public/the-dragon-king-loses-at-chess.png)
+![AstroPaper I18n](/the-dragon-king-loses-at-chess.png)
 
 
 

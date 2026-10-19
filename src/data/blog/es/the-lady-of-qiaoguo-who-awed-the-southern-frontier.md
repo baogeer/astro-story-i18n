@@ -8,7 +8,7 @@ description: "La Sra. Qiao Guo provenía de la tribu Lingnan. Se casó con Gao L
 
 
 
-![AstroPaper I18n](/public/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
+![AstroPaper I18n](/the-lady-of-qiaoguo-who-awed-the-southern-frontier.png)
 
 
 

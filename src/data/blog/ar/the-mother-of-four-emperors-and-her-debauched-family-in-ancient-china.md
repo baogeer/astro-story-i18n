@@ -8,7 +8,7 @@ description: "أنجبت الإمبراطورة الأرملة لو من شما�
 
 
 
-![AstroPaper I18n](/public/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
+![AstroPaper I18n](/the-mother-of-four-emperors-and-her-debauched-family-in-ancient-china.png)
 
 
 

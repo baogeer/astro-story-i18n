@@ -8,7 +8,7 @@ description: "À la fin de la dynastie Tang, Ying Gu est tombée amoureuse de Ha
 
 
 
-![AstroPaper I18n](/public/the-legend-of-maiden-mountain.png)
+![AstroPaper I18n](/the-legend-of-maiden-mountain.png)
 
 
 

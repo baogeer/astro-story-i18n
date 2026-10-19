@@ -8,7 +8,7 @@ description: "In order to recover her missing father and fire, Azza broke into S
 
 
 
-![AstroPaper I18n](/public/the-boy-who-searched-for-fire.png)
+![AstroPaper I18n](/the-boy-who-searched-for-fire.png)
 
 
 

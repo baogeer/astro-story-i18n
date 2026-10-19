@@ -8,7 +8,7 @@ description: "Liang Shanbo and Zhu Yingtai were originally born as the golden ch
 
 
 
-![AstroPaper I18n](/public/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
+![AstroPaper I18n](/the-bat-souls-of-liang-shanbo-and-zhu-yingtai-take-flight.png)
 
 
 

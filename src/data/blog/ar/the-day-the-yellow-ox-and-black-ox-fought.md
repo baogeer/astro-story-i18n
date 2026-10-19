@@ -8,7 +8,7 @@ description: "أحضر أطفال العائلة الغنية وكيل الكت�
 
 
 
-![AstroPaper I18n](/public/the-day-the-yellow-ox-and-black-ox-fought.png)
+![AstroPaper I18n](/the-day-the-yellow-ox-and-black-ox-fought.png)
 
 
 

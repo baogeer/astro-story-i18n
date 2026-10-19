@@ -8,7 +8,7 @@ description: "حصلت تشانغ يايوان، وهي مجموعة عرقية 
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-hundred-bird-robe.png)
+![AstroPaper I18n](/the-legend-of-the-hundred-bird-robe.png)
 
 
 

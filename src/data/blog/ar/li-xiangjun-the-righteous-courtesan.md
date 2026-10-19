@@ -8,7 +8,7 @@ description: "على الرغم من أن لي شيانغ جون مغنية وع
 
 
 
-![AstroPaper I18n](/public/li-xiangjun-the-righteous-courtesan.png)
+![AstroPaper I18n](/li-xiangjun-the-righteous-courtesan.png)
 
 
 

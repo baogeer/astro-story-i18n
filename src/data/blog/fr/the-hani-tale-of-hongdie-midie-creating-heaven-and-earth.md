@@ -8,7 +8,7 @@ description: "Labak Aya et Gabi Alang ont séparé le chaos et créé le ciel bl
 
 
 
-![AstroPaper I18n](/public/the-hani-tale-of-hongdie-midie-creating-heaven-and-earth.png)
+![AstroPaper I18n](/the-hani-tale-of-hongdie-midie-creating-heaven-and-earth.png)
 
 
 

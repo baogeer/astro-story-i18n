@@ -8,7 +8,7 @@ description: "Legend has it that all White Dragons from Tengxian County are stil
 
 
 
-![AstroPaper I18n](/public/the-origin-of-longquan-pagoda.png)
+![AstroPaper I18n](/the-origin-of-longquan-pagoda.png)
 
 
 

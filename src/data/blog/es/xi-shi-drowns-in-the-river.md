@@ -8,7 +8,7 @@ description: "En la historia de «Shih Tzu Shen Jiang», la bella mujer vietnami
 
 
 
-![AstroPaper I18n](/public/xi-shi-drowns-in-the-river.png)
+![AstroPaper I18n](/xi-shi-drowns-in-the-river.png)
 
 
 

@@ -8,7 +8,7 @@ description: "Legend has it that there is a pair of swallows inside the Rouyuan 
 
 
 
-![AstroPaper I18n](/public/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
+![AstroPaper I18n](/the-swallow-that-cried-when-the-stone-struck-the-wall.png)
 
 
 

@@ -8,7 +8,7 @@ description: "В древние времена на небе было шесть
 
 
 
-![AstroPaper I18n](/public/the-man-who-shot-down-five-suns.png)
+![AstroPaper I18n](/the-man-who-shot-down-five-suns.png)
 
 
 

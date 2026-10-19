@@ -8,7 +8,7 @@ description: "Cuando el hermano menor creció, fue a buscar a su hermana, a la q
 
 
 
-![AstroPaper I18n](/public/the-green-smoke-monster.png)
+![AstroPaper I18n](/the-green-smoke-monster.png)
 
 
 

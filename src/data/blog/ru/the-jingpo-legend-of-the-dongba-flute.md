@@ -8,7 +8,7 @@ description: "Согласно легендам Цзинпо, пара ферм�
 
 
 
-![AstroPaper I18n](/public/the-jingpo-legend-of-the-dongba-flute.png)
+![AstroPaper I18n](/the-jingpo-legend-of-the-dongba-flute.png)
 
 
 

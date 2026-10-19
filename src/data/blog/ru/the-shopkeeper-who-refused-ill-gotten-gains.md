@@ -8,7 +8,7 @@ description: "В годы правления Цин и Сюаньтуна Ван
 
 
 
-![AstroPaper I18n](/public/the-shopkeeper-who-refused-ill-gotten-gains.png)
+![AstroPaper I18n](/the-shopkeeper-who-refused-ill-gotten-gains.png)
 
 
 

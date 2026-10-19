@@ -8,7 +8,7 @@ description: "Según la leyenda de la peonía noctilucente de Kunshan, una es qu
 
 
 
-![AstroPaper I18n](/public/the-legend-of-the-kunshan-night-glow-peony.png)
+![AstroPaper I18n](/the-legend-of-the-kunshan-night-glow-peony.png)
 
 
 

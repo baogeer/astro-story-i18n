@@ -8,7 +8,7 @@ description: "Ali a combattu le tigre pour sauver les deux fées et a blessé pa
 
 
 
-![AstroPaper I18n](/public/the-legend-of-alishan-a-taiwanese-folktale.png)
+![AstroPaper I18n](/the-legend-of-alishan-a-taiwanese-folktale.png)
 
 
 
