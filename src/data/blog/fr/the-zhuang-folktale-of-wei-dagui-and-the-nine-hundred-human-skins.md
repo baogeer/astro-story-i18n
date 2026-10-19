@@ -1,0 +1,22 @@
+---
+pubDatetime: 2026-10-29 00:01:40
+title: "Le conte folklorique Zhuang sur Wei Dagui et les neuf cents peaux humaines"
+featured: false
+draft: false
+description: "Wei Dagui, de la famille Zhuang, s'occupait des gens et était détesté par l'empereur turc pour avoir demandé une exemption de la nourriture impériale. L'empereur lui a ordonné de remettre 900 morceaux de peau de Zongman. Il a convoqué les hommes forts pour boire et manger de la soupe au chili. Ils étaient encore en sueur et prétendaient faussement que la peau humaine qui fuyait était inutilexa0; l'empereur n'avait d'autre choix que d'arrêter de le faire. C'est de là que vient le 3 mars."
+---
+
+
+
+![AstroPaper I18n](/public/the-zhuang-folktale-of-wei-dagui-and-the-nine-hundred-human-skins.png)
+
+
+
+
+ Il y a longtemps, un homme du nom de Wei Dagui à Zhuangxiang était ministre sous un empereur turc. Da Gui n'est pas très vieux, mais il est très compétent. De plus, il est très préoccupé par les souffrances du peuple Zhuang. L'empereur lui a redonné tout son salaire dans sa ville natale et l'a distribué à la population. Il n'avait plus rien.
+Un an, il y a eu une grande sécheresse à Zhuangxiang. Les habitants de la ville ont demandé à Dagui de donner à l'empereur turc de la nourriture royale gratuitement. Da Gui s'est agenouillé et a déclaréxa0: «xa0Les habitants de Zhuangxiang n'ont pas eu de récolte. Je suis allé à l'inspection pendant mille ans.xa0» Da Gui l'a accompagné à Zhuangxiang. Il a vu que les champs étaient fissurés, que les oreilles étaient brûlées et qu'un groupe de personnes à la peau jaune et à la peau fine s'est agenouillé sur le chemin de montagne pour souffrir. Da Gui s'est agenouillé et a ditxa0: «xa0Rendez-vous dans mille ans, peut-être sans nourriture.xa0» L'empereur turc n'avait pas d'autre choix que de se débarrasser de l'empereur de sa ville natale.
+Après l'attaque, il détestait Da Gui jusqu'à l'os, mais en raison de la popularité de Da Gui, il n'a pas eu de mal à se débarrasser de lui. Il a donc conçu un plan toxique et a comploté pour piéger Da Gui.
+Un jour, il a convoqué Da Gui devant luixa0: «xa0Da Gui, tu as toujours été très capable, et maintenant je veux que tu fasses quelque chose pour moi.xa0» Après avoir écouté Da Gui, il savait que l'empereur turc n'avait pas de bonnes intentions, mais il a calmement ditxa0: «xa0S'il te plaît, viens à plus de mille ans.xa0» L'empereur Tu plissa les yeux et ditxa0: «xa0Je construis un pavillon. Il y a une pénurie de carreaux. J'ai entendu dire que la peau peut protéger du froid et de la chaleur, qu'elle est imperméable et ignifuge et qu'elle est durable. Je veux que tu m'offres 900 skins en zigzag à utiliser comme tuiles dans les deux mois. J'apprécierais beaucoup. Si cela ne fonctionne pas, il doit être sévèrement puni.xa0» Da Gui a facilement réponduxa0: «xa0Lorsque cela se produira, veuillez demander à Chitose de commander et d'inspecter personnellement les marchandises sous la porte de la ville.xa0»
+Un mois s'est écoulé et Da Gui n'a pas bougé. Cinquante-neuf jours se sont écoulés et Da Gui n'a toujours pas bougé. Lorsque la date limite a été atteinte, Da Gui a convoqué 900 hommes puissants. Chacun a apporté une catty de riz gluant, une catty de vin de riz et une catty de nouilles au poivre au pied de la ville impériale pour faire cuire du riz gluant, préparer une soupe aux légumes au chili, enlever leur manteau un par un, s'asseoir torse nu, boire de l'alcool et boire de la soupe au chili. Juste au moment où ils étaient pleins de vin et de sueur, l'empereur turc est arrivé dans une grande berline en huit.
+Da Gui s'est avancé à la hâte et a déclaréxa0: «xa0Les marchandises ont déjà été livrées à Chitose, mais tous ces pauvres os fuient de l'eau. Peuvent-ils être utilisésxa0?xa0» Lorsque l'empereur turc est sorti de la voiture et a jeté un coup d'œil, leur peau foncée et rouge était toute mouillée. On aurait dit qu'il avait été retiré de l'eau et son odeur était âcre. L'empereur turc s'est couvert le nez avec ses mains, a froncé les sourcils et a reculé de quelques pasxa0: «xa0Ça fuit et ça sent mauvais. Tu ne peux pas l'utiliser, tu ne peux pas l'utiliser.xa0» Après avoir parlé, j'ai transféré la voiture au palais.   
+

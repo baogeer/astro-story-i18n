@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-12-09 18:36:47
+title: "Le banquet du magistrat avare"
+featured: false
+draft: false
+description: "Afin d'offrir à la population un festin avare de Zongben, Tudeng a prétendu que Jiaolong, à Quanzhong, avait utilisé de l'or pour parier et avait organisé un festin pour Zongben. Après le festin, Tudeng a également déclaré que toute l'eau des dragons avait été utilisée lors du banquet et que le dragon avait également invité des invités. Munemoto était muet et a tout perdu. L'histoire fait la satire de la cupidité liée au manque de scrupules et loue la débrouillardise des domestiques."
+---
+
+
+
+![AstroPaper I18n](/public/the-stingy-magistrate-s-banquet.png)
+
+
+
+
+ Il était une fois une secte (qui signifie fonctionnaire du comté en tibétain). Sa maison était pleine de nourriture moisie, mais il ne pouvait pas supporter d'en donner aux gens. Il était si avare qu'il voulait utiliser une grande quantité d'eauxa0; il était si agressif qu'il voulait enlever la peau du corps des autres pour la porter comme vêtement.
+La famille du gouverneur du comté a un serviteur intelligent nommé Tudeng. Il réfléchit souvent à la manière de retirer de l'huile des mains de son maître. Un jour, Tudeng a annoncé à la populationxa0: «xa0Je veux que Zongben organise un festin pendant quelques jours. S'il vous plaît, restez attentifs et attendez qu'il publiexa0!xa0»
+Les gens ont ri et ont ditxa0: «xa0Les loups peuvent-ils encore saigner dans leur bouchexa0? Si Sōmon, qui aime l'argent comme sa vie, nous prépare un festin, à moins que le soleil ne se lève du sommet du mont Xisan1xa0»
+Tudeng a souri et a réponduxa0: «xa0Tu ne le crois pasxa0? Attendons quelques jours et voyonsxa0!xa0»
+Il n'y a qu'une seule source d'eau potable dans la préfecture. Curieusement, ce printemps est chaud dès l'arrivée de l'hiver et il fait clair et frais en été. Munemoto a pris possession de l'eau de source, affirmant qu'il s'agissait d'une eau sacrée que le Seigneur Bouddha lui avait donnée.
+Un jour, Munemoto marchait au sommet du château et a soudainement vu Tudeng allongé sur un grand arbre près de la source, regardant fixement l'eau de la source. Il a secoué la tête pendant un moment et s'est penché pendant un moment, comme s'il se disputait avec quelqu'un. Munemoto a descendu le château et est venu voir Tudeng et lui a demandéxa0: «xa0Pourquoi pointes-tu du doigt icixa0?xa0»
+«xa0Ahhh, honorable Munemotoxa0!xa0» Tudeng a souri et a ditxa0: «xa0Qui sait, tu es une personne gentille et gentille. Vous adorez les Trois Trésors et vous les redonnez aux gens.xa0» À ce moment-là, il a soudainement perdu son sourire et a dit avec colèrexa0: «xa0Mais aujourd'hui, j'ai vu un dragon dans l'eau de source, calomnier des adultes sans scrupules et dire beaucoup de mauvaises choses à votre sujet.xa0»
+Munemoto a demandé à la hâtexa0: «xa0Comment les dragons peuvent-ils me calomnierxa0?xa0»
+Tudeng a lentement réponduxa0: «xa0Jiaolong a dit que Zongben obligeait les gens à effectuer des travaux forcés toute l'année et en tirait d'innombrables richesses, mais il ne pouvait pas supporter de donner ne serait-ce qu'une bouchée de baguettes. Une personne avare qui aime l'argent comme ça sera tôt ou tard comme un fantôme affamé qui meurt de soif dans la merxa0; ça ne finira pas bien. Quand j'ai entendu cela, j'étais tellement en colère que j'ai frissonné de tout mon corps. J'ai répliqué que nous avions été très occupés toute la journée, tout cela pour le confort et le bonheur des gens. Il n'est certainement pas le genre de personne que tu as dit. Ne disons pas donner un bol de délicieux cornichons, demandez-lui simplement d'organiser un festin pour les gens pendant quelques jours, et il acceptera sans hésitation.xa0»
+Munemoto sourit de joie et hocha même la têtexa0: «xa0Bienxa0! C'est vraixa0! Tu as raisonxa0!xa0»
+Tudeng a poursuivi en disantxa0: «xa0Jiaolong n'était pas convaincu. Il a sorti de l'or de la taille d'une tête de chèvre et a menacé que si Zongben ne voulait pas faire fortune et organiser un festin pour les gens, il pourrait organiser un festin pendant quelques jours. Si ses paroles s'écoulent comme ce printemps, elle offrira cette pièce d'or à Zongben.xa0»
+Dès que Munemoto l'a entendu, il est rentré précipitamment chez lui et en a discuté avec la femme de ménage. La femme de ménage a déclaréxa0: «xa0Je pense que nous pouvons organiser un banquet. Le dragon n'a ni nourriture ni viande, seulement de l'eau insipide, et vous allez certainement le battre.xa0»
+Sōben n'en avait aucune idée. Penser que cela coûterait si cher d'organiser un festin et de laisser ces pauvres gens manger et boire gratuitement, c'était comme si quelqu'un lui coupait la chair avec un couteau. J'ai ressenti une vive douleur au cœur. Mais quand il a pensé à se procurer de l'or de la taille d'une tête de chèvre, il n'a pas pu s'empêcher de le prendre tout de suite et de le tenir dans ses bras. Le thé n'avait pas bon goût pendant quelques jours et quelques nuits. Après de longues délibérations, j'ai finalement décidé d'endurer la douleur et d'organiser un festin pendant quelques jours.
+Le serviteur Tudeng s'est habillé en costumes de Noël et a gentiment apporté du thé et du vin aux gens. Voyant que tout le monde était content de manger, Tudeng a demandéxa0: «xa0Y a-t-il un saignement dans la bouche du loupxa0? Le soleil d'aujourd'hui se lève-t-il du sommet du mont Higashiyama ou vient-il du sommet du mont Westxa0?xa0» Les gens ont éclaté de rirexa0: «xa0Vos paroles ont vraiment marché, mais je ne sais pas comment vous avez finixa0?xa0»
+Le festin n'était pas encore terminé et Zong Ben a demandé à la hâte à Tudeng d'inviter Jiaolong à organiser le festin. Comme l'autre jour, Tudeng est monté sur le grand arbre près de la source, a pagayé et dansé pendant une demi-journée, puis s'est incliné et a tendu la langue, a touché sa tempe et a ditxa0: «xa0Le dragon glisse...xa0»
+Il a été choqué par la bataille et avait peur d'aller plus loin. Munemoto a crié à la hâtexa0: «xa0Que fais-tu dans un état secondxa0? Parlez vitexa0!xa0» Dudeng fit semblant d'avoir peur et murmuraxa0: «xa0Le dragon a dit qu'il avait déjà organisé un festin avec Sōbon. Ce qui était mangé et bu n'était pas fait d'eau s'écoulant de la tanière du dragonxa0? Munemoto a sorti de la nourriture et de la viande, et Dragon a sorti de l'eau. Cela me dit que si Zongben peut organiser un festin sans eau, il vous offrira une pièce d'or de la taille d'une tête de chèvre.xa0»
+Munemoto lança un regard noir et haleta dans sa bouche, et son visage devint comme un singe gris.   
+

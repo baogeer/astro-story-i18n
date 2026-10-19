@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-12-22 21:59:05
+title: "La légende du roi des chiens du peuple She"
+featured: false
+draft: false
+description: "Dans les temps anciens, le roi Gao Xin récompensait la conquête de l'armée et un chien battait à mort le roi ennemi. Gao Xin et Wang Shouxin ont épousé les Trois Princesses. Lorsque la Dog Diamond Bell est devenue humaine, la princesse l'a ouverte tôt et est devenue un chien. Les deux ont vécu dans l'isolement et ont eu des enfants. Plus tard, ils ont reçu les noms de famille Pan, Lei, Wei et Zhong, et ont été multipliés dans la famille Shes. L'histoire incarne la fiabilité et la légende de l'origine ethnique."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-the-dog-king-of-the-she-people.png)
+
+
+
+
+ La légende raconte que dans les temps anciens, le roi Gao Xin en Chine voulait entrer en guerre contre un peuple occidental appelé Inujung. Ils ont combattu plusieurs fois de suite et ont perdu des batailles à chaque fois. Le roi Gao Xin a donc convoqué des ministres pour en discuter. Il n'y avait rien pour les ministres. Le roi Gao Xin était pressé de monter et descendre le couloir, effrayant les ministres. Le roi Gao Xin y a réfléchi et a voulu direxa0: «xa0Nous ne pouvons recruter que des personnes à partir de la liste.xa0» Le roi Gao Xin a écrit sur la listexa0: «xa0Si quelqu'un peut m'aider à gagner la guerre, je lui donnerai une princesse.xa0» Cela fait quelques jours que la liste a été publiée et le cœur de Gao Xin Wang est devenu encore plus inquiet.
+Un jour, un chien a démêlé la liste royale et les soldats l'ont amené au visage du roi Gao Xin. Le roi Gao Xin était ravi d'entendre quelqu'un direxa0: «xa0Quelqu'un a-t-il dévoilé la listexa0?xa0» Le soldat a chuchotéxa0: «xa0Oui, ce n'est qu'un chien.xa0» Le soldat a amené le chien. Le roi Gao Xin a ditxa0: «xa0Comment pouvez-vous m'aider à gagner cette bataillexa0?xa0» Le chien a dit fièrementxa0: «xa0Quoi qu'il en soit, je peux t'aider à gagner, et tu le sauras le moment venu.xa0» Le roi Gao Xin n'avait pas d'autre choix que d'attendre et de voir.
+Après quelques jours, le roi Gao Xin a envoyé des troupes pour attaquer à nouveau Inu Rong, mais malheureusement, il a quand même échoué. Pendant qu'Inuebisu était en train de se régaler, le roi Inu se cachait déjà dans son camp militaire. Le roi Inuebisu était très heureux à l'époque, buvant, chantant et dansant avec les soldats. Inuebisu et ses soldats buvaient trop d'alcool et étaient trop ivres. Le roi Inu a profité de cette occasion pour couper la tête du roi Inujung et a couru désespérément. Après que le soldat Inujung à l'arrière l'ait découvert, ils l'ont désespérément poursuivi et ont couru pendant un moment. Le roi Gao Xin a pris le pouvoir et a battu Inujung à mort.
+De retour au Palais impérial, Gao Xin Wang a voulu parler de mérite. Bien entendu, son plus grand mérite était Gu Wang. Gao Xin Wang a souri et a dit à Gou Wangxa0: «xa0Parmi mes trois filles, laquelle choisiriez-vousxa0?xa0» Le roi des chiens s'est approché des trois princesses et a mordu les vêtements des trois princesses avec sa bouche. Les trois princesses aiment aussi Dog King, mais la reine ne veut pas marier sa fille à un chien.
+Le roi Gao Xin a déclaréxa0: «xa0Vous ne pouvez rien y fairexa0! Les paroles d'un gentleman sont difficiles à comprendre.xa0» Dog King y a réfléchi et a voulu direxa0: «xa0En fait, je peux devenir un humain. Si vous retirez la Cloche dorée, je pourrai devenir un humain après sept jours de forage.xa0»
+Sept jours, c'était long pour la princesse, et les trois princesses craignaient que le roi des chiens aille bien si elles ne mangeaient pas ou ne buvaient pas à l'intérieur. Au bout de cinq jours, les trois princesses n'ont pas pu s'empêcher d'ouvrir secrètement le bouclier doré de la cloche. Oups, le corps du chien avait changé, mais la tête du chien n'avait pas changé, mais une fois le couvercle ouvert, ils ne pouvaient plus changerxa0; ce n'étaient que des têtes de chien.
+Lorsque le roi Gao Xin a vu cette situation, il a demandé à Gou Wang de trouver un endroit où se cacher avec sa fille, de leur attribuer un terrain et de prendre ce qu'ils voulaient. Dog King a amené sa princesse à Nanling, à la frontière entre le Guangdong et le Hunan, pour commencer une vie de mari et femme.
+Après plus de dix ans, Gou Wang et les Trois Princesses ont donné naissance à trois fils et une fille, mais ils n'ont toujours pas de bon nom de famille. Après des discussions avec les Trois Princesses, Dog King a décidé de retourner au palais impérial et de demander à l'empereur de lui donner un nom de famille.
+Lorsque la famille de Gou Wang est retournée au palais, Gao Xin Wang a demandéxa0: «xa0Nous ne vous avons pas vu depuis longtemps, allez-vous bienxa0?xa0» Gu Wang a déclaréxa0: «xa0Merci à l'empereur pour son inquiétude. J'ai quelque chose à te dire à mon retour. Mes enfants sont tous adolescents et n'ont pas un bon nom de famille, donc je ne peux pas les laisser prendre mon nom de famille. Je prie l'empereur de leur donner un nom de famille.xa0»
+L'empereur a demandéxa0: «xa0Quelles étaient les caractéristiques de vos enfants à leur naissancexa0? »
+«xa0Le fils aîné est né avec une assiette dessus. Le deuxième fils est né quand il y a eu un tonnerre. Le troisième fils adorait porter des outils agricoles après la naissance, et la fille a entendu une cloche à sa naissance.xa0» Dog King a dit.
+Gao Xin Wang a déclaréxa0: «xa0Puisque c'est le cas, le nom de famille de votre fils aîné est Pan, le nom de famille de votre deuxième fils est Lei et le nom de famille de votre troisième fils est Yi, donc le nom de famille de votre fille est Zhong.xa0»
+En conséquence, le village de Shes a désormais quatre noms de famillexa0: Pan, Lei, Dao et Zhong.
+Plus tard, alors qu'il chassait et poursuivait le cerf, Dog King est accidentellement tombé d'une falaise et est mort. Ses descendants ont continué à se reproduire et à migrer, et se sont dispersés dans diverses provinces du sud-est de la Chine, formant une nation courageuse qui vivait au plus profond des montagnes et chassait pour gagner sa vie.   
+

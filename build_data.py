@@ -51,7 +51,7 @@ LANG_FIELDS = {
 
 
 def main_run():
-    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` WHERE `ai_image` IS NOT NULL LIMIT 0, 200;"
+    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` WHERE `ai_image` IS NOT NULL LIMIT 0, 200000;"
     for article in db_tool.query(task_sql):
         for lang_code, fields in LANG_FIELDS.items():
             build_markdown(

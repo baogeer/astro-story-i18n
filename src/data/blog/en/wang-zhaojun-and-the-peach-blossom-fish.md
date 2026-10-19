@@ -1,0 +1,22 @@
+---
+pubDatetime: 2026-12-30 10:27:00
+title: "Wang Zhaojun and the Peach Blossom Fish"
+featured: false
+draft: false
+description: "Wang Zhaojun returned to his hometown province before leaving the village. When they parted ways, he played pipa and wept. Tears soaked peach petals and fell into Xiangxi, turning into a transparent peach blossom fish. Since then, whenever peach blossoms bloom, schools of fish swim in the water, pinning their hometown's thoughts on Zhaojun."
+---
+
+
+
+![AstroPaper I18n](/public/wang-zhaojun-and-the-peach-blossom-fish.png)
+
+
+
+
+ When it comes to “Zhaojun out of power,” everyone knows that Wang Zhaojun of the Han Dynasty married the Huns and his family.
+Wang Zhaojun, Ming Pei, Zi Zhaojun. A person from Nam-gun (present-day Kohoku-ni). They evaded Sima Zhaotou and changed their name to Emperor Ming or Consort Ming. In the first year of Jingning (33 BC), the Huns called Han Xie only to enter the DPRK to seek peace. At the age of entering the palace, she was not allowed to see the emperor; she invited herself to marry the Huns. After entering the Huns, she was known as the Ninghumen (Empress). Later, Han Ye died, and Emperor Cheng ordered her to “follow the folly” and get married to Fu Zhu Li Danyu (the eldest son of the Han Ye Family). Under her influence, her children and those around her worked hard to maintain a friendly relationship with Han, leading to “the Third Generation of No Dog Barking Police, Li Shu (the People) Campaign without a Cause.” Her stories became popular topics in poets, operas, novels, and rap for future generations.
+Today's Xiangxi in Lingui County, Hubei, is located in Wu Xia, on the north bank of the Yangtze River. This is Wang Zhaojun's hometown. Every year during the peach blossom season, groups of peach blossom fish appear in the Xiangxi River. They are all transparent and float on the surface of the water. They have three colors of jade white, milk yellow, and pink, and have more than 200 tentacles. When scattered, they look like peach petals. The origin of this peach blossom fish also has a beautiful and moving story.
+Legend has it that when Emperor Han Yuan decided to let Zhaojun marry the Huns and Hefan Qian, he gave her permission to return to her hometown to visit her parents and family. After returning to his hometown, Zhaojun said goodbye to his loved ones while searching all over the mountains to find footprints from his childhood. He really couldn't bear to leave his hometown of Aoyama and Xiusui. However, the imperial order is there; they must return to Beijing on schedule to marry the king of the Xiongnu, who is far from the desert.
+On the day that Zhaojun didn't go, the townspeople sent them one trip after another, and it was hard to bear. Zhaojun boarded a dragon boat in the middle of the river, picked up his beloved pipa, and played a sad and moving parting song. The peach blossoms blooming at this time were like her friend. Hearing something touching, they actually fell one after another. Some fell on the boat and some fell on her body. Zhaojun couldn't help but burst into tears. The tears fell on the peach petals and floated into the river. These peach petals, steeped in Zhaojun's tears, turned into colorful little fish one after another, swimming along with the dragon boat. When the lute of grievances came to an end, the boatmen all shed tears of sympathy. A boatman randomly touched a small fish and offered it to Zhaojun. Zhaojun affectionately gave them a beautiful name, a peach blossom fish.
+Since then, every time the peach blossoms are in full bloom, peach blossom fish have swam back and forth in the clear waters of Xiangxi, as if calling for the return of Zhaojun with their loved ones in their hometown. Even now, the elderly in Xiangxi still say, “Every time peach blossoms bloom and the moon is in the middle of the night, you can sometimes hear the impact of the gold and jade ornaments on the clothes of ancient women. No wonder the poem “Yonghuai Monuments” written by Du Fu after visiting Zhaojun's hometown to hang monuments called “Huan Pei Gong Returns to the Night Soul of the Moon”! People think that Zhaojun, who is nostalgic for his hometown, has come back to visit the townspeople. The townspeople still want to entertain her with “Mizuwei Peach Blossom Fish.” Hubei's famous dish, shuiwei peach blossom fish, comes from this beautiful legend of grievance.   
+

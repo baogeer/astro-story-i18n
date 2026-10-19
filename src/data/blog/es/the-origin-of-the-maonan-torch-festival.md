@@ -1,0 +1,18 @@
+---
+pubDatetime: 2026-11-08 11:01:49
+title: "El origen del Festival de la Antorcha de Maonan"
+featured: false
+draft: false
+description: "Para resistir las invasiones alienígenas, los antepasados de la tribu maonana utilizaron dudas militares llenas de antorchas para ahuyentar a los enemigos y trataron a los cautivos para convertir a los enemigos en amigos. Cada año, en la víspera de Año Nuevo, la posteridad levantaba antorchas, tocaba gongs y tambores y «regañaba» para capturar a los «cautivos» para conmemorarlos, por lo que se convirtió en el Festival de las Antorchas, que simboliza la unidad, la sabiduría y la paz."
+---
+
+
+
+![AstroPaper I18n](/public/the-origin-of-the-maonan-torch-festival.png)
+
+
+
+
+ Los maonanos de la zona del municipio de Kap Maonan, en el condado de Pingtang (Guizhou), tienen que celebrar el Festival de las Antorchas todos los años la noche del 30 de julio. Hay una leyenda sobre el origen del Festival del Fuego. La leyenda cuenta que hace mucho tiempo, los antepasados del pueblo maonano vivían y trabajaban en un lugar con hermosas montañas y aguas verdes en Kappu. Un día, un maonense que había salido para hacer negocios regresó corriendo a Zhai Lao y dijo: «La noche 30 de este año, un equipo de extraterrestres invadirá nuestro territorio. Son altos y están bien armados,...» Zhailao convocó inmediatamente a todos para discutir las contramedidas. Todos estuvieron de acuerdo en que trabajar duro costaría dinero; solo mediante el uso de estrategias militares cuestionables se pueden repeler los ataques de los extranjeros. Como resultado, Zhai Lao organizó a hombres, mujeres y niños de toda la aldea para que colocaran muchas luces a los pies de la aldea, al costado de la carretera y en la ladera de la colina, y luego usaron Hou Teng para conectarlas y colocar muchos petardos. Cuando casi anocheció, la gente de todo el pueblo tendió una emboscada, bloqueó las noticias, se abasteció de cuernos, pólvora, gongs y tambores, y esperó a los invasores. Cuando los extraterrestres aprovecharon la noche para colarse a los pies de la aldea, se oyó un repentino sonido de artillería. Los maonanos que habían sido emboscados durante mucho tiempo encendieron las luces y movieron a Hou Teng. Inmediatamente, resonó el sonido de gongs, tambores, cuernos, petardos y rugidos. Cuando los extranjeros vieron antorchas temblando en la ladera de la colina y al costado de la carretera, no pudieron saber cuántos maoneses habían sido realmente emboscados. Todos estaban estupefactos y consternados. Tenían miedo de precipitarse hacia la empalizada y huyeron uno tras otro. Cuando algunos alienígenas huyeron, los maonenses los capturaron y los arrastraron hasta la empalizada porque no estaban familiarizados con el terreno. Los aldeanos los desataron personalmente, los entretuvieron con los mejores vinos y platos, los sorprendieron y los aconsejaron pacientemente, lo que conmovió mucho a los prisioneros. Desde entonces, los extraterrestres nunca han invadido el territorio maonano.
+Para conmemorar los logros de sus antepasados, personas de todo el pueblo se reunieron en la víspera de Año Nuevo para sostener antorchas encendidas, tocar gongs y tambores, presumir de cuernos y lanzar petardos para desearse un feliz año nuevo, y se «regañaron» y «capturaron» unos a otros. Se dice que cuanto más dura sea la «maldición», más auspicioso será el año que viene. Las dos partes enviaron secretamente a personas para que se mezclaran con la multitud de la otra. Inesperadamente, «capturaron» a los miembros del otro grupo y regresaron a sus casas para castigarlos con alcohol e intoxicarlos. Esta costumbre se ha mantenido hasta ahora, y los maonenses la llaman la «Fiesta del Fuego».   
+

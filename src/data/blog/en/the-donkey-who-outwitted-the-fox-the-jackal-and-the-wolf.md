@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-12-29 22:15:11
+title: "The Donkey Who Outwitted the Fox, the Jackal, and the Wolf"
+featured: false
+draft: false
+description: "Donkeys were abandoned in the wilderness by their owners. When they met wolves, foxes, and jackals, they pretended that they were too thin to eat next year, and took the opportunity to recuperate and grow fat. When the Three Beasts came back, the donkey tricked them into putting a rope around their necks and strangled them by flying and dragged, and lived freely from then on. The story praises the weak to defeat strong opponents with wisdom."
+---
+
+
+
+![AstroPaper I18n](/public/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
+
+
+
+
+ Once upon a time, there was a donkey. When it was strong, the owner didn't pity it at all and called it to work every day. Later, its back spine was crushed, and two legs were limp. The top and bottom of the body were all scars the size of a bowl. It looked like it was about to lose its breath. The relentless owner used a wooden stick with a thick arm to drive it to a wilderness where no one could even see his shadow. The donkey sighed for a long time and said, “Alas, this is the fruit of my hard work!”
+While it was lamenting its fate, a big bad wolf led the fox and the jackal and ran to the donkey. Big Bad Wolf opened his mouth and drooled and said, “Haha! Last night, I had a dream last night. I had a dream where I was eating hot baked meat and drinking red blood. It was really spiritual!” When the old wolf finished speaking, the fox and the jackal grinned, they needed to do something. The donkey was humble and said, “Oh! My miserable animal was left in the wilderness by its owner. Instead of being unlucky enough to live, it's better to give everyone a full meal and die at ease. However, I'm really thin. Apart from my bones, all I have is skin. Everyone kindly came to eat me, but I was really embarrassed to give it to everyone, and it stabbed everyone in the mouth if it didn't work out. Should I wait until next summer, when I eat some herbs. The meat is fat and the fat is thick, so everyone will eat it again.”
+The fox listened and continued to wag its long tail to express opposition. It said to Big Bad Wolf, “Master Wolf, they all say donkeys are stupid; that's not right. It often goes to the city to carry things, and it's smart to learn from others! Just say what it just said, wait until next summer, what if it runs away?” The donkey immediately answered, “Sister Fox, please don't be careful. Where can I escape to my broken leg donkey? Besides, this prairie is the land of Master Wolves, and I can't run if I want to!” The fox also cleverly said, “Huh! Well, for more than half a year, what do you do when the sky falls, what do you do when the dust buries you.” Donkeys had no choice but to visit a few neighbors as guardians. Rabbits guarantee that the sky won't collapse, so their eyes have always looked at the sky until now; wild boars guarantee that the ground doesn't sink, so they've always hummed and stared at the ground until now; the whirlwind guarantees that the prairie doesn't accumulate dust, so until now they have kept cleaning the ground...
+Winter is over, spring is here; spring is past, summer is here. After enough rest, the donkey ate plenty of green grass. Its wounds healed, its legs and feet were comfortable, its fur was shining brightly, and its body was full of energy.
+On this day, Big Bad Wolf led two companions, Fox and Jackal, to eat donkeys exclusively. They saw that the donkeys were fat and thick, and they were hungry one by one, scrambling to rush at the donkeys. The donkey hurriedly blocked it with its hooves and said, “Everyone, please move slowly. Since you want to eat me, I think you should eat comfortably. Now I'm so strong, I'm terribly strong. When you bite me, I get pain; when it hurts, I howl, kick, and run away! So what can we do?” The big bad wolf, the fox, and the jackal dog were also a bit worried when they saw that the donkey was so strong. The donkey thought about it and said, “Everyone, let's do it! Each of you got a cow hair rope, put one around your neck, and the other tied to my waist. At that point, my donkey just had the energy of an elephant, and I had no way to fight back.” The three thought it was reasonable. The fox was still very proud to say, “Look, I've said it before, donkeys aren't stupid!”
+Just like that, the big bad wolf, the fox, and the jackal each found a rope, tied one to the donkey, and the other around their necks. As soon as the rope was attached, the donkey ran helplessly, carrying three vicious beasts, over a hill and over another hill. The fox had been strangled a long time ago. The skin of the jackal had been cut off by a stone and turned over; only the big bad wolf had one breath and scolded the fox; “You vixen, lie on the ground and play to see how hard the little brother of the jackal dog is, even taking off his coat!” The Big Bad Wolf hadn't finished speaking yet, and the donkey ran so hard that it was also strangled to death.
+Since then, donkeys have lived freely in the wilderness for many years.
+Narration: Yixi Dan Zeng, Chengguan District, Lhasa
+Record of April 20, 1979
+Edited on 1981/12/17   
+

@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-12-24 09:31:29
+title: "L'histoire du lapin qui a réglé une affaire"
+featured: false
+draft: false
+description: "Li Yong a été échangé contre une proie par le fils du propriétaire foncier, et les deux chiens ont insisté sur le fait que c'était la volonté de Dieu. Le lapin a fait semblant d'être en retard et a inventé la raison absurde «xa0le sable est en feu, le panier en bambou puise de l'eau et le poisson rouge cueille du mielxa0», ce qui a suscité le ridicule des riches, mais le lapin a demandéxa0: «xa0Comment ces faons peuvent-ils grimper aux arbres et comment les pics peuvent-ils atterrir sur le solxa0?xa0» L'homme riche et les deux chiens sont restés bouche bée et se sont enfuis. L'histoire fait la satire de l'ingéniosité qui consiste à utiliser des mensonges pour guérir les mensonges."
+---
+
+
+
+![AstroPaper I18n](/public/the-story-of-the-rabbit-who-settled-a-case.png)
+
+
+
+
+ Il était une fois un jeune homme qui s'appelait Li Yong. Il était orphelin. Sa famille était très pauvre et vivait de l'utilisation de boutons pour attraper des animaux sauvages. Parce qu'il est courageux et intelligent, il attrape souvent de nombreux animaux sauvages. Cela peut donner faim au fils de deux chiens du propriétaire. Il a harcelé Lee Yong pour l'emmener les attraper ensemble, et Li Yong n'a eu d'autre choix que d'accepter.
+Ils sont arrivés dans les montagnes ce jour. Li Yong a enfoncé le bouton dans un endroit où apparaissent souvent des animaux sauvages, mais les deux chiens voulaient juste jouer et ont accroché le bouton à un grand arbre.
+«xa0Quand il ne faisait pas beau le lendemain, les deux chiens ont couru secrètement dans les montagnes pour voir les boutons. J'ai vu que le bouton de Li Yong attrapait un faon obèse et que son propre bouton n'attrapait qu'un pic. Les deux chiens ont tourné les yeux et ont eu une mauvaise idée. Il a mis le faon dans son propre fermoir, a échangé le pic contre Li Yong, puis est rentré tranquillement chez lui.
+Après le petit-déjeuner, les deux chiens ont gravi la montagne avec Li Yong. En marchant, il a ditxa0: «xa0J'ai rêvé de l'empereur Jade la nuit dernière. Il a dit que mes boutons permettaient d'attraper un faon à coup sûr.xa0» Dès qu'il s'est rendu à l'endroit où le bouton avait été placé, Li Yong a été surpris. Il a vu que les deux fermoirs avaient attrapé un faon et qu'il s'était promené en le suspendant à un arbrexa0; il ne tenait qu'un pic.
+«xa0Comment les faons peuvent-ils courir vers les arbres et comment les pics peuvent-ils atteindre le solxa0?xa0» Li Yong a commencé à douter. «xa0C'est la volonté de Dieu. L'empereur Jade m'a aidée.xa0» Les deux chiens n'arrêtaient pas de parler nonchalamment. Li Yong n'était pas stupide. Il a rapidement compris ce qui se passait, alors il l'a dit aux villageois. Cependant, les riches du village se sont tous tournés vers les deux chiens parce que leur père était propriétaire et que les pauvres avaient peur de parler.
+Li Yong n'était pas satisfaite et a décidé d'aller ailleurs pour trouver une personne juste. En chemin, il a rencontré un lapin. Il a penséxa0: J'ai entendu dire que les lapins sont très intelligents, il doit y avoir un moyen. J'ai donc parlé à Minzi des circonstances de l'incident et j'ai demandé de l'aide à Bunny. Le lapin a dit joyeusementxa0: «xa0Pas de problème. Lorsque le soleil s'est levé pour la première fois le matin du troisième jour, vous avez convoqué tout le village à la tête du village et je vous ai laissé juger.xa0»
+Le soleil ne s'était pas encore levé le matin du troisième jour. Li Yong, Ergu et tout le village se sont rassemblés à la tête du village. Cependant, ils ont attendu du matin à midi et de midi à l'après-midi et n'ont vu aucun lapin. Tout le monde a discuté et a commencé à se plaindre de Li Yong. Les deux chiens étaient encore plus fiers. Je n'ai vu aucun lapin l'avaler avant le coucher du soleil.
+Le lapin a dit à tout le mondexa0: «xa0Je suis vraiment désolée. Je viens de me réveiller le matin. De façon inattendue, le sable a pris feu. J'ai utilisé un panier en bambou pour remplir le feu d'eau et je n'ai éteint le feu qu'à midi. J'ai couru jusqu'ici et j'ai rencontré un autre groupe de poissons rouges qui cueillaient du miel dans les arbres et m'ai demandé de les aider, alors je suis arrivée en retard.xa0»
+Dès que les riches l'ont entendu, ils ont tous ri, ont incliné les yeux et ont demandé au lapinxa0: «xa0Votre notaire est vraiment intelligentxa0! Comment le sable peut-il prendre feuxa0?
+Comment remplir d'eau des paniers en bambouxa0? Comment les poissons rouges peuvent-ils récolter le mielxa0? Tout cela n'a aucun sens.xa0»
+Le lapin sourit légèrementxa0: «xa0Oui, c'est absurde. Alors, s'il vous plaît, demandez à messieurs comment les faons peuvent grimper aux arbres et comment les pics peuvent-ils aller au sol pour trouver de la nourriturexa0?xa0»
+Dès que les riches l'ont entendu, ils ont su qu'ils avaient été pris dans le piège à lapins et leur visage est devenu rouge. Les deux chiens se sont également enfuis chez eux en toute hâte.   
+

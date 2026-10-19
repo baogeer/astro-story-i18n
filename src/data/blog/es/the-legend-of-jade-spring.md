@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-09-23 15:49:02
+title: "La leyenda de Jade Spring"
+featured: false
+draft: false
+description: "Qiantang Jiang Caolong salvó a la gente y quiso matar al emperador; en cambio, fue herido en el ojo por un proyectil. Se convirtió en un viejo monje que buscaba tratamiento médico en el templo Qinglian. El viejo monje fingió recibir tratamiento, lo engañó para que perforara el manantial y luego lo reprimió con una pagoda de piedra. Caolong queda atrapado para siempre bajo tierra, y el manantial de jade, de aguas cristalinas, es el manantial de jade. Se dice que las vecinas Pearl Spring y Clear Sky Happy Rain Spring se transformaron en cuerpos de dragones."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-jade-spring.png)
+
+
+
+
+ En el templo Seiryeon-ji, al norte del monte Sengoyama, hay una piscina rectangular llamada «Gyokusen». El agua del manantial de jade es clara, el agua del manantial de jade es brillante y cristalina. ¿De dónde viene el agua del manantial?
+Existe una leyenda así.
+Anteriormente, había una trinchera sin fondo en la desembocadura del río Qianluo llamada «río Tiankai». Un día, había un dragón de hierba viviendo en el río Kai. Cao Long puede cruzar el río y conducir entre la niebla. Tiene una gran habilidad, pero es tosco y no entiende el mundo. Lleva todo el día perforando en el río, perforando en el mar y jugando con peces y camarones grandes y pequeños.
+Un día, un barco oficial pasó por la desembocadura del río Qiantang acompañado de dos barcazas. El barco oficial hizo sonar el sonido de un gong y estaba lleno de energía, pero se oyó un grito en la barcaza. Cao Long lo vio muy extraño. Después de preguntar a diestra y siniestra, se enteró de que había un emperador en la tierra. El emperador tenía muchos funcionarios bajo su mando. Es por eso que el emperador envió funcionarios para llevar a la gente común a Beijing para trabajar duro. Cuando Cao Long se enteró de este motivo, se enojó mucho. Tan pronto como movió la cola, «guau», una gran ola se balanceó, volcó el barco y salvó a dos botes llenos de personas. Caolong pensó: El barco oficial fue derribado por mí, ¡pero el emperador sigue en Beijing! El emperador es tan malo que debería deshacerme de él y conseguir uno bueno. Como resultado, recogió las nubes oscuras, salió del río Tiankai y voló hacia Beijing.
+El emperador estaba bebiendo y divirtiéndose en el palacio con sus concubinas. Las mujeres de Gong Ecai soplaban, saltaban y cantaban. El cielo cambió en un instante; el viento derribó los árboles y la fuerte lluvia siguió cayendo sobre el suelo, pero cuando vieron a Grass Dragon entrar corriendo entre nubes oscuras, se precipitaron amenazadoramente. En ese momento, el Ejército de los Tres Mil Bosques Imperiales se apresuró a entrar y el emperador quedó aún más atónito. Afortunadamente, un valiente sirviente sacó su honda y disparó contra Caolong. Esta honda dio en el ojo derecho de Zhongcaolong. Le dolió tanto que gritó y volvió la cabeza: «¡Guau, guau!» La cola se arrastró por una esquina del palacio y se fue volando.
+Caolong huyó de regreso al río Tiankai, en la desembocadura del río Qiantang. Cuanto más pensaba en ello, más se molestaba. Se mordió los dientes y juró vengarse.
+En ese momento, había un viejo monje que vivía en el templo Seiryeon-ji. Era muy experto en medicina. Cuando Chaolong se enteró de la existencia de un monje así, se convirtió en un hombre grande y oscuro. Llegó a la casa para buscar tratamiento médico. El viejo monje vio que tenía una forma extraña. Se mostró muy escéptico y preguntó: «Vaya, cómo hiciste que tus ojos se vieran así». Caolong inventó una mentira, diciendo que subió a la montaña para cortar piedras y que accidentalmente fue bombardeado con piedras trituradas.
+El viejo monje usó unos alicates para distinguir lo que había en los ojos de Cao Long. Tan pronto como lo vio, cayó al suelo y dijo: «Está claro que es un proyectil. ¿Por qué hablas de piedra triturada? ¿Qué clase de persona eres? ¡Si no lo entiendes, no puedo curarlo!»
+El viejo monje perdió los nervios cuando vio a Cao Long y temía que realmente se curara y contara honestamente la historia de cómo lo golpearon con un proyectil. Al final del día, también dijo: «Cuando me cures los ojos, me vengaré».
+El viejo monje se sorprendió cuando escuchó las palabras de Cao Long. Pensé: «Mi templo lo construyó el emperador. Disfruté de las bendiciones del emperador. Ahora quiere hacerle daño al emperador, ¡está bien! Luego pensé en el siguiente plan y fingí reírme de Cao Long y dije: «No es difícil curar mis ojos, pero ¿con qué me darías las gracias?»
+«Mientras puedas curar mis ojos, te daré cualquier tesoro raro que desees».
+«No quiero tesoros exóticos. No hay suficiente agua en este templo, ¡así que primero echemos un vistazo a los manantiales!»
+Caolong no sabía cuál era el plan, así que estuvo totalmente de acuerdo. El viejo monje eligió un lugar, y Cao Long se zambulló en la tierra uno por uno, y del pozo en el que había cavado brotó agua cristalina de manantial. A medida que el dragón herbáceo perforaba más y más, el pozo crecía cada vez más y pronto se convirtió en una gran piscina. En ese momento, el viejo monje movió apresuradamente la exquisita pagoda de piedra consagrada frente al Buda, que estaba en medio del manantial, y aplastó al dragón de hierba contra el suelo.
+Cao Long fue engañado por un viejo monje, fue aplastado bajo tierra y ya no pudo salir. El manantial que salió se llamó «manantial de jade» porque el agua del manantial era tan clara como el jaspe. También hay dos piscinas cerca del manantial de Jade. Una se llama «Pearl Spring» y la otra es «Clear Sky Happy Rain Spring». Se dice que la cabeza de Grass Dragon yacía debajo de Pearl Spring, por lo que hubo una vibración en el suelo. Cuando Grass Dragon se despertó, se sintió cómodo bajo tierra y aparecieron muchas pequeñas burbujas en la superficie del agua. Bajo el cielo despejado y la lluvia primaveral, hay una cola de dragón de hierba, por lo que en un día despejado, la cima siempre está brumosa.   
+

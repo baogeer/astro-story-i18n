@@ -1,0 +1,46 @@
+---
+pubDatetime: 2026-09-25 18:20:52
+title: "El polvo de un jinete y la sonrisa de una concubina"
+featured: false
+draft: false
+description: "Tang Xuanzong voló miles de millas para llevar lichi para su querida concubina Yang Yuhuan, haciendo «La dama ríe». La familia Yang es extravagante. La rebelión de Anshi estalló y la noble murió durante el motín de Ma Yupo. La historia usa el lichi para parodiar la hipocresía de que el emperador perdió su poder, pero lo culpó por culparlo."
+---
+
+
+
+![AstroPaper I18n](/public/a-rider-s-dust-and-a-concubine-s-smile.png)
+
+
+
+
+ No había nadie en mitad de la noche, y las montañas frente al Templo de la Eternidad juraban que el mar estaba seco y que las piedras estaban podridas. Aunque se trataba de una afirmación humilde sobre la luna antes de la luna, los pájaros alados del cielo la escucharon, e incluso Rizhi lo sabía bajo tierra. Como resultado, una historia de amor se convirtió en una gran canción a lo largo de los siglos.
+La historia abarcó mil años, y esa hermosa canción se fue con el viento, pero la gente realmente recuerda a Yang Yuhuan, que era gorda y hermosa.
+Yang Yuhuan (719-756), originaria de Yongle, Puzhou (actual Yongji, Shanxi), hija de Yang Xuanyan, propietario de Shuzhou. La noble concubina de Tang Xuanzong y Lee Yong-gi.
+Yang tiene una postura rica, buen canto y baile y ritmo vocal. En 734 (el vigésimo segundo año de la fundación de Tang Xuanzong), Na era la reina del decimoctavo hijo de Xuanzong, Shou Wang Li Mao. Yang tenía 16 años y Li Mao también tenía unos 16 años. En 737, la emperatriz Wu Huifei, amada por Xuanzong, murió y había miles de gongos en el harén, ninguno de los cuales satisfizo a Xuanzong. Para complacer a Xuanzong, Collix recomendó a la princesa Yang Yuhuan a Xuanzong. En 740, el Palacio Termal de Xuanzongxing convocó al clan Yang al Palacio del Príncipe Collix y los obligó a abandonar su familia. Tomó el nombre de Taizhen y vivió en el Palacio de Taizhen. En 745, Zuo Weizhonglang también nombró princesa Shou a la hija de Wei Zhaoxun, y Xuanzong canonizó a Yang como su esposa real. «El padre se llevó a su hijo y a su esposa», lo que se convirtió en un gran misterio en la dinastía Tang.
+Yang Guifei tiene tres hermanas, todas ellas de color nacional. También son llamadas al Palacio. Se llaman Sra. Korea, Sra. Guo y Sra. Qin Guo, y cada una recibe 100.000 dólares en grasa en polvo cada mes. La Sra. Guo Guo ocupa el tercer lugar. Es hermosa por naturaleza y no tiene grasa en polvo falsa. Shiyun, la «Sra. Guo Guo» de Du Fu: «La Sra. Guo Guo tomó la iniciativa y se dirigió directamente a la puerta. Pero no les gusta el color rosa gordo, así que se ruborizan las cejas y optan por el color supremo». («Notas detalladas sobre Du Shi», vol. 2) es un reflejo de los hechos.
+Una mujer hermosa, tres mil vidas mimadas. Su ropa ondeaba, las sombras brillaban y la melodía de «Nezang Feather Song» ahogaba las campanas y los tambores de la historia.
+Yang Guifei ganó gran popularidad con su apariencia. Todos sus hermanos eran talentosos funcionarios de alto rango, e incluso su hermano lejano Yang Zhao. Originalmente, era una sinvergüenza. Debido a una buena planificación, Xuanzong y las hermanas Yang apostaron, lo que provocó que Yang Zhao calculara las cuentas de juego, le pusiera el nombre de Guo Zhong y manipulara al gobierno coreano con más de diez puestos como gerente de sucursal. Xuanzong viajó a Huaqingchi y usó a la familia Yang como sus secuaces. Cada equipo llevaba un uniforme y las cinco familias se unieron a un colorido equipo. A lo largo del camino, dejaban caer joyas por todos lados, brillando intensamente, y su lujo era incomparable. La familia Yang se casó con dos princesas y dos gobernadores de condado. Xuanzong también escribió personalmente un monumento en un templo para la familia Yang.
+Es muy cierto que una persona consigue que la gallina y el perro asciendan al cielo.
+En un momento dado, Yang Guifei estaba orgullosa de su arrogancia, ofendió a Xuanzong y Xuanzong la condenó a la familia de su madre. Sin embargo, después de que la esposa real abandonara el palacio, Xuanzong no comió bien y Gao Litu tuvo que traerla de vuelta. En 750, la noble robó la flauta de jade púrpura de Jugoro y la tocó para su propio placer. Como resultado del incidente, fueron expulsados nuevamente del palacio por desobediencia. Después de salir del palacio, le cortaron una gota de seda azul y llevaron a Zhang Taoguang a Xuanzong. Xuan Zong se sorprendió y Collix también la llamó. Shi Yun, de Zhang Hu, de «Dividiendo a Wang Xiaoguan»: «Afortunadamente, nadie vio a Jin Yi. Destruyó en secreto el Fen Wang Xiaoguan». («Colección de poesía Midnight Tang», vol. 5) elogia este hecho. Yang Guifei sabe que Xuanzong no la tiene y es aún más arrogante. La familia Yang «no pide la entrada y la salida; el jefe de la división de Beijing lo mira». Hay un dicho que dice: «No estés triste cuando tengas una niña, no seas feliz cuando tengas un niño». («La leyenda de Yang Taizhen») Li Zhao dijo: «Yang Guifei nació en Shu y le encanta el lichi. Nacidos en el mar de China Meridional, están mejor que los de Shu, por lo que avanzan a pasos agigantados cada año». «Pasando por el palacio de Huaqing» de Du Mu es una prueba inequívoca:
+Changan volvió a mirar a Xiuchengdui, y la cima de la montaña pronto se abrió en la cima de la montaña.
+Tan pronto como montó en el Red Dust Princess se rió, nadie supo que era de Lychee.
+Una generación de emperadores quedó encantada por unas cuantas «concubinas riendo»; ¡ese es el verdadero dolor de la historia!
+El ritmo del tambor de Yuyang despertó una noche de sueños primaverales. Ma Yupo hacía tiempo que había hecho una pausa sombría para «Song of Eternity». Old Tree Furuji se desmayó y tuvo la suerte de vivir la experiencia conmovedora de una experiencia única en la vida.
+A mediados de la mediana edad de Tianbao, Fan Yang hizo que el monte An Lushan cruzara la frontera y Xuanzong lo favoreció, lo que convirtió a las hermanas Yang en hermano y hermana de Lushan, mientras que Yang Guifei reconoció a Lushan como su hijo. Con el pretexto de entrar al palacio para encontrarse con Gan Niang, Lushan provocó descaradamente que Yang Guifei acudiera a él.
+Estos fueron los cimientos de la posterior rebelión de la Montaña Anlu. El poema de Du Mu «Cruzando el palacio de Huaqing»:
+Los árboles verdes de Xinfeng formaron polvo amarillo y regresaron a Yuyang varias veces.
+La canción de neón A Thousand Peaks adquiere su estado original en medio del baile.
+Wan Guosheng quedó cautivado por Taiping y se distinguió claramente por el Templo Tianlou.
+Lushan bailando en las nubes, riendo bajo el viento y las montañas.
+En noviembre de 755, An Lushan se rebeló y Xuanzong entró apresuradamente en el río. Al año siguiente, pasó por la estación de Ma Yi (al oeste del actual condado de Xingping, provincia de Shaanxi). Los militares se amotinaron y obligaron a Xuanzong a matar a Yang Guizhong y entregaron a la princesa Yang Guifei a suicidarse a los 38 años. «La canción de la eternidad» de Bai Juyi es una trágica historia sobre Xuanzong y la consorte imperial.
+La poesía de Yang Guifei, «All Tang Poems», incluye su canción «Giving Zhang Yunrong Dance»:
+Luo Shou estaba lleno de fragancia, en el humo otoñal de la Cerda Roja.
+El viento tembló en Qingyun Ridge y el agua pasó por primera vez por el tierno estanque de sauces.
+Yang Guifei escribió el estilo de baile de una mujer. En comparación con el humo otoñal, hay una imagen que se cierne sobre él; comparada con las nubes, la incertidumbre y la impermanencia de la vida, es aún más parecida a la de un sauce que sopla agua, con gracia y delicadeza, con la fragancia de una manga de rosas, que puede describirse como asombrosa.
+Tres de los «Diálogos Qingping» de Li Bai, la famosa frase «La nube quiere ropa, flores, la apariencia de las flores y la brisa primaveral sopla sobre un viaje a China» («Las obras completas de Li Taibai», vol. 5) también se han convertido en citas famosas desde tiempos inmemoriales. Tras la muerte de la noble, Shu, nativa de Xuanzong, «caminó hasta la calle Fufeng... y luego hasta Shiegukou. Fue Linyu quien participó. Escuchó una campana bajo la lluvia en el paseo marítimo, que estaba justo al otro lado de la montaña. «Shangji rindió homenaje a la consorte imperial con su voz como «La canción de la campana de Yu Lin»». («La leyenda de Yang Taizhen») Este es el origen de la letra posterior de la canción «Yu Lin Ling».
+¿Cómo puede un pañuelo de seda soportar el peso de la vida?
+¡Una generación de emperadores! ¿No estás por encima de los 10.000? Pero no puedes proteger a tu débil Ai Consort, ¿no lo dices todo? Pero observé cómo el rostro de un pez que caía, Shen Yan, cerraba la luna y sentía amargura hacia el dios de la muerte.
+Añadir el crimen de una guerra a una mujer encantadora es una gran tragedia para los hombres.
+¿El flagelo de la cara roja? El emperador sentado en la silla del dragón, ¿estás diciendo eso?
+¡El emperador! Un emperador al que le encantan las montañas y la gente guapa. ¿Sus ríos y montañas se han perdido y la belleza ha sobrevivido?   
+

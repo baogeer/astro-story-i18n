@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-12-09 14:25:13
+title: "Le couple paresseux qui s'est transformé en poulets"
+featured: false
+draft: false
+description: "Un couple savoureux et paresseux a demandé aux dieux de se procurer du riz. La fée a éparpillé le riz dans le champ et l'a ramassé avant le coucher du soleil. Le couple a travaillé dur chaque jour pour cueillir du riz uniquement pour les garder au chaud. Le mari de Hijiu a crié «xa0Moi et moixa0», il est devenu un coq, sa femme a pensé que «xa0pièce par piècexa0» est devenu une poule et l'enfant est devenu un poussin. Les personnes sarcastiques qui sont savoureuses et paresseuses sont appelées «xa0œufs paresseuxxa0»."
+---
+
+
+
+![AstroPaper I18n](/public/the-lazy-couple-who-turned-into-chickens.png)
+
+
+
+
+ D'abord la poule ou l'œufxa0? Cette histoire vous apportera les réponses.
+Il y a longtemps, il y avait un si jeune couple. L'homme adorait se vanter, ne faisait pas son travail correctement toute la journée et montrait à quel point ils étaient avec les gens du monde entierxa0; les femmes étaient délicieuses, paresseuses et peu douées pour les tâches ménagères. Ils luttent pour survivre avec un petit bout de famille laissé par leurs ancêtres.
+Plus tard, ils ont donné naissance à plusieurs enfants et, comme ils avaient encore quelques bouches, les jours où ils étaient submergés étaient encore plus difficiles.
+Ce jour-là, après avoir bu le dernier bol de porridge, ils ont léché la soupe de riz dans le bol. Le mari a dit à sa femmexa0: «xa0Si nous continuons ainsi, nous allons tous mourir de faim. Nous devons trouver un moyen. Sinon, comment pouvons-nous vivre nos journées à partir de maintenantxa0?xa0»
+La femme a soupiré et a ditxa0: «xa0Vous savez aussi que nous n'avons pas cultivé nos terres cultivées depuis de nombreuses années, nous avons fini de manger les aliments vieillis à la maison et personne ne veut nous prêter à manger. Je ne pense pas que même les immortels soient venusxa0; nous ne pouvons qu'attendre de voir et mourir de faim.xa0»
+En entendant sa femme parler d'immortels, les yeux du mari se sont illuminés. Il a emmené précipitamment sa femme et son enfant à l'hôpital et s'est agenouillé. En même temps, il a fait agenouiller sa femme et ses enfants, a joint leurs mains et a prié dans la prière pour que la famille de la fée traverse cette période difficile.
+Après un long moment, alors qu'ils avaient faim et étaient étourdis, la fée est venue et leur a ditxa0: «xa0Je peux vous donner une poignée de riz, mais en guise de punition pour votre paresse, je veux déposer le riz dans les champs, sur le bord de la route et dans l'herbe. Tu devrais essayer de les récupérer avant le coucher du soleil, sinon ils s'envoleront vers le ciel et tu auras faim.xa0»
+Après avoir parlé, la fée a sorti une poignée de riz de ses bras et l'a étendue au loin, puis s'est retournée et a disparu.
+Le couple a emmené les enfants à la hâte ramasser les grains de riz un par un et les a mis dans leurs poches.
+Le soleil s'est couché et les grains de riz au sol ont volé dans le ciel et sont devenus des étoiles dans le ciel. Le couple n'a pas eu d'autre choix que de ramener leurs enfants à la maison, de ramasser les grains de riz qu'ils avaient trouvés et de les verser dans une casserole pour faire cuire du porridge et boire. Ils ont bu toute la bouillie qu'il y avait dans la marmite et n'en ont pas assez bu. Ils ont dû attendre le lendemain pour arriver plus tôt, afin de pouvoir ramasser plus de grains de riz.
+Le mari en avait assez du goût de la famine. Il avait peur de se lever tard le lendemain et de retarder la cueillette des grains de riz. Avant qu'il ne fasse beau, il s'est mis à crier et la famille de Zhang Luo s'est réveillée. Quand ils se sont habillés et ont jeté un coup d'œil à l'extérieur, les grains de riz étaient toujours suspendus dans le ciel, les regardant en un clin d'œil. Ils n'ont pas eu d'autre choix que de rentrer à la maison, consternés.
+Au bout d'un moment, le mari inquiet a recommencé à réveiller la maison. Quand ils sont sortis pour jeter un coup d'œil, il faisait encore nuit dehors.
+Lorsque mon mari a réveillé la maison pour la troisième fois, le ciel était déjà flamboyant. Les étoiles tombent au sol une à une et se transforment en grains de riz. La famille a commencé à être occupée à ramasser des grains de riz. Parfois, ils se servaient de leurs mains pour ramasser les cailloux et les mauvaises herbes et ramasser les grains de riz qui se trouvaient en dessous. Malgré le dur labeur, au bout d'une journée, les grains de riz qu'ils ont cueillis ne suffisaient qu'à remplir leur estomac. Le lendemain, j'ai dû partir tôt et rentrer tard pour aller chercher des grains de riz. La famille est dans une grande souffrance à cause de cela. Mon mari n'a pas réglé son problème de vantardise. Alors qu'il ramassait des grains de riz, il a ditxa0: «xa0J'en ai ramassé beaucoup, j'en ai ramassé beaucoup...xa0» Cela a pris du temps, et après s'être habitué à écouter, il n'a entendu quexa0: ooh (moi), ooh (moi).
+Ma femme trouvait que c'était vraiment ennuyeux de cueillir des grains de riz à longueur de journée, alors chaque fois qu'elle ramassait un grain de riz, elle disaitxa0: «xa0Un morceau, un morceau...xa0» Pendant longtemps, les gens l'ont écoutée se direxa0: OK, OK (pièce) à longueur de journée.
+Parce que leurs enfants sont trop jeunes pour supporter la douleur, ils pleurent et gazouillent derrière leur mère, et celle-ci n'a pas le temps de leur apprendre à parlerxa0; ils continuent de gazouiller comme des petits oiseaux.
+Au fil du temps, mon mari s'est transformé en coq, se réveillant tous les jours avec sa voix qui criait à la maison. Il appelait sa famille trois fois par matin jusqu'à ce qu'il les réveille de leur sommeil. Sa femme est devenue une vieille poule et a «xa0rigoléxa0» avec ses jeunes poules à la recherche de grains de riz à manger.
+Depuis qu'ils sont devenus des poulets, les grains de riz qu'ils ont trouvés n'avaient plus besoin d'être cuits et consommés. Ils les ont mis directement dans le sac et leur vie était beaucoup plus facile qu'auparavant. Ils ne se sont pas débarrassés de leur mauvaise habitude d'être paresseux. Ils ne veulent pas s'occuper des enfants et ne comprennent pas la planification familiale. Ils ignorent souvent la ponte. Parfois, ils veulent des enfants. Afin d'éviter les problèmes, ils éclosent beaucoup d'œufs ensemble pour former des poussins. Depuis lors, les gens considèrent les personnes savoureuses et paresseuses à cuisiner comme leurs descendants, appelées «xa0œufs paresseuxxa0».   
+

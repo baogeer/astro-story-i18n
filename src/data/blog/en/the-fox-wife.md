@@ -1,0 +1,41 @@
+---
+pubDatetime: 2026-11-02 11:47:39
+title: "The Fox Wife"
+featured: false
+draft: false
+description: "Wang Xiao's family is poor. She makes a living by chasing donkeys and selling firewood. When she returned to Shahe at night, she met a beautiful woman many times to help her ride a donkey across the river. Neighbors in the village suspected him of being a fox spirit and taught him to use blood from his middle finger to break the spell. Wang Xiao threw blood according to her plan. The woman was frightened but did not appear in her original form. The adventure came to an abrupt end, implying folk mysteries that are difficult to discern by ladyboys."
+---
+
+
+
+![AstroPaper I18n](/public/the-fox-wife.png)
+
+
+
+
+ In the past, outside of Lengkou in eastern Jidong, there were large mountains and forests, few people*, and there were many wild animals in the mountains. There is a small village called Xiaowangzhuang at the bottom of Mount Dashi, with fewer than ten families. The man died early. Only his mother dragged his young son Wang Xiao to live. The orphaned and widow lived a difficult life. There were no fields and no land. They had two thatched houses to spend their days. People in Zhuangli said, “Who would marry such a family?”
+By the way, my son Wang Xiao grew up day by day, but he was also diligent in taking care of his family, cutting firewood every day and selling it cold. After I had some savings, I bought a donkey and sold it with firewood. Not only did I free up my shoulders, but I was also able to carry back some household items such as salt, alkali, and brine from my mouth and tools such as shovels, picks, hoes, and sickles. The days have improved a bit, but when it comes to the family, people are still... *. Wang Xiaodu is 26 and 7. Her daughter-in-law is still missing, making her mother cry and sigh every day.
+One day, Wang Xiao went to the cold store to sell firewood, and came back a little late. By the Sha River, it was time for the Golden Rooster to fall to the ground and the Yutu to rise east. Wang Xiaozheng rolled up his pants and was preparing to take a donkey across the river. He overheard a sweet, petite question coming from his right side: “Big brother, the little girl is polite! Would you like to cross the river, older brother?”
+Wang Xiao Ding took a close look, oops! My mom, what a beautiful woman! On a hazy evening, I saw her thin waist and legs, dark hair dyed like dark hair, a small face as bright as a bright moon, and her eyes shining like pearls of the night. This one look alone made Wang Xiaohun not keep up. He blushed and casually answered, “Uh-huh, cross the river.”
+The woman was happy to say, “Big brother, coincidentally, the little girl also has to cross the river. Look, the water is cool this evening. I am a female person...”
+The woman's beauty like a fairy made Wang Xiaohun fly out of the sky. These few words of tenderness made Wang Xiaoru even more like being drunk and drifting like a fairy. He excitedly said, “Let's go on a donkey, why are you still going around the corner.”
+The woman said, “Well, the little girl is grateful to her older brother.” Speaking of the money, I walked up to the donkey and smiled mysteriously, and followed Wang's novel: “Big brother, help the little girl.”
+Wang Xiao rubbed his hands. It was a bit embarrassing, but the handsome woman's eyes were still begging him. He thought, none of the women cared. What are your elders afraid of. He let go of his hand pulling the reins, and as soon as he bends over, he holds the woman to the donkey. hey! The woman's body was so soft and boneless that it actually made Wang Xiao's hands crispy.
+After riding a donkey across the river, the woman got off the donkey and shouted to Wang Xiao: “Thanks, big brother, there will be an appointment later.” Before Wang Xiao spoke back, the woman was gone in a blink of an eye, because it was dark and she couldn't see which fork she had gone to. Wang Xiao ran home with the donkey. She was very excited about this amazing encounter. As she walked down the road, she still thought about the pretty appearance of the woman. She couldn't help but look backwards, but the black light was blazing.
+After a few days, Wang Xiao went to sell firewood in the cold, and was greedy again. When he reached the bank of the Shahe River, it was dark again. He thought of the handsome woman he had met here a few days ago, and his heart was itchy. It would be great if he met her again. He looked down and looked around and “giggled” around him. He took a look; it wasn't just a pretty woman who appeared in front of him! The woman smiled and said, “Why, big brother, you don't recognize me anymore?”
+Wang Xiaozheng was looking forward to it. He blushed again. He had no culture and said, “Hey, why don't you recognize it. Burnt to bone and turned to ash; I recognize it all.”
+The woman laughed and said, “You're really hard to hear. No more gossip; I still have to ride my older brother's donkey across the river.”
+“Middle, you, just go on a donkey.” Wang Xiaoqing couldn't help but say it.
+The woman looked back and smiled and said, “Big brother, you still have to help me.”
+This time, Wang Xiaolong firmly picked up the woman and slowly placed it on his donkey's back. He felt very happy. After crossing the river, the woman got off her donkey again. Wang Xiao hurriedly rushed up to hold her donkey. After the woman got off the donkey, she smiled at Wang Xiaojin and said, “You're not at ease.” After speaking, he turned around and disappeared into the night.
+The next day, Wang Xiao took out the snacks he had packed in Zhuangli Zhuang. While selling them, he told about his two adventures. No one in Zhuangli believed it. “What? There is no one home for ten miles at the intersection of Shahe River. They don't have a village before and don't rely on a store after that. Whose family's oldest daughter and little daughter-in-law can stay idle in the wild countryside so late? You, Wang Xiao, have run into a ghost.”
+There are also people who made fun of Wang's novel: “Maybe it's a vixen who deliberately seduces you; how good is it if you make her your daughter-in-law.”
+Wang Xiao was honest and honest, and took it seriously: “Well, can you do it?”
+“Yes, demons and ghosts are afraid of people's middle finger blood. If they get blood from a person's middle finger, they won't return to their original form.”
+The speaker had no intention; the listener had intention; Wang Xiao kept this statement in mind. Wang Xiao finished tossing the goods, and went up the mountain to cut down another donkey pack and firewood. The next day, Wang Xiaoqi rushed the donkey pack to the cold store to sell the firewood barge. After a busy day, he came back to the side of the Sha River, when it was still dark. Coincidentally, the handsome woman was actually waiting for him by the river. “Big brother, the little girl is still waiting to ride your donkey across the river, OK?”
+Wang Xiao smiled and said, “Cheng, we've all known each other a long time. Why not, Grandma, I'll send you home this time.”
+The woman listened and covered her face and said, “What! You call me Grandma? They are still the Big Daughters of the Yellow Flower, so shameful!”
+Wang's novel: “Me, I made a mistake. Big girl, go on a donkey.”
+Wang Xiao held the woman and sat steady. He pulled the donkey across the river and walked to the middle of the river. Wang Xiao secretly bit off his middle finger, bleeding straight. He turned back, flung his hand, and slapped the woman's face. The woman was shocked and almost fell off the back of the donkey: “Oops! Big brother, why are you doing? What dirty thing is making me look like?”
+Wang Xiao smiled proudly and said, “I'm kidding you; lick some water on your face.”   
+

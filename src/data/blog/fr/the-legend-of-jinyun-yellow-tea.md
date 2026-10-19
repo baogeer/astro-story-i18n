@@ -1,0 +1,18 @@
+---
+pubDatetime: 2026-11-17 16:14:24
+title: "La légende du thé jaune Jinyun"
+featured: false
+draft: false
+description: "Lorsque Xuanyuan Huangdi est monté au paradis au pic Dinghu à Xiandu, l'herbe spirituelle tachée de Jin Dan Xian s'est vaporisée en branches dorées et en boutons jaunes. Les gens cueillent les choux jaunes, les font frire à sec et les préparent. La soupe au thé est dorée, parfumée et glycolique. Après l'avoir bu, le corps est en bonne santé, les yeux sont sains et toutes les maladies sont éliminées. Afin d'apprécier les bénédictions de l'empereur Huangdi, ce thé féerique est appelé thé jaune. Les légendes reflètent la gratitude pour les créatures offertes par les immortels."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-jinyun-yellow-tea.png)
+
+
+
+
+ La légende raconte que lorsque Xuanyuan Huangdi a forgé un élixir magique au pic Dinghu à Xiandu, est monté au paradis et s'est envolé dans le ciel, les herbes spirituelles ont été teintées de l'esprit de la fée Jindan et les feuilles vertes ont transformé des branches dorées en thé jaune. Chaque fois que le printemps se réchauffe, l'arbre à thé pousse des pousses jaune doré, aussi belles que s'il s'agissait d'une étrange fleur. Cueillez les pousses jaunes, faites-les frire et faites-les infuser dans de l'eau. La soupe est jaune et les feuilles sont jaunes. Le parfum ne se dissipe pas et l'arrière-goût est glycolique. Les buveurs sont en bonne santé et voient bien, et toutes les maladies sont éliminées. Les gens apprécient le cadeau de l'empereur Huangdi, appelé thé jaune.
+Le thé jaune Jinyun n'est pas un thé jaune traditionnel parmi les six principales catégories de thé. C'est un produit rare du thé vert. Il présente les caractéristiques d'une germination précoce, d'une teneur élevée en acides aminés et d'une teneur élevée en carotène et en lutéine. Il présente les caractéristiques des «xa0trois verts jaunes transparentsxa0»xa0: «xa0d'aspect jaune doré et vert transparent, jaune oie et vert au bas de la feuille et vert en jaune et vert au bas de la feuillexa0». Il a une valeur élevée pour la santé et le bien-être et une valeur d'appréciation de la consommation d'alcool. En novembre 2011, le thé jaune Jinyun de Shenzhen a été présenté pour la première fois à la foire agricole du Zhejiang et a été salué par les initiés de l'industrie et reconnu par le grand public. Ces dernières années, le thé jaune Jinyun a remporté successivement le Zhejiang Agricultural Fair Gold Award, le Chinese Tea Cup Grand Prize, le International Famous Tea Competition Gold Award et le Zhejiang Green Tea Fair Gold Award, et a été sélectionné pour le National Famous Premium New Agricultural Products Catalogue. En 2014, le thé jaune Jinyun a enregistré avec succès une marque de certification d'indication géographique et, en 2016, le thé jaune Jinyun a été sélectionné comme produit sélectionné lors du sommet du G20 à Hangzhou.   
+

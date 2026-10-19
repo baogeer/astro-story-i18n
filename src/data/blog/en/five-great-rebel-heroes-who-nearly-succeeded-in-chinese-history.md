@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-10-25 13:00:58
+title: "Five Great Rebel Heroes Who Nearly Succeeded in Chinese History"
+featured: false
+draft: false
+description: "The laid-back heroes Chen Sheng, Zhang Jiao, Huang Chao, Li Zicheng, and Hong Xiuquan, once shook the dynasty, but in the end, their success or failure came to an end, either in a flash, or a hasty fall, writing a sad and thoughtful chapter in the history of the peasant uprising."
+---
+
+
+
+![AstroPaper I18n](/public/five-great-rebel-heroes-who-nearly-succeeded-in-chinese-history.png)
+
+
+
+
+ 1. Chen Sheng, a migrant worker:
+Chen Sheng and Wu Guang, two former peasants who worked as small laborers, rose to prominence in a remote rural area under heavy rain and challenged a huge empire with 900 people. This seemed like an unbelievable act of recklessness, yet the fire eventually spread to the ground, and it provoked a chain of civil change across the country. Although Chen Sheng and his “Zhang Chu” administration did not overthrow the Qin dynasty, he shouted out a powerful civil rights phrase that future generations will remember: “I would rather have something to do with the king.” History will remember that this drastic change of dynasty, which overthrew the tyranny of the Qin dynasty, was first initiated by an ordinary peasant.
+Famous quote: Swallowtail knows Kongoku no shinai.
+2. Taoist Zhang Jiao:
+At the end of the Eastern Han Dynasty, a major uprising known as the “yellow scarf” swept through the Central Plains like a storm. The organizer, Zhang Jiao, a native of Yizhou, is the Patriarch of the Peace Trail. “The Book of the Later Han Dynasty” records, “The beginning. Giant Deer Zhang Jiao became a 'wise and good teacher', served Huang Laodao, raised his disciples, and knelt down for the first time. The Fu Shui mantra says to cure diseases, the sick are quite healed, and the people believe in it. Kakuin sent eight disciples and was located on all sides. He taught the world with good morality and turned into confusion. For more than ten years. There were hundreds of thousands of protesters, connecting the eight states of Ziqing, Xu, Yu, Ji, Jing, Yang, Jiu, and Pi. Thirty-six ways to complete it. Fangyu is also known as General. There are more than 10,000 generous people, Xiaofang 67 people, and they all have good standing hands.” It was the longest prepared, most well-planned, and most widely mobilized uprising in history. It happened 1,800 years ago, which is a great miracle. Zhang Jiao provided an inspiration for later civil changes and riots; in the early stages of preparation, religion was often the best protective color and glue.
+Famous sayings: Cang Tian is dead, Huang Tian is standing up. He is old in Jiazi, the world is blessed.
+3. The salt dealer's yellow nest:
+Huang Chao came from a salt merchant family and sold private salt with Wang Xianzhi. I have taken the exam several times, but every time I lost my name. He is good at riding and shooting, and has a good sense of poetry. The most famous person in my life to befriend a hero. After the rebellion, Huang Chao called himself “the average general of Chutian Taibao.” After breaking with Wang, he went from strong to weak, and from weak to strong. Huang Chao, who was relegated as an “outlaw,” carried out an unprecedented expedition that took more than 1,000 days, crossing south of the river from Hubei and then north from Guangzhou, sweeping more than 10 provinces, and traveled tens of thousands of miles. This was a great attack in the form of a retreat. When the whirlwind Iron Riders made a big arc on the land of China, the 600,000 army invaded Chang'an, the Tang capital, and then withdrew like an avalanche. History predestined this to be an unfinished expedition. However, the thrilling saga and jaw-dropping ending of this expedition have an eternal charm.
+Famous quote: When autumn comes on September 8, I will kill all the flowers after they bloom.
+4. Li Zicheng, the postgraduate:
+Li Zicheng used to be a monk. At the age of 2l, he applied for a job as a post station manager in Mizhi County, and was soon laid off due to a financial crisis. Li Zicheng, who lost his job, joined the team of “Mudless” Zhang Cunmeng, nicknamed the “Invader”. After becoming self-reliant, he was upgraded to the “Invader King.” (Note: History shows that Li Zicheng was not another general who broke into Wang Gao Yingxiang) This one-eyed traitor undoubtedly stood out from the tide of rebellion that began in Shaanxi at the end of the Ming Dynasty. From being besieged, defrauded several times, and even being destroyed with only 18 horses left, to the later founding of the country “Dashun,” he went all the way north and destroyed. “After passing through an impenetrable city, he met no strong enemies”, and finally buried the Zhu Ming dynasty. However, it suddenly fell at the peak of its glory, leaving behind a hasty dream of a 41-day emperor. Coincidence? Necessarily? What Li Zicheng left for future generations was a questionnaire worth pondering.
+Famous saying: Eat your mother, wear your mother, and open the city gate to welcome the king.
+5. Private teacher Hong Xiuquan:
+This private school teacher spent his early years studying four books and five sutras, and his dream was that one day he would go from taking academic examinations to his career path. However, more than 10 years have passed, and after the years have passed, they have failed in many tests. Not even wearing the crown of Xiucai, he vowed, “Wait for me to teach myself to take the Corporal of the World!” As a result, after a major illness, there were so-called “Awakening Tales” and “Salvation Songs,” a heavenly dream to exterminate demons, an unstoppable wave of worship of God, and the Heavenly Regime that swept through South China, which continued for 18 years, and spread to 20 provinces. This was a shocking revolution, yet it also seemed like a crazy farce with no goals. Hong Soo, who was walking in the midst of half her dreams and half awake, rose from her ideals and was destroyed in her arrogance.
+Famous quote: Hold three feet to set mountains and rivers, drink and enjoy at home all over the world.   
+

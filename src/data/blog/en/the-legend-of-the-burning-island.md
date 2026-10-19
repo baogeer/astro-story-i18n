@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-10-06 11:32:04
+title: "The Legend of the Burning Island"
+featured: false
+draft: false
+description: "Ali and Sister Ali loved her son Agou too much, and if the moon didn't turn his father to death, her mother still condoned it. When Agou grew up, he gathered bad people to do evil and took refuge in Nanliao Island. When Aunt Ali woke up, she prayed for divine punishment. The turkey set fire to the island, and all the wicked were burnt to death. The island has since been called Burning Island. The story warns that doting is bound to cause disaster."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-the-burning-island.png)
+
+
+
+
+ Fire Island is in the East China Sea on the east side of Taiwan Island, tens of miles from Taitung. There is a legend about the origin of Fire Island:
+Ali and her sister-in-law live in Alishan. They have a son named Agou. The couple were afraid that their son and baby would die. They were really afraid that it would melt in their hands, and they were afraid that it would fall off. The weather was cold, and using cotton wraps was like wrapping rice dumplings; when the weather was hot, the couple took turns to fan him until dawn. My son is getting older and can talk and walk. The couple are even more affectionate, and “nice, nice” are inseparable. When my son wants to eat or play, I always try to get him to eat and play with him. I'm always afraid that my son will poke his mouth.
+After dinner one day, the couple took their son for a walk outside the door. The moon came out past the top of the mountain on the opposite side. When my son saw it, he pointed to the moon and said, “Dad, I want to play with the moon. You can take it off the top of the mountain and play it for me.” Dad didn't know how to do it now. He implored, “How can I climb a cliffside mountain to pick the moon?” My son didn't listen to this. After shaking his body for two, he rolled on the ground and cried. In the past, as soon as the son rolled away, his parents only had to make every effort to meet his demands, but now this request to pick the moon has made his dad stumped. Mom hurriedly picked up her son, slapped the mud off his body, and hugged him and said, “Be nice, don't cry. Dad went up the mountain to pick the moon for you.” She turned her head and harshly scolded Ali: “You, what are you, lao, go up the mountain to pick the moon and play for Agou!”
+Ali had no choice but to climb up the mountain. He had a hard time climbing vines and rocks. The climb was sweaty, and his hands and feet trembled. But Yamashita's son kept urging: “Hurry up, hurry up, pick the moon for me to play!” Ali climbed to a steep cliff and stepped on a turquoise stone. He rolled down the foot of the mountain with a stone bone. His brain shell opened, his hands and feet were broken, and his flesh and blood were fuzzy like a bunch of rotten pumpkins.
+Sister Ali took Agou to watch. Her heart was as painful as being stabbed, and tears flowed down her eyes. My son Agou was also a dancer and burst into tears, but he wasn't crying about his dad's death; he was crying that dad didn't pick the moon: “Meet, meet, meet, dad doesn't pick the moon for me, lie down and sleep here, don't meet...” Mom also followed her son's heart and scolded Ali: “If you don't pick the moon to play with Agou, you should die!”
+After Ali was buried, Sister Ali still doted on her son and indulged a few. My son is getting bigger and bolder. Sister Ali is also old and is called Aunt Ali. Her son has grown to stealing cows, stealing food, and gathering a gang of bad guys to kidnap, kill people, and set fire. The common people were greatly harmed, so they organized to fight against the gang of bad guys called Agou.
+Agou led a team of villains across the sea to take over Nanliao Island and kill all the people on the island. They also often take boats to Taitung, Cannabis, and Dulan to kidnap people, loot property, and set villages on fire, causing anger and anger. Everyone is here to blame Aunt Ali: “You, doting on children and condoning children. Now you are ruining our common people's families and not being able to live well. Don't you feel sad? You are guilty!” Later, the bad guys actually robbed Aunt Ali's house, stole her chicken, pigs, and food, and hurt Aunt Ali. Only then did Aunt Ali wake up.
+As a result, she prayed to heaven with the common people and asked Grandma to get rid of this scourge. A tall turkey flew down from the sky. It had long legs and red skin hanging down its mouth, like a cloud of fire. It came to Aunt Ali's house and said, “Aunt Ali, Grandma Matsu sent me down to burn the bad guys on Nanliao Island with a fireball. Do you agree? Your son Agou is there.” Aunt Ali hated and said, “Agou is not my son. Burn it, burn it, burn out that bunch of bad guys!”
+The turkey stood on a rock cliff on the Taitung coast. It clapped its wings, raised its head, opened its mouth, and made a loud noise. It flew to Nanliao Island in a string. The fire burst into flames and burst into flames.
+Aunt Ali shouted with the people: “Burn, burn, burn that bunch of bad guys!” The fireball in the turkey's mouth continued to blow past, burning, burning, all the bad guys on Nanliao Island were burnt to coke, and even the stones were burnt red. Aunt Ali didn't drop a single tear; she just shouted, “Burn, burn, burn well! Burned great!”
+Later, people called Nanliao Island Fire Island, and only one town was called Nanliao Town.   
+

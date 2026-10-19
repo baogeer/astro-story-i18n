@@ -1,0 +1,20 @@
+---
+pubDatetime: 2026-12-18 06:24:51
+title: "Jinzhan y Baiye matan al malvado dragón"
+featured: false
+draft: false
+description: "Hay dragones en el río Jiulong en Zhangzhou. El joven Baiye y la niña Jin Zhan saltaron valientemente al río para luchar, y ambas murieron. La gente descubrió que tenían dos flores extrañas que crecían en la batalla. El pétalo blanco tiene un corazón dorado llamado vela dorada, y el otro mechón se llama trébol o narciso, alabando a los héroes que mataron a personas."
+---
+
+
+
+![AstroPaper I18n](/public/jinzhan-and-baiye-slay-the-evil-dragon.png)
+
+
+
+
+ En las afueras del suroeste de la ciudad de Zhangzhou, hay una hermosa montaña Yuanshan. Hay un gran río que corre hacia el este al pie de la montaña. Nueve hermosos y amables dragones dorados viven en el río. El pequeño dragón dorado a menudo nada y juega en el río. La gente llama a este río el río Jiulong. En la orilla sur del río Jiulong, hay un hermoso pueblo. Hay muchos trabajadores amables que viven en el pueblo. Han cultivado aquí durante generaciones y han vivido una vida cómoda. Entre ellos se encuentra una adolescente valiente y trabajadora llamada Baiye; también hay una chica inteligente y hermosa llamada Jin Zhan.
+Un día, hacía buen tiempo y los nueve pequeños dragones dorados estaban jugando en el río. De repente, el viento soplaba con fuerza, se movían nubes oscuras y enormes olas. Sin que yo lo supiera, un malvado dragón salió volando de allí y se aferró al pequeño dragón dorado, como si se los fueran a tragar todos de un bocado. El ingenioso dragoncito dorado no podía luchar contra ese malvado dragón, así que date prisa y escóndete en la piscina profunda. Cuando el malvado dragón vio que el Pequeño Dragón Dorado había escapado, se apoderó del río y creó olas en él, lo que provocó que el río creciera, se extendiera por toda la orilla occidental e inundara la aldea de Liangtian. La gente de la aldea tuvo que ayudar a los ancianos y correr a Yuanshan para escapar del desastre. Cuando el dragón vio que la gente le tenía miedo, se sintió aún más orgullosa. Una vez más, hicieron estallar enormes olas, lo que provocó que el río creciera una y otra vez. ¡Querían repartirse por todo Yuanshan, tratar a las personas fugadas como bocadillos y disfrutar de una comida agradable!
+Cuando todos tenían demasiado miedo de hacer algo, el valiente adolescente Moye se puso de pie y les dijo a todos: «Padres y hermanos, no tengan miedo. Debemos unir fuerzas para luchar contra el malvado dragón. Por favor, toca el cuenco de cerámica y aplaude en voz alta para ayudarme a eliminar a este malvado dragón». Hablando de retrasos, entonces fue rápido. Momoye bailó con un cuchillo de madera, saltó con fuerza hacia el dragón y cortó la parte mortal de la parte inferior de la espalda del dragón. El dragón gritó de dolor. La cola del dragón recorrió Momoye, rápidamente se inclinó hacia un lado y volvió a cortarla. El malvado dragón se dio la vuelta de dolor y arrojó el rollo de celosía al agua.
+En la orilla, Jin Zhan, que gritaba aplausos entre la multitud, vio que la hoja era peligrosa y saltó al agua para ayudar en la batalla. Golpea al dragón, derribó al dragón y lo apuñaló en el corazón. El dragón hizo un último esfuerzo e hizo todo lo posible para barrer a Jin Zhan con la cola y lo ahogó en el agua. En este punto, el agua retrocedió y todos corrieron rápidamente montaña abajo en busca de persianas y velas doradas, pero no pudieron encontrarlas. Vi que en el lugar donde lucharon contra el dragón había dos flores extrañas muy hermosas. Nadie sabía sus nombres porque crecían en el agua, así que las llamaban «narcisos». Más tarde, estas dos extrañas flores tenían exactamente la misma cabeza y hojas, pero florecieron dos tipos diferentes de flores. Una flor tenía seis pétalos blancos con un pequeño bulbo dorado en el centro. La gente la llamaba «vela dorada», y la otra flor también tenía seis pétalos blancos, pero en el centro había varios pétalos pequeños con pliegues ligeramente amarillos en la base. La gente las llamaba «cien hojas». Desde entonces, los narcisos han crecido al pie del monte. Maruyama.   
+

@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-10-17 01:38:07
+title: "À la rencontre de pivoines au cœur des montagnes Qinling"
+featured: false
+draft: false
+description: "Pendant la période Wanli de la dynastie Ming, le célèbre docteur Zhao Ruibo a rencontré des pivoines sauvages alors qu'il collectait des médicaments dans les montagnes Qinling. La première greffe a échoué en raison d'une mauvaise saison. Il a pris note de «xa0l'anniversaire de la pivoine le 15 aoûtxa0» et s'est rendu dans les montagnes pour la transplanter deux fois, et a finalement réussi. Plus tard, il s'est rendu à Luoyang pour présenter des produits célèbres tels que Yao Huang et Wei Zi, afin que les pivoines prennent racine et prospèrent à Caozhou. L'histoire fait l'éloge de l'esprit d'exploration incessant."
+---
+
+
+
+![AstroPaper I18n](/public/encountering-peonies-deep-in-the-qinling-mountains.png)
+
+
+
+
+ Dans le canton de Peony à Caozhou, quiconque évoque l'origine des pivoines à Caozhou doit mentionner le nom de Zhao Ruibo. La légende raconte que pendant les années Ming Wanli (il y a plus de 400 ans), Zhao Ruibo, un jeune médecin célèbre de Zhao Lou, s'est rendu dans le Shaanxi pour pratiquer la médecine. Sur le chemin du retour, il a fait un détour par les montagnes Qinling pour récupérer des médicaments. Juste au pied de la montagne, j'ai vu une belle jeune femme portant un parapluie bleu, chevauchant un âne et chantant la chanson de montagne «xa0Flowerxa0» en marchantxa0:
+Le parapluie bleu, l'âne et le khan jiayi
+Dans les montagnes de Qinling,
+Mes yeux sont pleins de pivoines.
+Mon frère a trouvé Little Sister.
+Parmi les fleurs,
+Les mots insatiables qui ne cessent de sortir de la tête.
+Ripple connaît depuis longtemps les propriétés médicinales de l'écorce de racine de pivoine. Il est épicé et légèrement froid. Il absorbe suffisamment les effets négatifs du calendrier lunaire, a la diarrhée, interrompt l'accumulation de sang, passe par les méridiens et traite les cinq douleurs des accidents vasculaires cérébraux... Cependant, ils sont rares localement. Ils peuvent être achetés à distance et sont chers. Si vous pouvez cultiver le vôtre, c'est très pratique. En y réfléchissant, il était encore plus motivé pour gravir la montagne et a poursuivi le chant de la femme. En escaladant quelques petites collines, la femme a disparu dès qu'elle a franchi un virage et sa voix chantante a disparu. Il était inquiet. En regardant la colline devant lui, c'était vraiment un «xa0saule foncé et brillantxa0». Le rouge, le violet, le blanc, le rose, coloré et vraiment magnifique. J'ai donc fait un grand pas et j'y suis allée. Quand je l'ai vu récemment, mes yeux étaient pleins de grandes, hautes et basses fleurs de pivoine. Parce qu'elles sont sauvages et qu'aucune plante familiale n'est grande et qu'elles ont toutes un seul pétale, mais elles sont de couleurs vives, mais elles semblent surpasser celles cultivées à la maison. Il est extrêmement content. Bien qu'il soit au cœur des montagnes, il ne se sent pas du tout seul. Il pense que chaque fleur de pivoine d'ici ressemble à une femme magnifiquement maquillée. Il attend avec impatience que quelqu'un fasse le tour du monde et dédie sa jeunesse et sa beauté à ces personnes travailleuses, courageuses et gentilles. Il a sorti une pelle à pharmacie de sa taille, a choisi les meilleures couleurs, les a déterrées, les a enveloppées dans une corde de paille et les a mises dans son sac à dosxa0; après avoir serré sa ceinture, il a joyeusement descendu la montagne depuis le chemin d'origine et a trouvé le bon chemin pour retourner à Kanto. J'ai mangé et dormi en plein air tout le temps, je n'ai ressenti aucune douleur et je suis rentrée chez moi en quelques jours.
+Ripple a choisi la meilleure parcelle de terrain de la maison, a planté les pivoines qu'elle avait déplacées et l'a gérée avec soin.
+Cependant, il est difficile de faire pousser de bonnes fleurs. Au printemps de l'année suivante, ces pivoines immigrées n'avaient ni fleurs ni feuilles. Ils venaient de révéler quelques pousses vertes et se sont vite fanés.
+Ripple était très triste et son ami lui a ditxa0: «xa0Votre échec cette fois-ci n'était pas la bonne saison pour la transplantation. Le 15 août est l'anniversaire de la pivoine. Il est préférable de transplanter la pivoine aux alentours de son anniversaire pour survivre.xa0» Lorsque Ripple a entendu cela, Maosai s'est ouvert et a décidé de se rendre dans les montagnes Qinling jusqu'à l'automne août.
+Ripple est parti fin juillet. Il a escaladé les montagnes Qinling à deux reprises. Après un mois d'absence, il est rentré à la maison plein de choses. Coupez les pivoines que vous avez ramenées à leur emplacement d'origine. Au printemps de l'année suivante, de jeunes pousses fortes ont certainement poussé. Aucun effort n'a été épargné. Après la pluie, les pivoines qui sont venues fleurir. Ils sont rouges, blancs, roses et violets et sont toujours célibataires.
+Ripple a analysé les habitudes de croissance des pivoines, les a fertilisées en temps opportun et les a gérées avec soin. En quelques années, ils sont passés de fleurs simples à des pétales doubles et ont construit des bâtiments très beaux.
+Ripple a estimé qu'il ne suffisait pas d'utiliser ce nombre limité de dizaines de pivoines pour fabriquer des «xa0pissenlitsxa0»xa0; il fallait également les cultiver en grandes quantités pour ajouter de nouvelles variétés. Il a appris que, bien que Luoyang ait été attaquée par les dynasties Jin et Yuan, les pivoines étaient tombées en décomposition et avaient presque disparu, mais qu'à la campagne, plus de 10 variétés colorées telles que Erqiao, Yao Huang et Wei Zi ont été préservées. Il a également travaillé sans relâche. Il a parcouru une longue distance jusqu'à Luoyang pour récupérer plus de 10 nouvelles variétés et agrandir son jardin.
+(Li Baoguang)   
+

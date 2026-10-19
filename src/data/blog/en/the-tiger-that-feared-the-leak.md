@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-24 19:07:55
+title: "The Tiger That Feared the Leak"
+featured: false
+draft: false
+description: "A cow dealer took the cow out of the temple and sighed, “Ghosts aren't afraid of tigers; they're only afraid of omissions.” The little tiger and the female tiger mistakenly thought that the “leak” was extremely serious. The mother tiger extended her tail into the temple and tried, and was cut off by a cow dealer with a knife, and fled back in pain. The story uses dialect mistakes to collide, showing the amazing charm and unexpected coincidence of Southern Fujian dialects."
+---
+
+
+
+![AstroPaper I18n](/public/the-tiger-that-feared-the-leak.png)
+
+
+
+
+ Southern Fujian dialect is sometimes surprisingly and very interesting to use in everyday applications and in life. It shows that a mistake had an unexpected ending, yet it was also quite magical and profoundly meaningful. These are probably the artistic effects of the Southern Fujian dialect.
+The folk story “The Tiger Is Afraid of Leaks”, which is popular in the Zhangzhou region of southern Fujian, illustrates this kind of case. The ending of the story was really surprising.
+The story goes like this. One evening, a cowboy who wanted to walk and miss the inn pulled two young calves (sound cowboys), looked at Nanshan Mountain, and was seen by a little tiger who came out looking for food. The tiger secretly followed them, ready to wait for an opportunity to eat the calf. Just at this time, it started raining heavily. Cow dealers were only able to take young calves and go to a temple to take shelter from the rain. Who wants it to keep raining as it gets heavier. The cow dealer had no choice but to close the broken temple door. He tied the calf to a pillar next to it and found a place to rest for himself. Who knows that this temple has been in disrepair for a long time. It's completely dilapidated, and rain is leaking everywhere. I only found a dry place under the pillar next to the door to sit and rest. The little tiger guarding outside the gate was impatient. Just about to go in and bite the calf, he heard the cow seller sigh and say, “Tonight, I'm not afraid of ghosts, neither are tigers; they're just afraid of leaks! As soon as Little Tiger heard it, he thought to himself, this person is really strange. I'm a tiger. He's not afraid, but he's afraid of missing something? What exactly is this leak? Great, isn't it? I'll go back and ask my mom before talking. So I ran back to the hole, repeated what I had just seen and heard, and then asked: What exactly is a “leak”? Great, isn't it? The mu tiger couldn't figure out what kind of “leak” this was something she had never heard of. She called Little Tiger waitering in the cave and went out to see for herself.
+Before the female tiger arrived at the broken temple, it only heard a sound of snoring. It crouched down and stuck its tail out of the hole, scratched it left and right, trying to scratch the calf out. It was delicious. At this point, the cow dealer was leaning on a pillar and was about to fall asleep. Suddenly, his face was scratched by a tiger's tail. He woke up, “Oops, no good, the tiger is here!” When he calmed down, he took out the sharp knife from his waist and cut it down violently. The tiger didn't expect this move. Suddenly, his tail was bitten off for a while, yelling in pain, and desperately trying to flee far away.
+The female tiger ran back into the hole in a daze. To the little tiger, the “leak” was really a no-brainer. Thankfully, I was able to run fast, and my tail was only bitten off for a while. If I couldn't run fast, I'm afraid I'd even lose my life.
+The story's content from the beginning, development, end, and passage is truly amazing. The turning point of the whole story is that the cow dealer inadvertently uttered a bitter exclamation: “Tonight, I'm not afraid of ghosts, I'm not afraid of tigers; I'm just afraid of omissions!”
+Just because of this leak, a tiger, the king of all beasts, which is ferocious and eats people without blinking, was frightened so miserably. It's really amazing that some language application mistakes were able to survive a major disaster. This is the charm of the Minnan language. Just because one word was omitted, the entire article was surrounded by wonder. It only took up a very small part of the story's presentation, yet the whole story was intriguing and brilliant because of it, which is really not easy! From this story, we can see the ingenuity of communication in the Southern Fujian dialect. There is essence everywhere, and it can be written in an article!   
+

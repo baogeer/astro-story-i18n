@@ -1,0 +1,37 @@
+---
+pubDatetime: 2026-11-12 01:10:38
+title: "El viaje de la princesa Wencheng al Tíbet"
+featured: false
+draft: false
+description: "Para llevarse bien con la dinastía Tang, Song Zan Kanbu envió enviados muchas veces para pedir una familia. Tang Taizong pasó la prueba de las «Cinco propuestas de matrimonio difíciles» y finalmente se casó con la princesa Wen Cheng. La princesa trajo semillas, libros, etc. a la colección, y Songzanganbu recibió personalmente el palacio y lo construyó. Vivió en Tuban durante 40 años y promovió la amistad y los intercambios culturales entre China y el Tíbet."
+---
+
+
+
+![AstroPaper I18n](/public/princess-wencheng-s-journey-to-tibet.png)
+
+
+
+
+ Después de que Tang Taizong destruyera a los turcos orientales, también envió a Li Jing para derrotar a Tuguhun en el suroeste y abrir un canal en la región occidental. Los países de la región occidental tuvieron contactos con la dinastía Tang uno tras otro. También enviaron mensajeros a lugares tan lejanos como Tufan, en el sudoeste.
+En ese momento, el nombre de Zanpu en Tuban era Song Zanganbu, y era una persona talentosa capaz de leer y practicar artes marciales. Cuando tenía 13 años, dominaba varias artes marciales, como la equitación, el tiro con arco y la esgrima. También le encantaban las canciones populares y era bueno para escribir poesía, y los tubanos lo adoraban. Tras la muerte de su padre, la nobleza tubana inició una rebelión, y Song Zan Ganbu confió en su valentía e ingenio para calmar rápidamente la rebelión.
+El joven Song Zan Ganbu no estaba satisfecho con la vida de un aristócrata en Tuban. Para conocer la cultura de la dinastía Tang, envió un enviado y viajó una gran distancia hasta Chang'an para exigir el establecimiento de relaciones amistosas con la dinastía Tang.
+Tang Taizong también se enteró de la fama de Tuban, quiso hacerse amigo de ellos y también envió un emisario a visitar Tuban.
+Después de dos años, Song Zan Ganbu envió otro mensajero a Chang'an para preguntar por una familia en la dinastía Tang, pero Tang Taizong no estuvo de acuerdo. El mensajero de Tuban temía que Song Zan lo acusara de no hacer nada. Cuando regresó a Tuban, le mintió a Songzan y le dijo: «Tang Tianzi está a punto de aceptar casar a la princesa con nosotros. Como el rey Tugu también buscaba una familia, dejó a nuestra familia en suspenso».
+Tuban y Tuguhun ya estaban en conflicto. Ganbu Song Zan escuchó la recompensa del mensajero y se ofendió aún más con Tuguhun. Inmediatamente envió 200 000 caballos para atacar a Tuguhun. El rey Tugu Hun vio que el ejército de Tufan era agresivo. Incapaz de resistirse, se retiró a la zona de Huanhai.
+Songzan Ganbu derrotó a Tuguhun, aprovechó la victoria para derrotar a Songzhou en la dinastía Tang y obtuvo otra gran victoria. Song Zan Ganbu se enorgulleció y envió a alguien a amenazar a la dinastía Tang diciendo: «Si no te casas conmigo, llevaré el ejército a Chang'an».
+Tang Taizong se enojó y envió al general Hou Jun a traer tropas para luchar contra Tufan. Los generales tuban no estaban dispuestos a iniciar una guerra con la dinastía Tang contra Songzan Ganbu. Cuando vieron que la dinastía Tang había enviado un gran ejército, todos exigieron que se les diera de baja. Song Zan se dio cuenta de que les iría bastante bien; si fracasaban, buscaron la paz con la dinastía Tang.
+Tang Taizong originalmente quería ser amigo de Tuban, por lo que accedió a hacer las paces.
+En el 640 d.C., Song Zan Ganbu también envió a un talentoso mensajero, Lu Dongzan, con un equipo de 100 personas, preparó un generoso obsequio de 5.000 monedas de oro y muchos tesoros y fue a Chang'an a preguntar por su familia.
+Tang Taizong conoció a Lu Dongzan. Lu Dongzan transmitió el deseo de su joven rey de entablar amistad con la dinastía Tang, y fue muy elocuente. Tang Taizong estaba muy satisfecho. Entre las hijas de la familia real, eligió a una hermosa y gentil, llamada princesa Wencheng, y la casó con Song Zan Ganbu.
+Se dice que el mensajero Lu Dongzan es una persona extremadamente inteligente. Más tarde, entre los habitantes de la meseta tibetana de Qinghai, se difundió la conmovedora historia de las «Cinco difíciles propuestas de matrimonio»:
+Cuando Lu Dongzan buscó familia en Chang'an, muchos mensajeros de varios países vinieron a pedirla. Tang Taizong ordenó a los mensajeros que acudieran a preguntar por su familia que respondieran primero a cinco preguntas difíciles. Si un enviado de cualquier país puede responder, promete estar cerca de ese país.
+El primer tema consistía en pasar un alambre muy delgado a través de una perla con nueve agujeros. Lu Dongzan ató un hilo de seda a la cintura de una hormiga. Las hormigas llevaban hilo de seda y treparon por el agujero de Jiuqu de la Perla, y trajeron el hilo de seda.
+El segundo tema fue juntar 100 yeguas y 100 ponis pequeños y pedir que identificaran qué poni nació de qué yegua. Lu Dongzan separó a la yegua del potro durante un día y le cortó el alimento y el agua. Al día siguiente, vuelve a juntarlos. Los ponis hambrientos fueron a buscar a su madre un poco de leche por separado. Su relación madre-hijo también es reconocible.
+Lu Dongzan pasó una prueba. La última fue averiguar quién es la princesa Wencheng entre 2.500 hermosas jóvenes. Gracias a su aguda vista, Lu Dong reconoció de repente a la graciosa princesa.
+Es poco probable que estas leyendas sean ciertas, pero reflejan el deseo del pueblo tuban por la amistad de Tang Fan y elogian a los mensajeros que completaron esta misión.
+En el año 641 d.C., la princesa Wencheng, de 24 años, partió hacia Tuban escoltada por el rey Li Daozong de Jiang Xia. La dinastía Tang preparó una dote muy rica para la princesa. Las joyas de oro y plata, la seda y el satén son, por supuesto, imprescindibles. Además de esto, también hay muchas semillas, hierbas medicinales y gusanos de seda que Tuban no tiene. También trajo una gran cantidad de libros sobre medicina, plantación de árboles, técnicas de ingeniería y calendario astronómico.
+La noticia del matrimonio de la princesa Wencheng llegó a Tufan. Desde la frontera de la dinastía Tang hasta Tufan, la gente preparaba caballos, yaks, botes y comida para recoger a la princesa Wencheng. Kanbu Song Zan corrió personalmente a Baihai para saludarlo. Songzanganbu y la princesa Wencheng celebraron allí una gran boda.
+Después de la boda, Songzan Ganbu y la princesa Wencheng cruzaron la meseta montañosa nevada hacia Luodaecheng. El día en que la princesa entró en la ciudad, algunas personas cantaron y bailaron, y les dieron la bienvenida como si estuvieran celebrando un gran festival. Song Zan Ganbu todavía construyó un castillo palacio especial para que viviera la princesa, según el estilo arquitectónico de la dinastía Tang.
+La princesa Wencheng vivió en Tuban durante 40 años. Contribuyó a los lazos amistosos entre los pueblos chino y tibetano y al desarrollo de la economía y la cultura tibetanas. Hasta ahora, las estatuas de Songzan Ganbu y la princesa Wencheng estaban consagradas en el templo de Jokhang y el palacio de Potala, en el Tíbet. En el año 550 d.C., Kanbu Songzan murió. Tang Taizong también murió de enfermedad el año anterior. Fue sucedido por el príncipe Li Zhi. Es Tang Gaozong.   
+

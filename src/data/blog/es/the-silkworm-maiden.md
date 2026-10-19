@@ -1,0 +1,39 @@
+---
+pubDatetime: 2026-12-25 09:00:26
+title: "La doncella del gusano de seda"
+featured: false
+draft: false
+description: "Su madre obligó a Ah Qiao a cortar el césped en el frío invierno. Guiada por pájaros de cuello blanco, recogía moras, criaba gusanos de seda y teñía la seda con la señora de los gusanos de seda. Tres meses después, trajo huevos de gusanos de seda y semillas de morera de su ciudad natal, solo para descubrir que habían pasado 15 años. Tras la morera, no había forma de encontrar un país de las maravillas. Los pájaros la culpaban por robar tesoros, por lo que mantuvo a los gusanos de seda en la tierra y comenzó la industria de la sericultura. La historia explica el origen de los gusanos de seda y centra la imaginación en el trabajo duro y en las relaciones entre hadas."
+---
+
+
+
+![AstroPaper I18n](/public/the-silkworm-maiden.png)
+
+
+
+
+ Cuenta la leyenda que la familia de la Dama del Gusano de Seda vive en una zanja en medio de las montañas.
+En los primeros años, en la zona de Lifoqiao de Hangzhou, había una niña inteligente y capaz llamada Ah Qiao. Cuando Ah Qiao tenía nueve años, su madre murió, abandonándola a ella y a su hermano de cuatro años. Papá pidió una hijastra. ¡El corazón del Escorpión, que nació más tarde, es terrible cuando se trata de la hermana y el hermano de Ah Qiao! En pleno invierno de este año, un día, mi nuera, llamada Ah Qiao, llevó una cesta de bambú y se enfrentó al viento del norte para cortar el pasto de las ovejas. Cuando hace frío y hace mucho frío, ¿dónde queda todavía hierba verde? Ah Qiao corrió desde la mañana hasta el anochecer, encontró la ladera de una montaña junto al río, pero no encontró ni una pizca de hierba tierna. Tenía frío y miedo, así que se sentó en medio de la ladera de la montaña y se puso a llorar. Llorando y llorando, de repente oí una voz por encima de mi cabeza que decía:
+«¡Corta la hierba, medio barranco!
+¡Necesito cortar el césped, medio barranco!»
+Ah Qiao levantó la vista y vio un pájaro de cabeza blanca que revoloteaba hacia el barranco. Luego se puso de pie, se secó las lágrimas y siguió al pájaro de cabeza blanca. Después de doblar una esquina, el pájaro de cabeza blanca desapareció. Vi un viejo pino parado en la desembocadura de la montaña. Un elefante verde cubrió el mizoguchi con una gran sombrilla. Ah Qiao sacó una rama y rodeó los pinos. De repente, sus ojos se iluminaron y vio un arroyo curvo que fluía murmurando. Las flores de las orillas del arroyo son rojas, verdes y hermosas como la primavera.
+Cuando Ah Qiao vio la hierba, parecía que había encontrado un bebé. Estaba ocupada agachándose y cortándose el cuerpo. Se cortaba caminando y alejándose cada vez más. Antes de darse cuenta, llegó al final del arroyo.
+Cortó una cesta de bambú llena de hierba verde y se puso de pie para quitarse el sudor de la comisura de la frente, pero no muy lejos vio a una tía vestida de blanco, vestida de blanco, que la saludaba con un fino cesto en la mano. La tía vestida de blanco sonrió y le dijo a Ah Qiao:
+«Niña, esa es una invitada poco común. ¡Quedémonos en nuestra casa unos días!»
+Ah Qiao levantó la vista y vio otro mundo frente a ella: en medio de la ladera de la montaña, había una hilera ordenada de casas con paredes blancas y rosas y azulejos blancos; frente a la casa había un bosque enano, las hojas verdes eran más grandes que una bofetada; y también había muchas tías vestidas de blanco, todas cargando cestas pequeñas, riendo y cantando, recogiendo las hojas frescas del bosque enano.
+Ah Qiao estaba tan feliz de haberse quedado aquí.
+Después, Ah Qiao, junto con sus tías vestidas de blanco, recogían hojas tiernas en los bosques enanos durante el día y se las daban de comer a un insecto blanco como la nieve por la noche. Poco a poco, los bichos crecían y escupían seda para formar una por una pequeñas nueces blancas como la nieve. Mi tía vestida de blanco le enseñó a Ah Qiao a dibujar estas pequeñas nueces blancas como la nieve en un hilo de seda brillante, y a usar el árbol para teñir el hilo de seda de color: el hilo verde teñía el hilo azul, el rojo teñía el hilo rojo, el amarillo teñía el hilo dorado... La tía vestida de blanco también le dijo a Ah Qiao que estos pequeños bichos blancos como la nieve se llaman «bichos del cielo», y las hojas que alimentan a los bichos del cielo se llaman «hojas de morera»; este colorido hilo de seda bordaba dragones para el emperador y hacía nubes para el tejedor.
+Ah Qiao vive en un barranco. Recoge hojas de morera con su tía vestida de blanco, alimenta a los bichos celestiales juntos y junta seda. Ella vivió una vida muy ajetreada. Pasaron tres meses en un abrir y cerrar de ojos.
+¡Ese día, Ah Qiao de repente recordó a su hermano menor y le pidió que viniera y tuviera una buena vida aquí también! Tan pronto como amaneció al día siguiente, no pudo decírselo a su tía vestida de blanco, así que se cuidó y se fue a su casa.
+Cuando se fue, Ah Qiao también tomó una hoja de papel en blanco cubierta con huevos de insectos celestiales. Además, empaqué dos bolsas de moreras. Por el camino, los perdí por completo. Pensé para mis adentros: mañana volveré con las moreras.
+Ah Qiao se fue a su casa y echó un vistazo. ¡Su padre ya es viejo y su hermano menor se ha convertido en un hombre joven! Cuando papá vio a Ah Qiao de vuelta, estaba feliz y triste y preguntó:
+«Ah Qiao, ¿por qué estuviste 15 años antes de regresar? ¿Dónde has estado todos estos años?»
+Después de escuchar, Ah Qiao le contó a su padre cómo subir la montaña y cómo conoció a su tía vestida de blanco. Los vecinos de la izquierda y de la derecha lo tienen. Todos fueron a verla y dijeron que había conocido a un hada.
+Temprano a la mañana siguiente, Ah Qiao quería volver al barranco y echar un vistazo. Acababa de salir y miró hacia un bosque verde enano a lo largo de la carretera. Resultó que todas las moreras que había dejado se habían convertido en árboles. Caminó por el bosque hasta el barranco. El viejo pino de la desembocadura de la montaña todavía está cubierto como una sombrilla; si quieres entrar, no podrás encontrar el camino.
+Ah Qiao estaba aturdido ante el viejo pino y vio que el pájaro de cabeza blanca volaba de detrás del viejo pino gritando:
+«¡Ah Qiao robó el tesoro!
+¡Ah Qiao robó el tesoro!»
+Solo entonces Ah Qiao recordó que cuando se fue, no habló con su tía vestida de blanco. También se llevó un huevo de insecto celestial y dos bolsas de moreras. La tía vestida de blanco debe haber estado enojada y haber ocultado el camino y no la dejaría ir de nuevo. Como resultado, regresó a su casa, incubó los huevos del insecto celestial, recogió hojas jóvenes de morera para alimentarlos y crió al insecto celestial en su casa.
+Desde entonces, ha habido bichos celestiales en el mundo humano. Más tarde, la gente combinó la palabra insecto celestial y lo llamó «gusano de seda». Se dice que la tía vestida de blanco que Ah Qiao conoció en medio de un barranco es una florista de gusanos de seda que se encarga de los capullos de gusanos de seda.   
+

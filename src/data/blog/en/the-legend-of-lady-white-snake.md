@@ -1,0 +1,103 @@
+---
+pubDatetime: 2026-10-10 06:36:29
+title: "The Legend of Lady White Snake"
+featured: false
+draft: false
+description: "Baek Su-jeong and Xu Xiancheng got married to help the world. At Dragon Boat Festival, they mistakenly drank Xionghuang in their original form, and the white snake stole Ganoderma lucidum to save her husband. Fahai lured Xu Xian to Jinshan Temple, and Bai Niang Zi was defeated at Suiman Jinshan. After giving birth, she was suppressed by a gold bowl against Leifeng Pagoda. Later, her son Shilin Zhong Zhuangyuan saved her mother, and Fa Hai was punished and hid in the stomach of a crab. The story praises the steadfast love and ridicules the unraveling of the marriage."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-lady-white-snake.png)
+
+
+
+
+ Once upon a time in the spring, the snow on the four shores of the West Lake melted, the water rose in height, and the name swallow sang, the flowers bloomed all over the branches, and butterflies and bees all came out to pick the flowers. People left their homes one after another and went on a field trip to the lakeshore.
+Even the two snake spirits who practiced under the broken bridge turned their snake nest into a red, willow-green house, and turned themselves into an adult, beautiful girl out for fun. The white snake was named Bai Su-jeong. She changed into a young lady from a large family. The blue snake was named Xiaoqing and became her girl.
+While walking, it rained lightly. Baek Su-jeong reached over and picked a peach blossom, and the peach blossom immediately turned into a pink peach umbrella. Xiaoqing took off a willow branch, and the willow branch turned into a turquoise willow leaf umbrella. Baek Su-jeong has great skills, and the umbrella has become bigger. Xiaoqing is less skilled; she only changed to a small umbrella that can just cover her head. The two serpent spirits held umbrellas and wandered through spring flowers and spring rain. Because they are women who have turned into snakes, they both have soft hips, and they have tens of millions of styles when they walk and smile. All the flowers and birds of the whole spring combined don't look good.
+The rain became heavier and cooler. The visitors to the West Lake gradually dispersed. The two snake elves walked to the side of the broken bridge and saw a small boat in the lake and shouted, “Hey, let's get us a boat!”
+A good-looking young student came out of the cabin and saw two girls standing on the shore and said to Che Gong, “Land ashore quickly and let them both board.”
+Baek So-jeong got on the boat and hurriedly thanked the latecomers, and also asked them what their names were and where they were from.
+“My name is Xu Xian. My parents have died and I am staying with my sister in Qingbomen.”
+“It's a coincidence,” Baek So-jeong looked down and laughed. “I'm just like you. I have no father or mother, no support, and scattered all over the place.”
+Seeing that the two were in love, Xiao Qing went straight to the boat and said, “Put it this way, you two are a natural couple!”
+Baek Su-jeong and Xu Xian, you like me. I like you. After a few days, Yang Xiaoqing, the two of them became a couple.
+Xu Xian married a wife, and it was no longer convenient to stay at her sister's house. The couple took Xiaoqing to Zhenjiang to live on their own. They opened a pharmacy called “Bohedo.”
+When the pharmacy opened, Bai Niang Zi prescribed medicine, and Xu Xian prepared medicine, mixed all kinds of drugs with pills, cream, powder, and dan, and put up a sign in front of the door, which read: “Give medicine for poor diseases, rejuvenate with great hands.”
+Bai Niang Zi has been a snake expert for a thousand years. She is very familiar with the properties of herbal medicine. Whether it is a major illness or a minor illness, patients come to seek medical treatment, and when they return home, they can take medicine to get rid of their illness. After a while, “Bohedo” became famous. Everyone said that the White Lady in Bohetang was actually a Bodhisattva. Not only did she look decent and beautiful, but she was also happy to do good deeds to help the world.
+Time flew like arrows, the sun and moon flew by, and in a blink of an eye, it was the Dragon Boat Festival. Every household planted irises in front of the door, hung up Ai Hu, and sprinkled rice wine on the ground to drive away evil. The Qiantang River is even more lively. If you play gongs and drums, you have to race dragon boats. The streets were full of people, and everyone was full of joy.
+Early in the morning, Lady Bai quietly summoned Xiaoqing to her: “Xiaoqing, now it's the 5th Dragon Boat Festival in early May. Yellow rice wine is sprinkled everywhere, so be careful.”
+Xiaoqing said, “Sister, I know.”
+“Three o'clock in the afternoon is the hardest time. You should go to the mountains to avoid it.”
+“I'm going up the mountain,” Xiaoqing was worried: “What are you going to do?”
+Bai Niang Zi said, “I have been on the road for a thousand years. Now there are cannibal fireworks, and I'm pregnant again. I don't expect anything to get in the way.”
+Xiaoqing was right when she thought about it. She said, “Then I'm leaving. Take care of my sister.” When I finished speaking, I jumped out of the window, turned into a burst of blue smoke, and went deep into the mountains.
+Also, Xu Xian. He went to the riverside to see dragon boats early in the morning, and took advantage of the bustle in the street. He didn't expect to meet an old monk. The old monk stared at him for half a day and said to him, “Lord, you have dark gas on your face. I see, you must be entangled by fairies.”
+“Nonsense, only then did you get involved with fairies!”
+Xu Xian left the old monk and ran back to Bohetang. Unexpectedly, the old monk followed him and arrived at Bohedo. The old monk took a look at Bohodo and held Xu Xian and said, “I tell you, your wife is a snake spirit, and her girl is also a monster.”
+Xu Xian said, “Bah, you're the monster!”
+Seeing that he didn't believe it, the monk sneered: “Don't you believe it? If you drink male yellow wine for a while, she will soon take her original form. Then go to Kanayama-dera Temple to find me again. I am the abbot of Kanayama-ji Temple, and my legal name is 'Hokai'.”
+Actually, this monk from the Fakai Sea was originally a turtle spirit. He once went to Lingshan to listen to Buddha preach Dharma, then stole the Buddha's purple gold bowl, the Blue Dragon Medal, and a scepter, and became a human figure, and now he practices at Jinshan Temple.
+When Xu Xian got home, she looked at the maiden, left and right, and looked up. No matter how you look at it, the maiden didn't look like a monster.
+“Officer, why do you look at me this way?”
+“I see your face is very pale today.”
+The white lady looked down and smiled, “I'm not comfortable and my body is chills. This is because I'm pregnant.”
+Xu Xian still didn't know about her mother's pregnancy. At this point, as soon as she heard that she was about to become a father, she jumped three feet tall. He personally went to the kitchen, heated rice dumplings, heated a pot of old wine, mixed up the wine, and brought it upstairs.
+He sifted two glasses of male yellow wine and handed one to the white lady. The white lady took the wine bottle, and a strong yellow smell went straight to her head. She almost fainted from being smoked, so she had to push the bottle open: “I don't drink alcohol; just eat two rice dumplings for Dragon Boat Festival.”
+Xu Xian said, “Today at Dragon Boat Festival, just have a drink for the holiday season!”
+“There is male yellow in the wine. I'm pregnant and can't drink it.”
+Xu Xian listened and laughed out loud: “My ancestors opened pharmacies for three generations; you are an outsider! This male rice wine repels evil and calms the mind. If you're pregnant, you'll need to drink a few more glasses before it's appropriate!”
+Bai Niang Zi was afraid that Xu Xian would become suspicious, and because of her ability to practice for thousands of years, she was bold, hardened, and took over drinking yellow rice wine. I don't know. As soon as I drank that glass of wine, my body fell over the river and felt uneasy. My head hurt, my brain was broken, and I was paralyzed all over my body. I couldn't stand or sit still. Lady Bai climbed up to the bed while holding her head. Xu Xian followed her to the front of the bed, pulled up her book and took a look. What kind of woman was in the bed? I saw a big white snake twirling around and twirling in pain. I saw Xu Xian coming. It opened the snake's mouth, spit out the snake's beak, and “hiss-hiss-hiss-hisses” leaned over it.
+“Wow!” Xu Xian screamed in horror and leaned backwards. All of a sudden, she fell to the ground, unconscious.
+Besides, Xiaoqing was hiding deep in the mountains. She only felt uneasy. Her heart was beating “throbbing” and watching the sun shift away from the center of the sky. After three o'clock in the afternoon, she went home with a burst of blue smoke. Go upstairs and take a look, oh my! Xu Xian fell down in front of her bed and was out of breath. The white snake appeared in its original form, lying in bed yet to wake up.
+Xiao Qing quickly woke up Bai Niang Zi: “Sister, my brother-in-law is dead, what can I do about this?”
+Bai Niang got down to bed, touched Xu Xian's heart, and had a hint of enthusiasm. She hurriedly said, “Herbs in the world can't save him. You can protect him for a while. I'll go to Kunlun Mountain to steal Ganoderma lucidum to save him.”
+Speaking of which, the white lady waved her feet, picked up a white cloud, floated out the window, and flew towards Mount Kunlun.
+Kunlun Mountain is a fairy mountain. The mountain is covered with fairy trees and fairy flowers. There is a small medicinal garden at the top of the mountain. There are several purple medicinal herbs planted inside. These are Ganoderma lucidum plants that can be revived from death. The white lady tore apart the bamboo fence and was about to reach for picking. Suddenly, a sacred deer popped out of the clouds and blocked her. The white lady repelled the sacred deer, and another fairy crane flew in the clouds and protected the fairy grass with its wings. When the white lady repelled the cranes, the sacred deer rushed up again. After a few rounds of fighting like this, a fairy with a white beard and white hair came out. He was an Antarctic fairy.
+“Baek So-jeong, why are you stealing my fairy grass?”
+The white lady lowered her sword, burst into tears, and asked the Antarctic fairy, “Old Fairy Weng, give me a fairy herb and save my official!”
+The Antarctic fairy took pity on her and took a fairy herb for her: “I heard you opened a pharmacy to help save people. I grew this Ganoderma lucidum, which was originally used to save people — take it!”
+Bai Niang Zi thanked the Antarctic Fairy Weng, put away Ganoderma lucidum, drove Baiyun, and returned to Bohetang. She boiled Ganoderma lucidum herb into medicinal juice and drank it. After a while, Xu Xian came alive. As soon as he opened his eyes, he immediately climbed up and turned around and ran outside the door.
+Lady Bai hurriedly held him: “Official, where are you going?”
+“Snake! I just saw you turn into a white snake, so big, so big!”
+Bai Niang Zi said, “I'm a good-natured person, how can I become a snake? The official must have misunderstood.”
+Xiaoqing hurriedly came over to break the siege and said, “Yes, at Dragon Boat Festival today, the Black Dragon and White Dragon are all in shape. When I came back from buying flowers on the street, I also saw a white dragon in the house. As soon as I entered the door, it flew out of the window.”
+“It turned out like this; then Black Dragon and White Dragon must have all taken shape.” Xu Xian breathed a sigh of relief and never dared to bring up this topic again.
+Although he no longer talks about the appearance of dragons and snakes, Xu Xian couldn't sleep all night. He always thought of the monk Fa Hai in his heart: “Your wife is a snake spirit, and that girl is also a monster.”
+Early the next morning, Monk Fa Hai came to Xu Xian and said to him, “I said your wife was a snake spirit. Can you believe it now? She'll kill you and eat you! If you want to save your life, go to Kanayama-ji Temple and become a monk right away. With my Dharma protection, she can't hurt you.”
+Fakai brought Xian Xian to Jinshan Temple, shaved off his hair, and asked him to become a monk.
+Bai Niang Zi lost her husband and was very anxious. She and Xiaoqing searched everywhere. Soon, they also found Jinshan Temple.
+The white lady knocked hard at the door: “Old monk, old monk, give me back my husband soon!”
+Xu Xian heard it, and she also wanted to go out and meet the maiden: “Mage, my wife won't hurt me, even if she's a monster — now that she's pregnant, how can I be a monk?”
+Fa Hai said, “Xu Xian, your wife looks like a flower, but she is actually a harmful monster. You can't be fooled anymore! The Buddha said, 'There is no end to the sea of bitterness, 'and you must practice Buddhism with hard work to wash away your sins.”
+Fa Hai locked up Xu Xian and locked a large 10-pound iron lock on the door of the monk's house. Then he walked out of the temple and said to White Lady, “Baek Su-jeong, you are a snake spirit. Don't go back to the world. It's not too late to go back to your broken bridge to continue your training, and don't be delusional. Let me tell you that Xu Xian has converted to Buddhism and became a monk.”
+The white lady prayed, “My husband and I are living a good life, why should you want him to be a monk? Let him go home soon, he is my husband and the father of my child!”
+French customs went up to the temple gate and let the white lady stop responding no matter how she called or pleaded.
+The white lady was extremely angry. She pulled out the gold chain from her head and shook it in the wind. The golden hairpin turned into a flag with water patterns and waves embroidered on the flag. Xiaoqing took over and waved the flag three times. For a while, huge waves rolled over on the flat ground, strong winds blew up, and dark clouds poured in. The heavy water rose higher and higher, and soon rose to the front of Jinshan Temple. Sea Dragon Palace's prawns and crabs will hear orders, form a tidy army, and follow White Lady to Jinshan.
+Fakai watched as the water flooded over the Golden Mountain, hurriedly took off the hat he was wearing and stopped outside the temple gate. I saw a golden light flashing through, and that embankment turned into a long golden embankment, blocking all the heavy water from outside the temple gate. The white lady is crying out for the wind and the water, and the water continues to rise. However, when the water rises one foot, the long embankment is one foot higher; when the water rises one level, the long embankment is one step higher. No matter how big the waves are, the water won't be able to get through.
+Just like that, the water rose higher and higher, but it was impossible to flood into Kanayama-ji Temple. Bai Niang Zi had nothing to do. She couldn't beat the Sea of France, and the water flooded the golden mountains again. She was exhausted, so she had to retreat from the water and go back to the broken bridge to practice hard work with Xiaoqing.
+Speaking of Xu Xian, he stayed at Kanayama-ji Temple for a while and regretted leaving his warm home and pregnant woman.
+One day, taking advantage of the Fa Hai monk's carelessness, Xu Xian sneaked out and returned to Bohetang, only to see that the door to Bohetang was locked, and the herbs were all covered with dust. Xu Xian wiped away her tears. She slowly walked to the side of the broken bridge. Seeing that all the plants and trees in West Lake were the same as before. Xu Xian remembered the scene where she first met Bai Niang Zi. She felt so sad that she couldn't help but cry bitterly.
+“Ma'am, ma'am, where have you been? You have to come see me!”
+Hearing Xu Xian's call, Bai Niang and Xiaoqing drilled out from the bottom of the lake. She picked up a willow leaf, took a breath, and turned into a small boat. The master and two servants took up their paddles and slowly paddled to find Xu Xian.
+When Xu Xian saw the boat, she was very happy. She hurriedly shouted, “Ma'am, my hair has grown and I won't be a monk anymore. Come home with me!”
+The couple were both sad and happy. After drying their tears, they shed tears and cried and laughed and didn't know what to do.
+Finally, Xu Xian said, “I can't stay in Bohetang. Well, the old monk will definitely have to look for it. Let's stay at my sister's house for a while!”
+They rocked the boat and paddled, and soon arrived at the Qingbomen sister's house and stayed at her. The days went by so fast, and the new year passed in a blink of an eye. At the Lantern Festival, Bai Niang Zi gave birth to a boy. She cried loudly and looked very cute. The couple gave their child a nice name, called Xu Shilin.
+On the day of the child's full moon, the family will have a “soup cake party” and set up full moon wine. My sister is busy outside and Zhang Luo. Early in the morning, Xiaoqing hugged her child and went to the back garden to play. The white lady brushed her hair in the inner room. Xu Xian looked at the woman, only thinking that the more she looked, the more beautiful she looked. He thought, “The golden hair on the maiden's head was lost in the mountains. I have to buy her a golden phoenix crown.”
+Xu Xian walked out to buy Jin Fengguan. He saw a gold merchant from afar on the street. As he walked, the vendor shouted, “Selling Jin Fengguanluo, playing with pure gold!”
+As soon as Xu Xian heard it, she ran over in three steps and took over the golden phoenix crown in the hands of the vendor. She took a look. Sure enough, the golden light flickered. It was very beautiful.
+“This Golden Phoenix Crown is the perfect match for my wife!”
+Xu Xian took out the silver two, bought the golden phoenix crown, and took it back to the house and handed it to the white lady: “Ma'am, I bought you a golden phoenix crown. It's not suitable for you to wear.”
+The white lady was happy for a moment, and she didn't take a close look, so she let Xu Xian wear the golden phoenix crown on her head. I don't know, once the phoenix crown was on her head, it hugged her head tightly, and she couldn't take it off.
+“Ahhh, how good is this?” Xu Xian went out to find the vendor. The vendor walked in and smashed his face. It turned out to be a French prairie monk.
+“Now you've finally fallen into my hands!” It turns out that the golden crown worn on the white lady's head was a change of the old monk's purple gold bowl head. The monk of Fakai knocked on the purple gold bowl with the Blue Dragon Zen Staff. The purple gold bowl immediately cast tens of millions of purple gold lights, covering the White Lady Group.
+In an instant, the white lady turned into a little white snake and was sucked into a purple gold bowl.
+The monk from the French Sea took the white snake, buried the purple gold bowl by the West Lake, and built a tower in the place where the bowl was buried, and named it Leifeng Tower. Just like that, the Fa Hai contained the white snake essence.
+Since then, Bai Niang Zi has been suppressed under the Leifeng Tower and has been unable to get out. It wasn't until many years later that her son, Xu Shilin, won the first place and went to Leifeng Tower to pray, that she was released.
+When Buddha Buddha heard about this incident, he thought that the French Sea split up human couples in the name of Buddhism, which was actually a nosy matter.
+When the Buddha arrived at Jinshan Temple, he showed his true body. As soon as the Daohai Sea waved softly, the two treasures, the Blue Dragon Zen Staff and the Gesha, were returned to the Buddha. The monk of Fa Hai lost his treasure, was naked, and had no face to see the Buddha. He looked down and ran to the edge of the West Lake. Seeing a crab under his feet, there was a gap under the crab's navel, and then he drilled right in.
+As soon as the crab shrunk its navel, the monk from the French Sea was imprisoned tightly.
+The monk of Fakai was imprisoned in a crab and has never been able to come out since — originally, crabs walked straight, and since they got into the stomach of the overbearing old monk, they began to crawl sideways. To this day, people eat crabs, and as long as they open their back shell, they can find a bald monk inside.   
+

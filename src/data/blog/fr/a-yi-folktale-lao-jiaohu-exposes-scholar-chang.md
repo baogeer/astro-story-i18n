@@ -1,0 +1,20 @@
+---
+pubDatetime: 2026-12-12 21:44:11
+title: "Un conte populaire yixa0: Lao Jiaohu dévoile l'érudit Chang"
+featured: false
+draft: false
+description: "Le grand-père Chang Gong de l'ethnie Yi, à l'origine nom de famille Cha, a changé son nom de famille en Ke Ju. Après la naissance de Zhong Gong, des invités ont été invités à y assister, mais le chef Jia et Lao Nao Nao Nao Hu n'étaient pas présents. Un vieil homme du nom de Tiger a eu l'idée. Il a déclaré publiquementxa0: «xa0Il n'y a pas de vieil homme blanc au monde, il n'y a pas de grand-père au tea gong par terrexa0», révélant que son nom de famille avait changé en Lao Di. La vieille épouse a invité à la hâte Sai Yin à s'asseoir. Sur le chemin du retour, Maître Jia n'a reçu qu'un dollar en argent. Lao Cao Hu s'est plaint d'avoir pris des risques mais d'avoir réalisé le moins de profits possible, ce qui a mis fin à l'inflammabilité et à l'inégalité de la situation entre son maître et son serviteur."
+---
+
+
+
+![AstroPaper I18n](/public/a-yi-folktale-lao-jiaohu-exposes-scholar-chang.png)
+
+
+
+
+ Zuo Yunping parle du traitement et de l'arrangement de u2002u2002 par Zuo Dehui
+Papy Shema Chang Gong portait à l'origine le nom de famille Cha, mais a ensuite changé son nom de famille Cha en Chang afin de devenir célèbre. Parce que le théier surnommé Tea Man à l'époque était reconnu par le gouvernement comme «xa0un arbre, deux morceaux de sable, pas d'herbe, pas de carreauxxa0», il n'a pas été autorisé à participer à la recherche scientifique. Après que grand-père Chang Gong ait été admis à la naissance de Gong comme il le souhaitait, il a organisé un grand festin pour les invités. Au cours de la cérémonie, le Premier ministre et l'hôte ont invité tous les dirigeants locaux à manger sur le taïkan devant le hall central. Habituellement, les invités étaient disposés dans la cour. Le chef de Nickelodeon (équivalent de l'actuel chef de groupe des villageois) et son serviteur, toujours nommé Tiger, qui tient des chevaux, ont été placés dans la cour et ils se sont sentis très lésés. Un vieil homme du nom de Tiger Dig a Stranger a déclaréxa0: «xa0Dans Nick, tu n'es qu'un léopard. Pourquoi êtes-vous devenu un chien quand vous avez découvert le serpent et le chevalxa0?xa0» Le chef A a souri amèrement et a demandé au vieux tigre de l'aider à trouver une idée. Le vieux tigre a ditxa0: «xa0J'ai une solution, mais maître, avez-vous peur de la direxa0?xa0» Le chef A a ditxa0: «xa0Voyons voirxa0!xa0» Le vieux tigre a ditxa0: «xa0Il n'y a pas de personnes âgées blanches (corbeaux) dans le monde, et il n'y a pas de grand-père Chagong au sol.xa0» Le chef A a ditxa0: «xa0Je ne vous entends pas clairement. Parle plus fort.xa0» Le vieux tigre a ditxa0: «xa0Il n'y a pas de personnes âgées blanches (corbeaux) dans le monde, et il n'y a pas de grand-père Chagong au sol.xa0»
+La femme de grand-père Chang Gong a entendu cette remarque. Ils sont immédiatement montés à l'étage pour prendre des dollars en argent, les ont mis dans la poche de son long manteau et ont ditxa0: «xa0Oups, pourquoi avez-vous oublié son oncle ici, vous êtes-vous promené et vous êtes-vous assis sur le Taikanxa0?xa0» Tout en parlant, La-Jia a grandi pour s'asseoir sur le banc. Jia Chang a fait semblant de direxa0: «xa0Ne t'arrête jamais, c'est pareil, c'est pareil quand tu es assise là à mangerxa0!xa0» Je n'ai pas fini de parler, alors j'ai touché le fond.
+Sur le chemin du retour vers Nick, Maître A a donné un dollar en argent au vieux tigre. Le vieil homme nommé Tiger était très bouleversé et a marmonnéxa0: «xa0J'ai dit tout ce que j'ai dit.xa0» Le vieux tigre a ditxa0: «xa0Tu as touché les fesses du tigre aujourd'hui. Quand il s'est retourné et a mordu quelqu'un, il n'a vu que moi, pas toi. Comprenez-vousxa0?xa0»   
+

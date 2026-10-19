@@ -1,0 +1,19 @@
+---
+pubDatetime: 2026-12-10 19:23:17
+title: "L'ogre des montagnes"
+featured: false
+draft: false
+description: "L'arrière-grand-père de Sun Taibai a passé la nuit au temple de Liugou et a été frappé par un monstre géant qui a touché la clôture. Il a sorti une épée et a tranché le ventre du diable. On aurait dit qu'on coupait une pierre, et le diable l'a attrapé. La famille a ouvert la fenêtre et a vu qu'ils avaient été coincés dans la porte, laissant une énorme marque de griffe sur la porte. Le lendemain, Gong Sun est rentré chez lui avec sa valise et avait peur de la repartir."
+---
+
+
+
+![AstroPaper I18n](/public/the-mountain-ogre.png)
+
+
+
+
+ Sun Taibai l'a dit un jour. Son arrière-grand-père avait l'habitude d'étudier au temple Liugou, dans la montagne Nanshan. Il est rentré chez lui pendant la saison d'automne et est retourné au temple au bout de dix jours. Gong Sun a ouvert la porte de sa maison et a vu que le bureau était plein de poussière et de toiles d'araignées sur la fenêtre, alors il a ordonné à son serviteur de le nettoyer. Ce n'est que la nuit que je me suis sentie rafraîchie, alors j'ai pu me reposer et me détendre. Il a donc balayé le lit, étendu son futon et a dormi à huis clos.
+À ce stade, le clair de lune remplissait la fenêtre, et il s'est allongé dans son lit pendant longtemps, sans dormir, et a senti que tout était silencieux. Soudain, il a entendu le bruit du vent hurler et la porte de la montagne a été emportée par le vent. Sun Gong a pensé que le moine n'avait peut-être pas encore fermé la porte. Pendant qu'il cherchait, le vent s'est progressivement rapproché de sa maison. En un instant, la porte de la maison s'est également ouverte. Il était encore plus sceptique. Il a également imaginé ce qui s'était passé. Le vent était déjà entré dans la maison, accompagné d'un fort bruit de bottes, se rapprochant progressivement de la porte de la chambre. C'est alors qu'il a eu peur. La porte s'est ouverte instantanément. Il a jeté un coup d'œil à la hâte. Un grand fantôme a incliné son corps et s'est coincé devant le lit. Sa tête touchait presque le faisceau. Son visage avait la couleur d'un vieux melon. Ses yeux ont brillé et il a regardé autour de la maison. Ouvertes comme un grand pot, les dents sont clairsemées et mesurent plus de trois pouces de long. Whoa whoa whoa en hurlant, le son a secoué les quatre murs et les montagnes.
+Gong Sun avait extrêmement peur. Il pensait que dans cette petite maison à portée de main, il ne pourrait pas s'échapperxa0; pourquoi ne pas se battre avec ellexa0? Je suis donc allé secrètement vers l'épée sous l'oreiller, je l'ai violemment retirée et je l'ai coupée au grand diable. Il s'est cogné le ventre et a fait un bruit semblable à celui d'une pierre taillée. Le diable était furieux et a tendu ses grosses griffes pour l'attraper. Gong Sun a un peu rétréci, a été attrapé par le diable et est parti avec colère. Gong Sun est tombé par terre avec sa couette et s'est allongé sur le sol en criant. Toute la famille est arrivée avec des torches et a constaté que la porte était toujours fermée. Comme auparavant, ils ont dû passer par la fenêtre. En voyant à quoi ressemblait Sun Gong, tout le monde a été très surpris. Soulevez-le jusqu'au lit avant qu'il ne raconte l'histoire avant et après. Après avoir vérifié ensemble, nous avons constaté que la couette était coincée entre les fentes de la porte de la chambre. Ouvrez la porte en la regardant avec une torche. Il y a des marques de griffes, qui sont aussi grosses que des pelles à poussière. Chaque fois que les cinq ongles se touchent, ils sont pénétrés. À l'aube, Sun Gong n'a plus jamais osé rester ici, alors il a pris sa bibliothèque et est rentré chez lui. J'ai posé la question aux moines du temple plus tard, et ils m'ont dit que rien d'inhabituel ne s'était produit.   
+

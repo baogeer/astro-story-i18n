@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-12-19 19:00:36
+title: "El rey de las peonías"
+featured: false
+draft: false
+description: "Hay una planta llamada «Peony King» en la aldea de Zhaolou, en Caozhou, que ha estado creciendo durante más de 150 años. Es famosa de cerca y de lejos. El señor de la guerra Lu Langzhai se casó con Yuan Shikai y recluyó por la fuerza al rey Peony en Xian. El rey Peony murió pronto en la mansión de Yuan, y Yuan Shikai pronto cayó en poder. La historia ironiza con el hecho de que quienes saquean los tesoros de las personas acabarán sufriendo durante mucho tiempo."
+---
+
+
+
+![AstroPaper I18n](/public/the-peony-king.png)
+
+
+
+
+ En el municipio de Peony, en Caozhou, hay un dicho que dice: «Viejas flores de ciruelo, pocas peonías». Esto significa que cuanto más viejas son las flores del ciruelo, más abundantes y brillantes son sus flores; las peonías, por otro lado, solo florecen cuando son jóvenes (es decir, cuando han sido plantadas durante cinco o seis años), cuando son más elegantes y lujosas. Sin embargo, la gente dice que en los primeros años de la República de China, en el lado sur de la aldea de Zhaolou en Caozhou, había un árbol de peonía que había crecido durante más de 150 años, llamado Lipid Red. Este árbol de peonía mide dos metros de altura y sus ramas miden ocho. El tronco es tan grueso como un cuenco y sus flores son rojas como coloretes. Se le conoce como el «rey de las peonías».
+Las flores del rey peonía florecen en cientos de flores, brillan en rojo y la fragancia es increíble. En verano, los ancianos se sientan bajo el árbol para refrescarse y los niños se suben al árbol para jugar. Este incidente se difundió como una extraña historia en Shilihuaxiang. Ha pasado mucho tiempo; de hecho, nadie conoce a los funcionarios públicos locales ni nadie lo sabe. Durante la temporada de lluvias, Peony King está en plena floración, e incluso la gente de fuera del puente viene a verla. En ese momento, Shi Lulangzhai, el jefe de la ciudad de Caozhou, había curado al «Rey Peonía» durante mucho tiempo. Se decía que esta persona hacía honor a su nombre, no estaba calificada y también era mandona. La gente local lo odiaba. Propuso repetidamente comprar «Peony King». Los floricultores insistieron en no aceptarlo y tuvieron que dejar de hacerlo.
+Yuan Shikai, el ladrón del país, se prepara para convertirse en emperador en Pekín. Tan pronto como Lu Langzhai vio que había llegado el momento. Para complacer a Yuan Shikai, Qing siguió adelante y quiso usar este «Rey Peonía» como tributo. Esta primavera, las peonías volvieron a florecer. Lu Langzhai llevó a un grupo de personas al Jardín de Peonías de Zhaolou con brillantez. Vi el colorido mar de flores de Wang y el «Rey de las Peonías» estaba erguido como un grupo de pollos. La luz roja era deslumbrante y el rico aroma de las flores era muy refrescante en mi corazón. Lu Langzhai pensó en su corazón: Un buen rey de las peonías. Si puedo conseguirlo e ir al sur, no sé si puedo llegar al sur, no sé si puedo hacerme rico y próspero. Pensando en esto, el hombre de la misión robó a «King Peony».
+Tras enterarse de la noticia, los floricultores suplicaron minuciosamente: «¡No! ¡Este «rey de las peonías» es un tesoro que se ha transmitido de generación en generación en mi pueblo florido! ¡No puedo desenterrarlo!» ¿Dónde está dispuesto Lu Lang? En medio de las protestas y los insultos de los floricultores, Lu Langzhai destituyó por la fuerza al «rey de las peonías».
+Lu Langzhai recibió el «Rey de las Peonías» y estaba tan orgulloso que envió un autobús para que lo escoltara personalmente a Beijing, donde conoció a Yuan Shikai. Yuan Shikai se llenó de alegría cuando lo vio. La posición oficial de Lu Langzhai se elevó a tres niveles.
+Más tarde, Yuan Shikai también ordenó a Lu Langzhai que vigilara y plantara la diferencia del «Rey de las Peonías» en la provincia de Henan (actual ciudad de Anyang) en la mansión de Yuan Shikai. El «rey Peonía» no tardó mucho en morir en la mansión de Yuan. Yuan Shikai, que había sido emperador durante 83 días, también fue derrocado por el pueblo de todo el país. Los floricultores del municipio de Peony, en Taiwán, se enteraron de la noticia de la muerte del «rey Peonía» y se sintieron desconsolados. Alguien pidió una canción:
+El gran robo del país explotó a los villanos, y el país sufrió un desastre y no sobrevivió.
+Se han dedicado más de 100 años de arduo trabajo y los corazones de las personas en países extranjeros se han extinguido.
+(Li Baoguang)   
+

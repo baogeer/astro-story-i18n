@@ -1,0 +1,18 @@
+---
+pubDatetime: 2026-10-27 15:17:46
+title: "Cómo la golondrina se burló del sapo"
+featured: false
+draft: false
+description: "El sapo estaba celoso de la golondrina y se burló de ella por no lavar la ropa. Las golondrinas pusieron sus labios una contra la otra. Desde sus gritos y discusiones hasta el bambú, los gongs de bronce y las campanas de hierro, dejaron sin palabras al sapo. Al final, el sapo se hizo estallar la barriga. La historia es sarcástica, celosa y autohumillante."
+---
+
+
+
+![AstroPaper I18n](/public/how-the-swallow-outwitted-the-toad.png)
+
+
+
+
+ Un día, el sapo se bañó en el río Norte y entró volando una golondrina. Tenía las alas manchadas por el agua y no dejaba de cantar en su boca.
+El sapo estaba muy envidioso y también muy celoso, y dijo en broma: «Hermano Swallow, ¿le ha parecido extraño estos dos últimos días?» Tan pronto como Swallow vio que era un sapo hablando con él, lo ignoró. Toad está un poco molesto: «¿Por qué no desprecias a la gente? ¿Crees que la ropa que llevo puesta está rota y tiene manchas en el cuerpo? Eso también es mejor que el tuyo. Aunque estás bien vestida, con seda negra y satén negro, la familia vive en una casa y no les gusta lavar la ropa todo el día. Aunque llevemos parches, nos bañamos varias veces al día». Tan pronto como Swallow oyó al sapo acosarse a sí mismo, se puso furioso, pero no quería sufrir esta pérdida, por lo que pensó que estaba furioso. Voló por la superficie del agua, desenterró al sapo amargado y le dijo: «Tío, estás muy limpio; no es fácil. Hay una cosa que no entiendo: ¿por qué nadie más hace un sonido como tú?: «Vaya», ¿por qué?» Tan pronto como el sapo lo oyó, lo elogió y dijo: «No lo sabes. Grito fuerte. Mi estómago, cuello grueso y boca son muy ruidosos». Swallow se rió y dijo: «¿Puedes gritar cuando tienes la boca y la garganta gruesas? La cesta de té que vende hojas de té tiene el estómago, la boca y el cuello gruesos. ¿Por qué no ha gritado todo el día?» El sapo zumbó de ira: «¿Entiendes? ¿No es bambú?» La golondrina dijo: «¿No es el llanto del bambú?» El sapo preguntó: «¿Puede un bambú hacer ruido?» La golondrina dijo: «La flauta también está hecha de bambú. ¿Por qué grita tan pronto como suena?» El sapo dijo: «Mencionaste que el bambú tiene ojos». La golondrina dijo: «Si tienes ojos, ¿hace ruido? Ese colador de bambú no tiene los ojos limpios, ¿por qué no hace ruido?» El sapo hinchó el estómago dos veces y dijo: «Te lo dije, el colador de bambú es redondo». La golondrina dijo: «¿La redonda no sonará? ¿El gong que tocas no es también redondo? ¿Por qué «retumbar» es más fuerte de lo que gritas? El sapo estaba tan enojado que no se podía decir: «El gong que tocó, el gong que tocó, tenía un «ombligo», y ese era el sonido del «ombligo». La golondrina dijo: «¿Esa vasija de hierro no tiene también un «ombligo»? ¿Por qué no vuelve a sonar?» El sapo dijo: «Está hecho de hierro; el hierro no suena tan bien como el cobre». Swallow dijo: «El hierro no suena tan bien como el bronce. ¿No es de hierro la campana que tocó el monje del templo? ¿Por qué sigue tan fuerte?» El sapo dijo: «¿Dijiste que el reloj no sonaba?» La golondrina dijo: «Cuando lo cuelgas, ¿hace ruido? Cuando cuelgas la báscula, ¿por qué no hace ruido? El sapo se puso furioso y dijo: «Si no golpeas, di que es demasiado pequeño». Swallow dijo: «Es pequeño. El silbato que suena en la escuela ni siquiera es más pequeño. ¿Por qué sigue tan fuerte cuando lo haces sonar?» El sapo dijo: «Eso es increíble». Swallow dijo: «¿Impresionante? Cuando la llanta de un automóvil está llena de aire, ¿por qué no hace ningún ruido?» Contuve un sapo: «Eso, eso...» Tan pronto como trabajé duro, mi estómago «revoloteó» y explotó.   
+

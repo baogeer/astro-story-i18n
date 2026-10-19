@@ -1,0 +1,47 @@
+---
+pubDatetime: 2026-12-25 21:48:44
+title: "Lu Ban le da una lección a su aprendiz"
+featured: false
+draft: false
+description: "El aprendiz de Luban, Zhao, es arrogante y arrogante; quiere compararse con su maestro para construir un puente. Zhao Xian aprendió a patinar en mitad de la noche, lo que hizo que Luban dejara de trabajar y confesara su derrota, pero fue capturado por los soldados de la patrulla nocturna. El mentor y el aprendizaje de Luban lo perdonaron. Zhao Xian se arrepintió de inmediato y los dos unieron sus fuerzas para completar el puente. La historia advierte que los académicos deben tener los pies en la tierra y que la falsificación acabará revelando su verdadero significado."
+---
+
+
+
+![AstroPaper I18n](/public/lu-ban-teaches-his-apprentice-a-lesson.png)
+
+
+
+
+ Entre los muchos aprendices de Luban, uno llamado Zhao Xian es un personaje que parpadea. Nació inteligente y le gusta hacer trampa y patinar para los demás. También es extraño que Luban desvió la mirada por un momento y no vio su verdadero rostro. Durante sus tres años como profesor, Zhao Xian también aprendió algunas técnicas de peletería.
+«Maestro, ¿por qué todos lo respetan tanto pero no me toman en serio? ¡No estoy convencido!» De repente, Zhao Xian le propuso competir con su maestro.
+Luban vio que su aprendiz estaba indefenso y poco humilde. Aunque estaba un poco molesto, podía decirlo en su corazón. ¿Por qué no aprovechas esta oportunidad para enseñarle a este tipo que no sabe lo rico y arrogante que es? Además, puede probar qué habilidades reales tiene realmente y hasta qué punto ha aprendido su oficio. Como resultado, aceptaron gustosamente y le dijeron a Zhao Xian: «Está bien, construyamos cada puente esta noche hasta que cante el gallo. Si alguien no termina a tiempo, incluso si alguien pierde, ¿qué opinas?
+Zhao Xian cumplió: «¡Sí! Una palabra es segura. Sin embargo, debemos mantener la distancia entre nosotros dos para no interferir el uno con el otro. Ve a Yingcheng a construir un puente y yo iré a Shajin para empezar la construcción». Dicho esto, todos están listos para partir.
+En otras palabras, este día era el primer día de febrero. Sin poder hacer nada, el cielo no era hermoso. No solo no había luna por la noche, sino que el viento soplaba a rabiar y caía una lluvia torrencial, y estaba tan oscuro que no podía extender la mano ni con cinco dedos. Para iluminar, Luban tomó prestada rápidamente una lámpara de cristal que no temía al viento ni a la lluvia del Mar de China Oriental y construyó el puente de la noche a la mañana. Zhao vio que hacía mal tiempo y no pudo iniciar la construcción. Tenía prisa por caminar por la orilla del río, rascándose las orejas y quemándose el corazón. Pero no había nada que pudiera hacer. Pensé que hacía tanto mal tiempo que el Maestro definitivamente no podría empezar la construcción. Quizá estaba recostado bajo las sábanas, durmiendo y soñando. ¡Era tan cómodo! Para descubrir la verdad, Zhao Xian decidió escabullirse y averiguarlo. A lo lejos, vi un faro que colgaba en lo alto e iluminaba el suelo con la misma intensidad que la luz del día. Los embarcaderos ya se habían levantado a ambos lados del río. Luban estaba serrando tablas de madera para colocar la cubierta del puente. También había mucha gente mirando bajo la lluvia y animando al maestro. La escena fue extremadamente popular. Sin embargo, Luban no permitía que estuvieran ocupados; solo trabajaba rápido, en silencio y de buen humor. Al ver que el maestro había realizado su trabajo, Zhao Xian frunció el ceño y lo pensó detenidamente. Tan pronto como se golpeó la cabeza, dijo: «Sí, siempre y cuando impidas que el maestro construya la plataforma del puente, no será un proyecto completo; si no lo terminas, no ganarás. Como resultado, levantó la cabeza y estiró el cuello, pellizcándose la garganta y aprendió a cantar el gallo: «Whoa whoa», sin mencionar que su imitación fue tan vívida que hizo que todas las gallinas de Yingcheng cantaran.
+Cuando Luban oyó el ladrido del pollo, tuvo que despedirse de la gente del pueblo, dejar de trabajar e irse a casa. A mitad de camino, me recibió alguien que se defendió, y Gengfu preguntó con preocupación: «¿Se ha completado el Puente del Maestro?» Luban dijo: «Todavía me falta el aliento; no he podido subir a la cubierta del puente. Como acordamos de antemano, la gallina llorará hasta que empiece a llorar. Ahora que el pollo ha llamado, ¡no tengo más remedio que confesar mi derrota!» Gan Fu gritó «sí» y dijo: «¡Qué extraño! En este punto, menos de 2, ¿por qué ladran las gallinas?» La conversación no terminó. Resulta que los soldados de la patrulla nocturna se acercaron con un tipo astuto. Luban reconoció de inmediato que la persona arrestada era Zhao Xian. Tenía dudas y preguntó apresuradamente: «¿Por qué vino aquí el aprendiz?» Zhao Xian estaba tan avergonzado que inclinó la cabeza y no habló. Cuando los soldados vieron que Luban conocía a Zhao Xian, se apresuraron a inclinar las manos y dijeron: «El robo de pollo a altas horas de la noche altera el corazón de la gente y afecta al letargo. Para mantener la paz en el bando de Yingcheng, nos pusimos manos a la obra en el acto». Tan pronto como Ruban y su esposa lo escucharon, lo entendieron de inmediato. Consciente de su mentor y aprendizaje, Luban se apoyó en su rostro para buscar el afecto personal de los oficiales y soldados y dejar ir a Zhao Xian. Zhao Xian estaba muy agradecido. Se arrodilló frente a su maestro y prometió: «Gracias al Maestro por el perdón. Los discípulos conocían sus errores y nunca más se atrevieron». El jefe Lu suspiró: «Mientras tengas la sinceridad de arrepentirte, ser honesto, aprender las artes y ser una persona estable, seguirás siendo un buen aprendiz para mí en el futuro». Después de todo, con la ayuda de Zhao Xian, se dieron la vuelta y los dos mentores y aprendices completaron la construcción del puente juntos.
+El Rey Dragón de los Cuatro Mares se sorprendió al enterarse de que Luban había construido un puente de la noche a la mañana. Todos se reunieron a lo largo de la vía fluvial para observar el puente y felicitaron a Luban. Las generaciones posteriores llamaron a este puente «Puente Dragon Hui». Cuando los Reyes Dragones de los Cuatro Mares vinieron a ver el puente, todos entraron y salieron por la puerta del agua en el lado este de Yingcheng, por lo que la gente también llamó a esta puerta del agua «puerta del dragón».
+Al año siguiente, coincidiendo con las sequías primaverales en Chu, Luban llevó a sus discípulos a construir muchas ruedas hidráulicas y distribuirlas entre la gente común para recolectar agua para combatir la sequía a fin de resolver las necesidades urgentes y eliminar el sufrimiento de la gente. Al cabo de unos días, los coches drenaron toda el agua de los estanques, presas y puertos del continente, y la situación de sequía seguía siendo grave. Sin regar, las tierras de cultivo comenzaron a agrietarse y las plántulas se pusieron amarillas. El resultado directo de este desarrollo fue que no se recolectaron partículas. Luban lo vio en sus ojos y estaba ansioso. Mientras caminaba y pensaba, vio una lámpara de cristal que aún no había sido devuelta a su casa, así que tuvo una idea y decidió pedirle al Rey Dragón del Mar de China Oriental que lo rescatara...
+Total 2 páginas: Página anterior 12 Página siguiente
+Etiqueta: Luban Trainee
+Aviso de derechos de autor: Las opiniones del artículo solo representan las opiniones del autor. Se utilizan como referencia y no representan las opiniones de este sitio. Algunos artículos provienen de Internet. Si las imágenes y el texto del sitio web infringen sus derechos de autor, ¡póngase en contacto con nosotros para eliminarlos y procesarlos rápidamente! Al volver a imprimir el contenido de este sitio, indique el sitio web reimpreso, el autor y la fuente para evitar disputas innecesarias por infracciones.
+ 
+
+ Anterior: Entrenamiento de caballos 
+ Siguiente: La leyenda de Wang Shuangdu
+Recomendaciones relacionadas
+El diablo y el hombre 
+ El lobo tirando del rastrillo 
+ La historia del caso del conejo 
+ La historia de la estúpida tortuga 
+ Cuentos populares de Changzhou: La leyenda de la cabaña con techo de paja de Chendu 
+ Cuentos populares clásicos: padre salva a su hija 
+ El origen de la Feria del Templo de Xitang 
+ Phoenix se convierte en el rey de los pájaros 
+ La historia histórica de Tokuhozai 
+ Cuentos populares: menú del mentor 
+ Cuento popular jingpo «Un gallo invita al sol» 
+ Cuento popular de Jingpo «La chica de piedra» 
+ Cuento popular de Jingpo «La leyenda del nenúfar dorado» 
+ Leyenda sobre el origen del «Menao» de la tribu Jingpo 
+ Cuentos populares de Jingpo: La leyenda de Dongba   
+

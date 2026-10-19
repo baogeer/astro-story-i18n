@@ -1,0 +1,19 @@
+---
+pubDatetime: 2026-11-29 12:15:38
+title: "Ji Gong, le Bouddha vivant"
+featured: false
+draft: false
+description: "Le Bouddha vivant du Ji Gong était à l'origine Li Xiuyuan, originaire de Tiantai sous la dynastie des Song du Sud. Il a quitté sa famille au temple Lingyin à Hangzhou. Il a agi de façon insensée mais a fait preuve d'une grande ingéniosité. Il a un jour secouru des villageois devant le temple Jōji-ji, a fait sortir de grands arbres du vieux puits, a repoussé les escargots sans queue dans le lac de l'Ouest et a fait couler l'eau pour toujours. L'histoire utilise l'image d'un moine fou pour montrer la sagesse et la compassion populaires afin d'aider le monde à atténuer la pauvreté et à se spécialiser dans les affaires malheureuses."
+---
+
+
+
+![AstroPaper I18n](/public/ji-gong-the-living-buddha.png)
+
+
+
+
+ Le Bouddha vivant du Ji Gong est une figure légendaire connue des habitants de Hangzhou depuis des milliers d'années. L'image de Ji Gong dans l'esprit des habitants de Hangzhou est celle d'un moine fou avec un chapeau cassé, vêtu d'un chapeau cassé et tenant un éventail de citrouilles cassé. Il a l'air bien, il n'est ni un scélérat, ni un scélérat. Il est fou, plein d'esprit, joueur et possède un grand talent et «xa0se spécialise dans les affaires humainesxa0». Il existe de nombreuses légendes sur le Ji Gong, et la plupart d'entre elles sont liées au lac de l'Ouest de Hangzhou. La légende raconte que Ji Gong était originaire de Tiantai, dans le Zhejiang, pendant la dynastie des Song du Sud, plus connu sous le nom de Li Xiuyuan. À l'âge de 18 ans, il est devenu prêtre au temple Lingyin de Hangzhou, sous le nom légal de Daoji. Il ne respecte pas les règles, boit bien et mange de la viande de chien. Il a ensuite déménagé chez le moine (clérical) du temple Nanzan Joji-ji.
+Une fois, un incendie au temple Joji-ji a détruit la salle du trésor de Daiyu. Il a été chargé par l'abbé de solliciter de grands arbres pour construire le palais. Après trois jours de forte consommation d'alcool, il a criéxa0: «xa0Le grand arbre est làxa0! Vous pouvez le récupérer au puitsxa0! Effectivement, de grands arbres jaillissent du bas du temple. Terasos a rapidement retiré plus de 60 grands arbres de sept à huit pieds de long et cinq pieds de diamètre du puits. Plus tard, l'abbé a dit que cela suffisait, et plus aucun grand arbre n'est apparuxa0; un grand arbre qui sortait du puits s'est arrêté. Aujourd'hui, dans le «xa0puits Kamiyukixa0» (également connu sous le nom de «xa0Yunki Furuixa0») du temple Joji-ji, vous pouvez également voir le bout d'un grand arbre à la surface du puits. Une fois, Ji Gong a prédit qu'une petite montagne volerait devant le temple Lingyin depuis l'ouest. Afin de sauver la vie des villageois du petit village en face du temple, il a soudainement et intellectuellement adopté la méthode du «xa0moine volant la mariéexa0», de sorte que tous les villageois ont rapidement sauvé la mariée, évitant ainsi le malheur d'être écrasé à mort par le sommet de la montagne. C'est l'histoire de Feilaifeng.
+Une fois, Jigong est passé près du lac de l'Ouest et a vu que de nombreux habitants s'étaient coupés la queue et s'étaient préparés à la manger. Ji Gong a supplié les habitants de leur donner ces escargots et les a relâchés dans le lac de l'Ouest. Ces escargots sans queue sont tous vivants. Depuis, de nombreux escargots sans queue ont poussé à West Lake. Les escargots à queue poussent toujours dans les ruisseaux de montagne autour de Tiger Run et de Xixi. La légende raconte que c'est une «xa0vieille chosexa0» que Ji Gong a personnellement publiée à l'époque. Aujourd'hui, un petit ruisseau devant le temple de Hupao s'assèche souvent dans l'Antiquité. Ji Gong tient un ventilateur cassé et crie dans sa bouchexa0: «xa0Lève-toi, lève-toixa0!xa0» Le ruisseau a immédiatement augmenté et, depuis lors, il a continué à couler doucement et ne s'est jamais asséché.   
+

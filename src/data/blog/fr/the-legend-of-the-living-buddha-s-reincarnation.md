@@ -1,0 +1,18 @@
+---
+pubDatetime: 2026-11-30 07:20:53
+title: "La légende de la réincarnation du Bouddha vivant"
+featured: false
+draft: false
+description: "Après la mort de Karma, il a voulu se réincarner en ayant pitié de ses disciples. Le garçon qui a perdu la vie pour la première fois a été détruit par erreur par le diable. Finalement, après que son âme soit entrée dans le corps maternel tibétain, il a fondé le système de réincarnation du Bouddha vivant, qui reflétait le désir du Bouddha d'être compatissant et de nourrir tous les êtres vivants."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-the-living-buddha-s-reincarnation.png)
+
+
+
+
+ Le fondateur du système de réincarnation du Bouddha vivant est Karma Boshi. Il est très doué en bouddhisme et est très apprécié par l'empereur de la dynastie Yuan. Le frère de Kublai, Ali Bugo, lui a déjà offert un chapeau à bords noirs. Ce chapeau a été conservé à ce jour. Karma Hoshi est mort au temple de Chupu en 1283 et a vécu 80 ans. Au moment du silence, il a dit à son disciple Wu Jianbaxa0: «xa0Après ma mort, il y aura certainement un successeur à la faction Black Hat, un héritier de la faction Black Hat, un descendant du bouddhisme ésotérique...xa0» Au moment du Nirvana, Karma Dalhi s'est rendue à Doushiten. C'est ici que vit le bodhisattva Maitreya. Huit jours plus tard, il s'est soudainement souvenu de ses disciples et a remis son «xa0âmexa0» au monde. Il a vu que les disciples pleuraient sans cesse à cause de son décès. Il se sentait très mal à l'aise. Il a immédiatement ressenti de la compassion et a décidé d'utiliser la «xa0loi de l'exterminationxa0» (yoga de réincarnation) pour se réincarner, continuant ainsi à enseigner à tous les êtres. Ce jour-là, dans le village de Duilong Baochang, dans le nord-ouest de Lhassa, le fils d'un vieux couple, âgé de 13 ans, est décédé subitement. Lorsque Karma Bushi a vu de la fumée de mûrier s'échapper, ils se sont précipités sur place et ont transféré leur âme dans le cadavre. Les yeux du cadavre brillaient. Le vieux couple a eu très peur en voyant cet étrange phénomène. Ils pensaient que c'était le corps du diable. Ils ont rapidement attrapé de la suie du poêle et l'ont répandue dans leurs yeux, puis leur ont percé les yeux avec une aiguille.
+Selon les coutumes tibétaines, saupoudrer de suie sur les gens est une méthode traditionnelle pour se débarrasser des problèmes. Le vieux couple pensait que leur fils décédé était hanté par le diable et voulait utiliser les cendres, mais il ne s'y attendait pas, mais cet acte a perturbé la réincarnation de Karma Balhi. Il n'avait pas d'autre choix que de retirer son âme du cadavre et de trouver un autre moyen de se réincarner. Finalement, l'âme a été transférée dans le corps maternel du dernier Dogi tibétain et la réincarnation a été un succès. Depuis lors, le système de réincarnation du Bouddha vivant tibétain a été mis en place.   
+

@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-28 10:53:23
+title: "L'épreuve et les retrouvailles de la courtisane Yutangchun"
+featured: false
+draft: false
+description: "Célèbre prostituée de Pékin, Yu Tang Chun est tombée amoureuse de Wang Jinglong. Wang Jinjin a été expulsée et Su San l'a aidée secrètement à rentrer chez elle. Elle a ensuite été vendue comme concubine, accusée à tort et condamnée à mort. Wang Jinglongzhong a agi en tant qu'agent de patrouille, s'est plainte d'elle et s'est finalement mariée en tant que concubine. L'histoire fait l'éloge des véritables sentiments de souffrance, et le bien et le mal sont récompensés."
+---
+
+
+
+![AstroPaper I18n](/public/the-ordeal-and-reunion-of-the-courtesan-yutangchun.png)
+
+
+
+
+ Yu Tang Chun est le nom de scène de Su San. Quand elle avait cinq ans, elle a été achetée au Shanxi pour une fortune par Yuhu Suhuai et sa femme. Après dix ans de formation, elle a été formée pour devenir une femme capable de chanter, de danser et d'avoir un sens du style extraordinaire. Grâce à son génie, Su San est devenue une célèbre prostituée à Pékin. Où qu'elle aille, la maison brillait de mille feux, alors un invité lui a donné un nom de scènexa0: Gyokudo Haru.
+Yutang Chunyin appartient à la catégorie des fleurs. Elle ne reçoit jamais facilement des invités. Les personnes qui peuvent habituellement la voir sont des personnes célèbres au dos serré. De plus, l'hospitalité printanière de Yutang se concentre principalement sur le chant élégant, il n'est donc pas facile de rester endormi.
+Ming Wu Zong venait de monter sur le trône à l'époque et l'eunuque Liu Jin avait l'autorité exclusive. Wang Qiong, le sage, a offensé Liu Jin et a été contraint de quitter Pékin, ne laissant que son fils Jing Long pour recouvrer les prêts des années précédentes et retourner dans sa ville natale de Yongcheng.
+Wang Jinglong, 18 ans, est très compétent. Il a rapidement récupéré tout son capital et ses intérêts et, au bout de deux jours, il devra rentrer chez lui après avoir tout fait. Deux jours avant son départ, il se promenait dans la rue. Il n'a pas pu s'empêcher de venir à Huluxiang, où se trouve Su San. Sous la direction d'autres personnes, il a emménagé dans une famille dorée. Bien que Yang Jin ait vu qu'il était en effet un grand garçon, Su San ne pouvait pas le voir facilement, alors il en a déduit que Su San était occupé. Wang Jinglong a sorti une pièce d'or et elle a immédiatement fait sortir Su San avec un sourcil ouvert et un sourire.
+Wang Jinglong a détaillé cette célèbre prostituée de Pékin. Je n'arrive pas à croire qu'il y ait encore de si belles personnes dans le monde. Après trois verres de vin, Wang Jinglong est restée dans sa chambre.
+Il a été à la mode toute la nuit. La nuit, Wang Jinglong a simplement déménagé pour vivre dans un bordel et a longtemps laissé derrière lui la question du retour dans sa ville natale. Moins d'un an s'est écoulé et les 30 000 fleurs en argent de Wang Jinglong n'ont plus d'argent. Une livre d'or l'a viré. Wang Jinglong était sans le sou et est devenu mendiant. Il mendiait dans la rue pendant la journée et s'est réfugié à Guanwangmiao la nuit. C'était très misérable.
+Depuis son départ, Su San a refusé de venir chercher des clients. Après quelques rebondissements, elle l'a finalement retrouvé et n'a pas pu s'empêcher de fondre en sanglots en voyant son apparence sombre. Après son retour, Su San a remis la haute joaillerie à Wang Jinglong, afin qu'il puisse retourner dans sa ville natale avant de faire des plans.
+Une fortune a découvert que les bijoux de Su San avaient disparu et l'a vendue d'un seul coup à Shen Hong, un riche homme d'affaires de Hongdong, en tant que concubine. Le partenaire idéal de Shen Hong, Pi, avait commis un adultère avec quelqu'un. Craignant que Su San ne le découvre, ils ont voulu l'empoisonner avec de la soupe à l'arsenic. De façon inattendue, Shen Hong a bu la soupe de nouilles par erreur et Shen Hong a saigné à mort. Pi a faussement accusé Su San du meurtre de son mari et s'est présentée au tribunal. Su Sansan a inventé un truc et a été emprisonné dans le couloir de la mort.
+Cependant, après le retour de Wang Jinglong dans sa ville natale, il a passé son temps à étudier dur. Il a participé à l'examen la deuxième année, l'a réussi d'un seul coup et a été officier de patrouille officiel dans huit provinces du Shanxi. Il a envoyé quelqu'un à Hulu Alley pour trouver Su San, mais le bâtiment était vide.
+Lorsque Wang Jinglong s'est rendu au Shanxi pour inspection, il a effectivement vu le mot «xa0Three Suxa0» dans la liste d'après-automne. Il était vraiment choqué. Il a été immédiatement traduit en justice dans l'affaire du meurtre de Su Sanfu. Dès que Su San a vu que sa vieille amie avait pris les devants, il a immédiatement rejeté tous ses griefs. Naturellement, Wang Jinglong a pris l'initiative de clarifier l'affaire et de punir Pitt.
+Plus tard, Wang Jinglong a acheté une maison à Pékin et a épousé Su San en tant qu'épouse.   
+

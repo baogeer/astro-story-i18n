@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-09-26 17:28:22
+title: "La leyenda del hada del loto que dibujó la Gran Muralla"
+featured: false
+draft: false
+description: "Durante el apocalipsis de la dinastía Ming, Wang Bingzhen y Zhao Wenkui supervisaron la Gran Muralla. Se sentían angustiados por las dificultades del terreno y por la pérdida de dibujos, y con frecuencia regañaban a los trabajadores migrantes. La hada de Lianhuashan se convirtió en una niña del pueblo y desapareció después de dibujar un dibujo de la Gran Muralla en papel con un bolígrafo. Los dos adultos siguieron la imagen para construir esta sección de la Gran Muralla, finamente diseñada, y construyeron un faro para conmemorar a las hadas. Desde entonces, han tratado con amabilidad a los trabajadores migrantes. La historia elogia la amabilidad y la sabiduría para resolver situaciones difíciles."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-the-lotus-fairy-who-drew-the-great-wall.png)
+
+
+
+
+ Hablando de la historia de la Mujer del Loto que pintó la Gran Muralla en la montaña Lianhua, ocurrió durante los años del Apocalipsis.
+Según los registros de monumentos de piedra, la sección de la Gran Muralla desde Dongliangtou hasta Erdaoguan en Yangshugou fue supervisada por dos adultos, Wang Bingzhen y Zhao Wenkui. En aquel momento, recibieron la Santa Promesa. Cuando visitaron el sitio de construcción, no pudieron evitar arrugar las cejas. Al tercer día, el sol echó aceite sobre la corteza y humo de leña. Los aldeanos son todos amarillos y delgados, con pantalones de tela grandes y gruesos y parches llenos de parches.
+El terreno en esta área es alto, los acantilados son empinados y los dibujos de construcción se perdieron accidentalmente. De acuerdo con los requisitos anteriores, los preparativos deben hacerse a principios de mes y la construcción debe comenzar según lo previsto antes de fin de mes. Esto entristece a los dos adultos. Bebían alcohol todos los días y, después de unos días de arduo trabajo, estaban tristes, pero aún no tenían ni idea. Los dos adultos solo se ofenderán con los trabajadores migrantes. Lucharán contra esto hoy y contra aquello mañana. Si esto continúa, tendrán que matar a todos los trabajadores migrantes. No muy lejos de Liangtou, en el este de Yangshugou, se encuentra la Montaña del Loto. El hada del loto vive en el patio de la cima de la montaña. Todas las noches, el patio luce dorado e ilumina los pueblos cercanos. Esta mujer hada es gentil y bondadosa. A menudo se convierte en una señora del pueblo para salvar a la gente de los desastres. No llueve y la gente común quema incienso para abastecerla y demandarla; cualquier mujer que no tenga hijos la busca; si se muda para casarse, tiene que ir a la montaña de Lianhua para pedir su bendición.
+Un día, dos adultos, Wang y Zhao, estaban preocupados por cómo volver a construir la muralla de la ciudad. De repente, el aroma se apoderó por un rato. Los dos adultos quedaron atónitos. Cuando levantaron la vista, una chica con un vestido rosa se paró frente a ellos: «Dejen que los dos adultos calmen su ira. Soy de Lianhuashan. Mientras los adultos dejen de trabajar como trabajadores migrantes, tengo una idea y no puedo usarla porque no sé». Los dos adultos estaban furiosos. No importaba en qué montaña se encontrara, sonriendo y a punto de volverse loca, la niña se arrodilló apresuradamente: «Que los adultos dejen de estar enojados...»
+«Mientras actúes según tus ideas, nunca trataremos mal a las personas. Si hay malicia, el cielo y la tierra no lo permitirán».
+Después de escuchar esto, la niña levantó la vista y dijo en voz baja y con cuidado: «Habla y cuenta, escríbelo con un bolígrafo».
+«¡La pluma y la tinta te esperan!» Ordenaron dos adultos. El asistente trajo bolígrafo, tinta y papel. La niña abrió el papel, abrió el cartucho, arrastró la parte inferior de la manga derecha de su chaqueta con la mano izquierda, miró hacia el este, meditó un rato y dibujó en el papel...
+Los dos adultos abrieron los ojos y estaban a punto de mirar más de cerca. Solo vieron una niebla blanca frente a ellos y no pudieron ver nada. Los dos adultos estaban perplejos; solo escucharon a la niña decir: «Gracias». La niebla blanca desapareció pronto y no había gente.
+Los dos adultos miraron hacia abajo. No fue espectacular. Siguiendo la montaña, una cinta serpentea desde Yangshugou hasta el paso de Erdaoguan. También hay unos cuantos cuadrados pequeños en la cinta. Al mirar la imagen, los dos adultos quedaron asombrados. Después de un rato, de repente recordaron que debía haber sido el Hada del Loto quien los ayudó. Los dos adultos se arrodillaron de inmediato y rezaron tres oraciones a la montaña Lianhua.
+Los dos adultos ya no están preocupados; los trabajadores migrantes ya no son golpeados ni regañados. Repararon esta sección de la Gran Muralla después de unos años de arduo trabajo, siguiendo el patrón de la pintura de la Niña del Loto. Además, la mano de obra es más detallada que en las otras secciones, lo que es muy singular.
+Para conmemorar las hazañas inmortales de la Dama del Loto, Wang y Zhao también construyeron especialmente un faro en el Dongliang de Yangshugou, frente a Haruharu Lianhua Yamaguchi, para mostrar su nostalgia.   
+

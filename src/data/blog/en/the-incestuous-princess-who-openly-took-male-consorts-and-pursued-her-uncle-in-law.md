@@ -1,0 +1,52 @@
+---
+pubDatetime: 2026-12-31 00:23:54
+title: "The Incestuous Princess Who Openly Took Male Consorts and Pursued Her Uncle-in-Law"
+featured: false
+draft: false
+description: "During the Northern and Southern Dynasties, Princess Liu Chuyu of Shanyin in the Southern Song dynasty was dissatisfied with being alone, complained about injustice to her younger brother Liu Ziye, and was gifted 30 beautiful teenagers. She blatantly accepted a male concubine and seduced her married uncle Chu Yuan; Chu Yuan refused to do so with her death. The story satirizes the absurdity of feudal privilege and shocks the bottom line of humanity."
+---
+
+
+
+![AstroPaper I18n](/public/the-incestuous-princess-who-openly-took-male-consorts-and-pursued-her-uncle-in-law.png)
+
+
+
+
+ This princess is Princess Liu Chuyu of Shanyin, the daughter of Emperor Liu Jun of Southern Song during the Northern and Southern Dynasties.
+Princess Shanin's mother, Empress Wenmu, gave birth to two children and four daughters for Emperor Xiaowu: Abandoned Emperor Liu Ziye, King Liu Zishang of Yuzhang, Princess Liu Chuyu of Shanyin, Princess Liu Chupei of Linhuai, Princess Liu Chuxiu, and Princess of Kangle Liu Xiuming. They were very prolific, which also showed that the empress was beautiful and intelligent. It is conceivable that her daughters should also be naturally beautiful. However, out of these four princesses, only Princess Sanin is famous.
+I'm afraid it's mainly because of her behavior. In the history of Chinese princesses, she is one of those who have never been born before or since.
+In the 8th year of Daming, in May 464, Princess Shanin's sixteen-year-old brother Liu Ziye succeeded to the throne and is known in history as the former Abandoned Emperor.
+Liu Ziye's wild and lustful nature is probably considered an outstanding character in the heap of historical perverts. Not only did he select popular beauties, but he also took his old father's inner love, and even took his own aunt and sister in his arms. His forcible aunt is known as Princess Xincai — she is also a princess and has long been married to General Ho Mai. However, Liu Ziye summoned her to the palace and returned the body of a poisoned court lady to which province, saying that Princess Xin Cai had gone berserk in the palace. Ho Mai can't wear this green hat (I'm afraid I can't even be considered a man.) As a result, the plan rebelled; as a result, the incident was leaked; instead, they were killed by Liu Ziye, an incestuous bastard. Princess Xincai has since changed her last name to Xie and stayed in the Deep Palace for a long time. Liu Ziye even wanted to nominate Princess Xincai as empress. After being rejected by the disheartened princess, Liu Ziye changed her name to the Lu clan.
+Of course, that's still the case with my aunt; let alone my sister, who has always been regarded as the most beautiful woman in the royal family.
+However, unlike her aunt, who was forced to obey, Princess Shanin has always had a very good relationship with her younger brother. In this regard, she can be considered the same person as Liu Ziye. According to historical records, Princess Shanyin often took the initiative to enter the palace to eat and live with Liu Ziye, just like a husband and wife. Liu Ziye listened attentively to this sister and was very obedient.
+This is what happened in this situation.
+One day, Princess Sanin looked at the many beautiful women in the palace, and couldn't help but complain. Speaking of Liu Ziye, he said, “The emperor and I are both male and female, but they are all the bones and blood of the emperor; speaking of them, they are all the same. However, you have Sannomiya Rokuin, and tens of thousands of beautiful people, yet I can only live my life by guarding one horse. Things in the world are unfair to this point!” —— “The Concubine and His Majesty, although there are differences between men and women, they all have their ancestors. His Majesty's Six Houses are 10,000, and the only concubine is Ma. Things are uneven, so here it is!”
+Hehe, this statement sounds very reasonable. The princess and the emperor were all children of a father. Why were there tens of thousands of beautiful concubines in the emperor's harem, but the princess only had one horse?
+Liu Ziye listened to her sister's remarks and immediately “if you know your mistakes, change them.” She patted her chest and promised that Princess Shanin would be satisfied.
+Although Liu Ziye had no interest in political affairs, she was aggressive about the incident — she immediately picked 30 handsome teenagers and sent them to the princess's palace, making Princess Shanin all a male favorite, or “face first.” “Face” refers to having a beautiful face, and “head” means dark and shiny hair — the hair owner has a kidney, and the hair grows well. Naturally... hmm...
+To add the icing on the cake, Liu Ziye also promoted her sister to the throne and promoted her to the position of Princess Huiji County Governor according to the system. Anyway, Princess Sanin laughed at this gift.
+Lieutenant Ma, He Ji, looked at these 30 men left out of thin air in his family. What he thought in his heart was not recorded in history books. But I'm not happy to think about it: He Yi, who came from a famous family, was a beautiful man famous at the time, had a good figure, and had a great style in every move. But when I married a wife like this, I was really helpless.
+It's not over yet.
+There was a young man, and Princess Sanin had the idea of a mature man again.
+There were two beautiful men in the Southern Song dynasty. One is Ho Chi, who is married to Princess Sanin, and the other is Chu Yuan, who is married to Princess Namgun. Chu Yuan Zi Yanhui. In terms of generation, Chu Yuan is Princess Shanyin's aunt. This man is personable, handsome, mature, steady, charming, and unpretentious, and he is ashamed every time he goes in front of him. Every time there is a DPRK meeting, envoys and courtiers from all over have to watch Chu Yuan go far away before they are willing to disperse.
+Now, the target of Princess Shanin's idea is Chu Yuan.
+She made another request to Liu Ziye so that Chu Yuan could spend a few days happy with herself.
+Liu Ziye knew that Chu Yuan had always done things right and didn't blatantly ask him to have fun with his sister. I just ordered him to go to the princess palace. As for what happens after arriving in the province, it depends on Princess Sanin's abilities.
+Princess Sanin picked up her spirits, dressed up every day, did her best to seduce Chu Yuan in every way.
+However, ten days have passed, and Chu Yuan is still like a block of wood, unresponsive to the beautiful and beautiful Princess Shanyin. The princess was anxious and couldn't help but pull it off. However, Chu Yuan is tall and strong; Princess Shanin is not his opponent at all.
+Princess Shanin lowered her face and blamed Chu Yuan: “You look like a man. He has a big beard as thick as an iron sword. Why doesn't he have the slightest masculine attitude when it comes to doing things?” —— “Your beard is like a sword, why don't you want a husband?”
+Chu Yuan smiled and answered in a polite manner: “Although I'm not sensitive, I don't do anything so unreasonable.” —— “If you don't have any allergies, how dare you take the lead?”
+Princess Sanin hasn't given up her heart; she continues to use both soft and hard and seduction.
+But Chu Yuan was adamant and simply said: You are a princess, and the national system is superior; I can't do anything to you, but if you force me like this, I can always commit suicide.
+When things got to this point, Princess Sanin had no choice but to stop. Kindly send Chu Yuan out of the Princess Palace.
+Ah, Chu Yuan, as a country minister and Princess Shanyin's grandfather, had to use this trick to keep her innocent. Those 30 unintelligible people left home and abandoned the couple. The teenager she had no status like Chu Yuan; I'm afraid the suffering was even more unspeakable.
+However, during the time Chu Yuan was in custody at the Princess Palace, Ma Ho Ji ate and lived with him. They were very friendly and very friendly.
+Hehe, they all married daughters from this family, and they have compassion for the same disease.
+Chu Yuan is one of the few men with outstanding appearance in history. He has such personal conduct and an outstanding political voice: after the fall of the Southern Song Dynasty, he also served in Southern Qi until the first level of prime minister (sir). He is famous for his integrity and impartiality, and is highly respected by people at the time.
+Regarding Liu Ziye and Liu Chuyu's astonishing behavior, I'm afraid it has a lot to do with their tutors.
+Their grandmother, Empress Dowager Lu, lives in Xianyang Hall and is often ordered to visit the temple. However, their father, Emperor Xiaowu, Liu Jun, often took advantage of this opportunity to run to Xianyang Temple to force the handsome woman into the palace. He didn't care at all about the kinship relationship, let alone the feelings of the wife and daughter of the courtier being taken.
+What's even more outrageous is that Liu Jun also seduced several of his cousins. My uncle Liu Yixuan was so angry that he rebelled. Liu Yixuan was later defeated, and both father and son were taken prisoner. Liu Jun had no worries. She simply included a few cousins in her harem and changed their names to their surnames. One of them, who was particularly beautiful, was also named Yin Shuyi, and was pampered.
+However, the incest incident between him and his birth mother is probably not enough for us to describe it by simply using “outrageous.”
+With such a father, Liu Ziye, and Princess Shanin, it doesn't seem surprising what they did.   
+

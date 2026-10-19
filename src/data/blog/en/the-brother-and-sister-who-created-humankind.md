@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-10-12 15:13:21
+title: "The Brother and Sister Who Created Humankind"
+featured: false
+draft: false
+description: "According to the legend of the Yilao tribe, Abouqug and Red Manxi were the founders, and only two brothers and sisters were left in the aftermath of the flood. Through rolling stone grinding, etc., they verified that God formed a marriage. When the stone mill matched the bubble, blood splashed into smoke the next day, and the ancestors of Maozhou proliferated, reflecting the breeding theme of God's will that cannot be violated."
+---
+
+
+
+![AstroPaper I18n](/public/the-brother-and-sister-who-created-humankind.png)
+
+
+
+
+ During the flood era, the land of Maozhou was still in chaos. The local mythological story “The Creation of Aboukuge” says that at the time, the sky was a white egg and the earth was a black egg, and God Abouquger and the mother of God, Red Manxi, decided to make heaven and earth. When they opened the egg, they saw that the white egg had a bluestone plate, and a crocodile drilled out of the black egg, so they turned the crocodile on its back and held up the bluestone slab with four legs, and Maozhou had heaven and earth.
+Later, they let another jade dog live in the crocodile's ear and bite it as soon as it moves. Legend has it that the ground was initially very flat, but once the crocodile smelled of burnt skin and moved around, causing a major earthquake to cause the ground to deform, only to have alpine valleys and deep ditches.
+After the heavens and the earth were made, it was very lonely, and there was no smoking on the empty ground. Aboukuge and Hongmanxi placed nine croissant branches in the cave and blew 3 breaths at them every day. After 9 days, those branches became people. They climbed out of the cave and ran in all directions. The legendary ancient Maozhou people appeared.
+I don't know how many years have passed, and the Maozhou people living in the primitive society are still cultivating and thriving. There was a flood one year, and the earth became a vast ocean. Later, the county, state, and county governor Fengyi also became the blue and rippling West Sea. In the “Mountain and Sea Sutra,” it is called “full of floods.” At the time, torrential rain was pouring down and heavy water spread, and almost everyone was buried in the belly of a fish; in the end, only two brothers and sisters were left.
+They are said to have survived by hiding in a 10,000 year old cypress tree. Once the land returned to its original form, it became a problem to reproduce people again, and they were unable to become a couple. In response, the Maozhou story and legend “Brothers and Sisters Make People Smoke” narrates: They asked about an old cow, so they planted bamboo on the two mountains, but the roots of the bamboo were strung downward, so that the two pieces of bamboo grew together and connected. And after many similar verifications, they all indicate that it was “God's intention” for them to get married.
+Later, they each climbed to the top of Mount Kitayama and Mount Namsan, and rolled down the mountain at the same time. They wanted to see if the two stone mills could be combined in one pair. As the stone mills rolled down, they all headed in the same direction, and finally joined together on a flat dam between the two mountains. As soon as the brother and sister met, they once again felt that “becoming a family” was a natural intention, and at the same time very embarrassed. Just when it was difficult, many blood bubbles grew on the stone mill after matching it. When it expanded to the size of an egg, it burst again, splashing blood on trees and grass all over the mountains. The next day, people were smoking everywhere.
+As a result, these people became legendary Maozhou people created by brother and sister, and together with the ancients who migrated later, they formed the predecessor of the Shushan clan.   
+

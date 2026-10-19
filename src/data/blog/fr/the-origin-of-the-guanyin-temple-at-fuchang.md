@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-09-27 10:10:43
+title: "L'origine du temple Guanyin à Fuchang"
+featured: false
+draft: false
+description: "Lors de la foire du temple de Baizhushan, les habitants de Yoshimura et Longjie arrivés en retard ont été ridiculisés et en colère et ont fait entrer clandestinement la statue de Guanyin. En traversant Fuchang Linggang, la statue s'est soudainement sentie lourde comme si elle avait pris racine et ne pouvait pas être déplacée. Les gens pensent que le Bouddha va apparaître et que le temple sera construit sur place. La réunion est prévue pour le 19 février. L'histoire montre qu'il ne faut pas mépriser les autres, ni craindre la volonté des dieux."
+---
+
+
+
+![AstroPaper I18n](/public/the-origin-of-the-guanyin-temple-at-fuchang.png)
+
+
+
+
+ La légende raconte que la foire du temple de Baizhushan a été organisée conjointement par Dragon Street, Baizhu, Yoshimura et la fabrique de carreaux. Sheba, Mizutakutsubo, Tomisho et Yoshimura Gaiji Ancient prendront chacun la tête de la rotation. Chaque année, le 14e jour du Nouvel An lunaire, il y a un flux incessant de personnes de quatre villages et 13 miles pour aider les personnes âgées et amener leurs enfants à Chaoshan, au temple de Baizhu, pour y adorer les dieux. Que toute la famille soit saine et sauve. Étant donné que la montagne Baizhu est située au centre des quatre côtés, les montagnes et l'eau claire sont magnifiques, les arbres sont profonds et les dieux sont très spirituels, et c'est un endroit où les jeunes hommes et femmes de la région se rencontrent et font une rencontre amoureuse, il est très fréquenté et très animé. Les gens ont chanté et bu, se sont amusés et il a fallu quatre ou cinq jours avant de se disperser.
+Comme Yoshimura et Dragon Street sont loin de Baizhushan, les gens doivent se lever et prendre la route à chaque fois qu'ils se rendent à pied à Baizhushan. Au moment où ils marchent vers Baizhushan, le soleil est déjà en pente vers l'ouest. Sans parler du festival public organisé par le Quatuor, sans parler du festival public organisé par le Quartet, pas même un endroit où se reposer les pieds ou cuisiner avec une marmite. Les personnes arrivées tôt le matin ont également lu un livre sur la porte du templexa0: «xa0La montagne Baizhu Ling a quatre piedsxa0; certaines personnes ne rétrécissent pas leurs piedsxa0», se moquant de ceux qui sont loin d'arriver à temps. Les gens de Lu Yuan ont été indignés quand ils l'ont vu, et ils se sont réunis pour discuter du corps doré et de la position de Guanyin du temple de Baizhu à Guikou à Yongping pour construire un autre nouveau temple.
+Le 14 janvier, 20 couples de jeunes garçons et de grandes filles sélectionnés à l'avance de Yoshimura et Dragon Street chantaient et jouaient des chansons à l'entrée du temple, attirant ainsi l'attention des gens. Profitant de l'occasion pour les gens de regarder et de chanter dans l'espace vide du temple Qu, les deux autres gars forts, qui étaient aussi forts que des vaches, se sont secrètement retournés et ont couru, marchant comme des volants, jusqu'à Guikou dans la rue Longjie.
+Curieusement, lorsque les deux jeunes hommes ont transporté le Bouddha en bas de la montagne, ils étaient aussi légers que des hirondelles et ne se sentaient pas du tout lourdsxa0; lorsqu'ils ont couru vers Fuchang Linggang d'un seul coup, ils avaient l'impression de porter une grande montagne. Ils étaient donc à bout de souffle, ce qui les empêchait de marcher à chaque étape. Le jeune homme a ensuite placé le Bouddha sur la colline et s'est assis pour se reposer. Quand les deux ont voulu s'éloigner à nouveau du Bouddha, c'était comme si des fourmis secouaient un grand arbre, et la statue ne bougeait pas du tout, comme si elle avait pris racine. Le jeune homme se sentait étrange, alors il a raconté l'incident aux personnes âgées du village de Fuchang. Les personnes âgées disaientxa0: «xa0C'est la direction spirituelle du bodhisattva Guanyinxa0; cela ne doit pas aller à l'encontre de la volonté des dieux.xa0»
+En conséquence, les gens ont construit des maisons et construit un temple à Fuchang Linggang pour y placer le corps du Bouddha. Le jour de la construction du temple se trouvait être le 19 février du calendrier lunaire, jour propice du zodiaque, qui était fixé pour le culte. Depuis lors, les habitants des villages de Yoshimura, Yongping et Shuizhuping ne sont jamais allés à Baizhushan pour s'amuser, car la foire du temple de Fuchang Guanyin, qui a lieu le 19 février de chaque année, est aussi animée que le 14 janvier à Baizhushan.
+Narrateurxa0: Chang Xueshi
+Collecte et collationxa0: Ah Xunyu   
+

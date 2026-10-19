@@ -1,0 +1,36 @@
+---
+pubDatetime: 2026-12-11 11:50:53
+title: "The Legend of the Yellow River's Origin"
+featured: false
+draft: false
+description: "There were major droughts in ancient times, and Huanglong overcame rainfall to save people, causing Emperor Jade to be imprisoned. After breaking free, it escaped being hunted by the Heavenly Soldiers all the way, and got help from Daewoo to break out of the encirclement. It eventually became the Yellow River for thousands of miles along the East China Sea. The people appreciated its blessings, and it has been called the Mother River for generations."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-the-yellow-river-s-origin.png)
+
+
+
+
+ Starting from the northern foothills of the Bayankara Mountain, which is full of glaciers, the Yellow River takes in thousands of streams and rivers all the way, making its way to the shores of the Yellow Sea, which is full of twists and turns. Like a golden dragon, lying on its side in the vast land of northern China. The Yellow River, with its eighteen bends, flows 28 kilometers through Yuncheng County.
+Why do people call this river the “Yellow River”? Here's a poignant and moving legend.
+In ancient times, the world was muddy, foggy on the ground, overgrown with wild grass, and venomous snakes and ferocious animals. Later, people learned how to drill wood to make fire, and learned how to grow whole grains, and only then did the earth have vitality and vitality.
+People live carefree lives as the sun rises and sinks. Dragon King of the East China Sea was jealous, so he showed indecency. If the clouds did not sow rain for three years, the earth was arid for a long time, no particles were harvested, and people were suffering all the time.
+There is a yellow dragon in the sky, and thousands of years of practice have come to fruition. Huanglong's body can be long or short, tens of thousands of miles long, like a caterpillar; its body is both soft and strong; when soft, it bends softly, and is as strong as an iron rod at the beginning. The yellow dragon is all yellow, and either flies in the sky or runs on the ground, flashing a yellow light.
+On this day, while on top of the nine skies, Huang Long saw thousands of miles in the field. People were full of grievances and were displaced, so he asked Dragon King of the East China Sea to make sense.
+Who knows, Dragon King in the East China Sea is outrageous and unreasonable; it will take another three years of severe droughts. Huang Long suddenly blushed, and “whistled” out of the East China Sea and reached the sky above the Central Plains. He did everything he could and spit out in the wind, turning the dark clouds into raindrops, and the torrential rain immediately poured down.
+Dragon King of the East China Sea sued Huang Long over power and extorted rain. Emperor Yu Huang sent the Emperor Tianbing and tied Huang Long with an iron lock, took him back to Tiangong, and imprisoned him in Yaochi. Removing the Huang Fengzhu from Huanglong's head made Huang Long lose his ability to drive fog in Tengyun. Huang Long is determined to flee from Tiangong and go to the East China Sea Dragon King to settle accounts and exterminate the damage for the people.
+One night, Huang Long broke the iron cable, climbed out of Yaochi, jumped down, and landed between the mountains and mountains of Chongshan.
+Under the northern foothills of the Bayankara Mountains, Huang Long fought for three days and three nights with Tenbingtian General, who had been chased along the way, and escaped from the encirclement.
+The Jade Emperor became angry, and he also mobilized nine immortals, 18 celestial generals, and put up serious doubts to capture Huanglong.
+Huanglong stormed out of Jishi Mountain and struggled to break towards Minshan Mountain. However, Minshan Mountain was heavily guarded. When Huanglong arrived in the current Tangke region of Qinghai Province, he suddenly turned his head, made a big turn, and ran north. Later, this place was called the first song of the Yellow River. Huanglong followed the mountain and passed through Longyang Gorge, Gongbo Gorge, and Liujia Gorge. However, Huanglong discovered that Gaolan Mountain was a suspicious battle laid out by the gods. He didn't dare to fight in love. He turned north and arched into Helan Mountain.
+Huanglong walked along Mount Helan, climbed a cliff through a valley, and walked in a hurry. In order to evade Tenjin's obstruction, it turned one corner after another.
+He ran hundreds of miles north, and the overcast mountains blocked his way. It took another turn and headed east. Turn a corner south at the eastern end of Omuri Mountain. It wears the moon in the style of food and drinks alcohol, exhausts its energy, sweeps away the loess, and wants to fill the East China Sea in one fell swoop to avenge snow hate. Huanglong passed the Longmen Tianxuan Insurance again and arrived in Tongguan. To the south is Mount Nakajo. There is no way to walk, and Huanglong turned east again. On the east side is the land of the Central Plains. Yama Pingchuan, and Emperor Jade laid down a three-gate battle, mobilized hundreds of celestial generals, and surrounded the Huanglong Regiment. It seemed like they were about to be captured.
+During this period, people in the Central Plains came in groups to ask Dayu to try to rescue Huanglong. With a mountain axe and a water avoidance sword, Dayu forcefully opened three doors, opening a way east for Huang Long. Huang Long struggled to break through the three gates and break out of the encirclement.
+When Huanglong went through all the hardships to reach the seaside, he was already dying. He is determined to give up his life for justice and build a river for the people. He used up one last bit of energy, applied spells, and stretched his body infinitely. Huang Long's head lay down on the East China Sea, and his body extended backwards along the path he had walked to the East China Sea. It was curved, high and low, and he couldn't see the end from the beginning. In an instant, he was already thousands of miles away. At this point, I only heard Huang Long's earth-shattering roar. Its body turned into a big river, flowing continuously, and rushing straight down the East China Sea.
+People say that this river was transformed into a yellow dragon, so they called this river the “Yellow River.”
+Emperor Jade Emperor downgraded all of the Tianbings and Generals who had not stopped Huanglong, and kept them in their original fortified places for many years. Therefore, there is a saying, “The Yellow River has nine curves and eighteen bends; every curve has immortals.”
+It is said that after Huanglong became the Yellow River, he did not completely die. Every once in a while, he also has to roll over and exercise his muscles. But he didn't know. As long as he turned around and made a move, the Yellow River would either flood or break down, causing disaster for people. Although the Yellow River has brought too many disasters to the people, ordinary people still miss the friendship of Huanglong. They still call the Yellow River the mother river and say they are children nurtured by the Yellow River.
+Wei Jianguo   
+

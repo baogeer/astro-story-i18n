@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-10-16 07:06:16
+title: "Wang Xizhi Practicing Calligraphy by the Ink Pool"
+featured: false
+draft: false
+description: "Wang Xizhi envied Zhang Zhi, the Eastern Han Chinese calligrapher, and practiced calligraphy by Linchi all year round. The pool was dark. In the end, the calligraphy was refined, and even the famous artists of the time were amazed. His achievements stemmed from diligent study and hard work. He was not born, and inspired future generations to be worthy of hard work."
+---
+
+
+
+![AstroPaper I18n](/public/wang-xizhi-practicing-calligraphy-by-the-ink-pool.png)
+
+
+
+
+ Wang Xizhi, the great calligrapher of the Jin Dynasty, is very famous in the history of Chinese painting and calligraphy. The “Lanting Post” he wrote has been circulating since then, and is a treasure of Chinese calligraphy art. “Lanting Post” highlights Wang Xizhi's literary talents and achievements in the art of calligraphy.
+“The Lan Ting Post” is a writing of the “Order of the Lanting Collection” made by myself. On March 3 of the 9th year of Eastern Jin Mu Diyong (AD 353), Wang Xizhi and the famous figures of the time, more than 40 people, including Sun Tong, Sun Yi, Xie An, and Zhi Dun, gathered at Lanting in Huiji Shanyin (present-day Shaoxing County, Zhejiang). On this day, spring was bright, and the participants had a lot of poetry, and they cried out some poems one after another. Wang Xizhi was moved by these poems and gladly wrote a preface. This is the “Lanting Collection” which was later recited. The preface notes the grand event and reflects the views of all participants. “The Lan Ting Post” is a fine book on “The Collection of Lan Ting”. It was written beautifully and is a model for future generations to learn calligraphy.
+Wang Xizhi's outstanding achievements in calligraphy stemmed from his painstaking studies as a child.
+When Wang Xizhi studied books as a child, he was very envious of the Eastern Han calligrapher Zhang Zhi. Zhang Zhi, Zi Boying, is also very famous for his calligraphy. It is said that when Zhang Zhi studied calligraphy, she often wrote on silk, then dyed the fabric in a dyeing pot and used it for clothes. Zhang Zhi also often went to the pool to write, and used pool water to polish ink and brush. As a result, all of the pool water was dyed black. Because of his hard work, he is very good at handwriting, and he is particularly famous for his cursive books. People at the time called him “Grassy.” Wang Xizhi is determined to learn from Zhang Zhi's spirit and believes that as long as he is willing to work hard, he will definitely be able to catch up with or surpass Zhang Zhi.
+Wang Xizhi not only learned Zhang Zhi's spirit, but also learned Zhang Zhi's writing methods. Like Zhang Zhi, he often goes to the pool to learn how to write.
+There is a river under Linchuan Castle in Wang Xi's hometown. There is a place called Xincheng on the edge of the river. There is a deep rectangular pool above the new city. This is where he often studies writing. Every time spring arrives, he brings paper, pen, and ink here to learn how to write. He polishes the ink with the water in the pool, and washes the pen with the water in the pool. Every time his black ink pen is thrown into the pool water, a dark cloud of ink immediately appears in the water. In this way, as the days go on, the pool water gradually turns dark. As the pool became darker day by day, Wang Xizhi's characters also grew older day by day. Soon, he surpassed that of Yu Yi, the calligrapher of the time.
+At one point, he wrote a letter in cursive to Yu Yi's older brother Yu Liang. Yu Yi was greatly impressed when he saw it. He said Wang Xizhi's characters “are really comparable to Zhang Zhi's!” Wang Xizhi finally became a famous calligrapher at the time.
+In the Song dynasty, a state school building was built above Mochi in Xincheng. There is a professor surnamed Wang (junior official in charge of education) at the State Academy. Because he feared that the story of Wang Xizhi studying books in the pool would be forgotten by the world, he wrote the six characters “Jin Wang Youjun Ink Pond” and hung it on a pillar in front of the house, and invited the great essayist of the time to write “The Book of Ink Pond.”
+Zeng Gong is one of the Eight Great Essayists of Tang and Song. In “The Book of Mochi,” in addition to describing Wang Xizhi's experience of studying books in Linchi at the time, he also explained some ideas about learning. he said. “If the book of Xi Zhi Zhi is late and good, then Gai is also a person who can do his own thing; it is not natural. “Wouldn't those who are capable of it later learn better than others?” This means that Wang Xizhi's achievements in calligraphy were not born of nature, but the result of meticulous efforts; the reason why future generations were unable to catch up with him was not that later generations were unable to catch up with him, but rather that future generations did not study as hard as him. This is also a useful enlightenment for future generations from Wang Xizhi's story of studying books in Linchi.
+What started was thought and ended.
+-- “Zuo Chuan”   
+

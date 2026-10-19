@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-10-16 07:06:16
+title: "Wang Xizhi practicando caligrafía junto a la piscina de tinta"
+featured: false
+draft: false
+description: "Wang Xizhi envidiaba a Zhang Zhi, el calígrafo chino Han Oriental, y practicó la caligrafía de Linchi durante todo el año. La piscina estaba oscura. Al final, la caligrafía se refinó e incluso los artistas famosos de la época quedaron asombrados. Sus logros se derivaron de un estudio diligente y un arduo trabajo. No nació e inspiró a las generaciones futuras a ser dignas de un arduo trabajo."
+---
+
+
+
+![AstroPaper I18n](/public/wang-xizhi-practicing-calligraphy-by-the-ink-pool.png)
+
+
+
+
+ Wang Xizhi, el gran calígrafo de la dinastía Jin, es muy famoso en la historia de la pintura y la caligrafía chinas. El «Lanting Post» que escribió ha estado circulando desde entonces y es un tesoro del arte caligráfico chino. «Lanting Post» destaca el talento literario y los logros de Wang Xizhi en el arte de la caligrafía.
+«The Lan Ting Post» es un escrito de la «Order of the Lanting Collection» hecho por mí. El 3 de marzo del noveno año de Jin Mu Diyong Oriental (353 d.C.), Wang Xizhi y las figuras famosas de la época, más de 40 personas, entre ellas Sun Tong, Sun Yi, Xie An y Zhi Dun, se reunieron en Lanting, Huiji Shanyin (actual condado de Shaoxing, Zhejiang). Ese día, la primavera brillaba y los participantes tenían mucha poesía y gritaban algunos poemas uno tras otro. Wang Xizhi se conmovió con estos poemas y escribió con mucho gusto un prefacio. Se trata de la «Colección Lanting», que fue recitada más tarde. El prólogo señala el gran evento y refleja las opiniones de todos los participantes. «The Lan Ting Post» es un excelente libro sobre «La colección de Lan Ting». Está muy bien escrito y es un modelo para que las generaciones futuras aprendan caligrafía.
+Los logros sobresalientes de Wang Xizhi en caligrafía provienen de sus minuciosos estudios cuando era niño.
+Cuando Wang Xizhi estudiaba libros cuando era niño, sentía mucha envidia del calígrafo Han del Este, Zhang Zhi. Zhang Zhi, Zi Boying, también es muy famoso por su caligrafía. Se dice que cuando Zhang Zhi estudiaba caligrafía, solía escribir sobre seda, luego teñía la tela en una vasija de teñir y la usaba para la ropa. Zhang Zhi también solía ir a la piscina a escribir y utilizaba el agua de la piscina para pulir la tinta y el pincel. Como resultado, toda el agua de la piscina se tiñó de negro. Gracias a su arduo trabajo, es muy bueno escribiendo a mano y es particularmente famoso por sus libros en cursiva. La gente de la época lo llamaba «Grassy». Wang Xizhi está decidido a aprender del espíritu de Zhang Zhi y cree que mientras esté dispuesto a trabajar duro, definitivamente podrá alcanzar o superar a Zhang Zhi.
+Wang Xizhi no solo aprendió el espíritu de Zhang Zhi, sino que también aprendió los métodos de escritura de Zhang Zhi. Al igual que Zhang Zhi, a menudo va a la piscina para aprender a escribir.
+Hay un río bajo el castillo de Linchuan en la ciudad natal de Wang Xi. Hay un lugar llamado Xincheng en la orilla del río. Hay una piscina rectangular profunda sobre la nueva ciudad. Aquí es donde estudia escritura con frecuencia. Cada vez que llega la primavera, trae aquí papel, bolígrafo y tinta para aprender a escribir. Pule la tinta con el agua de la piscina y lava la pluma con el agua de la piscina. Cada vez que arroja su bolígrafo de tinta negra al agua de la piscina, inmediatamente aparece una nube oscura de tinta en el agua. De esta forma, a medida que pasan los días, el agua de la piscina se oscurece gradualmente. A medida que la piscina se oscurecía día a día, los personajes de Wang Xizhi también envejecían día a día. Pronto superó al de Yu Yi, el calígrafo de la época.
+En un momento dado, escribió una carta en cursiva al hermano mayor de Yu Yi, Yu Liang. Yu Yi quedó muy impresionado cuando la vio. Dijo que los personajes de Wang Xizhi «¡son realmente comparables a los de Zhang Zhi!» Wang Xizhi finalmente se convirtió en un famoso calígrafo de la época.
+Durante la dinastía Song, se construyó un edificio escolar estatal sobre Mochi en Xincheng. Hay un profesor de apellido Wang (funcionario subalterno a cargo de la educación) en la Academia Estatal. Como temía que el mundo olvidara la historia de Wang Xizhi estudiando libros en la piscina, escribió los seis caracteres «El estanque de tinta de Jin Wang Youjun» y lo colgó en un pilar frente a la casa e invitó al gran ensayista de la época a escribir «El libro del estanque de tinta».
+Zeng Gong es uno de los ocho grandes ensayistas del Tang y el Song. En «El libro de Mochi», además de describir la experiencia de Wang Xizhi al estudiar libros en Linchi en aquella época, también explicó algunas ideas sobre el aprendizaje, dijo. «Si el libro de Xi Zhi Zhi llega tarde y es bueno, entonces Gai también es una persona que puede hacer lo suyo; no es natural. «Aquellos que son capaces de hacerlo, ¿no aprenderían más adelante mejor que los demás?» Esto significa que los logros de Wang Xizhi en caligrafía no nacieron de la naturaleza, sino que fueron el resultado de un esfuerzo meticuloso; la razón por la que las generaciones futuras no pudieron alcanzarlo no fue porque las generaciones posteriores no pudieran alcanzarlo, sino más bien porque las generaciones futuras no estudiaron tanto como él. Esta es también una ilustración útil para las generaciones futuras, extraída de la historia de Wang Xizhi cuando estudiaba libros en Linchi.
+Lo que empezó fue pensado y terminó.
+-- «Zuo Chuan»   
+

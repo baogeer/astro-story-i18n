@@ -1,0 +1,20 @@
+---
+pubDatetime: 2026-10-22 04:45:26
+title: "La leyenda de Maiden Mountain"
+featured: false
+draft: false
+description: "Al final de la dinastía Tang, Ying Gu se enamoró de Han Fu. Los funcionarios del condado robaron a Ying Gu y mataron a su madre. Tras escapar, Ying Gu saltó de un acantilado y Han Fu también murió al enterarse de la noticia. La gente del pueblo construyó un templo para conmemorarlo, y las dos montañas se llamaron Montaña Gushan y Fushan, alabando su amor inquebrantable."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-maiden-mountain.png)
+
+
+
+
+ Hay dos grandes montañas en la parte norte del condado de Teng. Una se llama Gushan y la otra Fushan. Las dos montañas están opuestas al este y al oeste; es como una pareja de enamorados hablando de algo. Resulta que están contando una historia conmovedora como esta:
+Al final de la dinastía Tang, una abuela ciega vivía al pie de la montaña Gushan y su única hija, una bella dama. Los ojos de Ying Gu Shui Ling, la cintura delgada, los labios rojos y los dientes plateados, las cejas de color azul oscuro. Ying Gu no solo se ve mejor que Shih Tzu, sino que también tiene un corazón amable. Dentro y fuera de las montañas, todos elogian a Yinggu por su buena apariencia. Cuántos jóvenes han estado dando vueltas alrededor de Ingou durante todo el día. Durante el día, Ying Gu subía a la montaña para buscar madera y, por la noche, hilaba y tejía bajo las luces. Las dos mujeres dependen la una de la otra. Ying Gu tiene 18 años y aún no ha encontrado la casa de su abuela. No es que Ying Gu tenga un corazón fuerte. Primero, su anciana es anciana, ciega y la han cuidado; segundo, Ying Gu lleva mucho tiempo enamorada de alguien; se trata de un hombre pobre que vive en las montañas. Hanfu también es un joven fuerte y bondadoso. Cada mañana, uno sube a la montaña para buscar madera y el otro baja la montaña para ayudar a arar los campos. Después de ir y venir, los dos se llevaron bien y decidieron vivir de por vida. La madre ciega también está muy feliz; se está preparando para casarse con ellos en «Tanabata» este año.
+El cielo está lleno de subidas y bajadas. Un día, Ying Gu estaba lavando ropa junto al arroyo, pero se topó con un funcionario del condado que había venido aquí para disfrutar de las montañas y el agua. Este «funcionario principal» tiene más de 50 años. Actualmente está en su familia con dos esposas y tres concubinas, pero todavía está afuera buscando flores. Es un villano famoso y un fantasma travieso. Al ver que Ying Gu es joven y hermosa, quiere casarse con ella. Ying Gu Ning nunca muere, y el funcionario del condado también es molesto y tímido. Solo una noche, cuando no podían extender la mano y ver sus cinco dedos, enviaron a alguien a robar a la anciana y matar a la abuela. Lady Ying lloró e hizo un escándalo, y no se rindió cuando murió. Pensó en su pobre hombre en su corazón, llorando por su antigua esposa y solo buscando la oportunidad de escapar de esta humilde boca. Más tarde, con la ayuda de una persona mayor, escapó de la oficina gubernamental. Los funcionarios del condado estaban tan enojados que persiguieron a la gente hasta Gushan. Cuando Yinggu vio que estaba a punto de ser alcanzada, saltó por el arroyo de la montaña. Han Fu recibió la carta y llegó al lugar donde Yinggu saltó un acantilado. Lloró día y noche, escaló la cima de la montaña por ambos lados y también saltó del acantilado desde la cima de la montaña.
+Ying Gu y Han Fu murieron, y la gente del pueblo al pie de la montaña estaba muy triste. Construyeron un templo para ambos en medio de estas dos montañas. A partir de entonces, la montaña por la que Ying Gu escapó del acantilado se llamó «Gushan», y la montaña por la que Hanfu saltó un acantilado se llamó «Montaña Fu».   
+

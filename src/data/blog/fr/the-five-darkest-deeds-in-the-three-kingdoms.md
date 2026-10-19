@@ -1,0 +1,72 @@
+---
+pubDatetime: 2026-11-26 02:34:06
+title: "Les cinq actes les plus sombres des Trois Royaumes"
+featured: false
+draft: false
+description: "Cet article parle de cinq choses cachées dans l'histoire des Trois Royaumesxa0: Liu Bei est tombé amoureux de l'acheteurxa0; le mariage de Sun Quan avec sa sœur était en fait une idée de beautéxa0; Liu Bei a abandonné sa femme à plusieurs reprises et a traité les femmes comme des vêtementsxa0; Cao Cao a utilisé la tête d'un responsable de l'alimentation pour calmer les griefs militairesxa0; et Liu An, le chasseur, a assassiné sa femme pour faire cuire de la viande pour accueillir Liu Bei. Derrière l'ironie, le prétendu «xa0hérosxa0» est à la fois utilitaire et cruel."
+---
+
+
+
+![AstroPaper I18n](/public/the-five-darkest-deeds-in-the-three-kingdoms.png)
+
+
+
+
+ (1) Liu Bei lutte
+Sans le rappel de Hou Baolin, «xa0Liu Bei Wrestlerxa0» aurait dû figurer en tête de liste.
+Une chose est presque reconnue par les fans des Trois Royaumes. Le manque d'énergie d'A Dou est étroitement lié à ses expériences d'enfance. Pensez-y. Un enfant de moins d'un an, enveloppé dans les bras d'un tigre, se précipitant à gauche et à droite. Je pense qu'il s'est déjà évanoui. Comme l'a dit Zhao Yun, «xa0Shi Cai pleure toujours dans ses bras. Il n'y a eu aucun mouvement pendant cette périodexa0; la plupart d'entre eux ne peuvent pas être protégés.xa0» Il a eu du mal à échapper aux griffes de Cao Jun et est retourné dans les bras de son père, pour être «xa0jeté au solxa0».
+C'est tellement cruelxa0! C'est tellement cruelxa0! Ne dites pas que c'est un bébé qui dort, juste un adulte qui a été soulevé et frappé sans protection, et qui a probablement subi une commotion cérébrale. Les descendants étaient encore plus furieux et ont écritxa0: «xa0Il n'y avait aucun moyen d'apaiser la loyauté, alors ils ont jeté les parents et les enfants devant le chevalxa0».
+J'ai entendu parler du tournage national de «xa0Three Kingdomsxa0» et je veux vraiment savoir comment Liu Bei est tombé. Je pense que la possibilité «xa0avant de lancer un chevalxa0» n'est toujours pas très probable. Afin d'exprimer son amour pour Zhao Yun, Liu Bei s'est principalement penché et a pris A Dou de la main de Zhao Yun, puis l'a «xa0jeté au solxa0» au lieu de monter «xa0avant de lancer le chevalxa0» tout de suite. C'était trop exagéréxa0!
+Je suis curieux depuis que je suis enfant. Il y a tant d'adultères dans l'histoire de la Chine, pourquoi Liu Bei n'a-t-il perdu que son filsxa0? Raisonnablement parlant, cette astuce est pleine d'énergie. Liu Bei a dit un jourxa0: «xa0Pour vous, combien avez-vous perdu face à l'un de mes générauxxa0!xa0» En échange de «xa0Je ne peux pas le signaler même si mon cœur est flagrantxa0» de Zhao Yun. De l'avis des politiciens, c'est probablement une bonne affaire. Le principe est que le fils est «xa0indemnexa0» (il est difficile de dire s'il est tombé stupide dans les temps anciens)
+。
+Hou Baolin a ditxa0: «xa0Que pensez-vous de Liu Beichangxa0?xa0»
+Tu veux faire tomber le gossexa0? Ouixa0! Tant que vous «xa0mettez les mains sur vos genouxxa0», tombez hardimentxa0!
+(2) Sun Quan épouse sa sœur
+On peut dire qu'il y a tellement de mariages politiques dans les trois pays, et le mariage de Sun Quan avec sa sœur n'était pas une nouveauté. Cependant, si vous le comparez au «xa0plan en sériexa0» de Wang Yun, le comportement de Sun Quan est très sombre.
+La clé du succès de «xa0Beauty Planxa0» est la coopération de la «xa0beautéxa0». Après tout, Zito Wang Yun est très expérimenté. Afin de mettre en œuvre le plan, il «xa0est tombé au sol, s'est prosterné et a priéxa0», puis «xa0les larmes ont couléxa0» et a également porté un chapeau haut. Enfin, Diao Chan a fait la déclaration rhétorique «xa0Si une concubine ne rembourse pas la cause, elle meurt sous dix mille épéesxa0».
+On peut dire que Diao Chan n'est que la fille adoptive de Wang Yun et Sun Lingxiang est la sœur de Sun Quan (bien qu'elle soit demi-mère, sa mère est sœur). Si Sun Quan dit quelque chose comme Wang Yun, «xa0le peuple est en danger et le monarque a besoin d'être épuiséxa0; vous ne pouvez pas le sauverxa0», 10 personnes sur 89 peuvent coopérer aux actions de Sun Quan, étant donné la personnalité du «xa0mari parmi les femmesxa0» de Mlle Sun Lingxiang.
+Sun Quan n'a pas pleinement utilisé son amour intime. Au lieu de cela, Liu Bei a saisi la «xa0profonde compréhension de la causexa0» de Miss Sun et a même pleuré et trompé, amenant Mlle Sun à faire des remarques séduisantes telles que «xa0La concubine est à toi, laisse le soin à toi, et la concubine devrait t'accompagnerxa0», et s'est finalement échappée. Après que toutes les méthodes de dissimulation, d'utilisation et de tromperie aient été gaspillées, Sun Quan a commencé une traque vicieuse et a ordonné que même ses fidèles subordonnés aient peur de l'exécuter. La «xa0colère célestexa0» de Sun Quan, «xa0donne cette épée à ma sœur et Liu Bei pour qu'il prenne les devantsxa0! Les délinquants sont détruitsxa0!xa0» Intrépide, peu de gens peuvent l'égaler.
+Malgré cela, lorsque Sun Quan a de nouveau trompé sa sœur et a faussement affirmé que Wu Guo était dans un état critique, Sun Lingxiang est immédiatement retournée chez sa mère, indépendamment de ses soupçons antérieurs. Cette fois, elle a été complètement déçue et est finalement morte martyre pour Liu Bei après la bataille de Yiling. Lao Yu recherchera les expériences relationnelles de longue date de Miss Sun dans «xa0Zhou Yu des trois royaumesxa0: le mariagexa0» et «xa0Liu Bei des trois royaumesxa0: le mariagexa0».
+(3) Liu Bei abandonne sa femme
+Le seigneur Liu Bei est probablement un «xa0vieil homme noirxa0» des Trois Royaumes. Quatre des cinq choses les plus sombres lui sont liées.
+Liu Bei était gentil avec ses subordonnés. Le secrétaire à l'histoire a noté qu'il «xa0mange à la même table et dort dans le même litxa0» que Guan Yu, Zhang Fei, Zhao Yun et Zhu Geliangxa0; il a simplement des tendances homosexuelles. Il laissait souvent sa femme sans surveillance lorsqu'il menait des soldats à la guerre, ce qui est très différent de Lu Bu.
+Liu Bei a dit un jourxa0: «xa0Les anciens disaientxa0: «xa0Les frères sont comme des mains et des pieds, et les femmes sont comme des vêtements. Si les vêtements sont cassés, ils peuvent toujours être coususxa0; si les mains et les pieds sont cassés, est-ce durablexa0? «xa0Liu Bei a perdu sa femme pour la première fois lorsqu'elle a dit cela. À l'époque, Liu Bei avait confié sa femme à Zhang Fei. En conséquence, Zhang Fei était ivre et la ville a été cambriolée par Lu Bu. Pensant que Diao Chan avait 23 ans à l'époque, Lu Bu ne pouvait probablement toujours pas voir Mme Gan ou Mi Er dans ses yeux, alors Lu Bu aurait renvoyé la deuxième dame à Liu Bei indemne.
+La deuxième fois, tout le monde le connaissait très bien, c'est-à-dire que Liu Bei a mené une guerre avec Cao Cao, a perdu et s'est enfui seul. En conséquence, Guan Yu, Mme Gan et Mi Er sont tous devenus les subordonnés de Cao Cao. On dit que Guan Yu est honnêtexa0: «xa0La femme d'un ami ne peut pas être trompéexa0», et Cao Cao n'avait aucune mauvaise idée de sa deuxième belle-sœur. Ye Shi a déclaré que Guan Yu entretenait une relation chaude avec Diao Chan à cette époque. Diao Chan était encore belle à l'époque. Puisque Guan Yu a hérité du cheval lapin rouge de Lu Bu, je ne pense pas qu'il abandonnera Diao Chan avec son énergie vigoureuse et son courage impressionnant. Plus tard, Diao Chan était probablement en rupture de stock. Guan Yu ne supportait pas d'être seul. Elle craignait d'avoir des problèmes avec sa deuxième belle-sœur pendant longtemps, alors elle a scellé l'argent, passé cinq niveaux et éliminé six généraux, et a renvoyé la deuxième belle-sœur indemne à Liu Bei
+La troisième fois a également été célèbre, celle de la première bataille de Nagasaka-po, où Liu Bei est tombé au combat. Zhao Yun a secouru Mme Gan et A Dou en sept ans, mais n'a pas pu sauver la mère d'Ah Dou, Mme Mi. Liu Bei n'était pas très bouleversé par la chute de son fils et ne se souciait pas beaucoup de la mort de sa femme. Il voulait juste faire plaisir à ses subordonnés. Il pourrait vraiment être décrit comme un «xa0hérosxa0» dans un monde troublé.
+Total de 2 pagesxa0: Page précédente 12 Page suivante
+Tagxa0: Les cinq choses les plus sombres des Trois Royaumes
+Avis de copyrightxa0: Les opinions exprimées dans l'article ne représentent que celles de l'auteur. Ils sont utilisés à titre de référence et ne représentent pas les points de vue de ce site. Certains articles proviennent d'Internet. Si les images et le texte du site Web enfreignent vos droits d'auteur, veuillez nous contacter pour les supprimer et les traiter rapidementxa0! Lors de la réimpression du contenu de ce site, veuillez indiquer le site Web réimprimé, l'auteur et la source afin d'éviter des litiges inutiles en matière de violation.
+ 
+
+ Précédentxa0: Un régime de Tuban autrefois fort et unifiéxa0: de pauvres soldats conquièrent le Quartet avec les forces armées 
+ Suivantxa0: Répartition des hommes de sexe masculin qui «xa0se sont précipités vers la couronne et sont devenus rougesxa0» dans l'histoire de la Chine
+Recommandations connexes
+La légende de la boîte en pierre 
+ L'empereur est également en difficulté 
+ Wenjing a régné de génération en génération 
+ L'empereur Han Wen sous le masque «xa0Ming Junxa0» 
+ Des doutes sur la vie de Zhu Di 
+ Liu He, qui n'est empereur que depuis 27 jours, pourquoi sa tombe se trouve-t-elle toujours à Juyexa0? 
+ Pourquoi Zhu Yuanzhang a-t-il personnellement donné une «xa0mauvaise critiquexa0» à ce filsxa0? 
+ La répétition de l'histoirexa0: pourquoi les puissants, les Chinois et les Tang ont-ils échappé à leur prospérité et à leur déclinxa0? 
+ Les recherches de Zhu Yuanzhang pour retrouver Chang Yu Chun 
+ Dans l'histoire, Liu Bei, Guan Yu et Zhang Fei n'ont jamais eu les «xa0Trois liens Taoyuanxa0» 
+ Répartition des hommes de sexe masculin qui «xa0se sont précipités vers la couronne et sont devenus rougesxa0» dans l'histoire de la Chine 
+ Les cinq choses les plus sombres des Trois Royaumes 
+ Le régime de Tuban, autrefois fort et unifiéxa0: de pauvres soldats conquièrent les quatre camps 
+ Le roi Attila des Huns et l'Armageddon d'un million d'armées de l'Empire romain d'Occident 
+ Les exploits militaires de Liu Bei et l'humanité de Sun Jian
+(4) L'excuse de Cao Cao
+Quand il s'agit de «xa0hérosxa0», pourquoi n'y a-t-il pas Cao Caoxa0?
+Il existe de nombreuses histoires sur Cao Cao. Si vous deviez lister les «xa020 choses les plus sombres des Trois Royaumesxa0», Cao Cao pourrait peut-être en couvrir la moitié. Le prétexte de tromper son oncle, de tuer le garde du corps dans son rêve, d'utiliser un couteau pour compenser, de gagner le cœur des gens, de désaltérer Wangmei, etc., sont tous représentatifs de ses nombreuses astuces. Parmi elles, l'utilisation de «xa0Cao Cao comme excusexa0» est la plus classique.
+C'était lors de l'attaque de Yuan Shu. Les troupes manquaient de nourriture, alors l'officier de l'alimentation est venu demander des instructions à Cao Cao. Cao Cao a déclaré qu'il est possible de le distribuer d'abord dans de petits bols pour répondre aux besoins du moment. L'officier des services alimentaires a demandéxa0: si les soldats se plaignaient, que doivent-ils fairexa0? Cao Cao a réponduxa0: «xa0J'ai ma propre voie. Effectivement, il y a eu de nombreuses plaintes dans le camp militaire la nuit, «xa0elles disaient toutes que le Premier ministre avait intimidé la foulexa0».
+Cao Cao a ensuite convoqué secrètement l'officier de restauration, disant qu'il voulait lui emprunter quelque chose pour stabiliser le cœur des militaires et espérer que l'officier de restauration ne serait pas avare. Le responsable de l'alimentation a ensuite demandéxa0: «xa0Qu'est-ce que le Premier ministre veut utiliserxa0?xa0» Cao Cao a dit qu'il utiliserait sa tête pour se montrer à la foule. Le responsable de l'alimentation a soutenuxa0: «xa0Je ne suis vraiment pas coupablexa0!xa0» Cao Cao a déclaréxa0: «xa0Je sais aussi que tu n'es pas responsable, mais si tu ne te tues pas, l'armée se rebelleraxa0; après ta mort, je prendrai bien soin de ta famille, alors n'hésite pas à y aller. Par la suite, ils ont immédiatement décapité la foule et ont publié un avisxa0: les agents chargés de l'alimentation ont délibérément utilisé de petits bols pour voler de la nourriture militaire, et le droit militaire a déjà été intégré au droit militaire. Enfin, le cœur des militaires s'est stabilisé.
+C'est ce qu'on appelle un «xa0hérosxa0».
+(5)
+Enfin, il y a Liu An, le «xa0premier homme noirxa0» des Trois Royaumes, le cannibale Orion.
+Bien sûr, Liu Bei a tué sa femme pour nourrir Liu Bei afin de faire plaisir aux princes vagabonds qu'il avait connus toute sa vie. Il y a de nombreux meurtres de femmes dans les livres d'histoire chinoisxa0; le plus célèbre est «xa0Wu Qi tue sa femme et cherche un généralxa0». Le meurtre de sa femme par Wu Qi est déjà assez sombre, mais le point de départ était d'éviter les soupçons, et le motif du meurtre de sa femme par Liu An est vraiment discutable.
+Si vous voulez vraiment adorer Liu Bei, découpez votre propre chair pour la manger pour Liu Bei comme une boulettexa0! Guan Yu et Zhang Fei, qui étaient sur leur dos, n'étaient pas présents à ce moment-là. Combien mangeront Liu Bei et Shusheng Sun Qianxa0? Se couper une cuisse suffit pour manger (bien sûr, ce n'est pas bien)xa0; est-il possible de tuer quelqu'unxa0? Comme il est écrit dans le livre, «xa0Une femme a été tuée sous la cuisine et toute la chair de son bras a été coupéexa0». On peut voir que Liu Bei n'a mangé qu'un seul brasxa0; Liu An elle-même est censée avoir apprécié le reste.
+La chose la plus intéressante est que Liu Bei a rencontré plus tard Cao Cao. En parlant de cela, «xa0Cao n'a donné à Sun Qian que cent deux cadeaux en argentxa0».
+C'est vraiment un «xa0héros chérit un hérosxa0», ce qui est très compréhensible.   
+

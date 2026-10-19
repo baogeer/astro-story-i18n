@@ -1,0 +1,20 @@
+---
+pubDatetime: 2026-12-11 08:41:45
+title: "The Huashan Festival on the Third Day of the Lunar New Year"
+featured: false
+draft: false
+description: "The Huashan Festival is a traditional festival held by the Miao people in northeastern Yunnan and southern Yunnan every year from the 3rd to the 7th day of the first month. It is marked by planting flower poles. People dressed in costumes and danced around flower poles, and held competitions such as flower pole climbing, horse racing, and bullfighting. It was also a good time for young men and women to sing and find a partner. At the same time, they also exchanged materials to show national unity and joy."
+---
+
+
+
+![AstroPaper I18n](/public/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
+
+
+
+
+ The Huashan Festival, also known as “jumping field”, “jumping flower”, “jumping flower”, or “stepping on the flower mountain”, is a traditional festival for the Miao people in northeastern Yunnan and southern Yunnan. It originates from courtship activities for young men and women, and is held every year from the 3rd to the 7th day of the Lunar New Year. The Ma Nan Mountain area in Yongshan County, Yunnan is adjacent to the three provinces of Yun, Gui, and Sichuan. People from all over the provinces are concentrated, and people often come from different provinces to participate. The number is often tens of thousands. The scale is huge, and the crowd is full of joy. The Huashan Festival held in Pingbian Miao Autonomous County was also very large-scale. Miao compatriots from Wenshan, Maguan, Hekou, and Mengzi all rushed to participate.
+The main symbol of the Huashan Festival is a flower pole. Generally, choose tall, straight, and smooth green pine or pine cypress. First, peel off the leaves and peel it, put on colorful flowers and bunting, and decorate it in a colorful way. Everyone recommended someone with a “good conscience” as a “flower pole head”. He must plant the flower pole before the sun comes out on the first morning of the festival.
+On the day of the Huashan Festival, the Miao compatriots came from all sides to help the elderly and young people. People were dressed in colorful costumes. The Huashan farm was full of people, and the crowd was full of people. When the “flower pole head” came to toast and bless the people who attended the festival, it was announced that the “Huashan Festival” would begin. Immediately, gongs and drums were blaring on the Huashan field, firecrackers were bustling, and colorful flowers were displayed in the wind. People danced around flower poles to the beat of instruments such as roe, suona, and huqin. Some danced pedal dances or three-step dances; some played Lu Sheng Gan (mixed with Lu Sheng); some danced lion dances. If the lion dances well, they are eligible to climb to the top of the flower pole and take off two bottles of good wine and a pig's head as a prize. Horse racing, martial arts performances, and bullfighting competitions will also be held during the Huashan Festival, and the winners will be decorated in red. It's a great honor, and you'll also get a certain amount of prizes or bonuses. The Huashan Festival is also a festival for young Miao people looking for love. Men and women can meet and understand each other through singing and dancing together. Whenever they meet someone they agree with, they both meet in a secluded place to express their feelings. Some even gave each other gifts and made a lifetime deal. That pair of young men and women, dressed in gorgeous costumes and colorful umbrellas singing mountain songs, often left an unforgettable impression on visitors.
+During the festival, material exchanges will also be held. The supply and marketing departments and individual vendors organized the sale of many industrial and agricultural supplies and daily necessities, and also purchased agricultural and sideline products, medicinal herbs, etc. for sale abroad. The entire Huashan Festival event was filled with the unity and harmony of all ethnic groups, the people happy and happy, and the shopping and sales flourished.   
+

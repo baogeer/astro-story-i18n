@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-29 17:26:21
+title: "El campo de los ocho trigramas"
+featured: false
+draft: false
+description: "Después de que el emperador Song del Sur huyera a Hangzhou, para calmar las quejas populares, fingió abrir un campo de cultivo bajo la montaña Yuhuang. De hecho, la cortina Zhang cubría los ojos de la gente y solo permitía trabajar a los eunucos, y él y su concubina bebían alcohol y se divertían en el montículo redondo del medio. Un anciano se quedó a oscuras y se escondió en la cueva de Zilai para ver la verdad. Cuando se difundió, descubrió el truco, pero Baguatian ha sobrevivido hasta ahora. Su objetivo es satirizar la hipocresía de los gobernantes."
+---
+
+
+
+![AstroPaper I18n](/public/the-eight-trigrams-field.png)
+
+
+
+
+ Sube a la cueva de Zilai, en medio del monte Yuhuang, mira hacia abajo y verás que hay un baguatiano al pie de la montaña. Baguatian está perfectamente arreglado con ocho cuernos, y el campo está dividido en ocho colinas. En el campo de Hachioka se cultivan ocho tipos diferentes de cultivos. Ocho tipos de cultivos muestran colores diferentes a lo largo del año. Hay un montículo redondo en el campo de Hachigaoka. Es un mapa de Taiji con mitad yin y mitad yang.
+Cuenta la leyenda que este baguatiano es una «tierra de nacionalidad» de la que fue pionera la dinastía Song del Sur.
+Ese año, el emperador de Song del Sur perdió a Bianliang Jingcheng y huyó a Hangzhou con un gran grupo de parientes imperiales, parientes y cientos de oficiales militares. Cuando vieron el hermoso paisaje del Lago del Oeste, se quedaron y construyeron un palacio y un jardín de flores al pie de la montaña Fenghuang. Todavía comen, beben, juegan, se divierten y viven una vida lujosa. La gente común de Hangzhou, al ver la ignorancia del emperador, estaba muy insatisfecha con las numerosas discusiones en las calles y callejones. El sonido del viento se extendió una y dos veces y llegó a los oídos del emperador. Temía que la gente común causara el caos, y estaba un poco asustado, por lo que convocó a un centenar de oficiales militares para discutirlo.
+La gente y los oficiales militares discutían y, por un momento, no podían pensar en la forma de abordarlo. Más tarde, a un funcionario público se le ocurrió una idea. Dijo: «El emperador, la retórica popular no es más que una queja sobre lo cómoda que es la vida en la corte. Mientras el emperador abra un campo de tierra y lo cultive él mismo, la gente estará satisfecha». Cuando el emperador escuchó la verdad, inmediatamente recibió un mensaje sagrado: «La viuda recuerda profundamente el sufrimiento de la gente, fue pionera en los campos de cultivo y experimentó el sufrimiento con la gente común...»
+Después de unos días, bajo el monte Yuhuang, se abrió un campo de registro. Junto a él, se colocaron cuidadosamente ocho grandes pilas y se levantaron ocho columnas gruesas. Se colocó una gruesa cortina de piel de vacuno entre las columnas. ——Debido a que el emperador cultivaba la tierra en su interior, a la gente común no se le permitía echar un vistazo.
+Después de unos días, se levantó la cortina de piel de vaca. Hay ocho tipos de cultivos: arroz, trigo, mijo, mijo, frijoles... hay un total de campos de Hachioka. Hay un montículo redondo de tierra en el campo de Hachigaoka. Cuando la gente común vio que el emperador cultivaba la tierra igual que ellos, la discusión fue decayendo lentamente.
+Llegó la temporada de desherbar y fertilizar los cultivos, y el emperador tuvo que volver a abandonar el palacio para «cultivar los campos». Sobre esos ocho gruesos pilares, se colocó otra cortina de piel de vaca. En la carretera de diez millas, todos estaban retenidos por el Ejército del Bosque Imperial y no se permitía que la gente común se acercara.
+En esa época, había un anciano que cultivaba. No creía que el emperador fuera a cultivar la tierra él mismo. Ese día, se levantó tres en mitad de la noche y escapó silenciosamente del Ejército del Bosque Imperial en la oscuridad. Cayó tres pasos a la vez, cayó cinco escalones a la vez, escaló el monte Yuhuang y se escondió en la cueva de Zilai en medio de la ladera de la montaña.
+Espera, espera, despacio, salió el sol, salió el sol y la antigua dinastía Han miró hacia la montaña. Toda la gente común iba al campo a trabajar, pero la cortina de piel de vaca estaba vacía. Esperé a que el sol saliera a la altura de Mitake antes de ver a un grupo de personas salir del palacio y entrar por la cortina de piel de vaca. El viejo abrió los ojos y lo miró más de cerca, ¡oye! Resultó que eran unos cuantos eunucos desherbando hierba allí, ¡pero el emperador y sus concubinas se sentaron en el montículo en medio, bebiendo y divirtiéndose!
+El anciano se contuvo la barriga y le costó soportar la oscuridad, pero aun así tocó tierra abajo en silencio la montaña. Al día siguiente, contó a los demás lo que había visto con sus propios ojos. Una transmisión a diez, diez transmisiones a cien. De repente, toda la gente de la ciudad lo sabía. El emperador vio que su truco ya había sido desmentido. No volveré a ir a las «tierras de cultivo». Sin embargo, este «baguatiano» bien cuidado se ha conservado hasta ahora.   
+

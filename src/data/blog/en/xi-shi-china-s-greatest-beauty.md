@@ -1,0 +1,55 @@
+---
+pubDatetime: 2026-10-09 16:05:27
+title: "Xi Shi, China's Greatest Beauty"
+featured: false
+draft: false
+description: "Shih Tzu is the embodiment of the beauty of “sinking fish,” but this article mainly talks about Yue Wang Gou, who endured the burden of humiliation after defeating Wu Guo, enlisted Wu as a slave, and even tried defecation for her husband, so that he was eventually pardoned and returned to the country, laying the groundwork for future restoration of the country."
+---
+
+
+
+![AstroPaper I18n](/public/xi-shi-china-s-greatest-beauty.png)
+
+
+
+
+ Most people in the world describe women's beauty with sinking fish and falling geese, and closing the moon. In fact, these two sentences refer to the four greatest beauties in Chinese history. “Sinking fish” refers to Shih Tzu.
+Shih Tzu is a woman in Huansha on the banks of Yexi in Mount Ning. She has a beautiful landscape and falls to people's pity. This person, due to the country's difficulties, actually shouldered the political task of bewitching enemy kings and became the most famous beautiful protagonist in history, yet her heart always lingers on the body of her heart, Fan Li, and endures great mental pain.
+In the late spring and autumn, the focus of the lords fighting for hegemony shifted to the lower reaches of the Yangtze River basin and the Zhejiang basin. Wu Guo and Vietnam are not compatible with each other's wealth and attack each other. There are endless things that are wrong with grudges. They can't finish acting generous and elegiac songs, and being kind to the hero.
+Vietnam is a descendant of Xia Yu, and Wu Guo is a small satellite country built by the Zhou royal family back then. When Wu Wang Helu was in power, he was assisted by Chu Minister Wu Zixu and the famous military man Sun Wu. The country became increasingly powerful. Once defeated by the Chu army, they invaded Yingdu, and Wu Zixu defeated King Chu. However, Wu Jun achieved success and defeat. In addition to crying out for the Qin Ting and getting rescued, Vietnam also attacked Wu Guo by plane as an important reason. Wu Wang Helu thought this was a great shame and humiliation.
+In the 24th year of King Zhou Jing, Gou Jian succeeded King of Yue. Wu Wang Helu thought there was an opportunity to take advantage and attack Vietnam in a big way to avenge new hatred and old hatred. At the time, Yue Wang was newly established, and deployment was undecided. According to his strength and analysis of the situation at the time, Wu Shengyue's defeat was an obvious thing. Who would have guessed that the war ended in a complete defeat for Wu Jun.
+In the war, Gou Xiang selected a group of warriors, took off their tops, and formed a trifecta to advance slowly to Wu Jun's front, helping to resonate through the clouds with shouting: “Offended the attack against Shangguo Xing Shi, and would like to use one death to atone for King Yue!” Wu Jun has yet to respond. They have already arrived before Wu Jun's battle and slapped to death one by one. Wu Jun was all dumbfounded. He was shocked, shocked, and overwhelmed by the sad scene where the flesh and blood were blurry in front of him. In the blink of an eye, gold drums rang out at the Vietnamese army's position, and the Vietnamese army rushed over the sea. Wu Jun was unable to stand up and was defeated all the way down. Wu Wang Helu's right foot was also stabbed in the right foot by Vietnamese Army General Ling Gufu's spear. He died of serious injuries soon after returning home. This is the famous “Battle with Li” in history. The location of the battle is in the Jiaxing area of Zhejiang today.
+Before Wu Yu died, Wu Yu ordered his son to fight back against Vietnam and take revenge on his father. After succeeding to the throne, the husband actively trained the sailors in Taihu Lake and set up a “shooting shed” under Gusu Lingyan Mountain. With his skilful combat skills, he also set up a special person in front of his house to warn himself loudly at any time; “My husband! Have you forgotten the hate that made people kill your father and king?” Every time, the husband answered with respect and solemnity; “Dare to forget!”
+The war hatred of the previous generation was quickly resolved by resorting to war. Yue Wang Goujian first ignited the flames of war in order to pre-empt people without waiting for Wu Jun to be ready. This time, Wu Jun turned into a “mourning” attitude, determined to die. Vietnam's military, which had a major defeat, lost all of Vietnam's main forces, and finally cleaned up the remaining five cadres and withdrew from insurance, and were also surrounded by the Wu Army Corps.
+Gou Jianran and sighed, “Will I finally be like this?” Doctor Wen Zhong immediately persuaded him: “In the past, Shang Tang was imprisoned in Xia Tai, King Wen was a member of Gong Li, and Prince Jin was attached to the devil, and Prince Qi was dominant. In the end, they all became hegemonic. In view of these things, why isn't the current plight a blessing?” As a result, Gou Jian adopted the language proposal, selected eight beautiful women, brought gold and silver jewels, and reached a peace agreement through Wu Guo Taizai.
+At the time, Wu Guo had the main battle and the two factions. Wu Zi Xu strongly advocated victory in the pursuit and destroyed Vietnam in one fell swoop. Otherwise, Dazaibak thought it would be better to use a treaty to obtain Vietnam's benefits. As a result of the dispute, the proposal was finally adopted, and a treaty with strict conditions was signed, thus giving Vietnam a glimmer of life.
+According to the provisions of the Peace Treaty, Gouqian was allowed to join Wu Guo after handling all matters after the criticism had been dealt with. The date is getting closer day by day, and Dr. Fan Li exhorted, “I hear that people who have not lived in solitude are not ambitious; those who have not gone through great sorrow and pain don't have thorough consideration of issues. Ancient sages all experienced misfortunes, so why are you alone?” Gou Jianjian lamented, “Mainly to make personnel arrangements to get to Wu. All of a sudden, it's still difficult to make a proper decision!” At this point, Doctor Wen Zong stepped forward and said, “Within the four realms, it's a matter of the people; Fan Li is not as good as me; with Jun Zhou, I am not as good as Fan Ji.” Fan He immediately added: “The type of literature has already been judged on his own. The main lord entrusts him with state affairs, so he can be fully prepared for the battle; as for assisting the master, he endures humiliation, and he is afraid to speak up.” '
+Everything was properly prepared, and Gou Jian said goodbye to his wife, Wu, and the group of ministers on the banks of the Guling River. The monarch broke down in tears and waved sadly. There was a very “cool, quiet, easy, water and cold; once the strong were gone, they never returned” atmosphere.
+Once they joined Wu Guo, Gou Jian, and others bowed down to see their husbands. The husband said with great enthusiasm, “If a widow were to believe in the feud of the previous king, you would have no period today!” Gou Jian quickly bowed down and answered, “The only one who did it is the king!”
+Gou Jian and his wife wore servants' clothes, guarded Lu's tomb, and also worked as a groom and doorman. Every time the husband went out by car, Gou Jian always walked in front of the car with his horse, and Fan Li always accompanied him every step of the way.
+One day, the husband summoned Gou Qian to meet him. Gou Jian knelt down in front, and Fan Li stood in the back. The husband said to Fan Li, “There is nothing to do today; the more you can abandon it, the more you go back to Wu. It must be reused.” Fan Li replied, “I'm afraid to speak out about the government when I hear about the fallen minister. The more emperor was unable to assist Yue Wang for good, offending the king. Fortunately, he was already very satisfied. How could he still hope for wealth?” On the next day, Wu Wangfu watched from a high platform and saw Gou Jian and his wife sitting at the stable, with Fan Li standing behind her. Although they were unscrupulous, they did not lose the courtesy of the monarch and his wife. I was very moved and felt a sense of pity.
+Despite the husband's deep sense of pity, there is still no sign of a return to business and freedom. People are looking for opportunities; those who know the times are smart. My husband fell ill, and he was very sick. He was not cured of the cold for three months. At this point, Goujian came to ask for advice, and Mao recommended himself: “Chen is in the East China Sea. I have practiced medicine and watched people's feces. I can understand the condition.” After talking, just eat the faeces that have been taken out of place. Hi Dao: “The king's illness has been greatly reduced, and he will get better in seven days!” Sure enough, I was healed after the expiration date. Wu Wangfu was extremely intolerable, so he set up a dinner party to practice, and continued to praise Gou Xian as a benevolent person. Wu Zixu watched on the sidelines and warned her husband; “If you try Dawang's poop, he will definitely eat Dawang's heart every day; if Dawang doesn't notice, he will be wary. I will definitely be defeated by him.” My husband was able to hear it. He thought there was no hostility anymore. Soon, Gou Jian personally sent him out of the city and pardoned him back home.
+Total 4 Pages: Previous 1234 Next
+Tag: China's most beautiful Shih Tzu
+Copyright Notice: The opinions in the article only represent the author's views. They are used as a reference and do not represent the views of this site. Some articles come from the Internet. If the images and text on the website infringe your copyright, please contact us to delete and process them promptly! When reprinting the content of this site, please indicate the reprinted website, author, and source to avoid unnecessary infringement disputes.
+ 
+
+ Previous: White Lady: Tien Xian Meets Idiot, Beautiful Women Marry Bad Men 
+ Next: Wang Zhaojun: Marrying a stepson in tears and having children made it a country of Hungary
+Related recommendations
+Wang Zhaojun and Peach Fish 
+ The mystery of Zhaojun's departure: Why hasn't he been blessed by the emperor for three years 
+ Fan Li's Xi Shi Tour Yixing 
+ How many mysteries are there behind Yang Guifei's fame 
+ How did Yang Guifei become a thief 
+ Uncover the truth about Yang Yuhuan bathing in Mount An Lu! Princess Cellou 
+ Demystifying how fat Yang Yuhuan really is? Real height and weight 
+ Wang Zhaojun: Marrying a stepson and having children in tears became the country of Hungary 
+ Shih Tzu, the most beautiful woman in China 
+ White Lady: Tien Xian Meets Idiot, Beautiful Women Marry Desperate Men 
+ Consort Yang: Eve turned out to be a scourge 
+ Face with tears all year round - Wang Zhaojun's marriage 
+ Arm yourself with fragrance 
+ Yang Guifei and “Guifei Chicken” 
+ Tang Ming Huang and Yang Yuhuan   
+

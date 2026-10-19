@@ -1,0 +1,44 @@
+---
+pubDatetime: 2026-12-07 14:41:13
+title: "The Old Steward Dragon"
+featured: false
+draft: false
+description: "There is an old dragon living in Longtan in Zhengjiashan, Zhoushan. In the event of a drought, rain protects Dazhanzhuang. When Jin Bing besieged Zaoyang City, he turned into an old man who sent fresh water and straw that would never run out to help Song Jun fight back and win. The imperial court sought a blockade, and the old dragon ignored it. It still left Longtan to bless the people. It is a metaphor for the villains of Diaomen Hong Kong fighting for fame and fortune, and praising their character of not admiring fame and fortune and protecting one side."
+---
+
+
+
+![AstroPaper I18n](/public/the-old-steward-dragon.png)
+
+
+
+
+ There is a Dazhanzhuang on Zhoushan Island. There is a Wengjiaao in Dazhanzhuang. There is a Zheng Jia Mountain behind Weng Jia Ao. There is a small dragon pool on Zheng Jia Shan, and an old dragon lives in the dragon pool. On a dry, dry or rainy night, this old dragon always has to sit on the side of Longtan with a dragon horn to take a look and watch the sky. If the water in Dazhanzhuang Ueda is dry and there is little water to drink, he bends his body, sticks his head into the dragon tank, sucks a sigh of water, and sprays over Dazhan immediately. The people in Dazhanzhuang are rich in grain every year, and the six animals are thriving. Everyone in Zhuangshang said that this was the result of the Zheng Family's trip and the rain in time!
+The Longtan in Zhengjiashan has a small upper mouth and a large lower mouth. The area around the pool is spotless, and has direct access to the East China Sea and the ocean. Zheng Jiashan Laolong has lived in this Longtan for many years, living in a secluded place. His partner, Diaomengang Laolong, often advised him to change his place, but he always laughed and declined. He said that although this Longtan is small, he can enjoy the Buddhist scenery of Mount Putuo from the top of the mountain. He can close his eyes and calm his mind in the pool, but he can live a quiet life.
+One night, Lao Long suddenly felt uneasy and uneasy to sit and lie down. He put on his coat, walked to Longtan, stood on Zheng Jia Mountain, and watched from afar. I saw that the northern skyline was full of anger, and the stars and the moon had no light.
+Lao Long hurriedly jumped up to the clouds and looked closely. It turned out that the Jin Soldier surrounded Zaoyang City and couldn't get through. In Song Camp in the city, the army was cut off, and the horses were cut off. I saw that there was a risk that the entire army would be destroyed.
+This bothers him. Let's solve the danger! It's inevitable to hear about Killing; let's not solve the danger! Also, it was unbearable for the people who destroyed the city to suffer. Thinking left and right, he decided to go to Diaomen Port to discuss it.
+Diaomen Port faces the East China Sea. The sea is wide and deep. The old dragon of Diaomen Port lives in Dragon Palace and is at ease. At this point, he was sitting in the Dragon Palace, singing and dancing, drinking and having fun. I heard that Laolong Zheng Jiashan had arrived. He hurriedly got up to greet him, poured a glass of wine, and treated him warmly. How could Laolong Zheng have any intention of drinking alcohol? He hurriedly told Diaomen Port Laolong in the future and asked him to go to Zaoyang City with him to relieve the danger. When the old dragon of Diaomen Port heard it, he laughed out loud and said:
+“There is Emperor Jade, and there are people below. I am not in charge of this matter; why should the elder brother suffer for himself?”
+Zheng Jiashan Laolong didn't taste good when he heard it. It really was “not speculative.” He immediately quit and quietly drove Xiang Yun to Zaoyang City.
+It crossed the East China Sea, crossed the mountains and mountains, and reached the sky above Zaoyang. He turned into a white-haired old man and hurriedly walked towards Song Ying with a load of stuff. When I arrived at the foot of Zaoyang City, I was stopped by Song Bing, who guarded the city gate: “Hey! Old man, don't go there!”
+The old man gasped and sweated and said, “I'm here to give you something, let me go into the city soon!”
+As soon as Song Bing heard about the delivery, he was very happy, but he took a close look: the front was a bucket of clean water, the back was a small bundle of straw, and there was nothing else. Song Bing couldn't help crying and laughing. He shook his head and said:
+“Old man! You are very kind, but this is not enough water for ten people to drink; this bundle of herbs is not enough??
+A horse!”
+The old man laughed loudly: “The military situation is urgent, let's use it first and then talk about it!” While talking, they brought their own burdens into the city.
+Song Bing and the people in the city gathered when they heard the news. They scooped up a spoonful of fresh water, and were refreshingly sweet, and full of energy; the man ripped a handful of straw, ate the war horse, and screamed in the wind, and was imposing. That small bucket of water was enough for a thousand people to drink, but it wasn't a little light: that small bundle of grass can be used by anyone?? No matter how many war horses there are, there are always a few fewer. As a result, the soldiers rushed up and carried the water, picking grass, and in an instant, people in the barracks were happy to cry. It was very lively.
+There was water and grass in Zaoyang City. All of a sudden, the soldiers were strong and strong, and their fighting spirit was high. The soldiers and civilians in the city were surprised and grateful. They all asked this white-haired old man, “Your old man's family is famous? What where is it?”
+The old man answered, “My name is Zheng, and my family lives in Wengjiaao, Dazhanzhuang, Zhoushan Province.”
+The next day, Song Ying fought a decisive battle in Kaesong, defeating Jin Bing and escaping. Song Bing was desperate to win. He admired the white-haired old man even more. He can be found everywhere, and there are traces of him everywhere! The general with the army had no choice but to play King Ming and Song according to the truth and ask for credit for the old man. Song Wang listened and was deeply moved. He ordered to search for this person and reward him in person.
+Qin Che left Beijing, passed through the customs, abandoned his horse and boat, crossed the East China Sea ocean, crossed Diaomen Port, and landed at Maoyang Wharf in Dazhan. He sat in an eight-person cab, sounded the sound of a gong, and came to Wengjiaao. When I arrived at the entrance of the village, I saw an old man with a hunched back picking water and hurriedly stepped forward to ask:
+“Hello! Old man, does Murakami have a husband surnamed Zheng?”
+The old man with a humble back was changed by Zheng Jiashan Laolong. He didn't want to be praised, nor did he want to leave Zheng Jiashan, so he laughed and answered, “Everyone in Weng Jiaao has the surname Weng; how can anyone have a husband with the surname Zheng!”
+The Minister Chincha was not satisfied with this chore in the first place; now he heard the humpback old man say it in a hurry and spread the words: “Since we don't have this old man, let's go back!”
+As a result, the brigade returned on its original path. The official ship arrived at Diaomen Port. Suddenly there was a storm of wind and waves, and dark clouds covered the sky, and the official ship had to leave the anchor behind. However, as soon as the anchor was dropped, the sea surface was calm and quiet. The boat anchored together, and the wind and waves came again. This repetition and repetition frightened the big officials and small officials like earth. After all, Minister Chincha is more intelligent than others. Seeing this situation, he hurriedly prayed with his hands together:
+“If the old man who solved the danger in Zaoyang City is a god of this place, please calm down!” The conversation has just come to an end, and the wind and waves have calmed down.”
+As soon as Chincha read out the emperor's edict, the official ship sailed off smoothly and steadily. It turns out that it was Diaomen Port veterans who were making waves. He was saddened to hear that the emperor had come to proclaim the Zheng Jiashan Old Dragon; he was very happy to see that he did not win the Zheng Jiashan Old Dragon. This is an opportunity not to be lost. When time never comes, he will block the road and ask for blockade.
+Zheng Jiashan Lao Long saw this scene clearly and unwittingly said:
+“If it's dangerous, don't save it, fight for the blockade first. They're really a villain!”
+He is unmoved by his wealth. He still lives in Longtan in Zheng Jiashan. He often uses dragon horn to pull up a rib chair, sit on the side of Longtan, watch the sky, and bless Dazhan Zhuang Xingyu, so everyone calls him a “steward dragon.”   
+

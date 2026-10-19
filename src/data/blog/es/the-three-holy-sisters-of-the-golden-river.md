@@ -1,0 +1,20 @@
+---
+pubDatetime: 2026-11-25 14:42:23
+title: "Las Tres Santas Hermanas del Río Dorado"
+featured: false
+draft: false
+description: "Las tres hijas del rey Longwang del río Jinsha se vieron afectadas por una sequía durante su viaje a Cang'er: la hermana mayor calmó su sed en la montaña Lianhua, la lluvia hidrató Haidong después de que la segunda hermana castigara al grosero chico, y la tercera hermana desvió el agua y la lluvia de la montaña Qinglong. Todas eran veneradas por los habitantes del pueblo. El Rey Dragón también dejó un compañero. Cada año, con motivo del festival principal, los aldeanos erigen estatuas de dioses para sus viajes de adoración en primavera, y se basan en las creencias populares que siempre han sido veneradas por quienes benefician al pueblo."
+---
+
+
+
+![AstroPaper I18n](/public/the-three-holy-sisters-of-the-golden-river.png)
+
+
+
+
+ Cuenta la leyenda que las tres hijas del rey rey dragón del río Jinsha visitaron la montaña Cangshan y el mar de Erhai. Cuando llegaron a la montaña Lianhua, en el condado de Fengyi, la montaña estaba en medio de una sequía. La hermana mayor les pidió a las dos hermanas menores que volvieran primero al Palacio del Dragón y se quedaran solas para resolver el problema del desvío de agua para la gente. La hija mayor se convirtió en una anciana. Se adentró en los campos y pueblos para controlar las sequías. Cuando vio que no había agua para plantar, incluso a la gente y a los animales les resultaba difícil beber; los aldeanos comían harina de cebada. Como resultado, creó un manantial transparente con un balde grueso al pie de la montaña Lianhua, de modo que se plantó la presa en la base de la montaña y nunca habría escasez de agua. Para agradecer a la hija mayor sus bendiciones, la gente de las tres aldeas de Huaying, Puhe y Banzhuang, en la base de la montaña, construyó el templo principal, le dio forma a su estatua y la respetó como su dueña. Consagrada como Nuestra Señora del río Jinjiang.
+La segunda hija del Rey Dragón parece una flor y un jade. Mientras estaba en Dalí, conoció a Luolong de la familia Dong, un príncipe del este de Shanghai. Dong es una persona lujuriosa. Al ver la belleza de su segunda hija, se puso una flor en la cabeza. La segunda hija sintió que Dong Jia Luolong mostraba su fealdad en público; fue a Haidong con su tercera hermana para castigar a Dong Jia Luolong. Cuando las hermanas menores llegaron a la montaña Shizi, en Haidong, estaban atravesando una grave sequía. La segunda hija no podía soportar el sufrimiento de la gente amable y trabajadora. Llovió una corriente de lluvia que hizo brotar un manantial cristalino desde la ladera de la montaña, por lo que el fondo de la montaña nunca sería árido. Tras castigar al Príncipe Dong, las dos hermanas regresaron a la montaña Shizi y vieron el hermoso paisaje, por lo que se quedaron en Ciyunxi, en la montaña. Algunos pueblos al pie de la montaña saben que han construido un templo principal para ella; la respetan como a su dueña. Consagrada como Nuestra Señora de Tsz Wan Purun Jinluan.
+Después de que su segunda hija se convirtiera en su jefa, temía que su hermana menor se quedara sola y envió al abuelo Wu Zhong, que estaba cerca de ella, a quedarse con su hermana en la montaña Qinglong. Cuando mi hermana llegó a la montaña Qinglong, también fue venerada como su maestra por desviar agua y lluvia a los aldeanos locales. Selló a Nuestra Señora del Espíritu Dorado. Más tarde, el rey Jin Jiang Long visitó a sus tres hijas; al ver el hermoso paisaje de Cang'er, las tres hijas también se sintieron un poco solas, por lo que se quedaron en la montaña Qinglong.
+Cada año, del 5 al 25 del Año Nuevo Lunar, es el festival principal de las Tres Hermanas de Jinjiang. En ese momento, sus diez pueblos tendrán que cantar grandes canciones, tocar leones y dragones. Como a las tres hermanas de Jinjiang les encantan los viajes de primavera, durante el festival principal, tienen que recogerlas en un automóvil de pueblo en pueblo, esperar hasta que terminen de visitar diez aldeas y luego devolverlas a sus respectivos templos principales.   
+

@@ -1,0 +1,49 @@
+---
+pubDatetime: 2026-11-16 18:06:43
+title: "Akhu Tonpa et la nuit de noces"
+featured: false
+draft: false
+description: "Agutomba s'est déguisé en réalisateur et a participé au mariage de grand-père Munemoto, attachant les invitées avec des cheveux entrelacés, cachant des pierres dans les manches des hommes, lançant des épingles à pois dans les escaliers et troquant des chevaux contre des yaks et des barres de bois. Lorsque Munemoto a été chassé, il a marché sur un haricot et est tombé. Il a poignardé une aiguille dans sa main, a eu du caca dans la bouche et est tombé horriblement alors qu'il montait une vache. L'histoire fait preuve d'ingéniosité pour se moquer des puissants et ridiculiser les oppresseurs pour leur bêtise et leur lâcheté."
+---
+
+
+
+![AstroPaper I18n](/public/akhu-tonpa-and-the-wedding-night.png)
+
+
+
+
+ «xa0Papy Munemoto a presque 50 ans. J'ai entendu dire qu'il serait le marié une foisxa0!xa0»
+«xa0Hé, il vient de devenir une vieille renardexa0!xa0»
+La «xa0bonne nouvellexa0» du prochain mariage de Munemoto est évoquée et ridiculisée dans toute la préfecture...
+Lorsque cette «xa0bonne nouvellexa0» est parvenue à des oreilles semblables à celles d'Aguton, il a demandé à quelqu'un d'envoyer un message comme celui-ci à grand-père Munemotoxa0: Le jour de l'heureux événement, Agutomba a décidé de se moquer à nouveau de lui.
+Quand grand-père Munemoto a reçu ce message, il a ricané plusieurs fois et a ditxa0:
+«xa0Waouh, tant que sa tête d'Agutomba est en fer et que ses jambes sont moulées en bronze, laissez-le venirxa0!xa0» Cependant, juste au cas où, Zōben a fait en sorte que ses amis et ses sbires se prémunissent contre Agutomba. De toute évidence, même si grand-père Munemoto a dit qu'il n'avait pas peur, il était quand même un peu timide car Agutomba l'avait taquiné plus d'une fois.
+Le temps est passé si vite. En un clin d'œil, la période heureuse de grand-père Munemoto est arrivée. Juste après midi ce jour-là, des parents proches et amis sont arrivés un par un chez la famille Zongben. Soudain, il y a eu beaucoup de bruit et beaucoup d'invités, donc c'était vraiment animéxa0!
+Au crépuscule, la belle jeune mariée, chevauchant un grand cheval marron, est arrivée en étreignant le sol après avoir appelé. Pendant un moment, il y avait beaucoup de monde devant la porte de grand-père Munemoto, les tambours sonnaient à l'unisson et la foule était en ébullition. Au milieu de ce chaos, soudainement dans la foule, un homme audacieux portant un chapeau en fourrure de renard et une robe à manches longues est apparu. Il a pointé ses mains et ses pieds là-bas, parlant de Dongxi. Au bout d'un moment, il est allé dans la cuisine et a dit au chefxa0: «xa0Faisons encore cinq tablesxa0!xa0» Au bout d'un moment, j'ai couru vers celui qui cuisinait et j'ai criéxa0: «xa0Le thé au ghee est trop léger. Mets encore quelques morceaux de gheexa0!xa0» Les invités ont admiré son attitude aimable, active et tranquille. La femme s'est ditxa0: «xa0C'est incroyable que la famille du marié ait une femme de ménage aussi intelligente et travailleusexa0!xa0» La famille de l'homme a penséxa0: «xa0La famille de la mariée était vraiment attentionnée. Afin d'organiser le mariage de ce soir, ils ont également envoyé un responsable si compétentxa0!xa0»
+En fait, cet homme intelligent et compétent n'est ni le manager d'une femme, ni le manager d'un hommexa0; c'est juste Agutomba qui est célèbre et qui est venu se moquer de Papy Munemotoxa0!
+Après le point culminant du mariage, Agutomba est allé dans la cuisine et a vu que les chefs chargés de tâches spécifiques et les femmes de chambre qui géraient la vaisselle, préparaient le thé, servaient le vin, les toasts et la vaisselle étaient assis en groupe, mangeant et buvant. Ils ont dit avec beaucoup de sincérité et d'enthousiasmexa0:
+«xa0Merci à tous pour votre dur labeurxa0! Je suis là pour prendre quelques verres avec toixa0!xa0» Cela dit, il s'est assis et les personnes présentes l'ont accueilli très chaleureusement. Réflexionsxa0: Ce manager est vraiment raisonnable et accessible. Il a même mangé et bu avec nous, et il n'avait aucune étagèrexa0!
+Inutile de dire qu'Agutomba a bien sûr profité de l'occasion pour manger et boire magnifiquement et minutieusement.
+Après avoir mangé, Agutomba a gentiment dit à la foulexa0:
+«xa0Il n'est pas tôt, s'il te plaît, fais une pausexa0! Le reste, je cuisinerai demain, pas de problème.xa0» Les domestiques, hommes et femmes, l'ont remercié un par un et ont démissionné.
+Les voisins sont rentrés les uns après les autres et les visiteurs venus de loin se sont couchés les uns après les autres. Voyant qu'il n'y avait aucun bruit à l'étage, Agudunba est entré tranquillement dans l'écurie et a remplacé le «xa0cheval Xiningxa0» que Zumoto chevauchait par un yak, un fouet pour un long couteau et un pistolet d'épaule attaché au mur pour servir de barre de bois. Ensuite, je suis sortie du hangar au toit de chaume où les servantes étaient bondées et j'ai jeté un coup d'œil. Je les ai seulement entendus ronfler comme le tonnerrexa0; ils avaient déjà appelé les gens à dormir. Ils ont donc apporté quelques gros morceaux de bois et bloqué la porte.
+Quand il a arrêté les choses en bas, il est descendu tranquillement. Tout d'abord, lorsque je me suis rendu à pied à l'endroit où séjournaient les invités, je les ai vus allongés un par un, vêtus de vêtements japonais, se blottissant et vivant comme un chien mort. Agutomba a légèrement attaché les cheveux des filles de manière entrelacée et a glissé une pierre dans la manche de chaque invité masculin avant de faire demi-tour et de marcher vers la chambre troglodyte de grand-père Munemoto. Il a écouté à la porte de la maison. Il y avait un silence de mortxa0; même la lampe verte s'était éteinte. Il l'a verrouillée à l'envers avec une serrure en fer à l'extérieur. Penséexa0: Si tu ne me laisses pas entrer, je ne te laisserai pas sortirxa0!
+«xa0BOUM, BOUMxa0!xa0» Agutomba a frappé à la porte de la maison de grand-père Munemoto de l'extérieur.
+«xa0Quixa0?xa0» Le vieux Munemoto a demandé à l'intérieur.
+«xa0Je suis Agutombaxa0!xa0» Puis il a ditxa0: «xa0Maître Munemoto, vous avez dormi si tôt, je voulais juste vous amuserxa0!xa0»
+Dès qu'il a appris que c'était Agutomba, il a été immédiatement furieux. En entendant ses remarques sans scrupules, il était encore plus exaspéré. Il ne pouvait pas le supporter, alors il est sorti du lit en rampant avec rancune.
+Agutomba a entendu le bruit de son réveil devant la porte, alors il a dit d'une manière sérieusexa0:
+«xa0Ce soir c'est ta nuit de noces, alors ne te réveille pas, retrouvons-nous un autre jourxa0!xa0» Après avoir parlé, Agutomba est descendu précipitamment. En se dirigeant vers l'escalier, il a sorti quelques petits pois de ses bras et les a éparpillés dans les escaliers. Ensuite, deux autres tas de caca y ont été éparpillés et de nombreuses aiguilles à fleurs ont été insérées dans le caca...
+Au moment où grand-père Munemoto a déclaré son pouvoir, il était si facile d'ouvrir la porte. Agudomba avait déjà franchi la porte.
+«xa0Attrapez Agutomba bientôtxa0! Attrapez Agutomba bientôtxa0!xa0» Munemoto a crié l'un après l'autre. Ils les ont poursuivis en bas en criant. Lorsqu'il l'a poursuivi jusqu'à l'escalier, il a accidentellement marché sur un petit pois et est tombé au sol. Il essayait de le tenir debout avec ses deux mains. De façon inattendue, ses mains étaient coincées un peu partout avec des aiguilles à fleurs. La douleur l'a poussé à se dépêcher de retirer l'aiguille avec ses dents. En conséquence, cela lui a de nouveau taché la bouche de caca...
+À ce moment-là, je l'ai seulement entendu crier violemment aux gens d'en haut et en basxa0:
+«xa0Vous êtes tous morts, idiotsxa0? Va chercher Agutombaxa0! Dépêche-toi, poursuis-lexa0!xa0»
+En fait, bien avant qu'il ne lutte, les gens d'en haut étaient sous le choc et tout était en désordre. Regardez cette excitationxa0! Alors que les femmes étaient sur le point de se lever, elles avaient toutes l'impression de tirer délibérément sur leurs tresses, se plaignant et se déchirant mutuellement, alors plus elles les déchiraient, plus elles se serraient les cheveux et plus cela devenait douloureux. Les hommes étaient sur le point de se retourner. Dès qu'ils se sont giflés les mains, ils se sont lancés les pierres qu'ils menottaient, se cassant la tête dans le sang et se maudissant pendant un moment...
+Quant aux servantes allongées dans le hangar à paille à l'extérieur, sans compter que la porte était bloquée, elles ont pu sortir et elles n'ont pas pu aider grand-père Munemoto.
+Lorsque Zumoto n'a rien vu pour demander de l'aide, il a couru seul dans l'écurie, a sorti le «xa0cheval Xiningxa0» qu'il avait monté, a retiré sa propre arme d'épaule du mur et est parti à la recherche d'Agutomba. Le vieux Munemoto est monté sur un cheval. Qui aurait cru que le cheval marchait plus lentement qu'un humain, alors il a pointé un fouet (en fait une entaille) sur le cou du «xa0chevalxa0»xa0! En un instant, du sang a envahi le sol et la tête du «xa0chevalxa0» s'est détachée du cou du «xa0chevalxa0»xa0! En conséquence, il a pris une «xa0arme d'épaulexa0» et s'est ditxa0: si vous ne pouvez pas l'attraper vivant, tuez-lexa0! Dès que j'ai touché le verrou du pistolet, j'ai su que c'était une barre de boisxa0!
+À quoi servent les barres de boisxa0? Il sait aussi que le fort Agutomba ne mange pas çaxa0!
+À ce moment-là, Agutomba s'est arrêté non loin de lui, s'est retourné et a souri à grand-père Munemotoxa0:
+«xa0Tu ferais mieux de rentrer vite pour ne pas avoir froidxa0!xa0» Puis il a regardé le corps du vieux Munemoto de haut en bas et a ditxa0:
+«xa0Oups, regarde comme tu n'as même pas porté de pantalon...xa0»   
+

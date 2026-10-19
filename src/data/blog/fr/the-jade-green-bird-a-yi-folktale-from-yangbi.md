@@ -1,0 +1,37 @@
+---
+pubDatetime: 2026-12-14 14:46:52
+title: "L'oiseau vert jadexa0: un conte populaire yi de Yangbi"
+featured: false
+draft: false
+description: "Le père Lu Gan est gravement malade. Sa sœur jumelle, Lu Cai, a épousé Frog Dragon pour sauver son père et a donné naissance à un fils, Yu Lu. Sœur Lulai était jalouse et a poussé sa sœur hors de Shenqing après avoir trompé sa sœur dans son costume. Lu Cai est devenu un oiseau émeraude, réclamant «xa0Jade Greenxa0» jour et nuit pour retrouver parents et enfants. L'histoire raconte que le bien est récompensé et que les mauvaises pensées finissent par se blesser."
+---
+
+
+
+![AstroPaper I18n](/public/the-jade-green-bird-a-yi-folktale-from-yangbi.png)
+
+
+
+
+ À Yankan Rock Corner, il y a un petit oiseau au corps vert émeraude. On dirait qu'il pleure toujours et qu'il le cherche à la hâte. En parlant de l'origine de ce genre d'oiseau vert jade, il y a une autre histoire triste.
+Le père Lu Gan a perdu sa femme à l'âge mûr. Il élève deux sœurs jumelles. Le nom de la sœur aînée est Lulai et le nom de la sœur cadette est Lu Cai. Les sœurs ont 18 ans et elles sont tellement adorables. En un coup d'œil, les deux sœurs ont exactement la même apparence et la même silhouettexa0; il est difficile de nous différencierxa0; ce n'est qu'en regardant de plus près que vous pourrez voir que sœur Lu Lai a une couche de boutons peu profonds sur son visage et que ses yeux semblent également révéler la moindre férocité.
+Au cours de l'été de cette année-là, mon père était malade au lit. Tout mon corps était couvert de plaies et de plaies. C'était très inconfortable. Il s'est fait soigner partout et n'a jamais vu l'état de son père s'améliorer. Les sœurs étaient pressées et la sœur cadette était particulièrement triste.
+Un jour, ma sœur, Lu Cai, est rentrée à la maison avec un panier rempli d'herbe de porc. Dès qu'elle a posé le panier, une grenouille a sauté hors du panier. La grenouille a sauté devant le lit de papa et a dit à papa en termes humainsxa0: «xa0Papa, papa, je suis là pour demander de la famille. Tant que tu me donnes une fille comme belle-fille, ta maladie s'améliorera bientôt.xa0»
+Papa a ditxa0: «xa0Comment peux-tu être gendre si tu n'as pas deux ou deux corpsxa0? Il a regardé sa fille aînée, «xa0Heinxa0», et s'est enfuixa0; le père a secoué la tête et a regardé la deuxième fille. La fille s'est agenouillée devant son père et a dit sincèrementxa0: «xa0Tant que la maladie de papa s'améliorera, ma fille épousera Frog Lang.xa0»
+La grenouille hocha joyeusement la tête. Il a sauté sur le lit de papa et a léché le corps de papa avec sa langue. Curieusement, ne léchez qu'un endroit à la fois. Bientôt, les abcès sur tout le corps de papa ont disparu et son corps s'est rétabli comme avant.
+Papa s'est retourné et était sur le point de remercier Frog Lang. Soudain, un beau jeune homme bien habillé l'a soutenu et lui a ditxa0: «xa0Mon beau-père, je suis Frog Lang, un dragon grenouille vivant dans un bassin de dragons de l'autre côté de la montagne. Je suis amoureux de votre fille et je suis là pour faire ma demande en mariage.xa0»
+Papa est content d'envoyer sa fille et son gendre sur la route.
+Sœur Lulai a soupiré à huis clos et n'a pas pu s'empêcher de le regretter.
+À l'automne de l'année suivante, ma sœur cadette, Lu Cai, est retournée chez sa mère pour rendre visite à sa famille. En regardant le corps radieux de ma petite sœur et son visage aux couleurs printanières, montrant sa beauté et sa douceur, j'ai bavé sur ma sœur avec envie. Elle les divertissait d'une manière humble et semblait si affectueuse. La seule chose que je pouvais faire était de porter une attention particulière au père de Lulai. Il a vu que son visage était parfois rouge clair, parfois bleu et que ses yeux tremblaient. J'ai vu qu'elle n'avait pas de bonnes intentions et j'ai soupiré dans mon cœur. La gentille Lu Cai ne l'a pas remarquéxa0; elle n'a prêté aucune attention à sa sœur.
+Le troisième jour, ma sœur va rentrer chez Ryugu. La sœur a supplié la sœur cadette de la suivre au Palais du Dragon pour voir et comprendrexa0; Lu Cai a dû accepter.
+Ils ont traversé une montagne. Lulai a vu cet endroit avec de hauts rochers, des falaises abruptes et aucun fond de route. Elle a levé les yeux au ciel d'un air hébété et a demandé à sa sœur de faire une pause ici.
+La sœur cadette a pointé du doigt l'oasis au pied de la montagne et lui a ditxa0: «xa0Elle sera bientôt là.xa0» Elle a également tendu la main pour prendre un morceau de jade dans sa zone intime et a dit à sa sœurxa0: «xa0Suis ce chemin jusqu'à la piscine aux dragons dans l'oasis. Il suffit de sortir ce morceau de jade et de le secouer trois fois, et la porte du Dragon Palace s'ouvrira.xa0» Ma sœur était si heureuse qu'elle a crié «xa0Embrasse ta sœur, bonne sœur, embrasse ta sœurxa0» pendant un moment, puis a soupiré à nouveau et a fondu en sanglots. Mon honnête sœur, Lu Cai, ne pouvait pas deviner que sa sœur jouait à un calcul fantôme et se calculait elle-mêmexa0!
+La sœur a soupiré et a ditxa0: «xa0Ma sœur, ma vie est si misérable. Tant que j'ai pu porter le costume de ma sœur pendant un certain temps, j'étais satisfaite.xa0» «xa0Ce n'est pas difficile. Quand je rentrerai à la maison, je vais certainement offrir quelques sets supplémentaires à ma sœur.xa0» C'est ma sœur qui l'a dit.
+«xa0Non, je veux l'essayer maintenant.xa0» La sœur est tombée en larmes tandis que la jeune sœur au cœur tendre n'avait d'autre choix que d'accepter sa demande. Elle a enlevé ses vêtements et les a changés pour sa sœur, et a retiré ses bijoux et ses bracelets pour les enfiler. Ma sœur a souri...
+Soudain, la sœur a pointé du doigt Shenqingxa0: «xa0Ma sœur, regarde, qu'est-ce que c'estxa0?xa0» La sœur cadette a tourné la tête. Lulai a poussé fort par derrière et le corps de Lu Cai s'est vidé. Avec un cri, elle est tombée dans un bleu profond sans fond...
+Lulai a revêtu le costume de sa sœur, a porté le fils de sa sœur Yu Lu et a marché hardiment jusqu'au Dragon Palace...
+Bientôt, à Shenqing, où Lu Cai a été frappé à mort, un petit oiseau au corps vert émeraude s'est envolé. Il a quitté Shenqing à la hâte et a atterri sur le coin rocheux de Yankan, au bord de la route. Il a sauté et est descendu et a crié «xa0vert jade - vert - petit vert - vert - vert - vert - vertxa0» dans sa bouche. Il a pleuré et était pressé de trouver...
+Ce type d'oiseau est «xa0l'oiseau vert jadexa0» qui est courant aujourd'hui. C'est devenu après la mort de Lu Cai. Son fils, Yu Lu, lui manque profondément. Il appelle, cherche, et juste comme ça, il pleure tout le temps, il regarde...
+Zone de circulationxa0: Yangjiao Pingpo
+Recordxa0: Xiong Jialiang   
+
