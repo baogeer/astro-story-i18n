@@ -1,0 +1,59 @@
+---
+pubDatetime: 2026-11-10 12:19:49
+title: "La amarga gloria de Fu Shanxiang, la primera mujer mejor académica de China"
+featured: false
+draft: false
+description: "Taiping Tianguo abrió el primer departamento de mujeres, y el rey del Este Yang Xiuqing colocó a Fu Shanxiang como la mejor opción para disipar la idea de que el emperador Hong Xiuquan la aceptaría como su esposa. A pesar de su popularidad, se vio envuelta en una disputa por la reforma de la Casa de la Mujer y también compitió con Hong Xuanjiao, sufriendo indeciblemente entre el poder y las emociones."
+---
+
+
+
+![AstroPaper I18n](/public/the-bitter-glory-of-fu-shanxiang-china-s-first-female-top-scholar.png)
+
+
+
+
+ Dado que la dinastía Sui fue pionera en los exámenes, la dinastía Ming seleccionó a los mejores participantes y los nombró los mejores ganadores. Hay innumerables campeones en el departamento de álgebra. A lo largo de la historia, no es inusual ser el campeón. Sin embargo, hay pocas campeonas femeninas; las generaciones anteriores nunca han oído hablar de ellas. No fue hasta que Taiping Tianguo fue pionera en el circuito femenino que China tuvo una campeona femenina, y la primera ganadora femenina fue Fu Shanxiang.
+Cuando se trata de Fu Shanxiang, el título de campeona femenina, aunque se le ocurrió su propio entusiasmo, algunas de ellas están indefensas. Por eso, después de convertirse en campeona femenina, Rong fue honrada, pero era difícil hablar de su sufrimiento.
+Fu Shanxiang nació en el seno de una familia Shuxiang en la ciudad de Nanjing. Su padre comenzó una carrera docente. Fu Shanxiang y su hermana Fu Luanxiang tuvieron dos hijas parecidas a flores. Influenciadas por su padre, las dos hermanas estudiaron poesía a temprana edad y se las puede llamar un par de flores hermanas con talento. En el año del Señor Celestial de Taiping en Nanjing, su hermana Luan Xiang tenía 18 años y su hermana menor Shanxiang tenía 16 años. Todas fueron incorporadas a la «Casa de la Mujer» por el ejército de Taiping.
+La «Casa de la Mujer» es un «campamento de mujeres» durante el período de combate del Ejército de Taiping. Tras llegar a Nanjing, pasó a llamarse «Casa de la Mujer» y ya no participó en la guerra, la estructura seguía militarizada. Los miembros del museo suelen tener que participar en trabajos como cavar zanjas en fosos y recoger ladrillos. Por la noche, escuchan la predicación del pastor y sus condiciones de vida son muy ajustadas. Las hermanas de Fu Shanxiang son todas débiles y realmente están luchando con este tipo de vida. Fu Shanxiang usó un poema para describir sus sentimientos acerca de este tipo de vida:
+La constelación Toad escucha la nueva ley y recuerda los viejos placeres frente a la lámpara del grillo;
+La brecha entre la llegada a Japón aún está en proceso de acuerdo y el acuerdo temporal llegará a su fin.
+Poco después, los extraordinarios talentos de las hermanas Fu atrajeron la atención de quienes estaban en el poder en Taiping. Tras varias rondas de selección, la hermana mayor fue enviada a Tennogu, mientras que la hermana menor fue asignada a Dongwangfu. Fu Luanxiang estuvo primero a cargo de los asuntos judiciales en el Palacio de Tianwang. Después de algunos giros y vueltas, fue favorecida por el muy comprensivo emperador Hong Xiu, y fue tomada como su princesa favorita. Mientras conversaba con el emperador, Fu Luanxiang habló inadvertidamente sobre su hermana menor, Fu Shanxiang, mostrando su preocupación. Tan pronto como el emperador lo oyó, pensó para sí mismo: ¿por qué no llevar también a Fu Shanxiang al palacio? No solo podréis reunir a sus hermanas, sino que también podréis disfrutar juntas de un par de flores hermanas.
+En ese momento, Fu Shanxiang trabajaba como secretaria femenina de Dongwangfu. Vivo en Zixawu, un lugar donde las flores, los árboles y los pájaros cantan y los peces hacen espectáculos. Dong Wang Yang Xiuqing, que cayó a la sombra de la espada, quedó profundamente conmovida por su brillante talento y su amable actitud. Dong Wang está derramando silenciosamente su amor por ella. De repente se enteró de que el emperador quería a Fu Shanxiang. Yang Xiuqing estaba muy disgustado. Cuanto más pensaba en ello, más se molestaba y decidió encontrar una manera de disipar los pensamientos del Emperador.
+Pensando de un lado a otro, Yang Xiuqing pensó en los exámenes académicos. El sistema de exámenes académicos de Taiping Heaven sigue el modelo de la dinastía Ming; sin embargo, el período de exámenes es incierto. Cada vez que hay una ceremonia nacional o una celebración importante para los reyes, ellos toman el asunto en sus propias manos. En el pasado, las mujeres no podían presentarse al examen. Dado que Taiping Tianguo promovió la igualdad de género, ¿por qué no iniciar la iniciativa de abrir una asignatura femenina? Una vez que comenzó el curso para mujeres, aprendió con el talento de Fu Shanxiang. No hay problema en conseguir un título en la Lista Dorada; espera a que alcance la fama. Si Tenno quería seguir golpeándola, ¡tendría que preocuparse!
+Este año acaba de ser el 40 cumpleaños de Yang Xiuqing. Aprovechó la oportunidad para proponer abrir dos asignaturas separadas para hombres y mujeres a fin de obtener el permiso del Emperador. Al comienzo de la investigación científica, Tianwang Qin asignó a su hermana menor Hong Xuanjiao como examinadora. Había dos examinadores adjuntos. Uno era Wang Zizhen de Anhui; el otro era Zhang Wanru de Hubei. El título del artículo era «Solo las mujeres y los pequeños son difíciles de criar», mientras que el título del poema era «Grita que la montaña es verde». Bajo la dirección de Dongwang Yang Xiuqing, Fu Shanxiang hizo este examen. En su artículo, cita clásicos, sostiene que las mujeres son difíciles de criar y relata la ayuda doméstica de mujeres virtuosas a lo largo de los siglos. Estaba rociado en el océano y era extremadamente poderoso. Su poesía es aún más fresca y agradable, y describe vívidamente la escena de navegar en las montañas y el agua:
+No puedo oír el sonido; el paisaje envía velas solitarias;
+El lado opuesto es pintoresco y la parte trasera está llena de vegetación.
+Hay nubes en el medio del cielo y el área está llena de agua;
+Funao Sumiryu y Minokoshi Asahi se llevaron el título.
+Qingqing desconfía de los bancos antiguos y Cui quiere conquistar camisas;
+El sonido de los gansos que fluyen es asombroso y la sombra de los cipreses japoneses es rica.
+Tras juzgar el artículo, los examinadores coincidieron en que la poesía de Fu Shanxiang era excelente. Incluso el rey Hong Xiuquan fue muy apreciado, por lo que fue la ganadora. Ella, junto con el Sr. Zhong, en segundo lugar, y el Sr. Lin, en tercer lugar, llevaban coronas de flores y llevaban uniformes dorados. Bajo la protección de Bing Yong, recorrieron la ciudad de Nanjing durante un tiempo.
+Como es el mejor elegido, es un inconveniente admitir a Fu Shanxiang en el harén sin entenderlo. Solo entonces Hong Soo Quan descubrió su propia negligencia y tuvo que abandonar su idea original. El plan de Dongwang Yang Xiuqing logró el objetivo previsto. El propósito del examen académico es seleccionar talentos para el país. Dado que Fu Shanxiang ganó el campeonato femenino, lógicamente debe ser nombrada miembro del gobierno. Uno de los primeros títulos que recibió fue el de jefa del Regimiento Central de la Casa de la Mujer y se convirtió en la líder del grupo de disfraces de 10.000 personas. Fu Shanxiang solía ser miembro de la Casa de la Mujer y estaba muy disgustada por ese estilo de vida estrictamente militarizado. Tras convertirse en líder del Regimiento Central, promovió las reformas, flexibilizó los controles obligatorios en el Salón de la Mujer y trató de evitar que los miembros del museo tuvieran que hacer el pesado trabajo de cavar y recoger ladrillos, además de encargarse de algunas tareas como coser, cocinar, etc.
+La jefa de la casa de mujeres es Hong Xuanjiao. Es una mujer fuerte que salió de las llamas de la guerra. Todavía siente algo profundo por el sistema militarizado. Como resultado, el conjunto de medidas de gestión implementadas por Fu Shanxiang después de asumir el cargo la disgustó y estalló un feroz conflicto entre ambos.
+En realidad, el conflicto entre estas dos mujeres no fue causado en su totalidad por el sistema de gestión de la casa de mujeres. Otro foco del conflicto estaba enterrado en los corazones de las dos. No querían hablar de ello; solo competían por el favor de Yang Xiuqing. En cuanto al origen, se puede decir que Hong Xuanjiao y Yang Xiuqing tienen una relación antigua. Tan pronto como Hong Xiuquan formó la congregación de Dios, Hong Xuanjiao y Yang Xiuqing tuvieron una relación duradera; Yang Xiuqing se unió al Club de Dios; más tarde, Hong Xiuquan tomó la iniciativa, Hong Xuanjiao se casó con Xi Wang Xiao Chaogui y Yang Xiuqing no tuvo más remedio que retirarse a Sanshe; tras la muerte de Xiao Chaogui en la batalla, Nanjing, la capital de Tianqing Ping. Yang Xiuqing y Hong Xuanjiao también revivieron su antigua relación durante bastante tiempo. Pero finalmente, se incorporó un talentoso Fu Shanxiang. Yang Xiuqing codiciaba lo nuevo y estaba cansada de lo viejo, lo que hizo añicos el sueño de Hong Xuanjiao de revivir sus viejos sentimientos. ¡Por qué no hacer que odie a Fu Shanxiang le pique los dientes! Mientras tanto, Fu Shanxiang también se enteró de la antigua relación de Hong Xuanjiao con Yang Xiuqing. Además, los dos suelen estar relacionados. Hong Seon-jiao se ofendió con ella y nunca mostró debilidad; el conflicto entre los dos se hizo cada vez más profundo.
+Total 2 páginas: Página anterior 12 Página siguiente
+Etiqueta: Fu Shanxiang, el ganador
+Aviso de derechos de autor: Las opiniones del artículo solo representan las opiniones del autor. Se utilizan como referencia y no representan las opiniones de este sitio. Algunos artículos provienen de Internet. Si las imágenes y el texto del sitio web infringen sus derechos de autor, ¡póngase en contacto con nosotros para eliminarlos y procesarlos rápidamente! Al volver a imprimir el contenido de este sitio, indique el sitio web reimpreso, el autor y la fuente para evitar disputas innecesarias por infracciones.
+ 
+
+ Anterior: Cha Wan Xiang se fugó 
+ Siguiente: La vida de Lu Bicheng es como el agua y la luna
+Recomendaciones relacionadas
+La historia de Zhuo Wenjun 
+ Los últimos tres años de Qiu Jin: de la liberación de la mujer a la liberación nacional 
+ Extraña mujer que es más poderosa que Mulan 
+ Ho Heung-ning humilla a Chiang Kai-shek con un poema titulado en su vestido 
+ Cuidando la frontera y Gutu durante 50 años: ¿Quién es la heroína número uno en la historia de China? 
+ Los diez casos más distintivos de infidelidad de mujeres antiguas 
+ La bella general de división Hu Lanwei que está enamorada de Chen Yi 
+ Savage Shih Tzu: la hermana mayor She Aizhen del inframundo de Shanghai de la República de China 
+ La esposa de Mao Zedong: las últimas palabras de Jiang Qing antes de su muerte 
+ Liang Hongyu lucha contra Jinshan con tambores 
+ Donde Liang Hongyu murió en batalla: la tumba de Mara 
+ Extraordinariamente fragante: ¿quién es la flor social más famosa del viejo Shanghai 
+ Shangguan Waner es un ladrón: atrévete a hacer el tonto con cuatro hermanos 
+ Hermosa primera ministra, ¿cómo se «juega al soborno» en el «campo del amor»? 
+ El antiguo truco de Pipeline Ascending para hacer que su marido infiel pierda el rumbo   
+

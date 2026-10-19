@@ -1,0 +1,21 @@
+---
+pubDatetime: 2026-11-12 11:27:29
+title: "Great Writers Who Joked About Their Own Surnames"
+featured: false
+draft: false
+description: "Tang and Song writers such as Du Fu, Liu Zongyuan, Su Shi, and Xin Qiji cleverly used their surnames in their poems: Du Fu used “Du Jiu” to respond to “Zhang Li,” Liu Zongyuan laughed at himself using four “Liu,” Su Shi echoed Su Wu's food felt with “the last name Su,” and Xin Qiji interpreted the word “Xin” as difficult and spicy. He is funny in his own jokes and shows an open mind."
+---
+
+
+
+![AstroPaper I18n](/public/great-writers-who-joked-about-their-own-surnames.png)
+
+
+
+
+ Among the great writers of Tang and Song, at least four made fun of their surnames in their poems.
+The average person thinks that Du Fu, who is serious about Duan Fang, is actually very funny. He wrote in “Zhang's Seclusion, Song 2, Part 2”: “We met when we were children, and invited people to stay late. It's off in Jitan, spring grass, yow. Du Jiu worked too hard, and Zhang Li did nothing but ask for it. Former Murayama road insurance, no worries every time you get drunk.” This poem was written for a friend surnamed Zhang, so he specially used the allusion “Zhang Li” from Pan Yue's “Idle Life”: “Zhang Gong's Oya Pear, Liang Hou's Persimmon, Zhou Wen's Weak Jujube, Fangling Zhu Zhong Zhi Li”, Tang's comment: “Luoyang North Mangshan has Zhang Gong Xia Li. It is very sweet; there is only one tree in China.” Explain that this pear is delicious and precious. There are two explanations for “Du Jiu”. One is home-brewed light wine. Wang Yi of the Song Dynasty said in the “Wild Guest Book Series,” “Those who say Du Zhi Yun are still lying. If you say home-brewed light wine, it's called Du Liquor.” Another meaning is the wine invented by Du Kang. Generally speaking, it should have the second meaning here. Du Fu said, “Of course you don't need to go outside to pick pears, so let me relax and eat them, but you also want to drink our Du Family's wine to the fullest.” Using two allusions, I pointed out the surnames of the author and the writing subject separately. It was very ingenious. The reading was even more meaningful, and it also showed the hospitality of this friend of Zhang's.
+Liu Zongyuan wrote the song “Growing Willows,” starting with his last name. It can also be seen that the author is related to Liuzhou: “The History of Liuzhou Willow Sash, Growing Willows by the Liuzhou River. Talk and laugh as a story, turning into a bygone era. The overcast will cover the ground, and the sky will rise when dry. It is a good idea, and it has no shame to pass it on.” The first link used four willow characters in one go.
+Su Shi wrote “Light Snow After the Rain on December 2, Taishou Xu Junyou Seated Three Songs with Wine”. When others brought wine, Su Shi immediately remembered Su Wu from Xueli Food Felt, and in the third song of this series of words, he wrote, “Snow Food Felt's last name is Su, so the third song in this series of words was written, “Xueli Food Felt's last name is Su, so Jun Zai Liquor returns.” According to research, this poem was written in 1081, just when Su Shi was demoted from Huangzhou. He used “the surname Su” to associate his drinking in the snow with Suwu food felt. It was witty and also implied that life was a bit cold, but when he thought about that more miserable ancestor of the same surname, he didn't think it was painful.
+Xin Qiji has a song “Forever Happy”. In his inscription, he explains “The Art of Xin Ji”. The lyrics include a sentence like this: “Hot Sun, Autumn Frost, Loyal to the Liver, Courage, and a Thousand Years of Family Tree. What year did you get your last name, take the wrong characters, and listen to it with a smile. Hard work, the taste of sorrow is always hard work. It's even more spicy. It's spicy, and you can throw up if you mix up the pepper and cinnamon. The world should have it. It's sweet and beautiful, and it's less than the gateway to my home. ...” The meaning is very clear. My surname means “difficult,” “sad,” “painful,” and “painful,” and “difficult,” so it's normal to experience hardships and hardships. The obvious meaning of a joke and a bit of vague complaint reflect the author's open-mindedness in the face of a bad career. (Gan Zheng Qi)   
+

@@ -1,0 +1,132 @@
+---
+pubDatetime: 2026-12-28 01:50:03
+title: "La leyenda de Shen Zhenzhu"
+featured: false
+draft: false
+description: "Shen Zhenzhu tiene talentos y una relación de por vida con el pobre erudito Jiang Qi. Mi padre teme ser pobre y ama a los ricos, y la perla del templo de Guandi sirvió de intermediario en el matrimonio disfrazado de dios. Inesperadamente, fue elegida nuevamente reina de Guangping y fue acosada repetidamente por la madre y la hija de Fei Choi en el palacio. Pearl escapó durante la rebelión de Anshi y cayó en manos de los rebeldes para luchar con sabiduría contra el monte An Lushan. Jiang Qi se mezcló con el enemigo y rescató a Pearl, pero fue alcanzado por una flecha y murió, dejando una canción de amor llamada «Después de Dai Zong, Seok busca a la madre»."
+---
+
+
+
+![AstroPaper I18n](/public/the-legend-of-shen-zhenzhu.png)
+
+
+
+
+ A mediados de la dinastía Tang, apareció un Shen Zhenzhu en la aldea de Shanglin en Huzhou. Es extremadamente talentosa. Fue honrada como emperatriz. Desafortunadamente, en un mundo turbulento, su vida estuvo llena de altibajos, dejando solo una triste y hermosa historia de amor.
+Un día de agosto sale el sol y el aire otoñal es refrescante. Mi padre fue al pueblo a saldar cuentas a primera hora de la mañana, y mi madre volvió a visitar la casa, dejando a Pearl sola en casa. Pearl estaba tan aburrida y aterrorizada que tuvo que bajar las escaleras. Al encontrarse con un hombre en medio de la nada, Pearl vio que era un hombre joven, de edad similar a la suya, se sonrojó y preguntó: «¿Qué te pasa?»
+La persona aquí dijo: «Mi nombre es Jiang Qi. Soy de la aldea de Dongqian. Estoy aquí para saldar mis deudas».
+Al ver que su camisa estaba gastada y tenía una cara tímida, sonrió en secreto y dijo: «Rompe los bolsillos pequeños para hacer los grandes y rasga los bolsillos para compensar los bolsillos».
+Jiang Qi dijo: «Pide prestadas nuevas deudas para pagar las antiguas y pide prestado para pagar las deudas». Dijeron: pusieron un montón de perlas de bronce sobre la mesa, luego se dieron la vuelta y se fueron.
+Los ojos de Pearl están rojos y pensé: no es que los transeúntes no conozcan el sabor del otoño; es tan patético. Escuché a mi padre decir que la cosecha de cereales ha vuelto a ser mala este año. No sé cómo les va.
+Simplemente diga: «Jiang Qi, el agua ayuda al agua, los barcos ayudan a los barcos, sean cuales sean las deudas que tengan los habitantes del pueblo, no hay necesidad de devolverlas». Después de hablar, cogió a Copper Dian y se dirigió a Jiang Qi para ocupar el centro del escenario. Jiang Qi no hizo ninguna deducción; dijo en voz baja «gracias» y se fue.
+Pearl se vistió un poco y viajó hasta la aldea de Dongqian para comprar hilo de seda rojo y verde. El clima cambió durante un tiempo. Todavía estaba despejado ahora. El viento y la lluvia torrencial se apoderaron de sus cabezas y los peatones ni siquiera podían sostener un paraguas.
+En ese momento, Pearl estaba caminando a su casa. Antes de ir al pueblo y dejar de depender de la tienda, el fénix se convirtió en sopa de pollo durante un tiempo. Cuando vio que había un templo de Guandi al otro lado del río, cruzó rápidamente el puente. Ese puente era de madera. No había barandillas en el puente. El viento soplaba tanto que Pearl no podía ponerse de pie. Si no querías caminar, no podías caminar. Era la única forma de llegar a casa, así que salí hacia adelante mientras estaba acostada boca arriba.
+La gente acaba de subir al centro del puente y solo escucha un ruido fuerte detrás de ellos. Mirando hacia atrás, se sorprendieron. La mitad del puente detrás de ellos se derrumbó en el río. Pearl avanzó desesperadamente. Subió una sección, el puente se derrumbó una sección, el puente se derrumbó una sección. Cuando subió al muelle y «chocó» contra el suelo, el puente se derrumbó.
+El cuerpo de Pearl quedó suspendido en el aire y se deslizó lentamente hacia abajo. En este punto, «golpea» el suelo y un par de poderosas manos agarraron los brazos de Pearl y la levantaron. Pearl llegó a su fin. De repente, cayó al suelo y la persona la llevó rápidamente al templo. Cuando Pearl Dingqing echó un vistazo, resultó ser Jiang Qi.
+Jiang Qi estaba trabajando en un campo. Al ver que estaba lloviendo, se paró en la entrada del templo para esconderse de la lluvia. Al ver que Pearl estaba a punto de caer al agua, lo rescató rápidamente. Por la noche, Pearl le contó a su padre los peligros a los que se enfrentaba durante el día. Su padre decía repetidamente: «El abuelo Guan te bendiga, el abuelo Guan nos ha salvado una vez más».
+Sin agua, sin puentes, sin agua, sin plántulas. Las palabras del padre están ahí por una razón. Originalmente, la familia Shen se ganaba la vida pescando. Están a la deriva en el agua durante todo el año. Como dice el refrán, «pasear en barco y a caballo tienen 3 puntos de seguro». Su padre va con frecuencia al templo de Guandi para quemar incienso y rezar para encontrar refugio.
+El 13 de septiembre de un año, que coincidió con el cumpleaños del emperador Guan, su padre fue al templo para adorar como de costumbre. Como estaba tan cansado de pescar, se durmió en la caja de incienso tan pronto como terminó de orar. En medio de la neblina, oí al emperador Guan decirle que había bastante oro debajo del asta de la bandera frente al templo, y le enseñaron a destruir la mitad del templo para reconstruirlo y la otra mitad para su propio uso. Cuando mi padre despertó, ese era el sueño de Nanko y no se atrevió a hacerlo de nuevo.
+Cuando no quería pescar en la orilla del río durante el año siguiente, conseguí una lata de oro por accidente y rápidamente se convirtió en una casa de cultivo y lectura. Desde entonces, ha sido respetuoso y muy devoto con el abuelo Guan, pues cree que el abuelo Guan protege a su familia en medio de la oscuridad.
+Hoy, Pearl se salvó del peligro, lo que lo convenció aún más de ello. Pearl aprovechó el calor y dijo: «Todos estos son los resultados de que mis padres eran buenas personas los días de semana. También son una advertencia del abuelo Guan para mi familia. En opinión de mi hija, simplemente hicimos algo muy bueno: renunciamos al alquiler de la tierra de este año y destinamos todo el dinero que recaudamos de los préstamos adeudados para reconstruir un puente de pizarra, ¿de acuerdo?»
+El padre asintió y dijo que sí; la gente del pueblo aplaudió y aplaudió cuando se dieron cuenta.
+Después de esa pelea, Jiang Qi pasó tres días buscando perlas, y Pearl estaba feliz de estar con Jiang Qi. Jiang Qi le enseñó a Pearl a recoger baldosas y a dejarse llevar por el agua; Pearl le enseñó a Jiang Qi a leer y escribir artículos, y poco a poco ambas cosas se convirtieron en algo así como «El 1 de marzo de mostaza, nacido para el corazón».
+Un día, las dulces palabras de Pearl salieron de mi pecho: «Las rocas dependen de vigas y cuencos para comer. Jiang Qi, quiero vivir contigo».
+Jiang Qi escuchó de pies a cabeza. Aunque siempre ha estado profundamente enamorado de las perlas, después de todo, era un pobre huérfano. Pensó que sería difícil abrir la boca cuando era tonto. Mantuvo la cabeza agachada y dijo: «Pearl, no tengo la suerte de cultivar flores en un plato».
+Pearl dijo: «No tengo miedo de echar raíces; si me caso con alguien, no tengo miedo de que Lang Jun sea pobre. Mientras los dos tengan una buena relación, no odian ser pobres cuando compran arroz en una copa de vino».
+Desde entonces, los dos se han visto todos los días y hace un día que no se ven; parece que el sol no cruzará el oeste.
+El padre de Pearl se enteró de esto. Vio a Jiang Qi volteándose las zapatillas sin tacones, llenando los bolsillos de su ropa y sintiéndose 100 infeliz en su corazón. Jiang Qi regresó este día. Pearl estaba a punto de salir. Su padre lo detuvo y le dijo: «Los dragones están equipados con dragones y fénix. Los ratones solo pueden perforar agujeros en el suelo; Jiang Qi solo merece pedir comida. Pareces un hada. Si eres un funcionario, elige lo que quieras. Por qué no ganas, no ganas en absoluto, ¡solo esta linterna rota! ¡No puedes salir con él!»
+Los ojos de Pearl estaban rojos y las lágrimas goteaban. El padre volvió a caminar hacia la puerta principal, levantó la cara y le dijo a Jiang Qi: «No te mereces las perlas de mi familia; no abraces a los patos en vano». Di «¡cuándo!» La puerta se cerró con una voz fuerte.
+Su padre persiguió a Jiang Qi y regresó a la Sala de las Perlas. Dijo que quería encontrar una abuela poderosa para Pearl.
+Pearl dijo: «El té no es fuerte cuando se prepara en agua fría. Si quieres dárselo a otra persona, extiende los brotes de bambú sobre tu cabeza».
+Cuando Jiang Qi llegó a casa, no pudo comerlo ni dormir bien; en cuanto a las perlas, Jiang Qi se las tragó con una balanza de hierro. Siempre lo tenía en mente y esperaba a Jiang Qi todos los días. Esperó temprano, esperó por la noche, esperó día tras día y pensó en ello noche tras noche, pero simplemente no vio la película de Jiang Qi. Pearl tiene prisa. Es como tragarse una aguja de bordar en el estómago, apuñalar el corazón durante el día y quemarse el estómago por la noche.
+El 13 de septiembre también es el cumpleaños del emperador Guan. El pueblo está lleno de gente que va de un lado a otro para asistir a las ferias del templo. El padre Pearl llegó por primera vez al templo porque era una figura local prominente, colocaba ofrendas, encendía velas de incienso e inclinaba la cabeza para adorar.
+Tan pronto como se agachó, escuchó al emperador Guan decir: «Viejo tonto, ¿por qué golpeas tan bien a los patos mandarines? Yamataka tiene su propia guía. Tu jovencita y Jiang Qi estuvieron casados en una vida pasada. Ese día llovió. Se escondieron de la lluvia en mi sien. Yo creé el médium; no podrás completarlos pronto».
+Tan pronto como el padre de Pearl lo escuchó, tuvo miedo de derretir las piernas de un golpe e incluso dijo: «Sí, sí».
+Solo sabía que había aparecido el emperador Guan, pero no sabía que Pearl se escondió detrás de la estatua e hizo un fantasma.
+Cuando Pearl y Jiang Qi esperan felizmente la luna llena, ¿quién esperaba matar a Cheng Baiting Jin en el camino? Tang Xuanzong ha emitido un decreto sagrado. Quiere llevar a Pearl al palacio para que sea la concubina del rey Li Yu de Guangping. ¿Qué pasó con este rayo en el cielo despejado? Tengo que empezar por el principio.
+Un día, hace seis meses, fue un gran momento en el que florecieron las flores de primavera y revolotearon coloridas mariposas. Pearl visita la montaña Guzhu, junto al lago Taihu. No quiero encontrarme con Guangping Wang Liyu, que está degustando té de brotes de bambú morado en el monte Gu Zhu. Wang Guang Ping vio una cara perlada como una flor de durazno, sus cejas como las de un tierno sauce, su boca como una cereza y sus ojos parecían de estrella. Le conmovió la idea de tener flores en su corazón. Dijo con suavidad: «Con flores de durazno sobre bambú, los caballeros se ven bien con maquillaje rojo».
+Pearl lo vio con una camisa verde claro y un pañuelo cuadrado. Dao también estaba en un viaje de primavera. Dao dijo: «La Luna lleva sauces; Chang'e es una invitada vestida de verde».
+Tan pronto como Wang Guang Ping lo escuchó, su corazón floreció. «Hay una puerta», y luego dijo: «Las montañas son profundas y el bosque es denso. ¿Enseñarle al leñador cómo empezar?»
+Pearl tenía un corazón brillante. Vio a través de sus entrañas floridas, sonrió levemente y respondió: «Se ven las montañas y el agua cristalina, devuélvele al pescador lo antes posible».
+Wang Guang Ping vio a Pearl y se apresuró a soltarla. También dijo: «Debes recoger duraznos en flor en el patio y mariposas fuera de la pared».
+Pearl pensó para sí misma: esta persona era muy descarada y tenía los ojos furiosos: «Si pintas un melocotón, no te dejes engañar por los monos de montaña».
+El rey Guang Ping fue regañado en vano. Hay un dicho que dice que no siempre consigue lo mejor. No se desanimó. Un pato se zambulló en el agua; la superficie no se movió, pero secretamente le pidió a alguien que siguiera la perla, descubriera los detalles y, al regresar a Beijing, le rogó a su abuelo Tang Xuanzong que renunciara a su testamento.
+Cuando Jiang Qi escuchó la noticia, gritó y se desmayó. Cuando se despertó, el barco ya había navegado hacia el vasto lago Taihu, gritando que no había respuesta. Con lágrimas en los ojos, dijo: «Soy un hombre ruidoso. Puedo ponerme de pie sobre mis puños y pasear a caballo sobre mi brazo. Tengo que recuperar mis perlas». Hablando de perseguir a Beijing, ¿dónde puedo encontrar perlas? Tenía que trabajar a tiempo parcial mientras esperaba a que saliera del palacio un día u otro para reunirse con ella.
+Las buenas flores crecen detrás de la sombra; no florecen cuando se exponen al sol. Después de que Pearl rompió con Jiang Qi, sus lágrimas parecían perlas rotas y su rostro parecía hojas escarchadas. Sin embargo, el rey Guangping no se dejaba enredar entre moreras; giraba en torno a Pearl todos los días. Esto ofendió a una persona, la reina Cui del rey Quang Ping.
+Bueno, Cui Fei tiene sus raíces. Es la perla en la palma de la esposa coreana de la hermana de Yang Guifei. La dama coreana tiene un gran estilo y puede cantar y bailar bien. Se ha ganado la alegría de Tang Hyeon-jong. Se enganchó con ella y secretamente formó un vínculo con Ti Lian. Debido a la terquedad de su madre, la princesa Cui a menudo recoge huesos de huevos de perlas.
+Un día, ella y su madre, esposa coreana, volvieron a la casa de Pearl. Al ver al rey Kwang Ping jugar aquí, no pudo evitar enojarse y tronar antes de que lloviera: «Princesa Shen, he oído que el lago Taihu de su ciudad natal tiene tres tesoros: peces plateados, caballas y camarones de caparazón blanco. «El pez plateado desmenuzado fue creado por una mujer llamada Meng Jiang, que busca un marido; entonces los camarones de cáscara blanca no tienen fórceps (dinero); luego la caballa, los huesos magros, el fósforo y el fósforo, ¿por qué la gente lo considera un tesoro?»
+Pearl escuchó un sonido en la conversación y dijo fríamente: «Cui Consort, ¿hay otro tesoro en Huzhou?»
+«¿Qué tesoro?»
+Pearl Road: «Ese es tu cangrejo de pie peludo favorito, feo, perezoso y autoritario».
+Tan pronto como Cui Fei lo escuchó, su rostro se puso carmesí.
+Tan pronto como la Sra. Korea lo escuchó, supo que Pearl señalaba al monje por ser calvo, pero tuvo un ataque grave y dijo: «La gente dice que Shen Fei sabe leer y escribir. Ahora tengo un par. No sé si Shen Fei está dispuesto a enseñarle». Luego gimió: «El viento sopla tela azul, aroma a flor índigo».
+Tan pronto como Pearl lo escuchó, pensó: ¿Cuáles son tus habilidades para burlarte de mi pobre origen? ¡No estás disfrutando de un poco de «sol y lluvia»! Dijo con mala amabilidad: «La madera de fieltro rojo apesta cuando se expone al sol».
+Tan pronto como la Sra. Korea lo escuchó, se quedó estupefacta.
+Wang Guang Ping vio la situación, medió rápidamente, se rió y dijo: «¿Aún podemos adivinar?»
+Pearl dijo: «Yo voy primero, escucha: una mujer vive dentro de la pared y grita, la segunda mujer toma fotografías del fuego y las tres mujeres derraman lágrimas...
+La Sra. Korea escuchó y se puso furiosa: «Tú, tú...» Tenía los pies blandos y cayó al pie de la pared.
+Resulta que la esposa coreana era una mujer arrogante. Tenía el monopolio de Hyeon-jong y no permitía que Hyeon-jong estuviera cerca de otras princesas reales. Su antigua favorita, Mei Fei Jiang Caiping, fue arrojada a una cámara frigorífica por ella, y a menudo se lavaba la cara con lágrimas. Hace un tiempo, Tang Xuanzong tenía en secreto un «Magpie Bridge Club» con su esposa coreana, y Yang Guifei casi lo golpea. Pearl la regañaba por alguna razón. Al verla paralizada al pie de la pared, volvió a regañarla: «Mil, diez mil pies, no puedo ponerme de pie, no puedo estar al pie de la pared».
+La señora Corea escuchó e hizo un gran alboroto: «¿Cómo te atreves a insultar a la señora Ben? Le diré al emperador».
+Tan pronto como Tang Xuanzong lo escuchó, se asustó por el nacimiento de un Buda. El segundo Buda ascendió al cielo. Pensó: Si la noble dama lo sabía, no era una broma; se difundió aún más de forma descontrolada. Le pidió a Golix que llevara la perla al templo y preguntó en voz alta: «¿Estás al tanto del crimen?»
+«La niña no lo sabe».
+«Eh, ¿por qué insultas a la señora Korea?»
+«La niña no se atrevió. La niña simplemente siguió las palabras de Guangping Wang, adivinó acertijos con ella y nunca la regañó».
+«Hmm... ¿cuál es el misterio? Si hablas de eso, ¡es imposible decir que Wang Fa es despiadado!»
+Pearl Road: «Para el emperador, «una mujer que vive dentro de una pared» se llama grillo; «dos mujeres encienden un fuego» es una luciérnaga; «tres mujeres derraman lágrimas» es lluvia; «mil pies, diez mil pies, no pueden pararse al pie de la pared» es una escoba».
+Tang Hyeon-jong escuchó, se oscureció y dijo: «Maravilloso, creo que la señora coreana es muy cariñosa, ¡regresa!»
+La señora coreana apretó los dientes tan fuerte. No hizo ruido delante de ella, pero compró un eunuco cerca de Pearl y observó todos los movimientos de Pearl.
+Una noche, la luna colgó en lo alto de las copas de los árboles y el corazón de la perla volvió a colgarse del cuerpo de Jiang Qi. No pude evitar cantar:
+«Dos amantes, un barco cada uno;
+Siempre hay un corazón primaveral, no libertad.
+Solo cae en la Semana del Sueño de las Mariposas,
+Los rivales vivos aún no se habían unido.
+Además, no sé cuándo desaparecerá,
+Es una señal de cuántos ojos se necesitan».
+Esto es increíble. Cuando el eunuco se lo contó a su esposa en Corea, la esposa coreana y Choi Fei escupieron agua amarilla por todos lados, diciendo que las perlas rompen el arroz por todos lados; es como si un faisán durmiera con ellas en lo profundo de las montañas. El rey Guang Ping oyó la carta, dudó y puso la perla a secar. Pearl no podía quedarse ni un día; siempre quería escapar del palacio.
+En el décimo año de Tianbao, la rebelión de An Lushan. Ocuparon Luoyang y Tongguan y fueron directamente a Beijing para matarlos. Tang Xuanzong entró en pánico y se escapó del Territorio Prohibido durante la noche con su familia. Pearl tropezó y escapó mientras el viento soplaba fuerte y la luna estaba oscura. No querían escapar de la boca del lobo e ir a la guarida del tigre; corrieron de frente a las manos de los rebeldes.
+Al ver a Pearl en la montaña Anlu, su cuerpo era como un pétalo de melocotón con el viento, y su rostro era como una flor de pera con lluvia. Después de dejar a los Tres Espíritus, saltó del caballo, tenía un gran estómago y sonrió: «Es realmente hermoso».
+Pearl dijo: «¡Déjame ir!»
+An Lushan dijo: «¿Te dejo ir? Sí, siempre que puedas responder a las tres preguntas que te hice».
+Pearl inclinó la cabeza y dijo: «Salgamos».
+An Lushan sonrió y miró a su alrededor. Al ver que el hotel de enfrente tenía una bandera de color amarillo albaricoque con la palabra «vino» y ondeando en la azotea, dijo: «¿Has visto esa banderita que brilla en lo alto de la caña de bambú? Si no colocas el poste, no lo rompas, no utilices una escalera, no subas a la casa, quítatelo de inmediato».
+Pearl arqueó levemente las cejas, dio un paso adelante para desatar la cuerda atada al poste, corrió hasta el borde de un pozo, insertó el poste en el pozo y quitó la bandera amarilla con una mano.
+An Lushan dijo: «Lo has entendido bien, ¿verdad?» Sacó una pequeña perla de su pecho y dijo descaradamente: «La princesa me regaló un collar de perlas, un total de 7.749 piezas. No podía verla lo suficiente como para jugar con ella. Es una pena que no haya prestado atención y haya roto el hilo. No necesitas una aguja, simplemente póntela por mí».
+Después de recoger las perlas, vi que el tamaño era uniforme. El blanco era rojo transparente, brillante pero no brillante, y era un artículo fino. Al volver a mirar ese pequeño agujero que atravesaba el hilo, no pude evitar respirar aire fresco; simplemente sucedió que podía pasar un hilo delgado.
+Las perlas miraron a su alrededor, el humo entraba y había diez habitaciones y nueve espacios vacíos. Fue al hotel sin supervisión a buscar un poco de azúcar, usó agua, luego goteó el azúcar en el pequeño orificio de cada perla, luego las limpió, corrió al monte An Lu, tuvo que cruzar el alambre, se agachó en el suelo, atrapó una hormiga pequeña, ató cuidadosamente el alambre al cuerpo de la hormiga, luego colocó las cuentas en el suelo, las dispuso cuidadosamente y las puso suavemente en el suelo. Tan pronto como la hormiga miró de este a oeste durante un rato, perforó tranquilamente el agujero del cordón uno por uno, se comió el agua dulce con azúcar y pronto salió arrastrándose por el otro extremo. Pearl cogió rápidamente ambos extremos del hilo de seda, hizo un nudo y lo arrojó al monte An Lu.
+An Lushan volvió a sonreír y dijo: «Oh, Dios mío, creo que has respondido correctamente a esta segunda pregunta. Ahora hago la tercera pregunta».
+Un Lushan señaló un andamio en el campo de sorgo y dijo: «¿Me lo puedes llevar?» Me reí a carcajadas cuando terminé.
+Pearl caminó hacia un lado del suelo y volvió a mirarlo. Después de un rato, regresó y le dijo a la montaña Anlu: «Puedo cargarla; es que tengo las manos cortas y no puedo sostenerla. Ruego a los adultos que me ayuden a cargar el hombro».
+Tan pronto como An Lushan se enteró de que había vuelto a perder, no pudo evitar sentirse molesto y enojado. Se sonó la barba y miró fijamente: «¿Te atreverías a luchar contra mí?»
+Pearl miró el rostro empobrecido de Anlu Mountain, «revoloteando» y se rió, diciendo: «¿Cómo te atreves a no hacerlo? Acabo de herir a adultos y me temo que los adultos me harán daño».
+An Lushan le dio unas palmaditas en el pecho y le dijo: «El río no volverá atrás y nunca me arrepentiré de lo que dije». Se volvió hacia su soldado y le dijo: «Escucha, si salgo herido, no debes hacerle daño».
+«¡Sí!»
+«¿Me oyes?» An Lushan se rió, extendió las manos y se abalanzó sobre la perla como un águila atrapando a un polluelo. Pearl levantó la mano suavemente y las dos piedras pequeñas estaban a sus lados. Justo en medio de los ojos del Monte Anlu, solo lo escucharon: «¡Ah!» Tan pronto como el suelo gritó, la sangre brotó de los dedos que le cubrían los ojos, y la persona «¡pum!» El suelo cayó al suelo.
+Resulta que las perlas suelen recoger tejas rotas junto al río y flotan en el agua, por lo que han desarrollado un buen ojo. Había previsto que la montaña Anlu no se detendría ahí. Cogió en secreto dos piedras, se las pellizcó con las manos y esperó el vuelo. Sin mencionar que a An Lushan le dolían las perlas en el ojo, quedó ciego después de recibir tratamiento durante mucho tiempo y fue asesinado por su propio guardia, Li Pig. Solo dijeron que la luz encendida ese día solo hizo que la montaña Anlu rugiera como un trueno: «¡Enciérrala!»
+Por la noche, la luna cuelga en lo alto del cielo. Pearl miró a la luna y pensó que no podía reunirse con Jiang Qi. No pudo evitar echarse a llorar. Las canciones largas eran como llorar:
+«Manos y mejillas,
+Odio la cara roja tantas vidas.
+ropa mojada,
+¿Cómo crees que Shang Guang Shang Shang Shang Shang Sheng Shang Shang Shang
+Además, puedo oír hojas de sicomoro,
+El caballo de hierro sonó frente al alero,
+Cuidar el desorden hace que la gente se enferme.
+De repente, una voz familiar sonó fuera de la puerta: «¡El hombre guapo me pidió que llevara a esa señora!» Al hablar de alguien que entró por la puerta, no pudieron evitar recoger la perla y marcharse.
+Al llegar a la oscuridad, el hombre le dijo a Pearl: «Date prisa, te llevaré».
+Un caballo ya estaba listo para estar allí. El hombre ayudó a Pearl a subirse al caballo. También se dio la vuelta y se subió él mismo al caballo. Tan pronto como agitó su látigo, corrió como un látigo.
+Después de un rato, el sonido se desvaneció. Pearl miró hacia atrás a la luz de la luna, solo para ver al hombre acostado sobre su cuerpo, golpeando una flecha detrás de ella, cubierto de sangre. Pearl levantó a esa persona y miró, y no pudo evitar llorar amargamente. Esa persona era Jiang Qi, en quien siempre había pensado.
+Resulta que Jiang Qi escuchó que Tang Xuanzong había huido y que Pearl había desaparecido, por lo que se unió a los rebeldes y tomó un vuelo para encontrar rastros de perlas. Vio a la montaña Anlu cazando perlas durante el día y vino a salvarlo por la noche.
+Jiang Qi se esforzó por abrir los ojos y dijo: «Mirando las montañas, montañas y cavidades como carreteras, y mirando a los adultos al costado de la carretera, finalmente estamos juntos».
+Pearl asintió y dijo: «Desde entonces, el agua ha subido y el mar es inseparable».
+Jiang Qi sonrió y murió. Pearl lloró tanto que murió y volvió a la vida. La triste voz del canto hacía llorar:
+«Pobre de mí por torcerme la parte inferior de la espalda y la pierna,
+Unos pedacitos de ternura, dolor y odio en otoño,
+¡Tan ligero como un sauce en el viento!
+Haozuki Nagasora,
+Si no haces brillar el incienso de la casa de bordados,
+La polarización era tan sombría que era una sombra solitaria,
+¡Te debo tanto amor!
+Lleno de corazón,
+¡Difícil de averiguar!
+Cuando la rebelión de Anshi llegó a su fin, el rey Guang Ping se sintió profundamente culpable y buscó perlas. Pero, ¿dónde había noticias sobre perlas? En el decimocuarto año del calendario, Li Shi, hijo del rey Guangping, subió al trono y se convirtió en Tang Dezong. Consagró a Pearl como emperatriz viuda y dividió a los enviados militares para buscar a su madre por todas partes. Pero, ¿dónde tenía la sombra de su madre? Solo queda una parte de la historia: «Después de que Daizong buscó a su madre, Deokjong buscó a su madre».   
+
