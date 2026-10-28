@@ -1,11 +1,11 @@
 from dbMysqlHelper import db_tool
 
 LANG_FIELDS = {
-    'en': 'http://guochuan-story.s3-website-ap-southeast-1.amazonaws.com/posts/{}',
-    'ar': 'http://guochuan-story.s3-website-ap-southeast-1.amazonaws.com/ar/posts/{}',
-    'es': 'http://guochuan-story.s3-website-ap-southeast-1.amazonaws.com/es/posts/{}',
-    'fr': 'http://guochuan-story.s3-website-ap-southeast-1.amazonaws.com/fr/posts/{}',
-    'ru': 'http://guochuan-story.s3-website-ap-southeast-1.amazonaws.com/ru/posts/{}',
+    'en': 'https://folkstory.kilosites.com/posts/{}',
+    'ar': 'https://folkstory.kilosites.com/ar/posts/{}',
+    'es': 'https://folkstory.kilosites.com/es/posts/{}',
+    'fr': 'https://folkstory.kilosites.com/fr/posts/{}',
+    'ru': 'https://folkstory.kilosites.com/ru/posts/{}',
 }
 
 
@@ -20,7 +20,7 @@ def main_run():
     newline = '\n'
     content_str = newline.join(article_list)
 
-    file_path = f"./article_url.txt"
+    file_path = f"./folkstory_article_url.txt"
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content_str)
 
