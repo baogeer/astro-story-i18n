@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-03 03:41:33
+title: "Li Shizhen finge ser un ladrón"
+featured: false
+draft: false
+description: "Un hombre de negocios de la dinastía Ming se enfermó cuando volvía a casa. Li Shizhen le aconsejó que no descansara, pero fue regañado. En vez de eso, fingió que unos ladrones le habían robado la cartera y el paraguas. El empresario estaba furioso y perseguido. Cuando llegó a la ciudad, estaba muy sudoroso y su condición había desaparecido por completo. Li Shizhen le devolvió sus pertenencias y le explicó que fingir ser una ladrona era una cura para su sudoración."
+---
+
+
+
+![AstroPaper I18n](/li-shizhen-pretends-to-be-a-thief.png)
+
+
+
+
+ Li Shizhen (1518-1593), Zi Dongbi, conocido como Li Dongbi. Oriundo de Qizhou, Hubei (actual ciudad de Qizhou, condado de Qichun, ciudad de Huanggang, provincia de Hubei), de nacionalidad han, nació en el decimotercer año del reinado de Wu Zong Zheng De (1518 d.C.) y murió a los veintidós años de Wanli (1593 d.C.). Li Shizhen, un gran científico médico y farmacéutico de la antigua China, se refirió a más de 800 libros sobre medicina y sus estudios académicos. Se necesitaron 27 años para compilar el libro «Compendio de materia médica», y 27 años para compilar el libro «Compendio de materia médica». Es una importante obra resumida sobre la farmacología china antigua. Ha sido muy elogiado en el país y en el extranjero. Ya ha traducido varios textos o resúmenes, y también es autor de «Lake Borderline Studies».
+Durante la dinastía Ming, la ciudad de Wenquan tenía un hombre de negocios que hacía negocios en Taiyuan, Shanxi, y se preparaba para volver a casa para el Año Nuevo a finales de año. Se guardó la plata en el bolsillo, llevó un paraguas y salió apresuradamente a la carretera.
+Este día caminó hasta el pie del monte Nakajo y se sintió un poco mareado. Dio la casualidad de que vio a un hombre de mediana edad recogiendo hierbas en la ladera de la colina y gritó: «Amigo, ¿estás recogiendo hierbas a cambio de dinero? Entonces no lo escojas. Mientras me lleves al monte Nakajo, seguro que te pagaré mucho más dinero del que puedas tomar con medicamentos». Inesperadamente, el hombre de mediana edad sacudió la cabeza y dijo: «No quiero tu dinero ni te llevo en brazos; ve por tu cuenta».
+El empresario estaba indefenso y tuvo que seguir adelante. Después de caminar un rato, sopló el viento del noroeste y flotaron copos de nieve. El comerciante realmente no podía caminar. Al ver un árbol al costado de la carretera, se agarró al árbol y cerró los ojos. Confundido, el hombre de negocios oyó que alguien se decía a sí mismo: «No puedes dormir aquí, ¡te vas a congelar!» Tan pronto como abrió los ojos, resultó ser un hombre de mediana edad que recogió hierbas medicinales y dijo con enojo: «Dime que te lleve en brazos. Si no me llevas, no te preocupes por mí». El hombre de mediana edad sonrió y dijo: «No te enojes, ¡vete!» Mira la cara del comerciante mientras habla. Después de un rato, el hombre de mediana edad de repente tiró de la manga del comerciante y dijo: «¡Te ayudaré a ir!» El comerciante estaba impaciente y dijo: «Dije que no quiero que te ocupes de esto, ¿por qué me sigues molestando? Dormí un rato y me sentí descansada, y luego me fui cuando no estaba cansada». El hombre de mediana edad dijo: «No puedo dormir durante un tiempo. ¡Tengo que irme ahora!» A propósito de eso, independientemente de si el comerciante quería o no, lo detuvieron tan pronto como lo detuvo. El comerciante está furioso. Lo regañaron: «¿Por qué haces el tonto de esta manera? Estoy sentado bajo un árbol y no estoy en tu casa. ¿Puedes manejarlo?» El hombre de mediana edad meditó un rato, luego, de repente, agarró el bolso y el paraguas del comerciante y se fue. El empresario se puso de pie de un salto de inmediato. Lo regañaron: «Vaya, no me extraña que me sigas molestando para que no me vaya; ¡resulta que eres un ladrón!» Lo perseguí apresuradamente.
+El viento sopla y la nieve cae. El hombre de mediana edad camina hacia adelante. El empresario lo persiguió por la espalda. Poco después, el empresario respiró con las muñecas sudorosas.
+Una vez en la ciudad, el hombre de mediana edad entró en una farmacia. El comerciante se acercó y gritó: «Está bien, ladrón. Si entras en la tienda, yo también te atraparé». Los dos porteros salieron por la puerta, arrestaron al comerciante y lo regañaron: «Si no tienen miedo, ¿cómo se atreven a maldecir a la gente de aquí?» El empresario intentaba discutir, solo para ver a un hombre de mediana edad con un paraguas en una mano. Uno salió de la casa sonriendo y portando un bolso: «Ya has sudado lo suficiente, estás bien, vete a casa». A propósito de eso, devolví el paraguas y el bolso al comerciante.
+Este hombre de mediana edad es el famoso doctor Li Shizhen. Vio que el empresario se enfermó. Quería que sudara y se librara de su enfermedad, así que pensé en este método de fingir ser un ladrón.
+Traducido por IA   
+
+
+
+
+

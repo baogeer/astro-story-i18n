@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-19 11:58:44
+title: "Pu Songling and the Half-Lu Banquet"
+featured: false
+draft: false
+description: "Pu Songling received the Prime Minister's “Please Eat Half Lu” post. The other party taunted “fishing with mixed water,” but when he returned the invitation, he made the prime minister hungry for a day. It turned out that the lower half of “Half Lu” was a “day,” and advised the official to be as clean and honest as embracing the sun. The Prime Minister had an epiphany."
+---
+
+
+
+![AstroPaper I18n](/pu-songling-and-the-half-lu-banquet.png)
+
+
+
+
+ Pu Songling went back to her hometown of Pujiazhuang, where apart from teaching, she poured all her worries and indignation into “The History of Liaozhai” and never dealt with the government.
+One day, I suddenly received an invitation from the Prime Minister that said, “Please eat half a loo.” Pu Songling abhors such invitations. Ordinary people can't even eat food and become officials, and they only care about eating, drinking, and having fun. Then he said to the person who sent the invitation: “I am in poor health and can't go, please respond to the Prime Minister's understanding.” Her wife said to Pu Songling when she heard that her husband didn't go to the banquet and thought it was inappropriate, “One is that they have slaughtered the government and haven't forgotten their old friends; second, you and the prime minister have studied with the prime minister, you should go no matter what aspect you look at it.” Pu Songling meditated for a long time and finally decided to go to the banquet.
+When I arrived at the Prime Minister's house for a dinner, I only saw two maids bringing a pot of fish soup to the table. The prime minister said, “Please ask Brother Bao Han to stay clean and not involved in smoke and dust since entering the government. This is not a dinner party, but I want to ask my brother to try out how to mix water and fish; only by understanding this mystery can we enter the world.” Pu Songling was very displeased to hear this and thought life should be about sludge and not be polluted. So I thought of a way to return to Japan and respect the Prime Minister.
+After a few days, Pu Songling certainly hosted the Prime Minister in the same way. The Prime Minister was happy to go after receiving an invitation to “Please eat half of Lu”. I couldn't help but feel a sense of pity when I saw a broken house in my heart. The knowledge I had when I wanted to study with my peers far surpassed mine by several times, only because I had a temperament that I was dissatisfied with the hot and cool world and had no money to recruit examiners at all levels. Pu Songling, who wanted to get money and two bailouts, definitely refused to accept it. I only talked to the Prime Minister about old times, but I didn't mention going to the banquet.
+The prime minister felt hungry and went outside from time to time to look at the sun, but he didn't take a seat until the sun was westerly. The prime minister was so hungry that he couldn't hold back and asked Pu Songling: “When will my brother set up the feast?” Pu Songling casually answered, “After three meals a day, why should you set up a feast for half a day?” The Prime Minister suddenly had the word “Japanese” underneath Daiguru. I told him to eat the top but he told me to eat the head didn't mean the same thing. Isn't that the sun in his stomach when he eats it? Isn't that clearly advising me to be an official who embraces the sun? The prime minister understood the principles of being an official even though he had been hungry for a day.
+AI Translated   
+
+
+
+
+

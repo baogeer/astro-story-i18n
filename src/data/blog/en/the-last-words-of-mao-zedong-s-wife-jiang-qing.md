@@ -1,0 +1,44 @@
+---
+pubDatetime: 2026-11-15 03:42:59
+title: "The Last Words of Mao Zedong's Wife Jiang Qing"
+featured: false
+draft: false
+description: "While seeking medical treatment outside of Bao, Jiang Qing refused throat surgery, missed Mao Zedong, and wrote a memoir. On May 13, 1991, she wrote “I love you, Chairman! “Your students and warriors are here to see you”. He committed suicide by hanging himself with a towel rope in the early morning of the next morning. At the age of 77, no funeral was held."
+---
+
+
+
+![AstroPaper I18n](/the-last-words-of-mao-zedong-s-wife-jiang-qing.png)
+
+
+
+
+ On June 4, 1991, there was news that Jiang Qing committed suicide. In fact, Jiang Qing committed suicide on May 14, 1991. American writer R. Trier's “The Complete Biography of Jiang Qing” says: At 3:30, a nurse came in and found that she was hanging above the bathtub. The other doctors and nurses arrived in a hurry, but it was too late. This “white bone martyr”, an actor, politician, empress of literature and Mao Zedong's wife, died when she was 77 years old...
+Jiang Qing's avatar as “Li Runqing” refuses to have throat surgery
+The famous Qincheng Prison is located in the northeastern Qincheng Township of Changping County in Beijing. The east wing of the prison is completely closed to the outside world. Jiang Qing lives in a large suite. There are several gangs. She can read newspapers, listen to the radio, and watch TV. She can also knit her own sweater, read, and write. Jiang Qing's daughter, Li Ne, visits the prison every two weeks to bring her something.
+Jiang Qing is in poor health. On May 4, 1984, the relevant authorities informed her that she could seek medical treatment outside of bail, and then arranged for her to stay in an unobtrusive place.
+In December 1988, on the 95th anniversary of Mao Zedong's birth, Jiang Qing requested to organize a family reunion, which was not approved. She tried to commit suicide by swallowing 50 sleeping pills she had usually saved. After being discovered by guards, she was promptly rescued and escaped. After that, I stopped giving her sleeping pills.
+“The Complete Biography of Jiang Qing” records that on February 15, 1991, Jiang Qing's high fever did not go away at his residence in Jiuxianqiao, Beijing, and was therefore admitted to the public security hospital. Like other patients, Jiang Qing has to fill out an admission form. This time, she wrote the name “Lee Yun-ching.” This shows once again how much she misses her marriage to Mao Zedong. “Run” is a word used by Mao Zedong in his early years. “Li” is Jiang Qing's last name, and “qing” is Jiang Qing's “qing.”
+On March 18, Jiang Qinggao had a fever and lost a few pounds. She was transferred to a “set of wards” for inpatient treatment, which has a bedroom, bathroom, and living room. The doctor recommended surgery on her throat again, but she refused. She said, “I don't believe you would carelessly treat a proletarian revolutionary fighter.”
+Missing Mao Zedong
+As he grew weaker, Jiang Qing thought more often of Mao Zedong. She kept a handprint of Mao by her pillow, a picture with a fur coat on her clothes, and a picture of Jiang Qing and Mao Zedong taking a walk in the Zhongnanhai Sea in the morning on her bedside table. Every morning, when a new day begins, she has to memorize Mao's poems or read Mao's “Selected Collections.” When the Ching Ming Festival arrived, she asked to go to the Mao Zedong Memorial Hall in Tiananmen Square. At the same time, she asked for permission to bring a roll of white paper to the public security hospital. She could make a wreath for Mao Zedong. However, both of her requests were denied.
+Jiang Qing began rushing to write her memoirs. Every morning, after reading Mao Zedong's books, she sits at a small table with paper and pens. When she is happy, she also asks the nurse for advice on the topic of the manuscript she is writing in order to revise historical records. “How about “Chairman Mao's Loyal Warrior”? She asked the nurse, or, “A Life Dedicated to Mao Zedong Thought”! She will also think of a more challenging title: “Overcoming Revisionism and Building a New World.”
+On May 10, Jiang Qing tore up her memoir manuscript in front of the crowd and asked to go to her place in Jiuxianqiao. The act took everyone around her by surprise, but she was not allowed to do it. On May 12, Li Ne and her husband visited Jiang Qing at the hospital because they heard about Jiang Qing's situation, but Jiang Qing refused to see them.
+ 
+ 
+ Secret revealed: Jiang Qing's last words before committing suicide
+On May 13, Jiang Qing scribbled on the front page of “People's Daily”: “A memorable day in history.” Twenty-five years ago today, on May 13, 1966 during the Cultural Revolution, the Politburo held a meeting. The conference set a new line of struggle, and Jiang Qing was appointed head of the powerful Cultural Revolution Leading Group.
+After a while, Jiang Qing seriously wrote again: “Chairman, I love you! Your students and war zones are here to see you. Jiang Qing characters”. These are the last words she left when she was alive.
+Suicidal death
+At 1:30 a.m. on May 14, the nurse left Jiang Qing's bedroom. However, when the nurse on duty came in at 3:30, Jiang Qing had already exhausted herself. According to speculations, Jiang Qing took advantage of the nurse's departure to connect the handkerchiefs he had carefully left behind into a rope cover, then put on a quilt and pillow. Jiang Qing stood on it, placed one end of the rope cover on the iron shelf above the bathtub, and the other wrapped around her neck. At around 3 o'clock, he died of gas failure.
+Jiang Qing has attempted suicide many times. In the 30s, Jiang Qing talked about suicide because of a dispute with Donner. After her arrest in 1976, despair made her think about suicide again. In September 1984, a request to visit the Mao Zedong Memorial Hall was denied, and Jiang Qing put a chopstick in his throat. He was rescued because it was discovered in a timely manner. In May 1986, because she was unhappy with her situation, she used a few socks to tie a rope cover and put it around her neck.
+This time, Jiang Qing finally ended his life.
+“The Complete Biography of Jiang Qing” records that in the afternoon of the same day, Li Ne received the news and went to the hospital to sign a death notice. I don't know if it was because of Lee Ne's intentions, or because of the support of the Central General Office officials, Lee Ne agreed not to hold any kind of funeral. Three days later, on May 18, Jiang Qing's body was cremated. Li Ne was not present; Jiang Qing or any of Mao Zedong's other relatives were not present. Li Ne requested that the urn be given to her.
+At this point, all of China and the world knew nothing about Jiang Qing's death. In early June 1991, “Time” magazine reported the news to the world. “Time” magazine reports that according to unnamed “information from Beijing” on June 1, Jiang Qing “hanged himself.” The news also said that throat cancer was the reason for her suicide. A few days later, at 11:00 p.m. on June 4, the Chinese government confirmed the main content of the “Time” weekly report. The full text of the announcement is as follows:
+“Xinhua News Agency, Beijing, June 4: Our reporter learned that Jiang Qing, the main culprit in the 'Lin Biao and Jiang Qing Counter-Revolutionary Group Case', committed suicide at her place of residence in Beijing in the early morning of May 14, 1991 while seeking medical treatment outside bail. Jiang Qing was sentenced to death by the Special Court of the Supreme People's Court in January 1981, suspended for two years, stripping him of his political rights for life; his sentence was commuted to life imprisonment in January 1983, and he was released on bail for medical treatment on May 4, 1984.”
+AI Translated   
+
+
+
+
+

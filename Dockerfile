@@ -13,7 +13,7 @@ ENV AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} \
     AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY} \
     AWS_DEFAULT_REGION=${AWS_DEFAULT_REGION}
 COPY --from=base /app/dist /dist
-RUN aws s3 sync /dist "s3://guochuan-story/"
+RUN aws s3 sync /dist "s3://kilosites-folkstory/"
 CMD ["echo", "uploaded to s3"]
 
 
