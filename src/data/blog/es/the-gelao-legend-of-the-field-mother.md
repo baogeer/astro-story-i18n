@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-10 18:36:32
+title: "La leyenda de Gelao sobre la madre del campo"
+featured: false
+draft: false
+description: "La gente de Yilao obtuvo semillas de cereales de perros rescatados y recuperaron llanuras para obtener buenas cosechas. Más tarde, la tierra era pobre y no había cosecha, y el líder se transformó en un dios de la tierra. Comprendió que el campo era como una madre y que había que tratarlo con agua y fertilizantes. Desde entonces, se han cosechado las cosechas y la gente de Yilao utilizaba los campos como su madre y utilizaba pasteles para adorar a su madre todos los años cuando sembraban."
+---
+
+
+
+![AstroPaper I18n](/the-gelao-legend-of-the-field-mother.png)
+
+
+
+
+ La gente de Yilao vive en montañas y bosques. Después de muchos años, la cantidad de personas siguió aumentando y había cada vez menos animales salvajes en las montañas y los bosques. A veces, sus presas ni siquiera podían llenar sus estómagos, y la gente se ponía ansiosa y se esforzaba por encontrar comida nueva. En ese momento, el cielo estaba oscuro y pronto empezaron a caer fuertes lluvias, y el río al pie de la montaña donde vivían comenzó a crecer. Siguió lloviendo durante tres días y tres noches, y el río llegó a la ladera de la montaña. En este punto, los antepasados vieron a un perro luchando en la superficie del agua tratando de subir a tierra, por lo que los antepasados rescataron al perro. Cuando el perro desembarcó, corrió hacia el líder de los antepasados y se sacudió el mijo, el mijo y el baogu que se le habían quedado pegados a la espalda y que no habían sido mojados con agua. El líder cogió una bolsa de arroz y se la llevó a la boca, y sintió que era fragante y dulce, por lo que comprendió que se trataba de una nueva fuente de alimento para la tribu. Recolectó cuidadosamente las semillas restantes y llevó a la tribu a cultivar la tierra.
+Se especializan en encontrar terrenos llanos y fértiles para recuperar y plantar las semillas con cuidado. Por supuesto, su trabajo dio sus frutos. Con el tiempo, la tierra plana pronto fue recuperada por el pueblo de Yilao. Gracias a una nueva fuente de alimento, la gente de Yilao floreció rápidamente. Justo cuando la tribu estaba contenta con la prosperidad de la tribu, de repente, al cabo de un año, las semillas que habían plantado se volvieron amarillas y pequeñas, y no produjeron mucho alimento. Durante un tiempo, los ancianos, los débiles y los enfermos murieron de hambre. Los fuertes y fuertes tuvieron dificultades para desenterrar hierba silvestre.
+Para poder seguir sobreviviendo, el líder llevó a su pueblo a buscar a los dioses de las montañas, los dioses de los árboles y los dioses de la tierra, con la esperanza de obtener un buen año de cosecha el próximo año. Sin embargo, al año siguiente, las cosechas plantadas aún no se habían cosechado. El hambre hizo que la tribu fuera cada vez menos, y el líder no tuvo otra opción. Se sentó en un campo grande y lloró en voz alta. En ese momento, un anciano de barba blanca y cejas blancas entró flotando y le preguntó al líder por qué lloraba. El líder dijo: «Los cultivos que se han sembrado han sido confiscados. Viendo que las tribus murieron de hambre, ¿podemos dejar de llorar?» El anciano dijo: «Es tu culpa. ¿Hay alguna razón por la que un hijo no cuide a su madre?» El líder dijo: «No tenemos ninguno. Nuestra tribu siempre ha adorado a nuestros mayores. Nunca habrá nadie que sea infiel, ofenda a los dioses y tome represalias por ello». El anciano dijo: «El campo también es tu madre», y cuando terminó de hablar, se alejó. El líder entendió lo que quería decir el anciano, guió a la gente, abrió un canal para desviar el agua y repartió la tierra para fertilizarla. Como resultado, las cosechas volvieron a tener una buena cosecha. Resulta que el anciano era una encarnación del dios Tierra.
+Más tarde, la gente de Yilao no solo veneraba los campos como su anciana madre, sino que todos los años, durante la temporada de siembra, también utilizaban los alimentos producidos en los campos para hacer pasteles, esparcir incienso, quemar incienso e inclinar la cabeza en señal de adoración. El nombre es: Sacrifica a la madre del campo.
+Traducido por IA   
+
+
+
+
+

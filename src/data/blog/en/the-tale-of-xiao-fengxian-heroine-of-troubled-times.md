@@ -1,0 +1,36 @@
+---
+pubDatetime: 2026-11-01 12:18:46
+title: "The Tale of Xiao Fengxian, Heroine of Troubled Times"
+featured: false
+draft: false
+description: "In the early years of the Republic of China, Cai Yi was placed under house arrest in Beijing by Yuan Shikai and met the prostitute Xiao Fengxian by chance. The two conspired, and Cai pretended to be greedy for alcohol, causing Yuan Song to relax and take the opportunity to flee to Yunnan to protect the country and seek yuan. After Yuan's death, Cai died of illness, and Xiao Feng Xian was able to save the bond and persevere. The story praises Lan Shi Xia's female assistant hero, and her confidants are deeply affectionate."
+---
+
+
+
+![AstroPaper I18n](/the-tale-of-xiao-fengxian-heroine-of-troubled-times.png)
+
+
+
+
+ The Badahutong in the old Beijing area is a common meeting place for senior officials, businessmen, and businessmen to socialize.
+Xiao Fengxian from the Yunji class in Shaanxi Alley is a second-class girl. She has a normal posture, doesn't know how to offer favors, and often takes guests away.
+In the early years of the Republic of China, Cai Songpo served as the commander in Yunnan. Yuan Shikai was the president. He sought ways to win over Cai Songpo for his own use, while also secretly sending people to monitor him. Cai Songpo's revolutionary enthusiasm was quite high. He didn't want to be Yuan Shikai's lackey at all, but because of his power, he was helpless and sad every day. On this day, dressed as an ordinary businessman, he came to Yunjiban in Shaanxi Alley to relax. As soon as he entered the door, he glanced at Little Phoenix.
+Xiao Fengxian asked him what he did for a living. He lied about being a merchant. Xiao Fengxian laughed, “You have an extraordinary temperament. You are happy outside and depressed; you are definitely not a businessman.” Cai Songpo suddenly admired her. Looking closely at her appearance, she had no flirty demeanor, and her face was full of sincerity and confidence. When we first met, Cai Songpo was still wary and didn't respond positively to her.
+When they met this time, they were both a little surprised. Xiao Fengxian believed his eyesight and determined that he must be a hero, and Cai Songpo also felt that he might have found treasure in the garbage heap. After two days, he came to the door again. The two treated each other honestly and discussed a plan.
+In a short time, Beijing officials came to a conclusion: the hero is sad for beauty! Cai Songpo, who has always been hesitant and selfish, actually fell for a day when she was fascinated by prostitutes. He made a big fervent invitation to set up a bureau in Yunji, and all those invited were celebrities in the official arena at the time. Singing night and night isn't enough. He also worked hard on civil engineering and built a house for Little Phoenix. After the construction was completed, he married her as a concubine, and lived a beautiful, alcoholic life every day. His wife, Liu Xiazheng, advised, “You have always taken the affairs of the world as your duty; now how can you covet your voice and waste your ambitions!”
+Cai Songpo didn't listen to the advice; instead, he reprimanded his wife. The family got into trouble. Even Yuan Shikai heard about it. It didn't help if he quickly sent someone to mediate. Only then did Yuan Shikai relax his guard against Cai Songpo.
+Cai Songpo's wife and mother were so angry that they moved out of Beijing to live in the south. Yuan Shikai, on the other hand, stepped up preparations to claim the title of emperor. Cai Songpo knew that the Beiyang government would not let him go, so he deliberately spent the whole day riding a car with Xiao Fengxian. When he saw an opportunity, he boarded a train bound for Tianjin and fled to Japan by boat the next day. Naturally, Yuan Shikai was furious and sent someone to assassinate him. Cai Songpo has already arrived in Hong Kong. Soon after, he made a detour to Vietnam and entered Yunnan to organize the “Guarding Army” uprising to seek Yuan.
+Yuan Shikai couldn't resist internal and external attacks, claiming that the emperor died 73 days later. Li Yuanhong succeeded him as president, and Cai Songpo is the governor of Sichuan. Due to overwork, his health was getting worse, and Xiao Fengxian was still patiently waiting for him. But Cai Songpo never saw his confidant again. While seeking medical treatment in Japan, he died at Fukuoka Hospital at the age of 37.
+Little Phoenix was heartbroken after hearing the news. Cai Songpo's spiritual center was transported back to Shanghai and a grand memorial service was held. Little Phoenix sent two couplets:
+Unfortunately, Zhou Lang had a short life; Li Jing was known to be a hero.
+Wanli Nan Tianpeng Yi went straight ahead and shook hands. After suffering for the rest of his life, the Pingshui marriage became a dream; in a few years, Northern Rouge fell to grief and won a heroic confidant, and the peach blossom is also colorful.
+Xiao Feng Xian was repeatedly ostracized by Choi Song-po's subordinates and students, but she ended up with her endless thoughts about Cai Songpo.
+In the late Qing dynasty, 6-year-old Xiao Yunfeng's family had bad luck. His father, who was an official, was dismissed from office, investigated and prosecuted for dereliction of duty. He fell seriously ill and left behind. Three years later, her mother abandoned her daughter and remarried and left her hometown. Young Yun Feng became dependent on her nursing mother. Yun Feng accidentally fell into the water while washing clothes by the river when he was 10 years old. Famous people from Jiangnan saved each other with good intentions. Zeng Pu's teachings have turned Yun Feng into a handsome girl who is loved by people. Later, Zeng Pu funded her to attend a girls' school in Shanghai, but she was completely buried by the nurse's ignorant, greedy, and ferocious youth gang underworld forces. Fifteen-year-old Xiao Yunfeng was forced to fall into red dust and became a famous prostitute with the stage name Xiao Fengxian on the beach. Little Phoenix had no place for herself, falling into red dust. She had no choice but to quietly move to Beijing with her little sister Jinhong and enter the famous “Eight Great Hutongs”.
+In the early years of the Republic of China, Yuan Shikai wanted to restore the title of emperor and put Yunnan's governor Cai Yi and others under house arrest in Beijing. General Choi and Little Phoenix fell in love at first sight. At one point, the lace news of “General Tsai's Alcoholic Woman” spread all over Beijing. However, this is Cai Yi's good intention to “save the Republic and protect the country against the yuan”. General Tsai cooperated well with Xiao Fengxian, who was thought to be his “confidant,” and performed stories such as “The Presidential Palace Wishes Life to Find Fact” and “Saving a Wife and Saving Her Son to Court”. Xiao Fengxian deeply understands Tsai Yi's belief in “fighting for the personality of 40,000 compatriots” and respects General Choi even more. With the help of Xiao Fengxian and her foreign friends, Cai Yi finally got out of danger and moved to Yunnan.
+AI Translated   
+
+
+
+
+

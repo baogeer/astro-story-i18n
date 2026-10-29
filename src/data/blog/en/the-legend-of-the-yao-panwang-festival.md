@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-20 15:37:59
+title: "The Legend of the Yao Panwang Festival"
+featured: false
+draft: false
+description: "The Panwang Festival originates from an ancient Yao legend: it is said that on October 16, the daughter of Mirotua made a festival; there is also a festival where the dragon dog Panyu married a princess and became imperfect, then hunted down a cliff, and children made long drums to make sacrifices. The king of the festival became the core content, supporting memories of her ancestors and the origin of the nation."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-yao-panwang-festival.png)
+
+
+
+
+ There are many Yao folk legends about the Panwang Festival. There are two main types:
+one
+In ancient times when heaven and earth were floods, there were two equally tall Baoshan mountains in the mountains. They were one mile apart and faced off against each other. The one on the left is called Mount Brocy, which looks like a powerful man; the one on the right looks like a young woman in a dress, named Mount Milodha. Every year, these two mountains move one foot closer to each other. After 995, they* became 995 feet closer, and then moved 5 feet closer, and the two mountains were connected. One day, May 29 of the lunar calendar, an earth-shattering thunder suddenly sounded in the sky. The two mountains split two slits at the same time. Then, a tall man walked out of Mount Brocy, and a strong woman walked out of Mount Mirota. This day was the birthday of a man and a woman. They later became a happy couple. The man's name was Brocy, and the woman's name was Milot. They are the first pair of hardworking and intelligent parents who created everything in the world. After they created the world, they let their three daughters each go out to earn a living. The eldest daughter carried a rake to the plains to plow and rake fields, and became the current Han people; the second daughter picked a load of books to study and became the current Zhuang family; the third daughter took a bucket of valleys and a bronze gong that Mirotuo gave her, and went to the mountains to cultivate land. Since then, the three daughters have lived and worked peacefully in the mountains and have become the current Yao ethnic group. Therefore, the Yao people have lived in Takayama and Shenqing for generations, cultivated land, and Causeway has become the family heirloom of the Yao people. Mirothor is getting older. One day he brought back his three daughters and said to them, “October 16 is my birthday.” At that point, you will “feed” me. He also specifically ordered his third daughter to say, “You don't have any rich gifts. At that time, you only need to make a pot of rice wine and bring it to everyone to taste. On October 15, you should bring a causeway to the scene in advance.” Since then, the Yao people have had the “Panwang Festival”, which starts on October 15 and ends on October 17.
+two
+In ancient times, King Gao invaded, and King Ping took the lead. Whoever can defeat King Gao at the first level will marry the princess. This remark was heard by the dragon dog Pan Yu. Pan Yu took off the gold list and crossed the sea to go to Gao Wang's side. Panping pretended to be attentive and was favored by King Gao. One day, Pan Yu took advantage of Gao Wang's drunkenness to bite off King Gao Wang's head and dedicate it to King Ping, making great contributions, so he married the Three Princesses. Later, Panyu wanted to become a human, so she asked the princess to steam it in a steamer for seven days and seven nights, and the princess did the same. After steaming for six days and six nights, the princess had drowned her husband. When she secretly uncovered the lid, the pan actually turned into a human. It was just that in less than seven days and seven nights, there was still a lot of hair dust falling off her head and calves. Later, she wrapped her head and calves with a cloth. After Pan Yi became a man, King Ping sent him to Huiji Mountain to become king, known as King Pan. After their marriage, Pan Wang and the Three Princesses gave birth to six boys and six daughters. King Ping each gave them one surname, making them the first twelve surnames of the Yao people. Although Panyu is already king, he still lives a simple life, teaching children to work and hunt, and earn a living through hard work. At one point, Panwang and his six sons went up the mountain to hunt and chase an injured goat. Unfortunately, they were wounded by a sheep horn. They fell down a cliff and died. The body was hung on a tree. The children cut down the tree to make drums, peeled off the sheepskin, and covered it. They carried long drums and sang while beating and crying in memory of Panwang. To this day, the Yao people still maintain the habit of not eating dog meat, and sacrificing Panwang is also an important part of the Panwang Festival.
+AI Translated   
+
+
+
+
+

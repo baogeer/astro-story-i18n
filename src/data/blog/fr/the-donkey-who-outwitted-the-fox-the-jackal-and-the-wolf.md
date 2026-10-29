@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-11-04 13:54:02
+title: "L'âne qui a déjoué le renard, le chacal et le loup"
+featured: false
+draft: false
+description: "Les ânes ont été abandonnés dans la nature par leurs propriétaires. Lorsqu'ils ont rencontré des loups, des renards et des chacals, ils ont fait semblant d'être trop maigres pour manger l'année prochaine et en ont profité pour récupérer et grossir. Lorsque les Trois Bêtes sont revenues, l'âne les a piégés en leur mettant une corde autour du cou et les a étranglés en volant et en les traînant, et ont vécu librement à partir de ce moment-là. L'histoire fait l'éloge des faibles pour vaincre leurs adversaires puissants avec sagesse."
+---
+
+
+
+![AstroPaper I18n](/the-donkey-who-outwitted-the-fox-the-jackal-and-the-wolf.png)
+
+
+
+
+ Il était une fois un âne. Quand il était fort, le propriétaire n'avait aucune pitié et l'appelait au travail tous les jours. Plus tard, sa colonne vertébrale a été écrasée et ses deux jambes étaient molles. Le haut et le bas du corps présentaient tous des cicatrices de la taille d'un bol. Il semblait sur le point de perdre son souffle. L'impitoyable propriétaire a utilisé un bâton en bois muni d'un bras épais pour le conduire dans une nature sauvage où personne ne pouvait même voir son ombre. L'âne soupira longuement et ditxa0: «xa0Hélas, c'est le fruit de mon dur labeurxa0!xa0»
+Alors qu'il déplorait son sort, un grand méchant loup a conduit le renard et le chacal et a couru vers l'âne. Big Bad Wolf a ouvert la bouche, a bavé et a ditxa0: «xa0Hahaxa0! La nuit dernière, j'ai fait un rêve. J'ai rêvé que je mangeais de la viande chaude et que je buvais du sang rouge. C'était vraiment spirituelxa0!xa0» Quand le vieux loup a fini de parler, le renard et le chacal ont souri, ils devaient faire quelque chose. L'âne était humble et a ditxa0: «xa0Ohxa0! Mon malheureux animal a été abandonné dans la nature par son propriétaire. Au lieu d'avoir la malchance de vivre, il vaut mieux donner à chacun un repas complet et mourir à l'aise. Cependant, je suis très mince. Hormis mes os, je n'ai que de la peau. Tout le monde est venu gentiment me manger, mais j'étais vraiment gênée de le donner à tout le monde, et ça poignardait tout le monde dans la bouche si ça ne marchait pas. Dois-je attendre l'été prochain, quand je mangerai des herbes. La viande est grasse et épaisse, donc tout le monde en mangera à nouveau.xa0»
+Le renard a écouté et a continué à remuer sa longue queue pour exprimer son opposition. Il a dit à Big Bad Wolfxa0: «xa0Maître Wolf, tout le monde dit que les ânes sont stupidesxa0; ce n'est pas vrai. Il se rend souvent en ville pour transporter des objets, et c'est bien d'apprendre des autresxa0! Dites simplement ce qu'il vient de dire, attendez l'été prochain, et s'il s'enfuitxa0?xa0» L'âne a immédiatement réponduxa0: «xa0Sœur Fox, s'il te plaît, ne fais pas attention. Où puis-je m'échapper pour retrouver mon âne à la patte casséexa0? De plus, cette prairie est le pays des Maîtres Loups, et je ne peux pas courir si je le veuxxa0!xa0» Le renard a également habilement ditxa0: «xa0Heinxa0! Eh bien, pendant plus de six mois, que faites-vous quand le ciel tombe, que faites-vous quand la poussière vous enterre.xa0» Les ânes n'avaient pas d'autre choix que de rendre visite à quelques voisins en tant que gardiens. Les lapins garantissent que le ciel ne s'effondrera pas, c'est pourquoi leurs yeux ont toujours regardé le ciel jusqu'à présentxa0; les sangliers garantissent que le sol ne coule pas, ils ont donc toujours fredonné et regardé le sol jusqu'à présentxa0; le tourbillon garantit que la prairie n'accumule pas de poussière, alors jusqu'à présent, ils ont continué à nettoyer le sol...
+L'hiver est terminé, le printemps est làxa0; le printemps est passé, l'été est là. Après un repos suffisant, l'âne a mangé beaucoup d'herbe verte. Ses blessures étaient cicatrisées, ses jambes et ses pieds étaient confortables, sa fourrure brillait de mille feux et son corps était plein d'énergie.
+Ce jour-là, Big Bad Wolf a amené deux compagnons, Fox et Jackal, à manger exclusivement des ânes. Ils ont vu que les ânes étaient gros et épais, et ils ont eu faim un par un, se précipitant pour se précipiter sur les ânes. L'âne l'a bloqué à la hâte avec ses sabots et a ditxa0: «xa0Tout le monde, veuillez avancer lentement. Puisque tu veux me manger, je pense que tu devrais manger confortablement. Maintenant je suis si forte, je suis terriblement forte. Quand tu me mords, j'ai malxa0; quand j'ai mal, je hurle, je donne des coups de pied et je m'enfuisxa0! Alors, que pouvons-nous fairexa0?xa0» Le grand méchant loup, le renard et le chien chacal étaient également un peu inquiets lorsqu'ils ont vu que l'âne était si fort. L'âne y a réfléchi et a ditxa0: «xa0Tout le monde, allons-yxa0! Chacun de vous a une corde en poil de vache, en a mis une autour de son cou et l'autre attachée à ma taille. À ce moment-là, mon âne avait l'énergie d'un éléphant et je n'avais aucun moyen de riposter.xa0» Les trois ont pensé que c'était raisonnable. Le renard était tout de même très fier de direxa0: «xa0Écoutez, je l'ai déjà dit, les ânes ne sont pas stupidesxa0!xa0»
+C'est ainsi que le grand méchant loup, le renard et le chacal ont chacun trouvé une corde, en ont attaché l'une à l'âne et l'autre autour de leur cou. Dès que la corde a été attachée, l'âne a couru impuissant, transportant trois bêtes vicieuses, sur une colline et sur une autre colline. Le renard avait été étranglé il y a longtemps. La peau du chacal avait été coupée par une pierre et retournéexa0; seul le grand méchant loup a respiré et a réprimandé le renardxa0: «xa0Espèce de renarde, allonge-toi par terre et joue pour voir à quel point le petit frère du chien-chacal est dur, même en enlevant son pelagexa0!xa0» Le Grand Méchant Loup n'avait pas encore fini de parler, et l'âne a couru si fort qu'il a également été étranglé à mort.
+Depuis lors, les ânes vivent librement dans la nature sauvage depuis de nombreuses années.
+Narrationxa0: Yixi Dan Zeng, district de Chengguan, Lhassa
+Compte rendu du 20 avril 1979
+Modifié le 17/12/1981
+Traduit par IA   
+
+
+
+
+

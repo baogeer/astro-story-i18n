@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-19 21:41:19
+title: "The Tale of Diligence and Thrift"
+featured: false
+draft: false
+description: "Once upon a time, I had two brothers. One was Qin, who was willing to work but wasteful; the other was frugal, who could calculate but was lazy and didn't work. After splitting up, they worked hard and couldn't make ends meet; they were all poor and poor. My uncle woke them up: “You can't divide diligence and frugality; you can't stay frugal; you can't earn money if you're just frugal or not.” The two reformed a partnership, got along well, and had a prosperous family. The story shows that hard work and frugality must be combined; they are inseparable."
+---
+
+
+
+![AstroPaper I18n](/the-tale-of-diligence-and-thrift.png)
+
+
+
+
+ Once upon a time, the family had two sons. The name is Qin, and the second name is Jian. Although these two are twins, they have very different personalities. My son is diligent and willing to work hard. He can pick up all kinds of crops and put them down, but he just doesn't know how to save, and he spends money like water. My second son is thrifty. He is surprisingly lazy. He just wants to rest all day; he doesn't want to do any kind of agricultural work. However, his life is frugal, and he can't help but split his money into eight petals.
+The two brothers have different personalities. They must grind their teeth and quarrel. Under their father's training, bad things became good things. They can all demand others based on their strengths. Diligence is the opposite of frugality and laziness, no effort, no action. Naturally, frugality is also about the luxury, waste, and spending money on hard work. In this way, they restrict each other and encourage each other, and no one dares to easily raise their shortcomings. My brother is afraid of my brother's right; he doesn't dare to spend money easily; my brother is afraid that his brother will dislike it, and he also obediently gets up and work in the dark. As a result, the family had a prosperous and prosperous life. It soon became famous near and far. When the prefectural grandpa learned about this, he personally wrote a “diligent and thrifty” gold plaque for his family. Since then, this house has become even more famous all over the county, and no one knows about it.
+Later, the hardworking and thrifty father unfortunately passed away, and the conflict between the two brothers intensified more and more. I've finally reached a point where I can't live without being separated from my family. Under his uncle's presidency, in order to distribute the assets fairly, even the plaques with the title of the county grandpa were split in one and two parts, and everyone owned half of their own.
+Having split up, the two brothers are no longer afraid that no one is right, and they all act according to their own temper without hesitation. Although they have worked hard to cultivate, they have earned a lot of income, but their lives are thriving and earning one for two. Naturally, his days are very poor. Although thrifty makes careful calculations everywhere and saves money, since I sleep and don't work every day, my family doesn't make any progress, and I can't live well. Within a few years, everything we had when we split up was burnt out. The two brothers are shabby one.
+The brothers couldn't live on, so they had to go find his uncle again. My uncle thought about the days of the two brothers in the past, then looked at the current state of poverty, and came up with a reason. He said to his two nephews, “Since ancient times, there has been no distinction between diligence and frugality. If separated, they will become poor and poor. If you are only diligent and not frugal; no matter how rich you have, you are not active enough; if you are only thrifty or not diligent, and you can't earn a family business, what can you keep? I think you two are still together.” After listening to these remarks, both brothers realized their own shortcomings and the strengths of others, and agreed with their uncle's words. Since then, the two brothers have lived together again, and the plaques with the title of the prefectural lord have been put together and hung on the door. Soon, it became a well-known well-off family near and far.
+AI Translated   
+
+
+
+
+

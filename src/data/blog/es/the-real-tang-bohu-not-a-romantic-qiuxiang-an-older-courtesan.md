@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-28 15:55:58
+title: "El verdadero Tang Bohu: No es un romántico, Qiuxiang es una cortesana mayor"
+featured: false
+draft: false
+description: "La vida de Tang Bohu fue difícil. Fue a la cárcel por varios casos de fraude en el campo de la ciencia y la tecnología. Era pobre y vivía de la venta de dinero. Qiu Xiang tiene a alguien; es una mujer Qinglou diez años mayor que él. El folclore glorifica la fragancia otoñal de Tang Bohu considerándola un acontecimiento alegre, y detrás de ella se esconde una hermosa imaginación de personas con talento, más que una historia real."
+---
+
+
+
+![AstroPaper I18n](/the-real-tang-bohu-not-a-romantic-qiuxiang-an-older-courtesan.png)
+
+
+
+
+ Consejo básico: El verdadero Tang Bohu no es elegante. Se presentó al examen del municipio de Nanjing a los 29 años y obtuvo a Xie Yuan en primer lugar. Fue encarcelado y luego reprendido. Su vida fue dura y pobre. Se ganaba la vida vendiendo pinturas y era bueno pintando paisajes, flores, pájaros y mujeres. Sin embargo, Qiu Xiang tenía a alguien. Era una mujer famosa de Qinglou en ese momento. Era diez años mayor que Tang Bohu.
+4 de abril: durante el Festival Ching Ming, el periodista se enfrentó a la lluvia para visitar el cementerio Tang Yin en Suzhou, que ha sido reabierto al público, para adorar al conocido «El hombre más alegre de Jiangnan».
+El recientemente renovado Jardín Tang Yin cubre un área de decenas de acres. El ambiente tranquilo revela un poco de elegancia, silencio y elegancia. El Salón Taohuaxian es un estilo arquitectónico de la dinastía Ming. Tang Bohu vivió en Taohuadu, Suzhou, en sus últimos años, y también escribió la canción «Taohua-an Song». Este museo se adaptó y también contó con un «maestro de los melocotoneros»; el nombre Mengmo Tang proviene de Tang Bohu, que una vez construyó un pabellón Dream Mo en Taohua-an; Liurutang recibió el nombre de «Liu Ruju Shi» en la mediana edad de Tang Bohu.
+Desde el «Peach Blossom Fairy Hall», pasando por el «Museo de los Sueños» hasta el «Liurutang», el periodista no conoció a una sola persona. Solo había una estatua aislada de Tang Bohu, que llevaba un pañuelo, tenía un cepillo en la mano y tenía una mirada indiferente, mostrando burla en sus labios, lo revoltoso que era Tang Bohu en su vida, riendo y orgulloso. Acompañado por el emocionante sonido de un guzheng, ¡el mayor talento de este antiguo famoso Gangnam se siente realmente solo!
+Cuando llegué a la tumba de Tang Yin, una persona con talento permaneció inactiva durante mucho tiempo bajo un sello terrestre elevado. En medio de la lluvia torrencial, solo un anciano que vigilaba la tumba ocultó a Tang Yin en la oscuridad. Le dijo al periodista que son pocas las personas que van al cementerio de Tang Yin a quemar incienso los días de semana. Sin embargo, es un poco más popular durante el Festival de Qingming, pero la mayoría de las personas que lo visitan para adorar son personas mayores y casi no hay señales de jóvenes. Probablemente no sepan que a Tang Yin, Xu Zhenqing, Wen Zhiming y Zhu Yunming se les llama los «Cuatro talentos de Jiangnan», pero solo vieron al famoso adolescente Tang Bohu en dramas televisivos.
+De hecho, el verdadero Tang Bohu no es una persona bondadosa. Se presentó al examen del municipio de Nanjing a los 29 años y obtuvo a Xie Yuan en primer lugar. Fue encarcelado y luego reprendido. Vivió una vida dura y pobre. Se ganaba la vida vendiendo pinturas y era bueno pintando paisajes, flores, pájaros y mujeres. Sin embargo, Qiu Xiang tenía a alguien. Era una mujer famosa de Qinglou en ese momento. Era diez años mayor que Tang Bohu. Aunque «La fragancia otoñal de Tang Bohu Dives» es un folclore, se ha transmitido de generación en generación y perdura durante mucho tiempo. La gente prefiere aceptar la imagen artística ficticia de Tang Bohu que aceptar al verdadero Tang Bohu, que solo es talentoso y despiadado.
+En 1523 d.C., murió Tang Bohu, que solo tenía 54 años. Debido a su precaria situación familiar, lo enterraron en su antigua residencia de Taohuawu y, en el 22, se trasladó al actual emplazamiento de Jiajing. Una generación de personas con talento. Solitaria tras su muerte, la tumba de Tang Yin quedó cada vez más desierta durante más de 400 años. Hasta los años 50 del siglo pasado, se construyeron estanques y casas de piedra en el cementerio. En 1985, se restauró el antiguo edificio y se agregaron el Peach Blossom Fairy Hall, el Dream Museum y el Rikujudo. Al año siguiente, en el sur de la tumba se inauguró una sala de exposiciones conmemorativa de Tang Yin, que se abrió al público con el nombre de «Tang Yin-yuan», junto con la tumba, para recordar y animar a las generaciones futuras.
+En 1993, se construyó un «jardín de otoño» con una superficie de 15.000 metros cuadrados en el lado oeste de Tang Yinyuan. Tang Bohu, que había sido rechazado durante mucho tiempo, finalmente se hizo con la empresa de Qiu Xiang y «rompió el espejo y volvió a la vida» 500 años después. Algunas personas comentaron que la construcción del Jardín de Flores de Otoño dio a los talentos solitarios un poco más de calidez y cuidado.
+Por un lado, los cementerios reflejan el panorama cultural de la historia, la cultura y el arte de un país o región. Suzhou siempre ha sido un lugar de excelencia personal. No solo hay muchas tumbas de personajes famosos, sino que también están bien mantenidas. Estas tumbas de personajes famosos esparcidas por todo el lugar son un valioso recurso de turismo cultural y un lugar de educación muy raro para los jóvenes. Sin embargo, el periodista descubrió que, si bien las tumbas de las celebridades están debidamente protegidas, no se han desarrollado ni utilizado por completo. El número de personas que visitaron las tumbas de personajes famosos para adorar durante el período Qingming solo representó una proporción muy pequeña del millón de barrenderos de tumbas que hay en Suzhou, lo que es lamentable.
+Traducido por IA   
+
+
+
+
+

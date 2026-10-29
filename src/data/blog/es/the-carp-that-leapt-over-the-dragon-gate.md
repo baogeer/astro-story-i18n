@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-27 12:39:57
+title: "La carpa que saltó sobre la Puerta del Dragón"
+featured: false
+draft: false
+description: "Para dejar de ser un malvado dragón amarillo, Yu Gu recorrió montañas y agua en busca de hadas carpas, y regresó a su ciudad natal como una carpa roja. El día de la fiesta del dragón, fue el primero en saltar al vientre del dragón, perforar la tierra del dragón y morir. La gente del pueblo construyó un templo para conmemorar su dedicación al pueblo."
+---
+
+
+
+![AstroPaper I18n](/the-carp-that-leapt-over-the-dragon-gate.png)
+
+
+
+
+ Garganta de Miao, también conocida como garganta de Myokyo. Las dos majestuosas montañas Fénix, que drenan el agua y se encuentran en medio del río, son fascinantes puertas para dragones saltando carpas. Son animadas y espectaculares. Al entrar en el cañón, las dos montañas se encuentran una encima de la otra. Los acantilados son imponentes y los picos perforan el cielo; extrañas flores de roca compiten contra la pared, haciendo que el cañón parezca un país de las maravillas. Este mágico y hermoso cañón cuenta una historia hermosa y conmovedora.
+Hace mucho tiempo, los habitantes de las ciudades a orillas del río Longxi, hombres y mujeres, vivían una vida feliz viviendo y trabajando en paz. Hace un año, no sé por dónde entró volando un dragón amarillo gigante que cometió tantos males. O bien recurría al viento y la lluvia para destruir las cosechas, o bien tragaba nubes y niebla para matar a los seres vivos, dejando todo el cañón lleno de humo y sin paz. Cada año, el 6 de junio, el día de su cumpleaños, la gente se ve obligada incluso a regalar un par de niños y niñas, diez rebaños grandes y 100 cerdos, ovejas, etc. para que los disfruten. Si no fuera así, se enfurecería y actuaría con maldad, y correría a la aldea para devorar gente y animales, destruir el campo y hacer que la gente del río Ninghe se quejara y sufriera durante mucho tiempo.
+En la ciudad de Longxi, Xiakou, hay una niña inteligente y hermosa llamada Yu Gu. Decidió deshacerse de este malvado dragón. En algunas ocasiones, fue a Yuntai para buscar ayuda en Yuntai Fairy, pero nunca la encontró. Aún sin desanimarse, siguió buscando. Temprano esta mañana, subió a Yuntai. El hada se conmovió por el espíritu sincero de Yu Gu. Apareció frente a ella y le dijo: «Hay una cueva de carpas a miles de kilómetros de distancia. Puedes ir a conocer a un hada de las carpas y definitivamente ella podrá ayudarte».
+Yu Gu se despidió de Yuntai Fairy, caminó por montañas y agua y pasó por muchas dificultades. Llegó a la cueva Koi y encontró al hada de las carpas, lo que explicó su intención. Fairy Carp le dijo a Yu Gu: «Si quieres hacer daño a la gente, esto es genial, ¡pero tienes que sacrificarte! ¿Puedes hacer eso?» Yu Gu no dudó en decir: «Mientras mate a la gente del pueblo y extermine a ese dragón, incluso si llega a la montaña Dao y al mar de llamas, ¡estaré feliz de romperme los huesos!» Al ver la sinceridad y la determinación de Yu Gu, el hada de las carpas asintió con gran satisfacción. Le arrojó tres manantiales blancos a Yu Gu. Instantáneamente se convirtió en una hermosa y fuerte carpa roja.
+Little Red Carp remontó el río y, después de 7,749 días, regresaron a su ciudad natal. Ese día, en la madrugada del 6 de junio, cambió su apariencia. Vio que la gente del pueblo estaba lista: un par de niños y niñas, diez bueyes grandes y 100 ovejas y cerdos gordos. La gente tocó los gongs y los tambores, como un dragón largo que camina hacia la entrada del Dragón Amarillo. La pareja de niños y niñas vestidos con vestidos rojos que tenían delante ya había llorado hasta llorar.
+Cuando Huang Long vio a la gente entregando comidas para banquetes, ya estaba salivando y abrió la boca con orgullo. Justo en medio de un millar de viajes de pesca, Yu Gu salió corriendo y paró a sus padres y a la gente del pueblo y les dijo: «Dejen de esperar aquí y dejadme que vaya a limpiar esto tan perjudicial para la gente». Tan pronto como terminé de hablar, vi a Yu Gu saltar al agua y al instante se convirtió en una gran carpa roja. Voló directamente a la boca del dragón e inmediatamente saltó al estómago del dragón, apuñaló de este a oeste, adelgazando los cinco órganos del dragón. El malvado dragón luchó desesperadamente y rodó por todo su cuerpo, pero fue en vano, Yu Gu finalmente la mató. Sin embargo, la propia Yu Gu fue enterrada en el vientre de Huanglong.
+Desde entonces, la gente de Ninghe ha vivido una vida pacífica y feliz. La gente construyó un templo de carpas en medio de la ladera de una montaña en Xiakou para recordar a Yugu ante la gente. La historia de carpas que saltaban a la puerta de los dragones todavía está muy difundida en todo el río Ninghe.
+—— De «La leyenda de las Tres Gargantas»
+Traducido por IA   
+
+
+
+
+

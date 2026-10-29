@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-21 18:30:32
+title: "The Legend of Heaven, Earth, and the Three Rivers"
+featured: false
+draft: false
+description: "The legacy of Nu Wa Butian was turned into Changbai Mountain, and the Queen Mother diverted the Tianhe River into Tianchi. Heilong and Bai Long were deviled to Tianchi for peeking at the fairy's bath. Later, after receiving an intercession from the fairy, Yu Emperor Mingerlong left the Tumen River, Yalu River, and Songhua River under Changbai Mountain to nurture the mountain's ginseng, thus explaining the origin of the three rivers."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-heaven-earth-and-the-three-rivers.png)
+
+
+
+
+ This little story is about: Heaven and Earth and the Three Rivers.
+Legend has it that Nu Wa Tien used a five-colored divine stone that accidentally fell to the ground and became a stone peak. It gradually grew taller and became the famous mountain in Kanto, Mount Changbai.
+On this day, the seven daughters of Mother Wang stepped on Xiang Yun and landed on Changbai Mountain. They toured the mountains and visited the scenery, and it was almost dark before they left. The seven sisters returned to Tiangong and reported the situation on earth to Mother Wang. The next day, Mother Wang drove to Nantianmen. Looking down, the scenery was beautiful. She smiled and said to her daughters, “Look, the place surrounded by mountains and shaped like a silver basin is a great place to bathe and cleanse yourself.” The eldest daughter said, “Too bad there's no water!” Wang Mu laughed and said, “This valley is a treasure. If it can draw water from the sky, this pool can live with the sky and coexist with the earth.” After speaking, she pulled off her golden hairpin, and the water from the Tianhe River rolled down. Soon, the deep valley was filled with water, and Tianchi appeared. From this point on, Tianchi became a place for fairies to purify themselves and play.
+One day, the seven fairies came to Tianchi to take a bath again. It just so happened that the black dragon and white dragon walking through the clouds passed by here. They saw the fairies taking a bath in Tianchi. They were fascinated, and even forgot to return to Tiangong on time. Emperor Jade blamed the crime and sent a dragon general to catch the black and white dragons and hold them guilty. Black and White Dragons had no choice but to honestly admit it. As soon as Emperor Jade heard it, he called back his daughters and never allowed them to go to Tianchi to take a bath. He also devalued the black and white dragons and locked them in Tianchi, leaving them hungry and hungry. I don't know how many years have passed. One day, the fairy of Bangzue came to Changbai Mountain to sow seeds and grow ginseng with a gold bowl in her hand. She scattered the grains of ginseng on Changbai Mountain, and a group of mackerel birds with the ginseng seeds flew in all directions.
+From here, Changbai Mountain has had wand birds, and ginseng has taken root in the mountain.
+After passing through Tianchi, the fairy of the stick saw the black and white two dragons sigh. She hurriedly fell down the rainbow and asked why Erlong was sigh. Erlong told her that they were both demoted for violating the rules of heaven. “Kindly fairies, please talk to us in front of the Jade Emperor and let us go back to Tiangong.”
+The wand fairy returned to Tiangong and invited Emperor Jade. When the Jade Emperor did the math, 8,000 years have passed, and 10,000 years is still 2,000 years short. Taibai Jinxing played on the sidelines: “If you grow a treasure ginseng on Changbai Mountain, why not let black and white dragons work for you.” When Emperor Yu Huang heard Taibai Baixing's sensibility, he immediately ordered the black and white dragons to leave a large river under Changbai Mountain to nurture the mountain's ginseng.
+Black and white dragons took the lead, and spewed clouds and fog under Changbai Mountain, opening up mountains and digging mountains.
+They have been working for a full three years. Heilong has opened out two rivers, one Tumen River, and one Yalu River; Bailong has opened out a curved Songhua River with long and wide grooves. Both sides of the Songhua River are full of yellow stones. The bottom of the river is covered with colored black stone and is solid. Ordinary people say it is the “copper gang iron bottom” Songhua River. The above is a check
+AI Translated   
+
+
+
+
+

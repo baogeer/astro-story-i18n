@@ -1,0 +1,53 @@
+---
+pubDatetime: 2026-11-19 11:42:59
+title: "Mulan Takes Her Father's Place in the Army"
+featured: false
+draft: false
+description: "During the Northern Wei period, because her father was old and her younger brother was young, Mulan resolutely dressed up as a woman and joined the army for her father. She fought in the sand field for 12 years and achieved many successful battles, but after winning, she resigned from Tianzi for the award and only wanted to return home. After returning to her daughter's attire, her old partner was surprised that she was a girl. The story praises the heroism of a woman who has both loyalty and filial piety and does not admire Ronghua."
+---
+
+
+
+![AstroPaper I18n](/mulan-takes-her-father-s-place-in-the-army.png)
+
+
+
+
+ The story of Mulan has spread far and wide, and has been well received for over a thousand years, yet there are still many legends about her last name, her home, and her birth year.
+Regarding her last name, some people say her last name is Zhu, others say her surname is Mulan, while others say that her last name is Wei. In “The Legend of the Four Sounds of the Apes,” Xu Wei from the Ming Dynasty said that her last name was Hua, the name Mulan. Her father, Hua Wan, was a reserve military officer, older sister Hua Mulian, younger brother Hua Xiong, and her mother's name was Yuan, a family of five. This is a statement that is still accepted by everyone.
+As for her birth year, Yao Ying said in “The Journey of Kang Wei” that she was from the time of Emperor Xiaowen to Emperor Xuanwu; Song Xiangfeng's “Guo Ting Lu” says that she was from the time of Emperor Sui Gong, and in Cheng Damao's “Yan Fanlu,” it is said that she was from the early Tang dynasty. Comparatively speaking, the claims of people from Northern Wei are more reliable.
+When it comes to her hometown, Yao Ying thinks she is from Liangzhou. Hebei's “Wanxian Zhi” says she is from Wanxian County, “The Chronicles of Daqing” says she is from Dongwei Village, Qiao County, Yingzhou, and others say that she is from Songzhou or Huangzhou. Henan Province's “Shangqiu County Chronicles” says that she is from Song Village, Qiuhua, which seems reasonable to say “Shangqiu County Chronicles.”
+But no matter what you say, as the “History of the Development of Chinese Literature” says: “To test this nonsense, there is really no value in ignoring it; it's enough for us to know that Mulan is a representative of a heroic woman from the North.”
+Indeed, the story of Mulan has spread to the present, mainly due to the great singing of the folk song “Mulan's Song”. This long narrative poem praises Mulan's legendary story of a woman dressed as a man to join the military for her father. The poem is written like this:
+Chirping again and again, the magnolia was hanging around the house. I didn't hear the sound of the machine shaking, but I heard the woman sigh. Ask women what they think, ask women what they remember; women have nothing to think about, and women have no memories. I saw the military post last night. Khan was a big fighter. There are 12 volumes of military books. The volumes include grandpa's name. Grandpa has no elder children, and Mulan has no elder brother. He is willing to sign for Shi Kurama, and he will take his place from now on.
+East City buys horses, West City buys raccoons, South City buys horse mackerel, and North City buys long whips. When I left my grandma, I went to the edge of the Yellow River at dusk. I didn't hear my grandparents calling out to me, but I heard the water splashing in the Yellow River. But instead of going to the Yellow River, I stayed at the top of Mount Hei. I didn't hear the grandma calling the girl, but I heard Yanshan Hu Qiming tweet.
+Thousands of miles to the military aircraft, Guanshan is like flying. Shook qi passed on to gold analysis, and cold light shone on the iron coat. The general died in a hundred battles, and the warriors returned for ten years.
+When I came back, I saw Tenshi. Tenshi sat in the Ming Hall. He made 12 turns, and the top 100 were rewarded. Khan asked what he wanted; Mulan didn't need Shang Shulang. I wish to go the extra mile and return my children to their hometown.
+Grandpa heard the girl come and get out of Guo Xiang's support for general. Sister Ah heard her sister come and get her makeup done at home. Little brother, Sister Wen, sharpened the sword at the pigs and sheep. Open my East Gate and sit on my West Wing bed. Take off my wartime clothes and put on my old clothes. When the window decoration is cloudy, the mirror decal is yellow. When I went out to see my partners, they were all shocked. We've been together for 12 years, and I don't know if Mulan is a girl!
+The male rabbit's feet are fluttering, and the female rabbit's eyes are confused. Two rabbits walk next to the ground. An can tell me that I am a male or female.
+In the poem, Tianzi is called “Khan,” and the battle sites were all in the north. Not to mention the Yellow River Gu; Montenegro killed Hushan, in the southeast of present-day Hohhot in Inner Mongolia. Yanshan refers to Mount Yanran, which is present-day Mount Hangai in the People's Republic of Mongolia. The battle in which Mulan participated occurred between Northern Wei and Rouran.
+Northern Wei was founded by the Tuo Ba tribe of the Xianbei people. Western Jin was crowned king during his first year and later destroyed by Lu Jian. Fu Jian lost in the Battle of Lishui, and the Tuo Ba clan restored the country and changed its name to “Wei.” After 50 or 60 years of war, the Ten Kingdoms period of “Five Hulls and China” ended and unified the Yellow River basin. It has been 86 years since Emperor Xiaowen of Northern Wei. After five emperors, Emperor Xiaowen advocated Han culture in the Central Plains, moved the capital to Luoyang, and implemented a Chineseization policy. Today, most of the “Yuan” surnames are descendants of the Northern Wei royal family. At the time, Chengping had a long time, and under the policy of Emperor Xiaowen, social and economic development, Mulan lived in such a society.
+At this time, the northern nomadic powers that had been founded 158 years ago were under attack, that is, Rouran continued to invade the south. The Northern Wei regime “drove out of the east road and headed for Montenegro” many times, “to Yanran Mountain in the north, three thousand miles north.” Fight against Rouran.
+The war spawned British women, and when there were no male heroes in the world, there would be female heroes. If there were no prominent men in the war between Northern Wei and Rouran, there was an outstanding female hero, Mulan.
+The beginning of “Mulan's Poems” explains the urgency of the military situation at the time: “Khan has a big army,” and “12 volumes of military books,” and in Mulan's family, apart from her elderly parents, her younger brother, how could an aging father go on an expedition to kill the enemy, yet the call of the motherland was unspeakable. Faced with this double test, Mulan stepped up: “I would like to recruit for Ichikurama, for Grandpa from now on.” Mulan's good daughter, her will to serve in the military for her father is actually a combination of love for her father and loyalty to the motherland. It is an expression of the true character of a female hero.
+Mulan is about to go on an expedition. She “buys horses in East City, Sai City buys saddle, South City buys head, and North City buys long whips.” It was so urgent and tense, so high morale. She said goodbye to her granddaughter in the morning and stayed on the banks of the Yellow River at night. The marching was rushed, the military situation was tense, and military orders fell like a mountain. As a young girl, she left the boudoir and went to the battlefield; why did she enter another world. In the midst of the twilight, a female warrior lay back and waiting for Dan. What a desolate and sad state of affairs. “The Yellow River splashed.” “Yanshan Hu Qi tweeted.”
+“The general died in a hundred battles, and the warriors returned for ten years.” It can be seen that the battles are very frequent, and the years have been very long. With so many generals on the battlefield, it is very difficult for Mulan to come back alive. That's it:
+The northerly wind shook the desert, and Hu Bing served; the commander took over the enemy;
+Wild trees flag; Sichuan return team training; the focus of the law is frightening, majesty and life are poor;
+They were astonished, and the host and guests were friendly, and the mountains and rivers were dazzled;
+Sound analyses mountains and rivers, and thunderstorms collapse. Even if poor and dark, it's a harsh corner of the sea;
+There is no snow, hard ice is needed. When the weather is bitter and cold, the weather is strong,
+Killing the Mausoleum to kill each other by cutting them apart. Heavily intercepted, and the attackers took over; a new captain surrendered, general
+Military annihilation; dead bodies were buried on the shores of Palembang, and the caves of the Great Wall were filled with blood.
+... The birds are silent and the mountains are silent; the night is long and the wind is getting weaker, and the sky is full of souls.
+Ghosts gather in the clouds, the sun is cold and the grass is short, and the moon is bitter and frosty white.
+Mulan is back, and it's not easy. She values the value of life and knows the warmth of family even more. She refused the reward from Tianzi, and did not want to be an official in the DPRK, leaving behind her glory, wealth, and softly. She was willing to go a thousand miles and return to her hometown as soon as possible.
+She came back. Her elderly parents helped her out and greeted her. Her older sister greeted her with makeup, and her younger brother sharpened Huo Huo's knife to greet her sister's return with practical actions. Seeing all of this, Mulan was sincerely happy. How difficult it was to be born and die in a 12-year sand field. Twelve years of disguise without showing a trace, how difficult it is, yet all of this is past. How great must Mulan's inner spiritual strength be.
+The days have settled down, and her friends from the past have come to see her again. She always pretended to be her daughter every time. To her frightened partner in the past, Mulan said in her heart, “Do you know? In the past, I fought hard against the battlefield with you and achieved great success; I am a girl who didn't want to be Shang Shulang after returning to North Korea.
+To give back my daughter's true colors, Mulan is so proud.
+AI Translated   
+
+
+
+
+

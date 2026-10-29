@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-08 02:08:13
+title: "The Legend of the Little State of Teng"
+featured: false
+draft: false
+description: "Teng Xiaoguo was flooded, and a giant dragon lay on its side to block the water to save people. Teng Wang's son suspected that the dragon was the culprit and shot the dragon in the left eye. Teng Wang quickly denounced his crime and led the crowd to kneel down and ask the dragon to stay. Longben wanted to leave, but in the end he persisted until the water retreated because he couldn't bear the suffering of the people. After the incident, Dragon King was sad and declined the banquet, and Teng Wang ordered people to live in Longshen Jianmiao Town, which later became a bustling county. The story satirizes a world where resentment is used to repay morality and power to suppress people."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-little-state-of-teng.png)
+
+
+
+
+ Dongtencheng Suo is known as “Teng Xiaoguo.” Because there used to be a “Teng Guo” here, Teng County is also named after that.
+Legend has it that more than 2,000 years ago, it was overcast and rainy for more than half a month. Many houses have been flooded, and the water has all reached the knee. The water in the Yellow River continues to rise above the ground. Finally, the Yellow River broke down, and “Teng Xiaoguo” was seen by the flood. People were terrified. A dragon suddenly fell from the sky. The dragon lay on its side, about ten miles long, and blocked the flood. People hurriedly told Teng Wengong that Teng Wengong brought ministers and his son to visit.
+Teng Wang's son is around 20 and is proficient in all kinds of martial arts. He saw that dragon, which had surprisingly big eyes, seemed to show a sense of ferocity. He thought: Dragons can swallow clouds and fog, and it will rain again. The flood this time was its fault. He pulled up his bow and put all his strength on the dragon eye to shoot. An arrow was inserted into the dragon's left eye, and blood flowed out of the eye, dyeing all the water red. Teng Wang's son pulled up his bow again, and when he was about to shoot him in the right eye, Teng Wang hurriedly knocked out the arrow in his hand and loudly denounced, “Little pervert, you have caused a big disaster; you haven't kneeled down and pleaded guilty to Grandpa Long.” After speaking, Teng Wang knelt down, and the ministers also knelt down with him. Everyone also fell to their knees, and Grandpa Xiao Wang had no choice but to kneel down with him.
+The dragon shed tears. He thought that in order to protect people's lives and property, he was instead shot by Grandpa Xiao Wang. His heart was broken, and his eyes hurt so much that it was unbearable. It was better to just leave the matter himself. People are crying bitterly: “Dragon Prince, you must not leave! As soon as you leave, we're all done! Please feel sorry for us.” Its heart is soft again, yeah! As soon as I left, so many people would die. It kept it there until the flood receded.
+Teng Wang hosted a banquet to entertain Dragon King. Dragon King was heartbroken, didn't come to the feast, and decided to leave here. Teng Wang personally took it, but he refused to come. Teng Wang knew he couldn't keep it, so he came up with a solution: order skilled craftsmen from all over the country to build a temple on the dragon king's head while he was resting, and put the town there. As a result, Teng County gradually became prosperous and became a famous county in the country.
+AI Translated   
+
+
+
+
+

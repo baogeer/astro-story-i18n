@@ -1,0 +1,36 @@
+---
+pubDatetime: 2026-11-17 08:22:55
+title: "Madame White Snakexa0: une beauté paradisiaque mariée à un homme stupide et infidèle"
+featured: false
+draft: false
+description: "White Snake Jing, Bai Suzhen, adorait le monde et est devenue une amie proche de l'érudit Xu Xian. Xu Xian a écouté les accusations de Fa Hai et a trahi sa femme, la faisant écraser par la pagode Leifeng. Xiao Qing l'a secourue, mais la bêtise de Xu Xian a rendu White Lady malheureuse de rencontrer des gens, a fait la satire de Tien Xian pour sa stupidité et a révélé la mentalité égoïste des hommes qui profitent des femmes."
+---
+
+
+
+![AstroPaper I18n](/madam-white-snake-a-heavenly-beauty-wed-to-a-foolish-faithless-man.png)
+
+
+
+
+ Auteurxa0: Hou Hongbin
+Bai Niang Zixa0: À la découverte de l'affairexa0: volume 28 de la «xa0Notice d'avertissementxa0» de Feng Menglong, «xa0Tour Bai Niangzi Yongzhen Leifengxa0». Les esprits des serpents bleus et blancs du mont Emei envient la vie sur Terre. Elles sont devenues de jeunes filles, Xiaoqing et Bai Suzhen, et ont visité le lac de l'Ouest. L'universitaire Xu Xian et Baek Su-jeong se sont rencontrés, sont tombés amoureux l'un de l'autre et sont devenus une famille après avoir été jumelés par Xiaoqing. Le moine du temple de Jinshan a trompé Xu Xian et a divorcé de sa femme. Xu Xian a écouté les insultes, a abandonné sa famille et s'est enfuie de Jinshan. Baek Su-jeong s'est rendu à Kanayama Sufu, et le pont a été brisé lors d'un combat avec la mer de France. Plus tard, Fa Hai a utilisé la force pour séparer le couple et a écrasé Baek Su-jeong sous la tour Leifeng. Xiaoqing a invité les généraux divins à incendier la tour Leifeng et à sauver Baek Su-jeong. «xa0La légende du serpent blancxa0» est un célèbre opéra chinois. Chen Liulong, originaire des Ming, a écrit «xa0La légende de la tour Leifengxa0», et le peuple Qing a écrit les paroles «xa0La légende du démon vertueuxxa0».
+Avant, il y avait une chose que je tenais toujours pour acquise. C'est-à-dire que Tien Xian doit épouser un idiot, une famille riche doit épouser un pauvre salaud et une bonne fille doit épouser un méchant. Grâce à l'éducation et à l'éducation soigneuses de la classe prolétarienne, c'est justexa0; c'est beauxa0: il suffit de blâmer tous les maux de l'ancienne sociétéxa0; il est difficile de séparer les gensxa0!
+Il y a d'abord eu le vacher et le tisserand. Le vacher est très pauvre. Il possède probablement certaines qualités que seuls les travailleurs ordinaires possèdentxa0: honnête, sincère et stupide. Le tisserand, quant à lui, est une fée céleste. Elle est jeune, belle et a un esprit intelligent. Cependant, le tisserand aimait beaucoup le vacher. Elle a épousé tous les vachers sans autorisation et a donné naissance à deux enfants. Le plus pitoyable, c'est que parce qu'ils n'avaient pas le consentement du père de Weaver, ils n'ont jamais obtenu de permis de séjour temporaire, se sont mariés et n'ont pas pu vivre ensemblexa0; ils n'ont pu se voir qu'une fois par an.
+Ensuite, il y a Dong Yong et les Sept Fées. Dong Yong était si pauvre qu'il s'est vendu comme esclave. Il était stupide et n'avait aucune réclamation. Les Sept Fées sont magnifiques. Ils connaissent la loi des fées, sont intelligents et mignons. Ils ont également un groupe de sœurs tout aussi belles pour les aider à combattre les forces du mal et à reprendre Dong Yong. Le mari et la femme sont retournés dans leur famille.
+Il y a aussi White Lady et Xu Xian. Le serpent blanc est beau et étonnant, intelligent et capable, et immuablexa0; Xu Xian est stupide et stupide, facile à tromper et irresponsable, et n'a rien réalisé. Xu Xian a trahi sa femme. Elle s'est toujours battue pour sa vie, la mort pour lui et pour lui.
+Les Occidentaux possèdent le prototype de Cendrillon, et la plupart d'entre nous ont pour thème «xa0Grey Boyxa0». Les hommes veulent qu'une tarte tombe du ciel. Ils veulent profiter de leur pauvreté, de leur stupidité et de leur honnêteté en échange d'une femme qui ressemble à une fleur, riche et puissante, qui a une noble lignée et qui prend l'initiative de la livrer à la porte. Une belle femme aux bonnes manières, comme la Conch Girl, et de pauvres enfants se sentent mal à l'aise. Je ne pense pas que ce soit une personne célèbre.
+En fin de compte, même si les générations successives de masculinité chinoise ont donné aux hommes tant de pouvoir et de personnel, ils ont toujours l'impression que leurs pieds sont faibles et qu'ils n'ont aucun contrôle sur leurs propres capacités et leur destin. Si vous y réfléchissez, laissez les femmes prendre les devants. Rentable.
+Après avoir pratiqué pendant mille ans, Bai Niang Zi est devenue une belle femme, a prêté un parapluie à Xu Xian, puis est tombée amoureuse de ce jeune homme. Après cela, Xing Xing s'est lancé tête baissée à la poursuite des autres et l'a formé, passant du statut de garçon de pharmacie à celui de propriétaire d'une grande pharmacie. Dès qu'elle l'a surprise à l'intérieur et à l'extérieur, Xu Xian a été stupéfaite et a regardé cette femme, qui ressemblait à une fée, faire tout pour lui. Plus tard, il a redonné à White Lady sa forme originale et a bêtement invité la mer de France à la capturer. Cependant, la Dame Blanche a risqué sa vie à plusieurs reprises pour sauver Xu Xian, mais a finalement été écrasée sous la tour Leifeng.
+Hormis le fait que le vacher et Dong Yong n'ont pas de mauvaises intentions (vous savez, c'est juste parce qu'ils n'en ont pas eu l'occasion). Je ne vois pas leurs méritesxa0; en gros, toutes leurs revendications et décisions sont mises en œuvre par leurs copines. Même l'amour est très passif. Xu Xian, quant à lui, a essentiellement concentré tous les défauts d'un petit écrivain chinoisxa0: stupide, lâche, réaliste, déloyal, passif et ne rien faire. C'est une personne honteuse qui a réussi.
+Si quelqu'un prétend que Xu Xian a un cœur bon, alors, Seigneur, s'il te plaît, enlève la gentillesse qui est en moixa0; je ne me joindrai pas à ce genre de personne.
+Lorsque Bai Niang Zi était malheureuse, c'était parce qu'elle voulait être une bonne femme au sens traditionnel du terme. Eh bien, elle ne le sait pas vraiment. La plupart des règles du jeu dans le monde sont établies pour que les autres puissent les voir. Ce sont précisément ceux qui ont causé le plus de mal à ce monde, mais qui n'ont pas de mauvaises intentions, mais qui sont ignorants, indifférents, faibles et pleins de droiture. Celui qui a brisé le cœur de White Lady n'était pas Fa Hai, mais Xu Xian. Même en temps normal, quelles langues Bai Niang Zi et Xu Xian peuvent-ils parlerxa0? Quel genre de vie heureuse peux-tu avoirxa0?
+Dès que le vacher et Dong Yong ont eu des problèmes, ils étaient probablement à peu près les mêmes que Xu Xian.
+Faye Wong chante bien la chanson «xa0Meteorxa0»xa0: «xa0Tu es un vacher, j'ai peur d'être tisserande. Quittez-vous et brillez secrètement les uns avec les autres. Je ne veux pas être empêtré comme ça, ne vous détruisez pas. Cela fait trop longtemps, je veux m'évader de cet univers si doux. Je suis un météore qui n'a qu'un seul espoirxa0: te quitter, me retrouver et disparaître magnifiquement.xa0»
+Rencontrez ces hommes, courez vite, courez aussi loin que possible.
+Traduit par IA   
+
+
+
+
+

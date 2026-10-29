@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-03 21:01:09
+title: "Une jeune mariée, un vieux mari et une guerre bizarre"
+featured: false
+draft: false
+description: "La princesse Cai Guo Tsai Ji a été mariée au vieux Qi Huan Gong par son frère et a été expulsée parce qu'il avait irrité Huan Gong en faisant du bateau et en le faisant basculer de façon ludique. Cai Hou l'a également mariée à Chu Chengwang. Qi Huan était en colère et a vaincu Cai Gaochu, puis a pris sa retraite de l'armée parce qu'il avait quitté l'armée sans nom. Une guerre est née de l'obstination du vieux mari, qui faisait la satire de l'autoritarisme et des drames enfanteurs."
+---
+
+
+
+![AstroPaper I18n](/a-young-bride-an-old-husband-and-a-bizarre-war.png)
+
+
+
+
+ 【Résumé】: En tant que princesse Cai Guo, elle a été traitée comme un cadeau de la part de son frère Tsai Mu-hou pour montrer sa bonne volonté envers le grand pays, et a épousé Qi Huan Gong. À l'époque, Choi Ji n'était qu'une adolescente, et Qi Huan Gong...
+Choi Ji n'était pas Helen, mais elle a déclenché une guerre. Bien sûr, ce n'était pas sa fautexa0; c'était juste parce qu'elle était jeune et invincible, folle et mignonne, mais elle a épousé un petit vieillard qui ne pouvait pas se tenir debout.
+Le mariage de Tsai Ji avec un vieil homme n'était pas volontairexa0; il était déterminé par la force nationale. En tant que princesse Cai Guo, elle a été traitée par son frère aîné Tsai Mu-hou comme un cadeau d'un petit pays pour montrer sa bonne volonté à un grand pays, et a épousé Qi Huan Gong. À l'époque, Choi Ji n'était qu'une adolescente et Qi Huan Gong était un vieil homme qui pourrait être son père.
+Selon «xa0Historical Recordsxa0», «xa0Huan Gong est doué à la maison et possède de nombreux animaux domestiques, comme les six de sa femmexa0». On peut voir que Qi Huan Gong était une personne chanceuse. Vieil mari et jeune épouse, Qi Huan Gong avait également de la sympathie pour Choi Ji au début. Tsai Ji a une personnalité vivante, aime rire et se moquer, et n'est pas une femme.
+Une fois, elle est allée faire du bateau et pagayer avec le Qi Huan Gong, et tout en s'amusant, elle a versé de l'eau sur le Qi Huan Gong. Qi Huan Gong, qui est vieux et a toujours conservé sa dignité, n'est pas habitué à ce genre de gameplay, mais il n'est pas en colèrexa0; il rit juste. Mais plus elle jouait, plus Tsai Ji devenait folle. Soudain, le bateau a basculé. Cela a effrayé Qi Huan Gong. Il s'est énervéxa0: «xa0Ne secouez pas, ne secouez pas.xa0» L'apparition effrayée de Qi Huan Gong était probablement très drôle. Tsai Ji n'avait aucune intention de s'arrêter et a continué à se promener. En conséquence, Qi Huan Gong était furieux et a renvoyé Choi Ji à Cai Guo le lendemain.
+Celui qui voulait s'amuser sur un coup de tête a fait une telle affaire. Après la déportation de Choi Ji vers Cai Guo, Tsai Mu-hou était très en colère et a estimé que le Qi Huan Gong ne donnait vraiment aucun visage à Cai Guo. En conséquence, il a pris l'initiative de marier Tsai Ji au roi Chu Cheng de Chu. Le roi Chu Cheng ne savait pas qu'il avait épousé la femme divorcée de Qi Huan Gong. Il aimait Tsai Ji et l'a nommée sa femme. À l'origine, devenir une bonne chose était considéré comme une mauvaise chose. La poussière est tombée, mais Qi Huan Gong le savait.
+Qi Huan Gong a appris que Tsai Ji, qui avait été déporté par lui-même, avait épousé quelqu'un d'autre. Perdant consciemment son visage et extrêmement agacée, elle a décidé d'attaquer Cai Guo et Chu Guo afin de retrouver son visage. Cette hégémonie du printemps et de l'automne est certainement autoritaire. En fait, il n'autorise pas les femmes divorcées à se remarierxa0; pour cette raison, il a également battu leurs nouveaux maris.
+Après tout, il y avait une énorme disparité dans la force nationale et Cai Guo a rapidement perdu la guerre. Tsai Mu-hou s'est enfuie précipitamment vers Chu. Qi Huan Gong ne voulait toujours pas se reposer et a directement ciblé le nouveau mari de Tsai Ji, le roi Chu Cheng. Lorsque les soldats Qi sont arrivés dans la ville, selon la convention, Qi a dû expliquer «xa0au nom du démarrage d'une carrièrexa0», car «xa0avoir fait faillite sans nomxa0» est souvent ridiculisé, et cela semblait également immoral. Les habitants de Chu ont été très surpris. Ils pensaient que l'attaque de Chu par Qi était tout simplement «xa0hors de proposxa0»xa0: même si les chevaux et les vaches excités de Qi s'affrontent, ils ne pourront pas atteindre Chu. Qi Huan Gong, pourquoi es-tu ici tout ce tempsxa0?
+Face à ce genre de question, Qi Huangong était bien sûr gênée de dire que ce n'était pas pour autre chose, seulement que Chu Chengwang avait épousé mon ex-femme. Il n'avait pas d'autre choix que de dire que c'était parce que «xa0Chu n'a pas donné le Shanggong occidental au Zhouxa0» parce que «xa0Zhou Zhao et Wang sont morts inexplicablement dans le pays de Chu lors de leur visitexa0» (ce sont des Chu qui ont raté son bateau et l'ont noyé). Les habitants de Chu ont riposté et ont ditxa0: «xa0Zhou Zhaowang est mort. Demandez-nous ce qu'il faut fairexa0? Tu devrais demander à Han Shuixa0!xa0»
+Plus tard, Qi a envoyé le Premier ministre Guan Zhong et Chu a envoyé Qu Wan pour tout gâcher. Finalement, la classe est retournée en Corée du Nord parce que la logique de Qi était mauvaise et que les raisons étaient insuffisantes. Une bataille sanglante a été épargnée. Comme vous pouvez l'imaginer, si cette guerre éclate, la responsabilité finale incombera probablement à Choi Ji. Les gens jugeront cette femme innocente de la même manière qu'ils jugeraient Helen, la satiriseraient pour avoir «xa0fait le tour du paysxa0» et la réprimanderaient pour avoir «xa0le visage rougexa0».
+En fait, en parlant de ça, ce n'est rien de plus que la farce de Qi Huan Gong. Lorsque les jeunes femmes épousent des hommes plus âgés, en plus de leur statut et de leur solidité financière, c'est aussi souvent parce qu'elles ont traversé de nombreuses vicissitudes et qu'elles sont pacifiques et tolérantes, qu'elles savent comment chérir le jade et qu'elles acceptent leur immaturité. Cependant, Qi Huan Gong, un vieil homme, n'a pas un haut niveau d'intelligence émotionnelle. La moindre affaire entraîne un divorce. C'est vraiment ridicule.
+Extrait de «xa0Those Love and Sadnessxa0» Petroleum Industry Press
+Traduit par IA   
+
+
+
+
+

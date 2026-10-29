@@ -1,0 +1,64 @@
+---
+pubDatetime: 2026-11-27 08:53:38
+title: "The Strange Murder Case"
+featured: false
+draft: false
+description: "Financial manager Wang Nanyan impulsively spent 60,000 yuan to hire a murderer because of an argument with the general manager, and later regretted reporting the crime. Unexpectedly, the general manager died in a car accident. She surrendered herself after absconding for fear of crime. The police discovered that the accident was a coincidence and had nothing to do with buying the murderer. They repented and punished them lightly. The story warns that impulses can easily destroy others and destroy oneself, and that one should be tolerant and calm."
+---
+
+
+
+![AstroPaper I18n](/the-strange-murder-case.png)
+
+
+
+
+ Author: Red Bean
+This afternoon, a richly dressed middle-aged woman came to the Guanghua Road Police Station in Suyang District of Qingjiang City and said that there was an important case to be reported. The woman was received by the old police officer He Guangming, who had been in the criminal police for 20 years.
+The middle-aged woman said that she was Wang Nanyan, the finance manager of Weiye Computer Co., Ltd., and she received news that someone wanted to murder Zhu Yunwang, the general manager of their company.
+He Guangming and his assistant Ronaldinho looked at each other and asked, “How do you know about this situation.”
+“This...” Wang Nanyan hesitated, and Zhi Zhi Wu said for half a day. “Anyway, this is definitely true. As for how I know, don't ask.”
+Next, no matter what He Guangming asked, she wouldn't say anything more. After checking the records of the confessions, He Guangming had to let Wang Nanyan leave the police station.
+He Guangming then reported the incident to the leaders in the office. He felt that Wang Nanyan's attitude of speaking didn't seem like lying. Furthermore, her making up such a lie was of no benefit to her. He therefore suggested that the matter should be believed or not, and that it would be too late to wait until something happened before taking action.
+Finally, after research, the station decided to protect Zhu Yunwang and invited him to the police station to assist in the investigation.
+Zhu Yunwang is a middle-aged man in his forties. He is bald and has a bulging stomach. He is typical of an upstart. After hearing his comrade at the police station explain the situation and asked him if he had a feud with others, he smiled vigorously and said, “We businessmen pay the most attention to peace and wealth; how can we get into war with people. However, business bumps are inevitable. But it wouldn't cost me my life for that.” Hearing the news provided by Wang Nanyan, the financial manager of his own company, he paused, then smiled and said, “I recently had a bit of a conflict with her at work. Maybe she scared me on purpose.”
+After Zhu Yunwang left, He Guangming was unsure whether he wanted to come and go. He sent his assistant Ronaldinho to track down and protect Zhu Yunwang.
+Ronaldinho drove a Beijing jeep and stared at Zhu Yunwang's big run, and always followed close behind. When the car arrived at the relatively remote Qingfei Road, a large truck suddenly rushed across the street and rushed straight up. Ronaldinho's voice “ah” was still spinning in his mouth. The two cars had already collided, and the Big Bang was seriously distorted and deformed like a rubber model car. The truck stopped for a moment and quickly sped away. Because it was already getting dark, Ronaldinho kept his eyes wide open and didn't see the truck's license plate number clearly; he only vaguely saw that the last three numbers were 848.
+Ronaldinho secretly shouted bad. He rushed over quickly, protected the scene first, then immediately called He Guangming to give a brief introduction to the situation here. As soon as He Guangming heard the cry, he quickly rushed to the location of the accident.
+When He Guangming arrived, Zhu Yunwang had already been carried away by 120 ambulances. Ronaldinho told He Guangming that Zhu Yunwang died on the spot. He Guangming frowned and resolutely said, “Upload Wang Nanyan soon.”
+When Wang Nanyan heard that Zhu Yunwang had died, her face changed dramatically, but she still refused to say the source of the news no matter what. He Guangming had no choice. Because it was too late, I had to let Wang Nanyan go home and repeatedly advised her to think carefully and cooperate with the investigation.
+The next day, after investigating the employees of Weiye Computer Company one by one, no suspicious people were found, and He Guangming decided to talk to Wang Nanyan again.
+Who knows, at this point, it was discovered that Wang Nanyan had disappeared, and neither the company nor her family could find her in sight. He Guangming thought, according to the information she provided in advance, apparently she might know the inside story of this incident? Did she disappear for fear that her killer would kill someone? Or was she already exterminated by her killer?
+The investigation is at an impasse.
+Now, the only clue is that Ronaldinho saw that the last number of the truck's license plate number was 848. Police officers went to the Transportation Bureau and checked all trucks with a final number of 848 in the city. There were 36 trucks in total. After nearly a month of difficult investigation, He Guangming focused their attention on a truck with the number Qingqing A3848. The owner of the truck was a businessman. He provided a clue that his car hired a young man named Gou Jinzhong, nicknamed “Pippi Dog”, as the driver. However, this “Pippi Dog” suddenly disappeared a month ago, and they didn't even ask him for his salary. Only later did he notice serious impact marks on the truck.
+It was determined that this car was the one responsible for Zhu Yunwang's car accident.
+Based on the information provided by the car owner, the police officers went straight to Jinzhong's hometown and arrested the “Pippi Dog” who had gone home to avoid the limelight.
+During the interrogation, faced with a large amount of evidence, Gou Jinzhong admitted that his truck hit him. He said that on the day of the accident, he drank some alcohol, was a bit confused, and somehow hit the car. He was shocked at the time. He hurriedly saw that there were no people around, so he drove away.
+Things are clear, but what does He Guangming always think is wrong? If this was an accident, how could Wang Nanyan know in advance? And why did they sneak away after that? However, the investigation revealed that Gou Jinzhong and Zhu Yunwang were two completely different classes of people. There was no reason for Gou Jinzhong to murder Zhu Yunwang.
+At this point, there was an unexpected gain. The thief caught in a theft case, took the initiative to confess that “Hualong”, a bastard he is familiar with once while drunk, that he recently took over a business to kill the boss of a computer company called Zhu Yunwang, in order to compromise his credit.
+He Guangming asked, “Why do you remember your name so clearly?”
+The thief said, “Because I thought it was funny at the time, I thought I'd still be lucky; it won't be strong soon. Can I still prosper after losing my life? What do you say?”
+He Guangming also asked, “Do you know who made him kill him?”
+The thief said, “I haven't seen it, but I heard Hualong say that the manager, surnamed Zhu, is still a woman. ”
+He Guangming was taken aback: is it her? Wang Nanyan? Could it be that she absconded for fear of crime? But on second thought, it's wrong. Since she paid a large sum of money to have Zhu Yunwang killed, why did she report the crime? Isn't that money floating around?
+While everyone was struggling with this incident, Wang Nanyan unexpectedly surrendered herself.
+Wang Nanyan confessed that it was indeed she who hired someone to murder Zhu Yunwang. Because she recently had a big disagreement with Zhu Yunwang over one of the company's budgets, Zhu Yunwang, who has an aggressive personality, scolded her in crude language in front of the crowd at the company's high-level meeting. Wang Nanyan, who has strong self-esteem, feels that she has been greatly humiliated. She got drunk at the bar that night. A bastard named “Hualong” took the opportunity to chat. After hearing Wang Nanyan talk about what had happened, she encouraged Wang Nanyan to “wipe out” Zhu Yunwang's hate. Wang Nanyan, who was furious, could stand up to his repeated temptations. He was so excited that he decided to ask “Hualong” to help him find a killer and kill Zhu Yunwang at a price of 60,000 yuan. After receiving the money, “Hualong” promised that she would get the matter done as soon as possible.
+“If that's the case, why are you reporting the crime to the police station?”
+Wang Nanyan said that finding someone to kill Zhu Yunwang in the first place was because she was impulsive, but the more she thought about it, the more afraid she became. She knew that it was a crime of killing her head. She had already divorced her husband and had a son who was still an adult. If something happened to her, what should she do with her child? The more she thought about it, the more she was terrified and finally decided to cancel the murder plan. However, she couldn't find “Hualong” at all. There was no way to go back and forth. She had no choice but to come up with a dangerous trick and report the crime to the police station. She thinks that as long as the police keep Zhu Yunwang's life, even if the killer is caught confessing to her, since the consequences are not serious, I don't think there will be much crime.
+But beyond her expectations, Zhu Yunwang actually died. She was afraid, and when she came back from the police station that night, she packed up her things and ran away with her child. However, the feeling of fear and trepidation on the run was really uncomfortable. What made her even more uncomfortable was that a 13-year-old child also followed her in the crime. Having understood the law a bit, she knows that it is not an option to continue like this; it is best to go back to the beginning.
+Wang Nanyan was arrested in accordance with the law.
+Gou Jinzhong was re-examined. He adamantly denied that he had received money from “Hualong” to murder Zhu Yunwang. He didn't even admit that he knew “Hualong”; he insisted that the car accident was just an accident.
+He Guangming found it a bit difficult. As a result, there is no direct evidence pointing to Wang Nanyan to prove that Zhu Yunwang's death was related to her. It seems that currently the only way is to find a “flower dragon”. He Guangming and his colleagues squatted at Wang Nanyan's favorite bar for a long time, and they didn't even see the shadow of “Hualong.” Looks like this kid has slipped away.
+In a hurry, Ronaldinho reports that the neighboring city caught a bastard nicknamed “Hualong” in a crowd gambling case and immediately notified them because he saw a joint investigation report from the Qingjiang Public Security Bureau. He Guangming was so excited that he immediately sent someone to bring back “Hualong” from the neighboring city. After a surprise investigation, “Hualong” finally handed over everything.
+The truth of the incident was far beyond the expectations of the police officers.
+Hualong admitted that Wang Nanyan did give him 60,000 yuan to help him hire someone to kill Zhu Yunwang, but Zhu Yunwang's death had nothing to do with him. At the time, he took the money and ran away; he didn't do anything for Wang Nanyan at all. He thought that Wang Nanyan was a weak woman and had no connection with the underworld; the money was swallowed for nothing. For insurance purposes, he quickly left Qingjiang City with his money.
+The truth is clear. Zhu Yunwang's car accident was just an accident, but I didn't expect it to cause a huge coincidence and almost put Wang Nanyan on the guillotine.
+As for Wang Nanyan's act of buying a murderer, it was thought that it had nothing to do with Zhu Yunwang's death, and showed that he regretted surrendering. After education, he was then imprisoned for three months, and the amount of 60,000 yuan was confiscated according to law.
+He Guangming said with great emphasis to Wang Nanyan, “People always encounter all kinds of conflicts in their lives in society. We must learn to be calm and tolerant, and we must also learn to cherish life. A moment's impulse destroys not only others, but also myself and my loved ones!”
+Wang Nanyan was tearful and nodded profusely.
+AI Translated   
+
+
+
+
+

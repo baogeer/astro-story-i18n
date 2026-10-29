@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-02 01:39:39
+title: "Nuevas historias extrañas de Internet, segunda parte"
+featured: false
+draft: false
+description: "Este artículo describe una serie de anécdotas de Internet: algunos internautas propusieron matrimonio a primera vista; algunas parejas virtuales finalmente se separaron; algunos aviones rescataron la embajada a distancia; algunos almacenes negros marcaron claramente los órganos; también hubo fantasmas femeninos que desaparecieron después de charlar en línea a altas horas de la noche, y se reunieron con poetas extranjeros la noche del Festival del Medio Otoño. La historia revela que el mundo virtual es a la vez mágico y peligroso, al igual que la versión moderna de «Liao Zhai»."
+---
+
+
+
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-two.png)
+
+
+
+
+ [Matrimonio Senri]
+Leí los periódicos a principios de año y escuché que personas del Norte se reunían con personas del Sur en Internet. Se conocen muy bien. A primera vista, el hombre sostuvo flores y le propuso matrimonio; la mujer realmente estuvo de acuerdo, y el matrimonio de mil millas terminó siendo algo bueno. Jiang Lang dijo: «Hay innumerables citas en línea, pero pocas tienen éxito, pero el matrimonio de las mil millas en realidad involucra a quienes están en primera línea, ¡ay!
+[Esposa neta]
+Al principio, Shengmu acechaba en cierta comunidad, conoció a una mujer del «Ángel Azul Profundo» e hizo un trato con ella. El día 1, Lan dijo: «Te conozco. Afortunadamente, quiero formar una Mandarin Alliance y conectarme con Jun Online, ¿puedo?» Sorprendida, dijo: «¿Qué tan divertido es el evento del matrimonio?» Dijo: «Internet es irreal y también es una broma. No he probado el matrimonio; si quiero probarlo, espero que estén de acuerdo». Después de mucho trabajo duro, la vida estaba bien. Acepta casarte un día determinado y a una hora determinada en una sala de chat. La exposición dio a conocer a los internautas de la comunidad, y fue muy impactante. En ese momento, había varias personas en todo el mundo, como el testigo, damas de honor, padrinos de boda e invitados. Nací con Net Wife Blue. Los dos charlaban en línea día y noche, se consolaban y eran muy cariñosos. Más tarde, Lan fue superada en número por otros países. Comenzaron a sumar puntos y luego se desmoronaron. Jiang Lang dijo: El matrimonio en línea es imprescindible, ¿o también es una tendencia humana japonesa?
+[Rescate]
+Había pasajeros que iban y venían en avión (en avión), y el viaje era solitario. Estaban charlando sobre ICQ en Internet y, de repente, alguien cerró la puerta con llave y dijo: «Estoy en peligro, señor, sálveme». El cliente se sorprendió y preguntó: «¿Quién más?» Dijeron: «También hay un funcionario extranjero, unos ladrones han secuestrado la embajada», advirtió el Sr. Lo. Se interrumpió antes de que se dijera. Aunque el cliente se mostró escéptico, no esperó; inmediatamente le pidió al capitán que llamara a los militares. Cuando el avión aterrizó, me enteré de que habían robado a un enviado extranjero. Afortunadamente, los militares y la policía los rescataron rápidamente y se evitó el peligro. Al principio, sabía que lo que se decía era cierto.
+[Tienda negra]
+Alguien entró en una pequeña parada y dijo: «Carnicería». Es una persona diferente. Tiene una entrada extraña, o «Una cabeza humana, 35 dólares estadounidenses». O: «Ojos, veinte dólares». Si es así, hay casi 100 entradas, que cubren órganos humanos, todas a un precio detallado. La gente lo duda; piensan que es virtual, es decir, piden un par de «orejas» por 5 dólares estadounidenses. Después de un tiempo, enviaron un paquete de correo y lo abrieron, pero estaba lleno de sangre y la gente lo escuchó. Hubo más exasperación, es decir, alertaron a la policía y la tienda negra desapareció. Jiang Lang dijo: Aunque el panorama de Internet es ilimitado, también hay suciedad escondida en él. Agregar maldad es una cuestión de poca importancia; envenenar a los niños es algo importante.
+[Adiós a Vivian] (Edición Yumei)
+Lin Sheng, también originario de Shanghái, tiene un pequeño capital extranjero, está aislado sexualmente y no habla bien; solo le gusta el chat en línea. La persona que intentó reunirse con Vienne por la noche debe llamarse Duras's, según dicen Lin Yi. Cada conversación dura hasta el final de la noche, como en marzo y abril. El año que viene, Lin concertó una cita, pero An Ke se negó amablemente. Lin es muy desconfiado. Shiyou trabaja para Telecom, y Tocha dijo: «No existe esa persona». Por la noche, no había señales de extinción.
+[Poeta]
+Siempre recuerdo deambular por Internet a altas horas de la noche durante el Festival del Medio Otoño. En la primera sala de chat, había tres invitados. Uno era un «taoísta adicto», el otro era un «fanático del Chu» y el otro era «El chico de la camisa roja». El chat en línea estaba en pleno apogeo. Dijo: «Para el Festival del Medio Otoño, ¿por qué no nos reunimos en línea y disfrutamos de la luna?» El invitado dijo: «Durante el Festival del Medio Otoño, habla sobre poesía bajo la luna. ¿Por qué no dices que hay visitantes de lejos?» El niño dijo: «Todas las palabras del hermano de Dao, Chu, fueron admirables. Sin embargo, los tres tomaron una copa y guardaron silencio, y ahora han llegado invitados. ¿Por qué no escriben inmediatamente un poema para ayudar a Ya Xing?» Todos los invitados y los taoístas dicen que todos son únicos, arrogantes, hermosos o elegantes y elegantes. Todos son extraordinarios. Todos han nacido del polvo y no carecen en absoluto de escrúpulos. Por desgracia, es contundente; aunque cabe en el mazo de hadas, no soporto mi pico. De la noche a la mañana, los tres se separaron y nunca se conocieron. Solo sé que el profesor de historia también vivió recluido en Sudamérica por primera vez.
+Traducido por IA   
+
+
+
+
+

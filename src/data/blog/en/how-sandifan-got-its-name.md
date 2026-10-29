@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-18 21:06:46
+title: "How Sandifan Got Its Name"
+featured: false
+draft: false
+description: "In the early years of the Tang dynasty, Emperor Meng Yang surrendered to Tuban and changed the name of his station to Sandifan to join forces with Tuban to attack Nanjiao. Tang Jiuzheng led Tang Bing to join forces with the Nanzhao Army to defeat the enemy army at Shimenguan, and made an iron pillar of credit. The story reflects the devastation caused by greed and war."
+---
+
+
+
+![AstroPaper I18n](/how-sandifan-got-its-name.png)
+
+
+
+
+ There is a small village called Sandifan next to Shimen Pass in Yangyi. According to a local old man, this place was called Sandifan a long time ago. Why was this place called Sandifan before? I still have to start at the beginning.
+Legend has it that when the six dynasties of the Tang dynasty ruled, Yang Yi belonged to the territory of the Meng Yang dynasty. Emperor Meng Yang was an ambitious man. He saw that King Nanzhao had the fat Dali Bazi, Cangshan Mountain, and Erhai Sea, and had countless beautiful concubines, yet he lived a poor life on the western side of Cangshan; even though he was the lord of the dynasty, he ended up not as rich as a minister under King Nanzhao. As a result, Emperor Meng Yang was already salivating over Dali Bazi, which was ruled by King Nanzhao. He harassed the Nanzhao border when he had an opportunity, and was repulsed by Nanzhao Wang three or five times again.
+Therefore, Emperor Meng Yang held a grudge against King Nanzhao even more. He never stopped doing anything, simply surrendered the Tibetan king of Tuban Zhitusong, and changed his place of residence to the three Tibetan languages. In order to obtain the treasure land of Nanzhao as soon as possible, Emperor Meng Yang stepped up recruitment in the three regions to buy horses to stock up on food, train the army, and be ready to attack Nanzhao at any time. After a few years of spring and autumn, Meng Yangzhao trained his army well, so he led his troops over Cangshan Mountain to attack Nanping. Since it was winter, the Cangshan Mountain was snowy and cold, and the soldiers were overworked; instead, they were beaten back in a hurry by Nanzhao soldiers and horses.
+Imperial Lord Meng was even more angry and vowed to destroy Nan Yu. He spent the night riding a horse to Zitusong in the Tibetan king of Tuban. He hoped that Zitusong would send troops to attack Nanping with himself, and promised that if they defeated Nanzhao, the two would share the Nanzhao River. Zhi Tusong heard that it was profitable. What's more, it was known that Nanzhao had fertile and rich land, beautiful women like clouds, and all kinds of treasures. This was really a big pie falling from the sky. The opportunity was rare, so he promised to help the Meng Yang dynasty attack King Nanzhao in one fell swoop. As a result, they brought troops straight to Mengyang, set up camp in the three regions, and then sent envoys to the king of Nanzhao to lay down the battle books. At that time, Tang Jiuzheng, the imperial envoy of the Tang dynasty, brought troops to attack Tufan. When he heard the news, he said to Nanzhao Wang that he was willing to lead the Tang dynasty army and the Nanzhao army to jointly destroy the soldiers and horses of Meng Yang and Tuban soldiers and horses to protect the safety of Nanzhao. King Nanzhao was very happy, so he took up the war book and met the Sanji Dao Soldiers on the western slope of Diancangxi.
+In the first year of Tang Jinglong (AD 707), Tang Jiuzheng led Tang Bing, Southern Zhaobing, Tuban Soldiers, and the Meng Yang Imperial Army to fight in the Three Difan and Shimenguan. The battle was fought in the dark, with no light on the sun and the moon. In the end, the Tang coalition forces won the victory in Nanping. Tang Jiuzheng then set up a large iron pillar at the Sandifan and Shimen Pass, and recorded in detail the circumstances of this battle. Soon, the descendants of Emperor Meng Yang colluded with Tuban to make a comeback, so they destroyed the Iron Pillar.
+The word “fan” has two pronunciations that can be read as bo or fan. Over time, posterity read Sanji fan (bo) as a trifecta (fan). Today, people also call Sandianfang the Three Dianfang.
+Narrator: Ma Shuzhen
+Record: Shu Sheyu
+AI Translated   
+
+
+
+
+

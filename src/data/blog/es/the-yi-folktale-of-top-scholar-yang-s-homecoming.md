@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-03 13:26:18
+title: "El cuento popular Yi del regreso a casa del mejor académico Yang"
+featured: false
+draft: false
+description: "Yang Zhuangyuan intentó dimitir sin éxito y apostó por romper dos barriles de jade que el emperador apreciaba. Afirmó hábilmente que «no se puede tener dos barriles (unificar) el mundo» y la rebelión de la tribu, exonerando del crimen y buscando matrimonio. Para regresar a Bijiguan (Yunnan), afirmó falsamente que los mosquitos habían asolado su ciudad natal, engañó a los investigadores y regresó a su país cuando lo deseaba. En el camino, también juzgaron a la mujer que sembraba ovejas, para demostrar su ingenio y sus buenos argumentos, utilizando su sabiduría como motivo para buscar ovejas. La historia satiriza el poder y el ingenio, y elogia el ingenio rápido de la gente."
+---
+
+
+
+![AstroPaper I18n](/the-yi-folktale-of-top-scholar-yang-s-homecoming.png)
+
+
+
+
+ Zuo Wenguang habla sobre la colección de u2002u2002u2002 Zuo Dehui
+Yang Zhuangyuan quería renunciar e irse a casa durante mucho tiempo. Se lo dijo al emperador varias veces, pero el emperador no estuvo de acuerdo.
+Un día, una tribu envió dos barriles de jade, que al emperador le gustaron mucho. Si alguien quisiera herir a Yang Zhuangyuan, apostaría con él si se atrevería a romper un barril de jade. Yang Zhuangyuan dijo que había algo que no se atrevía a decir. Cuando levanté el barril de jade, lo estrellé contra los escalones de piedra. El barril de jade se convirtió instantáneamente en grava. Más tarde, el emperador se enteró de que estaba furioso y quería ser castigado. Yang Zhuangyuan dijo: «El mundo solo puede gobernarse con uno, no con dos barriles. Rompí un barril solo para preservar la unidad del país; ¿cuál fue mi delito?»
+Después de unos días, alguien hizo otra apuesta con Yang Zhuangyuan y le preguntó si se atrevía a romper el barril de jade restante. Yang Zhuangyuan dijo lo que no se atrevió a hacer. Hablando, volvió a romper ese barril de jade. El emperador se enteró de que le habían cortado la cabeza a Yang Zhuangyuan. Yang Zhuangyuan dijo: «La tribu que envió los barriles de jade no tenía buenas intenciones. Enviaron dos barriles de jade para separar al país del emperador, así que rompí uno. Más tarde, me enteré de que habían creado un ejército para rebelarse y apoderarse del mundo. Así que, de un solo golpe, rompí el cubo de jade que me enviaron». El emperador escuchó: «Lo que dijiste tiene sentido, pero no deberías haber roto el barril de jade sin mi consentimiento. Olvídalo, déjalo ir». La persona que apostó con Yang Zhuangyuan dijo: «Los delitos capitales están exentos, los delitos de por vida no están exentos. Si todos encuentran una razón para destruir algo en el palacio, ¿está bien?» El emperador dijo: «Lo que dijiste también tiene sentido; entonces distribuye la frontera. Sin embargo, puedes elegir cualquier ubicación». Yang Zhuangyuan dijo: «Prefiero ir 800 millas al desierto que ir a Bijiguan en Yunnan». El emperador preguntó: «¿No es Bijiguan, en Yunnan, tu ciudad natal? ¿Por qué no quieres volver?» Yang Zhuangyuan dijo: «Yunnan Bijiguan no es un lugar para personas. Un mosquito pesa media libra; la artemisia silvestre y la hierba pueden picar a las personas».
+El emperador envió a alguien a investigar y, cuando regresó, el informe decía: «Yang Zhuangyuan dijo que es cierto que hay muchos y grandes mosquitos en Yunnan. Si pican a la gente, se pudrirán en pedazos y mirarán fijamente a la gente en cada hierba o árbol». Resulta que Yang Zhuangyuan envió en secreto a personas para que pusieran viejas abejas de tierra en la casa donde vivían las personas enviadas por el emperador y las llevaran al campo de ortigas. Cada vez que arrancaban una hierba, picaban a la gente.
+Más tarde, Yang Zhuangyuan cumplió su deseo y regresó a Bijiguan, Yunnan.
+En el camino, un grupo de nueras de hermosas niñas estaban hurgando en la basura. La persona que escoltaba a Yang Zhuangyuan dijo: «Todos dijeron que Yang Zhuangyuan es inteligente, ingenioso y elocuente, pero ninguno de nosotros lo ha visto con nuestros propios ojos. Hoy, si tienes la capacidad de besar a las nueras de todas esas chicas, estaremos satisfechos». Yang Zhuangyuan dijo: «Esto es simple. Los besé. Todos simplemente están dispuestos; no lo creen. Ve a verla conmigo».
+Yang Zhuangyuan se acercó a la nuera de la niña y le dijo muy en serio: «Ayer perdí una oveja. Dudo que alguno de ustedes lo haya matado». Todas las nueras de las chicas dijeron que no. Yang Zhuangyuan dijo: «La retórica es infundada. Las personas que han comido cordero saben a carne de cordero. Puedo saber si han robado una oveja oliéndola». La nuera de la niña se apresuró a decir: «Míralo primero, lo tengo; no tengo miedo». Yang Zhuangyuan olió personalmente su rostro, nariz con nariz y boca a boca. Al final, Yang Zhuangyuan dijo que ninguno de ellos era ladrón de ovejas; la nuera de la niña aplaudió y fue a buscar las plántulas.
+La familia que escoltó a Yang Zhuangyuan y su séquito se rió cuando no pudieron soportarlo más.
+Traducido por IA   
+
+
+
+
+

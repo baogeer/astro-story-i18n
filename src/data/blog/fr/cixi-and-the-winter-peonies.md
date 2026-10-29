@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-03 14:32:35
+title: "Cixi et les pivoines d'hiver"
+featured: false
+draft: false
+description: "À la fin de la dynastie Qing, l'impératrice douairière Cixi voulait voir des pivoines en hiver et le gouverneur de Caozhou a obligé les producteurs de fleurs à déposer des fleurs pendant une période limitée. Afin de sauver le canton de Peony, les anciens cultivateurs de fleurs se sont aventurés à utiliser un four à feu pour cuire des fleurs. Enfin, les pivoines ont fleuri pendant le froid de l'hiver et ont échappé à une catastrophe. L'histoire fait l'éloge de la sagesse populaire."
+---
+
+
+
+![AstroPaper I18n](/cixi-and-the-winter-peonies.png)
+
+
+
+
+ À la fin de la dynastie Qing, l'impératrice douairière Cixi était autoritaire, affirmée et tout ce qu'elle voulait. Elle a imité Wu Zetian, l'empereur de la dynastie Tang, et a fait fleurir des pivoines en hiver.
+Au milieu de la saison hivernale, Cixi en avait assez de voir les fleurs traditionnelles de Pékin telles que le prunier et le bégonia, et voulait voir les magnifiques pivoines. Un jour, Cixi a demandé à son subordonnéxa0: «xa0Où se trouvent les meilleures pivoines au mondexa0?xa0» Les ministres ont déclaré à l'unanimitéxa0: «xa0Les pivoines de Caozhou, dans le Shandong, sont les meilleures et le monde est célèbrexa0». L'impératrice douairière a ordonné au gouvernement de Caozhou de rendre hommage aux pivoines. Le plus tôt sera le mieux, le mieux ce sera, sans délai.
+Le gouverneur de Caozhou était à la fois effrayé et content lorsqu'il a reçu l'ordre. Ce que je crains, c'est que les pivoines fleurissent au printemps. C'est quelque chose de fantaisiste qui va à l'encontre des saisonsxa0; l'impératrice douairière blâme sa viexa0; la bonne nouvelle, c'est que le petit gouverneur, aux yeux de l'impératrice douairière, était un junior inconnu. Aujourd'hui, la douairière fait sensation. Si elle peut progresser dans les délais et obtenir ce qu'elle veut, elle sera définitivement reléguée au poste et les nuages bleus se lèveront tout droit devant elle. C'est une bénédiction venant du monde entier. Le gouvernement préfectoral est intervenu, s'est retiré, a saisi l'opportunité et a rapidement accepté le plan. Ils ont donc envoyé des gens dans le canton de Peony pendant la nuit.
+Des responsables de la province de Caozhou ont annoncé aux propriétaires de fleurs du canton de Peony que pour présenter des pivoines de Caozhou en fleurs au palais impérial, les fleurs devaient être cultivées en janvier. La réussite du projet sera récompensée par de nombreuses récompensesxa0; si elles ne poussent pas, toutes les pivoines du canton de Peony seront coupéesxa0!
+Comme le dit le proverbe, «xa0Gu Yu a vu des pivoines au cours des trois dynastiesxa0». Où les pivoines peuvent-elles fleurir maintenant pendant les rudes mois d'hiver, sous la glace et la neigexa0? Les producteurs de fleurs sont inquiets jour et nuit, et personne ne peut penser à une bonne solution. Certains anciens cultivateurs de fleurs ont entendu leurs aînés dire qu'il existait autrefois un moyen de faire cuire des fleurs dans une cheminée, mais que cela n'a pas été utilisé depuis de nombreuses années. C'est perdu et personne ne le sait plus. Le gouvernement sait également qu'il n'y a pas de pivoines en hiver et envoie également des gens faire pression sur elles tous les jours, ce qui les met mal à l'aise pour s'asseoir et s'allonger.
+Il y a un ancien cultivateur de fleurs dans le village de Wanhua qui cultive des fleurs depuis de nombreuses années. Ils connaissent les caractéristiques de chaque type de pivoine. Si vous regardez les racines en hiver, vous pouvez dire de quel type de pivoine il s'agit. Il a entendu des personnes âgées parler de faire rôtir des pivoines en hiver, mais il ne l'a jamais vu de ses propres yeux, et encore moins l'a pratiqué lui-même. Maintenant, afin de surmonter la catastrophe dans le canton de Peony, il est déterminé à expérimenter la cuisson des fleurs. Ils ont amené toute la famille à percer la cave, à y fabriquer des pots, à y planter des pivoines, à y mettre de la bouse de vache et à la chauffer.
+L'effort en valait certainement la peine. En quelques jours, j'ai fait cuire deux grandes feuilles rouges. Une bonne nouvelle est arrivée. Des hommes, des femmes et des enfants du canton de Peony ont applaudi et ont envoyé le gros huhong séché au siège du gouvernement de Caozhou. Le gouvernement préfectoral a introduit les pivoines comme prévuxa0; en effet, la fortune officielle a été couronnée de succès et les nuages bleus se sont levés. La pivoine de mille mu du canton de Peony a également été épargnée par une catastrophe d'extinction.
+Dans «xa0Caozhou Peony Spectrumxa0: Supplementary Provisionsxa0» de Yu Pengnian, il existe également un document sur la torréfaction des fleursxa0: «xa0Aujourd'hui, il existe trois types de fleurs à Caozhou qui peuvent être brûléesxa0: les Hu's Red, White, et Purple Crown Groupxa0».
+(Li Baoguang)
+Traduit par IA   
+
+
+
+
+

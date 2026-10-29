@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-09 20:57:14
+title: "La fée des pivoines vertes"
+featured: false
+draft: false
+description: "Le jeune Liu Junsheng a bravé la pluie pour soulever Peony, qui a été détruite par la tempête, et a été ému par la fée des pivoines. Le vieil homme d'Apricot Tree a été utilisé comme médium, et Xiangu est devenue une pivoine cui et est devenue une famille. Après le mariage, le couple a fait la paix, a donné naissance à un fils et à une fille et est devenu plus tard une célèbre pivoine. Faire l'éloge de la gentillesse apporte toujours de bonnes récompenses."
+---
+
+
+
+![AstroPaper I18n](/the-green-peony-fairy.png)
+
+
+
+
+ Selon la légende, au début de la dynastie Qing, il y avait un village appelé Liu Tun à Lushan, dans la province de Caozhou. Le village avait une famille de deux personnes, et la mère et l'enfant étaient dépendants l'un de l'autre. Sa mère, Sang, sait tisser et filerxa0; son fils, Liu Junsheng, a 17 et 8 ans. Il est intelligent, intelligent et assidu dans le domaine de l'agriculture. Les pivoines qu'il cultive sont extrêmement fortes et fleurissent très brillamment.
+C'était en mars de la saison printanière. Le vent et le soleil étaient magnifiques, et Jun l'a fait le jour de son anniversaire. Je travaillais dans les champs. Soudain, le ciel s'est assombri et le vent a fait rage. Soudain, le ciel s'est assombri, le ciel était plein de brume et de fortes pluies sont tombées du ciel. Il ne prend que les branches tordues des arbres et les semis prennent racine, et Shun Sheng est comme un poulet en soupe, qui coule sur tout son corps. Il a couru désespérément chez lui un par un, pour voir une pivoine sur le bord de la route détruite par le vent et la pluie. Malheureusement, il s'est tourné vers le champ de pivoines et a soulevé le pivoinier qui était tombé au sol. Bientôt, le vent a cessé de pleuvoir et Junsheng a traîné son corps fatigué le long du chemin boueux et est rentré chez lui un par un. La pivoine, qui a été soulevée par Junsheng, a vu le soleil. Les branches étaient fortes et les bourgeons fleurissaient un par un. Ils étaient pleins de parfum et ils étaient tous violets et rouges.
+L'esprit de Junsheng bravant la pluie pour sauver Peony a ému la fée Princesse Peony. Elle a utilisé le vieil Apricot Shu comme médium et voulait former un couple avec son bienfaiteur. Il est devenu un vieil homme. Lorsqu'il est arrivé chez Junsheng, il a rencontré la mère de Jun Sheng, ce qui lui a expliqué son intention. La mère de Junsheng a seulement estimé que la famille était pauvre et a fait toutes sortes de spéculations, tandis que le vieil homme a fait des remarques minutieuses et l'a persuadé encore et encore. La mère était impuissante et a dû accepter. Le vieil homme a sorti une serviette en soie et l'a remise à la mère de Junsheng en guise de note. Ils ont également convenu d'une bonne journée pour visiter l'église et devenir une famille.
+Le temps passe vitexa0; la période des mariages est arrivée. Fairy Peony est devenue une fille de 18 ou 9 ans. Elle avait les yeux clairs, a réussi la course Shih Shi et est venue chez Junsheng. Lorsque la mère et le fils de Junsheng se sont vus, ils étaient fous de joie. La mère a demandé à la hâtexa0: «xa0De qui êtes-vous la dame de famille, venez dans ma pauvre famillexa0?xa0» La fée a réponduxa0: «xa0Je m'appelle Cui Peony. Ma famille vit à Baiguoshu Wanxiangyuan. J'ai un vieil abricot comme médiateur. J'ai donné un esclave à Shun Sheng. J'ai invité ma mère à s'asseoir et à être adorée par ses enfants.xa0» Quand je dirai ça, je dirai au revoir. La mère de Junsheng était bouleversée et le vieil homme Apricot est venu et a dit à haute voixxa0: «xa0Aujourd'hui, c'est un jour de chance. Je suis ici pour héberger une église afin de devenir une famille. S'il vous plaît, préparez-vous tout de suite.xa0» Bientôt, Zhang Luo a été parfaitement préparé et accueilli par Xing Lao, et Junsheng est devenu une famille avec Peony Fairy Gu Chapel.
+Après le mariage, les deux se respectaient et s'aimaient et étaient très paisibles. Les années ont passé en un clin d'œil. Green Peony a donné naissance à un garçon et à une fille. Le garçon s'appelait Tian Yu et la fille Hongshi. On dit que plus tard, cet homme et cette femme sont également devenus des pivoines, les deux variétés «xa0jade bleu des champsxa0» et «xa0glace recouverte de pierre rougexa0».
+(Li Baoguang)
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-07 22:25:25
+title: "La leyenda de la princesa dragón que robó el talismán mágico"
+featured: false
+draft: false
+description: "Qin Shi Huang interrumpió el mar con talismanes de hadas en busca de Lady Meng Jiang, y la dama dragón se convirtió en un símbolo para robar el palacio y huyó a la playa para dar a luz. El bebé fue adoptado por Xiang Laohan y se llama Xiang Yu. Más tarde se convirtió en rey de Chu Occidental y participó en el derrocamiento de la dinastía Qin. La historia utiliza una trama mística como metáfora de que la tiranía de los Qin Wang acabará por causar problemas debido a sus propias acusaciones."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
+
+
+
+
+ Esta leyenda es una historia legendaria sobre la Gran Muralla que recogió a Meng Jiang y lloró. Tan pronto como Qin Shi Huang vio a la niña Meng Jiang saltar al mar, se enojó y juró encontrar a la mujer Meng Jiang. Si no puedes encontrarlo vivo, ¡también puedes morir! De esta manera, envió a alguien a buscarlo en la playa; no lo pudieron encontrar. En ese momento, a alguien se le ocurrió una mala idea: dejar que Qin Shi Huang utilizara la piedad filial formada por Xian Fu para agitar el agua del mar y agitar el agua del mar. No te preocupes porque Lady Meng Jiang no se acerque. Tan pronto como Qin Shi Huang se divirtió, inmediatamente trajo consigo su piedad filial y bailó de un lado a otro en el agua del mar. Fue tan increíble. El agua del mar se agitó como si estuviera hirviendo una olla, ¡provocando enormes olas!
+El Palacio de Cristal del Rey Dragón no puede soportarlo más. El palacio tiembla y tiembla, y los camarones, los soldados y los cangrejos se volverán locos de miedo. El Rey Dragón tiene prisa y está ocupado convocando a los ministros para discutir las formas. Pero después de hablar durante medio día, nadie tuvo una buena idea. En ese momento, las nueve hijas del Rey Dragón se acercaron y le dijeron: «Padre, ¿por qué no devuelves a la hija de Meng Jiang a Qin Shi Huang?» El Rey Dragón dijo: «¡Oh! Bueno, Lady Meng Jiang es una hada del mundo superior; regresó hace mucho tiempo. ¡Devuélveme qué!» La mujer de Kowloon pensó en ello y quiso decir: «Padre y rey, ahora la Hija de la Libertad se parece a una mujer, Meng Jiang. Solo intentando convencer al rey de la nada y robar talismanes de hadas podemos preservar la vida en el mar». El Rey Dragón realmente no tenía otra opción; no tenía más remedio que dejar que la Chica Dragón se convirtiera en una mujer de Meng Jiang y saliera del agua a la deriva.
+Cuando Qin Shi Huang agitaba su piedad filial en la orilla, vio a una persona flotando en la superficie del mar. Si miras más de cerca, ¡era la mujer Meng Jiang! Lo cogí y eché un vistazo. Vi que su rostro estaba rosado y tenía un toque de vitalidad. Pero arruinó la belleza de Qin Shi Huang. Están ocupados ordenando a la gente que lleve a «Lady Meng Jiang» al palacio para que se recupere. Desde entonces, la mujer de Kowloon ha sido la concubina del emperador Qin Shi Huang. Quiso robar talismanes de hadas varias veces, pero Qin Shi Huang la observó demasiado de cerca y no pudo empezar. Pasaron unos meses en un abrir y cerrar de ojos. En ese momento, la niña dragón ya estaba embarazada y estaba a punto de dar a luz. Ese día, Qin Shi Huang se fue de viaje. Antes de partir, colocó el talismán de hadas en el palacio de la Dama Dragón. Las mujeres de Kowloon vieron una oportunidad única, por lo que cogieron a Xianfu y corrieron hacia el Mar del Este. Corrió y corrió. El cinturón filial formado por el talismán mágico revoloteaba y se balanceaba de un lado a otro, y la Gran Muralla China se distorsionaba y revoloteaba. Corrió hacia el Mar de China Oriental y un extremo de la Gran Muralla «se balanceó» hacia el mar. En ese momento, las mujeres de Kowloon ya no podían correr. ¿Por qué? ¡Dolor de estómago! Como resultado, dio a luz a una muñeca negra en un arrecife junto al mar.
+En este punto, el Rey Dragón se sorprendió por el sonido de la Gran Muralla entrando al mar. Tan pronto como llegó a la costa y vio que era una niña dragón, la llevó de vuelta a Crystal Palace y arrojó al pobre chico negro a la orilla.
+Quién sabe, este chico negro vive mucho tiempo. Grita «guau, guau» en el arrecife. Tiene hambre, hay tigres a los que amamantar, hace calor y las águilas le dan sombra a los fanáticos. Después de dos días, llegó aquí un anciano con el apellido Xiang. Vio a un grupo de águilas «aleteando en forma de abanico» alrededor de un niño, y se acercó para ahuyentar a las águilas y llevar al niño a casa. Llamó a este niño «Xiang Yu» porque vio al águila dándole sombra con un abanico de plumas.
+Más tarde, Xiang Yu creció, se convirtió en rey de Chu Occidental y participó en la guerra para derrocar a la dinastía Qin. Aunque no se sentaba en el mundo, también fue un héroe y se transmitió a lo largo de los siglos.
+Traducido por IA   
+
+
+
+
+

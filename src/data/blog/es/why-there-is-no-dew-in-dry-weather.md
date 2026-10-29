@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-15 11:33:57
+title: "Por qué no hay rocío en climas secos"
+featured: false
+draft: false
+description: "En el pasado, había rocío independientemente de las sequías o inundaciones. Más tarde, cuando la gente ofendió al Emperador de Jade, hubo una sequía de tres años. Lord Earth, River God, Well God y God Dew ayudaron secretamente a preservar la cosecha. Esperando a que lloviera, la gente solo honraba a Dios y al Rey Dragón, y despreciaba a los dioses. Los dioses se enfurecieron y estuvieron de acuerdo: Dios solo los ayudaría si llovía, y luego se retiró en un día seco para compartir los beneficios. Después de eso, no hubo rocío en los días secos. La historia satiriza a las personas ingratas."
+---
+
+
+
+![AstroPaper I18n](/why-there-is-no-dew-in-dry-weather.png)
+
+
+
+
+ Cuenta la leyenda que en el pasado había rocío tanto en los días secos como en los lluviosos, así que ¿por qué no había rocío en los días secos posteriores? He aquí una historia.
+La gente de todas partes ha ofendido al Cielo, y el Emperador Jade ha culpado al Emperador por no permitir que el Rey Dragón llueva para ellos durante tres años, con la intención de matar de hambre a la gente de aquí y matar de hambre a la gente de aquí. La tierra de aquí es muy comprensiva con la gente. Hablaba en secreto con el dios del río, el dios del pozo y el dios del rocío. Todas las noches, el dios del rocío deja en secreto que el río fluya diez millas y que el agua del pozo recorra ocho millas. Todas las noches, el dios del rocío cae sobre el rocío. La marea inunda los cultivos de esta zona y salva a la gente de aquí. Como resultado, hace tres años que no llueve. La gente ha tenido suficiente ropa y comida.
+El emperador Yu Huang pensó que no había llovido en tres años, y la gente de aquí casi había muerto, por lo que ordenó al Rey Dragón que hiciera llover la tierra aquí.
+Además, la gente de aquí no ha visto llover en tres años. Está lloviendo mucho en este momento, ¿cómo no podemos estar contentos? Así que compré fruta y petardos, quemé incienso y rendí homenaje a Cangtian y al Rey Dragón. Tan pronto como el abuelo Ji vio que la gente común veneraba a Dios y al Rey Dragón y se dejaba a un lado, se sintió extraño y entró en pánico. También convocó al dios del río, al dios del pozo y al dios del rocío para hablar: «Dije hermanos, ¡miren qué inhumana es la gente de aquí! Hace tres años, ofendieron al cielo. El Emperador de Jade evitó que llovieran durante tres años. Los ayudamos en secreto para que tuvieran suficiente ropa, comida y felicidad. Hoy está lloviendo. No nos dan las gracias, solo respetan a Dios y al Rey Dragón. Esto es realmente aborrecible». Kawagami dijo: «En el futuro, simplemente no le daremos humedales». Dew Shui dijo: «Es extraño que le saliera barato. Creo que somos así. ¿No están honrando a Dios y al Rey Dragón? Entonces llovamos todo el tiempo; sigamos la marea en su suelo y dejemos que caiga el rocío; si llueve todo el tiempo, no nos rocío, no nos mojamos. Está seco, así que sigamos con el ritmo. Todos tienen una parte de este tipo de mérito. La gente los admira y lo compartimos desde dentro. ¿No es bueno?» ¡Todos se sorprendieron cuando lo escucharon! Así es como lo hicieron. Desde entonces, cuanto más inundado era el día, más agua, más agua había en el río, agua de pozo y rocío; cuanto más seco estaba el día, menos agua de pozo, río y rocío.
+Traducido por IA   
+
+
+
+
+

@@ -1,0 +1,35 @@
+---
+pubDatetime: 2026-11-19 17:59:21
+title: "The Legend of the Spring Festival"
+featured: false
+draft: false
+description: "In order to set the agricultural season, the young man made a sundial and pot to observe the sky, discovered the winter solstice cycle, and dedicated Tianzi. He insisted on revising the calendar even after being jealous and assassinated by his traitor, and eventually created the “Ten Thousand Years Calendar,” and Tianzi decided the “Spring Festival,” and Ten Thousand Years were declared the Sun Moon's life star. The story harbors nostalgia for the merits of the pioneers."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-spring-festival.png)
+
+
+
+
+ Legend has it that many years ago, under Mount Dingyang, where the mountains and clear water were beautiful, there was a small village. On the hillside at the head of the village, there is a small stone house where a young man named Wan Nian lives. His family is poor, and he makes a living by collecting firewood and digging for medicine. At that time, the season was very messy, making it impossible for crop farmers to farm. Wan Nian is a thoughtful young man who wants to set the festival schedule. But where do you start?
+One day, Wannian went up the mountain to gather firewood, and sat under a tree to rest. The movement of the tree's shadows inspired him, so he made a sundial to measure the length of the day. However, there were clouds, fog and rain, which affected the measurement, so he wanted to make another chronograph to make up for the lack of a sundial. On that day, he went up the mountain to dig up medicine and came to the side of the spring to drink water. The spring water on the cliff ticked rhythmically, which caught his attention. He looked at the spring water and thought for a while. When he got home, he painted and tried it out, and made a five-layer teapot.
+Since then, he has been diligent in measuring solar shadows and watching for water leaks. Slowly, he discovered that every 360 days or so, the length of time was repeated over and over again. The shortest day is at the winter solstice.
+Tenshi at the time was called Zu Yi. He was very anxious due to the abnormal festival order, so he summoned 100 officials to discuss the cause of the abnormal festival order. The festival official is Ah Heng. He doesn't know the rules of how the sun and moon run; that is, people act carelessly and offend Tenjin. Only when they kneel piously can they receive forgiveness from God. Zu Yizhai took a bath, brought 100 officials to the Temple of Heaven to perform sacrifices, and preached throughout the country and set up a platform to sacrifice the sky.
+However, the sacrifices went back and forth, with no results. The seasons were still chaotic. People everywhere had to serve and donate in order to build an altar. It really mixed up Huanglian in the midst of suffering. Ten thousand years couldn't help it, so I took his sundial and kettle to see Tenshi.
+Wannian saw Tianzi, talked about the winter solstice, and talked about the operating cycle of the Sun and Moon. When Zu Yi heard it, she was overjoyed. That is, he ordered Daxing Civil Engineering to build the Sun Moon Pavilion in front of the Temple of Heaven, build a sundial stand, and build a pot stand. Twelve more boys were assigned to guard the pot, carefully recorded, and reported on time.
+One day, Zu Yi asked Ah Heng to go to the Sun Moon Pavilion to inquire about the calendar status. Wannian pointed to the Cao calendar and said, “The sunrise and sunset are 360, and the week starts all over again. There are four times when plants and trees are worth 12 yuan a year.” As soon as Ah Heng listened, he felt that it was reasonable, but he became uneasy in his heart. He thought: If ten thousand years set the festival order, and Tianzi is happy, and ten thousand years are reused, who will still listen to me, Ah Heng? Ah Heng thought, thought, wanted to get rid of ten thousand years.
+On the same day, Ah Heng heard about an assassin who was good at shooting, and he sent someone to his home, set up a dinner party, explain the reason, and promise to repeat the offer. The assassin promised to assassinate at night.
+There were two drums in the sky, and the assassins took advantage of Jiu Xing to leave Ah Heng and run to the Sun Moon Pavilion. Somehow around the Temple of Heaven, His Excellency Sun and Moon were strictly guarded, so the assassins couldn't get close, so they dragged bows and arrows to shoot at 10,000 years of stargazing at the Sun and Moon Pavilion. Who knows, because the assassin drank too much alcohol, his eyes were swollen, and the flying arrow only hit the arm for 10,000 years. Ten thousand years on the ground fell to the ground, and the boys rushed to call the thieves. The guards heard the shouts and went out together to catch the assassin and see Tenshi.
+Zu Yi asked for the truth, ordered Ah Heng to be taken to prison, and personally went out of the palace to visit Ten Thousand Years. Wannian was very moved. Pointing to Shen Xing, he said, “Shen Xing has caught up with Silkworm Hundred Stars. The stars have recovered. At night time, the old years are over, and spring begins again. Let's hope Tianzi will set a festival.”
+Zu Yi said, “Spring is the first day of the year; it's called the Spring Festival. When Aiqing entered the cabinet, she didn't leave the cabinet for three years. She poured all her energy into making a lunar calendar with a full moon. It was really a great merit and virtue. Now that Ai Qing has been miscalculated by the devil, let's take care of her in the palace with me.”
+Wan Nian said, “Although the lunar calendar was invented, it is not very accurate. There are still a few hours left at the end of the year. If you don't leap into the end of this year, the days and months will fly by. If you come back, you'll have the wrong experience again. It lives up to the expectations of all living beings and is blessed by God. I would like to be fascinated by the Sun and Moon Pavilion, make detailed calculations, and set the correct calendar.”
+Just like that, in the Sun and Moon Pavilion, Wan Nian carefully observed the flourishing and withering of herbs, and meticulously deduced, and leaped into the end of the year. In May of that year, Zu Yi went to the Temple of Heaven to sacrifice Tenjin, and ascended the Sun Moon Pavilion to give the god May fresh peaches for ten thousand years. Wannian presented the lunar calendar. Zu Yi looked at the 10,000 years that worked day and night. Her eyebrows were white and her whiskers were white. She was deeply moved, so she named the lunar calendar the perpetual calendar, and also named Ten Thousand Years as the birth star of the Sun and Moon.
+Therefore, later, people also called the Spring Festival a year, and every time they celebrated the New Year, they had to hang a birthday picture in the house to symbolize a new year of longevity, so as to express nostalgia for ten thousand years of merit and virtue.
+AI Translated   
+
+
+
+
+

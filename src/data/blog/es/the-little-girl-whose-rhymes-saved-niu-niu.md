@@ -1,0 +1,70 @@
+---
+pubDatetime: 2026-11-10 21:35:54
+title: "La niña cuyas rimas salvaron a Niu Niu"
+featured: false
+draft: false
+description: "A la pequeña Jenny le encanta escribir jingles y enseñó a vacas con heridas cerebrales «Uno, dos, tres, cuatro, cinco, sube la montaña y lucha contra los tigres». Tras el secuestro de la vaca, salió a hurtadillas al parque para reconocerlo, fingiendo ingeniosamente que reconocía a su madre para acosar a los traficantes de personas, y usó la holgura para hacer que la vaca testificara y rescatara a su amiga. Escabullirse se ha convertido en la clave para comunicar los corazones y las mentes y superar situaciones peligrosas."
+---
+
+
+
+![AstroPaper I18n](/the-little-girl-whose-rhymes-saved-niu-niu.png)
+
+
+
+
+ La pequeña Jenny está en cuarto grado. No pienses en ella como si fuera una niña pequeña. Es tan traviesa como un niño, y le gusta mucho burlarse de la gente. Cuando pasaba algo interesante, parpadeaba e inventaba algunas frases al azar; en realidad, se convertía en una exclamación. Las vacas y las vacas que viven en la planta baja no son inteligentes. El niño de cuatro años ni siquiera sabe contar «1, 2, 3, 4, 5». La pequeña Jenny le enseñó algo; siempre lo malinterpretaba. La pequeña Jenny suspiró, dio una palmada en la frente de la vaca y dijo: «La gallina vieja regaña al pollito. Eres una cosa estúpida. Te dije que hicieras el cuco; prefieres cantar».
+Por supuesto, no escribió esta sección ella misma; la aprendió de su madre cuando era niña. Tiene muy buena memoria de estos pasajes.
+Las vacas son muy estúpidas, pero él no nació para ser estúpido. Cuando era niño, inteligente y guapo, su padre se enfermó y murió, y su padrastro llegó. Mi padrastro era muy agresivo. Una vez, agarró la cabeza de la vaca y la golpeó contra la pared. La vaca hizo un ruido de «eh» y todo quedó paralizado en el suelo. El niño había estado en coma durante dos días y, cuando se despertó, quedó ciego y se convirtió en lo que es ahora.
+Pronto, la madre de Niu Niu volvió a quedar embarazada. Tenía un estómago grande. Su temperamento empeoraba día a día y no tenía una buena voz para su suegra o Niu Niu. La abuela Cheng tenía miedo de que el vientre de su nuera la sorprendiera; tuvo que refugiarse en la casa de Little Jenny, en el piso de arriba.
+A la pequeña Jenny le gustan mucho las vacas y las vacas. Tan pronto como tuvo tiempo, le enseñó jingles: «Uno, dos, tres, cuatro, cinco. Sube a la montaña para luchar contra un tigre. Si el tigre no está jugando, golpea a la ardillita. Hay unas cuantas ardillas. Déjame contarlos uno, contarlos una y otra vez, uno, dos, tres, cuatro, cinco».
+Niu Niu no pudo aprender algunas palabras en una noche; a veces apenas las aprendió y las olvidó al día siguiente. Pero la pequeña Jenny no se desanimaba; si lo olvidaba, se lo enseñaba todo desde el principio. Al cabo de unas semanas, la vaca por fin pudo aprender del loro que estaba detrás de Little Jenny. Después de unos días más, lo leyó él mismo.
+Niu Niu también está enamorada de Little Jenny. Cuando la ve, sonríe «jeje», y también la llaman «hermana--»
+Sin embargo, mientras Niu dejara a Little Jenny, ella seguía siendo lenta y rebelde.
+Ese día, la pequeña Jenny oyó gritar a la abuela Cheng. Su corazón estaba emocionado. Anticipó que algo debía haber sucedido. Bajó volando las escaleras.
+La abuela Cheng no podía dejar de llorar en el patio y dijo que la vaca orinó por la mañana, que la alfombra estaba mojada y que había un fuerte olor a orina en la casa. El gruñón padrastro abofeteó a la vaca varias veces y le sangró la nariz. No lloró, no desayunó, no sé cuándo abrió la puerta y se fue, y nunca regresó tan pronto como se fue...
+La pequeña Jenny «tronó» su mente. ¡Maldita sea, la vaca se perdió!
+La pequeña Jenny tomó la mano de la abuela Cheng y dijo: «Abuela, ¡iré contigo a denunciar y publicar el crimen!» Así que todos siguieron a jóvenes y mayores hasta la estación de policía, la estación de televisión y el periódico.
+Pero después de tres días, la vaca aún no ha regresado.
+La abuela Cheng tenía el corazón roto. Sus pálidas mejillas estuvieron llorando todo el día. Cuando vio a alguien, preguntó: «¿Has visto a mi nieto vaca? Es un bebé precioso y puede seguir leyendo...» La pequeña Jenny corre a la casa de Niu Niu todos los días tan pronto como sale de la escuela. Quería ver a la vaca salir de la habitación y gritar «hermana, hermana», pero siempre se decepcionaba.
+El domingo, la pequeña Jenny fue a la casa de su abuela. La casa de la abuela está en Jiangcheng, que está a más de 100 millas de distancia. El parque forestal de Binjiang es famoso. Después del almuerzo, fue sola al parque.
+El parque es muy grande. Hay árboles antiguos de Misson por todas partes. Solo puedes ver a un visitante durante medio día. Cuanto más profundizas, más oscuro y profundo se vuelve. La pequeña Jenny no tiene miedo. Nació con un complejo aventurero y pensó que esa era la única razón por la que era interesante.
+Entró en una antigua fortaleza. La cueva del soldado tibetano estaba muy oscura y olía a humedad y humedad. Se puso de puntillas, agarró la cerca de hierro del pozo de observación y miró hacia afuera. Afuera había una glorieta entre los arbustos. Cruzando la torre de la glorieta, había un vasto río blanco.
+Un par de hombres y mujeres de mediana edad entraron en la glorieta. El hombre era un hombre de rostro negro y las mujeres vestían con mucho estilo. Sostenga con fuerza un gran suéter de terciopelo rojo. De repente, algunos sonidos extraños salieron del interior del abrigo polar. Solo entonces la pequeña Jenny se enteró de que había un niño adentro, bien envuelto, al que solo le quedaban dos ojos. Había mucho viento en el pabellón y la mujer temía que el niño se enfriara.
+La pequeña Jenny salió de la cueva del soldado tibetano y bajó la ladera hasta la fortaleza de la montaña. Pensó que esos ojos le resultaban un poco familiares, redondos, grandes...
+¿Podría ser una vaca o un buey? Pensando en esto, Little Jenny regresó inmediatamente a la Cueva del Soldado Tibetano. Vistos desde el mirador, la pareja de hombres y mujeres seguía allí, y el niño todavía estaba muy bien envuelto. Aparte de sus dos ojos, no podía ver nada más.
+La pequeña Jenny quiere probarlo». Uno, dos, tres, cuatro, cinco...» Leyó en voz baja un jingle familiar. No hubo respuesta allí.
+«Uno, dos, tres, cuatro, cinco...», alzó la voz.
+Ocurrió un milagro. La mujer sacó la cabeza de un niño entre sus brazos y murmuró: «Uno, dos, tres, cuatro, cinco, sube a la montaña a luchar contra los tigres...»
+Es una vaca, es una vaca, es una vaca...
+La mujer estaba un poco desconcertada: «El cielo está abierto y la madera puede hablar».
+La pequeña Jenny gritó «vaca vaca». Los dos ojos perezosos y largos de la vaca y la vaca de repente brillaron un poco: «Hermana, hermana--»
+La mujer elegante vio a la pequeña Jenny a un lado del puesto de vigilancia. Ella y el hombre de rostro negro murmuraron algunas palabras. Los dos envolvieron a la vaca en apuros con un traje de lana y corrieron hacia la montaña.
+¿Por qué hay vacas aquí? Oh, ese hombre y esa mujer son probablemente traficantes de personas. Querían vender vacas y vacas, pero aún no se han deshecho de sus manos... Oye, no dejes que los traficantes simplemente se vayan... La pequeña Jenny se enfadó tanto que se mordió los dientes crepitantes. Si revelas tu identidad y llamas para detener a los traficantes de personas, y no hay personas por todos lados, los traficantes de personas se apresuran, entonces, ¿qué puedes hacer para arrojar vacas y vacas al fondo de un precipicio?
+La pequeña Jenny salió de la cueva del soldado tibetano y siguió en silencio a la pareja de hombres y mujeres. Subieron la montaña, ella escaló la montaña y se metieron en el agua, pero no dejaron que lo descubrieran. Vi la entrada al parque y pude ver a los visitantes.
+Ah, sí, la pequeña Jenny de repente gritó, dio un salto, abrazó con las manos el muslo de una mujer elegante y gritó en voz alta: «Mamá, no puedes fugarte con este hombre; me costó mucho encontrarte. Vamos a casa. ¡Papá te espera todos los días en casa!»
+¿Por qué es esto? Las mujeres a la moda están desconcertadas. ¿Cuándo tuvieron una hija así? No lo sabía bien; pateaba y se rompía las manos; solo quería liberarse y escapar. La pequeña Jenny es tan fuerte. Sus manos se tensan cada vez más como si fueran aros de hierro.
+Black Dahan estaba molesto. Después de barrer su pierna, Little Jenny cayó al suelo y le sangró la boca, pero aun así no relajó las manos. El hombre negro agarró al niño de las manos de la mujer, lo saludó con la mano y un taxi se detuvo. Se acercó al taxi mientras sostenía al niño.
+La pequeña Jenny dejó a la mujer a la moda, se abalanzó y abrazó la pierna del negro, luego abrió la boca y la mordió. El hombre negro gritó de dolor y se deslizó al suelo sobre una pata del coche. La pequeña Jenny solo piensa ahora mismo en acosar a los traficantes y atraer turistas.
+Las personas que visitaron el parque me abrazaron. Tres círculos por dentro y tres círculos por fuera, lo que quieras. Los grandes hombres negros y las mujeres a la moda ya no se atreven a volverse locos. En ese momento, vi un coche de policía a toda velocidad y estacionado frente a la multitud. Dos agentes de policía, uno alto y otro bajito, saltaron del coche. Resulta que, durante el ruido de hace un momento, la joven de la taquilla del parque llamó al 110 para llamar a la policía. Tan pronto como la gente lo vio, cedieron de inmediato.
+La policía llevó a la Oficina de Seguridad Pública a la Pequeña Jenny, el Gran Hombre Negro, la mujer elegante y el niño pequeño.
+El niño se quitó el suéter de terciopelo rojo: «¡Ah, eso es genial, solo una vaca! Hace más de diez días que no lo veo. Otros han perdido un círculo de peso. Sus ojos son más grandes, sus párpados están caídos y las personas son aún más delgadas. La pequeña Jenny gritó: «¡Mierda!» La vaca tonta lloró y gritó: «Hermana, hermana»
+«Camarada de policía, esta niña acusa falsamente a la gente diciendo que soy su madre y que me he fugado. Somos una pareja decente. Esta es nuestra licencia de matrimonio». La mujer elegante sacó la tarjeta roja y se la entregó a la policía civil.
+«¡Niños, las acusaciones falsas resultarán en demandas y en la admisión a centros de educación juvenil!» Black Dahan es agresivo.
+Después de mirar el certificado de matrimonio, la policía se sintió un poco extraña y miró a Little Jenny con desconcierto. La pequeña Jenny contó a la policía civil las circunstancias del incidente.
+«Camarada policía, el nombre de nuestro hijo es Liang Liang. Tiene que llamar a su hermana cuando ve a una niña pequeña. Esta hermana pequeña nos acusa falsamente de ser traficantes de personas, ¡pero quiere pruebas!» La elegante mujer miró a la vaca con cerebro de madera y se puso un poco más directa: «Además, a este niño tonto, vendámoslo. ¿Quién lo quiere?»
+La policía se llevó la vaca y la vaca y preguntó. Tenía los ojos perezosos y no dijo nada.
+«Este chico tiene un problema cerebral». El policía bajito le dijo a su compañero.
+«¿Puedes hacer que hable?» Un oficial de policía alto le dijo a Little Jenny.
+«Sí». La pequeña Jenny tiene un corazón fuerte. La besó en la frente y dijo: «Vaca, vaca, empecemos a aprender». Después, se aclaró la garganta y leyó: «Uno, dos, tres, cuatro, cinco...»
+La vaca y la vaca inmediatamente tuvieron un brillo inusual en sus ojos. Mantuvieron el pecho erguido y lo leyeron en voz alta: «Uno, dos, tres, cuatro, cinco. Sube a la montaña para poner a prueba a los tigres; los tigres no pueden vencer...»
+La policía se divirtió y aplaudió por la actuación.
+El oficial de policía Gao se interesó por Little Jenny. La vigilaron y le preguntaron en qué escuela estudiaba, en qué grado estaba y cómo se llamaba su maestra de clase. Después de escuchar la respuesta de Little Jenny, los dos policías se miraron y se rieron con mucho interés.
+Pero, de repente, los dos traficantes perdieron su energía y se volvieron incoherentes. «Esto... esto» confesó sus crímenes. Resulta que la vaca se volvió loca por la calle después de escapar de la casa y ambos la notaron. Pensaron que el hermoso niño podría venderse a buen precio. Compré un pastel de crema para la vaca y la vaca, y cuando el niño tuvo ganas, me lo llevé. Más tarde, la pareja descubrió que la vaca era una persona pobre. Después de venderla varias veces, no pudieron llegar a un acuerdo. Estaban discutiendo cómo deshacerse de él en el parque, pero fue descubierto por Little Jenny.
+La pequeña Jenny salvó a la vaca y a la vaca y llevó a los traficantes ante la justicia.
+Traducido por IA   
+
+
+
+
+

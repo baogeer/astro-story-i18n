@@ -1,0 +1,60 @@
+---
+pubDatetime: 2026-11-21 20:21:16
+title: "The Tale of Boastful Feng and His Loose Tongue"
+featured: false
+draft: false
+description: "In the Ming dynasty, Feng loved to brag and starved to death, but he was recruited into the army by black-faced generals for carrying horses. He caused trouble over and over again, and the general pretended to be an assassin to dismiss his bragging rhetoric. Since then, he has spoken less and worked hard, eventually became a general, escaped being convicted because of his words, and married the general's daughter. Fang understood the logic of talking less and doing more."
+---
+
+
+
+![AstroPaper I18n](/the-tale-of-boastful-feng-and-his-loose-tongue.png)
+
+
+
+
+ During the Hongwu years of the Ming dynasty, there was an old man Feng who raised horses in Nanjing. The old man had a son. He loved to spread gossip and brag, and was nicknamed “Feng Tongtou.”
+One day, old man Feng was infected with wind chill and was bedridden. The dozens of good horses in the stable were taken care of by Feng Tongtou. He patted his chest and said, “Dad, don't worry, horses can't get hungry with me!” Old man Feng didn't expect it. His son only said he didn't do anything, and his problem hadn't changed at all. At first, Feng Tongtou fed the horses on time; later, he sneaked to the library to listen to books. After half a month, dozens of horses had lost weight like little donkeys.
+On this day, a black-faced man came to the stable and wanted to buy a horse. He looked at a dark horse, looked up and down, shook his head and said, “The horse is a good horse, but it's too thin. Aren't you taking good care of it?”
+Feng's flabbergasted tongue is another offense: “I feed it five times a day, just like taking care of my old son. It's not that I don't do my best; it's a matter of the breed of horses; some horses are thin no matter how they eat.”
+Dahan also asked, “So are you running fast or not?”
+Feng bragged, “My horses are all millimeter horses. This horse can run six times in the blink of an eye.” This cow blows quite lightly. A “blink of an eye” is equivalent to one second. Six feet is about 20 meters, which is fast enough.
+The black-faced man said, “What if this horse can't run that fast?”
+Feng Tongtou said, “Absolutely no problem. My horse just died, and it ran six times in the blink of an eye.”
+The black-faced man was amused. He took 12 pieces of money out of his arms and cheerfully said, “I ordered this horse. This 12 silver is its forage money; it takes frequent corn and wheat. When the horse is fattened, I will pick it up again. At that time, I will pay an additional 52 silver.” Feng breathed a sigh of air: in this day and age, no one can eat corn or wheat.
+This dark horse, which is admired by black-faced men, is commonly known as a “sharp-mouthed horse”. It has excellent foot strength and runs tirelessly. It is a strange horse like no other. Good horses are picky; they only eat good food and the freshest grass; they don't like ordinary forage. Nanjing was affected by a plague of locusts this year, and many families were unable to eat food. Feng Tongtou began to feed corn and wheat to Jianzuiju. Later, he bought food, added two to five, took out half of it and ate it himself, mixed it with some dried herbs to eat for the horse. Dianzuigou couldn't eat it. After a few months, he seemed to lose weight, then got sick again and died within a few days.
+Coincidentally, the dead horse hasn't had time to collect the corpse yet. The black-faced man arrived. He looked at his sharp foal, which had thinned into a skull, and sighed: “You fed the horse to death!”
+Feng was in a hurry: “The horse belongs to our family; it doesn't matter to you if you feed it to death.” The black-faced man said, “I've already bought it, and I've taken all the money. This is 52. If I talk counts, you have to talk to count. At the time, what were you saying? You said horses can run six feet in the blink of an eye when they die; can they still do that now?”
+Feng Tongtou's regrets, ah, sweat came out on his head: “I said that, but...”
+The black-faced man said, “It's okay to say nine things; you have to count when you talk!”
+Feng was in a hurry. He walked up to the front of the fangled fowl and bent down. After shaking his shoulders and working hard, he actually lifted the fangled fowl on his shoulder! Although a long-billed foal is extremely hungry, it can weigh 3,400 pounds even when he is thin. Feng was actually able to carry his tongue on his body; it can be seen that it has amazing power!
+Feng had green streaks sticking out of his tongue. As soon as he gnawed his teeth, he actually ran up in the hospital. Although he was less than six feet in the blink of an eye, he was already amazed by the black-faced man. Feng gasped and said, “Am I right; my horse can run six times in the blink of an eye when it dies.”
+The black-faced man looked up and laughed: “Originally, I thought the sharp foal was a Thousand Mile Horse, but in fact, I found the most powerful 'Qianlima'.”
+In fact, this black-faced man was a general who scolded the frontier. He saw that although Feng Tongtou liked to brag, he was brave and brave. He was actually Lu Bu and Red Rabbit in Ma Zhong, so he recruited him into the army.
+Feng Tongtou fought bravely under the black-faced general, and made numerous achievements, but just one point, his speech was too rambunctious and caused quite a few problems.
+At one point, Feng Tongtou got excited and spoke a review in the military camp. Originally, they had to go to war tomorrow, and the soldiers had to rest early, but he danced with his cheeks. The soldiers all listened attentively. As a result, when they fought the next day, they were all very sleepy. There was no slightest sense of anger on the battlefield. Dead dead, wounded and wounded. The black-faced general was so angry that he opened up Feng's tongue and butt. He didn't dare to move anywhere for half a month.
+OK, I forgot the scar hurt. After Feng's tongue got better, he went his own way and bragged about the reviews. The black-faced general loves and cherishes talents. The principle “if you say too much, you lose” has been said thousands of times, but Feng just couldn't change his tongue.
+Half a year later, Feng Yutou became the deputy general of General Blackface due to his many achievements. Feng Tongtou, who is capable of martial arts and literature, is famous. Many generals want to recruit him as a powerful general, but Feng Tongtou feels that the black-faced general is kind to him and is unwilling to move away.
+Later, a king grandpa told the emperor that he really liked Feng's tongue and wanted to keep it for his own use. The Black-faced General really had no choice but to endure pain and cut love.
+When he arrived at Wang Fu's Feng Tongtou, his temper did not change at all. Sometimes I heard Grandpa Wang talk about imperial court secrets, and he also added fuel and bitterness to tell outsiders. The Black-faced General heard it, so I'm not worried.
+One day, Grandpa Wang received information that some Mongolian assassins wanted to go to the palace to assassinate him. Grandpa Wang thought this was a good opportunity to ask for merit in front of the emperor, so he asked Feng Tongtou to take someone to arrest him.
+Feng Tongtou brought people and horses and wanted to intercept the assassin halfway. At a mountain pass, a dozen people in black suddenly appeared. He was about to order interception. Unexpectedly, all his subordinates were scared away. The only one left was Feng Tongtou, who fought alone. It was difficult for the hero to beat four hands. In the end, he was captured alive.
+The man in black blindfolded him, put him in a horse-drawn carriage, turned east and west, and came to a house. Taking off his blindfold, Feng's tongue was taken aback. In front of him was a huge iron pot containing water. It was two feet in diameter, and firewood was burning underneath the pot. At this point, a few people in black came over and tied his limbs tightly to a large wooden bed. Immediately after that, the wooden bed was placed in an iron pot by them!
+Feng's tongue was dumbfounded; this is about steaming himself! A leading man in black sneered: “If you can move from one side of the pot to that, I'll let you out.”
+Feng's tongue is less than eight feet tall, and his feet are a foot far from the head of the pot. At this point, the water in the pot was getting hotter and hotter. He was in a hurry and scolded, “My hands and feet are tied and I can't move. How can I float to that end? There's no wind in the house.”
+The man in black said, “No wind? Isn't the wind blowing in your mouth? Aren't you good at blowing? Your mouth isn't blocked. If you blow the water in the pot hard, if you blow north, you'll float south.”
+Feng's tongue weighs nearly 200 pounds. Although the water is buoyant, it's easy to talk about how easy it is to blow his body with his mouth. He raised his cheeks and pat for half a day, but the wooden bed remained steady and motionless, and his face was so tired that his face turned purple.
+Ants are still stealing lives, let alone humans? In order to survive, Feng blew his tongue deathfully, using his strength, and the wooden bed only moved 34 inches. Suddenly, his eyes were dark, and he was so tired that he lost consciousness.
+Waking up again, Feng Tongtou found himself lying in another household. The owner said that there were more than a dozen people in black who wanted to kill him; after reporting to the police, the people in black fled. After a few days, Feng's tongue gradually recovered. He only felt that his tongue was numb and weak, and it was extremely difficult to speak.
+Since then, Feng's tongue has stopped talking; sometimes when he wants to talk, his tongue doesn't help. Since then, he has made numerous achievements and became a major general on the side of Megatron. Everyone else thought he was a “dull person” who just did nothing.
+Later, in order to pave the way for his children and grandchildren, Emperor Hong Wu, who was extremely suspicious, all those convicted of the crime were slaughtered and dismissed from office, while Feng Tongtou, who was quiet, had a blessing in disguise and escaped disaster.
+A few years later, Feng Tongtou became married, and the bride was the daughter of a black-faced general. On the wedding day, the red candle illuminated the cave room very brightly. The bride shyly said, “Official, blow the candle.”
+Feng gathered his tongue in front of the candle and worked for half a day. He still felt that his tongue was numb. He didn't even have the strength to blow the candle; he was only able to use his fingers to destroy the wick. The bride laughed, “Aren't you good at bragging?” Feng sighed and said, “No, I can't blow anymore. Men do things, talk less and do more.”
+Later, the bride told Feng Tongtou a secret. The man in black who “framed” him was either someone else, or sent by his father. Turns out, Grandpa Wang had a lot of enemies in the imperial court, and the black-faced general feared that he would be convicted because of his words, so he created false intelligence about the assassin and abolished his “magic with his tongue.”
+Feng's tongue was taken aback: “Falsifying intelligence, this is a crime of bullying the king. Why did Yue Zhang do this?” The bride blushed: “Actually, Dad has long been fond of you for a long time and wants to take you as a grandpa. He said that he gave Daming Jiang Shan a good general, and he also recruited a son-in-law, so the adventure was worth it!”
+AI Translated   
+
+
+
+
+

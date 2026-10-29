@@ -1,0 +1,22 @@
+---
+pubDatetime: 2026-11-19 21:33:41
+title: "La mère dragon du peuple Bai"
+featured: false
+draft: false
+description: "La fille qui coupait du bois de chauffage dans le village de Lengtao est tombée enceinte en mangeant de la pêche féerique par erreur. Après avoir donné naissance à son fils, elle l'a abandonné au plus profond des montagnes et a été nourrie par un serpent géant. Quand mon fils a grandi, il est entré dans le Palais du Dragon pour soigner le Roi Dragon. Il a enfilé une robe de dragon et s'est transformé en dragon jaune pour vaincre le dragon noir en difficulté et calmer les inondations. Les gens ont apprécié ses bénédictions. Ils ont honoré le temple en tant que propriétaire de Little Yellow Dragon et ont appelé sa mère la Mère Dragon."
+---
+
+
+
+![AstroPaper I18n](/the-dragon-mother-of-the-bai-people.png)
+
+
+
+
+ La légende raconte que Longmu est une fille qui coupe du bois de chauffage. Elle vit avec sa mère dans un champ du village de Green Peach pour faire pousser des cultures. Un an, le dragon noir qui a pris le contrôle de Kanziwa a pris le contrôle de la sortie d'eau de la mer d'Erhai, transformant Dali en un vaste océan. Les gens ordinaires n'ont pas pu gagner leur vie et ont fui à l'étranger les uns après les autres. La mère et la fille n'ont pas été aidées et n'ont pas pu s'échapperxa0; elles ont dû se rendre à Lan Feng à Cangshan pour gagner leur vie en coupant de l'herbe et du bois de chauffage. Un jour, ma fille avait soif et a vu une grosse pêche verte pousser sur l'arbre. Elle a pris la pêche et l'a mise dans sa bouche, et la pêche lui a glissé dans le ventre. Depuis, elle est tombée enceinte et a donné naissance à un fils. La fille avait peur du rire des autres et a jeté son fils au plus profond des montagnes. Le serpent géant de la montagne nourrit les enfants tous les jours. Non seulement il ne meurt pas de faim, mais il est aussi naïf et vif. Dragon Mother l'a beaucoup blessé. Elle l'a ramené chez elle pour l'élever, et quand elle a grandi, elle est montée dans la montagne pour couper du bois de chauffage et couper de l'herbe. Une fois, la mère et le fils sont rentrés chez eux pour tondre l'herbe et se sont reposés à Longtan. Ils ont appris que Dragon King était malade. L'enfant a été invité au Dragon Palace pour soigner la maladie du Roi Dragon avec des herbes féeriques. Pendant son séjour dans le palais, l'enfant était curieux et a revêtu la robe ordinaire du Roi Dragon et est devenu Huanglong, puis a vaincu le Dragon noir, s'est libéré des inondations et est devenu un champ fertile. Les habitants de Green Peach Village ont construit le temple du roi dragon pour lui, en l'honneur de Little Huanglong en tant que propriétaire et en qualifiant la mère de Little Huanglong de mère du dragon.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,63 @@
+---
+pubDatetime: 2026-11-07 16:14:16
+title: "La légende du vacher et de la gourde magique"
+featured: false
+draft: false
+description: "L'éleveur de vaches et le style et Yu Shun recherchent Mlle Zhang, qui a été enlevée par le serpent blanc. L'éleveuse de vaches s'est aventurée dans une grotte pour sauver des gens, mais ses compagnons y ont été piégées. Par hasard, il a obtenu un melon magique et a puni les méchants après s'être évadé. Finalement, la vérité a été révélée et il a épousé la jeune femme. L'histoire fait l'éloge de la gentillesse et de la bravoure et est une allégorie de la trahison de confiance."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-cowherd-and-the-magic-gourd.png)
+
+
+
+
+ Je ne sais pas à quelle époquexa0; de toute façon, c'est une histoire qui s'est transmise de génération en génération.
+La légende raconte qu'à part Zhang Yuan, sa famille est aisée et il ne s'inquiète pour rien d'autrexa0; il y a une chose qui le met toujours mal à l'aise. Le couple plus âgé n'a pas eu de fils pendant la majeure partie de leur vie. Ils n'ont qu'une fille, qui ressemble à une fleur et à du jade. Son père l'a traitée comme une perle dans sa poche, et sa mère l'a traitée encore plus comme une chair dans son cœur.
+Un jour, une fille du même âge, de la même silhouette et de la même apparence que Mlle Zhang est venue à la maison extérieure de Zhang Yuan. Son nom de famille était Wang et elle s'appelait Mlle Wang. Elle n'était là que pour rendre visite à Mlle Zhang.
+Zhang Yuan a vu que cette fille était plutôt belle et bien élevée, alors il l'a quittée comme compagne pour sa fille. Les deux jeunes filles se sont montrées très affectueuses dès leur rencontre.
+Un jour, trois jours, neuf jours, juste quelques mois. Ce jour-là, Mlle Wang a emmené Mlle Zhang chez elle pour s'amuser. Zhang Yuan a vu qu'ils étaient tous les deux affectueux et a accepté.
+Après ne pas être allée loin, Mlle Wang a déclaréxa0: «xa0Mlle Zhang, cet itinéraire n'est pas facile à parcourir. La route ne vous est pas familière. Fermez les yeux, je vais vous soutenir.xa0»
+Dès que Mlle Zhang a fermé les yeux et entendu une rafale de vent dans ses oreilles, elle n'a pas su quel endroit elle avait trouvé. Il s'avère que cette Miss Wang est un esprit serpent blanc.
+Dès que Mlle Zhang est partie, elle n'était pas revenue depuis plusieurs mois. Zhang Yuan et son couple regrettaient leur fille, alors ils ont demandé à leur famille de venir la chercher.
+La famille n'a trouvé Mlle Zhang nulle part, ils ont donc dû partir les mains vides et le signaler au personnel. Zhang Yuanwai a eu peur quand il l'a entendu. Il a rapidement envoyé trois personnes audacieuses et prudentes pour s'enquérir de l'endroit où se trouvait la jeune femme. L'une de ces trois personnes s'appelle Feng Qiao, l'une est Yu Shun et l'autre est un éleveur de vaches.
+Quand ils sont partis, Zhang Yuanwai les a convoqués tous les trois. Il a donné des instructions minutieuses et détaillées, leur a donné de l'argent et leur a dit à tous les troisxa0: «xa0Celui qui retrouvera ma fille, je lui donnerai la fille Xu.xa0» J'ai également apporté une paire de cercles de jade, que Mlle Zhang aime habituellement, comme preuve.
+Les trois d'entre eux ont demandé où se trouvait la jeune femme. Ils cherchaient depuis longtemps et n'avaient même pas vu l'ombre de la jeune femme.
+Un jour, ils ont marché jusqu'à une montagne profonde et une vieille forêt, et ont entendu des personnes âgées dire qu'il y a quelques mois, ils ne savaient pas où soufflait un vent fort, et ils ont vu un serpent blanc rouler autour d'une belle femme à l'est.
+Dès qu'ils ont entendu le ton, ils se sont dit que Mlle Zhang avait dû être enlevée par le White Snake Spirit, alors ils sont allés à l'endroit indiqué par le vieil homme.
+Ils ont tous les trois cherché longtemps avant de trouver un gros trou noir sur une falaise. Dès que les trois en ont discuté, ils sont allés dans la rue et ont demandé au forgeron de frapper quelques couteaux bien aiguisés et ont acheté un panier en bambou, un coq et une longue corde. Ils ont ensuite placé le couteau sur la porte de la grotte, placé le coq dans le panier en bambou, puis ont utilisé une corde pour suspendre le panier en bambou devant le trou.
+Au moment de fumer partout, le coq chantait. Le serpent blanc avait faim. Entendant un poulet aboyer à l'extérieur de la grotte, il a rapidement couru vers la porte de la grotte pour y jeter un coup d'œil et a vu un poulet frais dans la cage. Le serpent haussa la tête. Ça ne m'a pas fait mal et je n'ai pas mangé de poulet, mais on m'a percé la carapace avec quelques couteaux.
+Au bout d'un moment, il n'y a eu aucun mouvement dans la grotte, alors ils se sont préparés à sauver la jeune femme. Personne n'a envie de descendre une falaise aussi haute. Tu me pousses et je te pousse. Après avoir poussé pendant une demi-journée, l'éleveur de vaches a toujours bon cœur, est audacieux et prêt à descendre. Les deux ont utilisé un panier en bambou pour déposer la petite vache dans un panier en bambou.
+J'ai été choquée quand j'ai vu le troupeau de vaches dans la grotte. Le serpent blanc est mort dans le lit et Mlle Zhang pleurait à côté d'elle. L'éleveuse de vaches a expliqué son intention à Mlle Zhang et a également sorti la paire de cercles de jade.
+Dès que la jeune femme l'a vue, elle a de nouveau pleuré en tenant le berger dans ses bras. La jeune femme était très reconnaissante de la grâce salvatrice de la vie de l'éleveur de vaches. Elle lui a donc offert un cercle de jade en guise de preuve de leurs fiançailles.
+À ce stade, le vent et la pluie ont crié au sommet, leur disant de monter rapidement. Ce panier en bambou est petitxa0; il ne peut accueillir qu'une personne à la fois. Lequel monte en premierxa0?
+L'éleveur et la jeune femme ont persévéré pendant une demi-journée. La jeune femme ne pouvait toujours pas s'empêcher de garder la vache, alors elle est montée la première. Feng Chao et Yu Shun ont longtemps eu le cœur noir. Lorsque la jeune femme est arrivée, elle l'a d'abord renvoyée et a jeté le panier en bambou en bas de la falaise, dans l'espoir de faire mourir de faim l'éleveur de vaches dans la grotte.
+De retour au domicile de Zhang Yuanwai, Zhang Yuanwai a demandéxa0: «xa0Pourquoi l'éleveur de vaches n'est-il pas encore revenuxa0?xa0»
+Yu Shun a dit à la hâtexa0: «xa0L'éleveur de vaches est tombé au pied d'une falaise en sauvant la jeune femme.xa0»
+Zhang Yuanwai est une personne digne de confiance, il a donc donné sa fille Xu à Yu Shun. Le style n'a pas été contestéxa0; la pluie a rapidement rempli le vent de beaucoup d'or et d'argent.
+L'éleveur a laissé la jeune femme monter la première. Ils n'ont pas posé la corde pour la première fois, et ils ne l'ont pas posée pour la deuxième fois. S'attendant au style, Yu Shun, les deux étaient déjà bouleversés. Au contraire, ils n'étaient pas pressés dans la grotte. Quand ils avaient faim, ils attrapaient le coq, le mangeaient cru et restaient dans la grotte pour jouer quand ils étaient rassasiés. S'il veut mourir de toute façon, pourquoi ne pas d'abord faire le tour de la grottexa0; peut-être vivra-t-il encore quelques jours.
+Il a grimpé et rampé, ne sachant pas depuis combien de temps il grimpait. Soudain, lorsqu'il a vu une lueur de lumière devant lui, il a touché l'endroit où il y avait de la lumière. Il s'est avéré que c'était un trou. Dès que les vaches sont sorties du trou, elles ont profité de la lune pour mesurer la descente de la montagne et ont avancé. Il s'est promené pendant un moment et a rencontré une famille. Ils étaient très riches, mais ils ne savaient pas ce qui se passait chez eux. Tout le monde dans la maison a pleuré.
+L'éleveur ne pouvait s'empêcher d'avoir faim, alors, en pleurant ou en riant, ils se sont approchés et ont frappé «xa0ding-dong-dongxa0» à la porte. C'est aussi très étrange. Quand il l'a frappé, les gens de la maison ont cessé de pleurer. Ils ont amené les éleveurs de vaches à la maison avec joie un par un et l'ont traité avec un grand bol de sièges, que l'on appelle même une bouée de sauvetage.
+L'éleveur de vaches ne savait pas ce qui se passait. Ce n'est qu'alors que le patron de cette maison a déclaréxa0: «xa0J'ai un fils dans ma famille. Je ne sais pas quelles règles ma mère a enfreintes quand j'étais enceinte. Il a été assassiné en pleine nuit aujourd'hui. S'ils ne le tuent pas, 100 personnes devront naître ce soir pour lui sauver la vie. Quatre-vingt-dix-neuf sont déjà arrivés. Apparemment, il est presque l'heure d'arriver. Où d'autre viennent les gens dans ce champ montagneux désertxa0? Grâce à l'arrivée d'un bienfaiteur qui a sauvé la vie de mon fils, et le bienfaiteur est si aimable, comment osons-nous ralentirxa0?xa0»
+L'éleveur a passé la nuit dans cette maison et est parti tôt le lendemain matin. La famille est si précise qu'elle veut désespérément rester. Ils veulent qu'il joue encore quelques jours. L'éleveur pense à la jeune femme. Peu importe à quel point ils veulent rejouer, ils doivent partir. Comme il n'y avait aucun moyen de contourner cette maison, ils ont pris des affaires et ont voulu les donner à l'éleveur de vachesxa0; ils ne voulaient rien de tel que l'éleveur de vaches.
+Le propriétaire de cette maison a ditxa0: «xa0Bienfaiteur, prends tout ce que tu vois.xa0»
+Il s'avère que le bébé secouru a dit à l'éleveur de vaches hier soirxa0: «xa0Mon père t'a envoyé quelque chose, je ne veux rienxa0; juste le melon sur le toit.xa0»
+L'éleveur a dit au patronxa0: «xa0Si tu veux vraiment me le donner, donne-moi simplement le melon sur le toit.xa0»
+Ce vieil homme ne s'attendait pas à ce qu'il veuille ce bébé. Il ne pouvait pas le supporter. Finalement, il s'est obstiné à direxa0: «xa0Appelle-le toi-mêmexa0; s'il tombe, tu le prendsxa0».
+L'éleveur de vaches a criéxa0: «xa0Melon, melon, viens avec moi.xa0» Curieusement, le melon «xa0heinxa0» est immédiatement tombé devant lui.
+Le vieil homme lui a ditxa0: «xa0Le melon d'hiver est un bébé. Ma famille compte sur lui pour faire fortune. Si vous avez faim, si vous êtes fatigué ou si vous êtes pauvre, appelez-le simplement «xa0melon d'hiverxa0», vous aurez naturellement ce que vous voulez.xa0»
+L'éleveur a remercié le propriétaire. Après avoir marché pendant un moment, il avait faim, alors il a essayé de crierxa0: «xa0Melon, j'ai faim.xa0» Dès que le melon «xa0hu-laxa0» s'est détourné, la table était pleine de vin et de viande, et dès que j'ai fini de le manger, le «xa0hu-laxa0» a disparu.
+Fatigué de marcher, il a répétéxa0: «xa0Melon, je suis fatigué.xa0» Une fois de plus, le melon est devenu un bon cheval et s'est enfui avec un éleveur de vaches.
+L'éleveur de vaches est venu chez Yuanwai et a vu que la maison était bien éclairée et qu'un joyeux événement avait lieu. Il s'est avéré que Yu Shunzai s'est marié à sa jeune femme. D'un seul coup, ils ont voulu punir les bonnes manières et la pluie, mais ils ne pouvaient pas blâmer la jeune femme. Ils ont donc jeté le cercle de jade par la fenêtre dans la maison de la jeune fille et l'ont rendu à la jeune femme. Il a marché jusqu'au barrage en face de la porte Yuanwai et a placé le melon par terre et a ditxa0: «xa0Melon, je vais me marier ce soir. S'il te plaît, construis-moi une grande maison avec 48 briques et colonnes de jade.xa0» Quand j'ai fini de parler, je me suis endormie.
+Dès que le berger s'est réveillé, ils ont certainement construit une grande maison avec des briques dorées et des piliers de jade, qui a immédiatement attiré tous les consommateurs d'alcool de la famille à l'extérieur de la maison. Quand j'ai vu l'éleveur de vaches, je les ai chaleureusement accueillis et je leur ai dit qu'il organiserait également un joyeux événement.
+Dès que l'incident s'est propagé, Feng Zao, Yu Shun, Miss et Yuanwai ont également couru pour observer cette chose étrange. Peu importe si vous regardez celaxa0; la vérité a été révélée.
+Le vent et la pluie étaient si effrayés qu'ils ont fait demi-tour et ont couru. L'éleveur de vaches a appeléxa0: «xa0Melon, melon, va prendre le vent et la pluie tombe pour moixa0; je veux sucer leurs muscles et peler leur peau.xa0» Quand j'ai entendu le melon pleurer, il s'est envolé avec un son «xa0heinxa0», supprimant le vent et la pluie.
+L'éleveur de vaches a également raconté aux buveurs comment les deux hommes lui avaient fait du mal. Dès que ces personnes l'ont entendu, elles ont toutes dit qu'il fallait les tuer. Quand ils élevaient des vaches, ils ont tué Feng Zuo et Yu Shun.
+Plus tard, l'éleveur de vaches est devenu un couple avec la jeune femme et a vécu une vie heureuse et bien remplie.
+Traduit par IA   
+
+
+
+
+

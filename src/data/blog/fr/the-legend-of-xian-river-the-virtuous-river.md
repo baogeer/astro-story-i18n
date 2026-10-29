@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-15 08:17:21
+title: "La légende de la rivière Xian, la rivière vertueuse"
+featured: false
+draft: false
+description: "La rivière Shijihe à Laiyang est également connue sous les noms de rivière Xianhe et de rivière Xuanhe. La légende raconte que l'empereur Jade a ordonné aux Cinq Dragons d'ouvrir la rivière et de se disputer le trône. Seul le Shilong a pu respecter les gens et contourner le jardin du village. Big Bend 72 et Little Bend 99. L'empereur Jade a loué sa vertu et s'est tenu à la tête des Cinq Dragons. La rivière Shiji a obtenu son nom et a ensuite conduit le dragon à conduire la rivière Wulong directement dans la mer de Chine méridionale. L'histoire fait l'éloge de la gentillesse de prendre soin des gens."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-xian-river-the-virtuous-river.png)
+
+
+
+
+ Laiyang possède une rivière Wulong. La rivière Wulong est formée par la confluence de cinq rivièresxa0: la rivière Shijiao, la rivière Bailong, la rivière Qingshui et la rivière Fushui. Les habitants de la «xa0rivière Shijiaoxa0» dans la rivière Wulong sont également connus sous le nom de «xa0rivière Xianhexa0», également connue sous le nom de «xa0rivière Xuanhexa0». Pourquoi çaxa0? Il s'avère qu'il y a une belle légende ici.
+On dit qu'il y a longtemps, il n'y avait pas de rivière au nord de la ville de Laiyang, mais la ville de Laiyang était un vaste océan de sculptures, connu sous le nom de «xa0XI (ce mot nourrit [xi]) dans le livrexa0». Il y a cinq dragons à Ze. Pour devenir le leader, ils crachent du brouillard dans les nuages toute la journée, jettent leur crinière et se battent sans cesse. En conséquence, le vent et la pluie sont déséquilibrés et Li Min a beaucoup souffert.
+Lorsque l'empereur Jade l'a découvert, il a convoqué les cinq dragons à la Cour céleste. Les Cinq Dragons sont arrivés à Tianting et ils se sont de nouveau disputés bruyamment au Ling Xiao Treasure Hall. L'empereur Jade était furieux et était sur le point de les punir. «xa0Votre Majesté, le vieil adage ditxa0: «xa0Les oiseaux volent sans tête, les serpents ne marchent pas sans têtexa0». De plus, il n'y a pas de leadersxa0; la lutte est inévitable. Pourquoi ne pas les laisser conduire cinq rivières distinctes au nord de la ville de Laiyang. Le premier chef des Cinq Dragons était le premier.xa0» L'interprète de Jade Emperor.
+Cinq dragons ont pris les devants, ont quitté Tiantiing et sont retournés à Laiyang en un éclair. Ils ont chacun choisi leurs propres sources et ont été des pionniers. À l'exception du Clam River Dragon, les quatre autres dragons se sont déchaînés en ouvrant la rivière. D'innombrables villages et jardins pastoraux ont été détruits. En conséquence, les quatre dragons se sont d'abord rendus à la cour de Tiantian pour échanger des ordres. Il ne reste plus que Shellfish River Dragon, qui se fait attendre depuis longtemps et qui est épuisé. L'Empereur de Jade lui a demandéxa0: «xa0Pourquoi est-il si tardxa0?xa0» Shijihe a déclaréxa0: «xa0Quand je suis arrivée dans la ville de Laiyang, j'ai vu que la terre y était aride et que les immigrants traitaient l'eau comme du pétrole et faisaient preuve de compassion. Ils ont donc choisi la source de la rivière un peu plus loin. Afin de protéger la campagne riveraine des inondations, ils ont fait un détour. La grande courbe tournait à 72 et la petite courbe à 99. Il était donc trop tard. L'empereur Wangyu était en colère.xa0» L'Empereur de Jade non seulement ne l'a pas blâmé, mais l'a plutôt félicitéxa0: «xa0Bienxa0! Ce dragonxa0!xa0» La devise étaitxa0: «xa0Attends les cinq dragons, avec Hyun-long au sommet.xa0» Les quatre autres dragons ont honte et une honte insupportable. Depuis lors, les Cinq Dragons sont dirigés par Hyun-ryong. La rivière Shijihe est connue sous le nom de «xa0rivière Xianhexa0». Elle est également connue sous le nom de «xa0rivière Whirlwindxa0» car elle comporte de nombreux virages et tourbillons en cours de route.
+Après que Xianhe ait été honoré en tant que chef des Cinq Dragons, il a également ramené les quatre dragons à «xa0[Xi] Yangzexa0» et a dit aux dragonsxa0: «xa0Si nous attendons que les cinq dragons se rassemblent ici, cela fera sûrement du mal aux gens pendant longtemps. Pourquoi ne pas travailler ensemble pour traverser les montagnes et diviser les montagnes et ouvrir une rivière menant directement à la mer de Chine méridionale.xa0» Les Quatre Dragons Qi Yingxa0: «xa0La vie est la seule à suivrexa0!xa0» En conséquence, Xianlong a amené les quatre dragons à unir leurs forces et a certainement ouvert une rivière directe menant à la mer de Chine méridionale. C'est la rivière Wulong.
+Traduit par IA   
+
+
+
+
+

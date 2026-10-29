@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-07 18:53:32
+title: "Jinzhan et Baiye tuent le dragon maléfique"
+featured: false
+draft: false
+description: "Il y a des dragons dans la rivière Jiulong à Zhangzhou. Le jeune Baiye et la fille Jin Zhan ont courageusement sauté dans la rivière pour se battre et sont tous deux morts. Les gens ont découvert que deux fleurs étranges poussaient au combat. Le pétale blanc a un cœur doré appelé bougie dorée, et l'autre touffe est appelée trèfle à feuilles, ou jonquille, faisant l'éloge des héros qui ont tué des gens."
+---
+
+
+
+![AstroPaper I18n](/jinzhan-and-baiye-slay-the-evil-dragon.png)
+
+
+
+
+ À la périphérie sud-ouest de la ville de Zhangzhou, se trouve une magnifique montagne Yuanshan. Une grande rivière coule vers l'est au pied de la montagne. Neuf beaux et gentils dragons dorés vivent dans la rivière. Little Golden Dragon nage et joue souvent dans la rivière. Les gens appellent cette rivière la rivière Jiulong. Sur la rive sud de la rivière Jiulong se trouve un beau village. De nombreux travailleurs aimables vivent dans le village. Ils cultivent ici depuis des générations et mènent une vie confortable. Parmi eux se trouve une adolescente travailleuse et courageuse nommée Baiyexa0; il y a aussi une fille intelligente et belle nommée Jin Zhan.
+Un jour, il faisait beau et les neuf petits dragons dorés jouaient dans la rivière. Soudain, le vent faisait rage, des nuages sombres roulaient et d'énormes vagues faisaient rage. À mon insu, un dragon maléfique s'est envolé de là et s'est accroché au petit dragon doré, comme s'ils allaient tous les avaler d'une seule bouchée. L'intelligent petit dragon doré ne pouvait pas combattre ce dragon maléfique, alors dépêchez-vous de vous cacher dans la piscine profonde. Lorsque le dragon maléfique a vu que Little Golden Dragon s'était échappé, il a pris le contrôle de la rivière et a fait des vagues dans la rivière, provoquant sa montée, s'est répandue sur toute la rive ouest et a inondé le village de Liangtian. Les habitants du village ont dû aider les personnes âgées et courir vers Yuanshan pour échapper à la catastrophe. Quand le dragon a vu que les gens en avaient peur, ils étaient encore plus fiers. Ils ont une fois de plus déclenché d'énormes vagues, provoquant la montée du fleuve encore et encore. Ils voulaient se répandre dans tout Yuanshan, traiter les personnes évadées comme des snacks et prendre un bon repasxa0!
+Quand tout le monde avait trop peur de faire quoi que ce soit, le courageux adolescent Moye s'est levé et a dit à tout le mondexa0: «xa0Pères et frères, n'ayez pas peur. Nous devons unir nos forces pour combattre le dragon maléfique. S'il vous plaît, frappez au bol en céramique et encouragez-moi fort pour m'aider à éliminer ce dragon maléfique.xa0» En parlant de retards, c'était rapide. Momoye a dansé avec un couteau en bois, a sauté fort sur le dragon et lui a tranché la partie mortelle du bas du dos. Le dragon a crié de douleur. La queue du dragon a traversé Momoye, puis a rapidement clignoté sur le côté, puis l'a coupée à nouveau. Le dragon maléfique s'est baladé de douleur et a jeté le rouleau à persiennes dans l'eau.
+Sur le rivage, Jin Zhan, qui criait des acclamations à la foule, a vu que la feuille était dangereuse et a sauté dans l'eau pour participer à la bataille. Frappez le dragon, renversez le dragon et poignardez le dragon dans le cœur. Le dragon a mené une ultime lutte et a fait de son mieux pour balayer Jin Zhan avec sa queue et l'a noyé dans l'eau. À ce stade, l'eau s'est retirée et tout le monde a rapidement dévalé la montagne à la recherche de volets et de bougies dorées, mais ils n'ont pas pu les trouver. J'ai vu qu'à l'endroit où ils se sont battus contre le dragon, il y avait deux très belles fleurs étranges. Personne ne connaissait leur nom parce qu'ils poussaient dans l'eau, alors ils les appelaient «xa0jonquillesxa0». Plus tard, ces deux fleurs étranges avaient exactement la même tête et les mêmes feuilles, mais deux types de fleurs différents ont fleuri. Une fleur avait six pétales blancs avec un petit bulbe doré au milieu. Les gens l'appelaient «xa0bougie doréexa0», et l'autre fleur avait également six pétales blancs, mais au milieu, il y avait plusieurs petits pétales avec des plis légèrement jaunes à la base. Les gens les appelaient «xa0cent feuillesxa0». Depuis lors, des jonquilles ont poussé au pied du mont. Maruyama.
+Traduit par IA   
+
+
+
+
+

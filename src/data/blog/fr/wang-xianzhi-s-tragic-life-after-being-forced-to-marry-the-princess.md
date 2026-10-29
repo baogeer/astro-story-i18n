@@ -1,0 +1,66 @@
+---
+pubDatetime: 2026-11-21 14:02:26
+title: "La vie tragique de Wang Xianzhi après avoir été forcée d'épouser la princesse"
+featured: false
+draft: false
+description: "Wang Xianzhi et sa femme, Lu Daomao, sont profondément affectueux. La princesse Xin'an les a forcés à se marier. Il a été contraint de quitter sa femme parce que son automutilation n'était pas efficace. Lu Daomao a fini par être déprimé et Wang Xianzhi l'a regretté toute sa vie. Même s'il s'est remarié avec une concubine, son ex-femme lui manquait toujours jusqu'à sa mort, et son amour forcé n'a finalement abouti à rien."
+---
+
+
+
+![AstroPaper I18n](/wang-xianzhi-s-tragic-life-after-being-forced-to-marry-the-princess.png)
+
+
+
+
+ Wang Xianzhi était le plus jeune fils de Shusheng Wang Xizhi. Il était célèbre pour sa calligraphie et sa calligraphie cursive. Il était aussi célèbre que son père. Les générations suivantes les ont également appelés le «xa0deuxième roixa0».
+Il est extrêmement talentueux, désinhibé et gracieux pendant un moment. De plus, ils sont beaux et font attention au style de décoration et ont le style de vie raffiné des enfants de la famille. Il n'est pas surprenant qu'une telle personne soit secrètement amoureuse de la princesse Xin'an.
+La princesse Sima Daofu de Xin'an est la fille de l'empereur Jin Jianwen. Elle aime Wang Xian depuis longtemps. Malheureusement, elle est déjà mariée au fils de Hengwen, Hang Ji. Plus tard, lorsque Heng Ji a voulu usurper son pouvoir militaire, la princesse Xinan a divorcé de lui.
+La princesse, encore jeune et belle, a enfin la liberté de rechercher le bonheur.
+À l'origine, c'était censé être une bonne relation. Cependant, Wang Xianzhi est déjà marié à sa femme Lu Daomao et le couple est très proche. Lu Daomao est la fille d'une famille célèbre et Wang Xizhi est le gendre oriental de la famille Lu.
+Lu Daomao est élégant, calme et talentueux. C'est une femme qui a un style de vie très intéressant. Elle est également la cousine de Wang Xianzhi. Les deux se connaissent depuis l'enfance et sont jeunes. Quand ils ont grandi, leurs familles ont arrangé des mariages pour eux. Wang Xianzhi n'est pas très passionnée par sa carrière. De plus, son père a créé un grand nombre de domaines agricoles dans les montagnes et les forêts et sa vie est assez riche. Après avoir eu la chance d'avoir une épouse sage, elle était encore plus indifférente à la gloire et à la fortune. Elle voulait simplement passer ses journées en silence dans le paysage et se concentrer sur sa calligraphie.
+Selon la princesse Xin'an, bien que Lu Daomao ait été mariée sous la dynastie Ming, elle n'a jamais laissé d'enfants à Wang Xianzhixa0; elle n'a donné naissance qu'à une fillexa0; elle est également décédée. Si une femme n'a pas d'enfant, elle peut être abandonnée. Wang Xian doit être heureuse de l'avoir épousé avec le statut honorable de Jin Zhi Yu Ye. En conséquence, elle a minutieusement demandé à l'impératrice douairière.
+La famille royale des Jin de l'Est appréciait également beaucoup la personnalité de Wang Xianzhi, et l'impératrice douairière a pris l'initiative de faire en sorte que l'empereur Xiaowu ordonne Wang Xianzhi de hors-la-loi.
+De toute évidence, la princesse Xin'an a sous-estimé l'amour de Wang Xianzhi pour sa femme.
+C'était une journée tranquille. Le sacrement accordé à Wang Xianzhi pour faire une pause avec sa femme et se remarier a bouleversé la paix de la famille Wang. Le jeune couple est affectueux et affectueux. Ils ont accepté de s'occuper de leurs enfants pendant longtemps et n'ont jamais pensé qu'ils seraient séparés dans cette vie. Mais cette fois, ils n'ont pas rencontré de contrat de vie ou de mortxa0; ils ont rencontré le pouvoir impérial, un pouvoir impérial irrésistible.
+Wang Xianzhi a regardé sa femme verser des larmes en silence et est entré seul dans la salle d'étude. Ça devait être une nuit blanche.
+Ce qui a surpris tout le monde, c'est que Wang Xianzhi est sorti de la salle d'étude tôt le lendemain matin et est devenu boiteux. Il ne supportait pas de quitter sa femme et il ne trouvait aucun moyen de résister. En désespoir de cause, je me suis brûlé les pieds avec de l'absinthe, me laissant handicapée à vie.
+Dans ses bras, Lu Daomao a versé des larmes comme la pluie. Elle a ressenti toutes les traces de la douleur de son mari. Elle ne peut pas le supporter.
+En semaine, j'ai besoin d'un mari qui garde ses cheveux bien rangés. À quel point est-ce que je ressens pour elle avant de me blesser si fortxa0?
+Le feu d'Ai brûlait, mais son cœur était si calme. Si vous pouvez garder votre proche à vos côtés, quel genre de douleur est-cexa0? Il l'a retenue et lui a ditxa0: «xa0Ne pleure pas, nous n'avons pas besoin d'être séparés. Je suis une personne handicapée maintenant, comment dois-je être un chevalxa0?xa0»
+De toute évidence, Wang Xianzhi a également sous-estimé l'affection de la princesse Xin'an pour lui. Elle a facilement dit qu'elle s'en fichaitxa0; même s'il était nul, elle se marierait.
+Wang Xianzhi était complètement désespéré.
+Lu Daomao est sorti, portant un fardeau dans ses mains. Il a dit doucementxa0: «xa0Fais-en don, je suis parti, je ne te laisserai plus te blesser.xa0»
+«xa0Pas besoinxa0!xa0» Si tu ne l'as plus dans ta vie à partir de maintenant, à quoi ça sert d'être en viexa0? «xa0Allons rencontrer la princesse ensemble, pourquoi voudrait-elle nous séparer pour la viexa0? Même si tu perds la vie dans le Temple d'Or, de quoi as-tu peurxa0?xa0»
+Lu Daomao l'a tenu dans ses brasxa0: «xa0Non, donne-le. Il ne s'agit pas seulement de la vie et de la mort de nous deux. Si cela met l'empereur en colère, cela entraînera un désastre pour toute la famille.xa0»
+Pour les personnes ayant ce genre de tempérament affectueux et juste, abandonner la vie par amour n'est pas difficile. Mais sa vie n'est pas que la sienne. Il a trop de responsabilités et de fardeaux.
+Elle est partie en bateau, et il n'a pu que traverser la rivière. À ce moment-là, la famille de sa mère s'étant séparée, elle a dû aller voir son oncle. Alors que Wang Xianzhi regardait son dos se brouiller progressivement, elle était si triste qu'elle ne pouvait pas s'en empêcher. C'est comme la vie ou la mort. Elle a perdu son père, sa fille, et maintenant elle n'a plus de mari. Depuis, elle est restée seule sous une clôture. Comment a-t-elle vécu cette viexa0?
+Peu de temps après la suspension de Lu Daomao, il est devenu déprimé. En apprenant cette nouvelle, le cœur de Wang Xian a été coupé comme un couteau. Il a été tourmenté par le chagrin et la culpabilité toute sa vie, et il ne s'est jamais pardonné avant sa mort.
+Le responsable de cette tragédie est la personne qui est aujourd'hui son épouse, la princesse Xin'an. Il est plein de ressentiment à son égard.
+Comme vous pouvez l'imaginer, la princesse Xin'an a fait de grands efforts pour obtenir le mariage et elle n'était pas heureuse. Il n'avait pas la moindre affection pour elle, et sa courtoisie ostensible révélait une pointe de fraîcheur. Mais après tout, c'est quelqu'un qu'elle adore et qu'elle admire. En tant qu'épouse, vous pouvez le voir tous les jours et elle est également contente.
+Plus tard, Wang Xianzhi a eu une autre concubine, Momoye, et a passé toute la journée à être amoureux d'elle. Il semblait qu'elle avait toujours peur que les gens du monde ne le sachent pas et lui montrait souvent de l'amour en chantant des poèmes et des paroles.
+Chaque fois que Momoye sortait, Wang Xianzhi devait l'accueillir personnellement lors de la traversée en ferry et lui écrivait également un poème. Aujourd'hui, Nankin possède toujours le monument en pierre «xa0Ancient Peach Leaf Ferryxa0», qui témoigne de leur amour à travers les âgesxa0:
+Les feuilles de pêcher sont mélangées à des feuilles de pêcher et les pêchers ont des racines de pêcher. Être gentils les uns envers les autres me rend heureuse.
+Les feuilles de pêcher se transforment en feuilles de pêcher, il n'est donc pas nécessaire de traverser la rivière. Mais il n'y a pas eu de difficultésxa0; je vous ai accueilli moi-même.
+Momoha a également écrit de la poésie et des réponses, et depuis, elle l'appelle gentiment «xa0Danseiroxa0».
+La princesse Xin'an a compris qu'il s'agissait de sa résistance silencieuse. Son cœur était plein d'amertume, mais comme elle avait préparé elle-même ce verre de vin amer, elle ne pouvait que résister à le boire. La princesse autrefois fière était soumise et tolérante en raison de son amour profond. Elle n'a pas dit un mot de plainte, encore moins elle est retournée chez sa mère pour se plaindre. Elle a toujours utilisé sa force pour protéger son mari et, après son mariage, il est allé droit au but et a ordonné au gouvernement chinois. Elle espère un jour inspirer son mari et vraiment gagner son cœur.
+Momoye est une femme intelligente et polyvalente, mais elle n'est que l'ombre de Lu Daomaoxa0; elle est également un outil permettant à Wang Xianzhi d'exprimer sa colère et son mécontentement au monde entier. La seule chose que Wang Xian ne pouvait pas lâcher dans son cœur était toujours Lu Daomao. Les pensées et l'amour de Wang Xianzhi pour son ex-femme ont été révélés dans plusieurs articles de calligraphie qui circulent à ce jour.
+«xa0Love Postxa0»xa0: Aimez, aimez, allez n'importe où. Désolée, c'est tristexa0! Je ne sais pas quand je te reverrai. Quelle métaphore pour ce cœurxa0! Je veux juste le chérir et le respecter. La lettre inversée a été retardée et la situation a été rétablie. (Voir «xa0Chunhua Ge Postxa0»)
+«xa0Sister Love Postxa0»xa0: Le sexe entre sœurs est enchevêtré, il est impossible de toucher les choses. Si tu donnes, tu devrais être triste pendant longtemps. («xa0Poste du pavillon Chunhuaxa0»)
+«xa0Dévotion au bon postexa0»xa0: même après des années de dévouement, vous pouvez profiter de la journée et souffrir souvent plus que suffisamment. Si Fang voulait vieillir avec sa sœur dans la même mesure qu'avant, ne serait-ce pas comme s'ils avaient rompu jusqu'à présent. Ils sont profondément déçus. Pourquoi est-ce que je devrais revoir ma sœur jour et nuitxa0? Vous ne pouvez rien faire pour lever les yeux et faire votre deuilxa0; vous avez juste besoin d'être découragé. («xa0Chunhua Ge Postxa0»)
+Nous sommes séparés depuis tant d'années, et avec le recul, le moment le plus heureux de ma vie a été quand nous étions ensemble. Je n'ai jamais pensé que nous aurions un jour d'intervalle.
+Ton sourire a envahi mon cœur. Je voulais l'oublier, mais je ne l'ai jamais oublié. Plus tu es parti, plus je ne peux m'empêcher de penser à toi. Est-il vrai que ce chagrin et cette douleur ne cesseront pas avant la mortxa0?
+Cet arbre est déjà un bateau et il est difficile de le récolter recouvert d'eau.
+Ce n'est que lorsque Wang Xian avait 41 ans que la princesse Xin'an a eu une fille, nommée God Ai. Ses pensées et sa culpabilité pour Lu Daomao l'ont entraîné vers le bas. Deux ans plus tard, Wang Xianzhi est décédé.
+Cet homme exceptionnel et fier est né comme s'il devait se trouver au milieu de milliers de personnes, jouissant d'une grande gloire. Cependant, à cause de mon excellence, j'ai été blessé pendant la moitié de ma vie.
+«xa0Le livre de Jinxa0» raconte que lorsque Wang Xianzhi est mort, le pratiquant taoïste lui a demandé ce qu'il regrettait de sa vie. Il a déclaréxa0: «xa0À mon insu, je me souviens seulement d'avoir divorcé de la famille Lu.xa0»
+Le cœur de la princesse Shin An est soudainement devenu clair à ce moment-là. Il lui a fallu toute une vie pour l'aimer, mais après tout, elle n'a pas reçu la moindre trace d'affection de sa part. À la fin de sa vie, il pensait encore à la femme qui était déjà revenue au paradis. Je le savais depuis longtemps, alors pourquoi était-il nécessaire de gérer cet amour perdant en premier lieuxa0?
+C'est pénible d'être obsédé par quelqu'un à qui on n'appartient pas et de ne pas pouvoir l'avoir.
+En fait, c'est encore plus douloureux de l'attraper.
+L'œuvre de Purple, «xa0Sauvignon Blanc - The Beautiful Story Behind Tang and Song Poemsxa0», est vendue au prix de 28 yuans Dangdang Online Book Link Tmall Book Link Excellent Online Book Sale Link Jingdong Book Sale Link 18,2 yuans
+Traduit par IA   
+
+
+
+
+

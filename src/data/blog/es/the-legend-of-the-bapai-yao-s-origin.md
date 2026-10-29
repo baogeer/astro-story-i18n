@@ -1,0 +1,34 @@
+---
+pubDatetime: 2026-11-11 17:33:17
+title: "La leyenda del origen del Bapai Yao"
+featured: false
+draft: false
+description: "Los antepasados de Bapaiyao vivieron originalmente en Huguang Daozhou. Debido a los sucesivos años de severas sequías, los cuatro hermanos se separaron para ganarse la vida después de vender sus campos y dar a luz. Lao Si Dao Bingo se trasladó al sur a pesar de las dificultades y, finalmente, prosperó en Huangyuan, Liannan. Más tarde, el Feng Shui fue destruido al ofender a Luo Xianxiu. Solo había ocho hogares dispersos para construir ocho Yao Pai, que se convirtieron en ocho Yao Pai. La historia muestra las dificultades de la migración y la sabiduría de sobrevivir en unidad."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-bapai-yao-s-origin.png)
+
+
+
+
+ Nuestros antepasados de la etnia Yao vivieron por primera vez en Huguang Daozhou. ¿Por qué se llaman Bapaiyao en el sur de China?
+Cuenta la leyenda así: Un año, el cielo estaba muy árido. No llovió ni una gota durante tres años y los campos estaban demasiado secos para poder cultivarlos. La familia Yao Han se peleó por el agua. Como resultado, ambas partes murieron y resultaron heridas. Las cosas empeoraron más tarde. El pueblo Han demandó a los yamen, y el gobierno usó esta excusa para pedir dinero al pueblo yao, obligando a nuestros antepasados a vender todas las casas del campo.
+Nuestros antepasados tenían cuatro hermanos. Sin campos, no podríamos vivir; tuvimos que aprender a hacer negocios y deambular por todas partes. Dividieron la calle Daozhou en tres rutas para ganarse la vida. El que se quedó en Huguang fue su hermano mayor, el segundo mayor que se fue a Jiangxi, y los mayores de tres y cuatro años que llegaron a Guangdong. Nuestros antepasados de Bapai Yao tienen cuatro años. Se llaman Dou Binguo.
+Cuando nuestros antepasados abandonaron Daozhou, salvaron sus vidas comiendo manglares y sufrieron una cantidad desconocida de sufrimiento. Permanecieron allí durante un tiempo y no pudieron vivir allí, «los peces andaban mal por la fosa y la gente caminaba por la montaña». Se apoyaron en un perro blanco para explorar el sendero de enfrente, y un perro amarillo les abrió el camino por detrás, bordeando el Dragón Terrestre (montaña), atravesando la cima de la montaña Jingyang en Tonggan, y caminaron hasta Maping (algunos dicen que era Mangcaoping) en el pólder de Lianzhou. Vieron que el Feng Shui en este lugar estaba bloqueado y que nadie estaba bloqueado. Luego montaron una casa de tiro para vivir y comenzaron un negocio para ganarse la vida.
+Me quedé en Dumapping un mes y 40 días. Debido a la mala situación de los negocios, no pude mantener mi vida y caminé a lo largo del río Lianzhou hasta la calle Sanjiangwei. Este día, acabo de conocer a una amable persona Han en la calle y la invité a quedarse.
+Vivieron en el río Sanjiang durante ocho o nueve años, cultivando verduras para ganarse la vida. Después de eso, todavía no podían vivir. También caminaron río arriba por el río Sanjiang hasta Zhangguyuan, donde permanecieron 18 días. Un día, cuando subieron la montaña Ziwei y vieron que la montaña Zhanggudong era enorme y el agua era enorme. No era un lugar ideal para quedarse. Se mudaron de nuevo y siguieron el río para encontrar un buen lugar para vivir. Más tarde, fui al lugar donde se unen la montaña Lianshan y el vórtice, y vi que el río en el cruce de la montaña Lianshan estaba despejado, así que cogí una balanza de plata para pesar el agua. El río que pesaba Lianshan tenía 2 partes 5, y el agua del río en el vórtice tenía 2 partes 9. Ese río siguió a ese río y recorrió 99 curvas a lo largo del río Woshui. Cuando llegué a la cordillera de Huangyuan, vi que los nueve dragones de Huangyuan eran buenos, y que los Ten Hima tenían un verdadero truco (que significa buen Feng Shui): talaron los manglares, partieron las espinas y establecieron una cabaña donde quedarse.
+Poco después de vivir en Huangyuan, la población creció cada vez más. 180 hogares vivían a la izquierda y 450 familias vivían a la derecha, lo que la convertía en una gran cabaña. Más tarde, me di cuenta de que los Han se estaban divirtiendo mucho, así que construyeron un templo, hicieron 36 estatuas de dioses y empezaron a jugar como los Han.
+Inesperadamente, después de un año de trabajo, llegó alguien vestido con ropa en mal estado. Se llamaba Luo Xian Xiucai. Cuando caminó hacia la casa de Nan Xiaoni, la gente no sabía que era el Sr. Geo. Pensaron que era un glotón, por lo que le dieron a beber una cucharada de agua antes de darle alcohol. Luo Xianxiu estaba muy enojado por esto y quería corromper el Feng Shui de Huangyuan Zhai. Le dijo a la gente de la aldea de Huangyuan: «El nombre 'Huangyuan' trae mucha mala suerte. La palabra «Huangyuan» significa que a las personas que han muerto a causa de una enfermedad se las lleva a cabo y se las entierra. De ahí en adelante, te enfermarás y amarillarás uno por uno, y morirás bien».
+Solo entonces Luo Xian-xiu dijo estas cosas. Después de eso, la gente de Huangyuan Zhai ciertamente murió de enfermedad una por una. Originalmente, era un pueblo bullicioso, pero pronto se convirtió en una montaña árida.
+Las venas del dragón de Huangyuan se han agotado; solo los Hachinohe que viven en Chabian no han muerto. Cuando decidieron buscar un nuevo lugar para vivir, cortaron el puente principal del templo en ocho secciones, cortaron el techo de paja para construir el templo en ocho bloques y cada una de las ocho familias fue a cada cima de la montaña para ganarse la vida. Año tras año, cada cima de la montaña floreció y se convirtió en una gran aldea (también conocida como Yao Pai). La casa militar en el lado norte del río Woshui es el hermano mayor, la Octava Cueva es el segundo hermano, el Fire Pai es el tercer hermano, el Dazhang es el cuarto hermano y el Ma Jianpai es el quinto hermano; al este del río Woshui, el Yuling Pai es el hermano mayor, el Nangang Pai es el segundo hermano y el Hengkeng Pai es el tercer hermano. Después de eso, la población aumentó gradualmente, y las ocho hileras no pudieron quedarse, y la gente se dispersó para vivir en 24 montañas.
+Después de dispersarse, era difícil que la gente se reuniera porque las montañas eran altas y el camino largo. Más tarde, construyeron un gran templo en cada fila y decidieron tener una sala de conciertos cada tres o cinco años, para que todo el mundo pudiera asistir a una fiesta. De esa manera, nuestro pueblo yao se estableció en la zona de Liannan y se convirtió en los actuales ocho paiyao.
+Narrador: La tetera de Deng Maling (Nangang), Fang Haligong (Bai Mang)
+Colección y recopilación: Xu Wenqing, Zhang Jingxiang
+Traducido por IA   
+
+
+
+
+

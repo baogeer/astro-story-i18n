@@ -1,0 +1,32 @@
+---
+pubDatetime: 2026-11-07 15:48:20
+title: "The She Folktale of King Panhu and the Third Princess"
+featured: false
+draft: false
+description: "Panjiu was originally a Tengu star and turned into a dragon dog in the ears of Emperor Gao Xin. Alien invaded and turned into a phoenix to slay King Fan, and Emperor Gao Xin kept his promise to marry him. Instead of collecting gold or silver, Panchang chose iron warehouses to buy agricultural tools, and went to Fenghuangshan with the Three Princesses to clear the land. Later, they were attacked by the Turkish emperor, and Panjiao was poisoned and killed. The Three Princesses led their family to flee to Jingning Chicken and multiplied. In the end, the Three Princesses returned to immortality, and the descendants of the Shes family painted their stories as ancestral images and worshiped."
+---
+
+
+
+![AstroPaper I18n](/the-she-folktale-of-king-panhu-and-the-third-princess.png)
+
+
+
+
+ Once upon a time, there were 28 star lodgings in the sky, and one of them was called Tengu Shuku. This tengu lodged a dream to be born in the womb of Emperor Gao Xin's Pu Niang (Shes: wife), but it rushed so fast that it panicked and penetrated into Emperor Gao Xin's ears.
+Once, Emperor Gao Xin had itchy ears. When he dug his ear with something, he actually dug up a bug. This bug is a tengu mutant. As soon as it saw the wind, it grew and became the boss. The mountain hamen called it the king of Panjiao.
+One year, Waifan came to attack Emperor Gaoxin, who lived in Fengjinshan, Fujian. Emperor Gao Xin lost the war and found a way. At this point, his daughter, the Third Princess, came to bed and said, “Father, there are tens of millions of trees on Fengjin Mountain, and there is always one that can be used as a pillar; on Fengjin Mountain, there is always one that will defeat an outsider.” As soon as Emperor Gao Xin thought that the Three Princesses' words were true, he posted a list: If anyone kills King Waifan, he will pick the gold, silver, copper, iron, and pearl agate from my six warehouses; if anyone kills King Waifan, my three princesses will marry him. As soon as the list was posted, King Panjiao was revealed and he decided to kill King Waifan. Panjiao Wang has the ability to fly as a phoenix in the sky; he can walk as a giraffe on the ground, and he can become a dragon king in the water.
+On that day, King Panjiao became a phoenix and flew outside of King Waifan's tent. As soon as Waifan Wang saw, it was a happy event that the phoenix had arrived. We quickly set up a feast to eat and drink. What about the results? King Gaifan and the left and right prime ministers were all drunk. King Panyu took the opportunity to cut off King Waifan's head and flew back to Fengjin Mountain to dedicate it to Emperor Gao Xin. Emperor Gao Xin watched it, and was happy and sad. What was happy was that Pan Yu killed King Waifan; what was sad was that it was said on the list at the time, and he couldn't accept it.
+When the three princesses knew their father's feelings, they said, “Father! The emperor's speech is Elephant Mountain. The emperor's speech doesn't count; who will listen to it in the future?” After listening to the Three Princesses, Emperor Gao Xin felt that the Three Princesses were reasonable. He first married the Three Princesses, then handed over the six keys to Panchang, and told Panchang: the first warehouse was gold; the second warehouse was silver; the third warehouse was bronze; the fourth warehouse was iron; the fifth warehouse was pearls; and the sixth warehouse was agate. But King Panyu didn't want gold, silver, or agate; instead, he chose an iron warehouse, picked up a hoe, and went to Fenghuang Mountain in Chaozhou, Guangdong to clear the desert.
+When King Panyu and the Three Princesses went to Fenghuangshan to clear the desert, King Gao Xin sent a big cock to the Three Princesses and told the Three Princesses that in the future you will have trouble; the rooster will take you away. Remember to run away to the place where the rooster crows; you must rest and clear the land.
+Lord Panyu and the Three Princesses cultivated land in Fenghuang Mountain. Later, the Turkish Emperor brought someone to fight Fenghuangshan, and King Panyi was shot dead by poisonous arrows. The Three Princesses and Mountain Harmen, under the leadership of the big rooster, passed through Fujian and fled to Maoyang in Jingning. When the big rooster crowed, people called Mao Yang's place “Chicken Cries.” Today people still call it that way.
+The three princesses and Shanha took a break at the side of Jitaiao, cleared the land, and had a great time.
+On the first day, the three princesses said to Mountain Hamen, “I am a celestial fairy. Now heaven urges me to go to heaven.” After a while, a red quilt fell from the sky, three inches above the ground. The three princesses stood in the red quilt, took off the crown, handed it over to Sister Lei, and finished the order. Red was held up by the Three Princesses and flew into the sky.
+Since then, Shanha has painted Emperor Gaoxin, King Panyi, and the Three Princesses on canvas, calling them “ancestral maps” for people to worship.
+Link: The Ancestral Map of the She Tribe, also known as the “Panjiantu”, is one of the main symbols of the Shes faith, and is also an important offering for the Shes when sacrificing their ancestors. Every year February, July, and August 15 of the lunar calendar are ancestral sacrifice days, and the Shes have to take out this picture to worship when they hold an ancestral sacrifice event.
+AI Translated   
+
+
+
+
+

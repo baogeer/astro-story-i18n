@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-19 19:51:12
+title: "La légende de Liu Bang et Zhang Liang à Zhen'an"
+featured: false
+draft: false
+description: "Zhang Liang a aidé Liu Bang à rester indifférent à la gloire et à la fortune après la dynastie Han et a vécu isolé dans la montagne Beiyang de la ville. Liu Bang s'est rendu et Zhang Liang s'est arrêté et s'est rencontré. Les deux ont apprécié le paysage et ont fait leurs adieux, laissant derrière eux des noms de lieux tels que Barrage River, Waitjialiang et Lujiajihe River en cours de route. La légende fait l'éloge de Zhang Liang pour son noble caractère, où il réussit et n'est pas avide de richesses."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-liu-bang-and-zhang-liang-in-zhen-an.png)
+
+
+
+
+ Zhang Liang, ministre du début de la dynastie Han, serait le père de la ville (au sud-est de l'actuel comté de Boxian, dans l'Anhui). Il était admiré par le monde pour ne pas être avide de pouvoir ou pour ne pas rechercher la gloire et la fortune après le succès. La légende raconte qu'il a déjà vécu isolé dans la région de Beiyangshan à Zhen'an. En conséquence, des bribes de légendes le concernant et Liu Bang circulent dans de nombreux quartiers de Zhen'an. Bien que la légende comporte des éléments fictifs, l'éclat de sa morale y transparaît.
+Zhang Liang était un conseiller important de Liu Bang et a apporté une contribution extraordinaire à l'établissement de la dynastie Han par Liu Bang. Liu Bang a félicité Zhang Liang pour avoir «xa0remporté une victoire décisive à des milliers de kilomètres de distance, entre planification et succèsxa0». Zhang Liang a donc été canonisé sous le nom de Liu Hou. Cependant, Zhang Liang est un gentleman indifférent à la gloire et à la fortune. Il a refusé d'obtenir un titre et Li Lu, mais il s'est échappé seul pour vivre isolé dans les montagnes profondes et les forêts de Zhen'an. Liu Bang a appris que son endroit isolé s'appelait la montagne Beiyang et il l'a personnellement visité. Zhang Liang était très ému. Il savait que son système montagneux isolé de Beiyang était un endroit barbare, avec des routes difficiles et dangereuses, et que sa voiture sacrée était insupportable. Il a envoyé des gens à 15 kilomètres à l'est du comté de Zhen'an pour arrêter les saints du village de Zhuanghe, dans l'actuel canton de Tiechang, pour arrêter les saints. Il a donc qualifié cet endroit de «xa0rivière barricadexa0».
+Liu Bang voulait rencontrer Zhang Liang, a imploré Zhang Liang de retourner en RPDC pour aider le gouvernement et a promis à un fonctionnaire méritoire, de l'argent et de la beauté. Mais Zhang Liang a envoyé une lettre disantxa0: «xa0Les responsables civils n'aiment pas l'argentxa0; les officiers militaires n'hésitent pas à mourirxa0; il suffit que vous me bannissiez de temps à autre. La vie est courte, pourquoi aspirer à la prospérité et à la richessexa0?xa0» Insistant, Liu Bang a insisté pour voir Zhang Liang et a menacé de ne pas retourner à Kyoto s'il ne voyait pas Zhang Liang. Zhang Liang était impuissant et a dû rencontrer Liu Bang sous le col de Jianfeng dans la commune de Yuexi. Depuis lors, le petit faisceau de montagne situé sous le col de Jianfeng s'appelle «xa0En attendant le chauffeurxa0».
+Les deux monarques se sont accompagnés. Ils ont discuté en admirant le paysage pittoresque des montagnes vallonnées. À leur insu, les deux hommes sont arrivés au bord de la rivière sous le mont Nanyang. Le paysage y est extrêmement beau. Des rochers dangereux et escarpés se dressent entre les rivières, formant de profondes gorges. Le lit de la rivière est rocheux et accidenté, et la rivière est de plus en plus raide, formant une plage dangereuse après l'autre. La montagne escarpée de Nanyang se dresse au bord de la rivière et contraste avec l'altitude de la crique. Après avoir apprécié le paysage magnifique et spectaculaire, les deux monarques ont fait leurs adieux ici. C'est pourquoi cette rivière est surnommée la «xa0rivière tombéexa0».
+(«xa0La belle Jin'anxa0»)
+Traduit par IA   
+
+
+
+
+

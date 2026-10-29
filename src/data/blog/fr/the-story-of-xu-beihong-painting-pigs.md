@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-07 21:23:09
+title: "L'histoire de Xu Beihong peignant des cochons"
+featured: false
+draft: false
+description: "Xu Beihong a rompu la vieille tradition selon laquelle «xa0Les cochons ne se font pas peindrexa0» et a peint des cochons à trois reprisesxa0: la première était intitulée «xa0Beihong dessine des cochons, des contes étrangesxa0», la seconde avec un poème autodérisoire, et la troisième fait la satire de phénomènes sociaux en élevant des cochons à l'aide d'une perche à toboggan. Bien que les peintures soient étranges, elles témoignent de son audace et de son esprit éclectiques."
+---
+
+
+
+![AstroPaper I18n](/the-story-of-xu-beihong-painting-pigs.png)
+
+
+
+
+ L'année du cheval était censée être consacrée aux chevaux, et ceux qui peignent des chevaux devraient prendre l'initiative, le maître peintre chinois Xu Beihong. Xu Beihong a étudié en profondeur l'apparence et les habitudes des chevaux. Il a dessiné plus d'un millier de croquis de chevaux. Il a pu exprimer des chevaux réalistes en utilisant des techniques de peinture occidentales et un pinceau et une encre de Chine. Sous son pinceau, il a créé l'image d'un cheval doté d'une personnalité distincte.
+Aujourd'hui, cependant, je vais me concentrer sur la peinture de chevaux, Xu Beihong, qui a peint des cochons.
+Dans le monde de l'art, il existe des cochons qui ne font pas partie de la tradition de la peinture. Tout au long de l'histoire de la peinture, les peintures célèbres de vaches, de chevaux, de poulets, de chiens, de tigres, etc. sont toutes populaires dans le monde entier, mais les peintures de cochons ne se sont pas répandues à ce jour. Les cochons donnent aux gens une vision sale et paresseuse. Bien que leur odorat ne soit pas mauvais, il est difficile pour un pinceau de réfléchir. Qui plus est, certaines personnes demandent des tableaux et dessinent des cochons pour les offrirxa0; n'est-ce pas maudire les gensxa0! Il y a de nombreuses raisons, le célèbre tableau Pig, aucune.
+Malgré cela, tout le monde n'a jamais dessiné de cochons dans le monde de l'art. Xu Beihong, célèbre maître de la peinture chinoise, a peint 3 fois des cochons.
+La première photo d'un cochon noir de Xu Beihong est sortie au milieu de l'hiver 1934. À l'époque, «xa0China Times - Picture Weeklyxa0» avait demandé à Xu Beihong de dessiner un cochon pour la prochaine année du cochon. Beihong a gracieusement accepté. Bientôt, Beihong a dessiné avec un grand pinceau d'encre claire et un stylo fin, et a également peint l'arrière de la tête du cochon avec un grand jet d'encre et un crayon, dessinant un cochon noir marchant du côté opposé. Au moment de la rédaction de cet article, Beihong a fait face à ce tableau et, après avoir réfléchi un moment, il a également écrit les huit personnages «xa0Beihong peint des cochons, une histoire étrangexa0» sur le tableau. Il a immédiatement signé «xa0l'Année d'Ehai, écrite par Beihongxa0» et a scellé un sceau rond «xa0Xuxa0».
+Cela n'a pas pris longtemps et Maître Beihong a peint le deuxième cochon à encre. La composition, la plume et l'encre de ce tableau sont essentiellement similaires à la première. Si je devais dire autre chose, j'ai écrit un magnifique poème dans le coin supérieur droit de la deuxième peinture en forme de cochon à encrexa0: «xa0De jeunes enfants se sont poignardé les cuisses et ils ne s'en vont pas en vain. «xa0Les dieux sont invincibles et peignent des cochons à encre au parfum du bain.xa0»
+Environ 10 ans après la sortie du premier cochon à encre, Maître Beihong a peint le troisième tableau à son retour de Guiyang à Chongqing. Cette peinture est une image debout d'une montagne de nuages à jet d'encre. Sur une route ombragée avec une vue rapprochée du fond, il y a deux pilons transportant un gros cochon à l'aide d'une glissière. Le cochon est un cochon fleuri noir et blanc dont les quatre pattes sont tournées vers le ciel et qui dort régulièrement sur un toboggan. En haut du tableau, Beihong a écrit deux poèmes intrigantsxa0: «xa0Deux personnes portent un cochonxa0; le cochon vient des profondeurs de Baiyunxa0». Le don était «xa0Spring Festival 32xa0: A Journey Back to Lifexa0». De toute évidence, ce tableau et ce poème sont extrêmement ironiques. De plus, comme on dit, dessiner des cochons est destiné à maudire les gens. À l'époque, le phénomène de la peinture était souvent observé dans de nombreux sites pittoresques.
+Malheureusement, la première photo du cochon à encre réalisée par M. Xu Beihong a été perdue. Heureusement, la deuxième photo du cochon et le troisième cochon sont maintenant conservées au «xa0Xu Beihong Memorial Hallxa0» à Pékin et publiées dans la collection «xa0Xu Beihong Color and Ink Paintingsxa0».
+Traduit par IA   
+
+
+
+
+

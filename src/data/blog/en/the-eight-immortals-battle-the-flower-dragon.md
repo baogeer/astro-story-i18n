@@ -1,0 +1,36 @@
+---
+pubDatetime: 2026-11-28 00:23:53
+title: "The Eight Immortals Battle the Flower Dragon"
+featured: false
+draft: false
+description: "The Eight Immortals crossed the sea to Penglai on a dragon boat. Prince Hualong was fascinated by the beauty of He Xian Gu, and Xing Lang overturned the dragon boat and kidnapped him. The Seven Immortals broke into the Dragon Palace, and Hualong turned into a giant whale, reef, octopus, etc. to block them. All the magic tricks of the Immortals were exhausted, and Hualong defeated and invited the Dragon King to come forward. Dragon King sent him back to Ho Xian-gu, and it was only through Guanyin's mediation that the turmoil calmed down. The story uses Lu Chunyang's joke “Strange He Xian Gu was born so beautiful” to make fun of the folk fun of being beautiful and causing disasters."
+---
+
+
+
+![AstroPaper I18n](/the-eight-immortals-battle-the-flower-dragon.png)
+
+
+
+
+ Legend has it that one day the Eight Immortals will go to the East China Sea to visit Horai Island. Originally, the clouds were foggy and could be reached in the blink of an eye, but Lu Chunyang was ingenious and proposed to take a boat across the sea and enjoy the ocean view. He brought the iron cane, threw it into the sea, and shouted “change”. It instantly became a spacious and beautiful dragon boat. The eight immortals sat on the boat to watch the scenery, drink and fight songs. It was very lively. Unexpectedly, it caused trouble.
+It turns out that there is a flower scaled dragon in the Dragon Palace. He is the seventh son of Dragon King and is called “Prince Hualong.” On this day, he was at his leisure. He was wandering around outside the Crystal Palace, and when he heard the sound of fairy music on the surface of the sea, he followed his voice and saw a carved dragon boat with eight odd-shaped immortals. Among them, there was a girl with a wonderful age. Prince Hualong had a charming face. He lost his spirit and lost his spirit. He had forgotten Master Antarctic Xianweng's advice. He had forgotten the teachings of Queen Dragon. He seemed obsessed with Gu He.
+When the Eight Immortals are having fun at sea, how could Prince Hualong stop halfway. The calm surface of the sea suddenly set off a wave, knocking over the carved dragon boat. Zhang Guolao had sharp eyes and climbed on the back of a donkey; Uncle Cao was careful and floated in the waves; Han Xiangzi put down his fairy flute as a mount; Han Zhongli opened the bottom of Pu Fan; he climbed the side of the flower basket; Li Iron lost his crutches and fortunately held a gourd; there was only Lu Chunyang, who was unsuspecting and soaked all over his body.
+At this point, Han Zhongli hurriedly checked the number of people. Click here, click past, there are only seven immortals. There are men, but there is only one Gu He Xianqu. Strange, where did this fairy go? Han Zhong Li pinched his finger and was taken aback. It turned out that Prince Hualong stopped the road and robbed his family and snatched Ho Sian Gu to the Dragon Palace.
+This time, the immortals were in a state of anger. They gnawed their teeth one by one, and went straight to Dragon Palace.
+Prince Hualong knows that the Seven Immortals won't stop and have been waiting for them halfway. He saw that the immortals were coming ferocious. They hurriedly waved the Pearl Crocodile Banner to motivate the Shrimps, Soldiers, and Crabs to flood the Seven Immortals. Han Zhongli had a big stomach, floated down at the head of the tide, and gently incited Pu Fan. I only heard a “wow... ignore...”. A gust of wind sent Wanzhanggao, shrimp, soldiers, and crabs all to the nine clouds, frightening the Four Heavenly Kings to shut down Nantianmen Gate in a hurry. Prince Hualong saw Han Zhong break away from his position. He hurriedly wiped his face and “changed.” Suddenly, a giant whale sprung out of the sea and swallowed Han Zhongli with its mouth as large as opening a gate.
+Han Zhongli hurriedly agitated Pu Fan. Unexpectedly, the giant whale had no fear; its mouth grew wider and wider. At this point, Han Zhongli panicked. In the midst of a crisis, the sound of Han Xiangzi's fairy flute suddenly came through. The sound of the flute was melodious and pleasant. The whale had no fighting spirit. In fact, the DPRK and Han Xiang Zi started singing and dancing, and gradually became soft and paralyzed.
+Lu Chunyang waved his sword to slay the whale. Who knows, the sword splashed all over Mars, and the sharp sword cut a gap.
+If you take a closer look, there are whales in front of you; it's clear that it's a big reef. Lu Chunyang was so annoyed that Li Gui was on the sidelines laughing at the riddle:
+“Don't worry! Don't worry! Let me clean it up!”
+I saw that Iron Guy waved to the sea, and his cane “jumped” out of the sea. Tegai Li held it in his hand and hit it down with a stick. Unexpectedly, he hit it in a pile of soft meat. Turns out, the reef had turned into a giant octopus, and crutches were wrapped around the octopus's hands and feet. Had it not been for Lan Caihe's flower basket, Tieguai Li would have been sucked into his belly by the octopus a long time ago. Turns out this giant whale and octopus were transformed into Prince Hualong. At this point, he saw a flower basket as a hood, hurriedly turned into a sea snake, and fled east. Zhang Guolao clapped his hands and called for a donkey and chased him with his hooves. I was about to catch up. Unexpectedly, the donkey was bitten in the foot by crab essence, and Zhang Guolao was thrown off the back of the donkey with a loud cry. Thanks to Uncle Cao Guo's quick eyesight, he rescued Zhang Guolao and killed Crab Essence.
+Prince Hualong was red-eyed and showed his true form. He shone with colorful dragon scales, swung dragon horns with seven branches and eight powers, and Zhang danced with sharp dragon claws, and swung at the immortals. Each of the seven immortals revealed their magic and together besieged Prince Hualong.
+Hualong couldn't fight the Seven Immortals; they had to ask the Dragon King for help.
+When Dragon King listened, he scolded Prince Hualong and hurriedly sent out Ho Xian Gu. She told good things 105, but the Eight Immortals still refused to stop. Dragon King had no choice but to invite the South China Sea Guanyin Master to make peace; the storm finally subsided. The Eight Immortals are no longer interested in visiting Horai Island. Everyone blamed Lu Chunyang for being born outside the festival, only to find a sense of sadness. Lu Chunyang smiled and said:
+“This is due to Ho Sian Gu. Who called her a woman, she was born so beautiful!”
+AI Translated   
+
+
+
+
+

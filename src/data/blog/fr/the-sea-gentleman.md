@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-09 04:07:00
+title: "Le gentleman de la mer"
+featured: false
+draft: false
+description: "Zhang Sheng a visité seul l'île historique de Dengzhou. Il était accompagné d'une femme en rouge. La femme a disparu au cours de la relation affectueuse. Un serpent géant l'a enroulé autour de lui et a bu son sang de nez. Zhang Sheng était pressé. Il a mélangé son propre médicament contre le renard empoisonné à son sang pour inciter le serpent à le boire. Le serpent s'est empoisonné et est mort. Par la suite, il est tombé gravement malade et a soupçonné la femme d'être également une experte en serpents. L'histoire met en garde contre le fait que la beauté peut se cacher derrière de mauvaises intentions et que la détresse doit être traitée calmement."
+---
+
+
+
+![AstroPaper I18n](/the-sea-gentleman.png)
+
+
+
+
+ Sur une île historique de la mer de Chine orientale, une variété de fleurs résistantes à l'hiver de cinq couleurs poussent et fleurissent toute l'année. L'île est inhabitée depuis l'Antiquité et c'est un endroit inaccessible.
+Zhang Sheng, originaire de Dengzhou, aime explorer et trouver l'isolement, et adore la chasse. J'ai entendu dire que cet endroit avait de beaux paysages, alors j'ai préparé un verre et je suis allée seule en bateau. À cette époque, les fleurs étaient en pleine floraison et le parfum se répandait sur des kilomètres. Il faut plus de 10 personnes pour entourer le tronc d'arbre le plus épais. Le paysage agréable a fait s'attarder Zhang Sheng et était très à l'aise. J'ai donc ouvert la bouteille et je l'ai bue moi-même, regrettant de ne rien avoir apporté. Soudain, une belle femme vêtue d'une robe rouge est sortie de la fleur. Voyant Zhang Sheng boire seule, elle a souri et a ditxa0: «xa0Je pensais que j'étais extrêmement intéressée. Je ne pensais pas que quelqu'un était plus intéressé et avait pris de l'avance sur moixa0!xa0» Zhang Sheng a été surprise de lui demander qui elle était. La femme a réponduxa0: «xa0Je suis une prostituée de Jiaodong. Je viens d'arriver ici avec Haigongzi. Il est parti jouer au Range Rover ailleurs, mais je ne pouvais pas bouger, alors je suis restée ici et je l'ai attendu.xa0» Zhang Sheng souffrait de solitude. Il était très content d'être accompagné par une belle femme. Il l'a invitée à la hâte à s'asseoir et à boire ensemble. La femme parlait doucement et rendait les gens sans voix. Zhang Sheng l'aime beaucoup. Il a peur qu'après l'arrivée de Haigongzi, il ne puisse pas s'amuser, alors il l'a serrée dans ses bras et a fait une grimace amicale. La femme s'est penchée joyeusement. Les deux étaient affectueux. Ils ont entendu le vent furieux et les plantes se sont cassées et ont fait du bruit. La femme a poussé Zhang Sheng vers le haut à la hâte et a ditxa0: «xa0Sea Boy est làxa0!xa0» Zhang Sheng a attaché sa ceinture à la hâte. Avec le recul, surprise, la femme n'avait aucune idée de l'endroit où elle se trouvait. Ensuite, j'ai vu un gros serpent plus épais qu'un seau qui sortait des arbres. Zhang Sheng a eu peur et s'est caché à la hâte derrière un grand arbre, espérant que le serpent ne l'avait pas vu. Le serpent s'est approché et a mêlé son corps à quelques reprises à des personnes et à des arbres. Les deux bras de Zhang Sheng sont enroulés au milieu de ses hanches et ne peuvent pas du tout être pliés. À ce stade, le serpent a tenu la tête haute et a percé le nez de Zhang Sheng avec sa langue. Le saignement de nez a continué à couler, formant un petit trou dans le sol, et le serpent s'est prosterné pour boire du sang. Zhang Sheng pensait qu'il allait mourir. Soudain, j'ai pensé au médicament de Poison Fox dans le sac à main noué autour de ma taille. J'ai simplement pris le médicament avec deux doigts et je l'ai introduit dans la paume de ma mainxa0; j'ai tourné la tête, j'ai regardé la paume de ma main et j'ai laissé du sang couler sur le médicament, et en un clin d'œil, il était rempli de sang. Effectivement, le serpent a bu du sang de sa paume. Avant de terminer, il a soudainement redressé son corps, a balancé violemment sa queue, émettant un son de foudre, et tous les arbres qu'il a touchés ont été arrêtés et emportés. Peu de temps après, il est tombé au sol comme une poutre de toit et est mort. Zhang Sheng était si effrayé qu'il est tombé au sol et n'a pas pu se lever. Au bout d'un moment, il s'est réveillé et a ramené le serpent dans un bateau.
+Quand il est rentré chez lui, il était atteint d'une grave maladie et ne s'est rétabli qu'un mois plus tard. Il soupçonnait que cette femme était aussi un esprit serpent.
+Traduit par IA   
+
+
+
+
+

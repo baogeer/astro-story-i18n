@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-08 00:56:49
+title: "The Immortal Bridge"
+featured: false
+draft: false
+description: "At a natural stone bridge in the eastern foothills of the eastern foothills of Zhongjiajia, the chief white hair practises in seclusion. He often uses fairy techniques to treat poor people free of charge, and even restore the blind. The people were grateful to have built a temple for him, and the Daojiao became a fairy and went back to protect his neighbors on a regular basis. Although the temple was destroyed, the stone bridge remains, known as the “Immortal Bridge,” which supports nostalgia for the fairy path of kindness."
+---
+
+
+
+![AstroPaper I18n](/the-immortal-bridge.png)
+
+
+
+
+ There is a Qingshui Mountain Stream in the eastern foothills of Zhongjiashan Mountain. The water flows continuously all year round. There is a natural stone bridge with a height of about 3 meters and a span of about 8 meters along the stream. A huge arched horizontal stone spans two vertical stones. During the peak season, water from the river flowed rapidly down the horizontal stone to form a waterfall. Coupled with the lush greenery on both sides of the stone bridge and the sunset hanging on the corner of the mountain, the scenery is spectacular, beautiful, and as beautiful as a wonderland. The “Journal of Anhui Province” describes the old appearance of Jiashan “... the twin peaks stand tall, and there are huge boulders standing over the bridge. There are stone beds and benches inside, so you can sit and sleep. Every time it rains heavily, the waterfall on Shiliang flows like a curtain.” That's what's described here. Local people call it “Immortal Bridge.”
+Legend has it that the white-haired leader in Shimenkou borrowed 50 silver bowls from Xixu Village and didn't pay them back. He closed Shimen in one fell swoop and arrived at Zhongjia Mountain, which is sparsely populated and has excellent natural scenery. Chief Bai Fa Dao spent a few days wandering around Zhongjiashan before finally choosing this place and adding stone beds, stone tables, and stone benches.
+Daochang Bai Fa is a kind person. He gets along well with poor local people everywhere he goes, and often helps farmers, woodcutters, and hunters. Woodcutters and hunters often use this place as a resting place because there is an incense burning in the deep mountains. Because the Shiqiao Cave is unobstructed, every time people take a break here, white-haired people talk to people for a few minutes. When it comes to speculative places, woodcutters and hunters often don't see the sun before hurrying home. One day, a woodcutter was accidentally bitten by a poisonous snake while gathering firewood. Before arriving at Shiqiao Cave, the woodcutter couldn't lift his legs and fell down by the mountain stream, trembling all over his body. After discovering it, the woodcutter hurriedly led the woodcutter into Shiqiao Cave and lay down the purple leg after being bitten by the poisonous snake. He swung his hands up and down a few times, taking a deep breath at the same time, then placed his palms about an inch away from his leg. The woodcutter felt that there was a strong warm current flowing along with the movement of the white-haired daochang's palms. Suddenly, dark purple toxic blood oozes from the wound. Only then did the white-haired chief stop using gas, stood up, and wiped the sweat from his forehead and said, “Life saved, but you have to rest for two days before you can work.” Said that Bai Fa Daochang poured a black pill out of a gourd and put it down for the woodcutter. The woodcutter asked Daochang, “Are you always in the middle of a long time?” Daochang shook his head, then dipped his hand in water to write “Mountain Man” on the stone table. After writing, he wiped off half of it with his hand. The woodcutter was illiterate and didn't understand what it meant. It wasn't too early, and the woodcutter left a load of firewood next to Ishiqiao Cave and limped home.
+The woodcutter came home and told the villagers what had happened. There is an intelligent person in the village who knows a few characters. He thought about the meaning of writing with white hair and erasing half of it. It took him a long time to “pop” his head and said, “Yes, the mountain man should be the character “fairy,” and after writing it, they erased half of it, clearly saying it was a half-“ immortal” of practice. People think he's right. The next day, they went to the village to find a doctor with white hair, and everyone who went was satisfied. Even a blind man who had been blind for many years saw the light again after being treated by a white-haired Daochang. Master Bai Fa Dao did not accept gold, silver, or gifts. People were ignorant and didn't go there. Later, everyone donated funds to build a temple next to the stone bridge, which was named “Shanren Temple.” People painted a clay statue in the temple in the shape of Dao Long with white hair. Everyone who comes to seek a cure for the disease and exorcism from evil spirits is bowing their heads in the temple.
+Later, Master Bai Hai-Dao was recruited to Tiangong Palace. Every 1st and 15th day, he returned here to solve problems for the people.
+After thousands of years of ups and downs, I don't know when the Shanren Temple collapsed, and I can't even find broken bricks. People have called this stone bridge “Immortal Bridge” to commemorate Chief White Hair, until now.
+AI Translated   
+
+
+
+
+

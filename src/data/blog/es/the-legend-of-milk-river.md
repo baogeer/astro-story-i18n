@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-11-21 03:52:22
+title: "La leyenda de Milk River"
+featured: false
+draft: false
+description: "El sexto Dalai Dalai Cangyao se reencarnó como un niño espiritual y se recluyó con su madre en el nacimiento del río Nuzi para evitar la persecución. El niño espiritual vertió la leche del sacrificio en el río, y el río se volvió blanco lechoso, de ahí el nombre de Río Leche. El abad del templo Songzanrin-ji ofreció una ayuda clara y secreta y ofreció escolta bancaria. Más tarde, Ling Tong reconoció que la leche había sido sellada en su vida pasada en el templo de Taer, confirmó su identidad y, finalmente, se sentó a informar sobre las costumbres de los monjes zhongdianos, creando así una maravillosa historia sobre la ley."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-milk-river.png)
+
+
+
+
+ El sexto Dalai Lama, Kurayoshi Gatso, fue un poeta excepcional. Era un lama «poco ortodoxo» a los ojos de los «ortodoxos», por lo que el destino hizo que muriera prematuramente. Tras su muerte, el séptimo Dalai Lama reencarnó en Litang, basándose en el poema del sexto Dalai Lama: «Una grulla blanca, por favor, déjame tus alas. Si no vas muy lejos, vuelve a Litang». Este poema casi lírico se convirtió en el secreto de su reencarnación.
+Cuando se reencarnó en Litang, también añadió un himno a Litang: «No veas a Litang como una tierra pobre de mendigos; Buda y Lama nacieron aquí». El pequeño Buda, que acaba de nacer, tiene un talento natural. Según el hecho de que, en ese momento, Lhasa Khan designó a la reencarnación del sexto Dalai Lama como su propio hijo legítimo, pero envió gente para dañar al verdadero Dalai. Su madre se llevó al joven Dalai Lama para escapar del desastre y lo trasladó a Zhongdian.
+La madre y el hijo viven al pie de la montaña «Kari», donde nace el río Duzi. Cada mañana, cuando su madre encendía un incendio, un humo azul se dirigía directamente al templo de Songzanlin. En ese momento, Little Spirit Boy dijo: «Ahí está mi templo». Mientras la madre y el hijo de Ling Tong vivían aquí, los pastores solían adorar la leche fresca. Cada vez, el lama solo bebía medio tazón de leche y vertía medio tazón de leche en el río. Como resultado, todo el río se volvió blanco lechoso como la leche. Por eso se llama «Milk River».
+Una noche, el templo Shozanrin-ji recibió la orden de dañar a la madre y al hijo de un lama. El abad del templo sabía que la madre y el niño eran seres extraordinarios y que había que protegerlos, y envió un mensaje al niño espiritual cuando entraban por la noche. Temprano a la mañana siguiente, Ling Tong le dijo a su madre: «Hoy vendrá un gran equipo de personas. Si el líder te pregunta, ¿tu hijo se ha reencarnado en un Buda viviente? Si les respondes que soy una mujer mendiga, ¿cómo podría haber dado a luz a un Buda viviente reencarnado?».
+Como era de esperar, cuando el sol acababa de salir, el abad llevó un equipo de hombres y caballos a la casa de la madre y el hijo de Ling Tong y preguntó de manera amenazadora: «¿Es su hijo un espíritu reencarnado?» La madre de Ling Tong respondió: «Soy una mendiga, ¿cómo podría dar a luz a un Buda viviente reencarnado?» El abad lo regañó: «¡Bah! ¡Mendiga, sal de aquí rápido!» Al mismo tiempo, tiró un montón de palillos en los brazos de la madre de Ling Tong y creció.
+Había unos dólares de plata en estos palillos. Fue el abad quien ayudó secretamente a salir de aquí al hijo espiritual del Dalai Lama y a su madre. Sin embargo, los poderosos del Tíbet dijeron que aquí no se ha encontrado ningún rastro de niños reencarnados, así que abordemos el pasado por el momento.
+Más tarde, la madre y el hijo de Ling Tong se mudaron al templo Taar en Qinghai con la ayuda de los monjes y las costumbres del templo Songzanlin en Zhongdian.
+Ese día, estaba nublado y nublado. Kambu, del templo de Ta'er, era un monje muy experimentado, pero le irritaba el llanto de un niño que estaba fuera de la muralla. Le pidió al ama de casa que sacara algo para desanimar al niño y dejar de llorar en la pared. Cuando se fue, el ama de llaves regresó y se quejó de que el niño no quería nada; tenía que entrar. Kambu no tuvo más remedio que aceptar que el niño entrara en la casa. Tan pronto como el niño entró en la casa, Kanbu se sorprendió. Sostenía a este niño para ver lo que quería. Este chico quería llevarlo a una sala de sutras. Después de entrar, el niño tenía que poder llevarlo a una sala de sutras. Al entrar, el niño tenía que poder llevarlo al cuenco de madera sellado que había en su mesa. Kanbu solo dijo: «¡Extraño, inusual!» A petición del niño, se retiró el cuenco de madera sellado y se le entregó al niño. El niño abrió la boca del cuenco de madera y bebió la leche que contenía.
+Esta leche la llenó el propio Dalai Lama en el pasado y selló el cuenco de madera como si fuera una barra de pan. Que este niño lo abra y lo beba hoy demuestra que es extraordinario; debe haber reencarnado como el sexto Dalai Lama. Como resultado, tras rendir cuentas al gobierno de la dinastía Qing, el Séptimo Dalai Lama, bajo la protección del ejército Qing y de los monjes del monasterio de Tar, fue a Lhasa para ocupar el puesto que le correspondía.
+El Séptimo Dalai Lama no podía olvidar las contribuciones de los monjes y costumbres zhongdianos. Tras hacerse con el control del gobierno y la educación, la recompensa para Zhongdian fue aún mayor. Construyó una nueva «Sala Tsongkhapa Jinwa» para el templo de Songzanlin. Mientras hacía regalos para el templo Changchun Cole en Litang, también hizo el mismo número de copias para el templo de Songzanlin en Zhongdian. «La leyenda del séptimo Dalai Lama» describe muchas historias de Zhongdian Songzanlin. ¡La supuesta relación legal entre el Séptimo Dalai Lama y los monjes zhongdianos no es una gran historia desde tiempos inmemoriales!
+Traducido por IA   
+
+
+
+
+

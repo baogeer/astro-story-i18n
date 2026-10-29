@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-17 19:37:57
+title: "The Bridegroom"
+featured: false
+draft: false
+description: "Villagers in Jiangnan got married. The groom saw the bride go out at night and chased him to a house where he was forced to stay for half a year by his parents-in-law. The Ushirotake family complained of trouble, rushed the groom home, and returned to find that the mansion was a large tomb. The groom returned home to file a lawsuit, and the government ruled that the woman sent the girl to get married. Only then did they learn that the case was strange."
+---
+
+
+
+![AstroPaper I18n](/the-bridegroom.png)
+
+
+
+
+ There is a Hyolian in Jiangnan, whose name is Mei Kuan-chang. He said that his fellow countryman had Sun Weng. When he was an official in Dezhou, he investigated a strange case.
+Here's what happened: in the beginning, a villager married his son's daughter-in-law. The new daughter-in-law passed through the door, and the townspeople from Zhuang Li all came to celebrate their happiness. After drinking wine for more than a day, the groom left the room and saw the bride walk behind the house in dazzling clothes. The groom was skeptical, so he followed suit to see what was going on. There is a long small river at the back of the house, and there is a small bridge over it that you can pass through. He saw the bride walk all the way across the bridge and became more suspicious, so he called out to her later. The bride didn't agree; she just waved from afar. The groom hurriedly rushed over. They were about a foot away, but their hands never caught her.
+After walking a few miles, I entered a village. The bride stopped and said to her son-in-law, “Your family is lonely. I'm not used to living here. Please ask Lang Jun to stay at my house for a few days, and let's go home and visit Erlao together.” After all, pull out the hairpin and knock on the door, and it opens in an instant. A woman came out to greet her. The bride went first, and the groom followed as a last resort. As soon as I entered the door, my father-in-law and mother-in-law were sitting in the hall and said to my son-in-law, “My daughter has been used to it since childhood and has never left me. Once I left home, I was always unhappy. Coming back with you today, we are very relieved to have you back after staying for a few days.” So they asked the maiden to clean the house and lay the futons, and the two stayed.
+Guests at the groom's house look everywhere when they see that the groom has been out and hasn't come back for a long time. Only the bride is waiting in the new house, but the groom doesn't know where she went. Everyone looked around, and there was no news at all. My father-in-law and mother-in-law all cried very sad, saying they were bound to die.
+After half a year, the daughter-in-law's family feared that their daughter would be widowed, so they discussed with the groom's parents to find another mother-in-law's family for their daughter. The groom's parents grew saddened and said, “I haven't found any of the bones or clothing. How do I know my son must be dead? Even if I die, it won't be too late to get married again after a year, so why the rush?” The bride's father was even more resentful, so he sued the government. Gong Sun accepted the case. He thought it was very strange, but he had no clue. The woman was suspended for three years before talking about it. Case files are archived, and people go home on their own first.
+Besides, the groom stayed at another bride's house, and the whole family treated him very well. He often discussed going home with his daughter-in-law, and the daughter-in-law agreed, but they just kept going. After staying for over half a year, the groom muttered in his heart and was anxious all day long. I wanted to go home alone, but my daughter-in-law never let me. One day, their whole family was fearful and seemed to be facing great trouble. The bride's parents hurriedly said to her son-in-law, “I was planning to have your husband and wife go home together within three or two days. I didn't expect that my luggage was not ready yet, so suddenly I ran into some trouble. As a last resort, let's take you home alone.” Having said that, I sent the groom out of the house, turned around and went back in a hurry. Even though he said a few words, he was very hasty and hasty.
+The groom left the door and just wanted to find a way to walk. Looking back, the house and yard were gone, only a tall tomb. He was very afraid and hurriedly found his way home. When he arrived at home, he told his story from beginning to end, and explained the situation to the government office and Gong Sun. According to Sun Gong, the bride's father arrived and ordered him to send his daughter back to his wife's house, and only then did they officially marry.
+AI Translated   
+
+
+
+
+

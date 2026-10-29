@@ -1,0 +1,41 @@
+---
+pubDatetime: 2026-11-24 13:22:08
+title: "The Jade Rabbit Pounding Medicine"
+featured: false
+draft: false
+description: "Legend has it that there is a rabbit as white as jade in Tsukimiya that uses a jade pestle to make the elixir of immortality. There are many opinions about the origin of the Yutu: either Chang'e was punished, or that the rabbit gave up her body and moved the fairy to ascend to heaven, or that the fairy Tu sent her little daughter to accompany Chang'e. The story is based on the meaning of devotion and companionship, and future generations often used jade rabbits to refer to the moon."
+---
+
+
+
+![AstroPaper I18n](/the-jade-rabbit-pounding-medicine.png)
+
+
+
+
+ Yutu poke medicine is one of the stories in Chinese mythology and legends. Seen in Han Le Fu's “Dong Fugitive”. Legend has it that there is a rabbit in the moon, all white as jade, so it is called a “jade rabbit.” This type of white rabbit holds a pestle and kneels down to mix medicine into a toad pill. If you take such pills, you can grow immortal. Over time, Yutu became synonymous with the moon. In ancient times, writers wrote poems and often used jade rabbits to symbolize the moon. For example, Xin Qiji's “Manjiang Red · Mid-Autumn Festival” used jade rabbits to represent the moon. As for many old novels, this kind of trick is also often used to hint at the moon. In Taoist folklore, the jade rabbit is often opposed to the Jin Wu, indicating the harmony between yin and yang in the practice of Jin Dan.
+Statement 1
+Legend has it that there is a white jade rabbit in the Zhongyue Palace. She is the avatar of Chang'e. Since Chang'e violated the wishes of Emperor Jade after running to the moon, she turned Chang'e into a jade rabbit. Every time the full moon arrived, she had to take medicine for God in the Moon Palace as punishment.
+Statement 2
+Legend has it that three immortals became three poor old people and begged for the fox, the monkey, and the rabbit. The fox and monkey all offered food to help the elderly, but only the rabbit didn't. Later, the rabbit told the old man, “Eat me.” They jumped into the flames. The immortals were greatly moved, so they sent the rabbit to the Guanghan Palace to become a Yutu. Later, the Yutu accompanied Chang'e in the Guanghan Palace and smashed the elixir of immortality.
+Statement 3
+Legend has it that a long time ago, a pair of rabbits practiced for a thousand years and became immortals. They have four lovely daughters, each born pure white and smart.
+One day, Emperor Yu Huang summoned the male rabbit to the Tiangong Palace. He reluctantly left his wife and children and walked on the clouds to the Tiangong Palace. Just when it arrived at Nantianmen Gate, it saw Taibai Jinxing leading Tianzheng to walk away with Chang'e. Unaware of what had happened, Usen asked a Tenjin next to him who was guarding the Tenmon Gate. After hearing what happened to her, Tuxian felt that Chang'e was innocent of the crime and was very sympathetic to her. But I'm weak, what can I do to help? Thinking of how lonely and sad Chang'e was locked up in the Moon Palace alone, it would be great if someone accompanied her. Suddenly she thought of her four daughters, she immediately flew home.
+Tu Xian told the female rabbit what happened to Chang'e and said she wanted to have a child with Chang'e. Although the female rabbit deeply sympathizes with Chang'e, she can't bear her baby daughter. This is tantamount to cutting the flesh off her heart! A few daughters couldn't bear to leave their parents and burst into tears one by one. The rabbit said with great emphasis, “If I were to be locked up alone, would you be willing to stay with me? Chang'e is suffering in order to save the people. Can we not help her? Kid, we can't just think about ourselves!”
+The children understood their father's heart and all expressed their desire to go. The male rabbit and female rabbit had tears in their eyes and laughed. They decided to let their youngest daughter go.
+So Little Yu Tu said goodbye to her parents and sisters and went to the Moon Palace to take medicine with Chang'e!
+Statement 4
+Some people also say that Yu Tu was originally Hou Yi, because Chang'e ran to the moon and missed Hou Yi. In order to be with Chang'e, Hou Yi wanted to become her favorite little animal - Yu Tu. Unfortunately, Chang'e never knew that Yu Tu was Hou Yi that she missed day and night!
+Statement 5
+This also stems from a legend about Hou Yi and Chang'e. Hou Yi and Chang'e were originally sent from heaven to earth. Because Chang'e didn't want to live a lonely life for a long time, she stole the undead medicine and became an ugly “toad” (toad) after running through the moon. Day after day, year after year, they lost their former freedom and loneliness was abnormal. The Tang Dynasty poet Li Shangyin once lamented: “Chang'e should repent stealing the elixir. Yutu is Chang'e, but why did Yutu become Chang'e? According to research, “Yutu” comes from “Yu Yu”, and “Yu Yu” is the vernacular word for “tiger” in ancient Chu. In ancient times, the people associated with Bachu revered tigers. Not only do they call themselves tigers, but they also like to name mountains, place names, and water names after “tiger,” and even call almost all the gods they respect the tiger god. They also call the moon god the tiger god, which means “Yu Yu” in their native language. After running to the moon, Chang'e became the “tiger god” in the minds of the Bachu Chong Tiger nation. Of course, Chang'e is “Yu Yu.” However, explaining “” as “rabbit” is a mistake made by Jin Dynasty scholar Wang Yi when explaining Qu Yuan's “Heaven's Question.” Later generations followed this erroneous explanation and replaced “rabbit” with “rabbit.” Also, because “Yu” is similar to “Jade,” “Yu Yu” was attached to future generations and became a “Jade Rabbit.” As can be seen, Yutu poke medicine is Luna Chang'e poke medicine. (Source: “Our Festival”)
+Statement 6
+Boyi Kao, the eldest son of King Ji Chang, turned his three spirits into jade rabbits after being persecuted by Daji.
+According to “The Founding of God,” he was born to be kind and affectionate, and was a filial son. Her father was imprisoned for infuriating King Lu. In order to rescue her father, Boyi Kao brought three rare treasures, such as a seven-spice car, a decanting felt, and a white ape, and dedicated to King Lu.
+Princess Da-ji saw that Boyi Kao was handsome and had excellent piano skills, but she was humiliated by Boyi Kao's remarks. In her anger, she first falsely accused Boyi Kao of molesting herself; she also secretly revealed her original form, leading to White Ape's murderous intentions, and finally falsely accusing Boyi Kao of playing the piano, and insanely scolded Wang Wu-de. As a result, Boyi Kao was framed by Daji. His limbs were cut off, and the corpse was cut with ten thousand blades. After making meatloaf, Daji gave it to his father Ji Chang to eat.
+Finally, Sibohou finally made a plan to return to his hometown. When he had just set foot on the land of Western Zhou, he felt nauseous and threw up three little white rabbits. He knew that it was the result of the Three Spirits of Bernard, and he shed tears of sorrow. This little rabbit looked east and west, then followed the road straight into Zebrahou's palace and wandered in front of Sieber's wife and mother. The mother-in-law and daughter-in-law didn't know where the rabbit came from, but when they saw it, an inexplicable sense of sadness rose in their hearts. At this point, it was already dark, and the little bunny walked back into the courtyard and looked up at the sky. At this point, Chang'e took it to the Moon Palace by order of Nu Wa.
+AI Translated   
+
+
+
+
+

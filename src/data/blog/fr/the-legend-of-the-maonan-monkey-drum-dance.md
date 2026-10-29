@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-24 22:41:54
+title: "La légende de la danse du tambour des singes de Maonan"
+featured: false
+draft: false
+description: "Selon les légendes maonanes, les enfants gravissent la montagne pour cueillir des poulpes verts et s'en vont à pied, tombent dans une grotte à singes et vivent en groupe de singes, leurs poils poussent partout et oublient ce que les gens disent. À la mort de sa mère, le son d'un tambour en bronze l'a ramené dans sa ville natale. Il a utilisé de l'écorce d'animal pour fabriquer un tambour et a pleuré en dansant. Depuis lors, cette étape du culte a évolué pour devenir une danse du singe, et elle est devenue une danse traditionnelle permettant aux Maonans d'exprimer leur nostalgie lors de sacrifices et de fêtes."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-maonan-monkey-drum-dance.png)
+
+
+
+
+ La légende raconte qu'ils vivent dans une famille aux arbres denses, aux belles montagnes et à l'eau. Son mari est décédé prématurément, laissant derrière lui trois fils, et sa femme a travaillé dur pour gagner sa vie en récoltant des okako verts dans les montagnes et en brassant du vin. Un jour, les trois frères sont allés à la montagne pour cueillir des pommes de terre vertes. Inconsciemment, le frère cadet et les deux frères aînés se sont séparés. Ils n'ont découvert que le frère cadet avait disparu qu'à la tombée de la nuit. Ils ont couru précipitamment chez eux pour appeler leur mère et les voisins du village et sont montés dans la montagne pour les retrouver, mais ils n'ont pas pu les trouver pendant trois jours. Sa mère lui lavait le visage avec des larmes tous les jours. Au bout d'un long moment, elle a pleuré aveuglément.
+Ce jeune fils a découvert que son frère avait disparu. Il avait très peur. Il s'est enfoncé involontairement dans la jungle et a perdu le chemin du retour. Il est finalement tombé dans la grotte. Il s'avère qu'il est tombé dans une grotte où vivaient des singes. Un grand groupe de singes vivait dans la grotte. Le petit fils a vécu et joué avec les singes dans la grotte. Quand il avait faim, il mangeait des fruits sauvages cueillis par les singes, et quand il avait soif, il allait boire de l'eau de source de montagne avec les singes. En grandissant, ce gamin est devenu progressivement poilu, et il a également appris le langage des singes et ne pouvait même pas prononcer les mots originaux.
+Après de nombreuses années, la mère de l'enfant a fini par ressentir de la mélancolie parce que son fils lui manquait trop. Selon la coutume populaire maonaise, le mage devait utiliser des tambours en bronze pour sacrifier le vieil homme mort le jour de l'enterrement. Pendant un moment, un son sourd de tambours en bronze a retenti dans le ciel et s'est propagé à des montagnes arides à des milliers de kilomètres de là. Le petit fils, qui jouait dans un groupe de singes, a entendu le son des tambours en bronze familiers de sa ville natale. Il a suivi le son du tambour pour rentrer chez lui. Il a regardé attentivement le bruit du village et a découvert que le tambour en bronze venait de loin. Il venait de chez moi et il y avait un drap blanc accroché devant la porte. Les deux frères aînés se sont agenouillés devant le cercueil en pleurant en brûlant de l'encens et du papier. Réalisant que sa mère était décédée, il a couru chez lui à tout prix, mais après avoir couru vers la porte, il a découvert que les membres de la famille ne pouvaient pas le reconnaître, ne parlaient pas et criaient seulement comme un singe. Afin d'exprimer ses pensées et son chagrin à sa mère, il a ramassé une boîte de conserve vide, l'a recouverte de peau d'animal autour de sa taille et a fabriqué un tambour en peau de bête. Il criait et criait en chantant «xa0hurler, hurlerxa0» dans sa bouche. La danse visait à exprimer à quel point ils étaient loin de leur famille depuis de nombreuses années. Au début, les personnes présentes pensaient que c'était à flanc de colline. Le singe était en train de s'amuser, mais quand je voyais les larmes aux yeux, il était toujours réticent à partir. Je n'ai pensé que si c'était un enfant perdu il y a plus de 10 ans. Lorsque les deux frères aînés l'ont reconnu, les trois frères se sont agenouillés devant l'esprit de leur mère et n'ont pas pu arrêter de pleurer.
+Plus tard, afin de commémorer la mort de leurs proches, les Maonans ont utilisé des peaux d'animaux pour fabriquer des tambourins et ont transformé la légende des trois frères en une forme de danse folklorique pour commémorer leurs sentiments profonds pour leurs proches, qui est devenue plus tard un classique culturel du peuple maonanxa0: la «xa0danse d'encouragement du singexa0». Lorsque les personnes âgées décédées sont enterrées, en plus d'utiliser des tambours en bronze pour sacrifier leurs proches décédés, les Maonans doivent également utiliser la «xa0danse d'encouragement des singesxa0» pour exprimer leur nostalgie de leurs proches. En raison de son rythme joyeux et de ses mouvements amusants, elle a progressivement évolué pour devenir certains festivals de leur propre pays et est devenue la danse traditionnelle du peuple maonan.
+Traduit par IA   
+
+
+
+
+

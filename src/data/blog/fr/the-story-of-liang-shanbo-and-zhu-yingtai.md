@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-09 17:41:55
+title: "L'histoire de Liang Shanbo et Zhu Yingtai"
+featured: false
+draft: false
+description: "Eastern Jin, Zhu Yingtai, a étudié dans le même style qu'un homme. Il entretenait la même relation avec Liang Shanbo depuis trois ans et était secrètement amoureux de lui. À son insu, Shanbo était une femme. La Grande-Bretagne et Taïwan ont été prises par la famille de Xu Ma, et Shanbo est mort de chagrin et de colère. Lorsque la Grande-Bretagne et Taïwan ont quitté le tombeau pour se marier, la terre s'est effondrée et des papillons ont volé dans les airs, louant leur amour inébranlable jusqu'à la mort."
+---
+
+
+
+![AstroPaper I18n](/the-story-of-liang-shanbo-and-zhu-yingtai.png)
+
+
+
+
+ L'histoire de Liang Shanbo et Zhu Yingtai, surnommée «xa0Roméo et Juliette chinoisxa0», est l'une des quatre grandes histoires populaires chinoises.
+À l'époque des Jin Yonghe orientaux, il y avait un Zhujiazhuang dans la magnifique partie sud du mont Zenmaki. Il y a une famille riche à Zhuangli, connue sous le nom de Zhu Yuan. De bonnes règles familiales. La richesse n'est pas transmise d'un homme à une femme. Comme Zhu Yuan n'a pas de fils, afin d'hériter du domaine familial, Zhu Yuan a habillé sa fille Yingtai en homme depuis son enfance. La Grande-Bretagne et Taïwan sont à la fois talentueuses, intelligentes et studieuses. Quand il a atteint l'âge d'étudier, Zhu Yuan a envoyé Yingtai étudier au temple Bixian voisin. Pendant mes études à Bikxianan, l'un de mes camarades de classe était Liangshan Bao, qui vivait à Liangjiazhuang, à huit kilomètres au nord-ouest du mont Zenmaki. Les deux se sont bien entendus, ont partagé leur esprit et sont devenus des confidents. Ils ont donc décidé de s'associer à Jin Lan à Caohashi, qui a appris tout seul. Les frères se sont encouragés et ont coopéré les uns avec les autres.
+Yingtai et Shanbo ont passé trois ans à Bixianan. Pendant ce temps, ils se sont rendus à Qilu pour adorer Kong Sheng et se sont également rendus à Dongwu pour étudier ensemble. Les deux mangent la même nourriture pendant la journée, dorment ensemble la nuit, chantent de la poésie et de la littérature et vont de pair. Yamabaku est non seulement un étudiant riche, mais il est également loyal et honnête, et Zhu Yingtai l'aime profondément. Cependant, pendant trois ans, la Grande-Bretagne et Taïwan sont restées unies. Bien que Shanbo ait de nombreux doutes, ils étaient tous soutenus par la Grande-Bretagne et Taïwan. Yamahaku n'a jamais su qu'Eitai était une femme.
+Après avoir vécu trois ans avec le même ami, Liang Zhu était profondément affectueux. Zhu Yingtai est tombé amoureux de Liang Shanbo. Trois ans plus tard, Liang Shanbo voulait poursuivre son voyage d'études à Yuhang, mais son père n'a pas été autorisé à s'y rendre en raison de ses années passées au Royaume-Uni et à Taïwan. Les deux étaient implacables et se faisaient des cadeaux. Shanbo a offert une longue épée avec un guqin de Yingtai et un éventail pliable en or de Yingtai et de Taiwan, et a personnellement écrit le mot «xa0bleu fraisxa0». Lorsque Shanbo s'est rendu à Hangzhou, la Grande-Bretagne et Taïwan lui ont envoyé 29 miles. En cours de route, la Grande-Bretagne et Taïwan ont utilisé des choses à de nombreuses reprises pour exprimer leurs sentiments, ce qui impliquait leur amour. Cependant, Yamahaku, qui est loyal et simple, était totalement inconscient et incapable de comprendre ses intentions. Au moment de leurs adieux, les médias britanniques et taïwanais ont également prétendu que les neuf sœurs de la famille étaient Xu Yu Yu et ont convenu d'une date fixe pour demander à Shanbo de lui rendre visite et de proposer une demande en mariage.
+Après avoir étudié au Royaume-Uni et à Taïwan, je ne savais pas que ses parents avaient suivi des cours chez Ma à Xiwhaletang, Xu Paiyi, en Angleterre et à Taïwan. Lorsque Shanbo est rentré de son voyage d'étude à Yuhang et a rendu visite à la famille de Zhu, les Britanniques et les Taïwanais portaient des manches vertes et Luo Fan se couvrait le visage. Ils se sont rencontrés. Shanbo la connaissait en tant que femme. Quand j'ai appris que la Grande-Bretagne et Taïwan avaient déjà embauché des mères, elles sont tombées en panne et se sont senties extrêmement tristes. Les deux hommes se sont séparés et ont fait un vœuxa0: «xa0Tu ne peux pas te marier quand tu es néxa0; tu dois être marié quand tu meurs.xa0»
+Après que Liang Zhu ait dit au revoir, Shanbo est devenu déprimé et est tombé malade. Il est mort peu après et a été enterré sur le pont de Xihu, dans le village. La Grande-Bretagne et Taïwan ont été attristées d'apprendre la nouvelle et ont décidé de mourir de leur propre vie. Le jour où il a quitté le cabinet, il a insisté pour participer au festival de Hu Qiao. Lorsque la voiture est arrivée sur la tombe de Maître Hu Qiaoshan, les Britanniques ont fait des sacrifices, ont pleuré et ont percuté le monument. Soudain, le vent a soufflé. Le ciel était chaotique, du sable et des pierres étaient éparpillés, le sol s'est écrasé et la Grande-Bretagne et Taïwan y sont tombées. Une fois que le vent a cessé de pleuvoir, l'arc-en-ciel est resté haut. Deux papillons géants voltigeaient et dansaient. La légende raconte que le noir est Zhu Yingtai et le jaune est Liang Shanbo. Le couple est attaché. Ils sont inséparables et leurs deux ailes volent entre ciel et terre.
+Traduit par IA   
+
+
+
+
+

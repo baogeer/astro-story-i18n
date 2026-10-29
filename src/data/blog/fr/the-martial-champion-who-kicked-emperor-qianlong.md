@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-13 17:52:56
+title: "Le champion martial qui a donné un coup de pied à l'empereur Qianlong"
+featured: false
+draft: false
+description: "Pendant la période Qianlong de la dynastie Qing, le champion Wu Mandekun était souvent réprimandé par les eunuques et les dames du palais pour avoir gardé la porte du palais. Sous la direction de sa ville natale Liu Yong, il a profité de l'occasion offerte par l'empereur Qianlong pour se faufiler par-dessus le mur du palais la nuit, l'a renversé et a fait semblant de plaider coupable. Qianlong s'est plaint d'être un bon garçon. Bientôt, il a ordonné le transfert de Man Dekun pour garder la frontière, faisant la satire des brimades judiciaires et démontrant l'intelligence du petit homme."
+---
+
+
+
+![AstroPaper I18n](/the-martial-champion-who-kicked-emperor-qianlong.png)
+
+
+
+
+ Pendant la période Qianlong de la dynastie Qing, il y avait un champion d'arts martiaux dans le comté de Tengxian. Il s'appelait Man Dekun.
+À cette époque, le pays était encore trop paisible. Bien que Man Dekun ait été le champion, il n'a pas dirigé l'armée et n'a pas gardé la ville pendant un certain temps. Il s'agit simplement de garder la porte du palais, c'est-à-dire une petite tâche de garde.
+Comme le dit le proverbe, les chiens sont une question de caractère. La jeune fille du palais et l'eunuque méprisaient tous deux Man Champion. Chaque fois que l'empereur, l'épouse et la concubine entrent et sortent de la porte du palais, Man Dekun reste là et est souvent réprimandé par les eunuques et les jeunes filles du palais. Man Dekun possède d'excellents arts martiaux et est également un imposant champion d'arts martiaux. Il ne veut vraiment pas faire ce genre d'œuvre missionnaire. Cependant, je ne pouvais parler à personne, encore moins le suggérer à l'empereurxa0; je devais le cacher dans mon cœur.
+Un jour, alors qu'il a rencontré le ministre Lianli et Liu Yong, qui est également un compatriote, Man Dekun lui a secrètement dit qu'il n'était pas disposé à garder la porte du palais. Liu Yong a médité pendant longtemps, mais il n'a pas trouvé de bonne solution. Puis il y a eu des commérages. Lorsque Man Dekun n'avait aucune intention de parler de Qianlong, il a ditxa0: «xa0Vive aujourd'hui. Vous pouvez entrer dans le palais la nuit sans entrer ni sortir de la porte du palais. Comme il connaît bien la littérature et les arts martiaux, il vole souvent pour voler au-dessus des murs des palais. Je peux donc faire semblant de ne pas l'avoir vu.xa0» Selon les règles de la cour impériale, l'empereur doit informer l'eunuque tous les soirs dans quel palais, et l'eunuque prendra les dispositions nécessaires. Cependant, Qianlong aimait non seulement ses concubines, mais aussi Nishinomiya. J'ai passé la nuit dans deux palais. Même s'il était empereur, j'ai toujours pensé que ce n'était pas une bonne chose quand les choses se révélaient. À cette fin, Qianlong a adopté la méthode consistant à voler par-dessus le mur du palais.
+Liu Yong a entendu dire que Qianlong avait traversé le mur du palais tard dans la nuit et a dit à Man Zhuangyuanxa0: «xa0Tu ne veux plus utiliser la méthode de la porte du palais.xa0» Puis je l'ai dit et répété à Man Dekun, et Man Dekun a hoché la tête à plusieurs reprises et a dit oui.
+Quelques jours plus tard, Man Dekun était de service tard dans la nuit. Voyant que le véhicule léger Qianlong devait à nouveau traverser le mur du palais. Man Dekun a rattrapé une flèche, a fait un pas et l'a jeté au sol. Il a tenu son épaule avec sa main gauche et a dû se battre d'une main de fer avec sa main droite. En parlant de retard, c'était rapide. Qianlong a dit à la hâtexa0: «xa0Ne vous battez pas, c'est une veuve.xa0» Man Dekun l'a immédiatement attrapé avec ses mains et s'est agenouillé par terrexa0: «xa0Hourraxa0! Maudits sbiresxa0!xa0» À ce stade, Qianlong a dû direxa0: «xa0Tu es un bon garçon. Ne parlez pas trop fortxa0; je m'excuse de ne pas être coupable.xa0»
+Man Dekun a donné un coup de pied à Qianlong avec des pieds volants. Qianlong pensait avoir fait le bon choix. Cependant, cela ne lui convenait pas. Enfin, une mission sacrée a été ordonnée pour s'occuper de la frontière.
+Traduit par IA   
+
+
+
+
+

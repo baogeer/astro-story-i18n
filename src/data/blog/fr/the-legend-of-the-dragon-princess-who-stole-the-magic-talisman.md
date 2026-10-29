@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-07 22:25:25
+title: "La légende de la princesse dragon qui a volé le talisman magique"
+featured: false
+draft: false
+description: "Qin Shi Huang a perturbé la mer avec des talismans de fées à la recherche de Lady Meng Jiang, et la dame dragon est devenue un symbole pour voler le palais et s'est enfuie au bord de la mer pour accoucher. Le bébé a été adopté par Xiang Laohan et nommé Xiang Yu. Il est devenu plus tard roi du Chu occidental et a participé au renversement de la dynastie Qin. L'histoire utilise un complot mystique comme métaphore selon laquelle la tyrannie des Qin Wang finira par semer le trouble à cause de ses propres accusations."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-dragon-princess-who-stole-the-magic-talisman.png)
+
+
+
+
+ Cette légende est une histoire légendaire sur la Grande Muraille qui a pris Meng Jiang et a pleuré. Dès que Qin Shi Huang a vu la fille Meng Jiang sauter dans la mer, il était furieux et a juré de retrouver la femme Meng Jiang. Si tu ne le retrouves pas vivant, tu peux mourir aussixa0! De cette façon, il a envoyé quelqu'un pour le chercher sur le rivagexa0; ils n'ont pas pu le trouver. À ce stade, quelqu'un a eu une mauvaise idéexa0: laisser Qin Shi Huang utiliser la piété filiale formée par Xian Fu pour remuer l'eau de mer et remuer l'eau de mer. Ne craignez pas que Lady Meng Jiang ne vienne pas. Dès que Qin Shi Huang s'est amusé, il a immédiatement apporté sa piété filiale et a dansé d'avant en arrière dans l'eau de mer. C'était tellement incroyable. L'eau de mer était remuée comme si on faisait bouillir une marmite, provoquant d'énormes vaguesxa0!
+Le Crystal Palace de Dragon King n'en peut plus. Le palais tremble et tremble, et les crevettes, les soldats et les crabes se déchaîneront de peur. Dragon King est pressé et est occupé à convoquer des ministres pour discuter des moyens. Mais après avoir discuté pendant une demi-journée, personne n'a eu de bonne idée. À ce moment-là, les neuf filles de Dragon King sont venues et ont dit à Dragon Kingxa0: «xa0Père, pourquoi ne pas simplement rendre la fille de Meng Jiang à Qin Shi Huangxa0!xa0» Dragon King a ditxa0: «xa0Ohxa0! Eh bien, Lady Meng Jiang est une fée du monde supérieurxa0; elle est revenue il y a longtemps. Rendez-lui quoixa0!xa0» La femme de Kowloon y a réfléchi et a voulu direxa0: «xa0Père et roi, maintenant la Liberty Daughter ressemble à une femme Meng Jiang. Ce n'est qu'en essayant de faire sortir le roi de nulle part et de voler des talismans féeriques que nous pourrons préserver la vie dans la mer.xa0» Dragon King n'avait vraiment pas d'autre choixxa0; il n'avait pas d'autre choix que de laisser la Dragon Girl se transformer en une femme Meng Jiang et sortir de l'eau.
+Lorsque Qin Shi Huang faisait preuve de piété filiale sur le rivage, il a vu une personne flotter à la surface de la mer. Si vous y regardez de plus près, c'était la femme Meng Jiangxa0! Je l'ai ramassé et j'y ai jeté un coup d'œil. J'ai vu que son visage était rose et avait un soupçon de vitalité. Mais cela a ruiné la beauté de Qin Shi Huang. Ils sont occupés à ordonner aux gens de ramener «xa0Lady Meng Jiangxa0» au palais pour récupérer. Depuis lors, la femme de Kowloon est la concubine de l'empereur Qin Shi Huang. Elle a voulu voler des talismans de fées à quelques reprises, mais Qin Shi Huang l'a regardée de trop près et n'a pas pu commencer. Quelques mois se sont écoulés en un clin d'œil. À ce stade, la fille dragon était déjà enceinte et était sur le point d'accoucher. Ce jour-là, Qin Shi Huang est parti en voyage. Avant de partir, il a placé le talisman de fée dans le palais de la Dame Dragon. Les femmes de Kowloon ont vu une opportunité rare, alors elles ont pris Xianfu et ont couru vers la mer de l'Est. Elle a couru et couru. La ceinture filiale formée par le talisman féerique flottait et se balançait d'avant en arrière, et la Grande Muraille de Chine se déformait et flottait. Elle a couru vers la mer de Chine orientale et une extrémité de la Grande Muraille s'est «xa0balancéexa0» dans la mer. À ce stade, les femmes de Kowloon ne pouvaient plus courir. Pourquoixa0? Mal au ventrexa0! En conséquence, elle a donné naissance à une poupée noire sur un récif en bord de mer.
+À ce stade, Dragon King a été choqué par le bruit de la Grande Muraille entrant dans la mer. Dès qu'il est arrivé sur la côte pour voir qu'il s'agissait d'une fille dragon, il a ramené la fille dragon à Crystal Palace et a jeté le pauvre garçon noir sur le rivage.
+Qui sait, ce garçon noir vit longtemps. Il crie «xa0wow wowxa0» sur le récif. Il a faim, il y a des tigres à allaiter, il fait chaud et les aigles font de l'ombre aux fans. Au bout de deux jours, un vieil homme du nom de famille Xiang est venu ici. Il a vu un groupe d'aigles «xa0flottant en éventailxa0» autour d'un enfant et s'est approché pour chasser les aigles et a ramené l'enfant à la maison. Il a baptisé cet enfant «xa0Xiang Yuxa0» parce qu'il a vu l'aigle l'ombrager avec un éventail en plumes.
+Plus tard, Xiang Yu a grandi, est devenu roi du Chu occidental et a participé à la guerre pour renverser la dynastie Qin. Bien qu'il n'ait pas été assis dans le monde, il était aussi un héros et il a traversé les âges.
+Traduit par IA   
+
+
+
+
+

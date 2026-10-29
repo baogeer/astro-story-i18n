@@ -1,0 +1,42 @@
+---
+pubDatetime: 2026-11-04 23:56:39
+title: "The Bronze Ox: A Yi Folktale from Yangbi"
+featured: false
+draft: false
+description: "The Yangjiangjiang Fisherman's Calf Cow was originally a golden cow. It was necessary to use dead bodies to keep up their dreams because evil dragons are messing around with their dreams. In order to save their hometown, the cow and cow volunteered to fight with Jiao at Yunlong Bridge and turned the Golden Bull into heaven to get rid of the disease. Later generations cast Bronze Cow Chronicles and praised them for sacrificing their lives to help the world."
+---
+
+
+
+![AstroPaper I18n](/the-bronze-ox-a-yi-folktale-from-yangbi.png)
+
+
+
+
+ Hibiscus
+Once upon a time, along the Yangliang River, a young couple made a living by fishing. Her husband, Shi Sheng, went fishing in the river every day, and his wife, Shui Feng, weaved a net at home to cook. They were as diligent as a snail girl. The younger couple had a sweet and loving life. Later, they had a son named Niu Niu. Niu Niu was obedient and sensible, and the couple were even more delighted.
+However, the good times didn't last long. In the year Niu Niu was six years old, torrential rain continued. One night, the sky suddenly crashed and the water rushed into the house. The family of three had to abandon their home and run for their lives. Amidst the panic, his wife Shui Feng and son Niu Niu disappeared.
+Shi Sheng broke his voice and searched all over the nook. There were no figures of Shui Feng or any cow.
+The water phoenix and the cow have since disappeared.
+Shi Sheng, who was desperate and in a trance, saw the cow riding on a golden bull with its small mouth pouting and looking directly at Shi Sheng and laughing. Shi Sheng felt a burst of joy. When he reached over, he wanted to hold the cow. But the cow was close in front of him, and he couldn't reach out enough to hold the cow.
+I only heard Niu Niu say, “Dad, I was originally a celestial cow, because I accidentally stained the water in the Tianhe River and was devalued to dust. Now that all relationships are over, it's time for the cow to go. Dad, an evil jiao came to the Yangjiao River. It turned into my bronze bell. It slipped off the earth without permission and became a jiaolong making waves, causing harm to the world. Dad only needed to find the cow and bury the cow's body on the east side of Yunlong Bridge, and he was able to calm down Er Jiao; the evil dragon couldn't harm people.” When the cow finished talking, he disappeared.
+Shi Sheng told his neighbors about his dream scene. Everyone felt incredible. Together with Shi Sheng, they searched for cows, cows, and water phoenix. After several days, they didn't find any. It was just when everyone got discouraged and gave up looking. Her son Niu Niu and his wife Shui Feng came home on their own.
+It turns out that the mother and son were washed into a big tree by the flood and escaped robbery in the tree. After the flood receded, Shui Feng became ill, and a kind person took them in. After a few days, Niu Niu's mom got a little better, so they rushed home to find Shi Sheng. The family of three cried with joy and finally escaped death.
+Shi Sheng remembered what Niu Niu said in his dream: “If you bury the cow's body on the east side of Yunlong Bridge, you can calm the evil jiao; the evil jiao can't come out and harm people.”
+When Ishio looked at the lively cows and cows, how could he bear to bury the cow. However, if this is not done, it will be impossible to overcome the floods. How is this good?
+Since then, Shi Sheng has been depressed. It didn't take long for him to fall ill in bed. God and medicine were lacking, and he cried for his life.
+His wife, Shui Feng, cried to death. Her son, Niu Niu, was speechless, but he was extremely well-behaved and sensible. Shortly after Shi Shengtou 7, a few elderly people came to the village and recounted Shi Sheng's dream before he was born to Shui Feng. They said that a cow is a sacred cow in the sky. Only by burying him on the east side of Yunlong Bridge can the evil jiao be contained, so that it will not become a flood. The original intention of the villagers was to let the cows and cows calm down the evil jiao. Shui Feng was so angry that they scolded. She didn't believe this when she died, let alone just a dream, and she couldn't take it seriously. The cow hid outside the window and overheard what the villagers were saying.
+The kind villagers have left; they are not embarrassed by the water, the phoenix, the cow or the cow. After all, who has children, and who will bury their own children alive?
+Niu Niu decided to get rid of the evil jiao in the river. He asked his aunt next door to tell Shui Feng that he had gone to Yunlong Bridge.
+When Shui Feng and the townspeople arrived at Yunlong Bridge, there were no cows or cows; they only heard a loud “click” sound, which made people's ears tingle. A wave of dark clouds immediately gushed up the Yangjiao River. The dark clouds covered most of the sky. I saw the dark clouds rolling and rising on the surface of the river, and the strong wind rolled up the dust, leaving the sky dark.
+After about half an hour, the dark clouds revealed a large, iron-blue dragon head: dancing claws, looking like lightning, flying over the Yangjiao River. Following that, the townspeople saw that cows and cows were above the dark clouds; they were so powerful! So tall! His body gave off a golden glow, and a group covered the evil dragon. The townspeople all breathed a sigh of relief. They all breathed a sigh of relief. At the critical moment, the situation changed abruptly. When the cow and cow were approaching the evil jiao, the evil jiao suddenly stretched out and violently hit the cow, but they saw a burst of golden fluttering and retreat. The evil jiao took the opportunity to fight back, and the evil jiao sank to the bottom of the river together. More offense, less good!
+Niu Niu's mother lost her voice and cried, and the townspeople also shed tears. Just when everyone was grieving and desperate, a golden light suddenly passed through the sky. A golden bull flew out of the Yangjiang River, then the golden cow turned into a cow and stood in the clouds.
+Shui Feng and the townspeople were all dumbfounded. Niu Niu said, “Ma'am, I'm gone, townspeople, I'm gone. Evil Jiao has already been subdued by me. There will be no more floods in the future. When the cow finished speaking, he became a golden cow and went to heaven.
+Later, Guo Cunzhuang, Zhi County in Yangyi County, was on the east side of Yunlong Bridge and cast a bronze cow. The bronze cow was shaped like a rhinoceros to create town water. It became a good story for a while.
+Today, this bronze cow is unaware of its whereabouts.
+AI Translated   
+
+
+
+
+

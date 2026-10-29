@@ -1,0 +1,34 @@
+---
+pubDatetime: 2026-11-13 22:33:12
+title: "El cuento del vaquero y la chica tejedora"
+featured: false
+draft: false
+description: "El vaquero fue maltratado por su hermano y su hermana, y se encontró con el tejedor bajo la dirección de Shiniu. Los dos se convirtieron en marido y mujer y tuvieron un hijo y una hija. La madre Wang recuperó el tejedor y el vaquero los persiguió con piel de vacuno, pero el río Tianhe los bloqueó. Cada año, el 7 de julio, las urracas se reúnen y celebran su amor inquebrantable y su resistencia a la opresión."
+---
+
+
+
+![AstroPaper I18n](/the-tale-of-the-cowherd-and-the-weaver-girl.png)
+
+
+
+
+ El vaquero y el tejedor son personajes míticos derivados de los nombres estelares Morning Glory Star y Weaver.
+Hace mucho, mucho tiempo, un huérfano vivía con su hermano y su cuñada. Mi hermano y mi cuñada lo trataban muy mal. Le dijeron que comiera las sobras, que se pusiera ropa y que lo llevara a toda prisa montaña arriba para pastorear vacas todos los días cuando no había luz. No tiene nombre; todos lo llaman vaquero.
+El vaquero cuidó a la vaca con mucho cuidado. Cada día pastorea una vaca, recoge la mejor hierba y deja que se coma la hierba gorda y tierna; cuando la vaca vieja tiene sed, la lleva a las partes altas del arroyo para beber el arroyo más limpio. Esa vaca vieja también está muy cerca de él. A menudo lo mira con delicadeza y, a veces, saca la lengua para lamerle la mano.
+Una noche, el vaquero entró en el granero y de repente escuchó un «¡vaquero!» , ¿quién lo llamó? Mirando hacia atrás, bajo la tenue luz de las estrellas, resultó que la vieja vaca estaba hablando. Lao Niu dijo: «Mañana al anochecer, cruzarás la montaña de la derecha. Hay un lago en la ladera de la montaña y hay un bosque de bosques junto al lago. En el bosque, conocerás a una chica hermosa. ¡No pierdas esta oportunidad!»
+Al anochecer del día siguiente, el vaquero giró sobre la montaña de la derecha y llegó al bosque junto al lago. De repente, se oyó una leve risa en la distancia. El vaquero siguió la risa, solo para ver a unas cuantas niñas jugando junto al lago. Después de un rato, uno de ellos dejó a su compañero y caminó hacia el bosque. ¿Quién es esta chica? Resulta que es la nieta de la Reina Madre. Es una maestra tejedora. Se llama Weaving Nu. Cada mañana y cada tarde, la señora Wang adorna el cielo con brocados de colores que teje, es decir, nubes brillantes. Esta tarde, la señora Wang bebió unas cuantas copas de vino más y se quedó dormida en su trono. Cuando la tejedora y las hadas vieron una oportunidad única, volaron juntas al mundo.
+El vaquero y el tejedor se conocieron en el bosque. Durante la conversación, el vaquero comprendió la identidad del tejedor, y el tejedor también se enteró de la experiencia del vaquero. Cuando la tejedora vio que el pastor tenía un buen corazón y era capaz de soportar las dificultades, decidió quedarse en la tierra y ser su esposa.
+Desde entonces, los pastores de vacas han cultivado los campos y los tejedores han tejido en casa. Los dos trabajaron duro y tuvieron una vida muy feliz. En un abrir y cerrar de ojos, pasaron tres años y tuvieron un hijo y una hija.
+Un día, el vaquero fue a dar de comer a la vaca. La vieja vaca volvió a hablar y sus ojos se llenaron de lágrimas. Decía: «¡Ya no puedo ayudarte a trabajar sobre el terreno! ¡Estamos a punto de separarnos! Cuando muera, me quitas la piel y te quedas con ella; en caso de emergencia, pones mi piel...» La vaca vieja murió antes de terminar de hablar.
+Además, cuando Wang Mu Niang se enteró de que la tejedora se había casado en la tierra, se puso furiosa y juró llevar a la tejedora al cielo y castigarla severamente.
+Un día, la madre Wang se aprovechó del vaquero para trabajar en el campo y llevó al general Tianbing a irrumpir en la casa del vaquero para atrapar al tejedor. Los dos niños corrieron y cogieron la ropa de su madre hasta matarla. La madre Wang y su madre empujaron con fuerza y los dos niños cayeron al suelo. La madre Wang arrastró la tejedora y volaron juntas a Tiangong. Mientras luchaba, la tejedora miró a los dos niños y gritó: «Ve a buscar a papá pronto».
+El vaquero quedó consternado cuando se enteró de que la hija de la princesa se había llevado a Weaver. Pero, ¿cómo puede salvarlos el cielo? De repente, se acordó de lo que la vieja vaca había dicho antes de morir, así que rápidamente encontró la piel de vaca, la cubrió sobre su cuerpo, luego colocó a su hijo y a su hija en dos cestas de bambú, la recogió y salió corriendo. Tan pronto como salió de la casa, voló hacia arriba. Cuanto más rápido volaba, más rápido estaba a punto de alcanzar al tejedor. La madre Wang se quitó la horquilla de jade de la cabeza y la acarició por detrás de ella. De repente, apareció un Tianhe frente al vaquero. El río Tianhe es tan ancho que el vaquero no puede pasarlo volando.
+Desde entonces, el vaquero está a este lado del río Tianhe y el tejedor está al otro lado del río Tianhe; los dos solo pueden verse al otro lado del río. Después de mucho tiempo, se convirtieron en estrellas gloriosas de la mañana y en tejedores a ambos lados del río Tianhe.
+Cada año, en la noche del 7 de julio del calendario lunar, un grupo de urracas llega volando y construye un «puente de urracas» en el río Tianhe, de modo que el vaquero y el tejedor se encuentran en el puente. Ese día, de hecho, hay muchas menos urracas; se dice que todas han ido al río Tianhe para construir un puente.
+Traducido por IA   
+
+
+
+
+

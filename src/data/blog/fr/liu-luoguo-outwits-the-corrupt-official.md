@@ -1,0 +1,50 @@
+---
+pubDatetime: 2026-11-10 19:22:01
+title: "Liu Luoguo déjoue le fonctionnaire corrompu"
+featured: false
+draft: false
+description: "Liu Yong (Liu Luoguo) de la dynastie Qing a utilisé son ingéniosité et a ingénieusement conçu un plan visant à faire connaître les crimes commis par des fonctionnaires corrompus et à les traduire en justice, reflétant la justice et la sagesse de faire du mal à la population."
+---
+
+
+
+![AstroPaper I18n](/liu-luoguo-outwits-the-corrupt-official.png)
+
+
+
+
+ Auteurxa0: Zhang Jishun
+Un soir, l'empereur Qianlong s'est rendu à Midday Gate pour une promenade. En levant les yeux, j'ai vu que la section entre la porte Wu et la porte Zhengyang était en mauvais état et que de nombreuses pièces étaient usées et creusées à cause de son âge. J'ai senti qu'il avait perdu sa décence royale, alors j'ai dû le réparer. En conséquence, il a ordonné à He-kun de s'occuper de cela et lui a demandé de fixer un budget pour terminer le projet dans les deux mois. C'est un personnage apprécié par l'empereur Kundu, mais gourmand, et c'est une oie sauvage qui s'arrache trop les poils. Il était très heureux après avoir accompli sa mission et sentait qu'il avait une autre bonne chance de faire fortune.
+Trois jours plus tard, tôt le matin, Hekun a apporté cette chanson et a déclaréxa0: «xa0Impératrice, cette section du Sentier impérial obstrue effectivement la vuexa0; elle doit être entièrement remplacée. Comme la pierre nécessaire devait être achetée à Fangshan, à des centaines de kilomètres, et que les maçons étaient méticuleusement sculptés, le projet était énorme. Même si les dépenses étaient limitées, il faudrait au moins 100 000 yuans d'argent.xa0» L'empereur Qianlong n'a rien dit, il l'a immédiatement approuvé.
+Après cela, de nombreux ateliers ont été immédiatement installés à côté de la route, les deux côtés de la route ont été recouverts de paille et des centaines d'artisans ont travaillé dans la région jour et nuit. En conséquence, la construction de la route impériale a été achevée plus tôt que prévu en moins d'un mois.
+L'empereur Qianlong était accompagné de He Kun. Il a certainement vu que la route était plate et complètement rafraîchie. Il ne pouvait s'empêcher d'être fou de joie et d'éloges.
+Tôt le lendemain matin, l'empereur Qianlong a déclaré au publicxa0: «xa0He Aiqing se spécialise à Yudao à cette heure-ci, jour et nuit. C'est à la fois rapide et bon. Il a été achevé au début du mois de janvier et le dur labeur a été excellent. Je te récompenserai avec 10 000 yuans d'argent et je serai ensuite promu au grade.xa0»
+He Kun était si fier qu'il a reçu à la fois gloire et fortune, et l'a remercié à la hâte.
+Qui sait depuis quelques jours, Liu Wei a découvert les détails de cet incident par inadvertancexa0: il s'est avéré que He-kun n'était jamais allé à Fangshan pour acheter de la pierre, mais qu'il avait seulement soulevé la pierre d'origine pour que le tailleur de pierre la sculpte au revers. Après avoir nivelé la plate-forme en dessous, elle était comme neuve. En conséquence, la période de construction a été raccourcie, les coûts ont été économisés et un total de seulement 10 000 ou deux dollars ont été dépensés.
+Liu Wei a alors décidé de le révéler et de faire passer Hekun pour le moche en public.
+Tôt le lendemain matin, Liu Wei a attendu que tout le monde entre dans le temple de Taihe, a rapidement enlevé ses vêtements du matin, les a remis et a suivi tranquillement.
+L'empereur Qianlong s'est assis sur la chaise Kowloon et a levé les yeux. Il a levé les yeux et a vu une personne habillée différemment debout derrière son groupe de ministres. Il a trouvé ça étrange. Il a regardé de plus près, mais Liu Yong, co-sponsor de l'université. Réflexionsxa0: Il a toujours accordé une grande attention aux instruments et travaille avec soin. Pourquoi était-il hébété aujourd'hui et a-t-il même enfilé le costume coréenxa0? Quel est le problèmexa0?
+Ce détail a été rapidement découvert par Hekun, qui regardait toujours les yeux de l'empereur et agissait. Parce que c'était clairement stipulé à l'époquexa0: si vous ne servez pas correctement la RPDC lorsque vous vous rendez en RPDC, vous serez condamné. Il s'est ditxa0: Liu Luo pot, maintenant tu as de bons fruits à manger. Puis il a délibérément dit misérablementxa0: «xa0Maître Liu, comment allez-vous aujourd'huixa0? Qu'a dit He Kun, et tous les ministres avaient des sueurs froides pour Liu Wei quand ils l'ont vu.
+Curieusement, Liu Wei a gardé la tête baissée et l'a ignorée.
+S'il avait changé de ministre, l'empereur Qianlong aurait été furieux et condamné, mais considérant que Liu Wei a toujours été loyal, il a plutôt utilisé un ton réprimandé pour demanderxa0: «xa0Liu Aiqing, pourquoi avez-vous porté votre uniforme de dynastie à l'enversxa0? Sors et porte-le avant de nous voir.xa0» Ce n'est qu'alors que Liu Wei est soudainement sorti avec une grande prise de conscience. Après s'être habillé, il s'est agenouillé et a chantéxa0: «xa0Illuminez l'empereur. Weichen porte aujourd'hui le costume de la dynastie à l'envers. Ça ne devrait vraiment pas l'être. Veuillez demander à l'empereur de s'excuser. Cependant, il est évident de porter un uniforme coréen, mais aujourd'hui, certaines personnes détournent des fonds publics et réalisent d'énormes profits en tournant simplement la face et en apportant de petits changements. Même si cela s'est produit juste sous le nez de tout le monde, je crains que ce ne soit pas facile à détecterxa0?xa0»
+Dès que le discours de Liu Yong est tombé, Hekun, qui venait de s'avancer, a immédiatement eu l'air d'être devenu un peu plus petit et son visage a radicalement changé.
+«xa0Quoixa0? Vous dites que cette voie a été bouleversée.xa0» Dès que l'empereur Qianlong l'a entendu, il a demandé à la hâtexa0: «xa0Liu Aiqing, comment diable est-ce, UE524 le joue en détail.xa0»
+Liu Wei s'est avancé et Voldemort a déclaréxa0: «xa0Vive, j'ai entendu parler de cet incident par accident et je suis déjà allé sur les lieux pour enquêter. Cependant, il serait préférable de demander à l'empereur de demander d'abord aux adultes.xa0»
+L'empereur Qianlong a été surpris et a demandé à Hekunxa0: «xa0Ne dites-vous pas la véritéxa0?xa0»
+He Kun a vu l'incident par la fenêtre est et ne pouvait plus le cacher. Il est tombé au sol en toute hâte et a ditxa0: «xa0Fangshan devrait mourir. Il n'est vraiment pas allé à Fangshan pour faire une carrièrexa0; il a simplement retourné la pierre d'origine, l'a sculptée, puis l'a remise en place.xa0»
+L'empereur Qianlong était furieuxxa0: «xa0Vous êtes si audacieux, alors combien d'argent avez-vous dépensé au totalxa0?xa0»
+«xa0Dix mille deux.xa0»
+«xa0Qu'en est-il des 90 000 autres (deux UE524)xa0?xa0»
+«xa0Ça...xa0» et Kun Guang se sont prosternés et n'ont plus pu répondre.
+Liu Yong a chantéxa0: «xa0Impératrice, inutile de demanderxa0; le reste est tombé dans les poches des adultes il y a longtemps. Hé, je ne peux pas imaginer qu'un si petit projet puisse devenir un gros truc pour les adultes. J'espère que l'empereur est clair.xa0»
+Ce n'est qu'à ce moment-là que le groupe de ministres a pris connaissance de l'intention de Liu Wei de porter l'uniforme coréen à l'envers. L'empereur Qianlong était déjà plein de colère, mais il était d'accord avec Kun et était inséparable de lui en tout. Il a dû le tenir haut et lâcher prise doucementxa0: «xa0Bold et Kun, comment oses-tu t'intimider et t'ignorerxa0? Nous vous ordonnons de restituer rapidement l'argent corrompu et récompensé au Trésor et de vous retirer de votre position officielle. Cependant, cette section du palais doit être reconstruite selon votre plan initial, et vous serez pénalisé pour le montant requis. Ne prenons pas l'exemple suivant, sinon il n'y aura pas de punition sévère.xa0»
+He Kun a dû avouer sa malchance, a plaidé coupable et l'a même remercié pour le crime. Ji Xiaolan a chantéxa0: «xa0Empereur, Maître Liu a bien performé et devrait être apprécié.xa0»
+L'empereur Qianlong s'est moqué de Liu Yongxa0: «xa0OK, j'apprécie les trois costumes de la dynastie de Liu Aiqing. Mais ne le portez pas à l'envers la prochaine fois.xa0»
+Liu Wei a dit à la hâtexa0: «xa0Merci, Lord Long. Maintenant que l'affaire Yudao est réglée, comment l'uniforme du gouvernement féodal sera-t-il à nouveau inverséxa0!xa0»
+Auteurxa0: Zhang Jishun
+Traduit par IA   
+
+
+
+
+

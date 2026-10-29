@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-14 17:06:25
+title: "Cuento popular de Yangbi Yi: La leyenda de Nian y el Año Nuevo chino"
+featured: false
+draft: false
+description: "En la antigüedad, había bestias del «año» que hacían daño a las personas cuando desembarcaban en la víspera de Año Nuevo. Un año, una anciana de la aldea de Taohua acogió a ancianos mendigos. El anciano usó papel rojo, velas y bambú que explotaba para ahuyentar a las viejas bestias. Los aldeanos siguieron su ejemplo uno tras otro. Desde entonces, han publicado tarjetas rojas durante el Año Nuevo y han lanzado petardos para ahuyentar el mal y dar la bienvenida al nuevo, y han seguido su ejemplo."
+---
+
+
+
+![AstroPaper I18n](/yangbi-yi-folktale-the-legend-of-nian-and-chinese-new-year.png)
+
+
+
+
+ Cuenta la leyenda que en la antigua China había un tipo de monstruo llamado «año». Tenía largos tentáculos y era feroz y anormal. Los «años» han estado en el fondo del mar durante muchos años. Solo suben a tierra cada Nochevieja, devoran ganado y dañan vidas. Por eso, cada Nochevieja, los habitantes de pueblos y aldeas se refugian con sus crías en las profundidades de las montañas para evitar que la bestia del «Año Nuevo» les haga daño. En la víspera de Año Nuevo de este año, los habitantes de la aldea de Taohua estaban ayudando a los ancianos y refugiándose en las montañas. Un anciano que mendigaba desde las afueras de la aldea solo lo vio con muletas, brazos en los bolsillos y bigotes plateados que parecían una estrella. Algunos habitantes del pueblo sellaron las ventanas y puertas, otros empacaron sus maletas, otros criaron vacas y persiguieron ovejas, y la gente en todas partes gritó, y hubo una escena de prisa y pánico. Llegados a este punto, ¿a quién le importa todavía este anciano que mendiga? Solo la anciana del extremo este del pueblo le dio algo de comer al anciano y le aconsejó que subiera a la montaña para evitar a la «vieja» bestia. El anciano se echó a reír: «Si mi suegra me deja pasar la noche en casa, definitivamente ahuyentaré a la 'vieja' bestia». La esposa lo miró de cerca y vio que tenía un rostro muy joven, un espíritu fuerte y una energía extraordinaria. Sin embargo, continuó persuadiendo y rogando al anciano que se riera sin decir una palabra. Mi abuela estaba indefensa, así que dejó su casa y subió a la montaña para refugiarse. En mitad de la noche, la bestia del «Año Nuevo» irrumpió en el pueblo. Descubrió que el ambiente en el pueblo era diferente al de años anteriores: la casa de la anciana, en el extremo este del pueblo, tenía un gran papel rojo en la puerta y la casa estaba brillantemente iluminada con velas. La bestia del «Año» se estremeció por todo su cuerpo y el diablo gritó. «Year» miró fijamente a la casa de la suegra por un momento, luego gritó y pasó corriendo. Al acercarse a la entrada, hubo una repentina explosión de «bang bang» en el patio. «Nian» se estremeció por todo su cuerpo y tuvo miedo de seguir adelante. Resulta que el «año» teme más al rojo, al fuego y a las explosiones. En ese momento, la casa de la suegra se abrió de par en par, solo para ver a un anciano con una túnica roja riendo a carcajadas en el hospital. «Year» se sorprendió y huyó a toda prisa. Al día siguiente fue el primer día del Año Nuevo. Las personas que se habían refugiado se sorprendieron al ver que la aldea estaba sana y salva. En ese momento, la esposa se dio cuenta de repente y se apresuró a contarle a la gente del pueblo la promesa de mendigar a los ancianos. Toda la gente del pueblo se reunió en la casa de la abuela, solo para ver papel rojo en la puerta de la casa de la suegra, y un montón de bambú sin quemar seguía «reventando», y algunas velas rojas de la casa aún brillaban después...; Para celebrar la llegada de la buena suerte, todos los habitantes del pueblo se cambiaron de ropa nueva y se pusieron sombreros nuevos para saludar a sus familiares y amigos.
+La gente descubrió que el «Año Nuevo» tenía mucho miedo a los petardos y a las cosas rojas, por lo que cada vez que llegaba en Nochevieja, la gente se ponía de rojo para celebrar y apagaba los petardos cuando eran viejos y daban la bienvenida al nuevo año. Más tarde, el «Año Nuevo» nunca se atrevió a volver. Esta es la leyenda de la víspera de Año Nuevo. El día después de las 30 se celebra el Festival de Primavera, el primer día del Año Nuevo Lunar, también conocido como «Año Nuevo».
+Colección Yang Dengtang
+Traducido por IA   
+
+
+
+
+

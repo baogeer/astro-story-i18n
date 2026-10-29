@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-09 14:23:17
+title: "La grand-mère qui passe tard dans la nuit"
+featured: false
+draft: false
+description: "Je suis restée chez un ami tard dans la nuit, et pendant que je prenais un bain, j'ai entendu frapper à plusieurs reprises, mais quand j'ai ouvert la porte, j'ai vu une grand-mère étrange. Elle a reproché à «xa0ne pas gaspiller l'eauxa0» puis a disparu. J'ai appris le lendemain que c'était la grand-mère de mon ami, décédée il y a un an. Elle m'a prévenu qu'elle avait été frugale durant sa vie. J'avais tellement peur que j'étais si malade que je n'irais plus jamais chez lui. L'histoire encourage les gens à chérir les ressources et à ne pas les gaspiller."
+---
+
+
+
+![AstroPaper I18n](/the-late-night-grandmother.png)
+
+
+
+
+ En d'autres termes, je suis sortie jouer avec un groupe d'amis un jour. Comme je m'amusais trop à l'époque et que je suis restée plus longtemps que le bus de nuit, j'ai dû travailler moi-même pour passer la nuit chez l'un de mes amis. Une fois arrivé chez lui, je lui ai recommandé de prendre un bain avant d'aller au lit. Mon ami m'a dit que la salle de bain était à l'arrière et m'a tendu une serviette, alors j'ai marché jusqu'à l'arrière de la maison. C'était une très petite salle de bain. Il y avait une baignoire à l'intérieur. J'ai rempli la baignoire d'eau bouillante, puis toute la personne est entrée dans l'eau et en a profité.
+Bientôt, j'ai entendu frapper à la porte et j'ai cru que mon ami m'appelait. J'ai donc enveloppé une serviette et je suis allée ouvrir la porte. J'ai ouvert la porte mais je n'ai vu personne. Je me doutais que je l'avais mal entendu, mais des choses étranges se sont produites les unes après les autres et j'ai commencé à me mettre en colère en pensant que mon ami faisait une farce. Je me suis lavée et pendant que je mettais mes vêtements, on a de nouveau frappé à la porte. J'ai ouvert la porte si vite cette fois, et j'ai été choquée parce qu'il y avait une vieille grand-mère debout devant la porte cette fois. Elle a dit d'un ton méchantxa0: «xa0Ne gaspillez pas l'eauxa0!xa0» Une fois calmée, je n'étais pas occupée à passer du temps avec elle. À l'origine, je pensais que cette grand-mère était la famille d'une amie. La première fois que je me suis présentée, je n'ai pas vu sa grand-mère. Je suppose qu'elle a dû me donner une leçon puis elle est retournée dans sa chambre. J'étais gênée de m'excuser auprès de mon ami. Il m'a regardé d'un air étrange, puis m'a demandé ce qui s'était réellement passé, et je le lui ai expliqué à nouveau, mais il était toujours stupide. Je l'ai comparé au dessin du visage de la vieille femme. Soudain, son visage s'est affaissé et m'a demandé de ne plus parler. Il m'a pressée de dormir. Même si j'ai remarqué que quelque chose n'allait pas, je n'ai jamais demandé à nouveau.
+Le lendemain, mon ami m'a dit que la vieille femme qui avait frappé à ma porte la nuit dernière était en fait sa grand-mère. Elle m'a également emmenée voir sa photo en noir et blanc. Effectivement, c'est la vieille femme qui a frappé à ma porte. Mon amie m'a dit que cette grand-mère était pauvre depuis son enfance, qu'elle était frugale et qu'elle n'aimait jamais rien gaspiller. Elle vient de frapper à ma porte pour me dire de ne pas gaspiller l'eau. Dès que je l'ai entendu, mon visage a changé. J'étais très malade quand je suis rentré chez moi et je n'ai plus jamais osé passer la nuit chez cet ami.
+Traduit par IA   
+
+
+
+
+

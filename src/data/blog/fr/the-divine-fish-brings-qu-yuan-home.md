@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-18 05:20:48
+title: "Le poisson divin ramène Qu Yuan à la maison"
+featured: false
+draft: false
+description: "Lorsque Qu Yigu a rêvé qu'un poisson sacré ramenait le corps de Qu Yuan, elle s'est rendue au bord de la rivière pour appeler au bord de la rivière. Le gros poisson est certainement apparu et le cercueil de Qu Yuan était caché dans son estomac. En pleine douleur, la première tante a heurté le monument et s'est transformée en oiseau demandant «xa0le retour de mon frèrexa0». Depuis lors, des courses de bateaux-dragons ont lieu au Dragon Boat Festival et des poissons sacrés sont restés dans la gorge de Seiryo pour pleurer Qu Yuan année après année."
+---
+
+
+
+![AstroPaper I18n](/the-divine-fish-brings-qu-yuan-home.png)
+
+
+
+
+ La légende raconte que Qu Yuan a un cousin nommé Qu Yigu. C'est une pauvre pêcheuse qui a grandi en buvant les Trois Gorges. Elle est belle, intelligente et possède une forte personnalité. Elle a déjà navigué sur un bateau de pêche pour accueillir le vent et les vagues dans la gorge de Xilingxa0; elle a accompagné Qu Yuan dans les montagnes et les montagnes, a écouté des chansons folkloriques, a choisi le style Chu et a aidé Qu Yuan à écrire le poème «xa0Orange Songxa0» dans l'orangeraie de sa ville natale. Qu Yuan est retourné dans sa ville natale depuis Yingdu pour recruter des troupes pour combattre l'armée d'invasion Qin. Qu Yigu a immédiatement conduit les pêcheurs et les plaisanciers sur la rivière Xiajiang, a d'abord levé un drapeau contre Qin Baochu et a appelé à la guerre contre Qu Yuan.
+Un jour, Qu Yigu a fait un rêve. Elle a vu un magnifique moineau voler autour de sa tête en criantxa0: «xa0Mon frère, reviens en arrière, yo, mon frère, reviens en arrièrexa0!xa0» Plus tard, le petit pinson s'est envolé et Qu Yigu lui a retiré la jambe pour la poursuivre, l'a poursuivi jusqu'à l'embouchure de la gorge de Xiling et a disparu. Elle a entendu quelqu'un prononcer ces deux motsxa0: «xa0La rivière a fait marche arrière de 3 000 miles et Qu Yuan est mort dans l'estomac du poisson.xa0» À ce moment-là, Qu Yigu a vu un gros poisson surgir dans la rivière, portant le cadavre de Qu Yuan sur son dos.
+Le lendemain, Qu Yigu a raconté ce rêve aux sœurs du village. Les sœurs ont couru jusqu'à l'embouchure de la gorge de Xiling avec Qu Yigu. Tout en lavant les vêtements, ils ont criéxa0: «xa0Mon frère, rentre, yo, mon frère, rentre, yoxa0!xa0» En un clin d'œil, il faisait nuit, comme si une inondation était sur le point de se produire. Une vague de vagues venant du bord de la rivière l'a giflée et a inondé la jetée en pierre où les sœurs enfilaient leurs vêtements. Ils ont regardé la surface de la rivière avec horreur, pour voir quelque chose qui ressemblait à une feuille de bananier tourbillonnant dans les vagues. En y regardant de plus près, il s'est avéré que c'était la nageoire d'un gros poisson. Qu Yigu a alors dit au gros poisson en disant «xa0ah-hoxa0»xa0: «xa0Pêchez, pêchez, si tu ramènes mon frère, reviens sur le rivagexa0!xa0» Dès que la conversation est terminée, le gros poisson a nagé jusqu'au rivage. Une fois sur la poutre de pierre, elle a soudainement sauté sauvagement. Les deux lanternes ont versé des larmes avec leurs grands yeux, puis ont doucement battu leurs branchies, mettant en valeur leur ventre blanc et brillant.
+Ma tante a regardé le ventre du gros poisson. Elle a commodément retiré l'épingle à cheveux plate de sa tête et a ouvert l'estomac du poisson. Un jet de sang est sorti de l'estomac du poisson, révélant progressivement un cercueil rouge. Les sœurs ont sauté et ont découvert le cercueil. À première vue, ce qui se trouvait à l'intérieur était le corps du Dr Qu Yuan.
+La sœur a tranché l'estomac du poisson, l'a laissé vivre, puis a ramené le cercueil rouge dans sa ville natale pour y être enterré. Elle a pleuré et crié tout le tempsxa0: «xa0Mon frère, reviens, yo, mon frère, reviens, yoxa0!xa0»
+Grand-mère Qu était pleine de chagrin et de colèrexa0; plus elle pleurait, plus elle était triste. Soudain, elle a heurté la pierre tombale et s'est transformée en un oiseau à la bouche rouge et aux plumes vert doré. Il a survolé le soleil doré et s'est enfoncé dans la jungle. Elle crie toujoursxa0: «xa0Mon frère est de retour, mon frère est de retour...xa0»
+Depuis lors, chaque année, pendant le festival des bateaux-dragons, Qu Yuantuo au Guizhou organise une course de bateaux-dragons. Le Gong plein d'esprit et le courageux cavalier (pagayeur) ont tous chanté de la trompette au son des tamboursxa0: «xa0Mon frère... rentrexa0! Mon frère, retournez.xa0»
+Ce poisson sacré, d'abord à cause d'une blessure à l'estomac, et ensuite parce qu'elle tenait à la ville natale de Qu Yuan. Depuis, il n'a jamais pu monter sur la plage ni descendre sur la plage bleue. Il est resté dans la gorge de Xiling depuis toujours et doit se rendre à Qu Yuan Tuoli chaque année.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-22 11:02:15
+title: "El vasto mar se convirtió en campos"
+featured: false
+draft: false
+description: "Cuenta la leyenda que las montañas del Himalaya eran originalmente un mar. Cinco dragones venenosos están en peligro y todos los seres vivos están en peligro. Cinco hadas conquistaron al dragón, convirtiendo el agua del mar en un buen campo forestal y convirtiéndose en cinco picos principales para proteger el suelo fértil. El líder era el monte Everest. La historia utiliza la mitología para explicar los cambios dramáticos en el paisaje de Sangtian en Changhai."
+---
+
+
+
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
+
+
+
+
+ Entre los cuentos populares tibetanos más difundidos, hay una leyenda sobre el Himalaya: «Hace mucho tiempo, este era un océano sin fin. Las olas levantaban olas y golpeaban la costa cubierta de pinos, cipreses, cicuta y palmeras, haciendo un ruido fuerte. Sobre el bosque, hay montañas cubiertas de vegetación y nubes; el bosque está lleno de flores y plantas extrañas, y grupos de ciervos cebra y antílopes corren; grupos de tres o cinco rinocerontes caminan a un ritmo pausado y beben agua junto al lago; cucos, zorzales y alondras saltan tranquilamente por las copas de los árboles para cantar hermosas canciones; los conejos corren despreocupados por la verde y exuberante pradera... ¡Qué imagen tan atractiva, pacífica y estable! Un día, un dragón venenoso gigante de cinco cabezas apareció repentinamente en el mar, arruinó el bosque, agitó miles de olas y destruyó flores y árboles. Todos los pájaros y animales que viven aquí anticipan que el desastre es inminente. Saltaron hacia el este, y el bosque se derrumbó y la hierba se inundó; surgieron hacia el oeste, y también hubo fuertes olas en el lado oeste, que no dejaron a nadie sin aliento. Justo cuando las aves y los animales no tenían dónde ir, de repente cinco nubes de colores flotaron sobre el mar y se convirtieron en cinco portaaviones inteligentes. Llegaron a la playa, ejercieron una cantidad infinita de maná y se rindieron ante los Cinco Dragones Venenosos. Los demonios han sido vencidos y el mar está tranquilo y silencioso. Los ciervos, los salvajes, los monos, los conejos y las aves que viven aquí adoran a las hadas y les dan las gracias por salvar vidas. Zongxing quería renunciar y regresar a la Corte Celestial. ¿Cómo podrían todos los seres vivos exigir minuciosamente que se queden aquí en beneficio de todos los seres vivos? Como resultado, las Cinco Hadas mostraron compasión y aceptaron quedarse y compartir el día de la paz con todos los seres. Las cinco hadas hicieron que el mar se retirara, por lo que el lado este se convirtió en un denso bosque, el lado oeste tenía 10.000 hectáreas de buenos campos, el lado sur era un jardín lleno de flores y el lado norte era un rancho sin fin. Esas cinco hadas se convirtieron en los cinco picos principales del Himalaya, a saber: Xiang Shou Fairy Peak, Cui Yan Fairy Peak, Zhenhui Fairy Peak, Guan Yong Fairy Peak y Shi Ren Fairy Peak. Se encuentran en el extremo sudoeste y protegen este feliz paraíso; el pico de las hadas de Cuiyan, que está encabezado por él, es el monte Everest. En la actualidad, es el pico más alto del mundo. La gente local lo llama cariñosamente «Goddess Peak».
+Nota: La transformación de la meseta tibetana de un mar ha sido probada por cada vez más investigaciones y descubrimientos científicos. Sin embargo, la meseta no se formó de la noche a la mañana, sino que cambió muy lentamente. Fueron solo los cambios en la corteza terrestre ocurridos en los últimos millones de años los que provocaron un aumento brusco de la elevación de la fuente alta. Las mediciones del monte Everest, el pico principal del Himalaya, realizadas en los últimos años han demostrado que la meseta sigue aumentando. Este ritmo de ascenso es asombroso en la historia del rescate de la Tierra, pero solo ha aumentado 1 o 2 centímetros en solo un año.
+Traducido por IA   
+
+
+
+
+

@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-24 22:13:29
+title: "La mort de Guan Panpan provoquée par Bai Juyi"
+featured: false
+draft: false
+description: "Guan Panpan était un chanteur talentueux de la dynastie Tang. Elle a été prise comme concubine par le directeur de Xuzhou, Zhang Yi. Après la mort de Zhang Yu, elle a vécu seule à la Swallow House pendant dix ans. Cependant, Bai Juyi a écrit le poème «xa0Une fois la dynastie disparue, pas ensemblexa0», dans l'espoir de mourir de chagrin, de colère et de grève de la faim. Bai Juyi s'est senti coupable pour le reste de sa vie et s'est débarrassé de sa concubine à un âge avancé. L'histoire reflète la poésie de l'écrivain qui peut tuer des gens et sa réflexion sur la sévérité et le tempérament."
+---
+
+
+
+![AstroPaper I18n](/the-death-of-guan-panpan-driven-by-bai-juyi.png)
+
+
+
+
+ Guan Panpan est né pendant les premières années de Tang Dezongzhen. En raison de ses antécédents à Shuxiangmendai, il parle couramment la poésie et possède également des compétences en chant et en danse. Il a une belle apparence, ce qui en fait d'innombrables garçons riches très attachés à lui. Cependant, les bons moments n'ont pas duré longtemps. La famille de Guan est tombée dans le désarroi et Guan Panpan a été emmené par le directeur de Xuzhou, Zhang Yu, comme concubine. Bien que Zhang Yi soit un artiste martial, il aime les chansons et les danses élégantes, littéraires et artistiques. Même s'il a de nombreuses épouses, il ne s'intéresse qu'à une seule personne.
+Une fois, Bai Juyi est venu à Zhang Fu en tant qu'invité. Guan Panpan a interprété une chanson et une danse pour les invités. Bai Juyi a été étonné en disantxa0: «xa0Drunken Jiao ne peut pas gagner, le vent est plein de pivoines.xa0»
+Deux ans plus tard, Zhang Yi est décédé des suites d'une maladie à Xuzhou. Les épouses et concubines de la famille Zhang ont trouvé leur propre voie, mais Guan Panpan était déterminé à maintenir le festival. Elle vit avec un domestique âgé dans une maison à hirondelles à la périphérie de Xuzhou et mène une vie propre et décontractée. La Swallow House est une villa que Zhang Yi a construite pour Guan Panpan avant sa naissance. Comme il y a une petite rivière devant le bâtiment, des saules sont plantés le long de la rivière. Chaque printemps, des couples d'hirondelles survolent les saules, d'où le nom Swallow House. Il ne me reste plus qu'à vivre seul dans cette chambre. Son caractère inébranlable lui a valu de nombreux éloges, mais une personne a émis un avis différent. Cette personne est Bai Juyi.
+Bai Juyi était profondément ému par la profonde affection de Pan Pan, mais il pensait que puisque Guan Panpan était si affectueux, il n'irait pas à Jiuquan pour passer du temps avec Zhang Yi, ne serait-ce pas plus completxa0? Il a donc écrit un poèmexa0:
+Gold n'a pas hésité à acheter la nourriture d'une femme, cueillant quatre ou cinq fleursxa0; l'enseignement du chant et de la danse était épuisant, et cela ne lui convenait pas une seule fois.
+Bai Juyi n'avait probablement pas l'intention de forcer Guan Panpan à mourir en martyr lorsqu'elle a écrit ce poème, mais après l'avoir lu, Guan Panpan ne le pensait pas. Elle a pleuréxa0: «xa0J'ai passé dix ans en vacances avec Zhang Yu. Je n'ai pas risqué ma vie en refusant de suivrexa0; j'avais juste peur que les gens parlent de la mauvaise réputation de mon mari et forcent ma concubine à mourir. Cela n'aurait-il pas terni la réputation de mon marixa0?xa0! Pourquoi Bai Juyi est-il si impitoyable, me forçant à me retrouver dans une impassexa0?xa0!
+En colère, Guan Panpan a entamé une grève de la faim et personne n'a pu la faire changer d'avis. À une époque où elle était faible et fragile, elle a écrit un poème sur Bai Juyixa0: Les enfants ignoraient tout et transpiraient dans la boue.
+Bai Juyi a été choqué lorsqu'il a appris la nouvelle de la mort de Guan Panpan. Il sentait qu'il avait une responsabilité inébranlable et son cœur était plein d'admiration et de culpabilité. Probablement à cause de cette expérience, il a laissé Shi Ji Fan Su et Xiao Man se séparer au crépuscule de sa vie, afin de ne pas provoquer une tragédie comme celle de Guan Panpan.
+Traduit par IA   
+
+
+
+
+

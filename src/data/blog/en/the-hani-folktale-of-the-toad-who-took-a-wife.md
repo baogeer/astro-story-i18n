@@ -1,0 +1,44 @@
+---
+pubDatetime: 2026-11-22 10:07:04
+title: "The Hani Folktale of the Toad Who Took a Wife"
+featured: false
+draft: false
+description: "An old Hani couple got toad sons from pumpkins. When the toad grew up, they asked the king to marry a princess, and successively forced the king to agree with the hot sun, torrential rain, and earthquakes. After getting married, the princess discovered that the toad was actually a handsome god. After burning the toad's skin, the couple loved each other. The story praises that kindness eventually paid off well; it didn't value appearance."
+---
+
+
+
+![AstroPaper I18n](/the-hani-folktale-of-the-toad-who-took-a-wife.png)
+
+
+
+
+ Once upon a time, there was an old couple in Greater Montenegro who made a living by growing melons and beans. Outside of their sixties, they are still childless and have lived a quiet and quiet life. Flowerless wild butterflies are disgusting; childless couples are popular with others. Poor old couples often sigh at the toads in the ground: they don't want good men, don't want beautiful women, and having a child or daughter like a toad also makes people happy.
+In a year, the old couple grew a big, big pumpkin in their field. They brought this pumpkin home, cut it with a knife, and “knocked” out of the pumpkin a cockle the size of a bowl. When the toad landed, there was no “goo-quack” cry, but it spoke human words. This close friend warmly called “Grandpa,” called “Grandma,” and also said to the old couple, “I am your son; I am your doll.” The old couple didn't hate that the toad was ugly, and they didn't think the toad was ugly. They held the toad in their arms, you held it, and I brought it to me.
+Todtimai has been kicked 18 times, and Toad has grown to 18 years old. It understands everything in the world; it knows everything about earthly activities. The old couple, the old couple, seemed to be drunk from drinking rice wine; the old mom seemed to have eaten honey, and they couldn't help but enjoy it.
+Unexpectedly, one day the toad said to the old couple, “Grandpa and Grandma, I want to please my daughter-in-law. Let your daughter-in-law bring you food and water so you can enjoy a few days of bliss.” The old couple hurriedly said, “Dude, you just lost this idea. Which girl will come to our house to be a daughter-in-law!” The toad smiled and said, “I heard that the princess from the king's family is very beautiful; I want to ask for the king's princess...” The old couple hurriedly said, “Oops, don't talk about it. I'm afraid people will hear it. If it gets to the king's ears, it will cause the crime of killing the head.” The toad confidently said, “Don't worry, you won't kill your head. As long as I say it myself, the king will marry my princess.” When I finished speaking, I just bumped away.
+The toad came to the palace and said to the king, “Dear king, please marry my princess as my daughter-in-law.” As soon as the king heard it, he was furious like thunder: “You're just a toad who wants to eat swan meat. Pull it down for me and chop it into meat sauce!”
+The toad said, “Dear King, I'm afraid I'll burn your whole family to death with the sun.”
+The king yelled at the guard again: “Don't listen to him talking nonsense! Pull it down!”
+Without waiting for the guards to rush over, the toad screamed “goo-quack”. Instantly, the sun turned into a big fireball, burning the entire palace. The king, queen, prince, and princess were all so hot that they burst into tears and gasped with their mouths open.
+The king only promised to marry his daughter, and while gasping, he said, “Oops, spare me, Toad; I married the princess to you. You can get married in three days.”
+The toad shouted again: “Goo-quack”, and the sun returned to its original state.
+After three days, the toad rode a tall horse to the palace to get married. The king immediately sent a team of men and horses to hug back and forth to protect the bride to Toad's house. Unexpectedly, when I unwrapped the black dress, the bride was not the king's princess, but a one-eyed girl. So the toad got angry, got on a tall horse, stormed into the palace, and asked the king: “Huh! Your imposing king dared to deceive the public and marry me by treating a girl as a princess!”
+When the king saw that he hadn't cheated on Toad, he said, “Toad, don't you want to think about it. You're full of wasp bubbles, and you live like a devil. How could you marry my princess? OK, OK, I'll give you some more gold and some silver. As a dowry present, just marry that girl.”
+Toad sneered and said, “Don't think of me as a little doll; I just want your princess to be your daughter-in-law. If you don't give it to me again, I'll drown all of you!”
+The king sank his face and said, “If you don't give, you won't give!”
+The toad shouted “goo-quack” twice at the sky, and in an instant it rained heavily. The entire palace was submerged in water, which frightened the king to ask for forgiveness and said, “OK, OK, OK, I married the princess to you. In three days, you can get married.”
+The toad shouted “goo-quack” two more times at the sky. The rain stopped, and the water receded.
+After three days, the toad picked up his family on a tall horse. The king also sent another team of men and horses to escort the bride to Toad's house. Halfway there, the toad was suspicious and afraid that the king would deceive it, so he unwrapped the black veil on the bride's face and saw that the bride was dark, thin, and old named Hanako. The toad was furious, turned around, and actually stormed into the palace, and asked the king, “Wow, you don't talk about credit. This time I'm going to make a big earthquake, destroy all of your palaces, and bury your whole family.”
+As soon as the king heard it, he was frightened and hurriedly said, “Huh! Don't be busy, don't be busy, I won't lie to you in the future. You can pick up your family in three days.”
+After three days, the toad rode a tall horse to the palace again. This time, it actually took the king's princess back home. The old couple had happy eyebrows and smiled, as if they were thirty years younger. They treated the princess as their biological daughter, and Toad was also very considerate of the princess. Originally, the princess only went back and forth at home all day. She didn't want to go out or meet people. She was sad every day. Later, she also changed. She felt that although Toad was ugly and had a good conscience, that even though her family was poor and warm, she was respectful and thoughtful about her in-laws and cared about everything about Toad.
+One day, Toad came up with an idea to see if the princess was really in love with her. He took some money for the princess and told her to go to the street to buy something. As soon as the princess left, the toad took off the toad skin and became a Peugeot boy. He took a short distance and rushed to the front of the princess. When I met the princess, he sang a mountain song, and the princess ignored him. He also said to the princess, “I heard that you are the princess of the king's family. Your man is an ugly monster with thick, short, and thick bubbles all over his body. A princess as beautiful as you would willingly marry her?”
+As soon as the princess heard it, she got angry and spit “bah” and said, “My man, no matter how ugly, is better than your shameless thing.” Having said that, we all left.
+The next day, the sky was overcast, and the princess woke up, only to see that the young man she met halfway through yesterday was sleeping. I don't know what to do. Just when I wanted to get up and run away, I found a toad skin on the bedside. She understood that her man turned out to be a young and beautiful young man. She quietly threw the toad skin into the fire pit in order not to turn him into an ugly monster again. At this point, the young man also woke up and saw that the toad's skin had been burnt by the princess, and told her that he was originally a heavenly plow star and only came to earth because he sympathized with the old couple.
+Since then, the younger couple have been loving and loving, have shared respect for the elderly, and lived a happy life.
+AI Translated   
+
+
+
+
+

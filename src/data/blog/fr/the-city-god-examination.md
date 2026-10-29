@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-08 16:39:55
+title: "L'examen City God"
+featured: false
+draft: false
+description: "Song Tao a été invitée à passer l'examen dans le monde souterrain en raison de sa maladie. Parce que l'article a été loué par Dieu, elle a été nommée ville de la province du Henan. La mère de sa famille, qui n'avait personne pour subvenir à ses besoins, lui manquait. Il a pleuré et supplié, et Guan Diyun a autorisé Zhang Sheng à agir en tant qu'agent pendant neuf ans. Song Tao a renoncé à sa piété filiale. Après la mort de sa mère neuf ans plus tard, il a pris ses fonctions calmement. L'histoire fait l'éloge de la piété filiale avec des mots tels que «xa0si vous avez un cœur pour le bien, mais vous ne l'appréciez pasxa0», et elle suggère que le bien n'est bon que si vous avez un cœur pur."
+---
+
+
+
+![AstroPaper I18n](/the-city-god-examination.png)
+
+
+
+
+ Le grand-père de mon beau-frère, qui s'appelle Song Tao, est un mauvais élève dans cette préfecture. Un jour, il était malade et alité. Il a vu un petit fonctionnaire du gouvernement occupant un poste, tenant un Malais aux cheveux blancs sur le front, le chercher, et lui a ditxa0: «xa0S'il te plaît, passe l'examen.xa0» Song Gong a ditxa0: «xa0L'examinateur n'est pas encore arrivé, alors pourquoi passent-ils l'examen tout de suitexa0?xa0» Les représentants du gouvernement qui sont venus n'ont pas dit grand-chosexa0; ils ont simplement exhorté Song Gong à poursuivre son chemin. Song Gong n'avait pas d'autre choix que de monter à cheval avec sa maladie et de partir avec lui.
+Le voyage a été très difficile. Je suis arrivée dans un château qui semblait être la capitale d'un roi. Dès qu'il est entré dans le palais royal avec cette personne, il a vu que le palais à l'intérieur du palais était très splendide et magnifique. Il y a plus d'une douzaine de fonctionnaires assis dans le hall d'entrée, et ils ne savent pas qui ils sontxa0; seul l'empereur en question le connaît. Il y a deux tables et deux socles sous les combles du palais. L'une des célébrités est déjà assise là et Song Gong est assis côte à côte avec cette personne. Les stylos et le papier sont placés séparément sur le bureau.
+Peu de temps après, les questions du test ont été publiées. Quand j'ai vu qu'il y avait huit personnages dessusxa0: «xa0Une personne, deux personnes, sans intention.xa0» Au bout d'un moment, les deux ont terminé leur article et l'ont soumis au palais. L'article de Song Gong inclut une phrase comme celle-cixa0: «xa0Si vous avez le cœur pour le bien, vous ne l'appréciez pasxa0; si vous n'avez aucune intention de faire le mal, il n'y a pas de punition pour le mal.xa0» Après avoir lu la légende, tous les dieux l'ont louée. La rumeur courait alors que Song Gong était monté au temple. L'ordre disaitxa0: «xa0Le Henan n'a pas de dieu Chenghuangxa0; tu es très compétent.xa0» Lorsque Song Gong a écouté, il s'est soudainement rendu compte qu'il s'était immédiatement prosterné au sol et avait pleuré en disantxa0: «xa0Dieu m'a mal aimé et m'a demandé d'être un méchantxa0; il n'a pas osé spéculer. C'est juste que ma famille a une vieille mère. Elle a 70 ans et n'a personne pour la soutenir. J'ai demandé à Dieu d'attendre la mort de ma mère avant de prendre mes fonctions.xa0» Il y avait une personne assise devant lui qui ressemblait à un empereur et a demandé à la mère de Song Gong de vérifier son carnet de longévité. Un fonctionnaire barbu a pris le livret, l'a feuilleté et s'est plaintxa0: «xa0Il reste encore neuf ans à vivrexa0». Tous les dieux ont hésité et n'ont pas pu trouver d'idée un instant. Guan Di Shen a ditxa0: «xa0Pourquoi ne demandez-vous pas à Zhang Sheng d'agir en tant qu'agent pendant neuf ansxa0!xa0» Il a ensuite dit à Song Gongxa0: «xa0J'aurais dû te demander de prendre tes fonctions immédiatement. Si vous avez une piété filiale, je vous accorderai un congé de neuf ans et je vous demanderai de revenir le moment venu.xa0» Après cela, l'empereur Guan a encouragé Xiucai à quelques mots supplémentaires et les deux candidats se sont prosternés.
+Xiucai a pris la main de Song Gong et l'a remise aux banlieues. Il s'est présenté comme étant originaire du comté de Changshan. Son nom de famille était Zhang et a également écrit un poème d'adieu pour Duke Song. J'ai oublié tout le texte originalxa0; je ne me souviens que de la phrasexa0: «xa0Il y a des fleurs, du vin, le printemps existe toujoursxa0; pas de bougies, pas de lumières, la nuit brille de mille feuxxa0». Gong Song est ensuite remonté à cheval pour dire au revoir.
+Quand Song Gong est arrivé à la maison, il s'est réveillé comme dans un rêve. Il était mort depuis trois jours à l'époque. Sa mère a entendu un gémissement dans le cercueil. Quand elle a ouvert le cercueil et l'a vu se réveiller, elle l'a sorti et est restée une demi-journée avant de parler. Je suis ensuite allé dans le comté de Changshan pour me renseigner. Effectivement, un Xiucai du nom de famille Zhang est décédé ce jour-là.
+Neuf ans plus tard, la mère de Song Gong est certainement décédée. Song Gong a fini de cuisiner pour les funérailles, a pris un bain, a enfilé de nouveaux vêtements et est mort en entrant dans la maison.
+La famille de son beau-père habite à la porte ouest de la ville. Un jour, j'ai soudainement vu Song Gong monter sur un cheval rouge et amener de nombreuses voitures et chevaux pour dire au revoir à sa maison. Tous les membres de la famille étaient choqués et ne savaient pas qu'il était devenu un dieu. Je me suis précipitée chez Song Gong pour lui poser des questions, mais j'ai appris que Song Gong était mort.
+Song Gong lui-même a une petite biographie, mais elle n'a malheureusement pas survécu au milieu de la panique et du chaos militaires. Les données ici ne sont qu'approximatives.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-27 10:48:49
+title: "The Bouyei Legend of Fairy Maiden Mountain"
+featured: false
+draft: false
+description: "The Weaver saved the Buyei people and bravely fought against Evil Dragons. After the rooster sang three times, she missed the hour and turned into Fairy Mountain. To commemorate her, people named the relevant locations such as Yulong, Nahu, and Leli, and passed on the great blessings of sacrificing their lives for generations."
+---
+
+
+
+![AstroPaper I18n](/the-bouyei-legend-of-fairy-maiden-mountain.png)
+
+
+
+
+ Legend has it that a long, long time ago, in unknown year and month, the evil dragon broke free from the shackles of Yin Cao and flew to Xiawutun Dam with his dragon and dragon to unscrupulously poison life and trample on crops.
+The Buyei people living here were all saddened, but they were unable to defeat the Evil Dragon. The devil dragon is aggressive and wants people to give it a pair of boys and girls every year. The kind people were astonished. Dragon Lord also circled its huge body around the entrance of the falling water, strictly blocking the river. In an instant, Hirakawa became a vast ocean. People were struggling to escape from the floods. Most of them were buried in dragon bellies, and some survivors fled to the top of a mountain to take refuge in the disaster...
+People lit scented paper candles and kept praying to the sky. For a while, there were lots of cigarettes, which shocked the weaver in the sky. She is determined to save those in distress. Three chapters of the Jade Emperor's covenant with her: “You must return to heaven before the rooster crows three times; if you break the law, you will always break into the lower realm and turn to stone.” The weaver gladly took over, said goodbye to her sisters, and took the lead.
+When the weaver came to the top of the mountain, the dragon bullied her as a weak woman, and suddenly shot a poisonous arrow out of her mouth. Weaver, holding a gold shuttle, calmly fought back. When people saw this scene, they all set up bonfires on the surrounding mountains, beat gongs and drums, and cheered for the weaver. Evil Dragon was stunned and overwhelmed by this sudden bonfire and sound. The weaver threw a golden shuttle on the plane. The dragon was hit several times in a row, and fled in pain. Weaver quickly mobilized the Aquarian and fought to intercept the fence. Evil Dragon turned around and fled in the direction of the falling water cave. Weaver fired 72 gold shuttles in a row, causing scaly wounds all over the body.
+At this point, the chicken called twice, and the Spirit Guardian urged the weaver to return to the heavenly court. The weaver is determined to cut down the roots, eradicate the scourge for the Buyei people, and put aside the commandments of the Heavenly Court. Seeing that Evil Dragon was about to escape for her life, the Weaver went out of her way, relieved her arm, grabbed the dragon's tail, and threw the dragon up the mountain. Putting her opposite hand at the dragon head was a golden shuttle. The devil dragon was firmly nailed to death in front of the dragon cave.
+At this point, the rooster sang three times and suddenly heard a roar, and the Tianmen closed tightly. Because the timing was wrong, the weaver was unable to move while standing. However, her eyes were on Ganlong Cave, and it slowly became Shiren Mountain. The weaver stayed on earth forever.
+This Dupong Fairy Mountain (also known as Mount Beauty, Mount Rentou, and Mount Jinbei) is located in a garden field at the southern end of Wutun Dam. The image is realistic and vibrant. The history of the head, neck, stomach, and feet can be distinguished. She held her head high, and Ting Ting Yu stood up. She has tall, golden and jade embellishments, prominent nipples, wide waistband, and a soft, flowing light yarn dress. Flowers are in full bloom and colorful butterflies are in full bloom... Every year on July 7 of the lunar calendar, groups of magpies fly here to build a magpie bridge for cowhers and weavers to meet once a year. When people are quiet in the middle of the night, young Buyi men and women who “wave whistle” (in love) can still vaguely hear the whispers of the cowherd and the weaver. The Buyei people who live here have not forgotten the great blessings and virtues of Weaver for generations. They have a reputation and have been praised for generations. The place where Weaver mobilizes Aquariums to intercept Evil Dragons is named Yulong (that is, Yulong, Xingyi City, Guizhou); the pit left by the 72 Golden Shuttle in the Dragon League is called Shuttle Pit (that is, the place where the Twins are surrounded by 72 pits connected); name the place where Weaver Girl pulls back to the dam (that is, the mountain of Weaver Fu Long); the place where the Weaver Nails to death is called Tuomao Mountain. Jinsuotang (now Luyin Pond); the ditch drawn by the Weaver's Jinshuo on the dragon's corpse is called Longbei Ditch (that is, today's Longbei Ditch). Since then, people have lived and worked peacefully and happily The village settlement is named Leye (now Leli, Xingyi City, Guizhou).
+AI Translated   
+
+
+
+
+

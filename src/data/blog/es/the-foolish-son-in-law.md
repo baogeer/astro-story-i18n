@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-23 06:45:40
+title: "El yerno tonto"
+featured: false
+draft: false
+description: "En la antigüedad, la princesa Jin Shengcai aprendía a la gente y los maestros que se negaban a casarse con su padre ganaban. En venganza, Sheng You encontró a un pastor idiota que se hacía pasar por un erudito y le enseñó un verso. Cuando el pastor malinterpreta la boda, siempre hay una excusa para superar la situación. Cuando la princesa se enteró, le pidió a su criada que se hiciera pasar por Miaoyin Tiannu para darle pastillas de arroz, y el idiota caballo se lo tragó y más tarde se convirtió en una persona sabia. La historia muestra que la sabiduría proviene del aprendizaje y la inspiración ambiental, no de la práctica a puerta cerrada."
+---
+
+
+
+![AstroPaper I18n](/the-foolish-son-in-law.png)
+
+
+
+
+ Los sabios pueden usar la sabiduría para entender los proverbios,
+Un necio es ignorante, pero no es así;
+Aunque el sol brille en toda la tierra,
+Pero el búho no vio la luz en absoluto.
+Antiguamente, había un rey muy sabio llamado Sansi. Cuando debatía con su maestro, el brahmán Shengyou, y con otros eruditos, apreciaba mucho los profundos conocimientos de su maestro y quería regalarle a su hija Kim Seung-suk. Sin embargo, su propia hija no estaba de acuerdo con este incidente personal y se opuso a él: «Mis estudios son mejores que los de él. Si hay alguien mejor en el Darma que yo, ¡solo estaría dispuesta a casarme con él!» La maestra Sheng You se enfadó mucho cuando lo oyó y pensó: «No te gustan los eruditos como yo; ¡tengo que limpiarte!» Así que pensé en ir a la ciudad a buscar a un tonto que cumpliera este deseo. Como resultado, no encontró a un tonto. Fue a otro lugar remoto y vio a un joven pastor guapo e inconsciente trepando a la copa de un árbol. Luego amenazó al pastor para que bajara talando árboles. Fue entonces cuando descubrí que era realmente un idiota, así que lo llevé discretamente delante de la princesa y le dije: «Tengo un regulador muy bien informado. ¡Lo respeto por ser el caballo de la princesa y el sirviente del rey!» Luego llevó al tonto a un lugar sombreado, lo bañó con leche y le enseñó la estrofa «zumbar». El día de su boda, disfrazó de banjida al tonto pastorcillo y lo invitó a leer el verso «zumbar» antes del gran banquete. También le pidió que regalara un ramo de flores a la cabeza del rey. Aparte de eso, no dejes que nadie responda a las preguntas. Cuando los invitados se sentaron por separado, el pastor regaló flores al rey según lo que le habían enseñado de antemano, pero no esperaba que malinterpretara el versículo que había aprendido y lo confundiera con la escandalosa frase «zumbar». En ese momento, todo el público estaba muy avergonzado y enfadado. Cuando se disponían a regañarlo, Kang Shi Shengyou lo defendió: «Lo que dijo significaba 'esta persona es buena'». Solo gracias a su comprensión, las emociones de todos se calmaron al instante.
+La princesa preguntó al pastor vestido como Banjida: «¿Adighasazidawabisha?» Significa «¿tienes algún lenguaje más esotérico y asombroso?» El pastor no respondió nada. Shengyu argumentó apresuradamente: «Mi maestro es un estudiante universitario. ¿Cómo puede responder a las humildes preguntas planteadas por la generación femenina?» La princesa lo creyó y lo llevó al palacio. Luego volvió a hacer esa pregunta y aún no ha respondido nada. La princesa lo llevó al templo para hablarle sobre algunos de los dioses, pero su mirada no miró hacia la estatua. En cuanto vio una columna de animales en el cuadro de vida o muerte de la reencarnación que había en la pared detrás de la puerta del templo, su antigua costumbre de pastorear vacas volvió a caer. Ella señaló hacia allí y gritó: «¡El búfalo está aquí, el búfalo está aquí!» La princesa pensó: «Shengyu por fin nos engañó. Sin embargo, si este joven está dispuesto a aprender, también puedo enseñarle a aprender, aprender de la luz, etc., para que sea una persona más capaz que Shengyu».
+Más tarde, la princesa lo hizo cultivar su mentalidad, y no lo vi cultivar ninguna sabiduría. Dejó que practicara Myoin Tennu, pero tampoco lo practicó. La princesa estaba muy disgustada y dijo: «¡Dejemos este tipo de preguntas para nosotros ahora!» Como resultado, ordené a mi hija, una criada llamada Nam Am, que dijera: «Ve al templo Myoon-ji, donde solía practicar, y escóndete detrás de la estatua de arcilla de la Niña Celestial de Myo-in. Al amanecer, puedes preguntarle si quiere algún hechizo. Si extendiera la mano y dijera que si necesita un hechizo, ¡podría poner en su boca esta pastilla de arroz que escupí de mi boca!» Esta chica siguió las órdenes y fue al templo Myoon-ji.
+En ese momento, el idiota practicante Ma Man pensó que en realidad era una pastilla de arroz que le había dado Myoin Tennu. Tan pronto como se lo tragó, su mente se volvió abierta y alegre, e inmediatamente se convirtió en un estudiante universitario. De vuelta en el palacio, la princesa volvió a preguntarle: «¿Tienes algún lenguaje profundo y sorprendente?» Dijo: «Ahora puedo escribir tres pequeñas obras fonológicas: «El origen de una niña». ¿En aquella época, la gente le cambiaba el nombre por el de Benjida? Ramallah está fuera.
+La inteligencia de una persona debe mejorarse gradualmente mediante el estudio y el ejercicio práctico. Por supuesto, no está bien practicar solo a puerta cerrada. Si dijeras que este estúpido idiota se convirtió en estudiante universitario para pedirle un hogar, solo se puede decir que está relacionado con su habitual contacto prolongado con una princesa inteligente y con que se inspiró en la sabiduría de la princesa.
+Traducido por IA   
+
+
+
+
+

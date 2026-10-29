@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-02 21:30:09
+title: "Un tableau offert par Tang Bohu"
+featured: false
+draft: false
+description: "Dans la ville de Shu, à Jiangning, sous la dynastie Ming, Gengfu a accueilli Tang Bohu, un érudit qui voyageait tard dans la nuit. Tang Bohu était reconnaissante. Il a donné la photo d'un grand arbre avec cinq grives. Il criait automatiquement à chaque fois qu'il arrivait, aidant Gengfu à garder l'heure. L'histoire fait l'éloge de la bonne expérience et des incroyables talents de dessin de Tang Bohu."
+---
+
+
+
+![AstroPaper I18n](/tang-bohu-s-gift-of-a-painting.png)
+
+
+
+
+ Sous la dynastie Ming, la ville de Hushu à Jiangning comptait 13 portes. Les portes étaient toutes équipées d'interrupteurs de clôture en bois, et cinq bâtiments supplémentaires ont été construitsxa0: un à l'est, à l'ouest et au nord, et deux du côté sud, tous construits au-dessus de la clôture. Les piétons entrent et sortent pendant la journée, et des gardes au sol surveillent la nuit. Dès le deuxième jour, 13 portes sont fermées et verrouillées, et elles ne sont pas autorisées à passer.
+La porte est s'appelle Lion's Gate. Un jour, après deux autres coups, un invité de l'extérieur a appelé à la porte. Dès que Lao Gengfu a regardé le clair de lune, il est devenu un érudit alphabétisé. Il a pensé dans son cœurxa0: Peut-être qu'ils venaient de loin, donc c'est pratique pour lui, alors il est descendu et a ouvert la porte de la clôture pour le laisser entrer. Gengfu a demandé à son marixa0: «xa0Lequel cherchez-vousxa0?xa0» Xiang Gong a réponduxa0: «xa0J'ai visité cet endroit et je ne reconnais personne.xa0» Gengfu est gentil et il a ditxa0: «xa0C'est au milieu de la nuit. Mon mari n'aime pas être sale, alors restez à l'étage et mettez-vous à l'abri du vent.xa0» Mon mari n'avait nulle part où aller, alors j'ai dû monter à l'étage avec lui. À première vue, même si le bâtiment est petit, il n'y a pas grand chose. J'ai dormi par terre, mais il y avait un feu de camp. Une théière en cuivre était suspendue au feu et il y avait une odeur de thé dans le radiateur. Après avoir essuyé la table et le banc avec son tablier, Gengfu a demandé aux étudiants de s'asseoir et de faire une pause. Gengfu a apporté une autre tasse, l'a essuyée et l'a remplie de vin du côté du feu. Il a également sorti une poignée de cacahuètes et a rixa0: «xa0Cousin, prenons de l'alcool pour soulager le froid.xa0» L'érudit avait déjà faim et était méchant. Il a pris la tasse et l'a bue. Il a mangé des cacahuètes avec grand plaisir. Il a même ditxa0: «xa0Bon vin, bon vin, bon platxa0!xa0»
+L'érudit avait assez à manger et à boire. Il est de bonne humeur. Il a sorti les quatre trésors qu'il avait sur lui et a dit à Gengfuxa0: «xa0Les personnes âgées, il est rare que vous preniez si bien soin. Je t'enverrai une photo. Montrez vos sentimentsxa0!xa0» Gengfu était très content de l'entendre. Il a allumé précipitamment la lampe à huile et a regardé ses peintures. Quand j'ai vu un sac de papier, un pinceau et trois ou quatre traits, je l'ai dessiné dans un grand arbre. L'arbre avait cinq branches, un grand nid au milieu de l'arbre et cinq sourcils peints qui sortaient du nid. Xiang Gong a dit à Gengfuxa0: «xa0Avec ce tableau, tu n'auras même pas besoin d'utiliser de l'encens pour chronométrer la journée lorsque tu le regarderas dans le futur.xa0» Gengfu ne pouvait pas le comprendre. L'érudit a pointé du doigt les cinq grives du tableau et a déclaréxa0: «xa0Chaque fois que j'arrive à un changement, l'une des grives du nid vole sur une branche et fait du bruit dès qu'elle vole. Après le départ des cinq grives, il restait cinq jours. Ils retourneront ensuite à leur nid. Pendant la journée, vous pouvez ranger vos tableaux, les suspendre la nuit et dormir sans soucisxa0; vous ne pouvez pas vous tromperxa0!xa0» Le vieux Gengfu n'en a pas parlé, il était perplexexa0: «xa0Jeune et léger, parler sonne mieux que chanter.xa0» Masanobu a pris le tableau avec méfiance. Tôt le lendemain matin, mon beau-père est parti et ce n'est qu'alors que Gengfu s'est souvenu de lui demander son nom de famille. L'érudit a souri et a ditxa0: «xa0Je m'appelle Tang Bohu.xa0» Au moment où Lao Gengfu a repris ses esprits et l'a poursuivi, Tang Bohu était hors de son ombre.
+Ce soir-là, après le dîner, Lao Gengfu a ouvert le tableau. Il venait de l'accrocher au mur. Il y avait déjà un tableau avec un sourcil posé sur une branche. Le second vient d'arriver et le second s'est froissé sur la branche. Juste comme ça, trois changements, quatre changementsxa0; cinq fois, les cinq sourcils sont tous sortis du nid avant et après, rendant les gens incroyables. Le vieux Gengfu ne pouvait s'empêcher de rire.
+Traduit par IA   
+
+
+
+
+

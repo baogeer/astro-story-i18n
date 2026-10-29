@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-07 18:10:46
+title: "El cuento popular de Qiang sobre el sol y la luna"
+featured: false
+draft: false
+description: "Las antiguas inundaciones inundaron el mundo, y los hermanos Sol y Luna se casaron según las órdenes de Tenjin de reproducir a los humanos. Avergonzado por no conocerse nunca, el hermano mayor le pidió a su hermana menor que viajara con 10 000 alfileres de plata durante el día, y era deslumbrante cuando alguien lo observaba; por la noche, él cuidaba de sí mismo. Desde entonces, el sol y la luna se han alternado, iluminando el mundo."
+---
+
+
+
+![AstroPaper I18n](/the-qiang-folktale-of-the-sun-and-the-moon.png)
+
+
+
+
+ Cuenta la leyenda que hace mucho tiempo, el terreno era muy plano, sin barrancos ni montañas.
+En ese momento, había un tipo de árbol llamado árbol de Marsan, que era tan alto como el cielo. Un día, un grupo de monos aburridos trepó por las ramas hasta el Palacio de Tiangong y accidentalmente lo empujó hacia el tanque lleno de agua del Palacio de Tiangong. Inmediatamente llovió como un manantial y la inundación se desató. Pronto llegaron a la Puerta de Nantianmen. Al ver esta situación en Tenjin Mupita, vieron esta situación, y solo entonces fluyó mucha agua. Sin embargo, se han cortado los fuegos artificiales y hay barrancos en el suelo. Al ver esta situación, Mubita suspiró. De repente, un día me dijeron que dos hermanos y hermanas, al ver que el agua salía de una llanura, se metieron juntos en sus bolsillos y flotaron hasta Tiangong. Mubita se quedó feliz durante un rato y se apresuró a regresar al palacio, solo para ver que el hermano y la hermana eran inteligentes y lindos. Se acercaron y les preguntaron cómo se llamaban. El hombre dijo que se llamaba Luna, y la mujer dijo que su nombre era Sol.
+Mubita les contó la historia del mundo y los cielos. Dijo: «Ahora que las inundaciones están haciendo estragos, no hay rastros en la tierra. Solo quiero que, hermano y hermana, vuelvan a hacer buenas obras». La amable explicación de Mubita hizo que se convirtieran en una familia. Después de escuchar las palabras de Mubita, el hermano y la hermana no estuvieron de acuerdo con nada.
+Mubita no pudo hacerlo; tuvieron que dejar que cada uno sujetara una piedra de moler y la dejara caer desde dos montañas distantes. Si las dos piedras de molino se unían, se convertían en una familia. El hermano y la hermana fueron cada uno a la cima de la montaña y dejaron la piedra de molino. Como resultado, las dos piedras de molino acabaron de juntarse al pie de la montaña.
+El hermano y la hermana siguen negándose a obedecer. Mubita se conmovió mucho al ver su insistencia, pero por el bien de la prosperidad del mundo, solo los ofendieron. Luego dijo: «Bueno, cada uno de ustedes dos quema un fuego en un lugar lejano. Si el humo azul se mezcla en el cielo, tu hermano y tu hermana se convertirán en una familia». El hermano y la hermana encendieron el fuego tal como se les había ordenado. Como resultado, el humo azul se mezcló en el aire. El hermano y la hermana sabían que era la voluntad de Dios, y se sintieron conmovidos por el cuidado de Mubita por el mundo, por lo que se hicieron amigos íntimos.
+Pronto, mi hermana menor quedó embarazada y dio a luz un montón de carne. Cuando Mubita lo descubrió, les pidieron que convirtieran la masa de carne en pequeños trozos de carne, uno en el este, este, norte y sur. Unos días más tarde, solo vieron fuegos artificiales en todo el mundo. Mubita convirtió los trozos de carne esparcidos por las piedras en villanos uno por uno.
+El sol y la luna han hecho una contribución inmortal a la prosperidad del mundo humano. Mubita decidió dejar sus vidas en el Jardín Celestial, pero los dos pandas no querían hacerlo. Querían proteger a sus hijos, pero debido a que los pandas se habían convertido en una familia, no estaban cara a cara en ese momento, y de ahora en adelante se hicieron preguntas. Mubita apreciaba mucho las virtudes de los hermanos y hermanas, por lo que se turnaban para cuidar a sus hijos día y noche, mientras que el hermano mayor Moon sabía que su hermana estaba avergonzada y le pedía que saliera por la noche para cuidarla, porque nadie la vería por la noche. Sin embargo, la hermana menor tenía miedo a la oscuridad, el hermano mayor la dejaba salir durante el día y la hermana menor tenía miedo de reírse de ella, por lo que al hermano mayor se le ocurrió la idea de que saliera con un montón de agujas de plata.
+Desde entonces, no han podido volver a verse. Cada vez que el sol de la hermana menor está a punto de ponerse, su hermano la escolta hasta la cima de una montaña lejana y, cuando sale por el este, quiere llamar a su hermano, pero la luna ha desaparecido del dosel occidental, por lo que iluminan el mundo con el dolor de separarse.
+Al mismo tiempo, Mubita ordenó que se prohibiera a los hermanos y hermanas casarse en cualquier habitación, y el árbol del canto del caballo, que tenía la misma altura que el cielo, murió a un metro del suelo.
+Traducido por IA   
+
+
+
+
+

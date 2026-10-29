@@ -1,0 +1,64 @@
+---
+pubDatetime: 2026-11-13 22:14:03
+title: "La fruta del tesoro de la cascada de Huangguoshu"
+featured: false
+draft: false
+description: "El anciano plantó 100 árboles frutales amarillos y solo produjo un fruto. El anciano de Shaanxi, que la conocía, quiso comprarla durante cien días, pero no la recogería hasta 100 días después, y le ordenó que la guardara día y noche, dando a entender que esta fruta es un tesoro poco común."
+---
+
+
+
+![AstroPaper I18n](/the-treasure-fruit-of-huangguoshu-waterfall.png)
+
+
+
+
+ Hace muchos años, en la ladera de la cascada de Huangguoshu, un anciano que cultivaba cosechas vivía con su esposa. La pareja mayor tiene más de sesenta años. No tienen hijos y trabajan todo el año. Nunca se toman un descanso del clima, pero sus días siempre son muy difíciles. La pareja mayor suele estar triste y relativamente suspira cuando piensan en trabajar duro todo el día y no poder disfrutar de una vida plena.
+Desde que el anciano llegó aquí joven y fuerte, cortó sus propios árboles, cortó paja, construyó una casa con techo de paja y vivió solo en familia. Plantó 100 árboles frutales amarillos delante y detrás de la casa. Con el paso de los años, estos árboles se han convertido en bosques, y los racimos rodean su pequeña cabaña con techo de paja. El anciano se sienta frente a la casa y fuma el humo de las hojas cuando está bien. Su puerta da a la gran cascada que cae frente a él.
+Esta cascada no tenía nombre en un principio. Tenía unos diez pies de ancho y se precipitaba directamente desde una roca colgante de tres a cuarenta pies de altura. El estruendoso sonido de un terremoto sonaba día y noche. Las gotas de agua eran como una llovizna de pelo de vaca, volando a pocos kilómetros de distancia. Por la mañana, cuando el sol brilla en la cascada, aparece un colorido arcoíris. Por la noche, cuando la luna brilla en la piscina profunda debajo de la cascada, la piscina vuelve a brillar intensamente. Así es como el anciano disfruta del maravilloso paisaje de la cascada todas las mañanas y noches. Además de cultivar, eché un vistazo a Huangguoshu y pasé sus años.
+Un año, los 100 árboles frutales amarillos plantados por el anciano eran de alguna manera muy diferentes a los de años anteriores. Este año, todos los árboles frutales amarillos florecieron más y más que en años anteriores, y la fragancia se puede oler a pocos kilómetros de distancia. Lao Han y su esposa están muy felices. Calculó que la cosecha de frutos amarillos de este año debe haber sido mayor que la de años anteriores. ¡Por supuesto Luo! También se vendió por mucho más dinero. Cada vez que el anciano pensaba que sus ingresos aumentarían, siempre sonreía y le decía a su esposa lo que desconocía muchas veces: «Viejo socio, cuando Huangguo vende por dinero, deberías comprar uno nuevo». Su esposa también repitió la frase, que nunca había dicho antes: «Puedes ir al mercado y comprar unos cuantos kilos de carne para un festival dental».
+Una vez que terminó el Huangguohua, los días pasaron día a día. El viejo miraba este árbol todos los días y miraba ese árbol. Parece que después de mirarlo durante más de diez días, nunca vio un árbol que produjera arroz con frutos amarillos. En ese momento, el anciano estaba triste y decepcionado. No quería decir nada, no podía comer; solo estaba fumando una bolsa tras otra. Sin embargo, una tarde, cuando estaba somnoliento en casa, su esposa de repente exclamó sorprendida frente a la puerta: «¡Ven a ver, Huang Guo!» Al viejo le pincharon el trasero con una aguja. Tan pronto como se levantó de un salto, se frotó los ojos y salió corriendo por la puerta. En ese momento, su esposa sostenía un paquete de leña recién recolectada y miraba hacia un árbol frutal amarillo.
+«¡Mira, qué gran fruta amarilla!» Su esposa señaló el árbol y dijo.
+«Eh, qué raro, ¿por qué nunca lo he visto?» El anciano vio que en realidad había una fruta amarilla creciendo en las hojas y, extrañamente, dijo: «Esta fruta amarilla es un poco extraña. Solo tardó diez días y creció más que una fruta completamente madura».
+«Mire a su alrededor y vea si hay algo más». Su esposa dejó el chai que tenía en la mano y dijo.
+Como resultado, los dos encontraron un árbol tras otro. Buscaron cuidadosamente 100 árboles, pero aparte de esta fruta amarilla, no pudieron encontrar una segunda fruta amarilla.
+«No lo busques». El anciano le dijo a su esposa, que todavía quería volver a encontrarla: «La vida de los pobres siempre sufre; no pueden encontrarla aunque la vuelvas a buscar».
+Unos días después, la familia del anciano tuvo un invitado poco común. Llegó a unos cientos de kilómetros de distancia después de escuchar la leyenda sobre Huangguo. Este invitado solo tenía treinta años. El hombre delgado parecía un fantasma de tuberculosis, pero sus ojos tenían una luz extraña. Todos los que lo conocen lo llaman el Shaanxi Lao ① de Shibao, pero el viejo nunca lo conoció. Cuando el anciano de Shaanxi llegó a la casa del anciano, sus primeras palabras fueron: «Viejo, ¿vendes fruta amarilla o no?»
+«Había muchos frutos amarillos en años anteriores. Podrías comprar unos cientos de libras. Lo que pasa es que este año no crecieron bien; solo compraron uno en total».
+«Solo quiero comprar esto». Dijo Shaan Lao.
+«Esto ha crecido; no lo voy a vender todavía». El viejo respondió con indiferencia.
+«Véndelo, tengo dinero». El anciano de Shaanxi lo miró con tentación.
+«¿Hay dinero? ¿Cuánto puedes hacer?» preguntó el viejo con escepticismo.
+«¿Qué tal 200 piezas de plata?»
+«¿Doscientos dos?» El corazón del viejo «palpitaba». Aunque había visto algo de plata esparcida, todavía no sabía realmente cuánto eran 200. Si quería comprarlo, ¡debe haber sido más que mucha plata! Tan pronto como pensó en la palabra «muchos», pensó que Shaanlao se estaba divirtiendo con él, pero al mirarlo a la cara, volvió a hablar en serio; no parecía que estuviera engañando.
+«¿Te faltan 200?» Shaan Lao dijo: «Hagámoslo. Te daré mil dos. Se trata de un pago fijo». Shaan Lao sacó un lingote de plata de 52 pulgadas de su bolsillo y se lo entregó al anciano.
+«No, no». El anciano miró la gran barra de plata de Bai Shengsheng y no supo qué decir.
+«Mil dos es suficiente, tómalo». El viejo puso el lingote de plata en las manos del viejo. El viejo estaba realmente un poco confundido en ese momento. Su esposa pareció recordar algo y rápidamente dijo: «Si lo vendes, véndelo, espera a que yo lo recoja».
+«No estés ocupado, no estés ocupado». El anciano de Shaanxi lo detuvo apresuradamente y dijo: «No necesito esta fruta amarilla ahora; no tengo suficiente dinero».
+«Entonces, ¿cuándo lo quieres?» preguntó el viejo.
+Shaan Lao primero pasó por debajo del árbol para mirarlo durante un rato, luego levantó el dedo e hizo algunos cálculos, y luego dijo: «Después de 100 días, 100 días, recogeré frutos amarillos. Pero recuerda que durante estos 100 días, sin importar si es de día o de noche, debes cuidar esta fruta amarilla; nadie puede tocarla ni comérsela a los pájaros o a los animales...»
+«¡No te preocupes!» El anciano intervino y dijo: «Ha sido un momento raro para mí tener a alguien aquí durante un año y medio. Me temo que los pájaros y los animales se lo comerán; basta con hacer una jaula para cubrirlo».
+«No, no puedes cubrirlo; déjalo crecer». Shaan Lao dijo: «Debes protegerte día y noche; no debes ser negligente en absoluto; de lo contrario, no podré comprar tu fruta amarilla cuando llegue el momento».
+«¿Por qué es eso?» preguntó el viejo.
+«Si prometes no decírselo a nadie más, te lo diré».
+«Mi antiguo compañero y yo nos atrevimos a jugar, aunque mi hijo de tres años no se lo dijo». El anciano se palmeó el pecho y habló con honestidad.
+«¡Esta es una fruta amarilla! ¡Esto es un tesoro!» El anciano de Shaanxi bajó la voz y habló en voz baja al oído del anciano. En realidad, nadie lo escuchó gritar, porque la cascada al otro lado de la puerta era muy ruidosa y la familia del anciano vivía sola en la ladera de la colina, sin nadie a la izquierda ni a la derecha.
+«¿De qué sirve?» El viejo hizo una pregunta.
+«Hmm, esto...» ¡Hablemos de ello más tarde!» El anciano no quiso decir una palabra más y no pudo volver a preguntar. Después de asentir y escuchar las instrucciones de Shaanlao, lo vio irse.
+Desde entonces, el anciano y su esposa se han turnado para vigilar debajo de este árbol frutal amarillo todos los días. Incluso de noche, tienen miedo de cerrar los ojos. En los brazos del viejo, los pesados 52 yuanes le hacían olvidar su fatiga; tan pronto como pensaba en «mil dos», un número inimaginable, siempre sacaba ese lingote para tocarlo.
+Mira, casi han llegado 100 días. El anciano y su esposa también están agotados y casi enfermos. Cuando se quedó 99 días, el anciano ya no pudo mantenerlo. Su laboriosa cintura se doblaba como una langosta, y sus ojos rojos solo querían cerrarse. Pensó: «La he conservado durante 99 días y la fruta amarilla está completamente madura. No importa si no lo guardo durante un día». Pero también pensó: «Si no sigues este día, ¿por qué no pierdes tus logros anteriores si te comen los pájaros y los animales?» El viejo lo pensó una y otra vez, y finalmente decidió llevárselo a casa y guardarlo para evitar accidentes.
+Al día siguiente, Shaanlao ciertamente llegó según lo previsto. No llevaba dinero; solo llevaba una escalera de cuerda hecha de alambre. Tan pronto como entró por la puerta, preguntó: «¿Qué aspecto tiene Huang Guo en la casa del anciano?»
+«Está maduro; me lo quité ayer».
+«¿Se lo quitaron?» Shaan Lao preguntó sorprendido: «Déjame verlo».
+El viejo sacó la fruta amarilla. Esta rara fruta amarilla en el mundo es fragante y grande, como una calabaza. Después de observar durante un rato, Shaan Lao suspiró y dijo: «Desafortunadamente, en este mal día, no tuve fuerzas suficientes».
+«A propósito, ¿de qué sirve esta fruta amarilla?» preguntó el viejo.
+Shaan Lao señaló con el dedo la cascada opuesta y le dijo al anciano: «La piscina profunda debajo de esta cascada es un pozo del tesoro. Algunas personas saben que hay muchas joyas de oro y plata en la piscina, pero no hay forma de conseguirlas. Esta fruta amarilla es solo la clave para abrir la piscina profunda. Desafortunadamente, aún falta un día para que te la quites. Me temo que aún no has tenido mucha fuerza, así que no podrás abrirlo. Pero podemos intentarlo». Después de hablar, Shaan Lao cogió a Huangguo, llevó una escalera de cuerda y caminó hasta la piscina profunda en el fondo de la cascada. El anciano y su esposa lo ayudaron a atar una escalera de cuerda a una gran roca junto a la piscina. Cuando el paquete estuvo listo, el anciano de Shaanxi cogió el centro Huangguo Chaotan y lo perdió. Lo extraño sucedió de inmediato: la estruendosa cascada dejó de fluir de repente y, de repente, la profunda piscina que había debajo se secó. El anciano y su esposa miraron hacia la piscina, solo para ver el oro, la plata y las piedras preciosas brillantes de color amarillo y blanco. El fondo de la piscina estaba amontonado como arena pétrea, y todavía había bastantes cajas de hierro grandes y pequeñas intercaladas entre ellas. Shaan Lao arrojó la escalera de cuerda a la piscina con cara de felicidad y se deslizó hasta el fondo de la piscina. Rápidamente recogió la fruta amarilla del fondo de la piscina y la sostuvo, e inmediatamente trepó apresuradamente por la escalera de cuerda con otra pequeña caja de hierro. Justo cuando estaba a mitad de camino, de repente, se escuchó un fuerte ruido que parecía que el cielo se estaba rompiendo, asustando al anciano y a su esposa. Resulta que la cascada de arriba era muy feroz y que la piscina profunda de abajo se llenó de agua en un abrir y cerrar de ojos. Cuando el anciano se alejó, aparte de la escalera de cuerda que tenían delante, no pudieron ver ningún rastro del anciano de Shaanxi.
+El anciano sacudió la cabeza, suspiró, tomó la plata que había brillado de sus brazos y la arrojó al estanque profundo sin dudarlo. Miró hacia atrás y le dijo a su esposa: «Esto no es algo que merezcamos los agricultores; no sirve de nada conservarlo».
+Desde entonces, la cascada se conoce como Cataratas Huangguoshu. Aunque la gente sabe que la piscina profunda debajo de la cascada todavía está llena de tesoros de oro y plata, la gente ya no puede encontrar la llave para abrirla.
+Nota original ① Nombre común para los comerciantes de Shaanxi en Guizhou.
+Traducido por IA   
+
+
+
+
+

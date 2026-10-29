@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-25 20:26:09
+title: "La mort de Wang Cuiqiao, la courtisane qui a résisté aux pirates japonais"
+featured: false
+draft: false
+description: "Pendant les années Ming et Jiajing, la célèbre prostituée Wang Cuiqiao a échappé à son mariage avec Luo Longwen. Plus tard, la guerre romaine contre le Japon a échoué et Cuiqiao a été fait prisonnier. On a découvert que le chef du pirate japonais était en fait un moine de l'ancienne montagne Ming. Elle a doucement cajolé Mingshan et l'a persuadé de se rendre. Lorsque Mingshan a tué le Japon pour qu'il se rende, ils ont été assassinés par des fonctionnaires de la dynastie Ming qui ont trahi leur confiance. Cui Qiao a de nouveau été enlevé par des pirates japonais pleins de remords. Il a finalement sauté à la mer et est mort."
+---
+
+
+
+![AstroPaper I18n](/the-death-of-wang-cuiqiao-the-courtesan-who-resisted-the-japanese-pirates.png)
+
+
+
+
+ Pendant les années Ming et Jiajing, la côte sud-est de notre pays a commencé à être envahie par des «xa0envahisseurs japonaisxa0». Ces Japonais se sont associés à des bandits locaux et ont fait du mal à la population. À l'époque, il y avait une célèbre prostituée sur la rivière Qin Huai, nommée Wang Cuiqiao. Elle parlait doucement, était extrêmement gentille, avait un peu de persévérance et une personnalité franche. Comme elle n'écoutait pas sa mère, elle l'a vendue à un vieux riche homme d'affaires comme concubine. À première vue, Wang Cuiqiao était d'accord, mais le soir, elle a emballé ses doudous et s'est enfuie.
+Ils se sont enfuis à Jiaxing et ont eu peur de reprendre leurs anciennes activités afin de dissimuler leur identitéxa0; ils se promenaient uniquement sur les rives du lac Sud tous les jours. Un jour, au bord du lac, j'ai rencontré Luo Longwen, le fils d'une riche famille de Tongcheng. Luo Longwen a vu que Wang Cuiqiao était très beau et joyeux. Il a estimé que cette personne avait beaucoup d'utilité, alors elle s'est avancée pour discuter. Wang Cuiqiao était également pressé de trouver quelqu'un sur qui «xa0compterxa0». Il ne lui a pas fallu longtemps pour épouser Luo Longwen en tant que concubine. Luo Longwen lui a demandé d'aider Zhou Xuan dans le domaine social. C'était vraiment comme un poisson. La famille de Luo Longwen avait également un client féodal, le moine Mingshan du temple Jingci à West Lake. Le moine Mingshan était impatient et très ambitieux, mais Luo Longwen lui a bientôt donné la Perle Verte. Il a voyagé loin de chez lui avec le Green Pearl et il n'y avait aucune nouvelle.
+L'année suivante, Luo Longwen a obtenu un poste officiel à Pékin et est devenu l'homme de main Yan Song. Au cours de la 33e année de Jiajing, des pirates japonais ont envahi l'armée et Zhang Jing, le chef militaire, a dirigé une armée pour vaincre l'armée ennemie, mais a été tué pour avoir offensé Yan Song. Le mérite en a été attribué à l'ami proche de Yan Song, Zhao Wenhua.
+Après deux ans, Zhao Wenhua et Luo Longwen ont de nouveau combattu les envahisseurs parce qu'ils ne comprenaient pas du tout les tactiques. Luo Longwen s'est enfui et Wang Cuiqiao a été arrêté et emprisonné dans un temple. Il s'avère que beaucoup de femmes ont été arrêtées ici. Alors qu'un chef de pirate japonais était actuellement en visite, Wang Cuiqiao a été surpris de découvrir que cette personne était en fait un moine Mingshan. Il s'avère qu'après le départ de Mingshan cette année-là, ils n'avaient aucun projet de vie. Ils se sont liés d'amitié avec des bandits et ont rejoint un groupe de pirates japonais. Il avait le béguin pour Wang Cuiqiao pendant longtemps, mais il n'en a tout simplement pas eu l'occasion en France. Maintenant que cette tarte tombe du ciel, j'ai immédiatement épousé Wang Cuiqiao en tant qu'épouse. Wang Cuiqiao n'avait pas d'autre projet à ce stadexa0; elle n'avait pas d'autre choix que d'agir. Heureusement, Mingshan était très respectueuse et prête à l'écouter. Chaque jour, elle voyait que Mingshan aidait des pirates japonais à piller des personnes et des biens, à intimider leurs femmes et leurs femmes, et se sentait mal à l'aise. Il lui conseillait souvent doucement de ne pas aider les pirates japonais à blesser ses compagnons. Mingshan s'est progressivement inspirée d'elle, déterminée à abandonner l'obscurité et à projeter de la lumière dans la lumière. Les deux jeunes dirigeants qui ont tué les pirates japonais se sont donc rendus à Tongcheng et leur ont demandé de se rendre. De façon inattendue, Zhao Wenhua n'a pas cru ce qu'il a dit. Il a tué Mingshan et lui a suggéré de se rendre en ville pour demander le mérite.
+Après l'avoir appris, Wang Cuiqiao l'a regretté. Elle pensait lui avoir fait du mal. Alors que le chagrin et la haine se mêlaient, les pirates japonais restants l'ont traînée à bord du bateau. Wang Cuiqiao a perdu toutes ses pensées et a sauté à mort.
+Traduit par IA   
+
+
+
+
+

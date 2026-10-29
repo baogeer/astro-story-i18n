@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-15 20:29:19
+title: "La légende de Zhang Tianshi et du garçon illuminé"
+featured: false
+draft: false
+description: "Zhang Tianshi a secouru l'orphelin et a choisi un trésor Feng Shui pour enterrer son père. Nanmanzi a incité des orphelins à déplacer des tombes et Zhang Tianshi a conseillé de ne pas se laisser berner. Les orphelins ont insisté pour ne pas quitter leurs tombes, et leurs petits-enfants sont devenus riches à l'avenir, et leurs petits-enfants sont tous devenus des fonctionnaires. Zhang Tianshi est venu le féliciter mais n'a ni mangé ni bu. Ce n'est qu'alors que l'orphelin a compris qu'il était immortel et que ses bonnes actions ont fini par porter leurs fruits."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-zhang-tianshi-and-the-enlightened-boy.png)
+
+
+
+
+ Ce jour-là, alors qu'il était en route, Zhang Tianshi a rencontré un vieil homme qui voulait manger et portait un adolescent. Après ne pas être allé bien loin, le vieil homme est mort de faim. Zhang Tianshi a vu que l'enfant était pauvre et voulait l'aider, alors il a choisi une zone Feng Shui pour le vieil homme. L'enfant s'est rendu chez une vieille grand-mère du village et a enterré le vieil homme. Quand le vieil homme a accouché, il faisait déjà nuit, alors ils sont restés chez l'ancienne grand-mère. Grand-mère n'avait pas d'enfants et le successeur de son neveu n'a pas posé de questions sur elle, alors elle a pris l'enfant comme beau-fils. Depuis, la vieille grand-mère fait tourner le fil et les enfants peuvent continuer à vivre leur journée.
+Un an, pendant le festival de Ching Ming, un enfant s'est rendu au tombeau. Un bandit du sud l'a trompé en lui faisant direxa0: «xa0C'est un champ de hurlements. Après trois cris, la famille a été détruite.xa0» L'enfant n'y croyait pas et a rétorquéxa0: «xa0Je suis seul maintenantxa0; comment puis-je dire que ma famille a été détruite et que quelqu'un est mortxa0?xa0» Bientôt, Zhang Tianshi est venu dire à l'enfantxa0: «xa0Tu ne dois jamais élever la tombexa0; Nanmanzi reviendra.xa0» Effectivement, Nanmanzi est revenu un an plus tard et a conseillé à l'enfant de prendre place dans la tombe. Cependant, lorsque Ren Nanman s'est exprimé, il n'a pas soulevé sa tombe. Les jours qui ont suivi se sont améliorés et j'ai gagné beaucoup d'argent. Il a épousé sa belle-fille et a donné naissance à cinq enfants. Plus tard, ils sont tous devenus de hauts fonctionnaires et il est devenu Grand Maître. Un jour, Zhang Tianshi est venu chez lui pour le féliciter. Il a chaleureusement accueilli la réception. Cependant, Zhang Tianshi Guang Laguang ne mangeait pas d'alcool. Au bout d'un moment, Zhang Tianshi a déclaréxa0: «xa0Assez de vin et de nourriture. Merci, je m'en vais.xa0» Il a disparu en un clin d'œil. Ce n'est qu'alors qu'il a compris qu'il s'était avéré immortel.
+Temple de Sumiwa
+Un jour, Zhang Tianshi a rencontré Lord Fire. Zhang Tianshi a demandé à Lord Fire ce qu'il allait faire. Grandpa Fire a ditxa0: «xa0Je vais brûler Yangzhou.xa0» Zhang Tianshi a ditxa0: «xa0Ne pars pas, je ferai le travail pour toixa0!xa0» Lord Vulcan a ditxa0: «xa0Tu ne peux pas faire ça.xa0» Zhang Tianshi a ditxa0: «xa0Pourquoi ne puis-je pas le fairexa0? Tu y retournes.xa0» Zhang Tianshi est arrivé à Yangzhou et a fait en sorte que toute la ville allume les lumières afin d'éteindre la catastrophe. La maison de Yangzhou est pleine de lumières et le ciel est rouge. Dès que Vulcain le voit, il sait que Yangzhou a déjà brûlé.
+Plus tard, Tenjin a découvert que Yangzhou ne brûlait pas, alors il a demandé à Grandpa Fire. Grandpa Fire a ditxa0: «xa0Yangzhou a brûléxa0; Zhang Tianshi l'a brûlée pour moi.xa0» Tenjin a ditxa0: «xa0Ça brûle, pourquoi est-ce que Yangzhou va bienxa0?xa0» Grandpa Fire a demandé à Zhang Tianshi. Tianshi a déclaréxa0: «xa0Quand je suis arrivée à Yangzhou, j'ai vu que les gens ordinaires étaient très pauvres, alors je ne l'ai pas brûlée.xa0» Vulcain a ditxa0: «xa0Tu as péché contre moixa0; j'ai péché contre toixa0; je vais brûler tous les temples que tu as.xa0» Lord Fire a incendié tout le temple de Zhang Tianshi. Zhang Tianshi n'a pas eu d'autre choix que de trouver Lord Fire et a ditxa0: «xa0Si tu brûles mon temple, je resterai dans ton temple.xa0» Depuis lors, Zhang Tianshi vit dans le Temple du Feu.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-08 16:39:55
+title: "El examen de Dios de la ciudad"
+featured: false
+draft: false
+description: "Song Tao fue invitada a tomar el examen en el inframundo debido a su enfermedad. Debido a que el artículo fue alabado por Dios, fue nombrada ciudad de la provincia de Henan. Extrañaba a la madre de su familia, que no tenía a nadie que lo apoyara. Lloró y suplicó, y Guan Diyun autorizó a Zhang Sheng a actuar como agente durante nueve años. Song Tao abandonó su piedad filial. Tras la muerte de su madre nueve años después, asumió el cargo con calma. La historia elogia la piedad filial con palabras como «si tienes un corazón para el bien, pero no lo aprecias», y sugiere que el bien solo es bueno si tienes un corazón puro."
+---
+
+
+
+![AstroPaper I18n](/the-city-god-examination.png)
+
+
+
+
+ El abuelo de mi cuñado, que se llama Song Tao, es un estudiante pobre en esta prefectura. Un día, estaba enfermo y postrado en cama. Vio a un pequeño funcionario del gobierno que sostenía un poste, sujetando a un malayo de pelo blanco en la frente, que lo buscaba y le dijo: «Por favor, vaya al examen». Song Gong dijo: «El examinador aún no ha llegado, así que, ¿por qué hacen el examen de inmediato?» Los funcionarios del gobierno que acudieron no dijeron mucho; simplemente instaron a Song Gong a seguir su camino. Song Gong no tuvo más opción que montar a caballo debido a su enfermedad y marcharse con él.
+Ha sido un viaje muy duro. Llegué a un castillo, que parecía la capital de un rey. Tan pronto como entró en el palacio real con esa persona, vio que el palacio interior del palacio era espléndido y hermoso. Hay más de una docena de funcionarios sentados en el vestíbulo principal y no saben quiénes son; solo el emperador en cuestión lo conoce. Hay dos mesas y dos pedestales bajo el alero del palacio. Una de las celebridades ya está sentada allí, y Song Gong está sentado al lado de esta persona. Los bolígrafos y el papel se colocan por separado en el escritorio.
+Poco después, se publicaron las preguntas del examen. Cuando vi que tenían ocho caracteres: «Una persona, dos personas, sin intención». Después de un tiempo, los dos terminaron su artículo y lo enviaron al palacio. El artículo de Song Gong incluye una frase como esta: «Si tienes ganas de hacer el bien, no lo aprecias; si no tienes intención de hacer el mal, no hay castigo para el mal». Tras leer la leyenda, todos los dioses la alabaron. Luego se rumoreó que Song Gong había ascendido al templo. La orden decía: «Henan carece de un dios de Chenghuang; tú eres muy competente». Cuando Song Gong escuchó, de repente se dio cuenta de que inmediatamente se postró en el suelo, lloró y dijo: «Dios me amó mal y me pidió que fuera un villano; no se atrevió a especular. Lo que pasa es que mi familia tiene una madre anciana. Tiene más de 70 años y no tiene a nadie que la apoye. Le pedí a Dios que esperara a la muerte de mi madre antes de asumir el cargo». Había una persona sentada frente a él que parecía un emperador y le pidió a la madre de Song Gong que revisara su libro de esperanza de vida. Un funcionario barbudo cogió el folleto, lo revisó y se quejó: «Quedan nueve años más de vida». Todos los dioses dudaron y no pudieron tener una idea ni por un momento. Guan Di Shen dijo: «¿Por qué no le pides a Zhang Sheng que actúe como agente durante nueve años?» Luego le dijo a Song Gong: «Debería haberte pedido que asumieras el cargo de inmediato. Si tienes piedad filial, te daré unas vacaciones de nueve años y te pediré que regreses cuando llegue el momento». Después de eso, el emperador Guan animó a Xiucai a decir unas palabras más y los dos candidatos se postraron.
+Xiucai tomó la mano de Song Gong y la entregó a los suburbios. Se presentó como originario del condado de Changshan. Su apellido era Zhang y también escribió un poema de despedida para Duke Song. He olvidado todo el texto original; solo recuerdo la frase: «Hay flores, vino, la primavera siempre existe; no hay velas ni luces, la noche brilla intensamente». Luego, Gong Song volvió a subirse al caballo para despedirse.
+Cuando Song Gong llegó a casa, se despertó como en un sueño. Llevaba muerto tres días en ese momento. Su madre oyó un gemido en el ataúd. Cuando abrió el ataúd y lo vio despertarse, lo sacó y se quedó medio día antes de hablar. Más tarde fui al condado de Changshan para preguntar. Efectivamente, un Xiucai con el apellido Zhang murió ese día.
+Nueve años después, la madre de Song Gong ciertamente falleció. Song Gong terminó de cocinar para el funeral, se bañó, se puso ropa nueva y murió cuando entró en la casa.
+La familia de su suegro vive en la Puerta Oeste de la ciudad. Un día, de repente vi a Song Gong montado en un caballo rojo y llevando muchos coches y caballos para despedirse de su casa. Todos los miembros de la familia se sorprendieron y no sabían que se había convertido en un dios. Fui apresuradamente a la casa de Song Gong para hacer preguntas, solo para enterarme de que Song Gong había muerto.
+El propio Song Gong tiene una pequeña biografía, pero desafortunadamente no sobrevivió en medio del pánico y el caos militares. Los registros aquí son solo aproximados.
+Traducido por IA   
+
+
+
+
+

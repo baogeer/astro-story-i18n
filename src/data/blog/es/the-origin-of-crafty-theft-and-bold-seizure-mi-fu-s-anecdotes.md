@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-22 04:12:10
+title: "El origen del robo astuto y la incautación audaz: las anécdotas de Mi Fu"
+featured: false
+draft: false
+description: "El pintor y calígrafo de la dinastía Song, Mi Yi, coleccionó obras famosas. Utilizaba con frecuencia la copia para emular las obras reales; incluso se daba a la fuga con publicaciones y las obligaba a exigirlas con la muerte. Estas elegantes anécdotas se denominaron «ingeniosas extravagancias» y, más tarde, se convirtieron en un modismo que hacía referencia al uso del fraude y la indignación para apoderarse de los bienes de otras personas."
+---
+
+
+
+![AstroPaper I18n](/the-origin-of-crafty-theft-and-bold-seizure-mi-fu-s-anecdotes.png)
+
+
+
+
+ La «extorsión ingeniosa» se conoce generalmente como «extorsión hábil». La «captura inteligente» utiliza todo tipo de trucos para defraudar; la «extorsión» utiliza métodos escandalosos para robar por la fuerza. Esta expresión es una metáfora del uso de medios despreciables para apoderarse de la propiedad o los derechos de otra persona. En realidad, resultó ser una historia elegante e interesante en la historia de la caligrafía y la pintura.
+Mi Yi, un famoso pintor y calígrafo de la dinastía Song, tenía una caligrafía elegante y era más estricta que la ley. Su Dongpo lo alabó por ser «fiel, herbáceo, esclavo y luchador, como un caballo salvaje, tranquilo y feliz». Las galletas de arroz se utilizan en la colección certificada de caligrafía y pintura. Sin embargo, lo que le falta como forastero es que a menudo utiliza métodos engañosos, como la «transferencia de paquetes», para «robar» caligrafías y pinturas famosas. De lunes a viernes, siempre que oye hablar de la famosa caligrafía y pintura de alguien, hace todo lo posible por tomárselas prestadas y decir que las ve; de hecho, es una copia. Puede copiarla para que tenga exactamente el mismo aspecto que la original, falsificarla y luego devolver la copia a otras personas y dejar una impresión real para sí mismo. A veces, incluso selecciona la obra original y la copia para el propietario original al mismo tiempo. El propietario original es con frecuencia incapaz de discernir y se deja engañar. A Mi Yu le encantaba la caligrafía del maestro Shen de la dinastía Tang. Cuando trabajaba como pequeño funcionario en Changsha, se enteró de que un templo tenía obras reales de Shen Chuanshi, por lo que pidió visitar el templo. Sin que yo lo supiera, cuando lo pedí prestado, cogí el templo y zarpé con este correo. El monasterio lo demandó en la oficina gubernamental, y Miyu siguió negándose a devolverle el dinero. El día 1, Mi Yi hizo un viaje en barco con Cai Jing. Cai Jing sacó una foto de la «Publicación del 5 de agosto» de Xie An y dejó que Mi Yi la mirara. Mi Yi estaba muy emocionada de ver esta publicación, porque la había visto hace 14 años, pero era demasiado tímido en ese momento y siempre tenía mucho remordimiento. No quería volver a verla hoy. No pudo evitar amarlo. Inmediatamente le pidió a Cai Jing que le diera esta colección o que la cambiara con él. Rezó tanto que Cai Jing estaba en problemas. Inesperadamente, Mi Yi saltó repentinamente al costado del bote y gritó: «Si no me lo das, también podría saltar hasta morir». Cuando Cai Jing vio la situación, tuve que darle esta publicación. Así es como Miyu «consigue» su caligrafía favorita.
+La revista Qingbo, escrita por Zhou Yu (oriundo de la dinastía Song), se refiere al truco de Mi Yu calificándolo de «ingeniosa extravagancia». Incluso el gran escritor, Su Shi, se burló de él en «Second Yun, Mi Yu, Er Wang Shu Ba Wei» por «aprovechar hábilmente lo que existe desde la antigüedad; cuando se ríe, parece un idiota». (El pintor de la dinastía Jin, Gu Kaizhi, nombre abreviado Cabeza de tigre). Mi Wei tiene una personalidad extraña. Le gusta la ropa extraña, le gusta estar limpio, le gustan las piedras, llama hermano a Shi, duerme mientras hace boulder y es conocido como «Mi Ba». Hay tantas cosas como esta, y no es de extrañar que todo el mundo las haya visto.
+Traducido por IA   
+
+
+
+
+

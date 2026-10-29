@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-01 13:36:47
+title: "The Peony as Tall as the Tower"
+featured: false
+draft: false
+description: "Emperor Sui Yang couldn't see peonies clearly due to the height of the tower, so he decided to cultivate tall plants. Qiluheng used camellias to successfully graft peonies on the terrace, but was appreciated by eunuch Qi. Qilu Heng returned to his hometown in anger and did not pass on this skill. As a result, his trick was lost, and ridiculed the extravagance and greed of the traitor."
+---
+
+
+
+![AstroPaper I18n](/the-peony-as-tall-as-the-tower.png)
+
+
+
+
+ After Emperor Sui Yang took the throne, Ren Yang Su acted as an eunuch, made Yu Wenkai take charge, repair Tokyo into Beijing, build a palace, build a Xiyuan, and lay down the land to offer plants, flowers, fruits, strange birds, and alien beasts. Twenty boxes of peonies were brought in Yizhou, Hebei, and all planted in Xiyuan. Xiyuan entered the building on Tuesday and built a sea canal and a sixteenth courtyard. To make it easier for Emperor Yang, the three queens, and nine concubines to enjoy the flowers in the Imperial Garden, a special construction of the Wanghua Tower, called the Yufeng Tower. The building is three feet tall and more than 700 feet long. It is a bluestone structure with carved beams and columns, and splendid. Climb to the Yufeng Tower and enjoy a panoramic view of the garden.
+More than 100 people from Emperor Yang, Queen, Princess Jieyu, beauty, eunuchs, and gong wives visited the garden, climbed the Yufeng Tower, and looked around. The garden was beautiful. At this time, in the Valley, peonies were in full bloom, and the fragrance was overwhelming. Emperor and Queen Yang were very happy. However, one of the affectionate concubines sighed, “Peony is the king of flowers. Although the color is good, unfortunately I can't see the tall buildings clearly, and it has failed to live up to her heavenly fragrance!” Emperor Yang heard it and immediately ordered all the florists in the Imperial Garden to visit. Soon, dozens of florists knelt down in front of Emperor Yang. Emperor Yang ordered Chang to follow his official orders. The time limit was three days to plant 12 tall peonies. They had to be the same as a staircase. Each plant had at least three colors of flowers, and those who violated the order were beheaded. The flower workers and flower masters were all frightened and went forward, and even prostrated and asked for forgiveness, saying, “Hooray, peonies are shrubs, no more than three or four feet tall. If you want them to grow as tall as a staircase, it really won't work. I hope long live!” Liu Tianzhao, the eunuch next to him, came forward and pleaded, “Long live, cut down these little flower craftsmen, no effort; however, there are still no peonies on the Gaoqi Staircase. It would be better if the florist who held the meeting put forward more ideas and suggestions, and it may be successful.” Emperor Yang followed suit and issued an edict to bring the world's flower craftsmen together in Luoyang.
+The sacrament came out, and florists and florists from all over selected skilled people gathered in Dongdu. Among them, a florist named Qi Luheng lives in Caozhou, Shandong, and is best at managing peonies. The peonies he has cultivated are so colorful that no one can match them. But growing tall peonies is really a big problem; if no one can grow them at night, it's hard for them to survive. Qiluheng went back and forth at night and couldn't sleep, analyzed the growth rules, habits, and characteristics of peonies, and thought about breeding methods. Suddenly he thought peonies could be grafted, so he immediately got out of bed and told his idea to the florist in the same room. Everyone was very happy and decided to do an experiment together. He selected 20 trees of 10 types, including apricot trees, peach trees, pear trees, mulberry trees, acacia trees, camellia trees, and jujube trees, to experiment with grafting peonies. Ten more people were selected, and one person grafted one type of tree. As a result, the other nine were unsuccessful; only Qi Luheng successfully grafted onto a camellia tree. Three years later, peonies grafted onto a camellia tree bloomed. They were taller than the stairs. Emperor Yang stood upstairs to enjoy the flowers as clearly as if they were on the ground. People call them “peonies on the stairs.”
+Emperor Yang praised his exploits, and the eunuch Qi Ziliang (Shang Liang) claimed his greedy exploits. He shook his lips and applauded in front of Emperor Yang, arguing that peonies on the stairs were created under his leadership; it was his credit. Emperor Yang was biased. He rewarded him with 10,000 yuan of gold, 1,000 pieces of satin, and upgraded his official rank by two levels. He quickly became a famous hero in the DPRK and China. The flower masters were angry and didn't dare to speak up. Qi Luheng also fainted in anger. He was sick for several months.
+After recovering from his illness, Qi Lu Heng said goodbye to everyone and returned to his hometown in Caozhou, Shandong. He vowed not to play with flowers anymore, and the art of cultivating Lutai peonies wasn't taught even to his biological son, so the Lutai Peony technique was lost. The family revolted in the late Sui Dynasty, and Emperor Yang's reactionary and decaying feudal rule was destroyed. The Imperial Garden was deserted due to war, and peonies on the terrace were destroyed along with it.
+(Li Baoguang)
+AI Translated   
+
+
+
+
+

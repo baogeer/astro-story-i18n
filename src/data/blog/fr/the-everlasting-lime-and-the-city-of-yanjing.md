@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-05 18:00:08
+title: "Le citron vert éternel et la ville de Yanjing"
+featured: false
+draft: false
+description: "Au printemps et à l'automne, Yan Wang a construit une ville pour se protéger des ennemis étrangers. En hiver, lors de la cuisson de l'eau, la marmite en fer brûlait et les pierres chaudes faisaient exploser de la cendre blanche. Il a découvert qu'elle était plus résistante que la boue, alors il a appris à brûler de la chaux. Plus tard, Qin Shi Huang a construit la Grande Muraille, a ordonné aux habitants de Yan de brûler les cendres, appelées «xa0Cendres de dix mille ansxa0», et a construit la ville pour abriter les Yan. Aujourd'hui, Pékin est connue sous le nom de Yanjing dans les temps anciens. L'histoire explique l'origine du citron vert et le nom de Yan Jing."
+---
+
+
+
+![AstroPaper I18n](/the-everlasting-lime-and-the-city-of-yanjing.png)
+
+
+
+
+ Tout le monde dit que c'était la première Grande Muraille de Chine construite par l'empereur Qin Shi Huang. En fait, il n'a pas construit la Grande Muraille au début. Bien avant Qin Shi Huang, pendant les Royaumes combattants du printemps et de l'automne, il y avait le roi Yan. Il avait une petite terre, peu de soldats et une force faible, et risquait d'être mangé par les pays voisins à tout moment. Afin de préserver la terre, le roi Yan a réquisitionné des personnes et a construit un haut mur au sommet de la montagne à la frontière de son pays pour empêcher les envahisseurs étrangers.
+Comme il n'y avait pas de chaux à l'époque, les murs de la ville, les pierres et les briques qu'il a construits étaient tous recouverts d'argile. Afin de gagner du temps et de réparer les murs de la ville le plus rapidement possible, il a ordonné que les travaux ne soient pas interrompus pendant l'hiver. Il faisait froid et il fallait utiliser de l'eau chaude dans la boue. Les agriculteurs ont donc transporté la grande marmite en fer jusqu'au chantier, l'ont soutenue avec trois pierres et ont ajouté du bois de chauffage pour faire bouillir l'eau. Au fil du temps, la marmite en fer a été brûlée avec un grand trou et toute l'eau de la marmite s'est échappéexa0; le feu sous la marmite s'est éteint. Cependant, les gens ont également découvert par accident que l'eau avait été aspergée sur la pierre de la marmite et que lorsque la pierre chaude a rencontré l'eau, elle a explosé et a fait exploser beaucoup de nouilles blanches. Les paysans regardaient et réfléchissaient, ce qui était très étrange. Certaines personnes ont mélangé cette surface blanche avec de l'eau et ont estimé qu'elle était plus hydratée et collante que la boue. Elles l'ont donc appliquée sur les crevasses des pierres et des briques.
+Le lendemain, les paysans ont découvert que les interstices de pierre et de brique recouverts d'une surface blanche étaient beaucoup plus solides que ceux recouverts d'argile. Les habitants de Yan ont été inspirés. Depuis lors, ils ont brûlé de la chaux pour nettoyer les interstices des murs de la ville.
+Plus tard, Qin Shi Huang a unifié la Chine et, afin de préserver son trône, il a également construit la Grande Muraille de Chine selon la méthode de Yan Wang. Lorsque la construction a commencé, il a donné l'ordre de laisser les habitants de Yan Guodian prendre en charge les travaux de combustion de la chaux. En conséquence, toutes les cendres utilisées pour construire la Grande Muraille à cette époque ont été brûlées par des habitants de Yan Guo. Partout où la Grande Muraille a été construite, des cendres ont été brûlées à flanc de colline et la qualité des cendres brûlées était très bonne. Les générations suivantes l'ont appelée cendre de dix mille ans, ce qui signifie qu'elle ne se détériorera pas avant dix mille ans.
+Après la réparation de la Grande Muraille, les autres villageois sont retournés à divers endroits. En raison du succès des habitants de Yan, Qin Shi Huang a également retiré de l'or et de l'argent et a construit une ville pour les habitants de Yanyuan. Cette ville s'appelle aujourd'hui Pékin. Par conséquent, à cette époque, Pékin s'appelait Yanjing, et les montagnes où les habitants de Yan utilisaient des pierres pour brûler des cendres étaient collectivement connues sous le nom de montagnes Yanshan.
+Traduit par IA   
+
+
+
+
+

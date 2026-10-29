@@ -1,0 +1,76 @@
+---
+pubDatetime: 2026-11-19 12:21:36
+title: "Dong Pingxuan y la caja de madera"
+featured: false
+draft: false
+description: "Una caja de madera excavada bajo una acacia en su ciudad natal, Dong Pingxuan, un funcionario del gobierno de Fuzhou, fue robada por unos huéspedes con cañas de bambú mientras era escoltado por los aldeanos. De repente, la caja de madera liberó una niebla oscura para reprimir al enemigo. Dong Pingxuan construyó una casa de bambú para recibir a la princesa. Inesperadamente, un huésped con cañas de bambú usó bambú hueco para robar a Ku Yin, lo que provocó que se preocupara y se volviera loco toda la noche. Más tarde, gracias a la inteligencia y la sabiduría, se resolvió el caso del banco hueco. He Shou Wu, escondido en una caja de madera durante miles de años, apareció para curar las canas y advertir a los funcionarios que se preocuparan por servir al pueblo y no por los deseos egoístas."
+---
+
+
+
+![AstroPaper I18n](/dong-pingxuan-and-the-wooden-box.png)
+
+
+
+
+ Dong Pingxuan, un funcionario del gobierno de Fuzhou, recibió una carta de su ciudad natal en la que decía que un rayo derribó un árbol de acacia frente a su antigua casa este año y lo quemó hasta convertirse en carbón negro. La gente del pueblo desenterró la pila de acacias y, de hecho, cavó una caja de madera debajo de la pila.
+Abrió la caja de madera y, de repente, apareció una sombra oscura y desapareció de repente. La gente del pueblo de mi ciudad natal envió a un hombre llamado A Niu e inmediatamente partió para enviar esta extraña caja a la provincia de Fuzhou.
+Un protector de carne salió a la carretera y caminó hasta Jiangkou. No fue hasta que subió al barco que vio con claridad que había unos diez pasajeros con cañas de bambú y sombreros sentados en el barco.
+Los ciclistas con bastones de bambú son alpinistas. Trabajan arduamente para llevar automóviles a la cima de la montaña para la gente. Sin embargo, debido a la popularidad desigual de los ciclistas con cañas de bambú, algunos infractores de la ley llevaban automóviles a la mitad de la ladera de la montaña para otros, poniendo deliberadamente a la gente boca abajo por los acantilados de la montaña, robándoles dinero y matando sus vidas. Posteriormente, el gobierno prohibió el negocio de los clientes con cañas de bambú.
+Cuando Ah Niu vio al visitante de la caña de bambú con una docena de pares de ojos, el ladrón miró el paquete que tenía en la espalda y vio que su corazón estaba furioso. No pudo salir cuando se fue; no tuvo más remedio que actuar con cuidado.
+Una vez que el barco aterrizó, Ah Niu desembarcó. Sin embargo, los jinetes con cañas de bambú también siguieron el trasero de Ah Niu. Siguieron este sendero hasta llegar a un bosque de bambú. Ah Niu caminaba rápido y lento, y todavía no podían deshacerse de esas personas. Ah Niu no tuvo más remedio que detenerse y decir: «Buen hombre, ¿por qué me sigues?»
+Un hombre barbudo miró a Ah Niu y dijo: «Si os conocéis, ¡dejad las cosas que lleváis en la espalda!»
+Ah Niu sostuvo el paquete con fuerza: «No lo uses. Esto es algo que la aldea de Huaijia envió al gobernador. Nunca debes tirarlo a la basura».
+En cuanto el cliente de la caña de bambú lo oyó, se la entregaron al gobierno. Debe haber sido un tesoro popular; más aún, tuvieron que llevarse este objeto.
+Agitó su caña de bambú y golpeó con fuerza la cabeza de Ah. Golpeó directamente a A Buey y sonrojó a Venus. Después de temblar un par de veces, falleció.
+Ruochu desenvolvió rápidamente el paquete con una caña de bambú. Al ver que se trataba de una pesada caja de madera, la abrió frente al cliente de la caña de bambú. Tan pronto como se abrió la caja de madera, hubo una nube de niebla. El humo ahogó los oídos y las narices de la gente. Pronto, ahumó a todos los clientes de cañas de bambú hasta los cimientos.
+Hasta que Ah Niu se despertó, el jinete de la caña de bambú seguía tirado en el suelo. Inconsciente, Ah Niu tenía miedo de entablar una demanda. Rápidamente empacó la caja y salió trotando lejos de donde estaba mal.
+Finalmente, justo antes del anochecer, Ah Niu llegó a la capital de la provincia, encontró un club nocturno para quedarse temporalmente y esperó hasta mañana para entregar la caja de madera a la oficina gubernamental.
+Cuando llegó a Tianming, Dong Pingxuan escuchó a alguien tocar la batería y criticarlo. Vio que era un hombre de piel oscura que llevaba una bolsa, y vio a Dong Pingxuan y no se arrodilló cuando vio a Dong Pingxuan.
+Luego, el gobierno cayó al suelo con un palo. Ah Niu, que alguna vez fue «poderoso», estaba tan asustado que sus piernas se ablandaron. Dong Ping preguntó: «Cuántas personas están arrodilladas debajo, tocando tambores y qué quejas hay».
+A Niu entró en pánico: «Los aldeanos son de la aldea de Huaijia. Se llaman A Niu. Solo le presentan una caja de madera al Sr. Dong».
+Dong Ping explicó en detalle lo que la gente del pueblo mencionó sobre la caja de madera. La caja rectangular de madera tenía un aspecto liso y no se grabó ningún otro objeto. Es solo que esta madera, no sé qué tipo de madera usar. Es pesado sostenerlo en su mano. Dong Pingxuan abrió la caja de madera y no había nada dentro.
+Como resultado, colocó esta caja de madera en su escritorio y la comparó todos los días, y todavía no podía ver lo extraña que era esta caja.
+Ah Niu se quedó y pasó el rato en la capital de la provincia. Lo que le sorprendió fue que la oficina del gobierno provincial estaba construyendo una casa de bambú. Los decoradores que utilizaban eran en realidad visitantes con cañas de bambú que venían con él.
+Ver entrar y salir al cliente de cañas de bambú, cargando a Mao Zhu con piernas gruesas, fue muy ocupado. Ah Niu pensó que era un poco extraño, así que habló con Dong Pingxuan sobre el cliente de la caña de bambú, pero a Dong Pingxuan no le importó.
+Esta vez, la renovación de la provincia de Fuzhou estaba planificada con antelación. A la princesa Huaiyu de la corte imperial le gustaban las aguas termales de Gushan, Fuzhou, por lo que quería tomarse unas breves vacaciones aquí. Además, dado que a Huaiyu le gustaban las casas de bambú, Dong Pingxuan pidió a la gente que construyera una casa de bambú puro en la oficina gubernamental.
+La casa de bambú de Dong Pingxuan se completó más de medio mes después.
+Cuando llegó el momento de pagar a los trabajadores de los pasajeros con cañas de bambú, Dong Pingxuan se enteró de que el dinero del tesoro del gobierno para reparar el terraplén tras la caída había desaparecido sin motivo alguno. ¿Qué tan bueno es esto? Esta vez, la princesa Huaiyu irá acompañada de un miembro suyo para inspeccionar Fuzhou. En este punto, hubo un gran error. Dong Pingxuan tenía prisa y no podía dormir toda la noche.
+Ese día, después de ver a Dong Pingxuan despertarse, Ah Niu tenía un rostro amargado y se sorprendió al dejar caer al suelo la palangana que tenía en la parte superior de su mano.
+Dong Ping estaba un poco disgustado. Ah Niu de repente señaló a Dong Ping y dijo: «Maestro, ¿por qué su cabello se puso blanco de la noche a la mañana?» Dong Ping escuchó el discurso de Ah Niu y rápidamente encontró un espejo de bronce. Dong Pingxuan en el espejo ciertamente tenía que tener el pelo blanco.
+Con canas, ¿cómo se convirtió Dong Pingxuan en funcionario?
+En ese momento, el dispositivo inteligente del templo Gushan Xinyuan vino a visitarlo. Al ver a Dong Pingxuan, el dispositivo inteligente también se sorprendió y sacudió la cabeza: «El Sr. Dong tenía un desequilibrio mental. Se hundió a mil millas de distancia, como hormigas que derrumban el terraplén, haciendo que la gente se convirtiera en polvo». Dijo que Dong Pingxuan se tomaba esta posición oficial demasiado en serio y temía que un accidente arruinara su futuro. Afecta al hígado y los pulmones, y la cepa daña la raíz del cabello, por lo que el cabello es completamente blanco.
+Dong Pingxuan se burló de sí mismo: «Según las palabras del Maestro, la calva de Dong es invaluable». Así que hablaré de mis preocupaciones una por una.
+Dong Pingxuan acompañó a Zhi Ji a la casa de bambú recién terminada. Zhi Ji suspiró: «Lo que usó el Sr. Dong fue el bambú liso más duro y grueso. Al ver que este lote de bambú acabado es bambú viejo, es un producto excelente. Cuanto más envejece el bambú Hiratake, más fácil es que el cuerpo del bambú se ahuece con el tiempo. Aunque es un bambú hueco, aún resiste el viento y la lluvia en sus huesos, lo cual es una característica del bambú Hiratake».
+Mientras Ah Niu escuchaba el incidente del bambú, de repente apareció una frase: «Amigo, cuando se estaba construyendo la casa de bambú, la banda de cañas de bambú llevaba bambú dentro y fuera. Me pareció extraño. ¿Quizás transportaban bambú hueco y hacían algún negocio ilegal?»
+Los comentarios de Ah Niu hicieron que Dong Pingxuan se relajara. Recuerda que la casa de bambú estaba muy cerca de la tesorería y que la tesorería con la llave de plata no se perdió, pero dijo que una vez tomó una taza con un cliente barbudo de una caña de bambú y que estaba un poco borracho. ¿No es que una persona con una caña de bambú imprimió secretamente la llave de Fuku en un patrón y luego la combinó con otra?
+Si tienes una llave de tesorería, robar no es difícil para un cliente con cañas de bambú.
+Pero, ¿cómo van a vender la plata robada? Dong Pingxuan miró el grueso bambú hueco que tenía delante de sus piernas y no pudo evitar darle una palmadita en el muslo.
+Dong Ping anunció que había ordenado inmediatamente a los seis principales funcionarios del gobierno que se hicieran cargo y trajeran a un funcionario del gobierno para perseguir a la banda que primero construyó casas de bambú.
+En menos de tres días, la patrulla acuática y terrestre capturó rápidamente y la ruta terrestre resultó inútil, mientras que la patrulla acuática interceptó un barco lleno de bambú y estaba a punto de zarpar hacia la zona del río Hanjiang.
+Este lote de Pingwu Maozhu, que fue transportado de regreso a la provincia de Fuzhou, llenó el espacio abierto frente a la casa de bambú. Dong Pingxuan le pidió a Mao Zhujiao que cortara el bambú en público. Efectivamente, Ku Yin se quedó honestamente en la cueva hueca de bambú. Fue una bendición. Dong Pingxuan miró a Ku Yin, que había perdido y se había recuperado, y tenía sentimientos encontrados.
+Si no hubiera sido por su propio deseo de complacer a la princesa Huaiyu al construir una casa de bambú, no habría atraído visitantes con cañas de bambú, Ku Yin no habría sido robado y Dong Ping no se habría vuelto blanco de la noche a la mañana.
+Al interrogar al grupo de ladrones que robaban el tesoro, los ladrones dijeron: «Si el gobierno no prohíbe los negocios de los clientes con cañas de bambú, no esperaré más para robar el tesoro. Solo tomaremos represalias contra el gobierno por no pensar en los medios de vida de las personas».
+Realmente tiene sentido. Si no fuera por el uso reiterado de cañas de bambú para buscar dinero y morir, ¿cómo podría el gobierno prohibirlo por la fuerza? En realidad, es un anillo a la vez.
+El caso del tesoro estaba cerrado, pero las canas de Dong Pingxuan eran realmente molestas.
+Ese día, Dong Pingxuan le pidió a A Niu que lo acompañara al templo Xinyuan en Gushan con una caja de madera. En aquella época, una vieja acacia florecía en Hupao Spring, en Gushan.
+Primero, Dong Pingxuan quería dar las gracias al dispositivo inteligente. Después de todo, fue la diabolomía del teléfono inteligente lo que hizo que Dong Ping resolviera el caso; en segundo lugar, Dong Pingxuan sostenía una caja de madera y quería que el inteligente inteligente le echara un vistazo.
+El smartphone se llevó la funda de madera. Después de detallar los lados izquierdo y derecho, preguntaron dónde encontrar esta caja y Ah Niu respondió por Dong Pingxuan.
+El teléfono inteligente asintió y dijo: «La vieja planta de acacia está muerta. Las raíces de la acacia se han podrido y no puedo proteger esta caja. Afortunadamente, fue desenterrado de manera oportuna. Si desentierro la pila de acacias después de otros tres o cinco años, me temo que esta caja esconderá un metro».
+Dong Pingxuan estaba confundido y se rió: «Sr. Dong, parece que tiene canas. Está salvado».
+Ah Niu estaba perplejo: «¿Está hablando el maestro de esta caja de madera vacía?»
+El teléfono inteligente se rió: «Esta caja no está vacía; es solo la criatura que está dentro. Está al acecho en alguna parte durante un tiempo». Las palabras del teléfono inteligente eran desconcertantes, pero también dijo: «Parece que esta noche, bajo una vieja acacia, debes ver y entender».
+El teléfono inteligente colocó la caja de madera debajo de las raíces de acacia levantadas en el suelo. Esa noche, cuando salió la luna, el aroma de la acacia cayó sobre la caja de madera. El teléfono inteligente sostenía una pinza para la ropa y abría cómodamente la caja de madera. Dentro de la caja rectangular, de repente vi un objeto vacío acostado. El teléfono inteligente ató resueltamente la cosa con un alfiler en su mano. El teléfono inteligente aplaudió y aplaudió, lo que llevó a Dong Pingxuan a mirarlo. Dong Pingxuan se agachó. Vi algo feo. No sabía qué era.
+La inteligencia inteligente admiró la flor del árbol de acacia a la luz de la luna y le dijo a Dong Pingxuan: «¡Este escándalo tiene mil años!»
+Posteriormente, la sabiduría desentrañó el misterio: los antiguos llamaban «acacia» al fantasma del árbol porque el árbol de acacia era el fantasma del árbol y era fácil cambiar vidas debido a su poderoso demonio.
+Algunos maestros del Feng Shui escriben artículos sobre la acacia y entierran un poco de boj debajo de las acacias para crear el Feng Shui. La más común es una caja hecha de esta madera oscura, en la que hay que esconder un árbol con forma de muñeca.
+En cuanto a la madera oscura, si está enterrada en el suelo, se hundirá año tras año hasta el centro de la tierra. Si quieres cavarla, no puedes, pero la madera oscura solo está limitada por la madera de acacia. Solo las raíces vivas de la madera de acacia pueden cerrar de forma segura la caja de madera oscura bajo tierra, haciendo imposible que se hunda.
+Sin embargo, Ho Shou Wu en esta caja es viejo y en realidad es psíquico. De hecho, no escapó; de hecho, se hizo invisible. Estaba escondida en la caja, lo que la convertía en una barrera para la vista. Solo al colocar esta caja debajo de la acacia, el aroma de la acacia la hizo aparecer. Ahora, con una pinza para la ropa atada, ni siquiera puede ser invisible.
+«Maestro Dong, He Shou Wu es una cura para el cabello que se ha vuelto blanco durante miles de años. Solo espero que el Sr. Dong vuelva a tener canas la próxima vez, no empiece por una adicción al gobierno; espero que haya nacido para orar por la gente».
+Dong Pingxuan estaba tan avergonzado que no pudo evitar ser autosuficiente.
+Traducido por IA   
+
+
+
+
+

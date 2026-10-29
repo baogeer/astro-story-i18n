@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-09 12:41:43
+title: "The Yellow Millet Dream of Lu Dongbin, One of the Eight Immortals"
+featured: false
+draft: false
+description: "At the age of 64, Lu Dongbin lost his career and met Zhong Leequon at a Chang'an liquor store. When Zhong Liquan cooked Huangliang Rice, Lu Dongbin fell into a dream and experienced 50 years of prosperity, wealth, decline, and exile. When he woke up, the food wasn't ready yet, he felt that life was impermanent, so he decided to practice the path. After ten tests, I was given a secret, and began my career in Xianyou. The story shows that wealth is like a dream; there is no need to be happy or worried about gains and losses."
+---
+
+
+
+![AstroPaper I18n](/the-yellow-millet-dream-of-lu-dongbin-one-of-the-eight-immortals.png)
+
+
+
+
+ Among the Eight Immortals, there are the most legends and the most famous, so I should recommend Lu Dongbin first. Historically, there was a person named Lu Dongbin. His last name was Lu, the character Boyu, also known as Shaoxian; after leaving home, he changed his name to Yan, the character Dongbin, and his name was Chun Yangzi. He is from Chengle County (present-day Yongle County, Shanxi) in the Kansai region of the late Tang Dynasty. Most of the stories about him are from legends. Legend has it that he was smart since childhood, but his career didn't go well. He didn't have the best of two steps. He has reached the age of 64. I met Zhong Liquan at a restaurant in Chang'an. I saw three of his poems on the wall and asked his name to express my admiration. Zhong Liquan was unkind. He immediately asked him to write a poem. Lu Dongbin wrote a poem on the wall: “Born to meet Taiping in Confucianism, he chose to wear a cloth with a bow. Who can fight for fame and fortune in the world if they want to win the emperor.”
+Zhong Liquan advised him to leave home early. Lu Dongbin was in no hurry to persuade him; he only said he needed to cook a full meal of yellow rice to eat. While Zhong Liquan was burning the fire to cook, Lu Dongbin fell asleep. At this point, he had a dream. He went to Beijing with his own children. He became the champion and first place, and began an idle job at the Hanlin Institute. After that, they rose step by step, and married wives and concubines; they were all famous girls from rich families. With two years left, my son grew up and got married. Suddenly, my children and great-grandchildren were around the corner, and the door was full of books. This was the case for 40 years, then the emperor reused it. He remained alone for ten years. He was so powerful that he was unrivaled. Rong Ji was defeated, his felony was confiscated, his family wealth was scattered, his wife went into exile, and he was left alone. In the midst of the wind and snow, all his feelings were mixed. Only then did he sigh for a long time. Suddenly, he woke up violently, and was not yet ready to cook. I saw Mr. Zhong Liquan's smile and elicited two poems: “Huangliang is unripe; I dreamed of flowers.” Lu Dongbin asked, “Do you know what kind of dream I had, sir?” Zhong Liquan laughed and said, “Your dream came in all shapes and forms, with many ups and downs. It was a collection of 50 years of sorrow, joy, and a moment. Therefore, it can be said that the gain was not happy; what was the cause of the loss of concern. What's more, if you're happy, then you have to be very worried.” When Lu Dongbin heard this statement, he was unaware of it, so he asked Mr. Zhong Liquan for a way to get by. Zhong Liquan set up ten difficult hurdles to test his sincerity; he broke through all of them. Zhong Li Quan then quoted him as saying Dao Heling and taught him the secret of becoming an immortal. Since then, a real Fire Dragon has taught sword fighting, and since then the Fairy Journey campaign has begun.
+AI Translated   
+
+
+
+
+

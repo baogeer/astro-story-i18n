@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-10 09:35:11
+title: "La historia de Han Xiangzi de los ocho inmortales"
+featured: false
+draft: false
+description: "Han Xiang Zi es el sobrino de Han Yu. No le gusta leer, pero se le da bien beber y es feliz. Veinte años después de su desaparición, apareció cuando Han Yu estaba siendo humillado. En pleno invierno, la peonía cambió de color como él quería, consolando a su decepcionado tío. Tras la muerte de Han Yu, tuvo varias idas y venidas, y Lu Dongbin lo alistó en los Ocho Inmortales por su fama, su dominio de los ritmos musicales y su habilidad para hacer magia de cerca. La historia sugiere que cada persona tiene puntos fuertes y habilidades, y puede convertirse en inmortal."
+---
+
+
+
+![AstroPaper I18n](/the-story-of-han-xiangzi-of-the-eight-immortals.png)
+
+
+
+
+ Han Xiangzi siguió las ideas de reclutamiento de personas como Li Yuan, y la preselección de Han Xiangzi fue bastante inesperada.
+Han Xiangzi, originario de la dinastía Tang, sobrino del camarada Han Yu, un famoso escritor de la dinastía Tang. A Han Xiang Zi no le gustaba leer. Tenía buenos amigos cuando era joven. Estaba muy interesado en aprender, tenía buenas reglas de sonido y estudiaba todo tipo de instrumentos. Le gustaba especialmente silbar. Han Yu estaba solo. Fue criado por su hermano y su hermana, por lo que consideraron que Han Xiangzi había salido y lo había cultivado cuidadosamente, por lo que, aunque a Han Xiang Zi no le gustaba leer, gracias a la operación de Han Yu, Han Yu hizo las paces con Li Cheng (de Liupin). Se convirtió en el pionero del movimiento literario antiguo por el que abogaba.
+Sin embargo, el joven Han Xiangzi desapareció una vez durante un viaje a Luoxia. Se convirtió en un misterio si regresó a las montañas y los bosques o si fue víctima de personas fuertes. El secreto no se reveló hasta 20 años después. Han Yu fue relegado a la historia de Chaozhou, y su carrera llegó al final de su vida. En este punto, Han Xiangzi visitó a su decepcionado anciano. Cuando conoció a su tío y a su sobrino, Han Yu se llenó de alegría y lloró. Esta fue otra sorpresa en su decepcionante vida. Escribió la famosa canción «Zuo se mudó al sobrino de Lan Guan Shi, Sun Xiang».
+Tras la sorpresa, Han Yu descubrió que su querido sobrino se había convertido en un vagabundo intransigente, sin escrúpulos, adicto al alcohol y le encantaba jugar. «Xiang Zi, todavía eres muy joven. Debes tener un plan para tu vida; no debes tener ninguna fortaleza». «¡Tío, aún no conoces a mi jefe!» «¿Qué?» «¡Magia de cerca!» Han Yu sacudió la cabeza. A esta edad, nunca había escuchado este término. «Tío, lo creas o no, puedo hacer que las peonías de esta maceta florezcan mañana, del color que quieras que sean». Han Yu volvió a sacudir la cabeza. Fue en pleno invierno. ¿Cómo podrían florecer las flores de peonía en este momento? Después de haber estado deambulando durante tantos años, mi sobrino tiene un problema cerebral.
+Al día siguiente, las flores de peonía en la casa de Han Yu realmente florecieron, y durante los siguientes siete días, Han Xiang Zi cambió el color al color que Han Yu quisiera. Han Yu está convencido de que durante los últimos 20 años, los viajes de su sobrino no han sido en vano. Han Xiang Zi llegó con su asombrosa y extraña magia, aportando un toque de consuelo al final de la vida de Han Wengong, cuando se sintió decepcionado por sus últimos años. Tras la muerte de Han Yu, Han Xiangzi continuó deambulando por ríos y lagos, y más tarde conoció a Lu Dongbin. Lu Dongbin cree que Han Xiangzi es un grupo cultural e industrial poco común. Tiene un alto nivel de conocimientos, es bueno tocando instrumentos musicales y tiene una habilidad perfecta para la magia de cerca, lo que lo convierte en la pareja perfecta para Lan Cai y su pareja, lo que garantiza la gala del Festival de Primavera todos los años. Sin mucha discusión con los otros Cinco Inmortales, Lu Dongbin decidió reclutar a Han Xiang Zi para que se uniera a la banda.
+Traducido por IA   
+
+
+
+
+

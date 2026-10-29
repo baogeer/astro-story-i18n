@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-24 00:47:15
+title: "La légende du festival de la torche Yi dans la forêt de pierres"
+featured: false
+draft: false
+description: "Afin de lutter contre la tyrannie du dieu noir du pain grillé, Zaka, un berger de l'ethnie Yi, a affamé des moutons pendant sept jours, attaché des torches à leurs croissants et a profité de la nuit pour conduire des moutons afin d'assiéger la ville. Finalement, ils ont utilisé des flammes pour brûler le pain grillé qui s'était réfugié dans la grotte. Pour commémorer cette victoire, le peuple Yi a désigné le 24 juin comme la Fête du feu."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-yi-torch-festival-in-the-stone-forest.png)
+
+
+
+
+ Chaque année, le 24 juin du calendrier lunaire, c'est la fête traditionnelle du peuple Yi, la fête de la torche.
+À la tombée de la nuit, de Stone Forest à Dieshui, du mont Gui à Changhu, d'innombrables torches illuminent le ciel nocturne et illuminent les sourires des gens. Le chant passionné se mêle au son majestueux des trois grandes cordes, et le chalet est plongé dans la joie de la fête...
+Il existe une légende tellement magique et émouvante à propos du «xa0Torch Festivalxa0».
+Dans les temps anciens, sur une haute montagne, il y avait un château. Il y avait un guerrier dans le château. Il avait des yeux de souris, des sourcils en balai et un bec de maquereau. Avec son menton pointu, son visage mince était couvert de boutons noirs. Les gens l'appelaient le surnom de «xa0Black Devilxa0». Ce démon noir n'a rien fait de mal. Ses subordonnés ont soutenu un grand groupe de familles et de voyous, et ont impitoyablement dirigé et opprimé le peuple Yi. Il s'est fait un nom intelligent. Il a dû payer des impôts quand il était enfantxa0; s'il montait la montagne pour chasser, il devait collecter des dons de poisson... Toutes sortes d'impôts exorbitants ont vraiment mis les gens à bout de souffle. Il a organisé de nombreux soulèvements pour résister au règne cruel du diable noir, mais le fort château de Toast était difficile à démolir et de nombreuses personnes ont été capturées et tuées vivantes.
+Un berger intelligent et compétent, qui s'appelle Zaka, a trouvé un moyen de déjouer Toast Castle. Il a secrètement mis en relation des personnes pauvres de 99 villages et a décidé d'élever les moutons de tous les ménages dans des écuries à partir du 17 juin, de ne leur donner que de l'eau par jour, sans leur donner de fourrage, et de mourir de faim pendant sept jours et sept nuits. Les rebelles se sont empressés de construire des panneaux de signalisation pour les navettes la nuit, ont aiguisé des bâtons de bambou, des machettes et des haches, et ont attaché des torches à chaque corne de chèvre. Tout le monde a accepté de se révolter dans la nuit du 24 juin. Cette nuit-là, alors que la lune n'était pas encore apparue et que la brise soufflait doucement dans la forêt verdoyante, je n'ai entendu que le son d'un long cri de cornes, utilisant la première «xa0mère aux flambeauxxa0». À ce stade, divers rebelles ont immédiatement ouvert la porte de l'étable à moutons, allumé des dizaines de millions de torches attachées aux cornes et poussé le troupeau à attaquer le château du diable noir de Toast.
+L'incalculable troupeau avait déjà assez faim, alors ils ont gravi la montagne pour manger les feuilles, l'herbe verte et l'herbe, à la lumière du feu. Zaka a dirigé le peuple lors du soulèvement et s'est battu courageusement. J'étais presque au château, et les tambours et les cris étaient bouleversants. Black Magus est monté précipitamment au château et a vu que toute la montagne était devenue une mer de feu. Les gens qui entouraient le château de tous côtés avaient déjà commencé à attaquer la porte de la ville. Alors que Black Demon ordonnait à sa famille et à des voyous de garder la porte de la ville, il a pénétré discrètement dans la grotte lui-même et s'est préparé à s'échapper. À ce stade, diverses forces insurrectionnelles avaient déjà percé le château et les abeilles y affluaient. J'ai cherché partout, mais je n'ai pas vu le dieu noir du pain grillé. Plus tard, Zaka a arrêté la femme de ménage pour l'interroger. Craignant la mort, la femme de ménage s'est agenouillée et a demandé pardon, et a immédiatement conduit Zaka à la grotte où se cachait le toast.
+Zaka a ensuite dit au grand majordome de descendre dans la grotte et de demander à Black Demon de se rendre. Ce grand majordome, qui se fait habituellement passer pour un tigre, était tellement effrayé qu'il avait peur de descendre dans la grotte. Tout à coup, je suis tombée au sol et je n'ai pas pu grimper. La foule regardait dehors. Soudain, un poignard a volé hors de la grotte et une lumière froide l'a traversé, projetant le poignard au sol. Il s'avère que Zaka était sur ses gardes depuis longtemps. Il s'attendait à ce que Dark Magus ne se rende pas facilement et lutterait jusqu'à la mort, alors dès que le poignard de la grotte locale s'est envolé, Zaka a eu les yeux vifs et a agité une machette, et a abattu le poignardxa0!
+Lorsque Zaka et la foule ont vu que Black Demon ne pouvait pas mourir, ils ont décidé de le brûler vif avec une torche. En conséquence, en vertu d'un ordre, des dizaines de millions de torches ont immédiatement entassé la zone autour de la grotte pour en faire une colline. J'ai vu que le feu qui faisait rage brûlait encore plus vigoureusement. En un instant, le sol était également devenu rouge. Le méchant dieu du pain grillé a été enterré dans les torches. Pour commémorer la victoire dans cette lutte contre la tyrannie, le 24 juin est prévu le «xa0Festival de la Torchexa0».
+Traduit par IA   
+
+
+
+
+

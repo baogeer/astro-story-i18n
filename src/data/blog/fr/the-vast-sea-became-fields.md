@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-22 11:02:15
+title: "La vaste mer est devenue un champ"
+featured: false
+draft: false
+description: "La légende raconte que les montagnes de l'Himalaya étaient à l'origine une mer. Cinq dragons venimeux sont en danger et tous les êtres vivants sont en danger. Cinq fées ont conquis le dragon, transformant l'eau de mer en un bon champ forestier et se transformant en cinq sommets principaux pour protéger un sol fertile. Le leader était le mont Everest. L'histoire utilise la mythologie pour expliquer les changements spectaculaires survenus dans le paysage de Sangtian à Changhai."
+---
+
+
+
+![AstroPaper I18n](/the-vast-sea-became-fields.png)
+
+
+
+
+ Parmi les contes populaires tibétains largement répandus, il existe une légende sur l'Himalayaxa0: «xa0Il y a longtemps, c'était un océan infini. Les vagues ont enroulé les vagues et ont frappé la côte recouverte de pins, de cyprès, de pruches et de palmiers, faisant un bruit fort. Au-dessus de la forêt, il y a des montagnes couvertes de verdure et de nuagesxa0; la forêt regorge de fleurs et de plantes étranges, et des groupes de cerfs zèbres et d'antilopes courentxa0; des groupes de trois ou cinq rhinocéros marchent tranquillement et boivent de l'eau au bord du lacxa0; des coucous, des grives et des alouettes sautent tranquillement autour de la cime des arbres pour chanter de belles chansonsxa0; les lapins courent sans soucis dans la prairie verdoyante et luxuriante... Quelle image attrayante, paisible et stablexa0! Un jour, un dragon venimeux géant à cinq têtes est soudainement apparu dans la mer, a détruit la forêt, provoqué des milliers de vagues et détruit des fleurs et des arbres. Les oiseaux et les animaux qui vivent ici anticipent tous l'imminence d'une catastrophe. Ils ont sauté vers l'est, la forêt est tombée et l'herbe a été inondéexa0; ils ont surgi vers l'ouest, et il y a eu aussi de fortes vagues du côté ouest, ne laissant personne à bout de souffle. Juste au moment où les oiseaux et les animaux n'avaient aucun moyen d'aller, cinq nuages colorés ont soudainement flotté au-dessus de la mer et sont devenus cinq porte-avions intelligents. Ils ont atteint le bord de mer, ont exercé un mana sans fin et se sont rendus aux Cinq Dragons empoisonnés. Les démons ont été vaincus et la mer est calme et tranquille. Les cerfs, les gnous, les singes, les lapins et les oiseaux qui vivent ici adorent les fées et les remercient d'avoir sauvé des vies. Zongxing voulait démissionner et retourner à la Cour céleste. Comment tous les êtres vivants pourraient-ils exiger minutieusement qu'ils restent ici pour le bien de tous les êtres vivants. En conséquence, les Cinq Fées ont fait preuve de compassion et ont accepté de rester et de partager cette journée de paix avec tous les êtres. Les cinq fées ont fait reculer la mer, de sorte que le côté est est devenu une forêt dense, le côté ouest comptait 10 000 hectares de bons champs, le côté sud était un jardin fleuri et le côté nord était un ranch sans fin. Ces cinq fées sont devenues les cinq principaux sommets de l'Himalaya, à savoirxa0: Xiang Shou Fairy Peak, Cui Yan Fairy Peak, Zhenhui Fairy Peak, Guan Yong Fairy Peak et Shi Ren Fairy Peak. Ils se tiennent à la limite sud-ouest et protègent ce paradis heureuxxa0; le pic des fées de Cuiyan, qui est dirigé par celui-ci, est le mont Everest. C'est le plus haut sommet du monde aujourd'hui. La population locale l'appelle affectueusement «xa0Goddess Peakxa0».
+Remarquexa0: La transformation du plateau tibétain en mer est prouvée par de plus en plus de recherches et de découvertes scientifiques. Cependant, le plateau ne s'est pas formé du jour au lendemainxa0; il a évolué assez lentement. Ce ne sont que les changements survenus dans la croûte terrestre au cours des derniers millions d'années qui ont provoqué une forte augmentation du soulèvement de la source haute. Les mesures prises ces dernières années sur le mont Everest, le principal sommet de l'Himalaya, ont montré que le plateau continue de s'élever. Ce taux de hausse est étonnant dans l'histoire du sauvetage de la Terre, mais il n'a augmenté que de 1 ou 2 centimètres en un an seulement.
+Traduit par IA   
+
+
+
+
+

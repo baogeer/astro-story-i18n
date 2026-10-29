@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-07 16:52:49
+title: "Meng Jiangnu y la abuela terrestre"
+featured: false
+draft: false
+description: "Lady Meng Jiang lloró porque la Gran Muralla había encontrado a su marido. Estaba agobiada por cargas pesadas. Se sintió más ligera en la espalda cuando su suegra le dio instrucciones. El suegro de la tierra la culpó por haberle quitado a Wan Xiliang la oportunidad de volver al sol. Tras la disputa entre la suegra por la tierra, la parte que se inundó se convirtió en la isla de Taiwán. Desde entonces, el señor terrateniente ha utilizado el templo terrestre del continente, y Taiwán ha suministrado tierras a la terrateniente. Reveló el origen de las diferencias en el culto a los dioses terrestres entre los dos lados del Estrecho."
+---
+
+
+
+![AstroPaper I18n](/meng-jiangnu-and-the-earth-granny.png)
+
+
+
+
+ La mujer Meng Jiang buscó a su esposo a miles de kilómetros y encontró la Gran Muralla China. Escuchó que su esposo Wan Xiliang murió al pie de la Gran Muralla. Lloró de forma tan oscura. Su llanto hizo temblar la Gran Muralla, dejando al descubierto un montón de huesos blancos. Las decenas de miles de trabajadores que murieron en la construcción de la Gran Muralla quedaron todos enterrados en la Gran Muralla.
+Lady Meng Jiang lloraba mientras buscaba el cadáver de su marido. Un hueso blanco es como una montaña; ¿qué pasa con ese hueso de alegría? Cavó de este a oeste, y le sangraron todos los dedos. La sangre goteaba sobre sus huesos blancos y se deslizaba por la tierra. Siguió cavando. Cuando desenterró un montón de huesos, su sangre se coaguló como una flor de ciruelo roja en sus huesos. Meng Jiang pensó: Si el esposo y la esposa están conectados, debe ser mi esposo. Juntó los huesos y los juntó, como un camino óseo humano. La mujer Meng Jiang envolvió sus huesos en una bolsa, la sostuvo frente a su pecho y dijo: «¡Feliz! ¡Estoy encantada! La pareja finalmente se ha reunido, ¡así que vamos a casa conmigo!» Las lágrimas corrían por el equipaje y los huesos del equipaje parecían llorar.
+Lady Meng Jiang lloró todo el rato mientras cargaba su equipaje; solo sentía que la carga se hacía más pesada. Camina de verdad y no te muevas. Siéntese a un lado de la carretera y descanse los pies. En ese momento, un par de ancianos y ancianas se pusieron delante de ellos. La anciana se acercó a Meng Jiang Nu con preocupación y le preguntó: «Esta hermana mayor, al ver que la cara de Nong está blanca, amarilla y sudorosa, ¿se pondrá enferma (sin boca)?» La señora Meng Jiang respondió: «No tiene nada de malo; mi carga es demasiado pesada y es muy difícil de soportar». La anciana se rió y dijo: «Este bento es fácil siempre que lo lleves en la espalda». Lady Meng Jiang lo intentó. Efectivamente, era mucho más ligero. Salió corriendo a la carretera con su equipaje. Le dio las gracias de verdad a su abuela.
+Cuando Meng Jiang Nu llegó lejos, el anciano se quejó a la anciana: «Eres tan inmoral. Has roto con vida a una pareja amorosa. Originalmente, las lágrimas de Meng Jiang penetraron los huesos de Wan Xiliang, para que pudiera regresar al sol como humana. Ahora que está boca arriba, sus lágrimas no se filtran, ¿cómo puede vivir?»
+La anciana hizo un puchero y dijo: «Nuestros suegros son responsables de cuidar a los espíritus salvajes y los fantasmas salvajes. Tan pronto como Wan Xiliang regresa al sol, todos siguen el ejemplo de las personas y las siguen. No arreglemos las cosas cuando hay errores entre el yin y el yang». Duke Di dijo: «Para ser un fantasma, debes tener la virtud de haber nacido bien. Lady Meng Jiang es una mujer pobre en el mundo. ¿No tienes miedo de perder tu fortuna?»
+Los dos siempre discutían. La abuela Teru estaba tan enojada que podía hablar. Se sacó una horquilla de jade de la cabeza y abrió una zanja profunda. La tierra bajo los pies de la abuela se fue alejando lentamente hasta llegar al mar, que ahora es la isla de Taiwán.
+Desde entonces, ha sido el señor de la tierra quien ha proporcionado tierras al continente. El templo terrestre de Taiwán es solo para la abuela de la Tierra.
+Traducido por IA   
+
+
+
+
+

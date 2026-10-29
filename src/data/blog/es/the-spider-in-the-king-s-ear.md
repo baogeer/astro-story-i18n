@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-22 12:09:53
+title: "La araña en el oído del rey"
+featured: false
+draft: false
+description: "El adolescente pudo entender el lenguaje de las aves después de comer kiwi. De la conversación entre el cuervo y la urraca, me enteré de que el dolor de oído del rey se debía a una araña que se le clavaba en la oreja. Siguió el sonido de un pájaro y de unos tambores para sacar a las arañas del depósito de agua, curó al rey, recibió recompensas y regresó a su casa, satirizó al lama que defraudaba dinero y elogió la sabiduría popular de los jóvenes que confiaban en la sabiduría para hacer el bien."
+---
+
+
+
+![AstroPaper I18n](/the-spider-in-the-king-s-ear.png)
+
+
+
+
+ Una madre y su hijo viven en el valle. Sus vidas dependen completamente de que su hijo venda leña. Un día, el adolescente se cansó de cortar leña y se tumbó en una piedra para descansar. Levantó la vista y vio un árbol en el que colgaba una fruta que nunca había visto antes. El adolescente se la quitó y se la comió. Solo sintió una pizca de dulzura y fragancia en la boca, y pronto se durmió.
+Cuando se despertó, oyó a dos personas hablando en el árbol. Uno tiene una voz aguda y el otro tiene una voz muda. Dijo en voz alta: «¡Zaka! ¡Zaka! ¡Amigo, mucho tiempo sin verte!» Con voz muda, dijo: «¡A nuestro rey le duelen los oídos, toca! Se ha invitado a muchos lamas a leer los sutras, ¡qué bien! Tiraron un montón de «cuchillos» al tejado, ¡a por todos lados! Tenemos una fiesta todos los días, ¿no?» En voz alta, volvió a decir: «¡Zaka! ¡Zaka! ¿El rey está mejorando? ¡Zaka!» Sonrió con voz apagada y dijo: «¡Estos lamas son todos grandes cubos de arroz, gruñe! Solo engaña al rey. ¡Cómo sabes cómo curar enfermedades, boo boo! En realidad, al rey no le dolía el oído; ¡se le cayó encima una araña gigante que gruñía! Mientras estés al lado del rey, coloca un tanque de agua grande y golpea ligeramente el tambor. Cuando la araña oiga el sonido del tambor y piense que es un trueno primaveral, saldrá arrastrándose; cuando vea el tanque de cobre, tenderá un alambre y atará la red. En este punto, mientras la seda de araña esté cortada, al rey no le dolerán las orejas. ¡Golpea! ¡Vamos!»
+El adolescente se sentía muy extraño. ¿Cómo podían estas dos personas pararse en un árbol y hablar? Abrí los ojos y vi que no había nadie en el árbol. Solo había una urraca de flores y un cuervo negro. Los dos tuvieron una conversación muy feliz. El adolescente pensó: «¿Puedo entender al pájaro después de comer esa fruta? De todos modos, ¿voy a ir a la ciudad para ver si la historia del cuervo es real o falsa?
+El adolescente llegó a casa y le dijo a su madre: «Abuela, quiero visitar la ciudad mañana». La abuela le dijo: «Niño, si no cortas leña para un día, no tenemos pepinillos para un día. ¿Por qué corres a la ciudad?» El adolescente dijo: «Abuela, no te enfades, ¡lo sabrás cuando regrese!»
+Al día siguiente, se levantó temprano y corrió a la ciudad con dos palillos. A mitad de camino, vi al hombre que estaba delante de mí montado en una mula y un poni pequeño en la parte trasera. Un pequeño poni corre por la ciudad: «¡Abuela, abuela, espérame!» La mula y el caballo también dijeron mientras corrían: «¡Pequeño poni! ¡Ven solo! Había un clavo de hierro en la silla. Le dolió mucho a la abuela. Quiero volver a casa rápidamente». El joven detuvo al jinete y le contó lo que había oído; el jinete comenzó a no creer, se bajó del caballo y levantó la silla. Efectivamente, había un clavo de hierro. El adolescente también está muy feliz porque puede entender no solo a las aves sino también a los animales.
+Tras entrar en la ciudad, el niño se dirigió directamente al lugar de residencia del rey. Cuando vio que la puerta del palacio estaba bien cerrada, la golpeó con fuerza. Pasó mucho tiempo antes de que la puerta de hierro abriera un espacio del ancho de un dedo. El samurái gritó por dentro: «El rey está gravemente enfermo hoy y nadie abrirá la puerta». El joven dijo: «¡Tío, déjame ver la enfermedad del rey! No mires lo joven que soy; ¡tal vez pueda curar al rey!»
+El samurái llevó al adolescente a la cama del hospital del rey. Observó el estado del rey; de hecho, era exactamente de lo que estaba hablando el cuervo. Luego ordenó a la criada que instalara el tanque de agua y tocara el tambor. Después de menos de una taza de té, una gran araña roja salió de la oreja del rey. La adolescente se quitó la seda de araña, puso un poco de ghee en la oreja del rey y la rellenó con un poco de lana. El rey inmediatamente se sintió completamente a gusto y se curó por completo. Estaba muy feliz de decir: «Chico, estás cortando leña en lo profundo de las montañas. ¿Por qué sabías que el rey tenía dolor de oído? ¿Por qué sabes que tengo una araña gigante en la oreja? ¿Dónde aprendiste a atraer arañas?»
+El adolescente pensó: si el cuervo lo dijera, el rey definitivamente no lo creería. Dijo: «Cuando estaba cortando leña en las montañas, me lo dijeron dos hermosas hadas». El rey estaba aún más feliz y le dio mucho oro, plata, telas, carne de res y ovejas.
+El joven regresó a su casa y entregó todas las recompensas del rey a su abuela. Al mismo tiempo, relató la historia del tratamiento de la enfermedad del rey. La abuela se quejó: «Chico, esto es bueno, ¿por qué me lo escondes?» La adolescente dijo: «Abuela, ¿no siempre dices que tienes que hacer las cosas bien? Ayer, no sabía si el cuervo no era inteligente».
+Narración: Yongzhu Zhuoma, del Comité Shigatse de la Conferencia Consultiva Política del Pueblo Chino
+Acta del 10 de julio de 1979
+Clasificado en 1981/1
+Traducido por IA   
+
+
+
+
+

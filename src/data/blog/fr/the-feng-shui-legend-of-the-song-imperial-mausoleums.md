@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-14 22:28:28
+title: "La légende Feng Shui des mausolées impériaux Song"
+featured: false
+draft: false
+description: "Le mausolée impérial de la dynastie des Song du Nord choisissait souvent un bon emplacement pour le Feng Shui, mais lors du choix du site du mausolée Yongding de Zhenzong, Ding Wei n'a pas écouté les conseils du maître du Feng Shui Xu Renwang et a insisté pour utiliser l'endroit situé derrière le mont Ngutou. Xu Renwang a prédit que Bing Wu et Ding Weinian auraient un accident majeur. Les conséquences se sont réaliséesxa0: le changement de Jingkang et la chute de Northern Song ont confirmé l'influence du Feng Shui et de la chance sur les transports nationaux."
+---
+
+
+
+![AstroPaper I18n](/the-feng-shui-legend-of-the-song-imperial-mausoleums.png)
+
+
+
+
+ Les mausolées Song sont situés à Shaoxing, dans le Zhejiang, et à Gongyi, dans le Henan. La zone des tombes de Gongyi, dans le Henan, comprend les «xa0huit tombesxa0» de la dynastie Song du Nord et les tombes de nombreux empereurs, parents de l'empereur et Xun Chen. La zone des tombes de Shaoxing, dans le Zhejiang, abrite la tombe de six empereurs et de plusieurs impératrices de la dynastie des Song du Sud, connue sous le nom de «xa0Six tombes des Song du Sudxa0».
+Kaifeng, dans le Henan, capitale de la dynastie des Song du Nord, était située dans le comté de Gongxian, loin de Bianliang à Pékin. La raison principale en est que le paysage est magnifique, que le sol est excellent et que le niveau de l'eau est bas, ce qui en fait un endroit idéal pour creuser des tombes et des enterrements riches. Le district de Ling comprend le mont Song au sud et le fleuve Jaune au nord. On peut l'appeler «xa0se reposer sur le fleuve Jaune et marcher sur le mont Songxa0». Il est considéré par le Feng Shui comme un endroit propice pour «xa0venir des hautes montagnes et de l'eauxa0». Zhao Yanwei l'a décrit un jour ainsi dans «xa0Yunlu Manshixa0»xa0:
+Les sept (8) tombes se trouvent toutes au nord de la montagne Songshan et au sud de Luoshui. Bien que Gangfu ne soit pas très grand, ils le sont dans les deux situations. Depuis le versant ouest du comté de Yongan, vous pouvez voir les trois tombes de (Yong) An (Yong) Chang et (Yong) Hee à Pyeongcheon. Berlin est une ville tissée, le mont Wan'an, et il y a peu d'endroits. Les montagnes de Sanling sont proches de Berlin. Le sol est plat comme la paume de votre main. Le terrain s'étend sur 13 hectares et s'étend sur 12 miles de long.
+Le mausolée de Yong'an, le mausolée de Yongchang et le mausolée de Yongxi mentionnés ci-dessus ont un bon feng shui, mais le mausolée de Yongding, la tombe de Song Zhenzong et Zhao Heng, avait un mauvais feng shui. Quant à la raison de la chute de la dynastie des Song du Nord, certains soutiennent que cela était dû au mauvais Feng Shui dans la tombe de Song Zhenzong. Selon les «xa0Chroniques de Chunzhuxa0» de la dynastie Song, Xu Renwang, originaire du mont Baiyun à Shinzhou (aujourd'hui au nord-ouest du comté de Shangrao, province du Jiangxi), a fait une déclaration publique et s'est entretenu avec le Premier ministre Ding Jin Gong (le tombeau de Song Zhenzong). Au cours de la première année de Gan Xing (1022 après JC), Ding Jingong, responsable du mausolée de la montagne (ancien tombeau de l'empereur), n'a pas écouté les paroles du maître du Feng Shui Xu Renwangxa0; il a déterminé obstinément que le tombeau de Zhenzong était situé derrière le mont Niutou. Xu Renwang a préconisé l'utilisation du terrain situé devant le mont Niutou, tandis que Ding Jingong a insisté pour utiliser le terrain situé derrière le mont Niutou et n'a pas été autorisé à le remplacer.
+Xu Renwang a demandé un jour qu'il soit assigné à résidence au temple de Dali (le temple de Dali est le lieu d'administration de la justice, et le seigneur du temple de Dali est le fonctionnaire de Zheng Sanpin). Après trois ans, il peut vérifier qui a raison et qui a tort, mais il ne peut toujours pas changer l'approche erronée de Ding Jingong. Xu Renwang a décrit un jour les dégâts «xa0causés par les montagnesxa0» dans sa déclaration de l'époquexa0: «xa0Il y a eu un long débit d'eau et la catastrophe s'est produite pendant l'année Binguxa0; Ding Feng a directement touché la catastrophe. À la fin de l'année, un incendie s'est déclaré dans l'État et le comté a été volé.xa0» Il n'est pas surprenant que l'Armée dorée ait envahi la capitale de Kaifeng au cours de la première année de Bingwu Jingkang (c'est-à-dire 1126 après JC). L'année de Ding Wei (c'est-à-dire la première année de Jianyan, 1127 après JC), Song Huizong et Song Qinzong ont tous été faits prisonniers par des soldats Jin et la dynastie des Song du Nord est tombée. En raison de la guerre et des troubles, les incendies se sont poursuivis dans les comtés et environ la moitié du territoire est devenue une zone où les bandits sévissaient. Selon des documents historiques, Ding Mu Nian «xa0a brûlé comme une catastrophe. La situation était toujours interminablexa0; la moitié de la zone a été volée.xa0» La prophétie de Xu Renwang s'est certainement réalisée.
+Traduit par IA   
+
+
+
+
+

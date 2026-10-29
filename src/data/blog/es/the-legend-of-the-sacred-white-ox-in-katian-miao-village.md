@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-08 20:51:43
+title: "La leyenda del buey blanco sagrado en la aldea de Katian Miao"
+featured: false
+draft: false
+description: "En la antigüedad, las vacas de hadas blancas cultivaban campos y huían debido al hambre y la sed. Los aldeanos no pudieron interceptarlos muchas veces a lo largo del camino. Los lugares por los que pasaban se llamaban campos de cartas, pings de vacas blancas, etc. La leyenda evolucionó hasta convertirse en lo que más tarde se convirtió en el municipio de Lan Rong, y el amor de la gente por las hadas vacas y su imaginación romántica sobre el origen del topónimo."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-sacred-white-ox-in-katian-miao-village.png)
+
+
+
+
+ Cuenta la leyenda que en la antigüedad, una vaca hada blanca causó problemas y violó las reglas de la Orden Inmortal. El emperador Jade castigó a todos por cultivar 100.000 campos en la desolada ciudad fronteriza de Xianggui. En un día soleado, las hadas vacas aran en 100.000 campos antiguos. Hacía calor, tenían la boca seca y tenían hambre, por lo que salieron corriendo de los viejos campos en busca de comida y agua para beber. Sacó a Li Hua del sendero montañoso durante decenas de millas, hasta llegar a la parte alta del río Wushui. Fue descubierto por gente de las montañas que cultivaban campos. Les gustó mucho. Querían quedárselo, así que dejaron de esforzarse y crearon una tarjeta para detener a la vaca, con la intención de dejarla atrás. Sin embargo, la carta no se atascó ni siquiera al caer, así que la dejé escapar al fondo del río. Más tarde, este lugar se llamó «Kada». La vaca hada siguió corriendo río abajo y llegó a un Daping largo y estrecho. Un grupo de aldeanos que cultivaban en Daping descubrieron la vaca hada y también se enamoraron de ella. Se acercaron y la mantuvieron unida, pero no pudieron detenerla ni por la izquierda ni por la derecha, ni por delante ni por detrás; solo le arrebataron unos pocos cabellos blancos del cuerpo de la vaca hada. Más tarde, la gente llamó a este gran estanque «Mao Ping blanco». La vaca hada se esforzó por superar la montaña de Baitouao y escapó a una gran llanura, una barricada.
+Algunos ancianos también dijeron que en la antigüedad, Bainiutuo (pueblo de Qilong, ciudad de Bumaoping, ciudad actual) salió de una gran vaca blanca, entró en Qingxiping, que era rica en plantas acuáticas, y fluyó a lo largo del río Qingxi. Caminó hasta Nanping. Alguien lo detuvo en el frente, pero no lo detuvo. Más tarde, este lugar se llamó «bullpen». Bai Xian Niu se dio la vuelta y llegó a Tang Jiachong. Conocí a una chica que molía una olla de leche de arroz y goteaba una ráfaga de fragancia. La carne de Bai Xian estaba insoportablemente hambrienta y sedienta. Aprovechando la oportunidad de que su hija se diera la vuelta, se comió la olla dulce de leche de arroz. Lo único que quedó fue la jarra de almíbar en el suelo. Más tarde, la gente llamó a este lugar «pozo de celulosa». Después de comer y beber, la vaca hada blanca estaba llena de energía. De una sola vez, cruzaron Hawthorn Pond y corrieron hacia la montaña en el lado sur. De camino cuesta abajo, me topé con una chica del pueblo que iba a buscar agua. La hada blanca tenía miedo de que la niña la abrazara y la golpeó con fuerza. Inesperadamente, chocó contra los grilletes con una carga plana y se arrancó algunos pelos. Más tarde, esta pista de montaña recibió el nombre de «Ushige Chong». La vaca hada blanca corrió apresuradamente por la montaña y corrió hacia el río Wushui. La gente lo interceptó en los tramos superior e inferior del río. No podían soportar dejar escapar a esta linda vaca hada blanca, pero no podían quedársela. Más tarde, los tramos superior e inferior del río Wushui recibieron el nombre de «detener a las vacas» y «detener a las vacas hacia abajo». Asustada todo el día, la vaca Hada Blanca se apresuró a elegir un camino. Sin darse cuenta, escapó a un chong montañoso escasamente poblado y, sin darse cuenta, cayó en un campo fangoso con pies de barro profundo y quedó atrapado. Más tarde, esta pista montañosa se llamó «Kada»...
+Debido a esta hermosa leyenda, desde Tang y Song, el gobierno ha bautizado a «Bai Maoping» y «Cow Stall» juntos con el nombre de «Cow Stop» como agencia administrativa a nivel municipal para las minorías étnicas. Tras la fundación de la Nueva China, el gobierno del condado denominó «municipio de Lanrong», según su homónimo, y luego estableció el municipio de Baimaoping por separado.
+Traducido por IA   
+
+
+
+
+

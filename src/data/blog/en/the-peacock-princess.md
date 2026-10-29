@@ -1,0 +1,94 @@
+---
+pubDatetime: 2026-11-06 06:06:27
+title: "The Peacock Princess"
+featured: false
+draft: false
+description: "Zhao Shutun and Princess Lan Wulona got married and decided to retreat from the enemy. The princess was falsely accused and forced to fly away. After Zhaoshutun's victory, he went through the hardships of quicksand, mountain gorges, monster birds, etc. to find a wife, and finally got a message from the Magic Cave. The story celebrates unwavering love."
+---
+
+
+
+![AstroPaper I18n](/the-peacock-princess.png)
+
+
+
+
+ one
+Since 3,400 years ago, the Menghai region of Banna was managed by an honest and unassertive Sho Menghai. He is rich and powerful, but he doesn't have a son. The husband and wife often worry about this and expect a son to take over the family business.
+On an early spring morning, Zhao Menghai's wife gave birth to a fat white son. The couple love each other very much. They are more heavily covered. They are afraid that he will get hot, that the cover is thin, and that he will get cold. Watching their son grow day by day, they both gave him a name, called Shutun, and sent him to Wadinsa in Mengsa to learn his skills. Zhao Shutun is smart and strong. Not only can he write Dai well, but he is also very skilled at shooting birds and wild beasts in the sky. His eyes shine brightly like gold pearls, and his face is even more beautiful than the face of the beautiful Tien Sen Dad ①. Speaking of which, it's as clear and pleasant as a ringing silver bell. When the girls saw him, they couldn't keep their mouths open and couldn't blink their eyes. Zhao Menghai is becoming more and more concerned about his son's marriage. He repeatedly advised him to get married to a daughter from a decent family, all of which were graciously rejected by Zhao Shutun. Zhao Shutun has his own ideals, and he hopes to be a permanent partner with a girl who is both smart and beautiful.
+One day, he brought a bow, arrow, and sword, and rode a horse like Mamani ②, stepped over a large green field, over a mountain hill, and through a dense forest to find his beloved.
+On the way, he met a loyal hunter. The two became friends. He said his thoughts to the hunter: “Kai Star is far away in the sky, but he can't see it clearly; beautiful and wise girls are born in the country, so why can't I find them or see them?”
+The hunter laughed and answered, “People who are in love, loyalty, and sincerity will always be friends. They hold on to their pure desires, and hidden springs will also pour to the ground.” Chao Shu-tun nodded. The hunter continued:
+“Not far from here, there is Lake Loncena. The blue water is as clear as a mirror. Every seven days, seven beautiful and extraordinary peacock princesses fly to swim. They look like seven bright, transparent bouquets of flowers. In particular, the youngest girl will give you an intimate experience of what beautiful Nandiana ① looks like and what wisdom and intelligence are.”
+Overjoyed, Zhao Shutun and the hunters drove the horse to hide at Lake Loncena.
+Total 6 Pages: Previous 123456 Next
+Tag: Princess Folk Tales Dai Peacock
+Copyright Notice: The opinions in the article only represent the author's views. They are used as a reference and do not represent the views of this site. Some articles come from the Internet. If the images and text on the website infringe your copyright, please contact us to delete and process them promptly! When reprinting the content of this site, please indicate the reprinted website, author, and source to avoid unnecessary infringement disputes.
+ 
+
+ Previous: Dai Folk Tales: Pearl Girl 
+ Next: Dai Folk Tales: Barefoot Daxian
+Related recommendations
+Dai Folk Tales: Barefoot Daxian 
+ Dai Folk Tales: Princess Peacock 
+ Dai Folk Tales: The Pearl Girl 
+ Dai Folk Tales: Grains with Wings 
+ Dai Folk Tales: Chai Can't Walk 
+ Dai Folk Tales: The Origin of Hulusi 
+ Dai folklore stories about the creation of man by God 
+ Dai Folk Tales: The Legend of the Little Black Dragon and the Buffalo 
+ Dai Folk Tales: The Legend of White Elephants Leading the Way 
+ Dai Folk Tales: Grandma Gu Hun's Story 
+ The legend of the Dai Songkran Festival
+three
+Although Zhao Menghai said she didn't like a girl of unknown origin to be her daughter-in-law, she was reluctant to resist Zhao Shutun's insistent request and had to reluctantly agree to them getting married. The younger couple had a great time.
+However, not long after, leaders from other places brought troops and Malays to attack and summon Menghai. People were very panicked. The hero, Zhao Shutun, discussed the whole night with Lan Wulona and decided to ask his father for a team to stop his rival. My father agreed.
+Cao Menghai inquired about war reports every day. Every day, news of Zhaoshutun's defeat and retreat came. Seeing that the war was about to spread to his city, he was very worried, so he asked the astrologer Ah Zhang Long to pray for gossip.
+Ah Zhang Long had no idea about the plot used by Chao Shutun and his wife. He actually developed a bad idea of killing the peacock girl. He said to Dao Menghai, “Lan Wulona turned into a monster. She brought disaster and misfortune. If you don't kill her, Banna Menghai will definitely lose the war!” When Zhao Menghai listened to Ah Zhanglong's words, she was hesitant: “What if I kill my daughter-in-law and let my son know? What if I leave my daughter-in-law behind and lose the war?” He thought back and forth, and at the instigation of the bad guys, he reluctantly decided to kill the Peacock Girl.
+The wronged Lan Wulona arrived at the execution site, and the embroidered dress she usually wore was destroyed by Ah Zhang Long to “drive away evil.” She was secretly sad and in tears. She didn't want to be separated from Zhaoshutun forever, so she thought of an ingenious idea and said to Zao Menghai, “Before I break up with you, please allow me to dance once with my peacock!”
+They summoned Menghai to take pity on her, so to fulfill her last wish, she covered Lan Wulona with a colorful, colorful peacock, loosened the ropes that bound her, and made her dance peacock dance. Who knew peacock dancing had such a strong power to infect people's hearts! The gentle dance, the affectionate gaze, filled with a peaceful and kind spirit, moved the knife-wielding executioners to let go of the butcher. Those cruel and ignorant minds seemed to have been washed once by a holy spring. Everyone has forgotten that she is on the execution site, and the peacock princess Lan Wolona has gradually turned into a peacock and slowly disappeared without a trace.
+When Dao Menghai remembered Ah Zhanglong's words, the execution site was empty.
+fours
+The war has entered a decisive stage. Sure enough, there was no escape from the plans of Zhaoshutun and Lan Wulona: the invading enemy was surrounded by water in the Hulu Valley, and Zhaoshutun's team worked hard to wipe out the enemy. Zhao Shutun returned successfully, and summoned Menghai to set up a feast for his son He Gong. Singer Zan Hameng sang with joy on behalf of the people:
+Coconut juice is sweet and sweet.
+Maintains by a sturdy outer shell;
+The people of Menghai live and work peacefully,
+Protect it by the hero's Chaoshutun.
+Zhao Shutun smiled and said to the crowd, “This is Lan Wulona's credit. It all depended on her good plan to lure her enemies to the Hulu Valley and destroy them all. Why don't you ask Ran Wurona to come out and receive congratulations from the family!”
+He didn't take it seriously; Zao Menghai and Ah Zhanglong were extremely ashamed. They deeply hated that Lan Wulona should not have been forced away, mistaking good people as bad people. The soldiers and the people all burst into tears. Remembering Lan Wulona's name, they immediately felt sad and silent. “She...” Zhao Shutun was unwilling to guess that something unfortunate had happened.
+However, with a feeling of remorse and sadness, Zhao Menghai stammered and spoke frankly to Zhao Shutun about the causes and consequences of forcing his daughter-in-law away. It was like a thunderbolt sounded on a clear day. Suddenly, the blazing flames were extinguished, and Zhaoshutun passed out. When he woke up, he read Lan Wulona's name and pulled out the gemstone his wife had given him to teach Mahalin. At first sight, it was as if he saw Lan Wolona being scolded by her father, Piya, the devil. It stung in his heart and passed out again. After waking up, feeling angry and hopeful, he boarded the war horse and headed in the direction of Lake Loncena. Pegasus stepped up his whip, and continued to search for Langhorona day and night.
+On that day, Princess Peacock left Zhaoshutun's home sad and sad. Remembering her six sisters who had been separated for a long time, she unwittingly flew to her hometown of Mengzhuang. She couldn't bear to take Zhaoshutun no matter what. Passing over Lake Loncena, she met a fairy, and took off her gold bracelet and handed it over to Zhaoshutun, who came to find her: “Seeing things is still seeing people, things are still there.” Lan Wulona said, “Going to poor mountains and bad water is extremely dangerous. Please tell him not to look for me again.” After speaking, I sobbed and flew back to Mengzhuang.
+The horse on which Zhaoshutun was riding was almost suspended in the air, and flew forward, over the mountains, and forests. The war horses were exhausted and exhausted. Zhaoshutun had no choice but to walk one step; when thirsty, grab some spring water to quench your thirst; when you're hungry, catch wild animals to fill your stomach; when you're very tired, rest at the foot of a tree for a while. Day by day, he finally arrived at the edge of Lake Loncena. Remembering the scene where he met Princess Peacock, he started crying. This cry shocked the immortal Parasi. He then walked out and handed over Jin Shu-tun to persuade Shu-tun to return home. When Zhao Shutun saw his wife Lan Wulona's bracelet, he became more sad. He cried loudly, and said he wanted to go find Princess Peacock no matter what. Parasi kindly advised him, “From here to Mengzhuangha, where your wife lives, you have to walk a long, long distance, and it's hard to recognize the path; you have to go through impenetrable quicksand and rivers, and run into a mountain gorge that can catch people to death; there is also a monster bird that eats people, Hasililin, who blocks the path; even if you successfully get to Mengzhuangha, Lan Wulona's father won't forgive you for being an cannibal demon king. I suggest you go back home!”
+However, Zhao Shutun has already made a vow: if he doesn't meet his wife again, he will never look back; even if he dies, he is willing. Moved by Zhaoshutun's unmistakable love for Lan Wulona, Parasi stopped discouraging Shutun. He also sent a monkey to lead the way for Shutun, a knife, a pair of bows, and scissors, and a few babies to help him overcome the difficulties he would encounter. Chao Shu-tun was overjoyed and said goodbye to Parasi. Led by monkeys, he continued his long and arduous journey.
+five
+One day, I arrived at the surging quicksand riverside. There was no bridge at the upper ferry crossing. I couldn't wade in the water, fly through the wings, let alone go back to the wasteland halfway. Chao Shu-tun was anxious to do everything possible to stop the dripping of quicksand. He subconsciously pulled out the main knife given to him by Parasi and angrily cut it at the quicksand. Unexpectedly, he used too much force, and the sword lost its hand and fell into the river. Suddenly, a giant rainbow-like python floated out of the quicksand river. Its back was protruding on the quicksand; its head was on the shore side and the tail was on the shore side, just like a pontoon bridge. The Min-hui monkey immediately led Zhaoshutun to fly across the other side of the coast on the back of a python. Then, the python swam away by itself.
+When I was called to walk around, I came to the front of a mountain gorge towering into the clouds. This mountain gorge is very sinister. Suddenly it comes together, and it never stops. If people want to pass, they have to wait for a moment when they are separated, but they can't walk a few steps in the gorge, and the mountain gorge will quickly close and clamp people to death. Zhaoshutun shook his head and lamented, “Is it possible to just be stopped at this side of the mountain and never see Langulona again? No!”
+He encouraged himself, “You must try to get there!” However, all the methods he adopted had no effect, and the abominable and terrible mountain gorge still blocked the way forward. In the end, Zhaoshutun took down the bow and arrow given to him by the fairy Parasi, facing the mountain gorge that had just been separated, and filled it with a bow. The search arrow shot past. Very well, this arrow blocked the attempt to close the mountain gorge. Zhaoshutun immediately took the monkey and quickly ran across the mountain gorge.
+I walked for many more days, passing through a pristine forest shaded from the sky. This is the nest of the monster bird Mahasilirin that eats people. It's so cold and desolate. When Zhao Shutun felt tired, he tied the monkey to a tree and climbed up the tree by himself to rest. He just had a faint desire to sleep, and suddenly a strong wind blew up. It turned out that Mohasilerim and its female birds had returned to their nest, and this nest was on top of the tree where they rested in Zhaoshutun.
+Male birds calculate the future of the East, and female birds calculate the future of the West. But I heard the female bird mocking the male bird and said, “You got it right! After so many days of waiting, I can't see a shadow of Zhaoshutun! Lan Wulona has been imprisoned by Piya, where else can Shu Tun go to find her?”
+“You idiot!” The male bird shouted, “It is because of this that Chao Shu Tun has to save her. According to my opinion, Zhaoshutun has already passed through quicksand and mountain gorge. We'll be here tonight. Let's wait for a nice snack! Hmm! I feel like I'm smelling a human being!”
+“Huh! I seem to smell it too.” Female Wu said, “Let's go down to the ground and take a look.”
+They both flew to the ground and quietly stretched their necks sniffing east and west. This frightened Zhao Shutun. He held the only “weapon” he carried with him, scissors given to him by the immortal, and was wary of getting ready to fight with a monster. However, the monster bird spotted the monkey that was leading the way for Shutun and scrambled to peck it, then flew back to its nest in a state of confusion. The female bird also mocked Mohasilirin and said, “Is this what you calculated as a 'person from the Orient'? Let's go to bed earlier! Tomorrow at Jinzhuangha, Pi will kill many, many cows and horses. Let's catch up!”
+After that, the monster bird fell asleep soundly, and only then did Zhao Shutun breathe a sigh of relief. He is worried about Ranwolona's misfortune and is anxious to meet Ranwolona and save her from suffering. He thought that the monster bird would fly to his wife's place in Mengzhuangha early tomorrow. This was a very dangerous and rare opportunity for him, especially when he lost the monkey that led the way. For the sake of Ran Wurona, he mustered up his courage, clenched his scissors, and took advantage of the strange snoring sound to crawl lightly and calmly into the monster bird's nest, forcefully cut a feather that was thicker than a human from the middle, and then cleverly crawled into the capillary tube. Hiding his own body. Just like that, when the monster birds flew to Lizhuangha, Zhaoshutun was also taken away.
+six
+Mohasiri Lin spread its huge wings and soared through the clouds. The mountains and rivers on the ground actually looked so small in Zhaoshutun's eyes. The monster bird landed near the devil king Piya's cave, shook its wings, but knocked Zhaoshutun out. He left the monster bird and walked towards Piya's cave. After not going far, he saw Nam Kwang-jae, a girl carrying water. He thought it was strange: Are there any village houses in these barren mountains and valleys? He decided to find out and ask the girl for a sip of water to drink. The girl suddenly met a stranger. She was very surprised. Looking at no one around, she quietly said to Zhaoshutun, “This is a world of devils. He will eat you! Get out of here!”
+“No!” Zhao Shutun said, “I just came looking for him on purpose!”
+“Find him!”
+“Yes, I want him to release Lan Wulona and go back with me.”
+“Ahhh! You are... Chaoshutun!”
+Zhao Shutun nodded in surprise: “Who are you, how do you know my name?”
+“Alas!” Nam Kwang-jae sighed and said, “I am the daughter of the folk. I was taken by Pi Ya. He wanted to hurt me. The kind Lan Wolona kept me by my side and saved my life. You know how much she misses you!”
+“Please take me to meet her!”
+“How can this work! The cave gate is very tightly guarded, in case a piya finds out “that...”
+“Let's do it! You hide first; I'll tell Lan Wulona to find a way to find a way to let her know you've arrived here?”
+Zhao Shutun hurriedly took down the golden handgun that Lan Wulona asked the fairy Parasi to hand over to him and handed it to Nan Guangzai.
+Nam Kwang-jae knew that this hand tin had been worn by the hostess since she was a child, so he put it in a bucket and still went back to the hole with water.
+Lan Wulona was imprisoned in the depths of a dark and sweltering cave by her vicious father, and she missed Zhaoshutun all the time. In March and April, the grass turned green, and flowers bloomed all over. I could see everything, but I couldn't see my loved one; the bees were picking flowers, and she was alone and distressed; the fog had all dissipated, and she missed her loved ones, no matter what. She hopes that a husband and wife will reunite and live a happy life in the world.
+Now that she can't go swimming at Lake Loncena anymore, she asks her maid Nam Kwang-jae to bring her cool spring water and bathe her from head to toe. Suddenly, she noticed a hard object hitting her head, and it fell to the ground, making a sound. She bent down and picked it up in her hand. She almost screamed and instinctively covered her lips. The playful Nam Kwang-jae deliberately asked, “What kind of baby is the young lady carrying, and how did the bathers stay here?”
+“Ahhh! Nam Kwang-jae, aren't we sleeping! Look, this is definitely my Kim Suk! Why did it land here?”
+AI Translated   
+
+
+
+
+

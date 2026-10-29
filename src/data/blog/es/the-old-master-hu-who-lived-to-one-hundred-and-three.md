@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-12 17:12:56
+title: "El viejo maestro Hu que vivió ciento tres"
+featured: false
+draft: false
+description: "Hu Santaibao, un minero de oro de la República de China, desenterró una cabeza de perro con forma de ficha dorada de debajo de la estatua de Buda en el fondo del río, con un patrón de las palabras «muerte» y «muerte». Después de eso, los compañeros murieron uno tras otro, y escuché a la mujer llorar por la noche. Lao Dao advirtió que hay que volver a colocar las fichas para evitar desastres. Cuando Hu Santaibao se hizo cargo, el extraño incidente se calmó. Inmediatamente se lavó las manos en la vasija dorada y vivió sano y salvo hasta los 103 años. La historia advierte contra la riqueza injusta; las cosas malas comienzan en los corazones de las personas."
+---
+
+
+
+![AstroPaper I18n](/the-old-master-hu-who-lived-to-one-hundred-and-three.png)
+
+
+
+
+ Durante la República de China, el artesano más famoso de la industria minera del oro fue Hu Santaibao. Su nombre original era Hu Taiyuan. Fue solo porque estaba profundamente familiarizado con el antiguo método de extracción de oro, hizo algunos negocios importantes y reunió a un grupo de matones y ladrones locales, y se convirtió en uno de los ladrones más populares de la facción minera de oro. Los ríos y lagos lo veneraban con el nombre de Hu Santaibao.
+Cuenta la leyenda que, en sus primeros años, llevó a personas a extraer oro en Zishui, Hunan, y encontró una mina de oro desconocida en las cercanías. Tras tres días de búsqueda, encontré una cabeza de perro de tres kilos de oro debajo de una estatua de Buda en el sitio de un templo en el fondo del río. La imagen de esta cabeza de perro dorada es sorprendentemente extraña. Parece una ficha. En el medio hay una mujer que ha sido castigada con la pena capital. Dos líneas de óxido rojo se han deslizado por sus mejillas. Su expresión es dolorosa y parece llena de resentimiento. En particular, debajo de la ficha, se formó naturalmente una gran palabra «muerta», lo que daba miedo.
+En ese momento, llegó un anciano de Hubei con ropa mala. Se horrorizó en ese momento y dijo que se desconocía el origen de esto. Originalmente estaba ubicado debajo del Gran Salón del Tesoro de Xiong, en el antiguo templo, y más tarde se desvió hacia el río Yangtze y se enterró en el limo del fondo del río. No esperaba que Hu Santaibao lo desenterrara. A menos que lo arrojes al fondo del río y nunca veas el sol, habrá un gran desastre.
+Sin embargo, sin importar dónde estuviera convencido Hu San Taibao, le pidió a la gente que echara a este taoísta. Quién sabe, no pasó mucho tiempo antes de que algunas personas del grupo Hu San Taibao salieran a beber por la noche y no regresaran de la noche a la mañana. Lo encontraron muerto en la calle al día siguiente. Su cuerpo ya estaba frío, algo le había mordido la mitad de la cabeza y ya no podía morir. Inmediatamente después, volví a salir del agua. Hay un minero de oro veterano con mucha experiencia. Nació como soldado fluvial durante generaciones. En el agua, es como barras blancas en las olas, lo cual es comparable a un pez nadando. Sin embargo, sin motivo alguno, las plantas acuáticas los atraparon en el tobillo y se ahogaron en el fondo del río Yangtze. Cuando fueron descubiertos, su piel ya estaba blanca y arrugada por burbujas.
+Al principio, todos pensaron que era una coincidencia. Quién sabe si, desde entonces, las cosas siempre han sucedido en intervalos de tres o cinco, y luego las personas han muerto una tras otra. De lo contrario, se ahogaban en el agua, los apuñalaban hasta la muerte e incluso morían en el vientre de una mujer mientras compraban en el horno. En general, la apariencia de la muerte no era muy buena. El papel no aguanta el fuego; esta historia se difundió gradualmente.
+Todos se sorprendieron. Todos sintieron que, como decía el viejo refrán, la cabeza de perro dorada que habían tocado había caído de debajo de los restos del Salón del Tesoro de Jiangdi Daxiong hace unos días y los objetos viejos del fondo del río estaban enfurecidos. En la ficha hay la palabra «muerto»; si la miras, esta cosa es muy malvada. Otros decían que, desde que el abuelo Hu recibió este dinero, cuando iba al baño en mitad de la noche, siempre podía oír vagamente a las mujeres llorar en la oscuridad, pero no podían encontrar a nadie.
+Este incidente se hizo cada vez más siniestro. Más tarde, realmente no había forma de hacerlo. Hu San Taibao también tenía miedo, por lo que envió a alguien a volver a invitar al anciano para que lo ayudara a cambiar el Feng Shui. Lao Dao ordenó a Hu San Taibao que sacrificara tres sacrificios y llevó a un grupo de personas a inclinarse y pedir disculpas al rey del río Yangtze. También ordenaron que se volviera a colocar la palabra «muerto» debajo de la estatua de Buda en el fondo del río antes de que terminara.
+Por extraño que parezca, dado que Hu Santaibao siguió las instrucciones de Lao Dao y devolvió la cabeza de perro dorada al fondo del río, todas las cosas extrañas se detuvieron y nadie murió repentinamente. La gente del antiguo río Yangtsé ha disfrutado de este incidente y se ha extendido constantemente. Más tarde, la famosa abuela Hu anunció de repente que la vasija dorada le había lavado las manos y que había vivido hasta los 103 años antes de morir.
+Traducido por IA   
+
+
+
+
+

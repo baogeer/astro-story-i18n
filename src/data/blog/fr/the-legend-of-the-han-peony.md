@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-11-15 07:38:45
+title: "La légende de la pivoine Han"
+featured: false
+draft: false
+description: "La légende raconte que les pivoines et les pivoines du temple Mida-ji à Kitao-mura sont décrites comme des garçons et des filles prodiges des fleurs. L'empereur Han Guangwu Liu Xiubing a échappé à la défaite et s'est réfugié dans le temple. La pivoine a étendu son feuillage pour le couvrir et échapper à sa poursuite. Liu Xiu a écrit un poème de gratitude après s'être évadé. La pivoine est depuis connue sous le nom de «xa0pivoine Hanxa0», ce qui laisse une bonne histoire sur la façon dont la fleur divine a protégé le roi Chung."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-han-peony.png)
+
+
+
+
+ Dans le village de Beihao, comté de Tongbai, province du Hebei, il y avait un ancien temple de la dynastie Han appelé temple Mituo. Les moines du temple sont spécialisés dans les pivoines et le temple est également connu sous le nom de «xa0temple Botan-jixa0». Il y a une pivoine à l'intérieur du temple. La fleur est aussi grosse qu'un lotus. Chaque année, au milieu du printemps, il y a un flux infini d'admirateurs de fleurs. Il y a de nombreuses chansons sur les murs du temple. Ils disent tous que c'est une pivoine chinoise. Sur le côté de la pivoine, on trouve quelques pivoines. Chaque année, la pivoine tombe et la pivoine fleurit à nouveau. Il est parfumé et coloré, ce qui est comparable à celui des pivoines. Il existe également une histoire légendaire sur les pivoines chinoises.
+La légende raconte qu'il y a longtemps, un vieil homme du village de Beihao s'est réveillé tôt le matin et s'est dirigé vers le champ ouest du village. En passant par l'entrée du temple Mida-ji, le parfum débordait, ce qui était rafraîchissant pour le cœur. Il a levé les yeux et a vu une lumière brillante devant lui. Il a vu deux garçons et deux filles, couverts de rouge et de vert, comme des nuages. Ils ont flotté au milieu du ciel et sont tombés tranquillement dans le temple. Le vieil homme était tellement surpris qu'il a failli crier. Il a pris l'avion pour rentrer chez lui et l'a dit à sa famille. Au bout d'un moment, l'incident s'est étendu à dix, dix ou cent personnes et a choqué tout le village. Les adultes et les enfants se sont rendus en masse au temple pour le savoir. Cependant, quand je suis arrivée au temple, il n'y avait aucune trace. Soudain, une fille a criéxa0: «xa0Regardexa0!xa0» Elle a pointé du doigt deux fleurs révolutionnaires dans une zone ouverte du temple. L'eau était fraîche, tendre et très mignonne. Les gens se disputent. C'est pourquoi je pense que la déclaration du vieil homme est vraie. Tout le monde dit que cette plante à fleurs a dû être transformée par ces deux garçons et filles. Ils sont tous deux venus des dieux des fleurs pour nous protéger à Beihao. Nous devons bien prendre soin d'eux, et peut-être qu'ils pourront s'en tirer comme ça.
+Depuis lors, les villageois du village de Hao ont soigneusement géré et entretenu ces deux plantes à fleurs. Curieusement, ces deux plantes à fleurs ont rapidement atteint plusieurs mètres de haut lorsqu'elles ont vu le vent. Entre les branches turquoises, les os floraux sont denses. Bientôt, les fleurs ont fleuri et tout le village était parfumé, provoquant le vol de papillons colorés et le rugissement des abeilles. La scène était charmante. La renommée de la fleur est comme si elle avait poussé des ailes et s'était étendue dans toutes les directions. Les habitants d'un rayon d'une quinzaine de kilomètres sont venus profiter de ce monde merveilleux, et les habitants du village de Beihao sont très fiers.
+Combien d'années se sont écoulées. Un jour, un général vêtu d'une robe de guerre, serviteur poussiéreux et en sueur, a fouetté son cheval et s'est dirigé directement vers Beihao. C'était une époque de guerre et de chaos, et aucun des villageois n'osait faire grand-chosexa0; ils ont tous rapidement fermé leurs portes et fermé leurs maisons avec horreur. Le général est descendu de cheval, a transpiré et a frappé à la porte, demandant un bol d'eau à boire et trouvant un endroit où se cacher, même s'il y avait un vieux temple dans une maison en ruine. Un villageois a dit de l'autre côté de la porte que ce village n'avait pas de puits et deux temples, alors fuyez vite. Le général était impuissant et a soupiréxa0: «xa0Il y a une scène dans le village de Beihaoxa0: il n'y a pas de temple, pas de puitsxa0; la terre vit dans un trou dans le mur.xa0» Dès que le discours est tombé, de la fumée est arrivée de l'extérieur du village, des drapeaux couvraient le soleil et des chevaux de guerre hurlaient. J'ai vu la poursuite approcher. Le général était conscient du danger, alors il a fouetté son cheval et s'est envolé vers l'ouest. Voyant un monastère fortifié à la tête du village, il s'est retourné et a sauté, puis s'est évanoui sous les fleurs. Curieusement, cette fleur «xa0étendxa0» ses feuilles et recouvre étroitement l'ensemble. En conséquence, le général a échappé à cette catastrophe.
+Au bout d'une heure, le général a été réveillé par l'odeur des fleurs. Quand il a ouvert les yeux, il s'est retrouvé caché parmi les fleurs. Il s'est senti rafraîchi et rafraîchi. Il a rappelé que les gens disent souvent que les pivoines sont des fleurs divines, qu'elles sont les rois des fleurs. Si le pays veut prospérer, il doit y avoir de la chance. Le général s'est levé, a écrit un poème sur le mur brisé à l'intérieur du temple et est parti.
+Les villageois ont regardé la poursuite s'éloigner. Ils sont sortis de chez eux à trois, trois ou deux endroits et ont suivi l'empreinte du fer à cheval jusqu'au temple de Mida, pour voir un poème sur le mur briséxa0:
+Xiao Wang s'est réfugié dans un village désert et aucun des temples n'était sombre.
+Il n'y a que quelques pivoines et la loyauté envers King Chung ne change pas. (Titre de Liu Xiu)
+Après l'avoir lu, ils ont tous été choqués et stupéfaits. Il s'avère que cette étrange fleur est connue sous le nom de pivoine de Tianxiang, couleur nationalexa0; l'autre plante est la pivoine dans la fleurxa0; le général était Liu Xiu, le futur empereur de Han Guang. Depuis lors, la renommée de Han Peony s'est répandue.
+(Raconté par Wang Shiduo et Wang Shixuan, recueilli et rassemblé par Liu Jinglin. (Extrait de «xa0National Flower Festivalxa0»)
+Traduit par IA   
+
+
+
+
+

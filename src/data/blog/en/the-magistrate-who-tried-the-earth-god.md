@@ -1,0 +1,50 @@
+---
+pubDatetime: 2026-11-07 03:47:43
+title: "The Magistrate Who Tried the Earth God"
+featured: false
+draft: false
+description: "Ma San spent three years saving 52 dollars, but after hiding it in the Earth Temple, it was stolen. The county commissioner pretended to interrogate Grandpa Di and deliberately said that Grandpa Zhang identified Old Man Zhang, who sold alcohol, as a thief. Old Man Zhang was frightened to plead guilty and return the money. The story shows the wisdom of Zhigen's clever use of psychology to solve the case."
+---
+
+
+
+![AstroPaper I18n](/the-magistrate-who-tried-the-earth-god.png)
+
+
+
+
+ Once upon a time, there was a young man in Shandong named Ma San. The family was very poor. They sold iron, and had a hard time getting married to a daughter-in-law and went home. However, it wasn't long after they became married, and the younger couple often spoke out and scolded for not eating enough. In less than three months, the horse trifecta left Kanto; I stayed in Kanto for three years. During this period, he worked hard for rich people, saved money, and saved 52 dollars.
+When I was with my wife, I often quarreled, and I miss them very much after a long time. Thinking that his wife is suffering from hunger and hardship at home, he decided to go home with 52 dollars. Ma San had been walking for a few days and nights on his way home with money and luggage. Although he was tired and weak, his legs were sore and tingling, but he wanted to see his wife when he got home. He couldn't express his happiness. He also thought, “I used to argue with my wife when I was at home. We haven't seen each other for 3 years, and I don't know if she still thinks about me and if she will change her mind...”
+On this day, I finally arrived in front of the land temple next to the village. He was afraid that his wife would change her mind; instead of coming home right away, he walked into the Land Temple and hid 52 pieces of money and luggage behind Grandpa Di. When Ma San walked into his yard, it was late at night. Seeing that there were no lights or sounds in the house, and when he knew his wife was already asleep, he gently called for the door. As soon as the wife opened the door, she was unspeakably happy to see her husband return. She first poured a bowl of boiling water for her husband, let him take a break, then picked up a bottle of wine and ran to a small hotel near the village. After Ma San's wife came back from drinking, she stir-fried a few side dishes for her husband, then heated the wine for her husband to drink. She knew that her husband had walked a lot and must have been hungry. Too late to ask about the situation outside, she went to cook. After preparing the meal, she came to her husband to have a friendly conversation. First, she told her about her suffering at home, and then asked her husband about his situation outside. Ma San was already a bit drunk at this point. Coupled with his wife being so passionate about him, he told her the truth: “I spent three years in Kanto. Although I had suffered a lot of suffering, I didn't get famous. I only saved 52 pieces of silver, and bought some extra luggage to take home.” The wife asked, “Where did you keep your luggage and money?” He said, “I'm afraid it won't be convenient to bring it into the village; it's hidden behind a sacred statue in the temple at the head of the village. You wait, I'll pick it up now.”
+When I finished getting up, I had to walk out the door. My wife grabbed him and said, “Look, hurry up! It's even in the middle of the night and no one knows, so it's not the same as going to pick it up early tomorrow morning.” After speaking, I hugged Ma San. Early the next morning, before anyone in the village had woken up, Ma San rushed to the Temple of Earth. He went to the back of the god to take a look. The 52 coins and luggage were gone. He was in a hurry to stomp his feet and hurriedly ran home to tell his wife. After listening, the wife thought everything her husband said at night was a lie, and complained, “You're hanging out, you can't earn money, and no one likes you. You shouldn't have lied to me when you get home!” Ma Sanyi was even more anxious to hear it. While shedding tears, he promised his wife that everything he said was true; if there was a lie, heaven and earth would not allow it.
+My wife thought that since it was real, the money and luggage hidden in the temple must have been stolen, but I don't know who stole them. There was no way to go back and forth, so I asked my husband to go to the government office to file a complaint. Ma San came to the county office, met with the county officials, and explained in detail how to lose money and luggage. After listening, the county official asked, “Did anyone see it when you put money and luggage at the Earth Temple?” Ma San said, “It was late at night, and no one was there.” The county official was very puzzled and asked, “Did anyone in your family go out that night?” Ma San thought about it and wanted to say, “Just when I first got home, my wife went to a hotel in the village to drink.” The county official asked, “Who sells alcohol?” Ma San told him that he was an old man with the last name Zhang. The county officials thought carefully for a while and determined that the money was stolen by old man Zhang, but there was no sound; they just let Ma San go back and wait for a letter. After Ma San returned home, he waited until the third day. County officials arrived at the village in a car and had to interrogate Grandpa Di. After hearing about it, the people in the village all came to watch the bustle, and old man Zhang in the hotel also stood in the crowd. Grandpa Di was tied up by a large number of flowers. The county official came to him and asked, “Grandpa Di, Ma San put 52 pieces of money and luggage behind you and let you watch, but they were stolen. Who do you think stole them? ah? Don't say it? Don't say call me!” As soon as the government officials were about to take action, the county official stopped them and said, “What? Afraid to hit? If you're afraid to hit you, just say it.” The county official rounded up to Grandpa Di and said, “If you don't want others to hear it, just whisper.” After speaking, I stuck my ear to Grandpa Di's mouth, and while listening, I nodded from time to time and promised, “Oh, oh... what? Selling alcohol? My last name is Zhang, oh!”
+The county official shouted, “Officers, tie up that old man Zhang who sells alcohol to me!” Soon, old man Zhang was tied up by government officials and pushed in front of the county officials. The county official said, “Old man Zhang, Grandpa Di just said that the money and luggage placed behind it were stolen by you, and you haven't brought them in person!” As soon as old man Zhang heard it, he didn't dare not admit it. He quickly knelt down and asked for forgiveness: “The county boss pardon his life. I'll just bring 52 pieces of money and luggage back to Ma San.” The county official said, “Old Man Zhang beat me the 40th board again.” The government officials immediately knocked down Old Man Zhang and beat the 40th National Board.
+Total 2 pages: Previous Page 12 Next Page
+Tag: County Order Case
+Copyright Notice: The opinions in the article only represent the author's views. They are used as a reference and do not represent the views of this site. Some articles come from the Internet. If the images and text on the website infringe your copyright, please contact us to delete and process them promptly! When reprinting the content of this site, please indicate the reprinted website, author, and source to avoid unnecessary infringement disputes.
+ 
+
+ Previous: A whirlwind of wisdom 
+ Next: Pretty daughter-in-law who climbed out of an earthen pit
+Related recommendations
+Pick a piano 
+ Pretty daughter-in-law climbed out of an earthen pit 
+ Case reviewed by prefectural order 
+ A whirlwind of wisdom 
+ Behind the suicide 
+ Black dog 
+ Dingzhi County Goose Inspection 
+ The Strange Case of Ghosts 
+ Doctor Zhang's death 
+ The mystery of the hanging coffin 
+ Dormitory building anecdotes 
+ Murder without a trace 
+ Strange murders 
+ Mysterious Case of the Famous Catch 
+ Yao County Order Judgment Stone
+AI Translated   
+
+
+
+
+

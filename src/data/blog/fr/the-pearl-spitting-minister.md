@@ -1,0 +1,36 @@
+---
+pubDatetime: 2026-11-10 01:06:33
+title: "Le ministre Pearl-Spitting"
+featured: false
+draft: false
+description: "Le roi de Chine méridionale a emprunté le ministre du Nord, qui a souri et craché des perles. Il a fait de son mieux pour faire fortune mais n'a pas ri pendant un an. À la fin de la fête d'adieu, la princesse a réprimandé le roi pour des questions insignifiantes, et le roi s'est giflée. Le ministre a ri et a craché des perles sur toute la terre. Il s'avère qu'il a vu la princesse entrer dans le ring de nuit et qu'il a été fouetté par des chevaux mais lui a chuchoté pour demander pardon. L'histoire fait la satire de l'étrange hypocrisie de la cour royale."
+---
+
+
+
+![AstroPaper I18n](/the-pearl-spitting-minister.png)
+
+
+
+
+ Il y a un roi dans le Nord, et il a un incroyable ministre sous ses ordres. Dès qu'il sourit, il crache un collier de perles scintillantes. En conséquence, non seulement les rois du nord du pays s'enrichissent, mais la vie des gens ordinaires devient également plus facile, suscitant l'envie dans de nombreux pays. Le roi du Sud, en particulier, passait toute la journée et toute la nuit à s'enquérir des secrets de la prospérité du Nord.
+Un jour, King of the South a convoqué des ministres pour discuter d'un vieux sujet qui n'aurait jamais pu être discuté. Le roi a déclaréxa0: «xa0Parlons de la population à peu près la même que celle du nord du pays et de la taille du pays. Pourquoi sont-ils si riches alors que nous sommes si pauvresxa0?xa0» Un courtisan qui vient de se rendre dans le Nord a déclaréxa0: «xa0Roi, j'ai entendu dire qu'il y a un courtisan dans le Nord qui peut lui cracher des perles dans la bouche. C'est la cause première de leur richesse.xa0» Le roi a écouté et s'est montré très réticent. Il a dépêché à la hâte quatre envoyés, a apporté toutes sortes de cadeaux précieux et a personnellement écrit une lettre. La lettre disaitxa0: «xa0Je salue le roi du Nord et j'ai envoyé quatre envoyés pour exprimer mes souhaits. S'il vous plaît, prêtez-moi le ministre de votre pays pour cracher des perles pendant un an, et je les rendrai certainement le moment venu.xa0»
+Le roi du Nord a reçu la lettre et le cadeau et a accepté avec un sourire. Au même moment, il a dit aux quatre envoyésxa0: «xa0Veuillez dire à votre roi que le ministre peut le prêter à votre pays. Dès qu'il a souri, il a pu cracher un collier de perles. Cependant, c'est à vous qu'il va rirexa0; à cause de ce ministre, il ne peut pas rire facilementxa0».
+Bientôt, quatre envoyés ont accompagné le ministre qui a craché des perles et est retourné à la cour du Sud avec divers bijoux rendus par le roi du Nord. Le roi du sud de la Chine était ravi. Il a personnellement envoyé quelqu'un pour construire un magnifique palais, a construit un jardin confortable, a sélectionné de belles femmes de tout le pays pour chanter et danser pour lui et a spécialement trouvé quelques clowns pour le faire rire de différentes manières.
+Cependant, le temps passait de jour en jour, janvier et janvier, et le roi de Chine méridionale avait épuisé toutes les méthodes. Le ministre avait toujours un ciel sombre et nuageux sans aucun sourire. Bien sûr, il n'a pas craché une demi-perle.
+Alors que l'année était sur le point de s'écouler, le roi du sud de la Chine n'a eu d'autre choix que d'endurer la douleur et a écrit cette lettre au Nordxa0: «xa0Roi, je te suis très reconnaissant d'avoir pris soin de moi et d'avoir envoyé le ministre qui crachait des perles rester dans notre pays pendant un an. Comme je n'ai pas la chance de devenir riche, le ministre n'a jamais ri une seule fois ici. Maintenant que l'heure spécifiée est arrivée, je ne veux pas rompre ma promesse initiale et j'ai décidé de laisser ce ministre revenir comme prévu. Dans l'intérêt d'un voyage paisible, veuillez envoyer quatre envoyés dans notre pays pour l'accueillir.xa0»
+Un envoyé du nord du pays est arrivé comme prévu et le ministre qui a craché des perles est sur le point de partir. Malgré sa déception, le roi de Nankoku a organisé un grand festin. Pendant que le roi grillait, il a accidentellement touché le doigt de la reine. De façon inattendue, la princesse a immédiatement changé de visage. Non seulement elle a renversé le vin qu'elle avait à la main sur le visage du roi, mais elle a également réprimandé les invités et les ministres avec un langage grossier. Le roi avait toujours un sourire narquois. Il n'arrêtait pas de s'excuser auprès de la princesse et s'est finalement giflé trois fois en public...
+Quand le ministre crachant des perles a vu ce genre de scène, il a soudainement eu envie de rire. Au début, il a ri doucement, puis a ri fort. Au fur et à mesure que les rires suivaient, Pearl Dingding a fait le tour et les domestiques n'ont pas pu gagner. Le roi, dont le visage était attristé par sa princesse, a vu tellement de perles qu'il est immédiatement devenu joyeux et n'a pas pu s'empêcher de rire. Ma bouche n'arrêtait pas de crierxa0: «xa0Riezxa0! Riezxa0! Riez fortxa0!xa0»
+De retour à la résidence, un envoyé du nord du pays a demandé à la ministre Pearlxa0: «xa0Cela fait un an que vous n'avez pas ri depuis votre arrivée dans le Sud. Pourquoi riais-tu si heureuse tout à l'heurexa0?xa0» Le ministre a déclaréxa0: «xa0L'attitude de la concubine envers le roi tout à l'heure me rappelle quelque chose que j'ai vu de mes propres yeux il y a un demi-mois.xa0»
+«xa0Quel est le problèmexa0?xa0» Les envoyés ont demandé à l'unisson.
+«xa0Ce soir-là, j'étais très triste. Je me promenais seule dans le jardin du palais. Soudain, j'ai vu cette princesse, vêtue de vêtements fins, sortir par la fenêtre de la chambre du roi, comme une voleuse. J'étais sceptique à l'époque et je l'ai suivie tranquillement. La princesse a pris un virage, s'est heurtée à un ring de chevaux sale et malodorant et est tombée à genoux avant que le cheval ne meure. Lorsque Ma Yi a vu la princesse, non seulement elle n'a pas eu de mots survivants, mais elle a plutôt ramassé un bâton en bois et l'a giflée sur la tête et le corps. Tout en frappant, elle a réprimandéxa0: «xa0Maixa0! Des produits bon marchéxa0! Pourquoi es-tu arrivé à Cheng maintenantxa0? 'Au lieu de résister, la princesse a tenu les pieds de Ma Yi et n'arrêtait pas de demander pardonxa0:
+«xa0Le roi vient de se saouler et je n'ai pas pu sortir. Je suis un peu en retard, bats-moixa0! Frappe-moi si fortxa0! «xa0La princesse était si puissante pour le roi et si pathétique devant Ma Yu que je n'ai pas pu m'empêcher de rire.xa0» Lorsque le ministre crachant des perles a dit cela, non seulement les envoyés n'ont pas ri, mais ont plutôt soupiré et ont ditxa0: «xa0Hélasxa0! Il y a vraiment toutes sortes d'oiseaux étranges dans la forêtxa0; dans le palais, il y a toutes sortes de choses étrangesxa0!xa0»
+Récitxa0: Shigatse CPPCC Yuzhu Zhuo Ma
+Enregistrement du 10 juillet 1979
+Trié en 1982/2
+Traduit par IA   
+
+
+
+
+

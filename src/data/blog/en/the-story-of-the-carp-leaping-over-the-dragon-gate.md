@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-12 14:16:40
+title: "The Story of the Carp Leaping over the Dragon Gate"
+featured: false
+draft: false
+description: "A group of East China Sea carp leaped against the Dragon Gate. The gray-eyed carp was destroyed in the middle. The gold-backed and white-bellied carp practiced jumping hard, and were encouraged by Yu Wang to make concerted efforts to leap to Dragon Gate through the storm. A golden-backed carp used waves to take to the sky and turned into a golden dragon, and the top of its head was lit red. The story depicts folk wisdom that can only be achieved through diligent study, hard work, and solidarity."
+---
+
+
+
+![AstroPaper I18n](/the-story-of-the-carp-leaping-over-the-dragon-gate.png)
+
+
+
+
+ There is a large group of gold-backed carp, white-bellied carp, gray-eyed carp. I heard that Yu Wang wanted to choose the merry Yuxiu who can jump on the dragon gate to manage the dragon gate, so they formed a group and went up against the flow along the Yellow River.
+Before seeing Dragon Gate's shadow, the grey carp was beaten by the sediment in the Yellow River and turned away. They turned their head around, went down the river, and swam back to the Yellow Sea without much effort. Unfortunately, when I ran into a fish, turtle, and sea monster with a big mouth, I felt sorry.
+However, the gold-backed carp and white-bellied carp formed a long line of snakes. They took turns playing forward and hitting the waves. They traveled day and night, and finally swam to the foot of the Dragon Gate. They stuck their heads out of the water and looked up at the dragon gate: they saw the magical dragon gate on both sides, each with a thick white marble pillar hugging each other. The jade pillar is carved with a vibrant stone dragon. The dragon wrapped around the jade pillar and circled up until the top of the hundred columns. The water waves in the dragon gate are raging, and the silver drops of water splash onto the dragon head — just like a bizarre color picture of “Two Dragons Play”. The background is a blue sky and white clouds, reflecting the stone carvings on both sides of the dragon gate: “Long, long, long, long, facing forward”. This scenery is better than that of Horai Wonderland.
+When the carp saw the beautiful scenery, they signed up for Yu Wang to take the test. As soon as Yu Wang saw it, he said, “Ichthyosaurs are originally the same species; if you jump up to the Dragon Gate, you become a dragon.”
+As soon as the carp heard it, they immediately waved their gills, causing them to leap forward with full energy. Unexpectedly, as soon as they jumped more than a foot above the surface of the water, they fell down and fell on the surface of the water. It was always painful and painful. But they didn't get discouraged; instead, they worked hard day and night to do tail-jumping skills. After practicing directly like this for 7 749 days, I was able to jump 7,749 feet in one fell swoop. However, it is still far from being able to jump over that hundred dragon gates.
+When Daewoo saw that the carps were willing to work hard, he turned them on and said, “What a big group of fish!” A golden-backed carp listened to Yu: Wang understood Wang's words and said to the group of fish, “Isn't Yu Wang saying, 'What a big group of fish', inspired us to work together to leap to the Dragon Gate?” The fish shouted in unison: “Thank you, King Yu!”
+The carp shook their heads and tails with joy. They stared and bulged their gills one by one, hitting the surface of the water with their tails, only to hear the sound of “” hitting the water one after another. One leap was 7,749 feet high, one by one in the middle of the air, took a breath, and then leaped 7,749 feet high. Only two feet away. Yu Wang used his hand to blow through a fresh breeze, and the wind encouraged the fish to leap, and the fish leaped one by one to the dragon gate they yearned for day and night.
+However, it is said that there is a gold-backed carp that invokes air for all the fish. All the companions who watched it jumped up to the Dragon Gate, but they stayed at the foot of the dragon gate. It thought: Why don't I use water power to jump up the dragon gate. It just so happened that the water of the Yellow River was rushing over the boulders in the center of the Longmen River. The waves splashed tens of feet high. This golden-backed carp rushed out of the water, jumped on the peak of the waves, and hit the tip of the waves with its tail. As soon as the fish jumped up, it jumped to the blue sky and white clouds. Suddenly, it floated softly over the Dragon Gate, like a dragon descending from Heaven. As soon as Daewoo saw it, he was amazed. Immediately, the head of this gold-backed carp turned red. In an instant, the ichthyosaur changed. The golden-backed carp became an auspicious object, a golden dragon. Dayu Life Golden Dragon led the carp to guard the dragon gate. According to the legend of the Strange Old Man, people who used to fish in the Yellow River caught red carp on their heads immediately put them back in the Yellow River. The school's admissions list, and the practice of flashing red names comes from this.
+Since ancient times, there have been many people studying in Hancheng, so it is known as “fish leaping to the dragon gate”. “Longmen Academy” has also been set up in Hanseong City. There is a brick “Fish Leap Dragon Gate” on the wall of the main gate of the Temple of Literature.
+AI Translated   
+
+
+
+
+

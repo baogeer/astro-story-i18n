@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-04 05:51:45
+title: "Les amoureux des papillons"
+featured: false
+draft: false
+description: "Zhu Yingtai, une femme déguisée en homme, est allée étudier à Hangzhou. Elle a fait partie de la même famille que Liang Shanbo pendant trois ans. Elle est très affectueuse. Mais le père l'a bénie avec la famille de Ma et Liang Shanbo est morte de chagrin. À la fin du mariage, la Grande-Bretagne et Taïwan ont pleuré et ont sacrifié la tombe de Liang. La tombe est tombée en panne et les deux ont volé dans les airs pour résister aux contraintes des rituels féodaux."
+---
+
+
+
+![AstroPaper I18n](/the-butterfly-lovers.png)
+
+
+
+
+ Il était une fois un propriétaire du nom de famille Zhu, connu sous le nom de Zhu Yuan, et sa fille Zhu Yingtai était non seulement belle et généreuse, mais aussi très intelligente et studieuse. Cependant, comme les femmes n'étaient pas autorisées à étudier dans les académies dans les temps anciens, Zhu Yingtai devait s'appuyer tous les jours sur la clôture de la fenêtre et regarder les lecteurs qui allaient et venaient souvent dans la rue avec des bibliothèques. J'étais très jalousexa0! Les femmes peuvent-elles broder uniquement à la maisonxa0? Pourquoi ne puis-je pas aller à l'écolexa0? Elle s'est soudainement demandéxa0: Ouixa0! Pourquoi ne puis-je pas aller à l'écolexa0?
+En y réfléchissant, Zhu Yingtai est rapidement retournée dans sa chambre et a eu le courage de demander à ses parentsxa0: «xa0Papa, maman, je veux aller étudier à Hangzhou. Je peux porter des vêtements pour hommes et avoir l'air d'un homme. Je ne laisserai personne me reconnaîtrexa0; promets-le-moixa0!xa0» Zhu Yuanwai et sa femme ont commencé à ne pas être d'accord, mais ils n'ont pas pu résister aux tentations de la Grande-Bretagne et de Taïwan, ils ont donc dû se mettre d'accord.
+Tôt le lendemain matin, dès que le ciel s'est couvert d'ombre, Zhu Yingtai s'est déguisée en vêtements d'homme avec sa maîtresse, a dit au revoir à ses parents, a apporté une bibliothèque et est partie joyeusement pour Hangzhou.
+Le premier jour d'école, Zhu Yingtai a rencontré un camarade de classe masculin nommé Liang Shanbo. Il était très instruit et avait une très bonne personnalité. Elle a penséxa0: Si une personne aussi gentille était ensemble tous les jours, elle apprendrait certainement beaucoup et serait très heureuse. Pendant ce temps, Liang Shanbo se sentait également très attaché à ellexa0; il avait l'impression de l'avoir vu au premier regard. En conséquence, ils se sont souvent mis d'accord sur la poésie et la littérature ensemble. Ils prenaient soin les uns des autres froidement et chaleureusement, et se tenaient côte à côte, sans deviner. Plus tard, les deux sont devenus frères et étaient inséparables tout le temps.
+Du printemps à l'automne, trois ans se sont écoulés en un clin d'œil et l'année scolaire est terminée. Il est temps de préparer quelques vêtements, de dire au revoir aux professeurs et de retourner dans votre ville natale. Dans le même cercle depuis trois ans, Zhu Yingtai est déjà profondément amoureuse de son frère Leung. Bien que Liang Shanbo ne sache pas que Zhu Yingtai est une fille, il l'aime aussi beaucoup. Ils n'avaient pas d'autre choix que de rompre amoureux, et quand ils sont rentrés chez eux, ils se manquaient jour et nuit. Quelques mois plus tard, Liang Shanbo a rendu visite à la famille de Zhu. Les résultats l'ont surpris et ravi. Il s'avère qu'à ce stade, Zhu Yingtai qu'il a vue n'était plus cette belle jeune étudiante, mais une jeune et belle grande fille. Au moment où ils se sont vus au revoir, ils ont tous compris leurs sentiments l'un pour l'autre et leur cœur était déjà sur la même longueur d'onde.
+Après cela, Liang Shanbo a invité quelqu'un à se rendre chez Zhu pour demander une famille. Mais comment quelqu'un d'autre peut-il regarder ce pauvre éruditxa0? Il a déjà donné sa fille Xu au jeune grand-père Ma Gong issu d'une famille riche. Burton Liangshan a estimé que toutes ses pensées étaient vaines. Il est mort peu de temps après être tombé malade.
+En apprenant la nouvelle de la mort de Liang Shanbo, Zhu Yingtai, qui se battait avec ses parents contre les mariages arrangés, est soudainement devenue exceptionnellement calme. Elle a enfilé une robe rouge et est entrée dans le kiosque de fleurs pour accueillir sa famille. L'équipe accueillante a joué de la batterie et de la batterie tout le temps, donc c'était vraiment amusantxa0! En passant devant la tombe de Liang Shanbo, tout à coup, du sable et des pierres ont volé et la voiture à fleurs a dû s'arrêter. J'ai vu Zhu Yingtai sortir de la voiture, enlever sa robe rouge, marcher lentement vers le devant de la tombe, s'agenouiller et pleurer fort. Soudain, le vent et la pluie ont tremblé, le tonnerre et le bruit du «xa0boumxa0» a fait craquer la tombe. Zhu Yingtai a semblé revoir le visage doux de son frère Leung. Elle a souri et a sauté dedans. Puis il y a eu un autre bruit fort et le tombeau s'est fermé. À ce stade, le vent s'est dissipé, la pluie s'est calmée, toutes sortes de fleurs sauvages se balançaient doucement dans le vent et une paire de beaux papillons sont sortis des tombes et ont dansé librement au soleil.
+Traduit par IA   
+
+
+
+
+

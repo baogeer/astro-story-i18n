@@ -1,0 +1,31 @@
+---
+pubDatetime: 2026-11-07 08:50:13
+title: "La légende des cadavres ambulants dans l'ouest du Hunan"
+featured: false
+draft: false
+description: "La partie occidentale de la région de Xiangxi compte de nombreuses montagnes et il est extrêmement difficile pour ceux qui sont morts au combat de rentrer chez eux et d'être enterrés. La légende raconte que Lu You et son maître militaire ont fait rentrer par leurs propres moyens les corps des soldats tués au combat dans leur ville natale. De ce fait, la pratique consistant à fouiller les cadavres a également évolué vers la sorcellerie, reflétant la culture des sorcières de Xiangxi."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-walking-corpses-in-western-hunan.png)
+
+
+
+
+ Les Chinois sont particulièrement attachés à leur terre natale. Dans tous les cas, la chute des feuilles doit revenir à ses racines. Lorsque des visiteurs meurent en provenance d'autres lieux, leurs ancêtres doivent être enterrés s'ils le souhaitentxa0; les enfants et petits-enfants filiaux doivent rentrer chez eux après leur décès, et la famille et les amis sont également tenus de financer cette affaire.
+Cependant, dans le cours supérieur du fleuve Yuanjiang, dans l'ouest du Xiangxi, la région est pauvre. La plupart des personnes pauvres se rendent dans les régions orientales du Sichuan ou de Qiandong pour gagner leur vie. Il y a de nombreuses montagnes et montagnes. La peste dans les montagnes est très grave. Le paludisme est souvent répandu et le cadre de vie est extrêmement pauvre. Hormis les Miao locaux, peu d'étrangers s'y rendent.
+Aucun des Han morts dans ces endroits n'était riche. Traditionnellement, le peuple Han avait l'idée profonde de transporter les cadavres dans leur ville natale pour y être enterrés. Cependant, même s'ils étaient riches, il était difficile de les transporter dans une voiture ou une civière. Certaines personnes ont donc inventé cette étrange méthode économique pour ramener les morts chez eux.
+La légende raconte qu'il y a des milliers d'années, Apu (Hmongxa0: beau-père) Lu You, un ancêtre du peuple Miao, a dirigé une armée pour combattre les forces hostiles le long du fleuve Jaune jusqu'à ce que les morts se répandent sur tout le terrain et que le sang devienne une rivière.
+Une fois la bataille terminée, ils ont dû se retirer vers l'arrière. Après que les soldats aient emmené tous les blessés, Apuchiyou a dit au sergent Apu, qui l'entouraitxa0: «xa0Nous ne pouvons pas laisser derrière nous nos frères qui sont morts ici. Et si tu utilisais un peu de magie pour ramener ces bons frères dans leur ville natalexa0?xa0» Le sergent Apu a ditxa0: «xa0OK. Vous et moi allons changer de tenuexa0; vous ouvrez la voie avec des «xa0runesxa0» devant, et je superviserai à l'arrière.xa0»
+En conséquence, le sergent Apu, déguisé à l'effigie d'Apuchiyou, s'est tenu au milieu des cadavres des frères morts au combat. Après avoir médité sur les sorts et prié les dieux, il a crié aux cadavresxa0: «xa0Maudits frères, c'est l'endroit où ils sont morts. C'est vraiment triste de mourir en vain. Les parents de la ville natale espèrent Lu, tandis que la charmante épouse et le jeune enfant espèrent rentrer chez eux.
+«xa0Il n'est pas nécessaire de se perdre dans son âme. Dépêche-toi comme Ritsuryo, allons-yxa0!xa0» Tout à coup, les cadavres gisant sur le sol se sont soudainement levés et ont suivi les règles du «xa0Festival des runesxa0» d'Aphuyu Gaoqing et se sont dirigés vers le sud. La poursuite de l'ennemi est arrivée et la méthode manuelle de l'équipe militaire d'Apu a permis d'introduire le «xa0Five Greater Fogxa0», piégeant l'ennemi dans une extase.
+Comme c'est le sort «xa0maîtrexa0» (exécution et intention d'opération) de l'armée du général Apu qui a mis tout le monde hors de danger, tout le monde l'a depuis surnommé «xa0Bossxa0»xa0; également parce que le dernier ennemi utilisé par Apu Lao Si était en fait un «xa0art du brouillardxa0» et que les traits de «xa0brouillardxa0» étaient trop difficiles à écrire, il a donc été remplacé par le mot «xa0sorcièrexa0».
+En fait, cette sorcellerie est aussi un hiéroglyphexa0: l'horizontale supérieure représente le ciel ou le brouillard, et celle du milieu représente la «xa0runexa0»xa0; la verticale de chaque côté de la verticale représente Appiyu, et celle de gauche représente Apu Lao, ce qui signifie que deux personnes doivent unir leurs forces pour pratiquer la sorcellerie.
+La véracité de cette légende ne peut plus être vérifiée, mais il ne fait aucun doute que la sorcellerie est populaire dans la région des Hmong. Les recherches montrent que le peuple Miao a été le premier peuple de notre pays à inventer les armes, le droit pénal et la sorcellerie. Dans certaines régions peuplées par les Hmongs, ils ont encore de fortes traditions de culture des sorcières. Dans une certaine mesure, l'extermination des cadavres est une expression de la culture des sorcières dans l'ouest du Xiangxi.
+Traduit par IA   
+
+
+
+
+

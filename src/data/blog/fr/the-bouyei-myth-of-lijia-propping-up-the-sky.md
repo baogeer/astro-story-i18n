@@ -1,0 +1,38 @@
+---
+pubDatetime: 2026-11-15 12:14:56
+title: "Le mythe de Bouyei selon lequel Lijia soutient le ciel"
+featured: false
+draft: false
+description: "Dans la mythologie Buyei, le ciel et la terre anciens étaient extrêmement proches et la souffrance des personnes qui se prosternaient était indicible. La force énergétique était immense. Après avoir amené la foule à travailler dur pour soutenir le ciel, il s'est également arraché les dents et a tourné ses yeux vers le soleil et la lune, transformant son corps en montagnes, en rivières et tout le reste. Après son épuisement, il s'est sacrifié pour créer un monde complet, et les gens se souviennent de ses mérites depuis des générations."
+---
+
+
+
+![AstroPaper I18n](/the-bouyei-myth-of-lijia-propping-up-the-sky.png)
+
+
+
+
+ Dans des temps très anciens, le ciel et la terre n'étaient séparés que de trois pieds trois pouces et trois minutes l'un de l'autre. Au printemps, la carapace du cheval touche le cielxa0; lorsque vous creusez le sol, tant que vous utilisez une force légère, la houe touche également le cielxa0; vous ne pouvez tenir que la charge plate d'eau sur le côtéxa0; sinon, vous devez également toucher le cielxa0; quand les gens vont au travail, ils s'inclinent toute la journée et ils ne peuvent même pas étirer leurs hanches.
+Le ciel et la terre sont si proches qu'il n'est pas pratique de faire quoi que ce soit, alors tout le monde se plaint. À cette époque, il y avait un descendant nommé Rikou. Il avait des sourcils épais et de grands yeux. Il avait une taille épaisse et des bras ronds et mesurait neuf pieds et neuf pouces de long. Il était très fort. Quatre-vingt-dix-neuf rhinocéros ne pouvaient pas l'égaler. Comme tout le monde, Lika a eu du mal toute la journée. Non seulement cela provoque des douleurs aux pieds et aux jambes, mais la peau de son dos a été effacée par le ciel. Voyant que tout le monde se plaignait, il n'a pas pu s'en empêcher, alors il a retroussé ses manches et a dit à tout le mondexa0: «xa0Éloignez-vous et laissez-moi tenir le ciel plus haut.xa0»
+Quand il a fini de parler, il a levé le ciel un peu fort, mais il n'a secoué le ciel et le sol que quelques foisxa0; ils n'ont pas tenu le coup. Il a également dit à tout le mondexa0: «xa0Je ne semble pas être capable de le faire seul. Je vois les choses de cette façon. Vous êtes tous prêts avec des houes et des bras plats, et je travaille également d'arrache-pied. Le moment venu, tout le monde soutiendra le ciel ensemble.xa0»
+Après avoir parlé, Ricard est allé manger trois pierres, trois seaux, trois litres de riz gluant, a bu trois pots et trois bols de vin de riz gluant et a dormi trois jours et trois nuits. Le quatrième jour, je me suis levée et je me suis étirée, et mes muscles étaient tendus sur tout mon corps, faisant un bruit «xa0fortxa0». Ensuite, il a appelé tout le monde pour l'aider à s'entendre. Tout le monde s'est rassemblé et ils ont tous levé le ciel avec leurs houes. Ils se sont réjouis et ont crié «xa01 - 2 - 3xa0». La foule a crié «xa0Bonjourxa0» et a déployé des efforts concertés pour les soutenir. Ils ont donc maintenu le ciel à plus d'un mètre. Cependant, Li Ga a estimé que le ciel n'était pas assez fort, alors il a dit à tout le mondexa0: «xa0Ce n'est pas normal qu'un génie soit aussi grand. Vous travaillez tous ensemble pour tenir le coup en ce moment, laissez-moi changer mon souffle et faire de mon mieux pour le retenir un peu.xa0»
+Quand Ricard a fini de parler, il a pris une profonde inspiration. Des feuilles de banian, des feuilles de coton, des camélias et des lauriers roses étaient tous aspirés dans son estomac. Ses yeux étaient exorbités de la taille d'un bol de mer et ses muscles gonflaient aussi épais qu'une pousse de bambou. Avec un «xa0réveille-toixa0!xa0» Il a travaillé dur pour maintenir le ciel vers le haut avec ses deux mainsxa0; le ciel a été maintenu à une hauteur de 99 999 pieds et le sol a été pédalé à une profondeur de 99 999 pieds.
+Le ciel tient le coup, mais je ne peux malheureusement pas rester làxa0; il s'effondrera dès que je lâcherai prise. Que dois-je fairexa0? Après y avoir réfléchi, Rikar a tenu le ciel de sa main gauche, a arraché toutes ses dents de sa main droite et a utilisé ses dents comme clous pour clouer le ciel. Après cela, la dent clouée au ciel s'est transformée en un ciel plein d'étoilesxa0; lorsque le sang a coulé lorsque la dent a été retirée, il est devenu un arc-en-ciel.
+Li Ga a travaillé sans relâche. Il travaillait toujours dur, et quand il était fatigué, il haletait et transpirait à nouveau. Quand il haletait, le vent se transformait en ventxa0; quand il était négligent, il pleuvaitxa0; dès qu'il était négligent, le motif floral sur sa tête tombait, et c'était une galaxiexa0; quand il clignait des yeux, c'était un éclairxa0; quand il toussait, c'était le tonnerrexa0; quand il enlevait son sweat-shirt blanc, c'était un nuage.
+Le ciel s'est stabilisé. Malheureusement, il n'y a ni soleil ni lune, il n'y a pas de lumière dans le monde et les récoltes ne peuvent pas pousser. Que dois-je fairexa0? Quand j'y ai pensé, je n'ai pas hésité à me couper l'œil droit avec ma main droite. Quand je l'ai accroché du côté est du ciel, il est devenu le soleilxa0; quand j'ai déterré mon œil gauche avec ma main gauche et que je l'ai accroché du côté ouest du ciel, il est devenu la lune.
+Ricard est occupé depuis 81 jours et tout a été arrangé avant qu'un «xa0bruit sourdxa0» ne retentisse. Quand il a atterri sur le sol, la terre entière a tremblé comme un bateau à la dérive sur l'eau. L'endroit où il est tombé était à l'est. Le terrain à l'est s'est incliné de 9 pieds 9 pouces en 9 minutes. Depuis lors, l'eau s'écoule vers l'est.
+Alors qu'il était occupé à clouer le ciel, Ricard n'avait ni mangé ni bu depuis une journée en 1981. Ses dents avaient été retirées et son sang était épuisé. Quand il est tombé au sol, il est tombé trop fort. Peu après, il est mort.
+Après la mort de Lijia, son gros intestin est devenu une rivière d'eau rouge, son intestin grêle est devenu une rivière de fleurs, son cœur est devenu une rivière d'eau, ses bras et ses poignets et une collinexa0; ses os sont devenus des pierresxa0; ses cheveux sont devenus des boisxa0; ses sourcils sont devenus du chaumexa0; ses oreilles sont devenues des fleursxa0; sa chair est devenue des champsxa0; ses muscles sont devenus des routesxa0; ses orteils sont devenus toutes sortes d'animauxxa0; ses doigts sont devenus toutes sortes d'oiseaux volants.
+Depuis lors, le ciel est plus haut, la terre est plus basse et le ciel et la terre sont très éloignés l'un de l'autre. Le ciel avait le soleil, la lune, les étoiles, la galaxie, les arcs-en-ciel, les nuages, le vent, la foudrexa0; le sol avait des montagnes, des rivières, des champs, des puits, des routes, des arbres, de l'herbe, des fleurs, des animaux, des oiseaux, des vaches et des chevaux.
+Il y a toutes sortes de choses dans le monde. Tout le monde est incroyablement heureux et ils sont très énergiques lorsqu'ils ramassent les récoltes. Les générations n'ont jamais oublié le mérite de leur dur labeur.
+Zone de circulationxa0: Toute la région de Buyei
+Narrateurxa0: Wang Yanchun, Fu, grand-père Ban Gao, etc. (groupe ethnique Buyei)
+Période de collectexa0: 1954
+De la collection de la rivière Xunhe, «xa0Une collection de contes populaires de Buyeixa0», China Folk Art Press, édition 1982
+Traduit par IA   
+
+
+
+
+

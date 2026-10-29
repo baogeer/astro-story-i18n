@@ -1,0 +1,46 @@
+---
+pubDatetime: 2026-11-05 06:38:29
+title: "La femme Fox"
+featured: false
+draft: false
+description: "La famille de Wang Xiao est pauvre. Elle gagne sa vie en chassant des ânes et en vendant du bois de chauffage. Lorsqu'elle est retournée à Shahe le soir, elle a rencontré à plusieurs reprises une belle femme pour l'aider à traverser la rivière à dos d'âne. Les voisins du village le soupçonnaient d'être un esprit renard et lui ont appris à utiliser le sang de son majeur pour briser le sort. Wang Xiao a jeté du sang selon son plan. La femme était effrayée mais n'est pas apparue dans sa forme originale. L'aventure a pris fin brusquement, impliquant des mystères folkloriques difficiles à discerner par les ladyboys."
+---
+
+
+
+![AstroPaper I18n](/the-fox-wife.png)
+
+
+
+
+ Dans le passé, à l'extérieur de Lengkou, dans l'est de Jidong, il y avait de grandes montagnes et forêts, peu de personnes* et il y avait de nombreux animaux sauvages dans les montagnes. Il y a un petit village appelé Xiaowangzhuang au pied du mont Dashi, avec moins de dix familles. L'homme est mort prématurément. Seule sa mère a traîné son jeune fils Wang Xiao pour qu'il vive. L'orpheline et veuve a vécu une vie difficile. Il n'y avait ni champs ni terres. Ils avaient deux maisons au toit de chaume pour passer leurs journées. Les habitants de Zhuangli ont ditxa0: «xa0Qui épouserait une telle famillexa0?xa0»
+D'ailleurs, mon fils Wang Xiao a grandi de jour en jour, mais il a également pris soin de sa famille avec diligence, coupant du bois de chauffage tous les jours et le vendant froid. Après avoir fait quelques économies, j'ai acheté un âne et je l'ai vendu avec du bois de chauffage. Non seulement j'ai libéré mes épaules, mais j'ai également pu emporter certains articles ménagers tels que du sel, de l'alcali et de la saumure de ma bouche et des outils tels que des pelles, des pioches, des houes et des faucilles. Les jours se sont un peu améliorés, mais en ce qui concerne la famille, les gens sont toujours... *. Wang Xiaodu a 26 et 7 ans. Sa belle-fille est toujours portée disparue, ce qui fait pleurer et soupirer sa mère tous les jours.
+Un jour, Wang Xiao s'est rendu à l'entrepôt frigorifique pour vendre du bois de chauffage et est revenu un peu tard. Au bord de la rivière Sha, il était temps pour le Coq doré de tomber par terre et pour le Yutu de s'élever vers l'est. Wang Xiaozheng a retroussé son pantalon et s'apprêtait à faire traverser la rivière à un âne. Il a entendu une petite question gentille venant de sa droitexa0: «xa0Grand frère, la petite fille est poliexa0! Aimerais-tu traverser la rivière, frère aînéxa0?xa0»
+Wang Xiao Ding a regardé de près, oupsxa0! Ma mère, quelle belle femmexa0! Par une soirée brumeuse, j'ai vu sa taille et ses jambes fines, ses cheveux noirs teints comme des cheveux noirs, son petit visage aussi brillant qu'une lune brillante et ses yeux brillants comme les perles de la nuit. Ce seul regard a empêché Wang Xiaohun de suivre le rythme. Il a rougi et a répondu avec désinvolturexa0: «xa0Uh-huh, traverse la rivière.xa0»
+La femme était heureuse de direxa0: «xa0Grand frère, comme par hasard, la petite fille doit également traverser la rivière. Regarde, l'eau est fraîche ce soir. Je suis une femme...xa0»
+La beauté de la femme comme une fée a fait voler Wang Xiaohun dans le ciel. Ces quelques mots de tendresse donnaient encore plus à Wang Xiaoru l'impression d'être ivre et de dériver comme une fée. Il a dit avec enthousiasmexa0: «xa0Allons à dos d'âne, pourquoi tournez-vous toujours au coin de la ruexa0?xa0»
+La femme a ditxa0: «xa0Eh bien, la petite fille est reconnaissante à son frère aîné.xa0» En parlant d'argent, je me suis approchée de l'âne et j'ai souri mystérieusement, puis j'ai suivi le roman de Wangxa0: «xa0Grand frère, aide la petite fillexa0».
+Wang Xiao s'est frotté les mains. C'était un peu gênant, mais les yeux de la belle femme le suppliaient toujours. Il pensait qu'aucune des femmes ne s'en souciait. De quoi ont peur vos aînésxa0? Il a lâché sa main en tirant sur les rênes, et dès qu'il se penche, il tient la femme devant l'âne. Héxa0! Le corps de la femme était si doux et désossé qu'il rendait les mains de Wang Xiao croustillantes.
+Après avoir traversé la rivière à dos d'âne, la femme est descendue de l'âne et a crié à Wang Xiaoxa0: «xa0Merci, grand frère, il y aura un rendez-vous plus tard.xa0» Avant que Wang Xiao ne réponde, la femme était partie en un clin d'œil, car il faisait noir et elle ne pouvait pas voir à quelle fourche elle était allée. Wang Xiao est rentré chez lui en courant avec l'âne. Elle était très excitée par cette incroyable rencontre. Alors qu'elle marchait sur la route, elle pensait encore à la jolie apparence de la femme. Elle ne pouvait s'empêcher de regarder en arrière, mais la lumière noire brillait.
+Au bout de quelques jours, Wang Xiao est allée vendre du bois de chauffage par temps froid et est redevenue gourmande. Lorsqu'il a atteint la rive de la rivière Shahe, il faisait de nouveau nuit. Il a pensé à la belle femme qu'il avait rencontrée ici il y a quelques jours et son cœur lui démangeait. Ce serait formidable s'il la rencontrait à nouveau. Il a baissé les yeux, a regardé autour de lui et a «xa0rigoléxa0» autour de lui. Il a jeté un coup d'œilxa0; ce n'était pas juste une jolie femme qui est apparue devant luixa0! La femme a souri et a ditxa0: «xa0Pourquoi, grand frère, tu ne me reconnais plusxa0?xa0»
+Wang Xiaozheng l'attendait avec impatience. Il a de nouveau rougi. Il n'avait aucune culture et a ditxa0: «xa0Hé, pourquoi ne le reconnais-tu pasxa0? Brûlée jusqu'aux os et réduite en cendresxa0; je reconnais tout.xa0»
+La femme a ri et a ditxa0: «xa0Tu es vraiment difficile à entendre. Plus de bavardagesxa0; je dois encore traverser la rivière avec l'âne de mon frère aîné.xa0»
+«xa0Au milieu, toi, monte sur un âne.xa0» Wang Xiaoqing n'a pas pu s'empêcher de le dire.
+La femme s'est retournée et a souri et a ditxa0: «xa0Grand frère, tu dois toujours m'aider.xa0»
+Cette fois, Wang Xiaolong a fermement pris la femme et l'a lentement placée sur le dos de son âne. Il s'est senti très heureux. Après avoir traversé la rivière, la femme est redescendue de son âne. Wang Xiao s'est précipitée pour tenir son âne. Après être descendue de l'âne, la femme a souri à Wang Xiaojin et a ditxa0: «xa0Tu n'es pas à l'aise.xa0» Après avoir parlé, il s'est retourné et a disparu dans la nuit.
+Le lendemain, Wang Xiao a sorti les snacks qu'il avait emballés à Zhuangli Zhuang. Tout en les vendant, il a raconté ses deux aventures. Personne à Zhuangli n'y croyait. «xa0Quoixa0? Il n'y a personne à l'intersection de la rivière Shahe sur une distance de dix miles. Ils n'ont pas de village auparavant et ne comptent plus sur un magasin par la suite. La fille aînée et la belle-fille de quelle famille peuvent rester si tard les bras croisés dans la nature sauvagexa0? Toi, Wang Xiao, tu as rencontré un fantôme.xa0»
+Il y a aussi des gens qui se sont moqués du roman de Wangxa0: «xa0Peut-être que c'est une renarde qui te séduit délibérémentxa0; est-ce bien si tu en fais ta belle-fillexa0».
+Wang Xiao a été honnête et l'a pris au sérieuxxa0: «xa0Eh bien, tu peux le fairexa0?xa0»
+«xa0Oui, les démons et les fantômes ont peur du sang du majeur des gens. S'ils prélèvent du sang sur le majeur d'une personne, ils ne retrouveront pas leur forme d'origine.xa0»
+L'orateur n'avait aucune intentionxa0; l'auditeur avait une intentionxa0; Wang Xiao a gardé cette déclaration à l'esprit. Wang Xiao a fini de jeter la marchandise et a gravi la montagne pour abattre une autre meute d'ânes et du bois de chauffage. Le lendemain, Wang Xiaoqi a transporté la meute d'ânes à l'entrepôt frigorifique pour vendre la barge à bois de chauffage. Après une journée bien remplie, il est revenu au bord de la rivière Sha, alors qu'il faisait encore nuit. Par coïncidence, la belle femme l'attendait au bord de la rivière. «xa0Grand frère, la petite fille attend toujours pour traverser la rivière avec ton âne, d'accordxa0?xa0»
+Wang Xiao a souri et a ditxa0: «xa0Cheng, nous nous connaissons tous depuis longtemps. Pourquoi pas, grand-mère, je vais te renvoyer chez toi cette fois.xa0»
+La femme a écouté, s'est couverte le visage et a ditxa0: «xa0Quoixa0! Tu m'appelles grand-mèrexa0? Ce sont toujours les Grandes Filles de la Fleur Jaune, c'est honteuxxa0!xa0»
+Le roman de Wangxa0: «xa0Moi, j'ai fait une erreur. Grande fille, monte sur un âne.xa0»
+Wang Xiao a tenu la femme dans ses bras et s'est assise fermement. Il a fait traverser la rivière à l'âne et a marché jusqu'au milieu de la rivière. Wang Xiao s'est mordu secrètement le majeur, saignant directement. Il s'est retourné, a jeté sa main et a giflé le visage de la femme. La femme a été choquée et a failli tomber du dos de l'ânexa0: «xa0Oupsxa0! Grand frère, pourquoi vas-tuxa0? À quoi ressemble ce truc sale qui me fait ressemblerxa0?xa0»
+Wang Xiao a souri fièrement et a ditxa0: «xa0Je me moque de toixa0; lèche-toi un peu d'eau sur le visage.xa0»
+Traduit par IA   
+
+
+
+
+

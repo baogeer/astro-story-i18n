@@ -1,0 +1,32 @@
+---
+pubDatetime: 2026-11-17 06:54:14
+title: "The Grateful Yi People of Yangbi"
+featured: false
+draft: false
+description: "The Yi brothers and sisters relied on wooden troughs to survive the flood. They had eagles shading the sun, swallows delivering food, and bees delivering water to solve the problem. Later, they also used sparrows and dragons to get away from the cliff. The story explains the customs of the Yi people of respecting eagles, guarding swallows, keeping bees, and catching sparrows to eat grain, and highlights the traditional virtues of Zhien Tu Bao."
+---
+
+
+
+![AstroPaper I18n](/the-grateful-yi-people-of-yangbi.png)
+
+
+
+
+ Zuo Wenhan's oral description u2002 collected and sorted by Zuo Dehui
+Long ago, people lived a happy life with one bite of white rice and one bite of meat. One day, Heaven paid a private visit to the world and saw people light red wine and green, eat, drink, and gamble, and sing and dance. Good fields have been converted into casinos, brothels, and racecourses. People no longer cultivate, and many fields are deserted. The sky looked very angry, and scattered all over the place, saying, “The flood is going to be huge. People who want to live can only save their lives with iron coffins; those who want to die can just use wooden coffins.”
+No one wanted to die. When the flood hit, everyone drilled into the iron coffin, and as a result, they all drowned. There were only two brothers and sisters working in the field. When they saw the flood coming, they immediately fled, but they were swept away by the flood before the ground. When they came out of the water, they floated into a sink made of sama bark (Chinese: mulberry press). They both climbed into the sink and wandered around for 981 days.
+While they were floating on the surface of the water, the sun was hot, and the eagle (Yi: Ah Ken) spread its wings to cover the sun. Therefore, today the Yi people saw an eagle picking chicken and only chased it away. They wouldn't hurt it with guns, bows, etc., and didn't eat its flesh, just to repay the eagle's blessing of shading the sun and saving lives.
+While they were floating on the surface of the water, they were hungry, and food was brought by swallows. Therefore, today the Yi family's swallows (Simaluma) came to make a nest. They were very happy. The adults said, “Swallows brought us good luck.” The child was repeatedly told “Don't hit with a slingshot, don't punch with a stone, let alone poke with a stick. Don't catch little swallows and play with little swallows.” The threat was also to repay the swallow's gift of delivering food and saving lives.
+While they were wandering on the surface of the water, they were thirsty, and honey and water were brought by honeybees (Yi: wipe). Therefore, today, Yi people put honeybee boxes in places at home where rain can't get caught. Some also use yellow bubble spines (Yi: Selu characters) on beehives to prevent domestic cats, wild cats, etc. from harming them. Old local bees (Yi: badu) dare to lift bees. The owner must find a piece of bamboo; they must kill it. Just to repay the bees for delivering water and saving lives.
+After 81 days, the flood slowly fell, and Cangshan gradually revealed the top of the mountain and became an isolated island in the ocean. The brother and sister struggled to paddle the wooden trough and landed ashore at Cangshan Mountain. Unexpectedly, the wooden trough was stuck in the Cangshan rock. The flood further lowered the water level, and the wooden trough was more than 100 meters above the surface of the water. Climb up, steep cliffs; look down, choppy waves. You can't go up, you can't go down; there really is no way to go to heaven and there is no way to go to the ground.
+One day, a fox bee flew over his head. My brother asked, “Brother Bee, do you know how to get to the ground?” The fox bee said, “No way, there is a way to open your brain, eat dry brain pulp, and make a nest in it.” Therefore, today, when the Yi people see foxes, they attack them, and when they see a fox's hive, they burn it, which is a vengeance that foxes see death and cannot be saved, and that they are happy to have misfortune.
+Another day, a sparrow flew over her head. My sister asked, “Sister Sparrow, do you know how to get to the ground?” Sparrow said, “There is a way, but you have to wait a certain amount of time, and you can't just go down right away.” My sister asked, “What method?” Sparrow said, “The solution is to plant a dragon and bamboo tent underneath. When the dragon and bamboo grow up, all of our sparrows will stand on it, and the dragon and bamboo head will be lowered, so you brother and sister can climb down along the dragon and bamboo.” My brother said, “Seems like this is the only way. When that happens, how can we repay it?” Sparrow said, “Originally, we did good deeds without asking for anything in return, but in order to respect your Yi people's kindness and must be rewarded, let us eat a little bit of rice later when it is ripe.” The brother and sister answered in unison: “Deney, Denie, it's a trivial matter.”
+In just a few days, many dragons and bamboo grew at the bottom of the cliff. After a few more days, Dragon Bamboo surpassed the wooden trough where the brother and sister were trapped. After a few days, a group of sparrows flew from the sky like a cloud of chirping, and landed on the top of the tallest dragon and bamboo tree. Dragon and bamboo tips slowly bowed their heads and reached the edge of the wooden trough. The brother and sister successfully descended to the ground.
+At this point, the flood had already receded to the foot of Cangshan Mountain, and the brother and sister continued cultivating fields and started a new life.
+AI Translated   
+
+
+
+
+

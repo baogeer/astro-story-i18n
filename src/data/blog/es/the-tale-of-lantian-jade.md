@@ -1,0 +1,37 @@
+---
+pubDatetime: 2026-11-12 07:32:31
+title: "La historia del jade lantiano"
+featured: false
+draft: false
+description: "En una noche lluviosa, Chun Bao se refugió de la lluvia y se quedó sola en casa y se protegió frente a la puerta hasta el amanecer. La mujer es en realidad una hada de las peonías, Lan Tianyu. Siento su honestidad y amabilidad. Usando la horquilla de jade como símbolo, los dos se convirtieron en pareja. La historia elogia la lealtad y el carácter, y al final, un matrimonio feliz."
+---
+
+
+
+![AstroPaper I18n](/the-tale-of-lantian-jade.png)
+
+
+
+
+ Cuenta la leyenda que en la aldea de Wanhua, en el municipio de Peony, en Caozhou, muchas personas se especializan en el cultivo de flores y llegan a fin de mes vendiéndolas. Hay un pequeño jardín en el lado sur de la aldea de Wanhua. La valla de Chaimen es muy elegante. La persona que vigila el jardín se llama Chun Bao. Tiene 18 años. Cuando era niño, sus padres murieron a causa de una enfermedad. La pequeña Chunbao vivía con su abuelo. La pequeña Chunbao es inteligente, trabajadora y estudiosa, y es querida por todos. Pero, lamentablemente, mi abuelo estaba justo después de convertirse en adulto. Acabo de darme por vencido. Chun Bao se sentía muy triste. Cada mes, cuando cae la brisa de la noche, hace sonar la flauta de bambú que le dejó su abuelo para expresar sus condolencias». Ese día, Chun Bao acababa de cenar y cogió una flauta de bambú. El melodioso y agradable sonido de la flauta se apoderó de la aldea de Wanhua. Al escucharlo, tenía un encanto indescriptible. No sé cuándo compitió el cielo para ver caer la lluvia del suelo en Zhejiang. Movió el banco al interior de la casa y contempló la llovizna que había frente a la puerta. Chun Bao se hundió en sus profundos pensamientos sobre su abuelo. De repente, un hombre tropezó desde afuera y no esperó a que Chun Bao hablara. El primero dijo: «Siento molestarte, déjame protegerme de la lluvia aquí, ¿de acuerdo?
+Al oír el sonido, era una mujer. Chun Bao encendió rápidamente la luz. Bajo la luz, Chun Bao puede ver con claridad. Esta chica se ve hermosa y tiene una apariencia hermosa. La lluvia caía por las puntas de su cabello y su hermosa mascota de rostro blanco era aún más impresionante.
+Chun Bao no supo qué decir durante un momento. Creí que estaba lloviendo tanto que una mujer vino a pedir ayuda, pero no pudo evitar estar de acuerdo. Pero la casa es muy pequeña. ¿Qué debo hacer si la dejo?
+La niña vio que no estaba hablando y dijo: «Si estás realmente molesta, buscaré otro». Me di la vuelta y tuve que salir.
+Chun Bao detuvo apresuradamente a la niña y dijo: «¡Chica, por favor, quédate! Chicas, si no les gusta el desorden que hay aquí, aléjense de la lluvia». Pensó para sus adentros: «Si la chica se fuera, yo no sería un desastre, simplemente manténganse protegidos de la lluvia». En su corazón pensó que si la chica se marchaba, yo sería una mujer benévola. La niña estaba muy feliz e incluso agradeció.
+Cuando Chun Bao vio que la chica estaba toda mojada, su cuerpo tembló un poco. Pero no tenía ropa que ella pudiera reemplazar. Pensó en ello y le dijo a la niña: «Tú primero mantente abrigada en la casa; yo iré a ver las flores del jardín». Cogí el abrigo que estaba colgado en la pared, salí por la puerta y dejé a la niña sola en la casa. Chun Bao caminó un rato por el jardín y vio que llovía sin intención de parar. Caminando por el jardín, sin darse cuenta caminó hacia el frente de la casa y vio que ya estaba cerrada. Estaba a punto de seguir adelante y cerrar la puerta, pero no creía que fuera lo correcto. Pensando de un lado a otro, se recostó en la sala de la puerta, que estaba bajo el techo, y esperó.
+Así de simple, Chun Bao se quedó fuera de la puerta toda la noche con un abrigo. La lluvia finalmente cesó cuando estaba casi brillante.
+En ese momento, escuchó un «chirrido» en la puerta. La puerta se abrió y la niña salió y vio a Chun Bao con una máscara y una cara cansada. Estaba muy inquieto. Él dijo: «Te estoy molestando. Lamento mucho tener que ir. Sin duda volveré otro día para darte las gracias.»
+Chun Bao dijo repetidamente: «No, no es necesario». Viendo los antecedentes de la niña, no sé por qué. Chun Bao se siente un poco perdida en su rostro.
+Tres días después, en una noche despejada, Chun Bao volvió a tocar la flauta de bambú. La flauta sonaba melodiosa y flotaba en el cielo nocturno. El sonido de la flauta parecía tener un poco más de encanto. No sé cuánto tiempo ha estado sonando, y de repente oigo a alguien detrás de mí decir: «Hermano Chun Bao, ¡qué buena es tu flauta de bambú!» Al escuchar el sonido, Chun Bao se sintió un poco familiar. Chun Bao miró hacia atrás. Efectivamente, fue la chica que vino a refugiarse de la lluvia esa noche. La niña sostenía una cesta de bambú en la mano y le sonrió levemente.
+«¡Eres tú! ¿Cuándo llegaste aquí? ¿Cómo sabes mi nombre?» Chun Bao hizo varias preguntas seguidas.
+La niña sonrió y dijo: «Llevo aquí un tiempo y estoy tan emocionada de verte tocar la flauta que no me atreví a molestarte. En cuanto a tu nombre, no te lo diré.
+La niña sacó algunas comidas aromáticas de la canasta que tenía en la mano y sacó un par de zapatos de tela nuevos. Chun Bao no sabe qué decir. Desde que murió su abuelo, nadie lo ha tratado con tanta consideración.
+Cuando se volvieron a encontrar, los dos parecían viejos amigos y ya no había tanta sensación de moderación. Al final de la luna, junto a las flores, charlaron libremente. Cuando se les preguntó, ambos mostraron su amor el uno por el otro. Chun Bao no quería que la niña se fuera apresuradamente, y la niña siempre se demoraba y no se iba. Sin que yo lo supiera, el día era brillante y la niña no tuvo más remedio que levantarse y despedirse. Tras marcharse temporalmente, la niña le dijo a Chun Bao: «Vivo en un jardín cercado en el sur del pueblo. Mi apellido es Lan. Si vas a mi casa por la mañana y te enfrentas a esta situación difícil, nos casaremos». Después de todo, me quité una horquilla de jade dorado de la cabeza y se la di a Chun Bao. Se fue flotando, dejando una fragancia.
+«Amaneció». Chun Bao recordó lo que dijo la niña y no dejaba de pensar en el sur del pueblo y en el jardín cercado... De repente, se dio cuenta de algo y estaba ocupado caminando hacia las peonías del jardín. Sin embargo, cuando vi aparecer un árbol de dudan, me sugirieron que había una peonía con variedades llamadas Blue y B5. Estaba seco y suelto por todas partes. No había ni una gota de rocío en él. Chun Bao inmediatamente pensó que el apellido de la niña era Lan. Ya había adivinado que esta chica azul debía ser un hada de las peonías. Otro pensamiento: ¡Sí! Esta chica azul se quedó en mi casa toda la noche y, naturalmente, no había rocío. Recogí apresuradamente los capullos. A primera vista, la competencia era una menos. Sacó un par de horquillas de jade que le regaló la niña, y el árbol de peonía se convirtió instantáneamente en la Chica Azul de anoche: Chun Bao estaba sorprendida y feliz: ¡Chun Bao estaba sorprendida y feliz: Girl Blue! ¡Lan Tianyu, te encontré!» La señorita Lan también dijo: «Poder encontrar descendientes inteligentes y trabajadores como usted también es una fuente confiable para toda la vida».
+Desde entonces, los dos se han convertido en marido y mujer. La pareja era respetuosa y se amaba, y tuvo una vida feliz y hermosa.
+Traducido por IA   
+
+
+
+
+

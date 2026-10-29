@@ -1,0 +1,32 @@
+---
+pubDatetime: 2026-11-27 14:12:12
+title: "La trágica historia de Bu Feiyan"
+featured: false
+draft: false
+description: "Bu Fei es hermosa y talentosa, pero se casó con un rudo oficial militar como concubina. Tuvo un romance con el erudito Zhao Xiang a través de la poesía. Inesperadamente, su esposo la acusó de ser una esclava y la mató a latigazos. Zhao Xiang se escapó. Su enamoramiento, aunque ignorante de su sabiduría y estrategia de autodefensa, eventualmente se convirtió en una tragedia deplorable."
+---
+
+
+
+![AstroPaper I18n](/the-tragic-tale-of-bu-feiyan.png)
+
+
+
+
+ Autor: Hou Hongbin
+Bu Fei Yan: Vea «La leyenda de Fei Yan» en la saga «Tres aguas» de Tang Huangfu Mei. Bu Fei Yan, concubina de Henan Fugong Cao y Wu Gong Ye (un «no fumador»), está enamorada de un joven erudito vecino, Zhao Xiang. Zhao Xiang compró el portero de Wu Gongye y lo envió con un poema de la esposa del portero. Feiyan era originalmente una prostituta doméstica. Ella podía cantar y tocar música. Odiaba ser agresiva en las artes marciales y envidiaba el talento de Zhao, así que respondió con un poema. Desde entonces, los dos han compartido sus sentimientos a través de la poesía. Pronto, se conocieron en una sala de humo voladora. Más tarde demandó a la esclava, y Wu Gongye se enojó y lo mataron a latigazos. Zhao Xiang también se cambió el nombre y huyó a Jiangzhe.
+Un ciego monta un caballo ciego y se enfrenta a una piscina profunda en mitad de la noche. Me refiero a una mujer como Bu Feiyan. No es ignorante ni minucioso; no debes ser despiadado, sin escrúpulos, ser despiadado, ser despiadado ni controlarte. Es muy triste ser adicto y no tener vuelta atrás.
+En el pasado y el presente, las relaciones privadas nunca se pueden detener en el país y en el extranjero. No es imposible actuar contra el viento; el problema es que la seguridad es lo primero. Las canciones de amor personales también requieren talento. Bu Feiyan claramente no tiene este tipo de talento.
+Bu Feiyan domina el sonido, es bueno para escribir y escribir con tinta, tiene un talento ardiente y es naturalmente hermoso. Nai Ho se casó con alguien que se unió a la industria militar y de artes marciales como concubina sirvienta. No puedo culparla por conocer a alguien inhumano por primera vez. Pero luego, cayó en los brazos de Zhao Xiang, una almohada bordada, porque tenía problemas de visión. Zhao Xiang no es más que un pequeño trabajador de cuello blanco que no hace bien su trabajo; solo sabe escribir algunos poemas torcidos para engañar a las niñas mentirosas. Está claro que durante el funeral, el humo que había en este lado de la cabina no tenía intención de dejar el amuleto durante medio día; en esa habitación, Zhao Xiang pudo captar todo tipo de pensamientos. Al ver de lejos la belleza de la mujercita de su vecino, inmediatamente se desmayó e inmediatamente lanzó un fuerte ataque de amor. Tan pronto como lo vi, estaba buscando una aventura de una noche.
+El autor Huang Fu Mei dijo que Zhao Xiang y Fei Yan se enamoraron a través de la poesía. Esa es una mala afirmación. Los poemas que le pasaban en secreto al portero eran todos recetas. Sus mensajes privados, Xue Tao y Green Moss, estaban repletos de recetas, menú de pescados y mariscos, plato de Jiang Xian, lista especial de pescado, lista variada de pescados, lista de plumas, lista festoneada de AQUA, menú variado, menú pequeño, lista de dim sum, etc. Estaba lleno de flores y era fácil ver el flujo del agua. Finalmente, usaron todos los trucos de Skylark Tongue, Fire Crane Brain, Grilled Swan y Peacock Chest.
+La primera mitad de la historia se desarrolló de manera similar a Cui Yingying y Zhang Sheng. Por un lado, es un pequeño pasatiempo, de estilo poético, tiramisú y capuchino; por otro, es un viaje secreto al almacén. Zhang Sheng saltó la pared y Zhao Xiang saltó la pared. La joven recomendó un asiento acolchado. ——Nai He Yingying es la concubina de un oficial militar; Zhang Sheng es la concubina de un oficial militar; Zhang Sheng es un amante enamorado, estable, romántico y desenfrenado. Zhao Xiang solo tiene un enredo ingobernable entre humanos y un sinvergüenza de gente rica. Por tanto, el destino de los dos es diferente. Además, Ying Ying tiene una casamentera que la ayuda y la empuja. Feiyan solo tiene esclavas, la traiciona y la traiciona.
+Fei Yan y Zhao Xiang fueron golpeados hasta la muerte por Wu Gongye debido a un incidente en el que participó una esclava. Zhao Xiang escuchó que una vez que fuma, corre más rápido que un conejo.
+Mirándolo hoy, Bu Feiyan también murió injustamente. Al ver todos los episodios de «TV Search Line» en China Entertainment Television, puedes atrapar a un par de tramposos. Esas mujeres engañadas y robadas son bastante directas y evocadoras: es mejor traicionarse a sí misma que traicionarse. Simplemente me recuerda a una historia de «Han Feizi»: Li Ji sale a menudo, su esposa fornica con otras personas y Li Ji regresa de repente, pero ese hombre sigue en la habitación. ¿Qué debo hacer? La esposa cambió de opinión y le pidió al hombre que saliera de la habitación con la cabeza cubierta, desnudo, inexpresivo y sin entrecerrar los ojos. Lee Ji estaba muy sorprendido. Pero todos se burlaron y todos dijeron: «No, maldita sea». Para protegerse del mal, bajo el mando de su esposa, Li Ji usó heces de ganado para bañarse.
+Este es el alto nivel de engaño. Cuando se trata de relaciones entre hombres y mujeres, secretamente babeamos por las zorras que pisan cadáveres de hombres y secretamente babeamos de envidia; sentimos lástima y consuelo por las mujeres de buena familia que son leales a la piedad filial, pero lloran todo el día, pero al mismo tiempo no sentimos simpatía ni disgusto por ellas. Al igual que Bu Fei Yan, solo se queja de su locura y estupidez.
+Cuando murió, Bu Feiyan también dijo: «Nací en una cita a ciegas; no odio la muerte». Deja que se vaya con esta mentira. Las mujeres buenas van al cielo, las mujeres malas caminan por todos lados. La clasifiqué como una buena mujer.
+Traducido por IA   
+
+
+
+
+

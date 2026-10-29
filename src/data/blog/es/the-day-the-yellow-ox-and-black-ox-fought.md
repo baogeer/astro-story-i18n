@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-08 20:42:37
+title: "El día que el buey amarillo y el buey negro lucharon"
+featured: false
+draft: false
+description: "Los hijos de la familia rica llevaron al repartidor de libros a Beijing para que se apresuraran a presentarse al examen. El librero fue estudioso durante todo el camino. Memorizó frases como «patos mandarines jugando en el agua» y «cabelleros peleando con vacas negras». Cuando fui a Beijing, conocí a una adivina que decía ser un «hada viviente» y le pedí que me pagara un precio elevado. El librero utilizó lo que vio y oyó en la carretera para hacer preguntas que había visto y oído en la carretera, y le resultó difícil disipar la estafa. La historia satiriza a los delincuentes y elogia el ingenio de aprender y aplicarlo."
+---
+
+
+
+![AstroPaper I18n](/the-day-the-yellow-ox-and-black-ox-fought.png)
+
+
+
+
+ Luo Guan habla sobre la colección y recopilación de u2002u2002u2002 Zuo Dehui
+Érase una vez, un niño rico quería ir a Beijing para hacerse el examen. Trajo consigo a un librero.
+El librero es una persona que nunca ha visto el mundo. A lo largo del camino, se dirigió hacia el este y el oeste. La persona que se apresuraba a hacer el examen no le molestaba; háblele con paciencia.
+El primer día, pasaron junto a un estanque. Dos patos mandarines los perseguían y jugaban en el agua. El librero preguntó: «¿Por qué lo ayudó Ago? (Significado chino: leer un libro, ¿cómo se llama?)» El lector le dijo: «Esto se llama 'patos mandarines jugando en el agua'». El librero, preocupado y olvidado, siguió meditando sobre «Patos mandarines jugando en el agua». De repente, descubrió que muchas libélulas volaban por la superficie del agua, y algunas incluso salpicaban la cola en el agua. El librero preguntó extrañamente: «¿Cuándo ayudó Argo?» El lector del libro le dijo: «Esto se llama 'Las libélulas beben agua'». El librero, preocupado y olvidado, siguió meditando sobre «Las libélulas beben agua». Después de caminar un rato, la libélula se paró sobre la flor de loto que estaba a punto de abrirse, y el librero preguntó extrañamente: «Cuando Ago ayudó, ¿fue una coincidencia?» Un lector de libros le dijo: «Esto se llama: 'Pequeño, solo mostró cuernos afilados; las libélulas se pusieron de pie sobre sus cabezas hace mucho tiempo'». El librero se preocupó y se olvidó, y siguió meditando: «Pequeño, solo mostró cuernos afilados; las libélulas se pusieron de pie sobre sus cabezas hace mucho tiempo».
+Al día siguiente, pasaron por un prado y los lectores no pudieron evitar decir: «Los incendios forestales no se apagarán, la brisa primaveral soplará una y otra vez». El librero preguntó al lector: «Mi hermano me ayudó, ¿y Adel Rabbit? (Significado chino: leer un libro, ¿qué significa eso?)» Un lector de libros le dijo: «Significa que la hierba no muere fácilmente. Tan pronto como llega la lluvia en primavera, las raíces que no se quemaron el año pasado vuelven a crecer». El librero, preocupado y olvidado, no dejaba de meditar: «Los incendios forestales no pararán de arder, la brisa primaveral soplará una y otra vez». Al anochecer, cruzaron un pequeño puente y los lectores dijeron con emoción: «Cuando se pone el sol, la gente se hunde en el cielo». El librero preguntó al lector: «¿Os ayudaron Ago y Adel Rabbit?» El lector le dijo: «Significa que el sol está a punto de ponerse. Todavía no sabemos dónde quedarnos esta noche; ¡no es fácil salir!» El librero, preocupado y olvidado, no dejaba de meditar: «Cuando se pone el sol, hay gente en el mundo».
+Al tercer día, pasaron por un campo donde los caballos, las vacas y las ovejas comían pasto y bebían agua. De repente, por alguna razón, un revendedor y una vaca negra cogieron la estantería y el librero preguntó: «Mi hermano me ayudó y se quedó con Ah? (Significado chino: leer un libro, ¿qué es esto?)» El lector le dijo: «Esto se llama 'pelea entre revendedores y vacas negras'». El librero, preocupado y olvidado, no dejaba de meditar sobre la «batalla entre cabelleros y vacas negras». Mientras caminaban, llegaron a Beijing. Estaba lleno de gente, yendo y viniendo, y había un flujo interminable de personas. De repente, un caballero de ocho caracteres los detuvo y dijo: «Este joven está aquí para presentarse al examen. Déjeme mostrarle si puede aprobar el examen este año. Soy un hada viviente que 'conoce la mitad del cielo y sabe todo lo que hay en la tierra'». El lector preguntó: «¿Cuánto cuesta?» El hada viviente extendió cinco dedos y el librero dijo: «¿Son cinco dólares o cinco o dos?» El hada viviente dijo: «Por supuesto que son cinco o dos. ¿Dónde puedo hacer un negocio de cinco dólares siendo un hada viviente?» El librero dijo: «Puedes hacerlo bien. Cinco o dos no son caros, pero si no puedes hacerlo, cinco no valen la pena. Te pondré a prueba primero. ¿Los revendedores se pelearon anteayer, ayer o hoy?» El hada viviente se quedó sin palabras. El librero también preguntó: «El joven dijo: 'Cuando se pone el sol, hay gente en el mundo'. ¿Dónde dijiste eso?» Aún no puedo decir hadas vivientes. El librero también preguntó: «¿Qué significa 'los incendios forestales no se apagan, sopla la brisa primaveral y vuelve a vivir'?» El hada viviente todavía no se atrevía a hablar. El librero dijo: «Inmortales vivientes, no crean que nuestro país es un tramposo. He visto personas como tú antes».
+Los inmortales vivientes no hablan; usan gestos para indicarles que caminen.
+Traducido por IA   
+
+
+
+
+

@@ -1,0 +1,41 @@
+---
+pubDatetime: 2026-11-13 07:59:51
+title: "L'épée la plus légendaire de l'histoire de Tomb Robbing"
+featured: false
+draft: false
+description: "L'épée du dragon est une arme volée par Sun Dianying au mausolée de Yuling à Qianlong. Neuf dragons y sont gravés. Sun Dianying a remis Dai Ga à Chiang Kai-shek. Dai Ga a été temporairement remis à la troisième administration de Ma Han, mais Ma Hansan est devenu gourmand et a détourné des fonds. Plus tard, lorsqu'il a été arrêté par des agents japonais, il a présenté un trésor à Kawashima Yoshiko. Lorsque Dai Ga interroge Kawashima Yoshiko, elle a appris la vérité et a récupéré l'épée. En conséquence, quatre personnes qui sont entrées en contact avec cette épée, Sun Dianying, Dai Li, Ma Hanzo et Kawashima Yoshiko, sont mortes anormalement les unes après les autres, confirmant la malédiction de l'épée «xa0tuer quatre avec une épéexa0»."
+---
+
+
+
+![AstroPaper I18n](/the-most-legendary-sword-in-the-history-of-tomb-robbing.png)
+
+
+
+
+ Auteurxa0: Ni Fangliu
+Parce que mes «xa0Trois mille ans de Feng Shuixa0» ont été publiés et créés pour le plaisir de crier, je parle de ce qui est écrit dans le livre ces derniers temps. Ce billet de blog ne fait pas exception. Il continue de parler de la légende de la tombe de personnages célèbres à Nankin, la tombe de Dai Ga, la tombe du premier agent du Kuomintang.
+Bien qu'il existe différentes opinions sur la vérité sur le crash de Dai Ga, la véritable raison n'a pas été déterminée. Selon la superstition, cet incident est également lié à une épée. Cette épée s'appelle l'épée du dragon. Il doit son nom au fait que neuf dragons y sont gravés. Il a été volé à Yuling à Qianlong. Quiconque se fait attraper avec cette épée court un risque de mort. Cette épée peut être considérée comme l'épée la plus légendaire de l'histoire des pillages de tombes dans la Chine ancienne et moderne, une arme intransigeante.
+Après la mort de Dai Ga, cette épée, qui avait été détruite par l'incendie, est devenue son objet funéraire et est entrée dans la tombe. Alors, comment le monde extérieur a-t-il su que l'épée de la tombe de Dai Gi avait été enterrée par l'empereur Qianlong de la dynastie Qingxa0? Il y a beaucoup d'histoires icixa0; je tiens à mentionner Sun Dianying, le voleur du tombeau oriental de la dynastie Qing.
+Après que Sun Dianying a volé le mausolée de Qianlong Yuling et le mausolée de Qingdong de Cixi, tous les secteurs de la société ont été choqués, sensibilisant le monde entier. L'empereur Pu Yi de la fin de la dynastie Qing, qui était déjà descendu du trône, a prêté serment au ciel. S'il ne se vengeait pas, il n'aimerait pas les descendants de Xinjue Luo. Afin de disculper le crime, Sun Dian-ying a utilisé des trésors volés pour soudoyer diverses personnalités importantes, principalement Chiang Kai-shek, Song Meiling, Ho Ying-qin, Yan Xishan, Dai Li, Xu Yuan-quan, Kong Xiangxi, Song Ziwen, Shang Zhen et Wang Zhonglian.
+Sun Dianying a raconté un jour à Wen Qiang, un autre agent secret du Kuomintang et cousin du premier président de la République de Mao Zedong, les circonstances du vol de la tombe et de la livraison du trésor. Ici, «xa0L'autobiographie orale de Wen Qiangxa0» et d'autres documents sont tous expliqués. Comme l'oreiller sous la tête de Cixi, une grosse pastèque émeraude, a été offert à Song Meiling.
+Le cas de Sun Dianying utilisant des trésors volés pour soudoyer des personnalités de la République de Chine est désormais mentionné dans de nombreux livres. Qu'est-ce que Dai Ga a obtenuxa0? Peut-être que beaucoup de gens ne le savent pas nécessairement. Selon Sun Dianying, ce sont les deux plus grosses perles vermillon de la chaîne de perles impériales que Qianlong portait autour du cou. Qianlong est un célèbre collier de perles impériales. Vous pouvez également voir des images de Qianlong avec la perle de Chao dans des films et des productions télévisées modernes. Il y a 108 perles impériales, représentant les dix-huit Arhats. À l'époque, Sun Dianying l'avait offert à Dai Ga en personne à Tianjin comme cadeau de première rencontre.
+Sun Dianying a également mentionné en particulier à Wen Qiang que Dai Yunong (Dai Li), un maître des trésors de Jiulong enterré à Qianlong, avait été amené à Chiang Kai-shek, et je ne sais pas s'il l'a reçu. Il est vrai que Chiang Kai-shek n'a jamais reçu cette épée, mais sans l'accident d'avion, elle aurait presque été entre les mains de Chiang Kai-shek. En conséquence, Dai Ga était bon marché et enterré dans la tombe.
+Pourquoi Chiang Kai-shek n'a-t-il pas obtenu l'épée plus tôtxa0? Il y a eu un autre accident ici.
+Au printemps et en automne, il y a l'histoire légendaire de «xa0One Peach Kills Three Mastersxa0». Qi Xiang Guo et Yan Ying n'ont utilisé qu'une seule pêche pour se débarrasser des «xa0Trois grands maîtresxa0» de Tian Kaijiang, Gong Sun Jie et Gu Yezi. «xa0L'épée Jiulongxa0» enterrée dans la tombe de Qianlong est encore plus puissantexa0; c'est «xa0Une épée tue quatre personnesxa0». Quiconque entre en contact avec cette épée meurt anormalement l'un après l'autre —
+Sun Dianying est mort dans la prison de l'Armée populaire de libération après avoir été fait prisonnierxa0;
+Dai Li est mort lorsque l'avion s'est écrasé dans une montagnexa0;
+Troisièmement, Han et Ma ont été abattusxa0;
+Kawashima Yoshiko a été exécuté après avoir été condamné à mort.
+L'histoire ici est assez sinueuse, mais légendaire, et elle est incroyable. Après que Dai Li ait reçu l'épée Jiulong de Sun Dianying, il a temporairement appelé Ma Han, le directeur du bureau des statistiques militaires de Pingjin, pour que la troisième génération la garde et la donne au «xa0Principal Jiangxa0» au moment opportun, mais finalement, un accident s'est produit.
+Ma Hansan a pris sa décision et a voulu détourner l'épée et l'a prise pour sienne, mais le trésor ne devrait pas appartenir à Ma Hansan. À un moment donné, Ma Hansan, sous le pseudonyme de «xa0Long Wenxa0», est parti travailler dans la zone occupée de l'armée japonaise près de Zhangjiakou et a été arrêté par l'agence de services spéciaux japonaise qui a reçu des renseignements. Pour survivre, Ma Hansan a non seulement dévoilé de nombreux secrets du système militaire, mais a également sacrifié la précieuse «xa0épée Jiulongxa0», qui lui a sauvé la vie. Dai Ga, qui a toujours été connue pour son odorat sensible et est l'agent secret en chef, n'en était absolument pas consciente.
+Finalement, l'épée est tombée entre les mains de l'agent secret le plus haut placé du Japon, Kawashima Yoshiko. Kawashima Yoshiko est une célèbre espionne japonaise qui espionne «xa0Ichiganaxa0». Elle était à l'origine la 14e princesse du prince Su à la fin de la dynastie Qing et la cousine du dernier empereur, Pu Yi. Outre Kawashima Yoshii, elle possède également de nombreux pseudonymes tels que Jin Seizo, Kim Mengzhi, Kinbeki, Kawashima Yoshiko et Kawashima Ryosuke. Après la révolution de 1911, elle a été adoptée par le ronin japonais Kawashima Naniwa en tant que fille adoptive. Elle avait donc un nom japonais étrange et étrange.
+Kawashima Yoshiko a été une «xa0femme chefxa0» du pseudo-Mandchoukouo et une «xa0commandante en chef de l'armée d'Angokuxa0», avant de se consacrer principalement à des activités d'espionnage. Au moment de la défaite du Japon en 1945, Ma Hanzan a arrêté Kawashima Yoshiko à Pékin le 11 octobre 1945 en raison d'une «xa0histoire pleine de changementsxa0», de peur qu'elle ne soit révélée par Kawashima Yoshiko. En 1948, Kawashima Yoshiko a été condamné à mort et exécuté dans une prison de Pékin.
+Quoi que tu penses, Ma Hansan s'est trompée. Ma Hansan a sollicité le crédit et a annoncé qu'il avait arrêté Kawashima Yoshiko, un espion japonais. Après avoir appris qu'ils avaient été arrêtés, Dai Gi s'est personnellement envolé pour Pékin pour y être traduit en justice. Au cours de l'interrogatoire, Kawashima Yoshiko a révélé que Ma Han-san avait changé d'avis et Dai Ga a immédiatement envoyé quelqu'un au domicile de Kawashima Yoshiko pour trouver l'épée du dragon.
+Puis l'épée est repassée à Dai Ga, et ce fut au tour de ce grand agent secret qui n'a pas eu de chance...
+Traduit par IA   
+
+
+
+
+

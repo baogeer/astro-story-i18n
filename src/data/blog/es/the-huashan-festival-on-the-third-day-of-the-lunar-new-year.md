@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-05 09:14:23
+title: "El festival de Huashan en el tercer día del Año Nuevo Lunar"
+featured: false
+draft: false
+description: "El Festival Huashan es un festival tradicional que celebran los miao en el noreste de Yunnan y el sur de Yunnan todos los años del tercer al séptimo día del primer mes. Se caracteriza por la plantación de postes de flores. La gente se disfrazaba y bailaba alrededor de postes de flores, y organizaba competencias como la escalada con postes de flores, las carreras de caballos y las corridas de toros. También era un buen momento para que hombres y mujeres jóvenes cantaran y encontraran pareja. Al mismo tiempo, también intercambiaron materiales para mostrar la unidad y la alegría nacionales."
+---
+
+
+
+![AstroPaper I18n](/the-huashan-festival-on-the-third-day-of-the-lunar-new-year.png)
+
+
+
+
+ El Festival de Huashan, también conocido como «campo de salto», «flor que salta», «flor que salta» o «pisar la montaña de las flores», es un festival tradicional para el pueblo miao en el noreste de Yunnan y el sur de Yunnan. Tiene su origen en las actividades de cortejo para hombres y mujeres jóvenes, y se celebra todos los años del tercer al séptimo día del Año Nuevo Lunar. La zona montañosa de Ma Nan, en el condado de Yongshan (Yunnan), colinda con las tres provincias de Yun, Gui y Sichuan. La gente de todas las provincias está concentrada y, a menudo, la gente viene de diferentes provincias para participar. El número suele ser de decenas de miles. La escala es enorme y la multitud está llena de alegría. El Festival de Huashan, celebrado en el condado autónomo de Pingbian Miao, también fue a gran escala. Los compatriotas miao de Wenshan, Maguan, Hekou y Mengzi se apresuraron a participar.
+El símbolo principal del Festival de Huashan es un poste de flores. Por lo general, elija un pino o un ciprés de pino verde alto, recto y liso. Primero, quita las hojas y pélalas, coloca flores y banderines de colores y decóralos de forma colorida. Todos recomendaban a alguien con «buena conciencia» como «cabeza de palo de flores». Debe plantar el mástil antes de que salga el sol la primera mañana del festival.
+El día del Festival de Huashan, los compatriotas miao vinieron de todos lados para ayudar a los ancianos y jóvenes. La gente vestía trajes coloridos. La granja de Huashan estaba llena de gente y la multitud estaba llena de gente. Cuando la «cabeza de palo» vino a brindar y bendecir a las personas que asistían al festival, se anunció que comenzaría el «Festival de Huashan». Inmediatamente, los gongs y los tambores sonaron a todo volumen en el campo de Huashan, se lanzaron petardos y se exhibieron flores de colores al viento. La gente bailaba alrededor de los postes de flores al ritmo de instrumentos como la corsa, la suona y el huqin. Algunos bailaban bailes con pedales o bailes de tres pasos; algunos tocaban Lu Sheng Gan (mezclado con Lu Sheng); otros bailaban bailes de leones. Si los leones bailan bien, pueden subir a lo alto del mástil y llevarse como premio dos botellas de buen vino y una cabeza de cerdo. Durante el Festival de Huashan también se celebrarán carreras de caballos, espectáculos de artes marciales y concursos de corridas de toros, y los ganadores recibirán una condecoración roja. Es un gran honor y también recibirás una cantidad determinada de premios o bonificaciones. El Festival Huashan también es un festival para jóvenes miao que buscan el amor. Hombres y mujeres pueden conocerse y entenderse cantando y bailando juntos. Siempre que conocen a alguien con quien están de acuerdo, ambos se reúnen en un lugar apartado para expresar sus sentimientos. Algunos incluso se hicieron regalos e hicieron un trato de por vida. Esa pareja de hombres y mujeres jóvenes, vestidos con hermosos trajes y coloridas sombrillas que cantaban canciones de montaña, a menudo dejaban una impresión inolvidable en los visitantes.
+Durante el festival, también se realizarán intercambios de material. Los departamentos de abastecimiento y comercialización y los vendedores individuales organizaron la venta de muchos suministros industriales y agrícolas y artículos de primera necesidad, y también compraron productos agrícolas y secundarios, hierbas medicinales, etc. para venderlos en el extranjero. Todo el evento del Festival de Huashan estuvo marcado por la unidad y la armonía de todos los grupos étnicos, la gente estaba feliz y feliz, y las compras y las ventas florecieron.
+Traducido por IA   
+
+
+
+
+

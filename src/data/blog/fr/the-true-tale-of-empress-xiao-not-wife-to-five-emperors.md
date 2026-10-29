@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-28 19:48:19
+title: "La véritable histoire de l'impératrice Xiao, qui n'est pas l'épouse de cinq empereurs"
+featured: false
+draft: false
+description: "L'empereur Sui Yang était docile et talentueux après Xiao et a conseillé l'empereur Yang. Après la mort de l'empereur Yang, elle s'est exilée et Ye Shi l'a prise pour «xa0une femme épousant cinq empereursxa0». En fait, elle avait plus de 60 ans lorsqu'elle est retournée voir Taizong, et elle était la tante de Taizong, donc il n'y avait rien de glamour là-dedans."
+---
+
+
+
+![AstroPaper I18n](/the-true-tale-of-empress-xiao-not-wife-to-five-emperors.png)
+
+
+
+
+ Auteurxa0: Wang Hongwei
+Conseil de basexa0: Au cours de la seconde moitié de sa vie, Hsiao a fait du rafting et a fait l'objet d'une histoire et d'une fiction délirantes pour diaboliser son «xa0Une femme épouse les cinq empereursxa0», mais rien de tout cela n'a de fondement historique. En particulier, lorsqu'elle est retournée à Chang'an, elle avait plus de 60 ans et était la tante de Tang Taizong. Il n'y a presque aucune chance que les deux aient une liaison flamboyante.
+Carte de données des objets découverts dans les tombes funéraires communes de l'empereur Sui Yang et de Hou Xiao
+Cet article a été extrait dexa0: Jiangsu Network, Chine, par Wang Hongwei. Titre originalxa0: «xa0La véritable période post-Xiao dans l'histoirexa0: tempérament soumis et haute culturexa0»
+RÉSEAU JIANGSU, 22 SEPTEMBRExa0: Comparée à Yang Guang, l'empereur de Sui Yang, très controversé, l'impératrice Xiao est une inconnue de l'histoire. Dans les livres et les romans des générations suivantes, Hou Xiao a été impliquée par l'empereur Sui Yang et décrite comme un «xa0fléau fémininxa0» d'ignorance, d'immoralité et de désordre. Cependant, dans la vraie histoire, Hou Hsiao est une femme traditionnelle au tempérament doux et au haut niveau de culture. Elle n'est ni une bénédiction ni une héroïne puissante.
+Hou Hsiao est la fille de l'empereur Liang Ming de la dynastie du Sud. Comme elle est née en février, les douanes du Jiangnan l'ont considérée comme inquiétante. Elle a été placée en famille d'accueil par son oncle et son oncle et a vécu une période de pauvreté. L'empereur Sui Wen voulait choisir une concubine pour Yang Guang issue de la noblesse de la dynastie Liang. Après la divination, de nombreuses femmes n'avaient qu'elle comme bon signe, elle a donc été classée reine. Dans «xa0The Book of Suixa0» et «xa0Northern Historyxa0», ils affirment tous que Hou Xiao avait une personnalité douce et docile, qu'il était intelligent et perspicace, qu'il avait une culture littéraire et qu'il connaissait l'art de la divination. Avant de monter sur le trône, Yang Guang était inséparable de Hou Xiao pour faire plaisir à sa mère, l'impératrice Dugu, et était inséparable de Hou Xiao. Après avoir accédé au trône, il a toujours eu de très bonnes relations avec Hou Xiao, et il a toujours pris Hou Xiao à ses côtés lorsqu'il visitait la région de Sifang.
+En tant qu'impératrice Yang Guang, l'impératrice Xiao a un fort sentiment d'inquiétude. Elle a écrit un jour «xa0Shu Zhifuxa0» pour persuader par euphémisme l'empereur Yang. Les articles qui disentxa0: «xa0Si vous allez en profondeur et que vous marchez mince, votre cœur sera terrifié. Un aphorisme comme «xa0Si un mari est grand, il doit être dangereuxxa0; ses inquiétudes sont pleines de soucis pour éviter tout débordementxa0». Lorsque l'empereur Sui Yang a visité la capitale de Xing Jiang, des révoltes paysannes ont fait rage et l'armée de la prohibition a également comploté une rébellion, mais l'empereur Sui Yi a gardé les yeux fermés et a plutôt exécuté ceux qui accusaient le crime. Lorsque d'autres ont voulu porter des accusations à l'avenir, Hou Xiao les a arrêtés. La situation générale dans le monde ne pouvait plus être sauvéexa0; trop parler ne faisait qu'inquiéter l'empereur. À partir de ce moment, le mari et la femme sont restés dans la ville troublée jusqu'à ce que l'empereur Yang soit dépassé par la culture Yu. Hou Xiao a enterré l'empereur Yang avec une dame du palais et a été kidnappé tout au nord par Yu Wenhua et kidnappé. Zhong Tuyu Wenhua a été tué par Dou Jiande et est devenu prisonnier après Xiao. À ce moment-là, la sœur cadette de l'empereur Sui Yang, la princesse Yicheng, mariée aux Turcs, a envoyé quelqu'un pour accueillir Xiao, et elle a passé encore 11 ans dans le nord de la Serbie, jusqu'à la 4e année de Tang Zhenguan (630), lorsque l'armée Tang a été vaincue par les Turcs, et n'est pas retournée à Chang'an après Xiao. Dix-sept ans plus tard, Hou Xiao est décédée et des membres de la secte Tang Taizong ont envoyé son corps à Yangzhou pour y être enterrée conjointement avec l'empereur Yang. Ils lui ont donné le surnom de «xa0», qui signifiait pitié et chagrin.
+Au cours de la seconde moitié de sa vie, Xiao a fait des allers-retours et est devenue matière à l'histoire et à la fiction délirantes pour diaboliser son «xa0Une femme épouse les cinq empereursxa0», mais rien de tout cela n'a de fondement historique. En particulier, lorsqu'elle est retournée à Chang'an, elle avait plus de 60 ans et était la tante de Tang Taizong. Il n'y a presque aucune chance qu'un incident glamour se produise entre les deux.
+En 2013, la tombe funéraire commune de l'empereur Sui Yang et de Hou Xiao a été découverte à Yangzhou. L'empereur Sui Yang n'a laissé que deux dents, mais le squelette post-Xiao survit toujours. Il a été déterminé que Hou Xiao mesurait environ 1,5 mètre. Des couronnes de phénix, des carillons, des tresses, des personnages en terre cuite et de la porcelaine ont également été découverts dans la tombe.
+Traduit par IA   
+
+
+
+
+

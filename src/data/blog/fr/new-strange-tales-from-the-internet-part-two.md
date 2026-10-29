@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-02 01:39:39
+title: "Nouveaux contes étranges sur Internet, deuxième partie"
+featured: false
+draft: false
+description: "Cet article décrit un certain nombre d'anecdotes sur Internetxa0: certains internautes ont proposé le mariage au premier regardxa0; certains couples virtuels ont fini par se séparerxa0; certains avions de ligne ont secouru l'ambassade à distancexa0; certains magasins noirs ont clairement marqué des organesxa0; des femmes fantômes ont également disparu après avoir discuté en ligne tard dans la nuit, et ils ont rencontré des poètes étrangers le soir de la Fête de la mi-automne. L'histoire révèle que le monde virtuel est à la fois magique et dangereux, tout comme la version moderne de «xa0Liao Zhaixa0»."
+---
+
+
+
+![AstroPaper I18n](/new-strange-tales-from-the-internet-part-two.png)
+
+
+
+
+ [Mariage Senri]
+J'ai lu les journaux au début de l'année et j'ai entendu dire que des gens du Nord rencontraient des gens du Sud sur Internet. Ils se connaissent très bien. À première vue, l'homme a présenté des fleurs et a proposé le mariagexa0; la femme a accepté, et le mariage de mille miles a fini par être une bonne chose. Jiang Lang a déclaréxa0: «xa0Il existe d'innombrables rencontres en ligne, mais peu réussissent, mais le mariage de Thousand Mile implique en fait ceux qui sont en première ligne, hélasxa0!
+[Prochaine épouse]
+Au début, Shengmu s'est cachée dans une certaine communauté, a rencontré une femme «xa0Deep Blue Angelxa0» et a conclu un marché avec elle. Le 1er, Lan a ditxa0: «xa0Je te connais. Heureusement, je souhaite former une Mandarin Alliance et me connecter à Jun Online, puis-jexa0?xa0» Surprise, elle a ditxa0: «xa0Est-ce que l'événement du mariage est drôlexa0?xa0» Il a déclaréxa0: «xa0Internet est irréel, et c'est aussi une blague. Je n'ai jamais goûté au mariagexa0; si je veux l'essayer, j'espère que vous êtes d'accord.xa0» Après beaucoup de dur labeur, la vie était normale. Acceptez de vous marier un certain jour et à une certaine heure dans un salon de discussion. L'exposition a été racontée aux internautes de la communauté et c'était très choquant. À cette époque, il y avait plusieurs personnes, comme le témoin, les demoiselles d'honneur, les garçons d'honneur et les invités, dans le monde entier. Je suis née avec Net Wife Blue. Les deux ont discuté en ligne jour et nuit, se sont réconfortés et étaient très affectueux. Plus tard, Lan a été dépassé en nombre par les autres pays. Ils ont commencé à marquer des points, puis se sont effondrés. Jiang Lang a déclaréxa0: Le mariage en ligne est indispensable, ou est-ce aussi une tendance humaine japonaisexa0?
+[Sauvetage]
+Il y avait des passagers qui faisaient des allers-retours en avion (en avion), et le voyage s'est déroulé dans la solitude. Ils ont juste parlé d'ICQ en ligne, et soudain quelqu'un a verrouillé la porte et a ditxa0: «xa0Je suis en danger, monsieur, sauvez-moixa0». Le client a été choqué et a demandéxa0: «xa0Qui d'autrexa0?xa0» Ils ont déclaréxa0: «xa0Il y a également un responsable étranger, des voleurs ont détourné l'ambassade, a prévenu M. Lo.xa0» Elle a été interrompue avant d'être dite. Bien que le client soit sceptique, il n'a pas attendu et a immédiatement demandé au capitaine d'appeler l'armée. Quand l'avion a atterri, j'ai appris qu'un envoyé étranger avait été cambriolé. Heureusement, l'armée et la police les ont rapidement secourus et le danger a été évité. Au début, j'ai su que ce qui avait été dit était vrai.
+[Boutique noire]
+Quelqu'un est entré dans un petit arrêt et a ditxa0: «xa0Magasin de viandexa0». C'est une autre personne. Il y a une entrée étrange dessus, ou «xa0Une tête humaine, 35 dollars américainsxa0». Ou «xa0Eyes, vingt dollarsxa0». Si tel est le cas, il existe près de 100 entrées, couvrant les organes humains, toutes à un prix détaillé. Les gens en doutentxa0; ils pensent que c'est virtuel, c'est-à-dire qu'ils commandent une paire d' «xa0oreillesxa0» pour 5 dollars américains. Au bout d'un moment, un colis postal a été envoyé et ouvert, mais il était plein de sang et les gens l'ont entendu. Il y a eu plus d'exaspération, c'est-à-dire que la police a été alertée et que le magasin noir a disparu. Jiang Lang a déclaréxa0: Bien que le paysage Internet soit illimité, il contient également de la saleté. Ajouter le mal est une mince affairexa0; empoisonner des enfants est une grosse affaire.
+[Adieu à Vivian] (Édition Yumei)
+Lin Sheng, également originaire de Shanghai, a de petits capitaux étrangers, est isolé sexuellement et ne parle pas bienxa0; il n'aime que le chat en ligne. La personne qui a essayé de rencontrer Vienne la nuit doit s'appeler Duras, alors on dit Lin Yi. Chaque conversation dure jusqu'au bout de la nuit, par exemple en mars et en avril. L'année prochaine, Lin a pris rendez-vous, mais An Ke a gracieusement refusé. Lin est très méfiante. Shiyou travaille pour Telecom, et Tocha a déclaréxa0: «xa0Une telle personne n'existe pasxa0». La nuit, il n'y avait aucun signe d'extinction.
+[Poète]
+Je me souviens toujours d'avoir erré sur Internet tard dans la nuit pendant la Fête de la mi-automne. Dans le premier salon de discussion, il y avait trois invités. L'un était un «xa0taoïste accroxa0», l'autre était un «xa0fanatique de Chuxa0» et l'autre était «xa0Le garçon à la chemise rougexa0». Le chat en ligne battait son plein. Il a ditxa0: «xa0À l'occasion de la fête de la mi-automne, pourquoi ne pas vous réunir en ligne et profiter de la lunexa0?xa0» L'invité a déclaréxa0: «xa0Pendant le festival de la mi-automne, parlez de poésie sous la lune. Pourquoi ne dites-vous pas qu'il y a des visiteurs venus de loinxa0?xa0» Le garçon a déclaréxa0: «xa0Toutes les paroles du frère de Dao, Chu, étaient admirables. Cependant, tous les trois ont pris un verre et sont restés silencieux, et maintenant il y a des invités qui sont arrivés. Pourquoi n'écrivent-ils pas immédiatement un poème pour aider Ya Xingxa0?xa0» Les invités et les taoïstes disent tous qu'ils sont tous uniques, arrogants, magnifiques ou élégants et élégants. Ils sont tous extraordinaires. Ils sont tous nés de la poussière et ne sont en aucun cas sans scrupules. Malheureusement, c'est directxa0; même s'il convient à la massue des fées, je ne peux pas supporter mon bec. Du jour au lendemain, les trois se sont séparés et ne se sont jamais rencontrés. Je sais seulement que le professeur d'histoire a également vécu isolé en Amérique du Sud pour la première fois.
+Traduit par IA   
+
+
+
+
+

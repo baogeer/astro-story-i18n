@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-19 10:01:22
+title: "La légende de Laihu Ginseng, roi d'Adénophore"
+featured: false
+draft: false
+description: "Big Brother Zhang a travaillé dur pour cultiver le ginseng des sables, et le propriétaire financier «xa0Obliquexa0» a volé le ginseng lorsqu'il a voulu reprendre le champ de ginseng. La fille Sha Shen a estimé qu'il était gentil et qu'il était marié avec lui. Le riche propriétaire a emmené des gens pour les arracher, Big Brother Zhang s'est enfui des méchants et les deux se sont enfuis vers la montagne Changbai pour continuer à cultiver du ginseng. L'histoire fait l'éloge du dur labeur et de la gentillesse, qui ont fini par porter leurs fruits."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-laihu-ginseng-king-of-adenophora.png)
+
+
+
+
+ Le «xa0Raihu Ginsengxa0» est le roi du ginseng des sables et est célèbre au pays et à l'étranger. En parlant de ginseng Raihu, il existe une autre légende belle et émouvante
+On dit qu'il y a longtemps, dans le village de Hucheng, dans le sud de la ville de Laiyang, il y avait un jeune homme connu sous le nom de Big Brother Zhang. Il a perdu sa mère et son père à l'âge de 10 ans. Il a vécu seul et a vécu seul. C'était une personne honnête et travailleuse. Il a laissé à ses parents deux acres de petits champs pour creuser le sol et les a tous plantés avec de l'énergie du sable. Il veut utiliser ces deux acres de sable de ginseng pour construire trois chambres et épouser une belle-fille sage et belle. En conséquence, il restait au sol tous les jours et ne restait pas inactif un instant, sauf pour dessiner, attraper des insectes et arroser. Les deux mu et ginseng poussent très bien, plusieurs fois mieux que la famille des «xa0yeux obliquesxa0» du riche propriétaire.
+L' «xa0œil obliquexa0» pensait que Big Brother Zhang possédait du ginseng sur ses terresxa0; à plusieurs reprises, il a envoyé quelqu'un pour utiliser deux acres de bons mots pour désigner ses deux acres de terrain de ginseng sableux. Big Brother Zhang a tous dit non. Il déteste «xa0l'œil obliquexa0» et la racine de ses dents lui démange.
+La saison de récolte du ginseng des sables approche à grands pas. Big Brother Zhang a installé un petit hangar sur le sol pour garder le champ de ginseng jour et nuit. Big Brother Zhang a vu que Sha Shen Ke devenait aussi épais que les bras d'un enfant. Certains avaient également des bras et des jambes et ressemblaient à une adorable grosse poupée. J'étais tellement heureuse que ce soit aussi sucré que de manger du blé. Ce Sha Shen est son espoir, son bonheur, il veut construire une maison, avoir une femme et vivre une belle vie. Il aimait tellement le ginseng qu'il a choisi les deux plus gros, les a mis dans une assiette et les a respectueusement offerts dans son petit cabanon.
+Cette nuit, Big Brother Zhang était couché dans son lit. Dès qu'il a fermé les yeux, une fille comme une fée s'est tenue devant lui. Mais dès qu'elle a ouvert les yeux, elle a de nouveau disparu. Cela a été le cas plusieurs fois de suite. À l'âge de 17 et 8 ans, la jeune fille avait une taille semblable à celle d'un saule, des yeux abricots, un visage ajouté, une peau rose fine et une paire de fossettes claires sur les joues. Elle sourit légèrement, montrant deux rangées de dents blanches et soignées. Une robe blanche laiteuse a été traînée par terre. Big Brother Zhang a grandi et il n'a pas encore vu une si belle fille. C'est comme ça depuis quelques nuits.
+Ce jour-là, Big Brother Zhang a empilé les concombres de sable qu'il avait récoltés, les a soigneusement emballés avec des tomates et s'est préparé à les vendre au marché demain. Cependant, après l'aube, un groupe de ginseng des sables a disparu. Big Brother Zhang a immédiatement senti que le ciel tournait et que ses yeux étaient noirs.xa0» «xa0Flutteringxa0» est tombé. Quand il s'est réveillé, il a vu une fille assise à côté de lui. Il a regardé de près. Il ressemblait exactement à la fille qu'il avait vue cette nuit-là. Big Brother Zhang était excité et lui a immédiatement saisi la main.
+La jeune fille lui a dit que le ginseng des sables avait été volé par «xa0l'œil obliquexa0». C'est une fille de Sha Shen. Voyant que Big Brother Zhang est travailleur et gentil, elle aime aussi beaucoup le ginseng et aimerait former un couple avec Big Brother Zhang. Dès que Big Brother Zhang l'a entendu, son excitation a jailli de sa poitrine. Elle s'est précipitée pour saluer la fille de Sha Shen. La fille l'a soutenu à la hâte. Le même jour, les deux ont adoré le ciel et la terre et sont devenus mari et femme.
+Cet incident s'est rapidement étendu aux «xa0yeux obliquesxa0». Il a immédiatement apporté trois pattes de chien chez Big Brother Zhang, disant que Big Brother Zhang avait kidnappé une femme d'une bonne famille et voulait être envoyée au gouvernement pour être punie. Dès qu'il a fait signe de la main, ses trois jambes se sont balancées vers Big Brother Zhang.xa0» «xa0L'œil obliquexa0» lui-même a étreint violemment la fille de Sha Shen. Big Brother Zhang était tellement en colère qu'il a immédiatement attrapé un bâton et a fait tomber deux pattes de chien, puis a soulevé le bâton et l'a frappé sur «xa0l'œil obliquexa0». «xa0L'œil obliquexa0» a rapidement relâché la jeune femme et s'est enfuie en rampant avec trois chiens.
+Après que «xa0l'œil obliquexa0» se soit échappé, la fille de Sha Shen a pris la main de Big Brother Zhang et a ditxa0: «xa0Fuyons-nous vitexa0; ils reviendront.xa0» En conséquence, Sha Shen Girl et Big Brother Zhang ont fui pendant la nuit vers le mont Changbai, dans le nord-est de la Chine, où ils cultivent toujours du ginseng. Pour commémorer Sha Shen Girl et Big Brother Zhang, des habitants du nord-est de la Chine ont réalisé un drame sur leur histoire et se sont même produits à Pékin.
+Traduit par IA   
+
+
+
+
+

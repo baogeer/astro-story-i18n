@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-20 08:47:34
+title: "The Descendants of Yan and Huang"
+featured: false
+draft: false
+description: "Huangdi and Yandi joined forces with various tribes to defeat Lu You in the Battle of Zhuolu. Emperor Huang used the power of mythical beasts and the god of dry to defeat the enemy, and eventually captured Lu You. After the war, Huangdi became the leader and invented many objects. His wife taught his ancestors to cultivate silkworms and weave silk. Descendants revered him as an ancestor and called themselves the descendants of Yan and Huang."
+---
+
+
+
+![AstroPaper I18n](/the-descendants-of-yan-and-huang.png)
+
+
+
+
+ A thousand years ago, many clans and tribes lived along the Yellow River and Yangtze River basins in China. Among them, Huangdi is one of the most famous tribal leaders in the Yellow River basin. Another famous tribe leader is called Emperor Yan. Huangdi and Yandi are brothers. There is a Jiuli ethnic group in the Yangtze River basin. Their leader is called Lu You, and they are very strong.
+Luyou has 81 brothers. They are all beast and human, and they are extremely strong with bronze heads and iron arms. They are good at making all kinds of weapons, such as knives, bows, and crossbows. Lu You often led his powerful tribe and invaded and harassed other tribes. At one point, Lu You invaded the place of Emperor Yan, and Emperor Yan raised an army to resist, but he was not Luyou's opponent; he was completely defeated by Lu You. Yandi had no choice but to flee to Zhuolu, where Huangdi was located, to ask for help. Huangdi wanted to get rid of this tribe's scourge for a long time, so he joined forces with the leaders of various tribes to wage a decisive battle with Lu You in the Zhuolu field. This is the famous “Battle of Zhuolu.” At the beginning of the war, Lu You won successive victories with good weapons and brave soldiers. Later, Huangdi invited dragons and other strange beasts to help. Although Lu You's soldiers were ferocious, they were unable to resist Huangdi's army and this group of ferocious beasts, and they fled one after another.
+Huangdi led the soldiers to victory and hunt them down. Suddenly it was dark, there was heavy fog, strong wind, and lightning mixed. There was torrential rain in the sky, and Huangdi's soldiers were unable to keep up. It turns out that Luyou invited “God of Wind” and “God of Rain” to help the battle. Huangdi didn't show weakness either. He invited the “God of Drought” from heaven to help disperse the wind and rain. In an instant, the wind stopped raining, and the sky cleared thousands of miles. Lu You also used magic to create a heavy fog, causing Huangdi's soldiers to lose their way. Using the phenomenon that the North Dipper in the sky always points north, Huangdi built a “guide car” to guide the soldiers out of the fog.
+After many fierce battles, Emperor Huang successively killed Luyou's 81 brothers, and eventually captured Lu You alive. Emperor Huang ordered that Lu You be shackled and then executed. He buried his head and body in two places far apart because they were afraid that Lu Yu would become strange after his death. The shackles that Luyou wore were thrown on a barren mountain and turned into a maple forest. Every blood-red maple leaf is a speck of Luyou's blood.
+After Lu You's death, his brave image was still fearsome. Huangdi painted his image on the military flag to encourage his army to fight bravely, and also to intimidate tribes that dared to fight against him. Later, Huangdi received support from many tribes and gradually became the leader of all tribes.
+Huangdi is versatile and has many inventions, such as building palaces, cars, ships, making costumes in five colors, etc. Huang Di's wife, Lu Zu, is also an inventor. Originally, silkworms were only wild; people still didn't know the usefulness of silkworms. The ancestors taught people to raise silkworms, reel silk, and weave silk. Since then, China has had a silk civilization. After Huangdi invented the pavilion, she also invented a pavilion that can move on rainy days — an umbrella.
+Ancient Chinese legends all revered Emperor Huangdi. People of later generations believed that Huangdi was the ancestor of the Huaxia people and that he was a descendant of Huangdi. Because the Yandi tribe and the Huangdi tribe were originally close relatives and later merged, Chinese people also often refer to themselves as descendants of Yan and Huang. To commemorate this legendary common ancestor, the Chinese also built a “Huangdi Mausoleum” on Qiaoshan north of Huangling County, Shaanxi Province, on the banks of the Yellow River. Every spring, Chinese representatives from all over the world gather here to worship the ancestor of the Chinese nation.
+AI Translated   
+
+
+
+
+

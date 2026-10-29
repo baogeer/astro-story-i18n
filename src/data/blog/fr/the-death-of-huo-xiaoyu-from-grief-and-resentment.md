@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-14 19:11:27
+title: "La mort de Huo Xiaoyu à cause du chagrin et du ressentiment"
+featured: false
+draft: false
+description: "À l'origine fille du roi Huo, Huo Xiaoyu était exilée et a fait vœu d'amour avec le poète Li Yi. Li Yi a épousé un autre fonctionnaire et eunuque au cours de sa carrière et a trahi son accord précédent. Huo Xiaoyu est mort de chagrin et de colère. L'histoire dénonce le manque de chance et révèle également l'impuissance et le chagrin de la femme responsable de la féodalité."
+---
+
+
+
+![AstroPaper I18n](/the-death-of-huo-xiaoyu-from-grief-and-resentment.png)
+
+
+
+
+ La mère de Huo Xiaoyu, Zheng Jingzhi, était à l'origine une prostituée chantante et dansante de la famille de grand-père Huo à l'époque de Tang Xuanzong. En raison de sa belle apparence, grand-père Huo a été pris comme concubine. Juste au moment où Zheng Jing était enceinte de Rikko, la «xa0rébellion d'Anshixa0» a éclaté. Grand-père Huo est mort au combat et la famille Wangfu s'est dispersée sous forme d'oiseaux et d'animaux. Zheng Jingzhi a emmené Huo Xiaoyu en exil et a vécu une vie pauvre. Quand Huo Xiaoyu avait 16 ans, elle était déjà aussi brillante et charmante que sa mère. Elle connaît la poésie et sait bien chanter et danser. Pour joindre les deux bouts, Huo Xiaoyu a dû travailler dans un cabaret et ne pas se vendre. Ce genre de personne s'appelle un «xa0jeune hommexa0». En raison de sa beauté, elle était assez célèbre à l'époque.
+À Pékin, il y a une personne célèbre pour sa poésie, Li Yi. Il est né à Longxi, a parcouru les anciens champs de bataille des Han et des Tang et a écrit de nombreux poèmes évoquant des sentiments de guerre, tels que «xa0Happy to See My Grandfather Say Goodbyexa0»xa0: Après dix ans de séparation, nous nous sommes rencontrés quand ils étaient grandsxa0; son nom de famille l'a surpris pour la première fois et il était célèbre pour son apparence nostalgique. N'allez pas dans l'océan et arrêtez de parler au crépusculexa0; demain, Baling Road, les montagnes seront à nouveau lourdesxa0!
+Huo Xiaoyu était également une personne qui a connu la souffrance de la mort à cause de la guerre et du chaos, et a été particulièrement émue par les psaumes de Li Yi. Après avoir parcouru le quartier, j'ai finalement rencontré Li Yi. Il était champion à l'époque et attendait d'être nommé à un poste officiel. Après avoir parlé quelques mots, nous nous sommes tous mis d'accord. Quand nous parlions de poésie, nous avons oublié le temps qui passe. Huo Mu admire également Li Yi. Elle pensait que s'ils pouvaient devenir ces deux-là, Huo Xiaoyu serait fiable pour le reste de sa vie. En conséquence, utilisant des bougies rouges comme support et du vin comme promesse, ils ont prêté serment que «xa0la mer est morte et la terre ne changera pas leur cœurxa0». Li Yisuo habite chez Huo Xiaoyu. Chaque jour, les deux mangent et vivent ensemble, ils entrent et sortent ensemble, vraiment comme un mari et une femme. Après presque un an, Li Yisheng est devenu secrétaire en chef du comté de Zheng. Il a dû retourner dans sa ville natale de Longxi pour rendre visite à sa famille avant de prendre ses fonctions. Une fois que tout a été arrangé, Huo Xiaoyu a été arrêté et marié dans le comté de Zheng. Quand Li Yi est parti, Huo Xiaoyu était très inquiet. Il pensait qu'il changerait d'avis après avoir pris soin de son poste élevé, mais Li Yi a juré à maintes reprisesxa0: «xa0En mars de la nouvelle année, accueillez de belles personnes, réunissez-vous dans le comté de Zheng et ne vous séparez jamais.xa0» Les deux se sont séparés en larmes.
+Après le retour de Li Yi dans sa ville natale, ses parents étaient extrêmement heureux. Après s'être amusés un peu, ils ont organisé une affaire de famille pour lui. La femme était la fille d'une famille officielle. Li Yi n'avait pas d'autre choix que de parler de Huo Xiaoyu, mais ses parents étaient fermement opposés à l'idée de commencer. Li Yisi a pensé à maintes reprises que prendre la fille de la famille étrangère l'aiderait dans sa carrière, alors ils ont eu un mariage vivant.
+À ce stade, Huo Xiaoyu avait encore de l'espoir. Six mois se sont écoulés, je n'ai pas vu Li Lang. Un an s'est écoulé et il n'y a toujours pas de nouvelles. Huo Xiaoyu sait que ses peurs finiront par devenir réalité, mêlées de chagrin et de haine, et elle est alitée. L'ambition de Li Yi s'est progressivement étendue. Tout le monde à Chang'an était au courant. De nombreuses personnes ont été indignées par Huo Xiaoyu.
+Li Yi n'a pas tardé à travailler à Pékin. Un jeune homme enthousiaste n'a finalement pas pu s'empêcher de placer Li Yijiao sur le pas de la porte de Huo Xiaoyu. En voyant Huo Xiaoyu, qui était jaune, mince et en transe à cause du désespoir, Li Yi avait honte et une honte insupportable. Huo Xiaoyu a eu du mal à se lever et n'a pas voulu dire un mot même si elle était si amère face à des gens humbles. Elle a pris un verre de vin et l'a renversé par terre, disant qu'avec Li Yi, c'était déjà «xa0difficile à récolterxa0». Elle est tombée au sol et est morte. Li Yi a caressé le cadavre et a pleuréxa0; il était trop tard pour se repentir.
+De nombreuses années plus tard, Li Yiguan est devenu prêtre au ministère des Rites et son sentiment de culpabilité pour Huo Xiaoyu l'a tourmenté toute sa vie.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,27 @@
+---
+pubDatetime: 2026-11-13 03:11:08
+title: "Lady Huarui tuée par la flèche de Zhao Guangyi"
+featured: false
+draft: false
+description: "Mme Huarui était la concubine préférée du futur seigneur Shu, Meng Chang. Après la mort de Shu, elle a été emmenée à Bian Jing avec Meng Chang. Meng Chang est mort violemment. Elle a été emmenée au harem de Song Taizu à cause de sa beauté. Elle n'a pas oublié son ancien maître et a adoré son portrait en privé. Plus tard, elle a été irritée par Zhao Guangyi en raison d'un différend politique et a été abattue avec une flèche par lui lors d'une chasse. La fin a été désastreuse, reflétant la cruauté de l'impuissance du pays perdu et de sa lutte contre la justice."
+---
+
+
+
+![AstroPaper I18n](/lady-huarui-killed-by-zhao-guangyi-s-arrow.png)
+
+
+
+
+ Après la mort de Qian Shu, Tang Zhuangzong a ensuite utilisé Meng Zhixiang comme ambassadeur des deux rivières. Après l'arrivée de Meng Zhixiang à Shu, Zhuang Zong a été tué jusqu'à la mort de Tang Mingzong, Meng Zhixiang s'est arrogé le titre d'empereur, mais est mort en quelques mois et Meng Chang a accédé au trône.
+Meng Chang est une personne qui sait s'amuser. Il cherchait de belles femmes de Shudi à utiliser comme harem, et sa préférée était «xa0Mme Huaruixa0» Fei Guifei. Mme Huarui aime les pivoines et les fleurs à mât rouge, alors Meng Chang a ordonné au gouvernement et à des particuliers de cultiver des pivoines en grande quantité. En plus de passer du temps jour et nuit avec Mme Huarui, Meng Chang a également invité à un festin pour déguster des pivoines. Le dîner de Changri devenait ennuyeux. Mme Huarui a fait cuire une tête de mouton blanche avec du gingembre rouge, l'a supprimée avec une pierre et l'a trempée dans du vin. Il était découpé aussi fin que du papier et sa saveur était infinie. Elle est connue sous le nom de «xa0tête d'agneau écarlatexa0».
+Meng Chang a très peur de la chaleur. Sur l'étang de Mohe, il a construit un palais de cristal, utilisant Kusunoki comme colonnes, du bois d'agar, des fenêtres en corail et du jaspe comme maison. Les murs d'enceinte n'utilisent pas de maçonnerie et utilisent plusieurs grandes couches de verre. La couette de tente Donnello est extrêmement luxueuse.
+Juste au moment où les deux hommes se noyaient dans leurs rêves, Song Taizu, Zhao Kuangyin, «xa0se sont joints dans une robe jaunexa0» et ont ordonné à Chung Wu de charger Wang Quanbin de diriger une armée de 60 000 personnes pour attaquer Shudi. Les 140 000 soldats Shu qui ont défendu Chengdu ont été détruits à des milliers de kilomètres. Meng Chang a quitté la ville pour se rendre. Au printemps, alors que les montagnes étaient fleuries, Meng Chang et Mme Huarui ont été forcées de quitter leur rêve de vie et de mort dans le parc Shudi pour se rendre à Bianliang. Zhao Kuangyin surveille Mme Huarui depuis longtemps. Pour voir la beauté, il a offert à Meng Chang et à sa famille, et a rencontré Mme Huarui lorsqu'ils sont venus au palais pour la remercier. Sept jours plus tard, Meng Chang est mort violemment. Beaucoup de gens pensent qu'il a été empoisonné par Zhao Kuangyin. La mère de Meng Chang avait déjà honte de la demande de son fils et elle a également entamé une grève de la faim à mort. Taizu a quitté Mme Huarui pour un festin au palais et lui a demandé de chanter un poème sur place. Mme Huarui a gémixa0: «xa0Lorsque vous quitterez Shu Dao pour la première fois, votre cœur sera brisé et votre haine durera. Le printemps est comme une nouvelle année et vous allez bientôt sentir l'odeur des rhododendrons en permanence. Les femmes des Trois Mille Palais avaient toutes l'air bien. Ils se sont battus pour Chanjuan et ont appris le meilleur. Aujourd'hui, qui sait que c'est un mensongexa0? Cette phrase a été écrite sur le mur du poste en quittant Shu Guo et en passant par le col de Jia Meng. À l'époque, au palais de Chengdu, le seigneur Shu Meng Chang a personnellement écrit le «xa0Wanli Chaotian Songxa0». Il pensait que c'était un trifecta à des milliers de kilomètres de la dynastie. Les femmes portaient de hautes couronnesxa0; elles l'appelaient toutes «xa0Chatianxa0», mais cela reflétait la dynastie Song. Taizu lui a ordonné d'écrire un autre poème. Mme Huarui a penséxa0: «xa0Lorsque le drapeau a été abaissé d'un arbre dans la ville de King King, où les concubines l'ont-elles découvert dans le palais profondxa0; 140 000 personnes ont toutes été déconstruites, sans parler d'un fils. Song Taizu ressentait les sentiments de la patrie de Mme Huarui et l'admirait encore plus. Elle a couché avec Mme Huarui et a rapidement été couronnée princesse royale.
+Cependant, Mme Huarui n'a pas oublié sa relation avec Meng Chang et adore souvent ses portraits en secret. Une fois que Song Tae-jo m'a vue et que je lui ai demandé qui figurait dans le portrait, elle n'a pas eu d'autre choix que de dire que c'était un cadeau populaire à Zhang Xian. Après cette attaque, chaque concubine du palais a également offert une statue de Zhang Xian.
+Mme Huarui a ensuite mis en colère le frère cadet de Taizu, Zhao Guangyi, en raison d'un différend politique, et a été abattue par Zhao Guangyi avec une flèche lors d'une chasse.
+Traduit par IA   
+
+
+
+
+

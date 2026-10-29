@@ -1,0 +1,62 @@
+---
+pubDatetime: 2026-11-01 16:56:14
+title: "Comment Lu Da a trompé le roi dragon de mer à trois reprises"
+featured: false
+draft: false
+description: "Lu Da a promis de demander de la pluie à une personne vivante, et quand il le souhaite, il taquine Dragon King en dansant avec son balai et en perçant la table avec sa tête. Dragon King a riposté à deux reprisesxa0; au lieu de cela, il a obtenu des pommes de terre en cultivant des pommes de terre et des légumes. Ils ont également envoyé de l'essence de crabe pour les attraper. Lu Da a involontairement effrayé l'essence de crabe et le roi dragon. Dragon King n'osait plus rien faire de mal. Depuis lors, le climat du village de Lujia est paisible et l'histoire fait l'éloge de l'esprit des travailleurs."
+---
+
+
+
+![AstroPaper I18n](/how-lu-da-tricked-the-sea-dragon-king-three-times.png)
+
+
+
+
+ Il y a une île dans l'océan Oriental et il y a un village sur l'île appelé Lujia Village. Il y a longtemps, une douzaine de fermiers du nom de famille Lu vivaient dans ce village. Ils cultivaient des champs de bowtou bordés par la mer et les montagnes, capturaient des crabes des sables, des poissons et des crevettes dans la mer et gagnaient à peine leur vie. Il pleuvait peu sur l'île, les gens n'avaient donc pas d'autre choix que de tuer des cochons et d'abattre des moutons et de se rendre au temple de Longwang, à l'extérieur du village, pour chercher de la pluie. Si le Roi Dragon était content et recevait un peu de pluie, les agriculteurs pourraient obtenir une bonne récolte. Le fait de donner des cochons et des moutons chaque année rend également les gens malheureux. Il y a eu une autre grande sécheresse cette année. Lorsque les gens ne pouvaient pas vivre, ils quittaient leur ville natale les uns après les autres pour gagner leur vie. En fin de compte, il ne restait que la famille Lu Da.
+Lu Da et sa femme ont deux fils. L'épouse a ditxa0:
+«xa0Rudyxa0! Les racines de la montagne sont brûlées et l'écorce est molle, alors courons pour sauver notre viexa0!xa0»
+«xa0Nonxa0! J'essaie de trouver un moyen.xa0» Lu Da a déclaréxa0: «xa0Les semis de printemps vont bientôt commencer, alors ne manquez pas la saison.xa0»
+Le lendemain, Lu Da est venu au temple de Longwang, seulement pour constater qu'un coin du temple s'était effondré. Le roi Hailong, qui était assis sur sa tête et sa taille, était couvert de toiles d'araignées serpentantes et la table était cassée. Il y avait un trou de la taille de sa tête dedans. Lu Da s'est approché de la statue du Roi Dragon et a ditxa0:
+«xa0Le Roi Dragonxa0! Je te reproche juste d'être méchante, alors maintenant ils sont snobés à la porte. Il n'y a pas d'encens du tout, même personne ne balaie le sol ou n'efface la poussière. Si vous pouvez pleuvoir abondamment et me donner une bonne récolte cet automne, je vous promets un grand spectacle. Il est rare que tu aies un cochon entier et un mouton entier pour toi, alors je vais te donner une tête humaine vivante. Es-tu optimistexa0? Si c'est le cas, prenons cela pour acquisxa0; il pleuvra ce matin.xa0»
+Après avoir parlé, Lu Da est rentré chez lui pour préparer des outils agricoles.
+À l'intérieur du temple du Roi Dragon, de l'essence de crabe est de service ce jour-là. Après avoir écouté les remarques de Lu Da, il n'a pas osé tarder. Il est retourné précipitamment au Crystal Palace pour faire rapport à Dragon King. Dragon King caressa les moustaches de Dragon et gémitxa0: J'ai mangé toutes sortes de porc, de mouton, de poulet, de canard, de spécialités montagnardes et de fruits de mer. Cette tête humaine fraîche et vivante vaut la peine d'être dégustée. De plus, ces dernières années, mon temple est devenu en désordre et j'ai fait brûler de l'encens. Je devrais donc profiter de cette opportunité pour prospérer. En conséquence, Fengbo et Lei Gong ont été amenés et ils ont amené des crevettes, des soldats et des crabes au village de Lujia pour mettre la pluie.
+De plus, Lu Da est retourné chez lui pour trier ses outils agricoles. Vers midi, il y a eu un orage et de fortes pluies se sont immédiatement abattues. Cette pluie ressemble à la marée de la mer de Chine orientale qui monte de 10 000 hectares et que la rivière Tianhe tombe de son embouchure.
+Après la pluie, le ciel était clair et Lu Da était occupé à cultiver et à planter des graines. Afin de goûter l'odeur de la tête humaine, Dragon King a également aidé secrètement et a demandé aux crevettes et aux crabes de fertiliser et d'exterminer les insectes à Lu Dazheng. Les plantules volent jour et nuit. À la saison des récoltes, le riz était doré, comme de l'or cassé. Lu Da, quant à lui, était occupé à récolter et à sécher tout le temps. Dragon King a attendu patiemment que les gens avouent.
+Ce n'est que le 30 du Nouvel An que Lu Da a apporté un balai au temple de Longwang. Quand Dragon King l'a vu arriver les mains vides, il était perplexe. Il n'a vu que Lu Dazaku aboyerxa0:
+«xa0Le Roi Dragonxa0! Nous avons d'abord rendez-vous. Je te promets un grand spectacle, une personne vivante. Aujourd'hui, je l'ai apporté. S'il vous plaît, regardez d'abord le film, puis mangez la tête des gens.xa0»
+Après avoir parlé, ils ont porté un balai dans leurs mains et ont dansé avec leurs mains et leurs pieds dans le temple. Ils ont fait des allers-retours et ont fait beaucoup de bruit à propos du drame, faisant voler la poussière à l'intérieur du temple. Dragon King voulait juste se mettre en colère. Au lieu de cela, il a penséxa0: oubliez ça, il ne pourra probablement pas inviter l'équipe dramatique et le remplacer au hasard. Attendons et profitons-enxa0!
+Après la danse, Lu a jeté son balai et a souri et est venu devant la table de service et a ditxa0:
+«xa0Maintenant, laissez le Roi Dragon manger des têtes humainesxa0!xa0»
+Comme je l'ai dit, je me suis allongée sous la table de service et j'ai sorti ma tête par le trou de la table de service. Dragon King a vu une tête humaine apparaître soudainement sur la table de service. Il n'a pas été surpris. Il voulait en manger, mais il ne savait pas par où commencer. En le regardant de tous les côtés, je ne pouvais même pas voir de couteauxa0; si j'y pensais, je devais l'arracher avec mes mains. Il a tendu une paire de griffes de dragon aussi fines que du bois de chauffage et mesurant trois pouces de long et a attrapé la tête de Lu Da. Dès que Lu Dai l'a vu, il était occupé à garder la tête baissée, à rire et à sortir mystérieusement de dessous la tablexa0:
+«xa0Dragon Kingxa0: Vous avez vu le film et vous l'avez essayé aussi. Moi aussixa0! Je veux le rembourser aussi. Nous ne nous devons rien l'un à l'autre et avons hâte de prendre soin d'eux à nouveau au cours de l'année à venir.xa0»
+Après avoir parlé, prenez le balai et partez. Pour mettre le Roi Dragon en colère, les yeux du dragon sont ronds et les moustaches du dragon sont inverséesxa0:
+«xa0D'accord, pauvre enfant. Osez vous moquer du roi. Tu veux toujours que je m'occupe de lui l'année prochainexa0? Je veux que tu te débarrasses de la haine qui est dans mon cœur.xa0»
+Il a commandé l'essence de crabexa0:
+«xa0L'année prochaine, les champs de Lu Dao ne lui permettront que de s'enracinerxa0; il ne portera pas de fruits.xa0»
+L'année suivante, Lu Dagang a fait gonfler des patates douces. Grâce au dur labeur du crabe, les patates douces ont grandi comme des cuisses. Quand Dragon King a appris que Lu Da avait eu une autre bonne récolte, il a dit que la prochaine fois, il ne laisserait que les grosses feuilles prendre racine et ne pas fleurir. Cependant, Qiaolu Da a cultivé du chou chinois cette fois, et l'extrait de crabe a fait pousser le chou chinois comme un petit panier à céréales.
+Lorsque Dragon King n'a pas riposté à deux reprises, Lu Da lui a accordé de nombreux avantages et il était furieux comme le tonnerre. Gu Chengxiang est sorti de côté et a ditxa0:
+«xa0Ce n'est pas difficile pour le roi de se venger. Ne serait-il pas plus facile d'envoyer simplement un agent junior pour prendre Lu Daxa0?xa0»
+Dès que Dragon King l'a entendu, le tournage était correct. Il a convoqué le crabe à la hâte et lui a donné des ordres comme celui-ci, et l'a renvoyé en route.
+De plus, cette année, dans le village de Lujia, la scène était différentexa0; les habitants qui étaient sortis sont tous retournés dans leur ville natale les uns après les autres. Bien que la famille Lu ne soit pas riche, elle est également aisée et passe un bon moment. Lorsque cette essence de crabe est arrivée devant Lu Da Men, Lu Da et sa femme discutaient des tâches ménagères dans la cuisine. J'ai seulement entendu Lu Da direxa0:
+«... Appelons le crabe Adati. Une fois cuit, il est facile à déguster en plat.xa0»
+Lu Da voulait dire que son fils de l'université Ming était parti en mer pour attraper des crabes de sable, mais il a été surpris quand il a entendu l'essence de crabexa0:
+«xa0Pas bienxa0! Je n'ai pas encore franchi la portexa0; ils le savent tous et sont prêts.xa0»
+Effrayé, il se précipita vers le Crystal Palace et rapporta au Roi Dragon avec envie que Lu Da était une personne divine. C'était un prophète inconnu. Il s'y était préparé depuis longtemps. S'il s'était évadé rapidement, je crains qu'il ne soit mort il y a longtemps.
+Lorsque Dragon King a entendu l'histoire, il était convaincu et dubitatif. Le Premier ministre Kame était sur la touche et a déclaréxa0:
+«xa0Le roi n'a pas à s'inquiéterxa0; ses subordonnés l'ont accompagné lui-même, et il comprendra.xa0»
+Dans la soirée, Dragon King et l'empereur Gui ont quitté la surface, se sont cachés et sont arrivés au village de Lujia. Sang-sang Kame a ditxa0:
+«xa0Roi, je suis entré par la porte d'entrée et tu es entré par la porte arrière, donc Lu Da ne s'échappera pas.xa0»
+À ce moment-là, Lu Dagang est revenu de l'agriculture, a jeté une tortue qu'il avait attrapée dans le fossé aux enfants qui jouaient devant la porte et est entré dans la maison pour préparer lui-même le dîner. Alors que nous nous apprêtions à manger, un voisin a crié devant la portexa0:
+«xa0Oncle Lu, la rhubarbe (vache) à ta porte s'est enfuiexa0!xa0»
+Il s'est avéré que la rhubarbe attachée à la porte arrière avait cassé la corde de la vache et s'était enfuie. Dès que Lu l'a entendu, il a crié à la hâte à la portexa0:
+«xa0Ah Da, donne la tortue à Ah Xiao. Prends une corde et pars par la porte arrière avec moi pour attraper «xa0Rhubarbxa0».
+Dès que le Premier ministre Turtle a appris que Lu Da se laisserait à la tête d'Ah Xiaolai, il devrait également se rendre par la porte arrière pour attraper le roi. Il a pensé qu'il valait mieux s'enfuir. Dès que Dragon King l'a entendu par la porte arrière, la tortue de la porte d'entrée a été attrapée et remise à Ah Xiao. Lu Da et Ah Da sont venus par la porte arrière avec des cordes pour se capturer. Terrifiés, ils ne se souciaient pas de la vie ou de la mort du Premier ministre Turtle et se sont enfuis au Dragon Palace.
+Dragon King et le Premier ministre Turtle se sont rencontrés au bord de la mer. Les deux se sont plaints l'un de l'autre et se sont secrètement réjouis.
+Depuis lors, Dragon King n'a jamais osé avoir de problèmes avec Lu, et la récolte dans le village de Lujia s'est améliorée d'année en année.
+Traduit par IA   
+
+
+
+
+

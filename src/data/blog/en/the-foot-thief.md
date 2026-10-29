@@ -1,0 +1,45 @@
+---
+pubDatetime: 2026-11-19 05:42:16
+title: "The Foot Thief"
+featured: false
+draft: false
+description: "Guan San relied on the capital he stole back then to become a rich person, yet he is still obsessed with stealing skills. He used rewards in exchange for thieves to perform, eventually inducing old thieves to show off their stunts, “foot stealing,” and worked hard to learn. After a year of practicing magic, she died suddenly due to excessive excitement. The wife cried that she had changed the evil and brought it back to the right, so she should not have looked back and thought about that “evil.”"
+---
+
+
+
+![AstroPaper I18n](/the-foot-thief.png)
+
+
+
+
+ Guan San is an old couple. They were thieves when they were young, but later they couldn't wash their hands and lived in seclusion in Laiyang.
+Guan San used stolen money to buy a house, and also opened a satin shop, and lived a prosperous life.
+Thirty years later, it became the richest person in Laiyang City.
+What is surprising is that Guan San, who has become a rich gentleman, never forgets his roots. He often secretly practices his stealing skills, putting red pieces of coal in his fingers and putting soap in boiling water. Guan San has his reasons for doing this. He said who can guarantee wealth for a lifetime? What if I get disappointed in the future? If you can't find a way out, you'll probably go back to being a thief. Why are those perfect lives that have been studied and worked so hard that they just go to waste! The lady joked at him: “You just wanted to be addicted.” Guan San frowned, and barbed and smoked: “Also, my skills are itchy.”
+Guan San is a household; naturally, he is missed by thieves. Of course, some of the thieves were caught by their families when they were stealing. When they caught these thieves, Guan San didn't fight or scold them, let alone send them to the official house. Instead, he made these thieves perform stealing skills for him. After they had taken out the thieves' “art,” he found out a few people and politely sent the thieves out of the house. Using this method, Guan San also saw some things he had never seen before. If you take a close look, you'll be able to pick up an ocean.
+Every time I see a new skill, I practice in Level 3. Guan San has made great use of his talents, and his stealing skills have improved quite a bit.
+Once, they caught another thief. This thief seemed to be seventy or eighty years old and had lost weight to the bone.
+Guan San personally untied the old thief and said, “Old brother, are you still a thief now? Did you really run into trouble?” The old thief closed his eyes slightly and didn't look directly at Guan San. Just nod. Guan San said, “I should have sent you to school, but once I saw you were old, I became a good person again.” Guan San picked up a “yuan head” and threw it over. The old thief picked it up steadily and looked at Guan San with no expression. “This is for you.” Guan San then picked up two more pieces, “If my older brother doesn't want to get lost, my younger brother actually wants to show off your stealing skills, which is an opening for our family. It made me happy, and the money was added.” Rub your fingers over the ocean, squeeze it, and throw it over. The old thief reached out and the three oceans “dang dang” smashed together. The old thief still couldn't see any expression on his face. His eyes were still slightly closed for half a day and said, “Really? Why don't you take me to see an official? Give me back my money?” Mrs. Guan San answered, “Our old man loved thieves; of course, that's true.”
+The old thief looked down and nodded, stood up and said, “Thank you, old man! I'll give you a cigarette.” Let's just sit back and finish smoking. The old thief opened his hand and revealed a shiny golden ring on his palm, “Master, please keep your stuff.” At this point, Guan San already vaguely sensed that this old thief must be a top expert in thieves. The ingenuity to remove his ring just now was above my own. Also, that fuzzy, lust-like expression, slightly closed eyes... so extraordinary! He thought this old thief must have better stealing skills. Guan San slowly stood up, rubbed his hands, and said, “OK. I will accumulate virtue from old times because of your poor energy when you are sick.” Speaking of which, I asked the housekeeper to take out ten yuan. Guan San took over the ocean and turned his head on the old thief. Then I walked out the door and scattered foreign money all over the sky, and scattered all the foreign money and scattered all over the place. Guan San turned his head and said to the old thief, “If my older brother doesn't give up, take this money away!”
+The old thief looked down and thought for half a day and said, “Can the old man take that seriously?”
+“Seriously!”
+The old thief suddenly sighed, “Ahhh! If you don't have this damn tuberculosis, it would cost money to diagnose and treat it. I can't show off my craft easily.” At this point, the old thief's eyes, which were originally slightly closed, suddenly twinkled, radiating a different kind of light. He threw off his two shoes and walked out barefoot.
+Guan San shouted secretly in his heart: “Here it is.” His eyes actually flashed with excitement.
+The crowd walked out with the old thief.
+At this point, the clouds were fading over that curve of the new moon. The lanterns overshadowed the yard. The old thief stretched out in the yard, and his waist straightened. A few family members stood around the courtyard wall to prevent him from escaping. The old thief began a leisurely walk around the courtyard, leaving no one around. Walking and stopping, stopping, sometimes raising his head to look at the moon, sometimes bowing his head and meditating, like a sad poet. The old thief seemed intent on avoiding suspicion; he didn't feel comfortable. Once in a while, he lowered his lower back, and everyone's eyes doubled. Who knows, he just tickled his back with his hands and coughed for a while, then straightened his lower back again. The crowd looked dazed. At this point, the old thief suddenly swung his feet, stepped on a sharp wind, and began to wander around in a disorderly manner. He was as agile as gossip, soft as tai chi, and got sick as he walked. For example, a gyroscope turned left and right, drifted east and west, and swirled from south to north. A light breeze blew up in the courtyard, swirling refreshingly on people's cheeks. The crowd was astonished, and for some reason they called it good. Soon, the old thief slowed down again, wandering like a falling leaf... Guan San was already blind.
+At this point, the old thief suddenly stopped, didn't speak, and just headed straight back. The crowd hurriedly blazed off a path. The old thief went back to the living room, stood still, and moved his feet to find his shoes. As soon as the crowd saw the place where he had just stood, they were all dumbfounded and placed neatly arranged in two piles.
+Guan San suddenly pressed the old thief on the chair, picked up his feet and looked at each of the thief's feet, each with a “meat nest.”
+“Foot theft, this is the legendary foot thief!” Guan San's eyes lit up with excitement.
+Yes, foot thieves! Unrivaled stealing stunts in the world: When Guan San was an apprentice, he heard his master say that the world has this craft, claiming to be at the top of the path of thieves. But I haven't been able to see it. Just now, he realized that the old thief was a master thief, and for some reason, the word “foot thief” popped up in his mind. By throwing those ten pieces of money out of the ocean, I naturally wanted to bring out this trick. However, Guan San knows that if he wants to find this trick, it is tantamount to finding a needle in a haystack. Now, this “needle” has actually been caught by him.
+Guan San implored the old thief to teach him how to steal his feet.
+The old thief got his last point.
+Guan San learned how to practice foot stealing, such as getting treasure. Since then, I've gone to bed and worked hard to practice this trick.
+A year later, Guan Sanjiao became stealthy. However, Le was extremely sad. At that moment, due to excessive excitement, he actually lost his life.
+The lady lay on Guan San's body and cried: “Now that evil has been changed and brought back to justice, we shouldn't always think about that 'evil'!”
+AI Translated   
+
+
+
+
+

@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-27 17:23:57
+title: "La légende du dieu du tonnerre et de la déesse de la foudre"
+featured: false
+draft: false
+description: "La mère électrique de Leigong est le mythique dieu mari et femme qui est responsable du tonnerre. L'oiseau-tonnerre a des ailes et tue le tonnerre avec un marteauxa0; la mère électrique se décharge à l'aide d'un double miroir. Originaire de l'Antiquité, leur image a évolué, passant de bêtes et de lutteurs à des figures humaines. Après les dynasties Tang et Song, la mère est devenue des dieux indépendants pour dissuader les démons grâce à la puissance du tonnerre et de la foudre."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-thunder-god-and-the-lightning-goddess.png)
+
+
+
+
+ La mère électrique de Lei Gong est composée de deux immortels libérés par le tonnerre dans la mythologie et les légendes chinoises anciennes. Ils appartiennent à deux dieux. Ils sont principalement responsables des changements climatiques et de la joie lorsqu'il pleutxa0; ils ont également pour collègues les dieux de la pluie, des dieux du vent et des nuagesxa0; ils peuvent punir les démons et les fantômes avec la puissance des décharges électriques et même du soleil.
+Lei Gong est le dieu du tonnerre, qui est responsable du soleil, il s'appelle donc Gong, également connu sous les noms de Maître Lei et Thor. L'arme magique est un marteau perforateur ciselé par Lei Gong. La légende raconte qu'il ressemble à une tête d'oiseau et au bec du Thunder Gong, et qu'il a des ailes derrière lui.
+La Mère Électrique est le dieu responsable de la foudre. C'est du yin, c'est pourquoi on l'appelle Mère, également connue sous le nom de Notre-Dame de la Lumière Dorée et de Dame de la foudrexa0; l'arme magique est un miroir éclair à deux faces et, selon la légende, elle a l'air assez majestueuse.
+Lei Gong est le dieu du tonnerre. Il appartient au Soleil, il s'appelle donc Gong, également connu sous le nom de Maître Lei et Dieu de Thor. Electric Mother est le dieu de la foudre. C'est le yin, c'est pourquoi on l'appelle Mère, également connue sous le nom de Madone à la lumière dorée et de Dame de la foudre. Le culte du tonnerre existe depuis l'antiquité. Il y a un dicton dans la section Sengoku «xa0Journeyxa0» de Qu Yuanxa0: «xa0Maître Zuo Yu a traité Xi, et Lei Gong est parti pour le défendrexa0»xa0; dans «xa0Li Shaoxa0», il a également déclaréxa0: «xa0L'empereur Luan était Yu Xianjiao, et Maître Lei n'était pas armé. Nous demandons à Fenglong de profiter des nuages et de chercher la place de la princesse Mixa0». Feng Long, selon Han Wang Yizhi, «xa0s'appelle Maître Leixa0». Il existe de nombreux documents relatifs au dieu Thor dans le «xa0Sutra Shanhaixa0», selon lesquels le dieu Thor «xa0a un corps de dragon et une tête humaine, et son ventre est bombéxa0» et est considéré comme une bête. Cependant, le dieu Thor de la dynastie Han a décrit dans «xa0On Hengxa0» de la dynastie Han, «xa0On Hengxa0» de la dynastie Hanxa0: «xa0Si tu ressembles à un lutteur de sumo, tu l'appellerais Lord Lei. Laissez la main gauche diriger le tambour et la main droite pousser la colonne vertébrale, comme si vous la frappiez. Cela signifiait du tonnerre et du bruit, même le son des tambours qui s'entrechoquaientxa0». Lei Gongdang est une poupée. Pendant les dynasties du Nord et du Sud de Wei Jin, Lei Gong est redevenu une bête. «xa0Search for Godxa0» appelait Thor «xa0aussi coloré que l'argent, les yeux comme un miroir, trois pieds de long avec des cornes et la forme de six animaux, comme un singexa0». Le travail de la foudre était également effectué par Lord Thunder dans les temps anciens. Ce n'est que sous la dynastie Han que l'on a parlé du père de l'électricité. Autour des dynasties Tang et Song, le dieu de la foudre est devenu une mère électrique. Tang Cui Zhiyuan a un dictonxa0: «xa0Fabriquez la mère électrique Lei Gong et tracez un chemin vers le ciel dans les régions périphériquesxa0». Song Su-shi a également écrit un poème intitulé «xa0Captain Thunder Gong Ho Electric Motherxa0». Après Song Yuan, la mère électronique est devenue plus célèbre. «xa0Zu Ding Yu Wenxa0» est appelé «xa0le messager de Dianmu Xiu, connu sous le nom de Wen Yingxa0». «xa0L'histoire du service d'opinion publiquexa0» dans «xa0Yuan Shixa0» indique que l'armée possède un «xa0drapeau électriquexa0». Le drapeau représente une divinité sous la forme d'une femme, «xa0Zhu Chang en pantalon blanc, portant de la lumière à deux mainsxa0». Les romans de la dynastie Ming «xa0Voyage vers l'Ouestxa0» et «xa0Voyage vers le Nordxa0» ont tous deux été écrits sous le titre «xa0Notre-Dame de la Lumière Doréexa0» ou «xa0Lady Zhu Peixa0».
+Traduit par IA   
+
+
+
+
+

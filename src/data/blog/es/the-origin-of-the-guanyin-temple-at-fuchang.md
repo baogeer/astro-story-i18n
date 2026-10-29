@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-20 23:35:49
+title: "El origen del templo de Guanyin en Fuchang"
+featured: false
+draft: false
+description: "En la Feria del Templo de Baizhushan, las personas de Yoshimura y Longjie que habían llegado tarde fueron ridiculizadas y enojadas y contrabandearon la estatua de Guanyin. Al pasar por Fuchang Linggang, la estatua de repente se sintió pesada, como si hubiera echado raíces y no pudiera moverse. La gente piensa que el Buda aparecerá y que el templo se construirá en el lugar. La reunión está programada para el 19 de febrero. La historia muestra que no hay que despreciar a los demás ni temer la voluntad de los dioses."
+---
+
+
+
+![AstroPaper I18n](/the-origin-of-the-guanyin-temple-at-fuchang.png)
+
+
+
+
+ Cuenta la leyenda que la Feria del Templo de Baizhushan fue organizada conjuntamente por Dragon Street, Baizhu, Yoshimura y la fábrica de azulejos. Sheba, Mizutakutsubo, Tomisho y Yoshimura Gaiji Ancient tomarán la delantera por rotación. Cada año, el decimocuarto día del Año Nuevo Lunar, llega un sinfín de personas procedentes de cuatro pueblos y 13 kilómetros para ayudar a los ancianos y llevar a sus hijos a Chaoshan, en el templo de Baizhu, para adorar a los dioses. Que toda la familia esté sana y salva. Como la montaña Baizhu se encuentra en el centro de los cuatro lados, las montañas y el agua cristalina son hermosas, los árboles son profundos y los dioses son muy espirituales, y es un lugar donde los jóvenes hombres y mujeres locales se encuentran y tienen un encuentro romántico, es muy concurrido y muy animado. La gente cantaba y bebía, se divertía y tardaron cuatro o cinco días en dispersarse.
+Como Yoshimura y Dragon Street están muy lejos de Baizhushan, la gente de allí tiene que levantarse y salir a la carretera cada vez que camina hacia Baizhushan. Cuando caminan hacia Baizhushan, el sol ya se inclina hacia el oeste. Por no hablar del festival público que organiza el Cuarteto, ni hablar del festival público que organiza el Cuarteto, ni siquiera un lugar para descansar los pies o cocinar con una olla. Las personas que llegaron temprano por la mañana también leyeron un libro sobre la puerta del templo: «La montaña Baizhu Ling mide cuatro pies; algunas personas no encogen los pies», burlándose de las personas que están lejos de llegar a tiempo. Los habitantes de Lu Yuan se enfurecieron al verla y se reunieron para hablar sobre el cuerpo dorado y la posición de Guanyin desde el templo de Baizhu hasta Guikou, en Yongping, para construir otro templo nuevo.
+El 14 de enero, 20 parejas de chicos y chicas grandes seleccionados de antemano de Yoshimura y Dragon Street estaban cantando y tocando canciones en la entrada del templo, atrayendo la atención de la gente. Aprovechando la oportunidad de que la gente mirara y cantara en el espacio vacío del Templo Qu, los otros dos tipos fuertes, que eran tan fuertes como las vacas, se dieron la vuelta en secreto y corrieron, caminando como si volaran, hasta Guikou en la calle Longjie.
+Por extraño que parezca, cuando los dos jóvenes llevaron al Buda montaña abajo, eran tan livianos como golondrinas y no sentían nada de peso; cuando corrieron hacia Fuchang Linggang de una sola vez, sintieron que estaban cargando una gran montaña, por lo que se quedaron sin aliento, lo que les dificultaba caminar cada paso del camino. A continuación, el joven colocó al Buda en la colina y se sentó a descansar. Cuando los dos quisieron volver a alejarse del Buda, fue como si las hormigas sacudieran un gran árbol, y la estatua no se movió en absoluto, como si hubiera echado raíces. El joven se sintió extraño, por lo que les contó el incidente a los ancianos de la aldea de Fuchang. Los ancianos dijeron: «Esta es la guía espiritual del Bodhisattva Guanyin; no debe ir en contra de la voluntad de los dioses».
+Como resultado, la gente construyó casas y un templo en Fuchang Linggang para colocar el cuerpo del Buda. El día en que se construyó el templo resultó ser el 19 de febrero del calendario lunar, el día auspicioso del zodíaco, que estaba fijado para el culto. Desde entonces, los habitantes de las aldeas de Yoshimura, Yongping y Shuizhuping nunca han ido a Baizhushan a divertirse, porque la Feria del Templo Guanyin de Fuchang, que se celebra el 19 de febrero de cada año, es tan animada como el 14 de enero en Baizhushan.
+Narrador: Chang Xueshi
+Colección y recopilación: Ah Xunyu
+Traducido por IA   
+
+
+
+
+

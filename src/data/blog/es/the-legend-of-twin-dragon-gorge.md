@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-13 10:23:39
+title: "La leyenda de Twin Dragon Gorge"
+featured: false
+draft: false
+description: "Hace mucho tiempo, hubo un entrenamiento de Huanglong a la salida de Tieguanxia. A menudo aliviaba las lluvias y las sequías de la gente, y era profundamente admirado. Los oolong de Cisjordania están celosos del incienso de Huanglong y rocían llamas deliberadamente para agravar la sequía. Huanglong lo ha resuelto muchas veces. Los dos dragones lucharon entre sí, y Oolong fue derrotado y pidió perdón. Tras ser mediados por el Maestro Guanyin, los dos dragones vivieron en la misma cueva para beneficiar a la gente. La gente del pueblo reconstruyó el «Templo del Doble Dragón», y Yang Shen recibió el título de «Protege el desfiladero y protege a la gente». El cañón recibió el nombre de Desfiladero de Shuanglong, alabando la transformación y la coexistencia armoniosa."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-twin-dragon-gorge.png)
+
+
+
+
+ Hace mucho, mucho tiempo, Iron Coffin Gorge se exportó a la amplia zona del valle. Decenas de habitantes del pueblo trabajaron arduamente para cultivar aquí y vivieron una vida estable sin preocuparse por comer o beber.
+En una cueva en la orilla este del cañón, hay un dragón amarillo. Tras más de 300 años de entrenamiento, se lleva bien con la gente del pueblo cercano, se ayuda mutuamente en caso de problemas y siempre responde cuando se salva. La gente local lo admira mucho. Cada vez que hay una sequía, grupos de personas vienen a la cueva en busca de lluvia. Para satisfacer las necesidades de la gente del pueblo, Huang Long arrojó una ola de niebla púrpura desde la cueva. La niebla púrpura se elevó hacia el cielo y rápidamente se condensó en una nube de nubes oscuras. La inclinación, el estruendo de los truenos y las fuertes lluvias cayeron a cántaros, lo que hizo que las cosechas del cañón fueran ricas en cereales. Para apreciar la gracia de Huanglong, la gente del pueblo erigió un templo y se sacrificó frente a la cueva de Huanglong.
+No sé cuántos años más han pasado desde que viví en un oolong en una cueva de Cisjordania. Después de más de 100 años de práctica, empezó a tener algunas enseñanzas. Al ver que el incienso era muy popular frente a la cueva de Huanglong, había muchos sacrificios y no pude evitar sentirme fascinado. Pensé para mis adentros: ¡Eh! Qué talentoso es Huang Long. Lo respetas tanto que no me miras a los ojos. Vale, déjame enseñarte mis hechizos. Entonces vendrás a rogarme. Como resultado, Oolong comenzó a ganar fuerza. En ese momento, cuando se encontraba en plena sequía, aprovechó para repostar el fuego y escupir las llamas, lo que provocó que los campos se rompieran, las cosechas se pusieran amarillas y muchas personas y animales se enfermaran a causa del calor. Cuando Huang Long se enteró de este incidente, estaba ocupado esparciendo la lluvia para aliviar el peligro, y el complot de Oolong fracasó. La contienda se repitió varias veces y Huanglong convirtió el riesgo en alivio. Oolong vio a Huanglong oponiéndose por todas partes y estaba muy molesto.
+Un día, Oolong salió de la cueva de Huanglong y amenazó a Huang Long diciéndole: «Suelta la cueva o te enterrarán en la cueva. ¡Te arrepentirás!» Ante la irrazonable amenaza de Oolong, Huang Long ayudó con buenas palabras: «Practicar y facilitar a la gente» es nuestra verdadera esencia; está mal que hagas el mal y hagas daño a la gente de esta manera. El arrogante Oolong gritó: «¡Deja de decir tonterías, déjame mostrarte lo buena que soy hoy!» Tan pronto como el discurso terminó, Oolong arrojó una luz roja. Tras un fuerte ruido, el templo se derrumbó de inmediato e incluso toda la cueva se sacudió. Enfurecido, Huang Long salió corriendo de la cueva y luchó con Oolong. Los dos dragones volaron y extendieron sus garras el uno hacia el otro. Me cogisteis y me mordisteis, y cada uno hizo un truco. Fue una batalla feroz, pero la matanza fue oscura. Tras 981 asaltos, Oolong fue perdiendo gradualmente la capacidad de entrenamiento y kung-fu de Huanglong, y la batalla fue de ida y vuelta, y su escamosa armadura fue derribada por todo el cañón. Hasta ahora, la gente ha visto las piedras multicolores del río Ning. Cuenta la leyenda que se transformaron en armaduras escamosas que cayeron cuando dos dragones lucharon.
+Justo cuando Oolong fue derrotado y capturado, resultó que el Maestro Guanyin estaba allí, preguntando por la situación original, reprendió a Oolong y disuadió a Huanglong de mostrar piedad con sus hombres. Quería que los dos dragones se llevaran bien, vivieran en la misma cueva, practicaran el arte de las hadas juntos y exterminaran con todo lo que pudiera causar daño a la gente.
+La gente del pueblo vio que Huanglong se dedicaba a esparcir la lluvia entre la gente. Oolong también cambió el espíritu maligno y recaudó fondos para reconstruir el templo y lo llamó «Templo del Doble Dragón». Los dos dragones lanzaban lluvia durante las sequías; cuando se inundaban, el tiempo mejoraba. La gente del pueblo ha cultivado el cañón hasta dejarlo verde, las cosechas son hermosas y sus vidas mejoran día a día.
+El escritor de la dinastía Ming, Yang Shen (Hao Sheng An), al pasar por las Tres Gargantas, escuchó a la gente del pueblo elogiar a Ssangyong por sus logros en beneficio del pueblo, y con mucho gusto dejó atrás las cuatro palabras «protege el desfiladero y protege al pueblo». La gente convirtió estos cuatro personajes en una placa dorada y la colgó en el templo de Shuanglong en honor a los dos dragones. Por esta razón, esta sección del cañón también se llama «Garganta del Doble Dragón».
+——De «La leyenda de las Tres Gargantas»
+Traducido por IA   
+
+
+
+
+

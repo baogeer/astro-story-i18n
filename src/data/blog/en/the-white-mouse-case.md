@@ -1,0 +1,43 @@
+---
+pubDatetime: 2026-11-05 06:15:51
+title: "The White Mouse Case"
+featured: false
+draft: false
+description: "There was no incident at the junction of Tengxian County in the Qing dynasty. The body stood on its knees and couldn't fall. Investigations in the three counties were to no avail. The wife of the county governor of Tengxian County deduced from a small hole at the scene that the deceased mistakenly cut herself when stabbing a white rat with a samarium rod. This was later confirmed by witnesses, and the case was solved. The story highlights the folk wisdom of careful observation and reasoning."
+---
+
+
+
+![AstroPaper I18n](/the-white-mouse-case.png)
+
+
+
+
+ Legend has it that during the Qing dynasty, there was an unseen incident at the site bordered by Tengxian County in Shandong Province, and Tongshan County in Jiangsu Province. The scene looked like this: a young man picking grass was kneeling on the ground with his hands clasping the samarium (large sickle used to cut the lake grass) pole. His head was cut off and rolled down a meadow two steps away, but the body of “Zhou Wu Zheng” knelt down and did not fall down.
+The local security guard recognized the death of Zhuang Shang Li Laohan's son, so he quickly ran back to the village to tell Li Laohan, and then went to the Yixian County Government Office to report the crime. The county grandpa from Yixian felt that this place was at the junction of the three counties of Yixian, Teng, and Tongshan, so he immediately wrote down a document and invited the grandfathers of Tongshan and Tengxian counties to rush to the site of the accident on the same day to do an autopsy together. The three county grandfathers led Wu Zuo to the scene according to the pre-agreed time. They all thought that if the dead body did not fall down, the grievance must have been huge, so they jointly reported it to the Taiwan government in Shandong and Jiangsu Province. Following instructions from the government office, all three prefectures are within their respective jurisdictions. They must carefully investigate and understand this murder case.
+They interrogated all the farmers who fought the lake grass, and they didn't ask for the slightest clue; Li Laohan was an honest and honest farmer. He only did little work. He never fought or made trouble with anyone else, and his ancestors had no enemies for generations. Who killed it? The three prefectures joined forces to conduct an unannounced investigation for over a month, and they didn't come up with a single famous place. It was still a samarium head, a samarium rod, and a dead corpse without a head seen at the scene. This case is like a mess without a handle; how can they figure it out? Everyone was baffled.
+Also, Grandpa Taishin from Tengxian County. She has read the Four Holy Scriptures, and has also read some books from hundreds of families. She is very knowledgeable. Everyone says that she is a powerful person who knows astronomy and geography. She always surpasses others by coming up with ideas, making plans, and analyzing every matter. I heard that she privately helped the county elder resolve a number of difficult cases.
+The county commissioner of Teng County is very sad because of this kind of incident. It doesn't taste good to eat, and the sleep isn't sweet. On this day, he was walking back and forth in the inner room. He fervently thought of his wife's ability to resolve the case, so he found his wife, who spoke carefully, asked her to help her think things through and come up with good wisdom. Actually, this official lady has heard about this case for a long time, and now she has heard the elder say it again, and now she is even more counting. On the same day, she asked the county boss to take her to the site of the accident to take a closer look. She unwittingly discovered that there was a small hole in the place where the dead body was kneeling. There was a mark of a samarium stick stabbed in this hole. She thought, why would the young man poke this little hole? There must be an article here. She secretly thought about it for a while before she opened up and asked the county chief, “Master, have you noticed this small hole pierced by a samarium rod?”
+“Didn't notice this hole.” The prefectural governor answered.
+“I think this young man killed himself by mistake, not by him.” The imprint lady seemed very sure and spoke in a slow voice.
+“How do you see it? Let's talk about it.” The county commissioner is questioning.
+The wife said, “Don't worry, let's dig down this little hole first. If we find anything, we can prove what I'm thinking. It's not too late to tell you then.”
+The old man from the prefecture heard this and immediately asked the government officials to dig down the cave. Indeed, when it was dug more than two feet deep, a mouse flew out of the hole. But people still don't understand; can this little rat kill people?
+Seeing everyone panicking, the wife said, “This young man saw this little white mouse drilling into the hole and thought it was strange, so he ran over and kneeled down on the ground with a samarium rod. Perhaps he used too much force and shook the samarium head. It fell right down the young man's neck along the samarium pole, cut off his head, and lost his life. Also because of his two-handed pillar
+Kneeling on the ground with a samarium pole on both knees. With such support, the corpse did not fall. Old man, do you say yes or not?”
+The prefectural grandpa listened and admired it. But this is just a judgment; who can prove that he stabbed this rat hole with a samarium rod?
+The wife saw that Grandpa was worried about this, and then said, “On this deserted lake beach, it's not just one person who plays lake grass. I think, ask those people who often play grass with him and they'll probably be able to confirm that this young man's head was cut off.”
+In accordance with his wife's opinion, the county commissioner sent out all the people who usually play lake grass with him and asked them one by one, asking them not to be afraid, not to worry, and to respond honestly. If you don't say it, wait until you find out who knows, you'll have to be severely punished! After being taught by Mr. County, he was actually a manager. When asked about a middle-aged farmer, he said, “When I went back to the old man, I went to this deserted lakeside beach with him that day. When the sun was calm, we both piled up the grass we had planted and carried the samarium home. Halfway through, I met a mouse that flew past his feet, and he was behind him. I was so tired that no matter how much time I had time to go with him, I went home first. At the time, I had gone far and looked back and saw him squatting there watching something. Who knows, the next day I heard that he called someone to murder. I don't know who actually killed it.”
+“Why didn't you report these things earlier?” The prefectural commissioner is questioning.
+“This is a matter of life at stake. I'm afraid I'll get involved; who dares to mention this!” The middle-aged farmer answered truthfully. The county commissioner nodded in response. They sent all the farmers who had been brought back to their homes.
+Mr. Tengxian County, with the assistance of his wife, finally figured out the facts of this unfounded case. He thought the case could be closed, and together with the county magistrates of Yixian County and Tongshan County, reported the details of the case to the Futai government offices in Shandong and Jiangsu, and approved the case.
+The Tengxian County Legislature solved this case and achieved great success. Following an agreement between Shandong and Jiangsu Province's Taiyamen, Yixian County and Tongshan County were divided from the site of Teng County to a total of three cooperatives and placed under the jurisdiction of Teng County. This is the “South Three Societies” in Tengxian County that ordinary people know.
+Recorded on May 22, 1987 in Qianzhang Omura
+Narrator: Gao Zhizhong, a male retired teacher
+Collector: Zhang Shizhe, male retired teacher
+AI Translated   
+
+
+
+
+

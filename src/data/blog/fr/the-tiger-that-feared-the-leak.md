@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-16 16:32:59
+title: "Le tigre qui craignait la fuite"
+featured: false
+draft: false
+description: "Un marchand de vaches a fait sortir la vache du temple et a soupiréxa0: «xa0Les fantômes n'ont pas peur des tigresxa0; ils ont seulement peur des omissions.xa0» Le petit tigre et la femelle ont pensé à tort que la «xa0fuitexa0» était extrêmement grave. La mère tigre a étendu sa queue dans la tempe et a essayé, et a été coupée par un marchand de vaches avec un couteau, et s'est enfuie de douleur. L'histoire utilise des erreurs de dialecte pour entrer en collision, montrant le charme incroyable et la coïncidence inattendue des dialectes du sud du Fujian."
+---
+
+
+
+![AstroPaper I18n](/the-tiger-that-feared-the-leak.png)
+
+
+
+
+ Le dialecte du sud du Fujian est parfois surprenant et très intéressant à utiliser dans les applications quotidiennes et dans la vie. Cela montre qu'une erreur a eu une fin inattendue, mais elle était également assez magique et profondément significative. Ce sont probablement les effets artistiques du dialecte du sud du Fujian.
+L'histoire populaire «xa0Le tigre a peur des fuitesxa0», populaire dans la région de Zhangzhou, dans le sud du Fujian, illustre ce type de cas. La fin de l'histoire était vraiment surprenante.
+L'histoire se déroule comme suit. Un soir, un cow-boy qui voulait marcher et rater l'auberge a sorti deux jeunes veaux (des cowboys sains), a regardé le mont Nanshan et a été aperçu par un petit tigre qui est sorti chercher de la nourriture. Le tigre les a suivis en secret, prêt à attendre l'occasion de manger le veau. Juste à ce moment, il a commencé à pleuvoir abondamment. Les marchands de vaches ne pouvaient prendre que de jeunes veaux et se rendre dans un temple pour se mettre à l'abri de la pluie. Qui veut qu'il continue à pleuvoir à mesure qu'il fait de plus en plus lourd. Le marchand de vaches n'avait pas d'autre choix que de fermer la porte cassée du temple. Il a attaché le veau à un pilier à côté et a trouvé un endroit pour se reposer. Qui sait que ce temple est en mauvais état depuis longtemps. Il est complètement délabré et il pleut de partout. Je n'ai trouvé qu'un endroit sec sous le pilier à côté de la porte pour m'asseoir et me reposer. Le petit tigre qui gardait devant la porte était impatient. Sur le point d'entrer et de mordre le veau, il a entendu le vendeur de vaches soupirer et direxa0: «xa0Ce soir, je n'ai pas peur des fantômes, les tigres non plusxa0; ils ont juste peur des fuitesxa0! Dès que Little Tiger l'a entendu, il s'est dit que cette personne est vraiment étrange. Je suis un tigre. Il n'a pas peur, mais il a peur de rater quelque chosexa0? C'est quoi exactement cette fuitexa0? Super, n'est-ce pasxa0? Je vais y retourner et demander à ma mère avant de parler. Je suis donc retournée au trou en courant, j'ai répété ce que je venais de voir et d'entendre, puis j'ai demandéxa0: Qu'est-ce qu'une «xa0fuitexa0» exactementxa0? Super, n'est-ce pasxa0? La tigresse Mu n'arrivait pas à comprendre de quel genre de «xa0fuitexa0» il s'agissait d'une chose dont elle n'avait jamais entendu parler. Elle a appelé Little Tiger, serveur dans la grotte, et est sortie pour voir par elle-même.
+Avant que la femelle tigre n'arrive à la tempe brisée, elle n'a entendu qu'un ronflement. Il s'est accroupi et a sorti sa queue du trou, l'a grattée à gauche et à droite, en essayant de se gratter le mollet. C'était délicieux. À ce moment-là, le marchand de vaches était appuyé sur un pilier et était sur le point de s'endormir. Soudain, son visage a été griffé par la queue d'un tigre. Il s'est réveilléxa0: «xa0Oups, pas bon, le tigre est làxa0!xa0» Quand il s'est calmé, il a sorti le couteau tranchant de sa taille et l'a coupé violemment. Le tigre ne s'attendait pas à ce geste. Soudain, sa queue a été mordue pendant un moment, hurlant de douleur et essayant désespérément de fuir au loin.
+La femelle tigre est retournée dans le trou, hébété. Pour le petit tigre, la «xa0fuitexa0» était vraiment une évidence. Heureusement, j'ai pu courir vite et ma queue n'a été mordue que pendant un moment. Si je ne pouvais pas courir vite, je crains même de perdre la vie.
+Le contenu de l'histoire depuis le début, le développement, la fin et le passage est vraiment incroyable. Le tournant de toute l'histoire est que le marchand de vaches a poussé par inadvertance une exclamation amèrexa0: «xa0Ce soir, je n'ai pas peur des fantômes, je n'ai pas peur des tigresxa0; j'ai juste peur des omissionsxa0!xa0»
+Juste à cause de cette fuite, un tigre, le roi de toutes les bêtes, qui est féroce et mange les gens sans sourciller, a eu si misérablement peur. Il est vraiment étonnant que certaines erreurs d'application linguistique aient pu survivre à une catastrophe majeure. C'est ce qui fait le charme de la langue minnan. Juste parce qu'un mot a été omis, l'article entier était émerveillé. Cela n'a occupé qu'une très petite partie de la présentation de l'histoire, mais toute l'histoire était intrigante et brillante à cause de cela, ce qui n'est vraiment pas facilexa0! À partir de cette histoire, nous pouvons voir l'ingéniosité de la communication dans le dialecte du sud du Fujian. Il y a de l'essence partout, et ça peut être écrit dans un articlexa0!
+Traduit par IA   
+
+
+
+
+

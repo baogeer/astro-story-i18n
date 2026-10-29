@@ -1,0 +1,38 @@
+---
+pubDatetime: 2026-11-01 13:41:51
+title: "The Tujia Folktale of Grandma Bear"
+featured: false
+draft: false
+description: "In the Tujia cottage, the parents went out. Grandma Kuzikabu posed as Ga Po to trick the door of the house and ate her sister Xili in the middle of the night. Her younger sister, Sanaichi, escaped to a pear tree, designed to tie Kuzkaboo's hair to the tree and then run away. Kuczkab fell and was injured, and the salt needle was thrown by a salt seller. Eventually, he was hit and killed by harmful lice, dog fleas, and ants. The story warns children to be wary of disguise and praises their resourcefulness in helping themselves."
+---
+
+
+
+![AstroPaper I18n](/the-tujia-folktale-of-grandma-bear.png)
+
+
+
+
+ I don't know how the current title Bear Boy became popular? Anyway, we were terrified when we heard the story of “The Bear Girl Ga Ba” from an early age (ask for the shadow of our mentality at the time). According to this logic, we were already bear kids, haha.
+Back to business, today, let's talk about the story of “Kutzkabou.”
+“Kutsi Kabu”, in Tujia, means “Grandma Bear.” “Kuci” is a bear, and “Kabu” is a grandmother. In western Xiangxi, it is often translated as “Bear Girl Ga Ba.”
+Legend has it that Kuzkabu lives in a cave, eats human flesh and drinks human blood. He looks ugly; everyone is afraid of it.
+There is a family in Laozhai. There are four members in the family: father, mother, Siri, and two sisters. My sister is very honest and doesn't like to talk a lot. Unlike my younger sister, she can't keep quiet; she's either singing or dancing. She's one year younger than her, but she's as tall as her sister.
+One day, when the parents were going to see Ga Ba, they said to the two sisters, “Let's go. You two must guard the house, don't go out, close the door at night, don't open the door at night, and don't open the door. We'll be back tomorrow.”
+Ku learned that Xiri and Shanai's parents had gone out. They wanted to eat these two sisters, so they pretended to be their grandma and called them to open the door. Siri hid inside the door and was afraid to make a sound. Shanai answered, “My parents said, no one will open the door.” Ku Ci wanted to eat both of their sisters. He drooled and shouted at the door, “I'm your gaba, open the door!” Sha Nai looked through the door and said, “No, I have moles on my face. You don't have any, you're not our Ga Ba.” Kuci quickly picked up a piece of sheep poop and put it on his face and said, “My good grandson, take a good look, don't I have moles on my face?” Sha Nai looked through the door and said, “You still don't look like me, Ga Ba Ba. I have a bun on my head.” Kuci grabbed a bunch of dog poop and stuck it on the back of his head and said, “My good grandson, isn't this a bun?” Sha Nai said, “No, our Ga Ba has white hair.” Ku Tzu found another bundle of twine tied around his hair and said, “My baby Sun, look, isn't my hair white?” As soon as Sha Nai looked at it, it still didn't look like it. “No, we're wearing black clothes; you're wearing blue clothes; I won't open the door.” Kuci said, “Your two sisters Mo Yu (stupid). Ga Ba saw you today. They changed their clothes.” Sha Nai said, “Why haven't my parents come back? They went to Gapo's house.” Kuci said, “The two of them are coming tomorrow. I'm afraid your two sisters won't be with each other, so ask me to be your partner first.” Shanai then opened the door, and Ku Ji came in.
+At night, the two fought to sleep with Kuzikab. Kuzcab said, “Siri wrestled with Shani, whichever won and slept with me.” Siri and Sana wrestled, and Shana pretended to roll down and fall. At night, Siri slept with Kuji.
+In the middle of the night, Kuci killed Siri with his fingernails. As soon as I heard a “bang”, my head fell under my teeth. Shanai asked, “Kaboo, what did you drop?” Kuci said, “My pillow fell off.” Shanai asked, “Then I'll pick one for you.” Kuci chewed Xiri's bones and chewed it out loud. Sha Nai asked, “Kabu, what are you eating?” “I eat chestnuts,” Kuji said. Shanai said, “Give me one to eat!” Ku Tzu said, “My family (kids) can't eat it.” Sha Nai clung to her. Ku gave Sha Nai a finger shell. Sha Nai took a look and was shocked. She ate her sister. What kind of girl is this!
+After thinking of an idea, Shanai said to Ku Tzu, “Kabu, I want to get rid of it.” Ku Tzu said, “Let's get to the fire pit to solve it.” Sana said, “If you're worried, I'll use a cable (rope) to tie it up.” Ku Tzu was relieved and said, “OK, you can get rid of it in the trash.” Kuci tied one end of the cable to Shanai's feet and held the other one herself. Sha Nai walked into the house, untied the cable, tied it to a rooster's foot, and ran to a large pear tree on the water well and hid herself.
+After Sha Nai left, Ku was afraid that Sha Nai would run away. After a while, he tucked the cable and patted his wings a few times. In this way, Ku Ji was also relieved.
+Wait, wait, it's getting brighter, and Sana hasn't come back yet. Ku Tzu went to see Shanai, and when he walked to the toilet, there was no place for Sanai. Ku Ji just ran to catch up. I walked to the water well, and because I had eaten Siri, I was very thirsty, so I went to the water well to drink water. Ku Ji saw Sana's shadow shining in the well and thought that Sana was hiding at the bottom of the well, so she had eaten up all the water in the well. But I didn't see Shanai's shadow; instead, my stomach was bloated. As soon as she sighed and stretched out, she looked up. It turned out that Sana was sitting on a pear tree. I just wanted to catch Shanai. Ku was so big and stupid that he couldn't climb a tree, so he said to Shanai, “Come down quickly, we both go see your parents. “When Sha Nai refused, Ku Tzu started eating trees. Shanai picked a pear and threw it down. Ku Tzu ate the pear. Her teeth were sour, and she couldn't move the tree, so she sat under the tree motionless.
+Shana came up with another idea and said to Ku Tzu, “Kabu, you have to go up the tree, move the rake upside down under the tree, move a ladder to break it, and then tie it to you, so I can pull you up the tree. I can brush your hair. ”
+Kuci wanted to catch Shanai, and everything was done just like that. Shana pulled the cable and pulled Kuji up the tree. Sha Nai brushed Kuci's hair, brushed one by one, tied one by one to the tree. The sand was bundled and left behind and said, “Kabu, the comb fell to the ground, I'll go down and pick it up. “I ran down the tree myself. As soon as Ku Ci panicked, he just wanted to catch Shanai quickly. He also jumped down. His hair was all broken, covered with blood, and scars all over his head. The pain made him unable to stand still. I fell on my rake teeth, and my eyes were full of pain.
+At this point, a salt seller is passing by here. Kuci and the salt seller sought pain medicine. The salt customer sprinkled a pinch of salt on his head and inserted some needles. In this way, Kuci's head hurt even more, forcing her to run amok on rocks and trees, and then hit her to death.
+After Ku Tzu died, he turned into bacteria, and some people took them home to cook and eat. Cook, cook. The pot always cries and cries suddenly, and it's not fully cooked even when cooked. The family just threw this strange bacteria away. The bacteria became lice, dog fleas, and ant locusts.
+(According to the oral collation of Tian Rongman collected by Tian Yongrui and Tian Hongyi in December 1963, the legend spread around Wula Village, Pojiao Township, Longshan County, Xiangxi Tujia and Miao Autonomous Prefecture, and was included in the book “Tujiayuan” written by Peng Yingzi.)
+AI Translated   
+
+
+
+
+

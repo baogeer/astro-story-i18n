@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-12 10:16:26
+title: "La vieille femme qui pulvérisait de l'eau"
+featured: false
+draft: false
+description: "Oncle Song Yu de Laiyang a loué une maison déserte. Au milieu de la nuit, j'ai vu une vieille femme se promener dans l'hôpital et gicler plus d'une fois. Song Mu et sa servante ont jeté un coup d'œil par la fenêtre. De l'eau a été pulvérisée près de la fenêtre par une vieille femme. Les trois sont tombés au sol et sont morts. Une jeune femme a été secourue le lendemain. Selon la déclaration de l'oncle Song Yu, elle a creusé trois pieds dans le sol et a récupéré son cadavre, lui a brisé les os et la chair et a manqué d'eau."
+---
+
+
+
+![AstroPaper I18n](/the-old-woman-who-sprayed-water.png)
+
+
+
+
+ Il y a un monsieur du nom de Song Yu à Laiyang. Quand il était ministre en chef, il louait une maison. C'était très désolé. Une nuit, deux servantes dormaient dans la maison principale et servaient la mère de M. Song et ont entendu un bruit sourd dans la cour, comme un tailleur pulvérisant de l'eau sur ses vêtements. Song Mu a exhorté les filles à se lever et leur a demandé de percer un petit trou dans le papier à fenêtre et de jeter un coup d'œil à l'extérieur en secret. J'ai vu une vieille femme dans la cour qui était très petite, courbée et avait des cheveux blancs comme neige comme un balai. Elle se promenait dans la cour avec un chignon de deux pieds de longxa0; elle s'est prosternée et avait l'air d'une grue qui marchait, pulvérisait de l'eau en marchant, mais elle n'arrivait pas à terminer de pulvériser. La dame était tellement choquée qu'elle est retournée précipitamment et l'a dit à Mère Song. Song Mu s'est également réveillé très surpris et a demandé aux deux servantes de les aider à regarder ensemble par la fenêtre. Soudain, la vieille femme s'est approchée de la fenêtre et a craché droit à la fenêtre. La colonne d'eau a percé le papier de la fenêtre et s'est répandue. Ils sont tous les trois tombés au sol et le reste de la famille ne le savait pas.
+Lorsque le soleil s'est levé tôt le matin, toute la famille est venue à la maison principale et a frappé à la porte, mais personne n'a accepté et ce n'est qu'alors qu'ils ont commencé à avoir peur. Quand j'ai ouvert la porte et que je suis entrée dans la maison, j'ai vu que Mu Song et ses deux servantes étaient toutes mortes par terre. En le touchant, j'ai découvert que l'une des servantes était encore sexy. Je l'ai immédiatement aidée à le remplir d'eau. Elle s'est rapidement réveillée et a raconté ce qu'elle avait vu. Lorsque M. Song a appris la nouvelle, il était si triste et en colère qu'il a failli mourir. Je me suis renseigné en détail sur l'endroit où se cachait la vieille dame et j'ai ordonné à la famille de creuser là-bas. Lorsqu'il a été creusé à plus de trois pieds de profondeur, des cheveux gris sont progressivement apparus. Poursuivant les fouilles, un cadavre a été immédiatement découvert. C'était exactement comme ce que la servante avait vuxa0; son visage était aussi charnu que s'il s'agissait d'une personne vivante. Après que la famille de Song Xiansheng l'ait écrasée et l'ait écrasée jusqu'aux os, ils ont découvert que l'ironie était que toute l'eau était claire.
+Traduit par IA   
+
+
+
+
+

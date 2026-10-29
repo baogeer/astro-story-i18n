@@ -1,0 +1,42 @@
+---
+pubDatetime: 2026-11-02 06:17:01
+title: "Agudengba y el rey que quería volver a ser joven"
+featured: false
+draft: false
+description: "Para salvar al médico que murió inocentemente porque el rey buscó medicamentos para restaurar la vejez y los niños, Agutomba fingió que bañarse en un lago glacial en invierno podía ser 50 años más joven, engañando a un rey de unos 70 años que todavía estaba ávido de hermosos colores para ir allí. El rey ayudó a caer y morir en Agutomba, satirizó la codicia y la insensatez de los gobernantes y destacó el triunfo de la sabiduría popular."
+---
+
+
+
+![AstroPaper I18n](/agudengba-and-the-king-who-wanted-to-be-young-again.png)
+
+
+
+
+ Había una vez un rey. Ya tiene 70 años. Sigue buscando mujeres hermosas en todas partes y ha amenazado con celebrar su vigésima boda en un futuro próximo.
+Una vez, fue de «visita» a un país vecino y vio que el rey del país vecino tenía una joven princesa, que era educada, inteligente y lista, a la que llamaban una «belleza absoluta». Así que se le ocurrió una mala idea.
+Un día, este viejo zorro se acercó silenciosamente a la princesa, le expresó su «amor» y le dijo: «Mientras estés dispuesto a casarte conmigo, te satisfaceré sin importar lo que me pidas. ¡Ahora, por favor, cuénteme sobre algunas de las condiciones y requisitos!»
+La princesa comenzó a sentirse muy extraña y enojada, y pensó: ¿No es una broma? Un anciano de cabello blanco y mejilla plateada. La mitad de su cuerpo ha sido desenterrado, y en realidad está buscando el «amor» para sí mismo. ¡Esto es simplemente un insulto a sí mismo! Pero lo pensé de nuevo: es un rey. Si se negaba rotundamente, me temo que sería grosero, así que quise usar «condiciones» para avergonzarlo. «Querido rey, si quisieras casarte conmigo, no podría desobedecer, pero hay una condición, solo una condición, y es que debes volver a tu edad actual, 50 años, y convertirte en un joven apuesto. De lo contrario, será difícil lograr cosas buenas y ¡no podrás casarte!»
+«Esto... esto...» El rey quedó atónito tan pronto como lo escuchó, tan avergonzado que no pudo hablar ni un momento. Al verlo actuar como un tonto, la princesa se enteró de la tartamudez del rey y continuó diciendo: «Esta... esta... esta es mi única condición. En cuanto seas más joven, me casaré contigo».
+La noche en que el rey regresó a casa, se convocó a los ministros para que le presentaran ideas. Algunas personas sugirieron que el rey emitiera un aviso y ordenara a los médicos populares de todo el mundo que hicieran todo lo posible por recolectar elixires para «volver a la vejez», o por recopilar las recetas mágicas pertinentes, dárselas durante un período de tiempo limitado y condenarlas a muerte si no caducan... Esta perversa sugerencia fue inmediatamente adoptada por el rey. Temprano a la mañana siguiente, se reveló esta notificación penal.
+¿Cómo pueden los médicos populares pobres obtener «elixires» y «recetas mágicas» para restaurar la vejez y los niños? ¡Ha pasado un mes, dos meses... medio año y los médicos populares de todo el mundo se han visto obligados a donar solo las cabezas y la sangre de tantas personas inocentes! Agutomba, quien es venerado por la gente, vio una situación tan miserable, y su corazón estaba tan dolorido como si lo hubieran cortado con una espada. Estaba decidido a usar su valentía y sabiduría para derrotar a ese rey diabólico a fin de salvar al pueblo de este desastre cada vez más grave lo antes posible.
+En una dura mañana de invierno, Agutomba, vestido solo con un par de pantalones individuales, entró corriendo al palacio sin camisa y sin aliento para ver al rey, diciendo que había venido a donar «la casa» para el «niño que regresaba» del rey.
+Cuando el rey vio a este joven, estaba desnudo en una mañana tan fría y no pudo evitar preguntar: «Llevo puesta mucha ropa y todavía siento frío. ¿Por qué llevas un solo pantalón y sigues tan caluroso y sudoroso?
+Agutomba respondió: «La razón de esto debe discutirse en detalle; ¡lleva mucho tiempo!
+El rey dijo con inteligencia: «Bueno, veo muchos artículos aquí». Luego le dijo a Agutomba: «¡Sea breve!»
+Como resultado, Agutomba inventó el siguiente «mito» sobre el rey: «Soy un líder. No me escondo de ti. Basado en mi edad real, este año cumplo 75 años. Hace cinco años, cuando celebraba mi 70 cumpleaños, la hija de un protagonista extranjero era muy hermosa. Siguió a su padre para desearme un feliz cumpleaños. Le expresé mi amor, pero ella gentilmente se negó. ¿Por qué me rechazó? Solo hay una razón: no creo que sea demasiado vieja. Justo cuando estaba extremadamente angustiada y no podía hacer nada, con la bendición de los dioses, de repente me volví 50 años más joven y finalmente me acerqué a esa belleza de hada...»
+Al escuchar esto, el rey de repente intervino y preguntó: «Uh, dime cómo te bendijo ese dios. ¿Cómo puedo hacerte 50 años más joven de repente?»
+El rey está muy preocupado por esto, y también está muy interesado en ello. Porque se enteró de que la situación básica de la que hablaba Agutomba era casi exactamente la misma que la suya; la única diferencia era el jefe, uno era el rey, uno era la hija del jefe y la otra era la princesa del rey. Agutomba entendió mejor la mentalidad del rey y respondió según la pregunta del rey: «Una noche, cuando me estaba durmiendo, tuve un sueño en el que un 'dios' se me acercó silenciosamente y se inclinó y me dijo: Ve por la montaña Tianpan, cruza el río Diling y, rodeado de montañas, hay un gran lago con una pared plana como un espejo y un fondo cristalino. Es un lugar sagrado para que los inmortales se bañen. Siempre que tengas sinceridad, puedes ir desnudo y bañarte durante la dura temporada de invierno. Los ancianos pueden volver a ser jóvenes, los más pequeños pueden volver a ser jóvenes, el cabello blanco puede volverse oscuro y el lado positivo de las mejillas puede reducirse a nada. No solo eso: después de bañarte en aguas mágicas, también puedes mantenerte joven para siempre sin miedo a sufrir un frío intenso en invierno o un calor extremo en verano. Después, seguí el sueño del espíritu divino, ¡y es verdad!»
+«¿Bañarse en el lago en invierno no te congelará el cuerpo?» preguntó el rey con escepticismo.
+«Recuerdo que cuando bajé por primera vez hacía mucho frío, pero estoy convencido de que los dioses no me mentirán. ¡Tal vez sea «Cheng Ze Ling»! Pronto, la sensación de frío desapareció gradualmente; en cambio, cuanto más te lavas, más cálido se vuelve. Al final, no bajé a tierra porque sentía demasiado calor para hacerlo». Agutomba lo relata con honestidad y actitud.
+«¡Entonces llévame allí ahora!» Dijo el rey apresuradamente.
+«Absolutamente. Sin embargo, antes de partir, tienes que preparar un buen vino y cenar para que podamos comer y beber lo suficiente. Por un lado, le deseo al rey un viaje seguro y exitoso; por otro lado, ¡comamos y bebamos lo suficiente para que podamos ir rápido y trabajar duro!» En realidad, para Agutomba comer es una farsa; beber alcohol es real y, en este momento, ¡qué tan necesario es beber para protegerse del frío para Agutomba! No hace falta decir que, por supuesto, el rey trató a Agutomba con afecto.
+El sabio Agutomba llevó al rey al lago y le dijo: «Querido rey, por favor, desátate tu túnica de dragón y lleva tu jade al lago para bañarte».
+El rey ya temblaba sin cesar ante el aullante viento del norte. Volví a mirar al lago. Estaba helado y espeso por todas partes, y no pude evitar preguntar tímidamente: «Esto... ¿cómo puedo bajar?» «No importa, abriré un agujero para ti».
+El agujero se rompió. El rey miró el agujero y aún dudó. En ese momento, Agutomba sacó una cuerda y le dijo: «Como seguro, úsala para atar tu cuerpo. La tengo en la orilla del lago. Si realmente no puedes aguantar después de salir del agua, mueve la cuerda y te llevaré a tierra. ¿Eres optimista?» El rey escuchó y se sintió un poco tentado. Sin embargo, cuando se acercó a la entrada de la cueva, estaba un poco indeciso. En ese momento, Agutomba, de pie detrás de él, lo ayudó a salir y se burló: «¡Ve a la tuya, diablo!»
+Traducido por IA   
+
+
+
+
+

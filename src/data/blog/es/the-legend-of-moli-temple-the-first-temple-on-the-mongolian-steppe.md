@@ -1,0 +1,29 @@
+---
+pubDatetime: 2026-11-27 07:52:09
+title: "La leyenda del templo de Moli, el primer templo de la estepa mongola"
+featured: false
+draft: false
+description: "El rey Dahan ofendió a su sobrino Shunzhi porque estaba borracho e hizo las paces gracias a la mediación del lama de la montaña de Wutai. Para expresar su gratitud, se necesitaron diez años para preparar los materiales para construir un templo y construir el templo de Moli, conocido como el «primer templo de la pradera de Mongolia». El templo está lleno de incienso y, aunque ya no existe, su nombre y su leyenda existen desde hace mucho tiempo."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-moli-temple-the-first-temple-on-the-mongolian-steppe.png)
+
+
+
+
+ El primer templo de las estepas mongolas
+El templo Moli se encuentra en el templo Gacha of Moli, el templo Sumu Moli, en la ciudad de Tongliao. Se construyó durante los años de Qing Shunzhi (1644-1662) y se fue ampliando continuamente de generación en generación a través de Kangxi, Yongzheng y Qianlong, y su escala fue aumentando cada vez más. El este, el este y el sur tienen una longitud de 8 millas cada uno. El círculo alrededor del templo tiene decenas de millas de largo. Hay 8 calles principales y 6 callejones dentro del templo. Las primeras 4 calles son 5 salas grandes, 4 templos pequeños, 2 mansiones de Buda vivientes, almacenes de templos y almacenes, mientras que las 4 calles posteriores son patios residenciales para monjes. Hay un campanario y una torre de tambores en los lados este y oeste de la puerta de la montaña. En el interior del edificio cuelgan grandes campanas y tambores, así como enormes estatuas de los Cuatro Reyes Celestiales. Fuera de la puerta de la montaña, hay refugios que dan sombra, un par de leones de piedra y un par de mástiles de bandera de piedra. También hay un lugar para bailar la danza Chama.
+Este lugar es rico en plantas acuáticas, peces gordos y ovejas, hermosos paisajes, pájaros y flores. La zona turística de Molimiao Shahu es famosa no solo en el país y en el extranjero por ser el embalse desértico más grande de Asia y la presa de arena artificial más larga del mundo, sino también por su mágico y legendario templo de Moli y la «Perla del mar de arena» con sus agradables paisajes.
+Leyendas mágicas
+El templo Moli fue construido en el año 19 de Jiaqing en la dinastía Qing. Cuenta la leyenda que la razón por la que se construyó el templo fue porque el rey Dahan fue a Beijing a ver a su sobrino, el emperador Shunji, y que el hecho de estar borracho en el palacio causó el disgusto de su sobrino. El príncipe Dahan se enfureció y regresó a la pradera, y Wang Gong, que se había unido a varias alianzas, quería enviar tropas a Beijing, gracias a la mediación de un lama gordo, de labios gruesos pero inteligente, de la montaña de Wutai. Mi sobrino y mi tío, que siguen paralizados, tienen que tomar medidas individuales para dimitir y están tan en paz como siempre. Como resultado, el rey Dahan quería construir un «complejo de templos Moli» con 5.600 habitaciones para el lama, un templo principal, 12 subtemplos y 18 casas para el lama, al estilo de un templo tibetano con las características de un templo de las llanuras centrales, para cumplir su deseo de «planificar la construcción de un gran templo como recompensa».
+En aquel entonces, era difícil imaginar lo difícil que era construir un templo en una pradera sin un solo árbol o piedra. El príncipe Choriktu utilizó 1000 trabajadores migrantes y 1000 camiones Lele para caminar despacio con la carga de hielo que caía en el frío invierno, y tardó diez años en terminar los materiales de construcción. En aquel entonces, en las profundidades de la ventisca se escuchaba el triste sonido de las trompetas de los trabajadores migrantes y de una cadena de faroles con forma de caballo que colgaban de carretas de piedra que corrían en la dirección indicada por una hoguera que no se apagaba durante toda la noche. Innumerables personas se convirtieron en huesos muertos, e innumerables personas siguieron su ejemplo con obsesión. Finalmente, se construyó el Templo Moli, conocido como el «Primer Templo de la Pradera de Mongolia». Finalmente, creó un esplendor en la historia de la arquitectura de Horqin.
+Cuenta la leyenda que este templo de Moli originalmente se llamaba «Templo de Jining» y, debido a que está ubicado en una bahía donde el oeste viene hacia el sur y de repente va hacia el este, tiene un nombre mongol. «Moline» significa Wanzi. El templo de Moli es en realidad «un templo en una pradera a la orilla del río». ¡Es un nombre muy bonito! Se aclaró la ubicación del sitio y también se reveló que el lugar elegido por el rey Dahan en ese entonces era de hecho un lugar donde el agua fluye lentamente. El famoso nombre no se ha perdido a lo largo de los siglos, a pesar de que el Templo Moli ha desaparecido por completo. Pero este nombre permaneció en los corazones de generaciones de ancianos de Tongliao.
+Cuenta la leyenda que en aquel entonces, el templo de Moli celebraba una feria de templos cuatro veces al año. Desde mercaderes de Mongolia y Rusia hasta consumidores de incienso en Shanhaiguan, decenas de miles de personas se reunían frente al templo: se celebraban eventos de fantasmas en grupos, vendedores ambulantes, mercados de caballos, la alegría de los visitantes, etc. ¿Cómo podía ser tan animada? Con sus intensos colores religiosos y su magia indescriptible, el templo de Moli formó un feliz vórtice en las praderas mongolas. Giraba año tras año y se convertía en un vórtice feliz en las praderas mongolas. Una escena. Las leyendas se lo cuentan a las generaciones futuras una por una. Solía haber un templo conocido como el «Primer Templo de la Estepa de Mongolia».
+Traducido por IA   
+
+
+
+
+

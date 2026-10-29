@@ -1,0 +1,48 @@
+---
+pubDatetime: 2026-11-18 18:54:31
+title: "El cuento popular maonano sobre la búsqueda de la felicidad"
+featured: false
+draft: false
+description: "En busca de la felicidad, el joven Lemmy viajó miles de millas para encontrar al hada antártica. En el camino, hizo preguntas a la niña tonta, al viejo y a la carpa. Xian Weng solo respondió a tres preguntas. Preguntó a todos los demás y se olvidó de sí mismo. En el camino de regreso, le transmití las respuestas una por una. Después de ayudar a la gente a resolver sus problemas, la mujer tonta habló. Peach Grove terminó y la carpa saltó por encima de la puerta del dragón. Al final, ganó el amor y la felicidad ayudando a los demás. La historia dice: Si buscas la felicidad para los demás, también cosecharás la felicidad tú mismo."
+---
+
+
+
+![AstroPaper I18n](/the-maonan-folktale-of-seeking-happiness.png)
+
+
+
+
+ Al pie de la montaña Baying, junto al arroyo Liu Shui, hay una pequeña cabaña en ruinas donde vive un pequeño y solitario Lemmy. Lemmy creció lentamente, pero a pesar de su arduo trabajo, todavía no podía comer lo suficiente ni mantener su cuerpo caliente. Preguntó cuántas personas mayores pueden encontrar la felicidad en el mundo. El anciano dijo: «Puedes encontrarla». También preguntó: «¿Dónde puedo encontrarlo?» El anciano le dijo que caminara hacia el sur y caminara hasta Nantianmen. El hada antártica se quejará de cómo puede encontrar la felicidad. Pero el viejo no sabía cuánto tardaría en llegar a Nantianmen. Como quería encontrar la felicidad, sin importar lo lejos que estuviera la carretera, Lemmy siguió la dirección que le había dicho el viejo, llevó su equipaje y caminó hacia el sur.
+Lemmy caminó durante varios días y estaba tan sediento que no pudo encontrar agua. No tuvo más remedio que saciar su sed y seguir adelante. Un día al mediodía, Lemmy caminó hasta la cueva de Baicao y encontró una casa familiar a un lado de la carretera, así que fue a pedir agua para beber. El propietario le trajo un tazón de té. Cuando terminó de tomar el té, el padre del propietario preguntó: «Ah, ¿a dónde vas?» Lemmy dijo que quería ir a la Puerta de Tianmen del Sur para encontrar al hada antártica, para encontrar la felicidad. El abuelo dijo: «Eso es genial. Por favor, siéntase libre de hacerme una pregunta. Tengo una hija única que tiene 18 años, ¿por qué sigue tonta?» Lemmy estuvo de acuerdo, se despidió del abuelo y continuó su camino.
+Habiendo cruzado muchas crestas y muchos ríos, Lemmy se quedó en Taohuazhai este día.
+Esa noche, el propietario de la aldea, Arb, sabía que iba a visitar al hada antártica Weng en Nantianmen. Dijo: «Un melocotonero en el jardín trasero de mi casa florece todos los años y nunca da frutos. ¿No sé por qué? Por favor, ayúdame, ¿vale?» Lemmy asintió con la cabeza.
+Caminando de un lado a otro, escalando montaña tras montaña, Lemmy caminó hasta la orilla del río Donglong. Tan pronto como vio, la superficie del río era ancha y el río estaba lleno de agua. No había puentes ni transbordadores. Tenía prisa, pensando en cómo podía cruzar el río. En ese momento, vi a Jiang Xin saltar de una gran carpa, balanceó la cabeza y la cola nadó hasta la orilla y le preguntó con una sonrisa: «¿A dónde vas?» Lemmy dijo: «Hermano Carp, quiero ir a la Puerta de Tianmen del Sur para encontrar al hada antártica y preguntarle sobre la felicidad en la tierra. ¡Por favor, ayúdame a cruzar el río!» La carpa asintió con la cabeza: «Está bien, está bien, ¡te llevaré al otro lado del río!» Como resultado, Lemmy se sentó en el lomo de la carpa y cruzó la orilla opuesta de manera segura y constante. Cuando llegó a tierra, la carpa dijo: «Por favor, ayúdame a preguntarle al Hada Antártica. Llevo practicando aquí más de 800 años. ¿Por qué no puedo saltarme Dragon Gate?» Lemmy incluso asintió con la cabeza: «Está bien, está bien, definitivamente te ayudaré a hacer preguntas».
+Después de cruzar el río, Lemmy escaló innumerables montañas. Una montaña era más alta que otra montaña y finalmente llegó a Nantianmen. Cuando conocí al hada antártica Weng, Lemmy primero hizo las tres preguntas y Xian Weng las respondió una por una. Después de una breve pausa, Lemmy volvió a preguntar sobre su felicidad, pero Xian Weng dijo: «Solo puedo responder tres cosas. Estas son las reglas establecidas por el cielo». Cuando terminé de hablar, desaparecí. Lemmy se arrepiente de no haber preguntado primero por sí mismo, pero cambió de opinión. Muy bien, Xian Weng solo puede responder tres preguntas a la vez. Si primero te preguntas sobre ti, no podrás hacer una pregunta menos sobre los demás. Ahora que Xian Weng ha respondido a tres de las cuatro preguntas, no fue en vano hacer este viaje. Pensando en esto, tarareó alegremente «Luo Hi Ge >» y regresó a su casa.
+De vuelta a la orilla del río, la carpa ya estaba esperando allí. Tan pronto como Lemmy vio la carpa, sonrió y dijo: «Hermano Carpa», dijo Xianweng, solo necesitas sacarte dos de los 12 bigotes largos que rodean tu boca. Mantén la calma y podrás saltarte la puerta del dragón». La carpa estaba muy agradecida. Tras cruzar el río, escupió una Perla de la Noche de su desembocadura y se la dio a Lemmy: «Te has esforzado tanto para ayudarme a encontrar la felicidad y, sin duda, disfrutarás de la felicidad humana en el futuro. ¡Adiós!»
+Lemmy regresó a Taohuazhai. Le dijo a Arbor: «Hay algo enterrado bajo tu enorme melocotonero. Cava un metro y tres pulgadas de profundidad y quítalo, y el melocotonero dará frutos». Arbor pasó la noche cargando una azada para cavar. Cava y cava. Cuando cavó a una profundidad de un metro y tres pulgadas, la luz dorada brilló repentinamente y fue muy deslumbrante. Si lo miras de cerca, ¡en realidad era una gran olla llena de oro! Se apresuró a traer una canasta de su casa, que estaba llena de dos cargas. De repente, el jardín se llenó de melocotoneros y duraznos de color rojo brillante colgaban por todas las ramas. El viejo Arb sonrió, palmeó el ancho hombro de Lemmy y dijo: «Ah, sí, eres una persona muy agradable. Tengo un jardín lleno de duraznos. Todo es gracias a ti. Deberías disfrutar de la felicidad humana. ¡Te daré estas dos bolsas de oro!» Lemmy le dio las gracias mil veces y no pagó nada de dinero. Pasó la noche y salió rápidamente a la carretera temprano a la mañana siguiente.
+Después de caminar muchos días más, regresé a Mogusato. Cuando Lemmy entró por primera vez al patio del abuelo, la niña tonta que estaba secando su ropa en el patio sonrió emocionada tan pronto como vio a Lemmy. Volvió la cabeza y gritó en el pasillo: «¡Papá, papá, sal pronto! Tu yerno ha regresado». Papá escuchó el sonido y corrió al patio para echar un vistazo. ¡Genial! En busca de la felicidad, Lemmy regresó e invitó a Lemmy al pasillo. En ese momento, la niña estaba ocupada elogiando el té y fumando mientras hablaba sin parar en su boca, como para compensar lo que no había dicho en 18 años. El abuelo vio a su hija hablar hoy. Se portaba tan bien y era tan inteligente que no podía llevarse bien con lo que decía.
+Matando pollo y tamizando vino para Lemmy esa noche, dijo: «Eres un gran benefactor para mi familia y deberías disfrutar de la felicidad con nosotros. La niña ya te llamaba yerno, ¡así que sé mi yerno! Asegúrate de no especular». Remy estaba sorprendido y encantado, e incluso asintió con la cabeza en señal de agradecimiento.
+Tras la difusión de la noticia, todos los familiares cercanos y vecinos acudieron a celebrar la ocasión. Abe, de Taohuazhai, también llegó después de enterarse de la noticia e invitó a alguien a recoger esas dos cargas de oro para felicitar a Lemmy. La noche de la capilla, Lemmy también sacó la Perla de la Noche que le había regalado la carpa y la colgó en lo alto de la sala central. Las luces brillaban intensamente, iluminando a todos los invitados. Luego, los cantantes masculinos y femeninos cantaron «Luo Yu Song» para felicitar a Lemmy por haber encontrado la felicidad para los demás y la felicidad para sí mismos:
+Canta una canción feliz al dueño,
+Los buenos árboles dan frutos dulces,
+El matrimonio de una buena persona,
+La familia y los amigos venían uno tras otro,
+Feliz canción para el propietario, ¡Hola Luo!
+Peach y Li se rieron jejeje,
+Ayudar a otros a disfrutar,
+Todos se regocijaron,
+Desde mañana primavera hasta hoy,
+Tao Li se rió jeje, ¡hola Luo!
+Lugar de recolección: Xianan Township Zhongnan Dongxintun
+Tiempo de recogida: 1962
+Descripción oral: Tan Tongchun (Maonan)
+Registro: Luo Xianchu (pueblo zhuang)
+Fecha de compilación: 1980
+Editora: Yuan Fengchen (Maonan)
+Traducido por IA   
+
+
+
+
+

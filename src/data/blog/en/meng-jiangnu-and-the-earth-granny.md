@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-07 16:52:49
+title: "Meng Jiangnu and the Earth Granny"
+featured: false
+draft: false
+description: "Lady Meng Jiang cried that the Great Wall had found her husband. She was burdened by heavy burdens. She felt lighter on her back when she was instructed by her mother-in-law. The land father-in-law blamed her for cutting off Wan Xiliang's chance to return to the sun. After the dispute between the land mother-in-law, the part that flooded out became Taiwan Island. Since then, the mainland's land temple has been used by the land lord, and Taiwan has supplied the land woman. It revealed the origin of the differences in the worship of land gods between the two sides of the Strait."
+---
+
+
+
+![AstroPaper I18n](/meng-jiangnu-and-the-earth-granny.png)
+
+
+
+
+ The woman Meng Jiang searched for her husband thousands of miles and found the Great Wall of China. She heard that her husband Wan Xiliang died at the foot of the Great Wall. She cried so dark. Her crying shook the Great Wall, revealing a pile of white bones. The tens of thousands of laborers who died building the Great Wall were all buried in the Great Wall.
+Lady Meng Jiang was crying while searching for her husband's dead body. A white bone is like a mountain; what about that bone of joy? She dug east and west, and her fingers all bleed. Blood dripped on her white bones and slipped into the dirt. She kept digging. When she dug up a bunch of bones, her blood clotted like a red plum blossom on her bones. Meng Jiang thought: If the husband and wife are connected, it must be my husband. She picked the bones together and put them together, just like a human bone path. The woman Meng Jiang wrapped her bones in a bag and held her in front of her chest and said, “Happy! I'm delighted! The couple are finally reunited, so let's go home with me!” Tears trickled down on the baggage, and the bones in the baggage seemed to be crying.
+Lady Meng Jiang cried all the way while carrying her luggage; she only felt that the burden was getting heavier. Really walk and don't move. Sit on the side of the road and rest your feet. At this point, a pair of old men and old women came in front of them. The old lady approached Meng Jiang Nu with concern and asked, “This older sister, seeing that Nong's face is white and yellow and sweaty, will she get sick (out of mouth)?” Lady Meng Jiang answered, “There is nothing wrong with it; my burden is too heavy, and it is very difficult to hold.” The old lady laughed and said, “This bento is easy as long as you carry it on your back.” Lady Meng Jiang tried it. Sure enough, it was much lighter. She rushed to the road with her baggage. She really thanked her grandmother.
+By the time Meng Jiang Nu had gone far, the old man complained to the old lady: “You are so immoral. You have broken up a loving couple alive. Originally, Wan Xiliang's bones were penetrated by Meng Jiang's tears, so she can return to the sun as a human. Now that she is on her back, her tears don't seep through, how can she live.”
+The old lady pouted her mouth and said, “Our in-laws in law are responsible for taking care of wild spirits and wild ghosts. As soon as Wan Xiliang returns to the sun, everyone looks at people's example and follows them. Let's not straighten things out when there are mistakes between yin and yang.” Duke Di said, “To be a ghost, you must have the virtue of being born well. Lady Meng Jiang is a poor woman in the world. Don't you be afraid of losing your fortune?”
+The two were always arguing. Grandma Teru was so angry that she could talk. She pulled out a jade hairpin from her head and cut out a deep ditch. The land under Grandma's feet slowly drifted away until it reached the sea, which is now Taiwan Island.
+Since then, it has been the land lord who has provided land to the mainland. The land temple in Taiwan is only for the Earth's grandmother.
+AI Translated   
+
+
+
+
+

@@ -61,7 +61,7 @@ LANG_FIELDS = {
 
 
 def main_run():
-    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` WHERE `ai_image` IS NOT NULL LIMIT 0, 100;"
+    task_sql = "SELECT * FROM `data-mining`.`chinese_folktales` WHERE `ai_image` IS NOT NULL LIMIT 0, 10000;"
     for article in db_tool.query(task_sql):
         for lang_code, fields in LANG_FIELDS.items():
             content = article[fields['content']]

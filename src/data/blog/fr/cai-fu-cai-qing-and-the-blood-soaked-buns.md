@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-09 13:18:27
+title: "Cai Fu, Cai Qing et les brioches imbibées de sang"
+featured: false
+draft: false
+description: "Frère Cai Fu, le bourreau, n'avait pas de carburant à cause des courses. Après avoir entendu la légende des promotions de Cai Lun sur la fabrication de papier, ils se sont entendus avec le dieu sorcier Han pour mentir et exorciser des petits pains cuits à la vapeur de sang humain afin d'exorciser le mal, réalisant ainsi des bénéfices à un prix élevé. Cette tromperie s'est répandue de plus en plusxa0; elle est en fait devenue une coutume nordique, faisant la satire de la tendance à la superstition, à l'ignorance et à la fraude financière et faisant du mal aux autres."
+---
+
+
+
+![AstroPaper I18n](/cai-fu-cai-qing-and-the-blood-soaked-buns.png)
+
+
+
+
+ Dans le passé, il était de coutume d'éviter le mal et de chasser les démons dans le nord de la Chine. Chaque fois que quelqu'un «xa0renversaitxa0», heurtait un fantôme ou était hanté par un fantôme, la sorcière Shenhan mangeait une sorte de petit pain cuit à la vapeur de sang humain pour les patients. Ce type de pain de sang humain est très prudent et doit être obtenu auprès du meurtrier. Lorsque le bourreau a exécuté, il a préparé de nombreux petits pains cuits à la vapeur à l'avance. Après le meurtre, il a versé du sang et taché tous les petits pains cuits à la vapeur. On dit que ce genre de pain cuit à la vapeur taché de sang peut chasser les démons, éviter le mal et tester les esprits. En conséquence, ce type de pain cuit à la vapeur de sang coûte très cher.
+La légende raconte que ce type de pain cuit à la vapeur de sang humain est originaire de Cai Fu et de Cai Qing.
+Cai Fu, connu sous le nom de «xa0Bras de ferxa0», a été emprisonné par le gouvernement Daming de Pékin et bourreauxa0; Cai Qing est le frère cadet de Cai Fu, un prisonnier mineur et un bourreau. Il est né pour aimer les fleurs. Pour cette raison, ils l'appellent tous «xa0One Branch Flowerxa0» Cai Qing.
+Les deux frères, Cai Fu et Cai Qing, ont grandi ensemble au sein du gouvernement. Voyant qu'ils faisaient toutes les autres courses, ils avaient tous beaucoup de carburant et d'eau. Ils ont tous été exécutés et rien n'a été facile à attraper. Ils étaient très déséquilibrés dans leur cœur, alors ils voulaient se procurer du pétrole et de l'eau. Qu'est-ce que la méthode de «xa0pêchexa0»xa0? Vous recherchez un prisonnier exécutéxa0? C'est pas bon. Ils ont les mains videsxa0; ils n'ont qu'un seul corps et ils n'ont pas le droit d'exempter les autres de crimes passibles de la peine capitale. En y repensant, je n'ai jamais pensé à trouver un chemin.
+Ce jour-là, Cai Fu et Cai Qing sont de nouveau morts. À l'extérieur du tribunal, la famille de la personne exécutée s'est agenouillée. Un gros paquet de papier brûlé a été empilé à côté de la famille pour être brûlé après la mort.
+Brûler du papier s'est avéré être une chose très courante, et c'était aussi une coutume transmise depuis l'Antiquité. Les frères Cai y étaient habitués et ils ne le prenaient pas du tout au sérieux.
+Un jour, les deux frères ont visité la maison d'un ami. Un ami brûle du papier pour un être cher décédé. Au cours de la conversation, un ami a demandé aux deux agents chargés de l'exécution s'ils connaissaient l'origine du papier brûlé.
+Voyons à quel point les deux types de papier sont courants. Si nous voulons revenir à la source et parler de l'origine, ils ne le savent vraiment pas. Un ami leur a alors parlé.
+La légende raconte que pendant la dynastie des Han de l'Est, Cai Lun a inventé l'art de la fabrication du papier. Mais personne n'a acheté le papier qui a été fabriqué. Le mari et la femme ont élaboré un planxa0: faire semblant de mourir. Après la «xa0mortxa0» de Cai Lun, sa femme a pleuré en brûlant le papier qu'elle avait fabriqué. Bientôt, Tsai Lun est devenue «xa0vivantexa0». Tsai Lun a dit à tout le monde que le journal des tsumayaki était de l'argent dans le noir. Il a utilisé cet argent pour acheter Hadès et le laisser partir... Depuis lors, le journal de Cai Lun est devenu un article recherché, et après la mort de personnes, elles ont emboîté le pas. Au fil du temps, c'est devenu une coutume populaire.
+Cette histoire racontée par un ami était à l'origine une blague décontractée, mais Cai Fu et Cai Qing lui sont entrées dans la tête. Ils pensent que nos ancêtres, Tsai Lun et sa femme, peuvent utiliser des plans pour promouvoir leurs propres produits, alors pourquoi ne pas écrire des articles en fonction de nos propres points fortsxa0? En conséquence, j'ai mélangé mon cerveau et j'ai eu l'idée de «xa0petits pains cuits à la vapeur avec du sang humainxa0».
+Ils ne peuvent pas vendre eux-mêmes des petits pains cuits à la vapeur avec du sang humainxa0; ils doivent trouver quelqu'un pour les vendre. Qui recherchez-vousxa0? Ils ont naturellement pensé au dieu sorcier Han. À l'époque, il y avait une pénurie de médicaments et les patients étaient nombreux. La sorcière Shenhan a prospéré en réponse à l'époque et est devenue un «xa0sauveurxa0» pour les patients. Les deux hommes se sont discrètement entendus avec ces personnes et ont inventé un ensemble de «xa0petits pains cuits à la vapeur de sang humain pour exorciser les mauvais espritsxa0».
+Depuis lors, le dieu sorcier Han a utilisé des brioches cuites à la vapeur de sang humain obtenues auprès des bourreaux Cai Fu et Cai Qing pour «xa0soigner les maladies et chasser le malxa0». Plus cette loi est répandue, plus elle est divine, et plus elle se répand, plus elle devient mauvaise. Cai Fu et Cai Qing ont fait fortune, tout comme le dieu sorcier Han. Au fil du temps, il s'est répandu parmi la population, s'est transmis de génération en génération et est devenu une «xa0coutumexa0» dans la région du nord.
+Traduit par IA   
+
+
+
+
+

@@ -1,0 +1,28 @@
+---
+pubDatetime: 2026-11-23 18:35:01
+title: "La légende du lac Sun Moon"
+featured: false
+draft: false
+description: "Il était une fois, afin de récupérer le Soleil et la Lune, qui avaient été engloutis par un dragon maléfique, le jeune couple taïwanais a obtenu la hache dorée et les ciseaux dorés après avoir enduré des difficultés et risqué de tuer le dragon. Après avoir avalé des boules de dragon et grandi, ils ont renvoyé le Soleil et la Lune dans le ciel et se sont transformés en dragon de montagne gardant la piscine. Ce lac s'appelle Moon Lake. Les deux montagnes sont la montagne Dajian et la montagne Shuishe, louant l'esprit de protection courageuse de la lumière."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-sun-moon-lake.png)
+
+
+
+
+ Autrefois, un jeune couple vivait le long de Daqingxi à Taiwan. Le nom de l'homme est Da Zhan Ta et le nom de la femme est Sœur Mizuisha. Ils vivaient tous les deux à la pêche et menaient une vie très douce.
+Un jour, à midi, tout à coup, il y a eu un grand bruit. Le soleil a disparu et Daqingxi est devenu boueux. La nuit, il y avait un autre bruit fort et la lune avait de nouveau disparu. Depuis lors, le jour et la nuit à Daqingxi sont de plus en plus sombres. Les plantules ont jauni et le fruit n'a pas porté de fruits. Big Fangs soupiraxa0: «xa0Comment vivez-vous aujourd'huixa0?xa0» Quand sœur Shuishe a vu son mari soupirer, elle a ditxa0: «xa0Le soleil et la lune doivent tous être tombés au sol. Allons le chercher, nous voulons retrouver la lumière.xa0» Le couple a donc tenu des torches, a franchi une montagne, a traversé la jungle et a traversé de nombreuses rivières turbulentes...
+Ce jour-là, ils ont escaladé une grande montagne. J'ai finalement vu la piscine claire et sombre de loin. Le couple s'est immédiatement précipité aux abords de Tai Tam. Soudain, j'ai vu une paire de dragons géants nager autour de la piscine, avalant le soleil et la lune et faisant des bruits étranges, comme si vous jouiez au water-polo.
+Plus le couple regardait, plus ils étaient contrariés d'accepter de tuer le dragon et de reprendre la lumière. Ils ont marché en avant et ont soudainement trouvé une grotte. Les gros crocs disaientxa0: «xa0Ce trou est probablement la demeure d'un dragon.xa0» En parlant de cela, ils ont tous deux percé la grotte et ont marché longtemps, et ont finalement vu la lumière vive et ont vu une épouse attentionnée et bien intentionnée cuisiner. Le couple a expliqué son intention à sa femme. L'épouse a admiré leur bravoure et leur a dit qu'elle avait été emportée dans la grotte par une tornade maléfique et qu'elle avait cuisiné pour le dragon tous les jours. Ils leur ont également dit que les dragons maléfiques ont peur de la hache dorée et des ciseaux dorés au pied de la montagne Alishan. Après avoir parlé, la femme leur a donné une pelle en fer et une fourche à feu. Le couple a quitté leur belle-mère et s'est rendu jour et nuit au pied du mont Alishan, essayant désespérément de creuser, de couper et de ciseler. Je ne sais pas combien de temps cela leur a pris, et ils ont construit une petite montagne derrière eux. Un jour, une lumière rouge est sortie du trou profond et la hache dorée et les ciseaux dorés sont apparusxa0! Ils ont tous deux ramassé une hache dorée et des ciseaux dorés, sont sortis du trou en courant et sont allés directement à la piscine où vivait Ssangyong.
+À ce stade, les gros crocs ont jeté la hache dorée dans la piscine et n'ont entendu qu'un fort «xa0rugissementxa0». Les deux dragons maléfiques se sont renversés du fond de la piscine, déclenchant des vagues de plusieurs mètres de haut. Sœur Shuishe a jeté à la hâte les ciseaux dorés dans la piscine. Elle n'a entendu qu'un fort «xa0claquementxa0». Les deux dragons maléfiques ont été retranchés et le soleil et la lune ont été crachés de sa bouche.
+Dajian Ya et la sœur de la compagnie des eaux ont avalé les yeux du dragon selon la méthode enseignée par sa grand-mère. Soudain, ils sont devenus de plus en plus grands. Ils ont ramassé le soleil et la lune et les ont renvoyés dans le ciel avec force. Depuis lors, le soleil et la lune brillent à tour de rôle et les gens ont recommencé à mener une vie normale. Cependant, afin de ne pas laisser le soleil et la lune retomber dans la piscine. Le couple a gardé les mains sur le bord de la piscine. Année après année, Dajian Ya et Shui She sont devenus deux montagnes majestueuses.
+Les générations futures ont appelé cette piscine Sun Moon Lake. Ces deux montagnes sont appelées montagne Dajian et montagne Shuishe.
+Traduit par IA   
+
+
+
+
+

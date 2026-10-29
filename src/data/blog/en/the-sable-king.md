@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-13 14:55:58
+title: "The Sable King"
+featured: false
+draft: false
+description: "To cure her mother's arthritis, Liu Sanzhu went to Changbai Mountain to find King Sable. The Sable Fairy was moved by her filial piety, and she gave away the skin only for her mother. However, Liu Sanzhu was greedy for wealth and offered the skin to the Empress Dowager. As a result, mink and the Empress Dowager grew legs together. Liu Sanzhu was beheaded, breaking his promise and ended up eating bad results."
+---
+
+
+
+![AstroPaper I18n](/the-sable-king.png)
+
+
+
+
+ Liu Sanzhu walked thousands of miles to Changbai Mountain and wanted to capture a three-foot-tall stingray king. However, ferrets are smart and quick to move, and they often don't wait for people to get close and huddle in their nests for a long time. This three-foot-tall Sable King has lived in the mountains for at least 100 years, and is also spiritual. Not to mention a human being, not to mention a golden eagle in the sky, he can't capture it. Liu Sanzhu spent three days wandering in the mountains. Not to mention the fern, he didn't even see a single ferret's fur. Liu Sanzhu lost his way, was cold and hungry, and finally passed out in the snow.
+When Liu Sanzhu woke up, he found himself lying in a warm room. Are you awake? Only then did Liu Sanzhu discover that an old man in his seventies was sitting on the side of the house, adding firewood to the heater there. Liu Sanzhu understood that the old man had saved him and quickly got up to thank him.
+The two had a conversation. Liu Sanzhu learned that the old man was a shaman of the Orunchun tribe. He quickly fell to his knees and said, “The mage must have me!
+The shaman asked Liu Sanzhu what happened. Liu Sanzhu said, “I want to get a copy of King Sable! As soon as the shaman heard it, he immediately grasped the elder's face and said, “King Sable is a sacred relic of our Orunchun people. We have always worshipped it like a god. No one has ever dared to touch it. Why would you want a copy of King Sable's skin?
+Liu Sanzhu's tears came down. It turns out that Liu Sanzhu is dependent on her 80-year-old woman. Because she was overworked when she was young, her joints on both legs were deformed, and the joints on both legs were deformed. Liu Sanzhu took her mother everywhere to seek medical treatment. Finally, the old Chinese medicine practitioner said that there was only one way to cure this disease, which was to take a sheet of the Changbai Mountain Sable King and make two knee pads. If you wear it when it's hottest in summer, it can be cured in one summer. As soon as Liu Sanzhu heard it, he brought dried food to Changbai Mountain to find King Sable.
+The shaman was very moved after listening and said, “To tell you the truth, I'm not a shaman, nor a human, but a ferret king who is about to become a fairy. There's no use in wanting this skin now. Since you have such filial piety, I knelt down my skin to the ground and thanked Liu Sanzhu. The fairy Sable took off her clothes and handed them to Liu Sanzhu, and the dress turned into a piece of mink fur.
+Liu Sanzhu fell to the ground and knocked on the ground to thank her. The Fairy Fables waved and said, “Don't delay, go home and treat your mother! Remember, this skin can only be used to treat your mother! After talking about the Sable Fairy, they disappeared.
+Liu Sanzhu climbed up and rushed home. For several months, he never mentioned eating and sleeping in the open. On this day, passing through a city, I saw a notice posted in front of the city gate. Two soldiers were on both sides, and a group of people were around to watch. Liu Sanzhu was curious and rushed over. It turns out that today, the Empress Dowager, like Liu Sanzhu's wife, has severe arthritis, and the Imperial Court has prescribed one dose after another, but it has had no effect. The emperor was a filial son, and he commanded the world, saying that if anyone can cure the Empress Dowager's persistent illness, those who are officials can be promoted to the third level, and those serving the people can immediately enlist in military service, and be rewarded with 1,000 thousand two gold. Liu Sanzhu was moved. The list was unveiled in full view, and the people who kept the list brought Liu Sanzhu into the palace.
+The emperor looked at the unattractive appearance of Liu Sanzhu and asked in a skeptical tone: Can you cure the Empress Dowager's illness? Liu Sanzhu knelt down on the ground, took out the fur of the Sable Fairy, and talked about its wonderful uses. Emperor Long Yan Yue had already reached Sanfutian. The emperor ordered Liu Sanzhu to treat the Empress Dowager immediately.
+Liu Sanzhu cut the fur in half and made two knee pads to wear for the Empress Dowager. The Empress Dowager felt numb, crispy, and warm in her joints at the time, not to mention that it was very comfortable. The Empress Dowager told the emperor about this feeling, and the emperor was very happy.
+Liu Sanzhu stayed at the post house for a few days. On this day, a team of Yulin suddenly surrounded the post house group and tied Liu Sanzhu together. Liu Sanzhu didn't know what had happened. It wasn't until she arrived in the palace that the Empress Dowager felt very uncomfortable the next day and wanted to take the knee pads off, but it was too late; the mink actually grew along with her legs. Emperor Long was furious and condemned Liu Sanzhu to death.
+At the execution site, Liu Sanzhu remembered what the Sable Fairy said. His bowels were full of remorse, but it was too late.
+AI Translated   
+
+
+
+
+

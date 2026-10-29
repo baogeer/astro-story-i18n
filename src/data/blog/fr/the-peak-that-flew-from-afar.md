@@ -1,0 +1,39 @@
+---
+pubDatetime: 2026-11-27 16:57:11
+title: "Le sommet qui a volé de loin"
+featured: false
+draft: false
+description: "Le moine fou a sauvé les habitants du village devant le temple Lingyin. Il a volé la mariée avant qu'elle n'atterrisse au sommet de la montagne, provoquant l'expulsion de tout le village. Le sommet de la montagne a écrasé le village et tout le monde a survécu. Ensuite, tout le monde a déterré 500 montagnes où ils vivaient dans la ville de Luohan, afin de pouvoir rester ici pour toujours et ne pas voler ailleurs pour faire du mal aux gens. L'histoire fait l'éloge de la sagesse populaire qui permet de sauver des personnes et de travailler ensemble pour surmonter les catastrophes."
+---
+
+
+
+![AstroPaper I18n](/the-peak-that-flew-from-afar.png)
+
+
+
+
+ La légende raconte que sur le mont Emei, dans le Sichuan, il y avait autrefois une petite montagne capable de voler. Il a volé vers l'est pendant un certain temps et a volé vers l'ouest pendant un certain tempsxa0; partout où il volait, il y a écrasé de nombreuses maisons et de nombreuses personnes.
+À cette époque, il y avait un moine au temple de West Lake Lingyin. Les gens le traitaient de moine fou parce qu'il était fou toute la journée et ne respectait pas les règles du Bouddha. Un jour, le moine fou a appris qu'à midi, l'étrange montagne volante s'envolerait vers le village en face du temple Lingyin. Il craignait que la montagne n'écrase de nombreuses personnes. Il a même grimpé, s'est précipité dans le village, a fait du porte-à-porte et a ditxa0: «xa0Il y a une montagne qui s'apprête à monter jusqu'à ce village à midi aujourd'hui. Tout le monde va vite, c'est trop tardxa0!xa0»
+Le vieil homme secoua la tête en l'entendantxa0: «xa0Moine fou, tu cherches à nouveau le bonheur. Les montagnes sont les choses les plus lourdes. Qui a déjà vu une montagne capable de volerxa0!xa0»
+Quand la famille l'a entendu, elle a soupiréxa0: «xa0Où déménagent nos pauvres locatairesxa0! Si une montagne tombe, je n'aurai pas d'autre choix que de m'en prendre à ma viexa0!xa0»
+Le jeune homme a écouté et fredonnéxa0: «xa0N'inventez pas de mensonges, ça fait peurxa0! Quand la montagne descend, nous mettons nos épaules dessus, nous n'avons pas peurxa0!xa0»
+Les petits enfants l'ont suivi dans leurs bras et ont applaudi pour regarder la fête.
+Lorsque la famille du moine fou est entrée et sortie, les 110 familles de l'ensemble du village s'en sont occupées. Il avait les lèvres cassées et la salive était sèche, mais personne ne le croyait, encore moins que la famille était prête à déménager.
+Le soleil se lève de plus en plus, et à midi, le moine fou est pressé. À ce stade, il a soudainement entendu le son de «xa0frapper, frapperxa0» et a rapidement suivi le son. À première vue, super. Il s'est avéré qu'une famille s'est mariée, les gens allaient et venaient et c'était très animé. Quand le moine fou s'est gratté le cuir chevelu et y a réfléchi, il a poussé la foule et s'est précipité vers le devant de la salle. Qu'il s'agisse de 3721 ou non, il a mis la mariée sur son épaule et s'est emparée du village.
+Le châle rouge sur la tête de la mariée n'avait pas été retiré. Soudain, elle a été confuse et a dû s'enfuir sur le dos. Elle ne savait pas ce qui s'était passéxa0; elle était juste terrifiée et ouah. Le moine fou a volé la mariée, ça vaut le coupxa0! Les gens saisissent le loquet de la porte, saisissent le loquet de la porte, balancent les houes, soulèvent le râteau et reprennent leur vie en main. Tout en poursuivant, en criantxa0:
+«xa0Attrapez le moine fouxa0!xa0»
+«xa0Arrête-le devant et ne le laisse pas s'enfuirxa0!xa0»
+À ce stade, tout a été bouleversé. Peu importe qu'il s'agisse d'un parent ou non, qu'il s'agisse d'un ami ou non, homme, femme, vieux ou jeune, tout le village les a chassés. Seul le propriétaire du village est n'a pas déménagé. Au lieu de cela, ils se sont tenus devant la porte, ont regardé la scène animée et ont prononcé des mots coolxa0:
+«xa0Sortir de la famille pour cambrioler ma nouvelle belle-fille, c'est quelque chose de vraiment nouveau, hehexa0!xa0»
+Le moine fou a porté la mariée sur son dos et a couru en avant une par une. Il court très vitexa0! Tout le monde le poursuit depuis plus de dix miles, et ils ne l'ont pas encore rattrapé. Attendez que le soleil brille et que le moine fou reste immobile et ne s'enfuit pas. Il a posé la mariée sur le dos, s'est assis par terre et a secoué le ventilateur pour se rafraîchir. Des gens sont arrivés devant lui et étaient sur le point de l'attraper et de le battre, mais tout à coup, il faisait nuit, ils n'ont pas pu atteindre cinq doigts et le vent a soufflé fort. Il y a eu un «xa0boomxa0» soudain et tout le monde a été choqué. Tout le monde s'est levé et a jeté un coup d'œil. Le vent s'était arrêté et les nuages s'étaient arrêtés. Le soleil venait de briller au-dessus de leurs têtes, mais ils ont vu une montagne qui venait de s'abattre sur leur village. Ce n'est qu'alors que les gens ont compris que le moine fou avait volé la mariée pour sauver la vie de tout le monde.
+Le village a été écrasé au pied de la montagne et tout le monde s'est retrouvé sans abri. Certaines personnes étaient pressées de se tapoter la poitrine et ont fondu en sanglots. Le moine fou a ditxa0: «xa0Pourquoi pleurerxa0! Ce que vous ne savez pas, c'est que les riches propriétaires du village ont été écrasés à mort au pied de la montagne. À l'avenir, chacun de vous cultivera ses propres champs, et je crains que vous ne puissiez pas construire de maisonxa0!xa0»
+Les gens étaient contents d'apprendre qu'ils voulaient partir avec joie, et le moine fou reprit la parolexa0: «xa0Ne marchez pas, écoutez-moi tous. Puisque cette montagne peut voler de n'importe où, elle s'envolera également d'icixa0; elle s'envolera d'icixa0; elle s'envolera d'icixa0; elle tuera la vie de nombreuses personnes. Si nous taillons 500 de ses pierres Luohan dans la montagne, nous pouvons rester dans la ville de montagne et ne pas la laisser voler vers d'autres endroits pour blesser les gens. Es-tu optimistexa0?xa0»
+Tout le monde a écouté. Une fois qu'ils ont dit que c'était bon, ils ont tout de suite mis la main dessus. «xa0Ding Ding Dang Dang Dangxa0» a été occupé toute la nuit et les cinq cents pierres de Luohan ont été complètement excavées. La montagne et le fond étaient recouverts de niches en pierre et de statues de Bouddha. Cela n'a découpé que le corps de Lohan, mais il était trop tard pour lui couper les sourcils et les yeux. Le moine fou a ditxa0: «xa0J'ai un moyen, laisse-moi venirxa0!xa0» Au lieu d'un marteau, il a utilisé un ciseauxa0; il a juste utilisé ses longs ongles pour caresser le visage de Shi Luohan. Après une demi-journée de dur labeur, j'ai pu mettre les 500 pièces de pierre de Luo Han dans l'œil.
+Depuis lors, ce petit sommet n'a jamais pu voler ailleursxa0; il restera toujours devant le temple Lingyinxa0! Parce qu'il est arrivé d'un autre endroit, il s'appelle «xa0Feilai Peakxa0».
+Traduit par IA   
+
+
+
+
+

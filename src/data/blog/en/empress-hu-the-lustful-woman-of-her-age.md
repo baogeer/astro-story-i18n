@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-21 03:26:22
+title: "Empress Hu: The Lustful Woman of Her Age"
+featured: false
+draft: false
+description: "Empress Wu Cheng of Northern Qi was not willing to be lonely. She first had fornication with her close friends and monks; after the Ke Shikai dictatorship was murdered, she also had an affair with the monk for a short time, and was put into confinement. After the death of Northern Qi, she and her daughter-in-law became prostitutes in Chang'an. They actually called it “better to be a prostitute for later”, leaving the country in desolation and laughing at future generations."
+---
+
+
+
+![AstroPaper I18n](/empress-hu-the-lustful-woman-of-her-age.png)
+
+
+
+
+ Hu Shi: Empress Gao Zhan, Emperor Wu Cheng of Northern Qi, can be considered a rare bimbo. After Gao Cham succeeded to the throne, he raped his sister-in-law, Li Zu'e. Empress Hu was intolerant of being lonely at the palace, and hooked up with Gao Zhan's close and entourage. After his son Gao Wei ascended to the throne, He Shikai ruled out his opponents and crowned King Huaiyang, and was later killed by Gao Yan. Empress Hu also had fornication with the monk Tan Xian and others, fornication in the harem. She was discovered by the emperor and confined to the harem. Soon after, Northern Qi passed away, and Empress Hu and Empress fell into prostitution.
+There are always people who use bed exercises as the best form of entertainment. Otherwise, you wouldn't be able to explain why the four members of Rolling Stones were able to sleep with no less than 2,000 women; why seven or eight years ago, the number of public sexual partners of Madonna's sister, who had not yet gotten well, was close to 200; why there was also a Singaporean sex woman who had the courage to set a world record of having sex with 251 man at the same time.
+And the female fighter in ancient China who was obsessed with numbers was Empress Wu Cheng, the real wife of Emperor Wu Cheng, Gao Zhan. She saw this kind of bed fun as the focus of her life, and in the end, she became a prostitute from queen to prostitute. Historically, this is probably the only one. There are no other branches, and the business is naturally thriving.
+After Gao Zhan succeeded to the throne, the Hu family was established as an empress. Gao Zhan loved his sister-in-law, Li Zu'e, and often stayed at the Zhaoxin Palace. Empress Hu couldn't bear the loneliness of Gong Yi, so she hooked up with Gao Zhan's close companions and agents, and Shi Kai. Gao Zhan also intended to complete them, so that he taught Empress Hu and the two flirted on the plane. In order to please Prince Gaowei, He Shikai advised Gao Zhan to be the emperor, so he could enjoy it even more. Gao Zhan followed his advice and gave way to Prince Edward. From then on, he stayed deep in the palace, indulged in indecency, and died three years later due to excessive alcohol consumption.
+After Gao Zhan's death, Empress Hu's relationship with Shikai was officially made public. He Shikai ruled out his opponents, and was crowned King of Huaiyang. Lang Ya Wang Gaoyan hated Heshikai, devised a plan to eradicate him, and launched an attack to kill him. Emperor Gao Wei realized Gao Yan's abilities and was very uneasy, so he planned to kill him.
+After He Shikai's death, Empress Hu couldn't bear to be lonely. Under the name of praying the Buddha, she often went out to monasteries, and finally hooked up with a monk named Tan Xian. The two often had private meetings in the Zen room. Empress Hu moved most of the gold and silver jewels from the treasury to the monastery, and also moved the dragon bed of the Gaozhan into the Zen room. Everyone in the palace knows it; only the emperor Gao Wei is in the dark. Once, Gao Wei went to the palace to ask for peace of mind. Seeing two new female nuns standing next to her, they were born with beautiful eyes. On the same night, they were ordered to quietly summon these two female nuns and forced them to go to bed, but the two female nuns resisted death. Gao Wei was furious, and the people in the Imperial Palace forced them to take off their clothes. At first glance, it turned out to be two young monks dressed as men! It turns out that these two were little monks under Tan Xian. They were born very beautiful. Empress Hu was favored by Empress Hu, so they took Qiao back to the palace in the name of Ni. Gao Wei was shocked and furious. The next day, he ordered the beheading of Tan Xian and the two young monks, and moved the Empress Dowager to Beigong and confined. It seems that the temple is often used as a breeding station and emergency center called Chun by women in the rank of Empress Dowager.
+If there are women and mothers like this, and if there are such confused gods, of course the country will not be a country. Sure enough, the post-Northern Qi Empire soon came to an end. Empress Hu, who is in her 40s, regained her freedom, and soon became an open prostitute with her daughter-in-law, Gao Wei's real wife, and Empress Mu Huanghua, who is in her 20s, in the downtown area of Chang'an, the capital of Northern Zhou. Once upon a time, the two queens became prostitutes. Naturally, people from Chang'an competed to go there. Who wouldn't want to sleep with the empress? Empress Hu also excitedly said to Empress Mu, “It's better to be a prostitute for the future; it's more fun. Alleluia, we don't talk about state affairs; we only talk about sex.
+It seems that the two have found a place where they are satisfied. They don't really care about the death of their husband, the death of their son, or the destruction of their country. When it comes to ethics, they never had, and never will.
+She will jump into the grave laughing because she has slept with hundreds of men, and that makes her happy.
+AI Translated   
+
+
+
+
+

@@ -1,0 +1,23 @@
+---
+pubDatetime: 2026-11-23 01:56:43
+title: "L'origine du festival de la torche de Maonan"
+featured: false
+draft: false
+description: "Afin de résister aux invasions extraterrestres, les ancêtres de la tribu Maonan ont utilisé des doutes militaires remplis de torches pour éloigner les ennemis et ont traité les captifs pour transformer les ennemis en amis. Chaque année, à la veille du Nouvel An, la postérité levait des torches, frappait aux gongs et aux tambours et «xa0grondaitxa0» pour capturer des «xa0captifsxa0» à des fins de commémoration. C'est donc devenu la Fête des flambeaux, qui symbolise l'unité, la sagesse et la paix."
+---
+
+
+
+![AstroPaper I18n](/the-origin-of-the-maonan-torch-festival.png)
+
+
+
+
+ Les Maonans de la région de Kap Maonan, dans le comté de Pingtang, dans le Guizhou, doivent célébrer la Fête de la Torche chaque année dans la nuit du 30 juillet. Il existe une légende sur l'origine de la Fête du Feu. La légende raconte qu'il y a longtemps, les ancêtres du peuple Maonan vivaient et travaillaient dans un endroit avec de belles montagnes et une eau verte à Kappu. Un jour, un Maonan qui était parti faire des affaires à la hâte est retourné à Zhai Lao et a déclaréxa0: «xa0La nuit du 30 de cette année, une équipe d'extraterrestres envahira notre territoire. Ils sont grands et bien armés,...xa0» Zhailao a immédiatement convoqué tout le monde pour discuter des contre-mesures. Tout le monde a convenu que travailler dur coûterait de l'argentxa0; ce n'est qu'en utilisant des stratégies militaires douteuses que les attaques des étrangers peuvent être repoussées. En conséquence, Zhai Lao a organisé des hommes, des femmes et des enfants de tout le village pour installer de nombreuses lumières au pied du village, sur le bord de la route et à flanc de colline, puis a utilisé Hou Teng pour les connecter et accrocher de nombreux pétards. Quand il faisait presque nuit, des gens de tout le village ont tendu une embuscade, ont bloqué les informations, ont fait le plein de klaxons, de poudre à canon, de gongs et de tambours, et ont attendu les envahisseurs. Lorsque des extraterrestres ont profité de la nuit pour se faufiler au pied du village, il y a eu un bruit soudain d'artillerie. Les Maonans qui étaient dans une embuscade depuis longtemps ont allumé les lumières et ont déplacé Hou Teng. Immédiatement, le son des gongs, des tambours, des klaxons, des pétards et des rugissements a fait écho. Lorsque des étrangers ont vu des torches agitées sur le flanc de la colline et sur le bord de la route, ils n'ont pas pu déterminer combien de Maonans avaient réellement été pris en embuscade. Ils étaient tous choqués et choqués. Ils avaient peur de se précipiter dans la palissade et se sont enfuis les uns après les autres. Lorsque certains extraterrestres se sont enfuis, ils ont été capturés par les Maonans et traînés dans la palissade parce qu'ils ne connaissaient pas le terrain. Les villageois les ont personnellement détachés, les ont servis avec les meilleurs vins et plats, les ont choqués et les ont patiemment conseillés, ce qui a beaucoup ému les prisonniers. Depuis lors, les extraterrestres n'ont jamais envahi le territoire maonan.
+Afin de commémorer les exploits de leurs ancêtres, des habitants de tout le village se sont rassemblés le soir du Nouvel An pour brandir des torches allumées, battre des gongs et des tambours, se vanter des klaxons et allumer des pétards pour se souhaiter une bonne année. Ils se sont «xa0grondésxa0» et «xa0capturésxa0» les uns les autres. On dit que plus la «xa0malédictionxa0» est sévère, plus l'année à venir est de bon augure. Les deux parties ont secrètement envoyé des personnes pour se mêler à la foule de l'autre. De façon inattendue, ils se sont «xa0capturésxa0» les uns des autres membres et sont rentrés chez eux pour les punir avec de l'alcool et les intoxiquer. Cette coutume s'est perpétuée jusqu'à présent, et les Maonans l'appellent la «xa0Fête du Feuxa0».
+Traduit par IA   
+
+
+
+
+

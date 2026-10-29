@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-28 14:12:13
+title: "El arrepentimiento de una promesa incumplida"
+featured: false
+draft: false
+description: "Érase una vez, un pescador huérfano cogió un tornillo grande por accidente. Snail se convirtió en una hermosa niña, se casó con él y le trajo toda la riqueza, solo para pedirle que no dejara de envejecer y ser fea en el futuro. El pescador hizo un juramento, pero se volvió cada vez más ocioso y, finalmente, rompió el juramento porque no le gustaba su esposa. La esposa se subió al columpio y se lo llevó todo, y el pescador cayó en la pobreza y no pudo evitar arrepentirse. La historia advierte que el incumplimiento de las promesas y la falta de gratitud acabarán teniendo sus propias consecuencias."
+---
+
+
+
+![AstroPaper I18n](/the-regret-of-a-broken-promise.png)
+
+
+
+
+ Había una vez una persona cuyos padres fallecieron uno tras otro cuando tenía tres años. El vecindario lo cuidaba y creció comiendo cientos de comidas familiares. Cuando llegué a la edad adulta, mi familia era tan pobre que a menudo no podía mantenerme al día, no podía casarme con una nuera y vivía sola. Peces todo el día, mes y año para ganarte la vida. Si pesca, tiene algo para comer; si no puede pescar, tiene hambre. La edad adulta ha vivido una amarga vida de hambre y frío durante muchos meses.
+Un día, fue a pescar a la orilla del río. Después de un día de arduo trabajo, no tenía pescado ni camarones, así que se llevó la red a casa enojado y hambriento. De repente, pisó un objeto rígido y miró hacia abajo. Vio un tornillo grande en la playa. Lo cogió. Cuando llegó a casa, lo puso en un recipiente roto y se fue a dormir con hambre.
+Al día siguiente, se fue a la orilla del río a pescar como de costumbre. Tuvo mucha mala suerte. Después de otro día de arduo trabajo, llegó a casa hambriento y cansado. No pudo abrir la puerta y vio un milagro. Solo vio una mesa con deliciosos y ricos sabores sobre la mesa. Se sentía muy extraño. Me pareció extraño ver que hacía dos días que no comía. Tenía mucha hambre y tenía tiempo suficiente para comer comida deliciosa, ligera. Después de una comida completa, me caí en la cama pensando en pasar la noche, y todavía no podía entender quién lo había hecho.
+Cuando se despertó por la mañana, todavía iba a pescar como de costumbre, y cuando llegó a casa, tenía muchas comidas en la mesa, lo que realmente lo desconcertó durante unos días. Un día se disfrazó para ir a pescar y, a mitad de camino, se escondió tranquilamente en un lugar escondido y salió a escondidas de quién le había traído la comida. De repente, vio a una muchacha grande, magníficamente vestida, con forma de flor, que salía del cuenco roto y cocinaba para él con grandes movimientos. Finalmente descubrió la verdad del asunto y quedó sorprendido y feliz. Sin saber de dónde venía el coraje, se arrodilló, cogió a la niña por los pies y oró con esmero: «Benefactor, gracias por todo lo que has hecho por mí estos días, para que pueda comer una comida tan deliciosa. Dime de qué clase de chica eres, puedes casarte conmigo y salvarme, este pobre pobre bastardo». La niña no pudo deshacerse de él; tuvo que agacharse, arrodillarse y decir: «Creo que llevas una vida muy mala. Puedo casarme contigo, pero si lo piensas bien, soy fea. Ya no te ves joven y hermosa. Definitivamente envejeceré y me pondré fea en el futuro, y también me crecerá un sarcoma grande y antiestético en el cuello. En ese momento, definitivamente no te caeré bien por ser fea». El joven sacudió la cabeza y juró: «Absolutamente no, me salvaste del sufrimiento. Eres mi benefactor. Definitivamente no soy una persona desagradecida. De verdad, te estaré agradecido y te lo recompensaré por el resto de mi vida...» De esta manera, la niña creyó en él y se acercó a él.
+Al día siguiente, tan pronto como se despertó, descubrió que su choza rota se había convertido en una gran casa de azulejos blancos. El círculo estaba lleno de cerdos, vacas y ovejas, el espacio abierto alrededor de la casa estaba cubierto de árboles frutales y el patio estaba lleno de pollos, patos, gansos y todo lo que quisiera tener en casa. Después de eso, también tuvieron hijos y vivieron una vida muy rica y feliz. Dejó de pescar y trabajar; pasó todo el día libre, comiendo, bebiendo y divirtiéndose. La nuera realmente no se acostumbró, por lo que le aconsejó que no olvidara lo básico. Debe trabajar duro y ser frugal en la vida. No importa dónde le guste escuchar estas palabras ahora, todavía hace lo suyo. Un día perdí mucho dinero en el casino. Cuando llegó a casa, estaba listo para volver a jugar. Su esposa lo detuvo y le aconsejó que no fuera a apreciar los buenos días de hoy. En vez de eso, gritó y dijo: «Eres viejo y feo. Todos se burlan de mí. ¿Cómo puede un millonario casarse con una mujer como tú? Soy tan desvergonzado delante de los demás. Aún hoy te atreves a cuidar de mí. No quiero que salgas de aquí». La esposa también se entristeció y entristeció al enterarse de que le era imposible arrepentirse. Estaba tan indefensa que no tuvo más remedio que decirle: «Bueno, si instalas un columpio frente a la casa mañana temprano por la mañana, te dejaré».
+Temprano a la mañana siguiente, el esposo instaló un columpio. La esposa se puso hermosas ropas y joyas que había atesorado durante muchos años, y salió de la casa, se subió al columpio y dijo: «Vengan a la casa, cerdos, vacas, ovejas, gallinas, patos, gansos, animales y animales, vengan conmigo». Tan pronto como terminé de hablar, no había rastro de ello. Todo en lo que era rico ha desaparecido, y ahora vive en una casa con techo de paja, con ropa hecha jirones y viviendo los amargos días en los que antes no tenía hambre. Desde entonces, siempre ha habido una persona sentada frente a una casa con techo de paja y murmurando para sí misma: «Rompí mi promesa y fui desagradecido. Realmente me merecía el crimen de sufrir esas consecuencias hoy».
+Narrador: Xi Chengying
+Colección: Tsai Yun-hui
+Arreglista: Feng Deming
+Traducido por IA   
+
+
+
+
+

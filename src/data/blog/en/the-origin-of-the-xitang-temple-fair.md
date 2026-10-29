@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-13 12:34:28
+title: "The Origin of the Xitang Temple Fair"
+featured: false
+draft: false
+description: "In the Ming dynasty, the people who pledged food for seven, saw the famine in the Great Drought and Famine of Jiangnan being scattered all over the country. Under the crime of killing the head, they secretly sold Hundred Thousand Imperial Grains. Afterwards, in order to save the townspeople from suffering, they threw themselves into the river. The people thanked him, built the Seven Laoye Temple, and held a temple fair on April 3rd of this year to commemorate it, which continues to this day."
+---
+
+
+
+![AstroPaper I18n](/the-origin-of-the-xitang-temple-fair.png)
+
+
+
+
+ Legend has it that in the late Ming Dynasty, in Weitang Town, Jiashan, there was a family with the surname Jin Qi. The seventh son was Jin Qi. He worked as a small official transporting food in the imperial court, specifically escorting food ships on canals.
+One year, there was a major drought in Jiangnan, and there were no harvests. People were hungry everywhere, and people didn't want to live well. In June, Jin Qi was ordered to escort 100 grain ships from Hangzhou to Yingtianfu via a canal, passing through the Xitang area. On both sides of the canal, when the stranded disaster victims saw the food ship coming, they all rounded up and prayed bitterly, and continued for a long time. Jin Qi stopped the boat ashore and went to the town to discuss it with a few close friends. During the conversation, Jin Qi further observed the plight of the people starving. Those friends also requested temporary loans of some food to relieve the victims on behalf of the townspeople and neighbors. However, this is royal food; how can he distribute the Golden Seven without permission? This is going to kill my head. What's more, when the grain ship passed by Jiashan, they had already seen Zhi County and had already knocked on the “fire stamp” in the prefecture.
+After thinking for a long time, Jin Qi rushed to Jiashan City to seek insight into Zhi County and asked Zhi County to help the people. Zhigen said that he had already made hundreds of thousands of urgent declarations to the imperial court, but there was no response; he couldn't do anything! At this point, Jin Qi had to make up his mind, saying that there is only one way to temporarily save the people, and that is to temporarily lend Imperial Food.
+Zhi Prefecture listened, meditated for a while, and sighed, “Imperial Food has a big deal to do with it. If you don't deliver it on time, you are guilty of killing the head, let alone releasing food without permission! If the imperial court knew, they would have to be beaten!”
+Jin Qi flatly said, “In order to save the people from water and fire, to go to soup and fire, Jin Qi is doing everything!” Zhi Prefecture was deeply moved by Jin Qi's spirit of sacrificing himself to save people, and decided to close one eye, pretend not to know, and not report that the food ship had passed through Jiashan. As a result, Jin Qi took all of the food from 100 boats to the disaster victims. The disaster victims got food, just like getting Ganoderma lucidum grass, and escaped from death.
+Suddenly, in September, when Tianfu didn't see the food ship arriving, they sent a special official document to investigate. Jiashan Zhi County learned that they had a discussion with Jin Qi overnight. Jin Qi knew that the situation could no longer be contained. To avoid suffering to the townspeople, he jumped into the river in Yanta Bay in Xitang to kill himself. When the people heard the news, families cried, and one after another burned incense and sacrificed by the river in Yanta Bay. Later, to commemorate Jin Qi, the people of Xitang raised funds to build a temple called Qilaoye Temple. The people also revered Jin Qi as the king who protected the country and accompanied the food.
+Since then, every year on the 3rd of April, Xitang hosts the Seven Lords Temple Fair. On this day, the red, yellow, green, white, and black flags were flying in Xitang Town. This represents the colorful clouds: Southern store clerks are surrounded by red clouds, rice workers are surrounded by yellow clouds, bamboo workers are surrounded by green clouds, cigarette paper shop clerks are surrounded by white clouds, and coal store clerks are surrounded by black clouds; next is Dragon Tiger, dressed as a store clerk in Dianzhuang. The crowd behind them carried Grandpa Seven's big car, knocking on gongs and drums, and blowing silk bamboo strings while walking through the street Good men and women who arrived from all over followed. They wore red clothes and red pants to express their desire to be convicted for Grandpa Qi; some were still shirtless to show that they were repeat offenders to express their sincerity in committing the crime for Grandpa Qi.
+This huge and bustling team set out from Tawan at around 11:00 on the 3rd night of April, set off fireworks first, and then officially began meeting. A total of 42 social sheds were set up on Shangyan Street in Xitang Town. The lights were bright all night, and people gathered their families to attend the meeting. The team stopped every time they arrived at the social shed. The drums played in unison and sang songs, and it was very lively. This is called a welcome meeting. It wasn't until nearly noon the next day that the street tour team all passed through the 42 social sheds and returned to the temple. As a result, they started acting on the stage in front of the temple gate. They usually do it for three days. People from Ningbo, Shaoxing, and Taizhou who had moved to Xitang collected money and invited them separately. Sometimes they have to do a one-day drama in the first seven days; followers of Grandpa Qi come to pay back their wish.
+People in Xitang express their love for the Seven Lords in the form of temple fairs. This love continues year after year, until today.
+AI Translated   
+
+
+
+
+

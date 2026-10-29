@@ -1,0 +1,32 @@
+---
+pubDatetime: 2026-11-01 19:35:55
+title: "L'histoire de Jingwei remplissant la mer"
+featured: false
+draft: false
+description: "La fille de l'empereur Yan est partie en bateau vers la mer de Chine orientale et s'est malheureusement noyée. Elle est devenue un oiseau de garde et, jour après jour, elle a récupéré la mer de bois et de pierres pour se venger. La mer s'est moquée d'elle parce qu'elle ne pouvait rien faire et Jingwei a juré de la remplir pour toujours. Haiyan a été poussé par eux à former un couple, et les générations futures ont hérité de la volonté de reconquérir la mer. L'histoire fait l'éloge de l'esprit combatif qui n'a pas peur des difficultés, du danger et de la persévérance."
+---
+
+
+
+![AstroPaper I18n](/the-story-of-jingwei-filling-the-sea.png)
+
+
+
+
+ L'empereur Yan avait une fille, appelée fille. La fille se comporte très bien. Quand Huangdi l'a vue, elle n'a pas pu s'empêcher de la féliciter. L'empereur Yan considérait la jeune fille comme un bijou dans sa poche.
+Lorsque l'empereur Yan n'était pas à la maison, la fille jouait seule. Elle voulait vraiment que son père l'emmène voir la mer de Chine orientale, l'endroit où le soleil se lève. Mais c'est parce que son père est occupé par les affairesxa0: quand le soleil se lève, il vient en mer de Chine orientale jusqu'au coucher du soleilxa0; tous les jours, je ne peux pas l'emmener. Ce jour-là, sans prévenir son père, la jeune fille a navigué seule dans un petit bateau jusqu'à l'endroit où le soleil se levait dans la mer de Chine orientale. Malheureusement, des vents violents et des vagues ont soudainement éclaté en mer. Les vagues ressemblant à des montagnes ont renversé le bateau de la fille. Malheureusement, la jeune fille est tombée dans la mer et a finalement été engloutie par la mer impitoyable. Elle n'a jamais pu revenir. L'empereur Yan manque certainement à sa petite fille, mais il n'a pas pu utiliser la lumière du soleil pour l'irradier, ce qui l'a fait mourir et revenir à la viexa0; il était seul et attristé.
+Quand la fille est morte, son esprit s'est transformé en un oiseau avec un capitule, un bec blanc et des griffes rouges, et a crié «xa0Jingwei, Jingweixa0», alors les gens ont appelé cet oiseau «xa0Jingweixa0».
+Jing Wei déteste que la mer impitoyable ait pris sa jeune vie et elle veut se venger. En conséquence, elle a continué à escalader une petite pierre depuis le mont Hajito, où elle vivait, a déployé ses ailes et s'est envolée jusqu'à la mer de Chine orientale. Elle est remontée sur la surface agitée, a crié et a jeté des pierres et des branches pour remplir la mer.
+La mer rugissait, rugissait et se moquait d'ellexa0: «xa0Petit oiseau, oublie ça, tu fais ce travail depuis un million d'années et tu ne veux pas me remplirxa0!xa0»
+Jing Wei a répondu à la mer depuis une altitude élevéexa0: «xa0Même s'il faut 10 millions d'années, 10 000 ans, avant la fin de l'univers et la fin du monde, je vais te comblerxa0!xa0»
+«xa0Pourquoi me détestes-tu tantxa0?xa0»
+«xa0Parce que tu m'as ôté la vie, tu vas tuer de nombreux jeunes innocents à l'avenir. Je vais continuer à travailler sans relâchexa0; un jour, je te remplirai par terre.xa0»
+Jingwei a volé et crié, a quitté la mer et est retourné à Hatoyama pour ramasser des pierres et des branches. Elle l'a appelé, jette-le. Au fil des ans, elle a fait des allers-retours et ne s'arrête jamais. Plus tard, lorsqu'un Haiyan a survolé la mer de Chine orientale, il a vu Jing Wei par inadvertance. Son comportement l'a intrigué, mais après avoir compris la cause de l'incident, Haiyan a été émue par l'esprit intrépide de Jing Wei et a formé un couple avec eux, donnant naissance à de nombreux petits oiseaux. La femelle était comme Jing Wei et le mâle comme Haiyan. Comme leur mère, Xiaojingwei est également allée récupérer la mer. Ils font toujours ce genre de travail à ce jour.
+Inspiration de l'histoirexa0: la persévérance, les vœux aimables et les grandes ambitions de Jingwei sont respectés par les gens. Tao Yuanming, un poète de la dynastie Jin, a écrit dans son poème «xa0Le titre de Jingwei, Weimu en remplira la merxa0», louant chaleureusement le triste esprit combatif de Jingwei qui osait lutter contre la mer. Les générations suivantes ont également souvent utilisé «xa0Jingwei pour reconquérir la merxa0» comme métaphore du travail ardu et exceptionnel accompli par les gens de temps à autre.
+Les gens sympathisent avec Jingwei et admirent Jingwei. Ils l'appellent «xa0l'oiseau méchantxa0», «xa0Shidorixa0» et «xa0l'impératrice Sparrowxa0» et ont construit un monument sur la mer de Chine orientale, baptisé «xa0Site aquatique de Jingwei Pledgexa0».
+Traduit par IA   
+
+
+
+
+

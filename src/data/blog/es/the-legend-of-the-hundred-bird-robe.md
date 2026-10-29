@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-18 04:11:48
+title: "La leyenda de la túnica de los cien pájaros"
+featured: false
+draft: false
+description: "Zhang Yayuan, un joven grupo étnico zhuang, recibió una polla por casualidad. Medio año después, se convirtieron en una mujer hermosa y se casaron. El brindis codició el hermoso color y le robó a su esposa. Su esposa se separó para fotografiar a Momotori y confeccionar abrigos de plumas. Después de 100 días, Ya llegó al Ya Mun con un pajarito. Su esposa se rió al ver su ropa. Toast se cambió el abrigo para complacerlo, así que Ahara aprovechó la oportunidad para matarlo, huyó de su ciudad natal con su esposa y recuperó la felicidad. La historia elogia la sabiduría y el amor inquebrantable de los trabajadores."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-hundred-bird-robe.png)
+
+
+
+
+ La historia trata sobre un joven llamado Zhang Yayuan. Nació en una familia pobre. Su padre murió por trabajar duro para hacer pan tostado antes de que él naciera. Dependió de su madre desde la infancia, y dependía principalmente del trabajo duro para hacer tostadas y ir a buscar leña a cambio de arroz para llegar a fin de mes. Zhang Yayuan ha subido a la montaña para cazar leña desde que era niña, y ha desarrollado buenas habilidades y un cuerpo fuerte para cazar y cazar leña. Un día, cuando volvía a casa después de recoger leña, un gallo grande saltó sobre el armazón plano donde estaba recogiendo leña y se la llevó a casa. Después de criar este pollo durante medio año, se convirtió en una hermosa niña como un hada, y se convirtieron en pareja con él. Zhang Yayuan es valiente y capaz. Su esposa es trabajadora y amable. Los dos vivieron una vida hermosa después de casarse.
+Sin embargo, los brindis locales han codiciado la belleza de la esposa de Ahara durante mucho tiempo y querían hacer todo lo posible para robar a la niña como concubina. Como resultado, Toast tuvo problemas en todas partes, pero la esposa de Yasuhara los venció con sabiduría. Fuera de control, Toast robó por la fuerza a la esposa de Ya Yuan. Cuando se fue, su esposa le dijo a Ya Yuan: «Ve a cazar 100 pájaros en las montañas y hazte un abrigo de plumas». Después de 100 días, ponte «cien ropas de pájaro» para encontrarme». La esposa ha sido secuestrada, la madre está enojada y la familia está destrozada. Ahara se adentró en las montañas con odio y dolor, pero también con la esperanza de cazar pájaros. Robaron a la chica en la oficina del gobierno. No hubo risas; estaba triste día tras día y el mundo estaba agotado día tras día. Para hacer reír a la niña, Toast estaba dispuesto a pagar 300 dólares de plata, pero nada de lo que vendiera el yeso o contara chistes hizo reír a la niña. Para salvar a su esposa, Ya Yuan se esforzó mucho, atravesó 99 ríos, escaló 99 montañas y derribó 100 pájaros.
+Llegó el día 100. Como dijo su esposa, Ya Yuan terminó de ponerse «cien ropas de pájaro» y llegó a la puerta del gobierno. La niña, que suele tener una cara triste, sonríe cuando ve a Ahara bailar «cien ropas de pájaro». Toast era codiciosa y, para complacerla, se quitó la bata oficial y se la cambió con Ahara. Yahara mató a Toast cuando lo ayudó a ponerse un «abrigo de cien pájaros». Sin embargo, aprovecharon la oportunidad para escapar de la oficina gubernamental. Ambos se fueron muy, muy lejos y vivieron una hermosa vida juntos.
+La historia de Bird Coat refleja profundamente la firme voluntad del pueblo zhuang de resistirse a la violación y luchar por la libertad. En 20xx, el cuento popular «Cien vestidos de pájaro» se incluyó en la primera tanda de listas del patrimonio cultural inmaterial de Guangxi. En 1955, el famoso escritor zhuang Wei Qilin (de Wencun, ciudad de Xiaoqi, condado de Hengxian) escribió el largo poema narrativo «Cien vestidos de pájaro», basado en el cuento local «Cien vestidos de pájaro». La publicación de este excelente y extenso poema narrativo llevó la herencia de la historia de «Los cien vestidos de pájaro» a un período de prosperidad sin precedentes.
+Traducido por IA   
+
+
+
+
+

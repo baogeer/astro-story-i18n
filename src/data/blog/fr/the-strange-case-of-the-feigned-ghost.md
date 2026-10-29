@@ -1,0 +1,30 @@
+---
+pubDatetime: 2026-11-07 22:20:43
+title: "L'étrange affaire du fantôme simulé"
+featured: false
+draft: false
+description: "Le gouverneur Tang Zhiyu, qui est directement subordonné au gouverneur, a été appelé tard dans la nuit par un fantôme. Le fantôme a utilisé des mots secrets pour accuser Wu Ji de crime grave. Il a fait semblant d'être croyant, a tendu une embuscade pour capturer un voleur volant se faisant passer pour un fantôme et a finalement découvert que le véritable coupable avait payé le crime. L'histoire montre la sagesse du gouvernement Qing de ne pas croire aux fantômes et de voir clairement la chute."
+---
+
+
+
+![AstroPaper I18n](/the-strange-case-of-the-feigned-ghost.png)
+
+
+
+
+ Pendant les années Yongzheng de la dynastie Qing, il faisait nuit sombre et venteuse tard dans la nuit.
+Directement dans la salle d'étude située dans la cour arrière du bureau du gouverneur, la bougie cassée flottait. Le gouverneur Tang Zhiyu lit toujours des livres. Ce gouverneur directement subordonné, qui appartenait à l'ère Kangxi, a toujours été un fonctionnaire propre et honnête et jouit d'une très bonne réputation.
+Soudain, il y a eu une explosion de pleurs misérables venant de l'extérieur de l'écran. Au milieu d'une nuit tranquille, cela semblait déchirant. Tang Zhiyu a appelé son serviteur pour ouvrir la porte et inspecter. Dès que j'ai ouvert la porte et que j'ai regardé dans le jardin avec peur, j'ai crié et je suis tombée par terre. Tang Zhiyu a secoué son esprit et est sorti du combat. La nuit, à l'ombre des arbres, j'ai vu une personne s'agenouiller étrangement. Son visage était vert et rouge et ses ongles mesuraient environ deux pouces de long. C'est clairement un monstrexa0! Tang Zhiyu avait un visage terreux, mais il a ensuite changé d'avisxa0: je ne perds pas mon cœurxa0; je n'ai pas peur qu'un fantôme de minuit frappe à ma portexa0; de plus, je suis fier d'en être membre. Comment puis-je avoir peur d'un petit fantôme dans le quartierxa0? J'ai donc essayé de me calmer et j'ai dit à haute voixxa0: «xa0Le diable qui s'est agenouillé, peut-il y avoir des griefsxa0? Parlez également au maître.xa0» Ce fantôme Youyou a ditxa0: «xa0Je m'appelle Feng Desheng. Ma famille a vécu dans le comté de Wuqing de mon vivant. Alors que je faisais des affaires, j'ai été tué par des personnes fortes. Le responsable sans scrupules du commandant du comté de Wuqing a arrêté un citoyen innocent, mais a laissé le vrai coupable impuni. Je les admire au nom de leur jeunesse. Je t'embête ce soir, et j'espère qu'ils vont me réparer.xa0» Tang Zhiyu a demandé à la hâtexa0: «xa0Qui est le vrai coupablexa0?xa0» Le diable a prononcé 16 mots mot pour motxa0: «xa0Une bouche céleste, une bouche de terre, une rivière derrière la maison et des saules sur le côté de la maison.xa0» Fin du discours, franchissez le mur.
+Tôt le lendemain matin, deux policiers du comté de Wuqing ont envoyé un prisonnier au bureau du gouverneur pour signaler le meurtre. Tang Zhiyu a été surpris d'apprendre les circonstances de l'affaire. Il s'est avéré qu'il s'agissait du meurtre de Feng Deshan. Se souvenant du délit de la nuit dernière, Tang Zhiyu a demandé à la hâte au sergentxa0: «xa0Où ont été tués les mortsxa0? «xa0Le sergent a répondu que c'était près de Liujiazhuang, dans le comté de Wuqing. Tang Zhiyu a également demandéxa0: «xa0Peut-il y avoir une rivière derrière ce Liujiazhuangxa0?xa0» Le sergent a réponduxa0: «xa0Exactement. Tang Zhiyu a été choqué et a ditxa0: «xa0Amenez quelqu'un du nom de Wu Ji de Liujiazhuang dès que possiblexa0!xa0» Shu Yi a écouté et méditéxa0: «xa0Une bouche du ciel, une bouche de la terre, n'est-ce pas Wu Jixa0? J'ai secrètement admiré l'ingéniosité de Tang Zhiyu.
+En outre, Wu Ji a été arrêté et traduit en justice. Après quelques interrogatoires, Tang Zhiyu a immédiatement ordonné qu'il soit conduit dans le quartier des condamnés à mort. Tang Zhiyu a également amené le meurtrier initialement escorté par le policier au tribunal et lui a ditxa0: «xa0Cet officier a toujours tranché l'affaire de manière impartialexa0; vos griefs ont maintenant pris fin. J'ai brûlé une feuille de papier aujourd'hui pour permettre à l'esprit mort de Feng Deshan, qui vous a poursuivi en justice, d'intenter une action en justice dans les trois jours. Pouvez-vous envoyer une lettre à votre famille pour le moment, signaler la sécurité et lâcher prise lorsque le fonctionnaire a déposé une plaintexa0? citationxa0;
+Trois jours plus tard, dans la nuit, le fantôme est réapparu. Tang Zhiyu a pris la plainte déposée par le diable et l'a soudainement déchirée en criantxa0: «xa0Donne-moi le meilleur de ce typexa0!xa0» La garnison, qui avait été prise en embuscade de toutes parts, a envahi et a capturé le diable sur place.
+Après l'interrogatoire, la vérité a été révéléexa0: en fait, ce «xa0fantômexa0» a fait semblant de tromper Tang Zhiyu. Après avoir tué Feng Deshan, le meurtrier a été appréhendé et traduit en justice. Afin de lui sauver la vie, il a dépensé beaucoup d'argent pour acheter un voleur doué pour survoler le mur, se faire passer pour une fausse âme et blâmer les autres.
+Les représentants du gouvernement et Xiao Shuyu ont été à la fois surpris et admirés, et ont demandé à Tang Zhiyu comment ils avaient découvert que ce «xa0mauvais fantômexa0» avait été usurpé. Tang Zhiyu a rixa0: «xa0Mon patron n'a jamais cru que les fantômes existaient réellement dans le monde. De plus, j'ai remarqué qu'il y avait des traces de pas évidentes sur le mur du jardin. Est-ce que des fantômes allaient et venaient si maladroitsxa0? En conséquence, je l'ai calculé, j'ai fait ressortir ce «xa0fantômexa0» et j'ai révélé la vérité.
+L'innocent Wu Ji a été renvoyé à Liujiazhuang, et le meurtrier et les voleurs volants ont été sévèrement punis conformément à la loi. Cette histoire du plan de Tang Zhiyu pour résoudre l'affaire «xa0Wrong Ghostxa0» a été considérée comme une bonne histoire par le public.
+Traduit par IA   
+
+
+
+
+

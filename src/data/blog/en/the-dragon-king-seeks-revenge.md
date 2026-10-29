@@ -1,0 +1,37 @@
+---
+pubDatetime: 2026-11-13 18:48:06
+title: "The Dragon King Seeks Revenge"
+featured: false
+draft: false
+description: "Zhang honestly opened the tavern and treated the turtle spirit under the pseudonym Yuan. When he learned that he was ordered to search for Dragon King Jiu Taizi, who was killed by the villagers, Dragon King decided to flood Xincun for revenge. Old man Yuan gave Zhang a flag to honestly protect himself in return for his kindness, but he placed the flag at the four corners of the village to protect the whole village. In the end, his house was destroyed by the flood, leaving only a big pit. He praised his noble character of sacrificing himself to save people."
+---
+
+
+
+![AstroPaper I18n](/the-dragon-king-seeks-revenge.png)
+
+
+
+
+ There is a Xin village in the northwest of Xinzhen in Wen'an County, and there is a big pit on the west side of the village. Earlier, it was a tavern. The treasurer's name was Zhang Hongshi. He is in his fifties and is good at frying and frying.
+On this day, Zhang honestly sealed the fire. He just wanted to take a break. He only saw an old man walk in, with a round face and a bald head, and carrying a burden. He was hungry when he entered the door. Zhang honestly told him that the fire had been cut off and advised him to look elsewhere. The old man Yang asked, “Alright, alright, I'm thirsty and hungry, I can't even stretch my legs!”
+No one can prepare to run into trouble when they're away from home, let alone be so old that they can't go out with their mouths pouted. Zhang honestly asked him what he did, where he came from and where he went. The old man said his last name was Yuan, he was a housekeeper, and he was on business.
+The financial owners of Beijing set up a few big deals in the county. Zhang honestly guesses that the old man went there to check the goods and reconcile the accounts, so he opened the stove and stirred the dishes. After frying the dish, pour in a pot of wine and take it over. As soon as Old Man Yuan tasted it, he thought it was a perfect taste, and he couldn't help but praise him. To be honest, Zhang was very happy and baked another slice of millefeuille. Old Man Yuan was very happy to eat it. When he left, he took out a large bar of silver and put it on the table and left. Zhang honestly hurriedly chased him out and said, “Two little money is enough; how could I use so much!”
+Old Man Yuan smiled and said, “Keep it, I'll eat and drink at your place tomorrow!”
+Since that day, Old Man Yuan has been here every day, for many days in a row.
+On this day, the north wind howled and there was a lot of snow. Suddenly Old Man Yuan came again. Zhang honestly let him into the house, brought him freshly cooked dog meat, heated a pot of wine, and warmed him up. The more old man Yuan ate it, the more he became addicted to it. Finally, he pushed away his bowl and fell asleep on the table. At this point, all the guests had left. To be honest, Zhang was afraid that he was cold, so he covered him with a leather jacket and turned around to pack up his stuff.
+When I finished my busy schedule and took a look, Old Man Yuan was still sleeping. Zhang was honestly afraid of mistakes. He was busy calling him up, but he didn't answer even a few calls. Zhang honestly wanted to see what happened to him. Unexpectedly, I opened the leather jacket and took a look. Old Man Yuan disappeared. There was only a big king. He was so frightened that Zhang honestly popped up with a “mom” sound.
+Old Man Yuan woke up excited, hurriedly restored his figure, and begged, “Please don't be loud. I'm a turtle in the river. I'm here to work for Dragon King. The present state of gluttony would be a big mistake; Dragon King knows he will punish me.” Zhang honestly swore in a hurry that he wouldn't tell anyone until his death. Zhang honestly asked him what he had come for. Elder Yuan whispered that he was looking for Dragon King's nine sons.
+Dragon King's nine sons have disappeared, and Dragon King sent people to search for them for a long time before they found them. Old Man Yuan has a deep sense of morality and resourcefulness. He found this place right away. Zhang listened honestly. He was so frightened that his hair exploded straight to the top. There are a lot of fishers in Xin Village. In particular, there are a few men. They don't understand 46; they aren't afraid of heaven and earth. Did they hurt Prince Kyu?
+Elder Yuan said, “It's true that Prince Jiu was harmed by those few people!”
+On that day, as soon as Prince Kyu arrived here, he was caught by them with fishing nets. There are rules for fishing in the village, and anyone who encounters strange fish and turtles must let go. However, those few people ripped the Jiu Taizi in their stomachs, brushed the pot on fire and cooked it to eat. Elder Yuan said, “Dragon King fainted as soon as he heard it. He vowed to destroy Xin Cun to avenge his son!”
+Zhang listened honestly. After throwing out two glasses of wine, he said, “Dude! We've known each other for quite a few days, so you just drop me off at the bar with a drink!”
+Old Man Yuan said, “I can't call you dead if anyone dies! I'm here just to save you.” To be honest, Zhang was very grateful and was busy asking what to do. Old Man Yuan told him that if Dragon Palace flags were placed around the tavern, the whole family could be saved. After speaking, unpack the bag, take out the four small yellow flags from the inside, and hand them over to Zhang's honest hands.
+Zhang honestly asked him to show mercy and save the other townspeople. Old Man Yuan shook his head: “Dragon King's order has been given. Don't be nosy, lest it cause a big accident.” They took the risk to save themselves, how could they cause more trouble! Zhang nodded honestly and agreed.
+After Old Man Yuan went far, Zhang honestly quickly placed the Little Yellow Flag at the four corners of Xincun. Zhang honestly thought about it. He would rather risk the lives of the whole family and save the townspeople. The flag had just been planted, and the flood rushed towards the tavern like a fierce beast. Like water waves at the top of a mountain, it constantly washes away. The townspeople are safe and sound, and the village is unharmed. However, Zhang's honest tavern and family are all gone. After the flood, there was only one big hole left.
+AI Translated   
+
+
+
+
+

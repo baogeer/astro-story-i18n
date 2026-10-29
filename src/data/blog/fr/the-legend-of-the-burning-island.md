@@ -1,0 +1,32 @@
+---
+pubDatetime: 2026-11-07 12:29:38
+title: "La légende de l'île en feu"
+featured: false
+draft: false
+description: "Ali et sœur Ali aimaient trop leur fils Agou, et si la lune n'a pas fait mourir son père, sa mère l'a toujours tolérée. Quand Agou a grandi, il a rassemblé de mauvaises personnes pour faire le mal et s'est réfugié sur l'île de Nanliao. Quand tante Ali s'est réveillée, elle a prié pour le châtiment divin. La dinde a mis le feu à l'île et tous les méchants ont été brûlés vifs. L'île s'appelle depuis Burning Island. L'histoire met en garde contre le fait que l'amour ne peut que provoquer un désastre."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-burning-island.png)
+
+
+
+
+ Fire Island se trouve dans la mer de Chine orientale, à l'est de l'île de Taiwan, à des dizaines de kilomètres de Taitung. Il existe une légende sur l'origine de Fire Islandxa0:
+Ali et sa belle-sœur vivent à Alishan. Ils ont un fils prénommé Agou. Le couple craignait que leur fils et leur bébé ne meurent. Ils avaient vraiment peur qu'il ne fonde dans leurs mains et ils avaient peur qu'il ne tombe. Il faisait froid et utiliser des pellicules de coton, c'était comme emballer des boulettes de rizxa0; quand il faisait chaud, le couple le ventilait à tour de rôle jusqu'à l'aube. Mon fils grandit et peut parler et marcher. Le couple est encore plus affectueux et «xa0gentil, gentilxa0» est inséparable. Quand mon fils veut manger ou jouer, j'essaie toujours de le faire manger et de jouer avec lui. J'ai toujours peur que mon fils ne se fourre la bouche.
+Un jour, après le dîner, le couple a emmené leur fils se promener devant la porte. La lune est sortie du sommet de la montagne de l'autre côté. Quand mon fils l'a vu, il a pointé du doigt la lune et a ditxa0: «xa0Papa, je veux jouer avec la lune. Tu peux l'enlever du sommet de la montagne et la jouer pour moi.xa0» Papa ne savait pas comment faire maintenant. Il a imploréxa0: «xa0Comment puis-je gravir une montagne à flanc de falaise pour aller chercher la lunexa0?xa0» Mon fils n'a pas écouté ça. Après avoir secoué son corps pendant deux, il s'est roulé sur le sol et a pleuré. Dans le passé, dès que le fils partait, ses parents n'avaient qu'à faire tout leur possible pour répondre à ses demandes, mais maintenant, cette demande de choisir la lune laisse son père perplexe. Maman est allée chercher son fils à la hâte, a giflé la boue sur son corps, l'a serré dans ses bras et lui a ditxa0: «xa0Sois gentil, ne pleure pas. Papa est monté sur la montagne pour choisir la lune pour toi.xa0» Elle a tourné la tête et a sévèrement réprimandé Alixa0: «xa0Toi, qu'est-ce que tu es, lao, monte la montagne pour cueillir la lune et jouer pour Agouxa0!xa0»
+Ali n'avait pas d'autre choix que de gravir la montagne. Il avait du mal à grimper sur les vignes et les rochers. La montée était moite et ses mains et ses pieds tremblaient. Mais le fils de Yamashita n'arrêtait pas d'insisterxa0: «xa0Dépêche-toi, dépêche-toi, choisis la lune pour que je jouexa0!xa0» Ali a grimpé sur une falaise abrupte et a marché sur une pierre turquoise. Il a dévalé le pied de la montagne avec un os de pierre. La carapace de son cerveau s'est ouverte, ses mains et ses pieds étaient cassés, et sa chair et son sang étaient flous comme un tas de citrouilles pourries.
+Sœur Ali a emmené Agou regarder. Son cœur était aussi douloureux qu'un coup de couteau et des larmes coulaient le long de ses yeux. Mon fils Agou était également danseur et a fondu en sanglots, mais il ne pleurait pas à propos de la mort de son pèrexa0; il pleurait que papa n'ait pas choisi la lunexa0: «xa0Rencontrez, rencontrez, papa ne choisit pas la lune pour moi, couchez-vous et dormez ici, ne vous rencontrez pas...xa0» Maman a également suivi le cœur de son fils et a réprimandé Alixa0: «xa0Si tu ne choisis pas la lune pour jouer avec Agou, tu devrais mourirxa0!xa0»
+Après l'enterrement d'Ali, sœur Ali adorait toujours son fils et s'en faisait plaisir. Mon fils grandit et devient de plus en plus audacieux. Sœur Ali est également âgée et s'appelle tante Ali. Son fils a appris à voler des vaches, à voler de la nourriture et à rassembler une bande de méchants pour kidnapper, tuer des gens et incendier. Les gens ordinaires ont été gravement blessés, alors ils se sont organisés pour lutter contre le gang de méchants appelé Agou.
+Agou a dirigé une équipe de méchants à travers la mer pour s'emparer de l'île de Nanliao et tuer tous les habitants de l'île. Ils prennent également souvent des bateaux pour Taitung, Cannabis et Dulan pour enlever des personnes, piller des biens et incendier des villages, provoquant colère et colère. Tout le monde est là pour accuser tante Alixa0: «xa0Toi, tu adores les enfants et tu les tolères. Maintenant, vous êtes en train de ruiner les familles de nos gens ordinaires et vous ne pouvez pas bien vivre. Tu n'es pas tristexa0? Tu es coupablexa0!xa0» Plus tard, les méchants ont cambriolé la maison de tante Ali, lui ont volé du poulet, des cochons et de la nourriture et ont blessé tante Ali. Ce n'est qu'alors que tante Ali s'est réveillée.
+En conséquence, elle a prié au paradis avec les gens ordinaires et a demandé à grand-mère de se débarrasser de ce fléau. Un grand dindon est descendu du ciel. Il avait de longues pattes et une peau rouge qui pendait le long de sa bouche, comme un nuage de feu. Il est venu chez tante Ali et a ditxa0: «xa0Tante Ali, grand-mère Matsu m'a envoyée brûler les méchants de l'île de Nanliao avec une boule de feu. Es-tu d'accordxa0? Votre fils Agou est là.xa0» Tante Ali détestait et disaitxa0: «xa0Agou n'est pas mon fils. Brûlez-le, brûlez-le, épuisez cette bande de méchantsxa0!xa0»
+La dinde se trouvait sur une falaise rocheuse sur la côte de Taitung. Il a battu des ailes, a levé la tête, a ouvert la bouche et a fait un grand bruit. Il s'est envolé vers l'île de Nanliao en chaîne. Le feu s'est enflammé et a pris feu.
+Tante Ali a crié aux gensxa0: «xa0Brûlez, brûlez, brûlez cette bande de méchantsxa0!xa0» La boule de feu dans la bouche de la dinde a continué de passer, brûlant, brûlant, tous les méchants de l'île de Nanliao ont été réduits en coke, et même les pierres étaient brûlées en rouge. Tante Ali n'a pas versé une seule larmexa0; elle a simplement criéxa0: «xa0Brûle, brûle, brûle bienxa0! Il a très bien brûléxa0!xa0»
+Plus tard, les gens ont appelé Nanliao Island Fire Island, et une seule ville s'appelait Nanliao Town.
+Traduit par IA   
+
+
+
+
+

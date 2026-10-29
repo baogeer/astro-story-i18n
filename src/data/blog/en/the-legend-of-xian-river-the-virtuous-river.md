@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-15 08:17:21
+title: "The Legend of Xian River, the Virtuous River"
+featured: false
+draft: false
+description: "The Shijihe River in Laiyang is also known as the Xianhe River and Xuanhe River. Legend has it that the Five Dragons were ordered by Emperor Jade to open the river and compete for the throne. Only the Shilong was able to respect the people and bypass the village garden. Big Bend 72 and Little Bend 99. Emperor Jade praised his virtue and stood at the head of the Five Dragons. The Shiji River got its name, and later led the dragon to drive the Wulong River directly to the South China Sea. The story praises the kindness of caring for the people."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-xian-river-the-virtuous-river.png)
+
+
+
+
+ Laiyang has a Wulong River. The Wulong River is formed by the confluence of five rivers: the Shijiao River, the Bailong River, the Qingshui River, and the Fushui River. Residents along the “Shijiao River” in the Wulong River are also known as the “Xianhe River”, also known as the “Xuanhe River”. Why is that? Turns out, there's a beautiful legend here.
+It is said that a long time ago, there was no river in the north of Laiyang City, yet Laiyang City was a vast ocean of sculptures, known as “XI (this word nourishes [xi]) in the book”. There are five dragons in Ze. In order to become the leader, they spit fog in the clouds all day long, throw their manes out, and fight incessantly. As a result, the wind and rain are out of balance, and Li Min has suffered greatly.
+When Emperor Jade found out about this, he summoned the Five Dragons to the Heavenly Court. The Five Dragons arrived at Tianting, and they argued loudly again at the Ling Xiao Treasure Hall. Emperor Jade was furious and was about to punish them. “Your Majesty, the old saying goes: 'Birds fly without heads, snakes don't walk without head'. Furthermore, there are no leaders; a fight is inevitable. Why don't we let them drive five separate rivers in the north of Laiyang City. The first leader of the Five Dragons was the first one.” Jade Emperor's performer.
+Five dragons took the lead, left Tiantiing, and returned to Laiyang in a flash. They each chose their own sources and pioneered. With the exception of the Clam River Dragon, the other four dragons went on a rampage while opening the river. Countless villages and pastoral gardens were destroyed. As a result, the four dragons went to the Tiantian court first to exchange orders. The only thing left is Shellfish River Dragon, which is long overdue and exhausted. The Jade Emperor asked it, “Why is it so late?” Shijihe said, “When I arrived in Laiyang City, I saw that the land there was arid, and immigrants treated water like oil and were compassionate, so they chose the river source a little further away. In order to protect the countryside along the river from flooding, they took a detour. The big curve turned 72 and the small curve 99. Therefore, it was too late. Emperor Wangyu was angry.” The Jade Emperor not only did not blame him, but instead praised him: “Good! This dragon!” The motto was: “Wait for the five dragons, with Hyun-long at the top.” The rest of the four dragons are ashamed and unbearably ashamed. Since then, Five Dragons have been headed by Hyun-ryong. The Shijihe River is known as the “Xianhe River”. It is also known as the “Whirlwind River” because it has many bends and swirls along the way.
+After Xianhe was honored as the head of the Five Dragons, he also led the four dragons back to “[Xi] Yangze” and said to the dragons, “If we wait for the five dragons to gather here, it will surely hurt the people for a long time. Why don't we work together to cross mountains and split mountains and open a river leading directly to the South China Sea.” The Four Dragons Qi Ying: “Life is the only one to follow!” As a result, Xianlong led the four dragons to join forces and certainly opened a direct river leading to the South China Sea. This is the Wulong River.
+AI Translated   
+
+
+
+
+

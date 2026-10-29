@@ -1,0 +1,54 @@
+---
+pubDatetime: 2026-11-22 10:12:58
+title: "Chen Yi es más astuto que el enemigo"
+featured: false
+draft: false
+description: "Chen Yi trajo guardias de seguridad para rescatar a los habitantes de las montañas sitiados por el ejército japonés. Tras descubrir que agentes enemigos lo seguían, reveló deliberadamente su identidad en la casa de té, falsificó órdenes militares y divulgó deliberadamente cartas de detectives enemigos. Por la noche, ordenaba a la milicia que utilizara petardos y barriles de gasolina para hacer un farol, lo que hizo que los jefes enemigos confundieran la llegada de las principales fuerzas del Nuevo Cuarto Ejército y se retiraran rápidamente, obteniendo así la victoria con sabiduría. La historia muestra la sabiduría militar de mantenerse a salvo ante el peligro y ganar por sorpresa."
+---
+
+
+
+![AstroPaper I18n](/chen-yi-outwits-the-enemy.png)
+
+
+
+
+ En una carretera montañosa sinuosa y cubierta de maleza, dos personas vestidas de granjeros corrían hacia adelante. El que iba delante era un poco mayor, tenía los hombros anchos, buena vista y daba grandes pasos; el que estaba detrás era un joven que trotaba unos pasos de vez en cuando para mantener el ritmo de la persona que tenía delante.
+Subí una pequeña colina, doblé una esquina y, de repente, la persona que tenía delante dejó de caminar. Se puso de lado, escuchó atentamente durante un rato, luego miró hacia atrás varias veces y dijo en voz baja al joven que lo seguía: «¿Te has dado cuenta? Hay gente que lo sigue». El joven se agachó hábilmente y parecía que sus zapatos estaban en el sedimento, pero sus manos le alcanzaron la cintura.
+El mayor inmediatamente lo cogió del hombro y dijo en voz baja: «No te muevas, síguelo, podría funcionar para nosotros». Luego dijo deliberadamente en voz alta: «Cómo, ya no puedes caminar»
+«¡No es eso! Es arena en los zapatos». El joven lo entendió y habló en voz alta.
+Los dos continuaron su camino. Después de caminar unos 20 minutos, el frente de repente se ensanchó. Llegaron a un pequeño pueblo de montaña. Este pueblo de montaña está situado en una colina rodeada de bosques. Bajando por el sendero de la montaña, hay una pequeña casa de té en el centro del pueblo.
+Los dos corrieron a la casa de té, le pidieron al tesorero que preparara una taza de té y descansaron lentamente. Después de un tiempo de arduo trabajo, un hombre alto y delgado entró en la casa de té. También preparó una taza de té, llamada tesorero.
+El hombre alto y delgado simplemente se sentó y no había tenido tiempo de tomar té. El transeúnte de hombros anchos de repente se puso de pie y se desabrochó la ropa. De repente, descubrió que llevaba una pistola brillante y robusta en la cintura y gritó: «¡Guardia de seguridad!»
+«¡Llegó!» ¿Tan joven? «Quot; pop» es sencillo.
+«Notifique inmediatamente a los cuadros superiores al pelotón y al líder del escuadrón de la milicia de la aldea que asistan a la reunión. Se ha organizado una tarea urgente».
+«¡Sí!» El joven se dio la vuelta para irse, le devolvió el grito y volvió a gritarle. «Espera, dile a la milicia que bloquee todas las carreteras de la aldea. Solo se les permite entrar, no salir». El joven se dio la vuelta y salió corriendo de la casa de té.
+El hombre de hombros anchos se sentó entonces, cogió la taza de té, tomó un trago y le dijo al hombre alto y delgado que estaba sentado a la mesa: «¿Este tipo no parece ser de las montañas?»
+El flaco estaba mirando la pistola y de repente escuchó la pregunta y respondió presa del pánico: «¡Ah, sí, oh, no!»
+«Entonces, ¿qué haces en este pueblo de montaña?»
+«Yo soy amigo de la tienda de porcelana Yamashita. Subí a la montaña a comprar paja».
+«Ja, ja, ja, era demasiado tarde; no podía cosechar ni una sola pajita en este momento».
+El hombre fuerte y de hombros anchos se rió a carcajadas.
+«Sí, sí». Al ser delgado y alto, se rieron a carcajadas de él. «Disculpe, este hermano mayor tiene un gran nombre».
+«Mi nombre es Chen Mingyi».
+«¡Ah!» Me senté en mi silla después de estar delgada.
+De hecho, era Chen Yi, el famoso comandante del Primer Destacamento del Nuevo Cuarto Ejército. Resulta que esta mañana, Chen Yi llevó a los guardias de seguridad a una reunión en el cuartel general del Nuevo Cuarto Ejército. En el camino, de repente, mi oficial de tráfico le informó que muchos habitantes de las montañas de la zona de Meishan organizaron espontáneamente un ataque contra un pequeño grupo de demonios y se apoderaron de más de una docena de armas y varias cajas de balas para resistirse a la matanza y el saqueo de los demonios japoneses. El líder del ejército japonés, Jiro Kahira, estaba tan enojado que llevó personalmente a más de 200 soldados japoneses y tropas falsas a las montañas para llevar a cabo un cerco. Tras un día de combates, los habitantes de las montañas vieron que estaban a punto de quedarse sin munición y comida. Tras enterarse de la noticia, el partido clandestino envió rápidamente a oficiales de tráfico para solicitar el apoyo del Nuevo Cuarto Ejército.
+La situación era tan crítica que ya era demasiado tarde para volver y transferir tropas. Como resultado, Chen Yi solo llevó a los guardias de seguridad directamente a la montaña.
+En ese momento, más de una docena de adultos jóvenes se apresuraron a entrar en la casa de té. Aunque todos estaban vestidos de campesinos, todos tenían cinturas abultadas, aparentemente todos con hombres.
+Chen Yi se puso de pie y dejó que todos se sentaran y dijo: «Jiro Kahira ha caído en mi trampa. Ahora necesitamos reunir de inmediato a todas las fuerzas de emboscada y cooperar tanto interna como externamente para eliminar a todos los enemigos. En concreto, dividamos el trabajo: «Chen Yi se detuvo de repente y le dijo al flacucho, completamente asustado: «Lo siento, tenemos importantes operaciones militares; solo podemos ofenderlo». Después de hablar, saludaron con la mano e inmediatamente los dos milicianos dieron un paso adelante y condujeron a los más flacos a una habitación cercana.
+Con su rica experiencia en la lucha contra enemigos, Chen Yi descubrió hace tiempo que este hombre delgado y alto era un detective enemigo que los seguía hasta las montañas. Chen Yi solo quería usarlo como cebo para atraer al enemigo hacia el anzuelo.
+La noche en las montañas llegó muy rápido. Estaba tan delgada y encerrada en una habitación oscura y oscura, asustada y ansiosa. De vez en cuando, se escuchaba un rápido sonido de pasos fuera de la casa y de «¡seguid adelante! ¡Talón!» El sonido de una contraseña. Cuando el sonido desapareció por completo, miré por la ventana y miré hacia afuera con alegría: los dos hombres fuertes que lo vigilaban en la puerta habían sido reemplazados por dos mujeres. ¡Esta es una oportunidad única en la vida! Incapaz de pensar detenidamente, abrió la ventana y saltó.
+En este punto, los montañeses asediados por los demonios están aprovechando la noche para descansar y discutir las contramedidas. Tras un día y una noche de lucha, sin comer ni beber, estaban todos agotados. De repente, «¡Pop! ¡Bum!» Durante la noche se oyeron dos sonidos nítidos de disparos, seguidos inmediatamente de disparos «crepitantes», con un «¡BOOM!» El sonido de los disparos era «boom». La gente de las montañas no pudo evitar ponerse nerviosa; necesitan saber que no tienen mucha fuerza para luchar contra sus enemigos.
+En realidad, este «¡abucheo! El sonido de dos disparos «estallidos» también hizo que el enemigo se preguntara: ¿de dónde venía la llamada? El líder militar japonés, Jiro Kahira, estaba aún más nervioso porque los dos disparos que acababan de hacer ahora estaban dirigidos exclusivamente contra él.
+Jiro Kahira estaba tan asustado que rápidamente se escondió detrás de una piedra y ordenó a las tropas que se prepararan para la batalla. En ese momento, se oyeron disparos más intensos por todas partes, así como disparos «retumbantes» y gritos vagos». ¿Es cierto que ha llegado un gran ejército del Nuevo Cuarto Ejército?» Jiro Kahira no podía entenderlo. Está claro que tiene información de inteligencia que dice que las principales fuerzas del Nuevo Cuarto Ejército no están aquí. ¿Por qué aparecieron tan pronto?
+En ese momento, el intérprete trajo al flacucho. Tan pronto como vio a Jiro Kahira, contó cómo había seguido a dos personas en las montañas, cómo Chen Yi lo atrapó en la aldea y cómo se arriesgó a escapar. «Taijun, creo que deberíamos retirarnos. El nuevo Cuarto Ejército es un ejército grande. Todos se esconden en las casas de la gente común. Los vi salir con mis propios ojos».
+Al principio, Jiro Kahira se mostró escéptico. Al ver a este tipo hablar sin rodeos, rápidamente ordenó la retirada después de pensar que Chen Yi había sido engañado muchas veces durante la semana.
+Tan pronto como se ordenó a esos soldados japoneses y al ejército falso que se retiraran, se equivocaron por completo y se apresuraron a escapar para salvar sus vidas. En ese momento, los habitantes de las montañas sitiados fueron expulsados y el Cuarto Ejército acudió a apoyarlos. Se fortalecieron de inmediato y los atacaron valientemente. Chen Yi comandó la milicia y luchó con los habitantes de las montañas de ambos bandos, derrotando aturdidos al diablo y al falso ejército. Pronto, todos corrieron montaña abajo.
+Después de que los dos equipos se unieran, la gente de la montaña tomó la mano de Chen Yi y expresó su agradecimiento uno tras otro. Sin embargo, no vieron la nueva unidad del Cuarto Ejército y descubrieron que en los alrededores había milicianos de pueblos cercanos. Las «armas» que tenían en sus manos eran, en realidad, bombardeos, barriles de gasolina y lavabos rotos. Parecía sorprendida y perpleja. Chen Yi se rió a carcajadas: «Mira, solo somos dos en el verdadero Nuevo Cuarto Ejército». Se señaló a sí mismo y al guardia de seguridad que estaba a su lado. «¡La verdadera arma son solo dos ametralladoras!»
+La gente de la montaña, que de repente se iluminó, no pudo evitar admirar la decisión y el ingenio de Chen Yi desde el fondo de sus corazones.
+Traducido por IA   
+
+
+
+
+

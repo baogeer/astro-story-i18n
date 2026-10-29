@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-15 08:22:04
+title: "Xi Shi and the Zuili Plum"
+featured: false
+draft: false
+description: "Since the main text only indicates the author and does not provide story content, no generalization is possible."
+---
+
+
+
+![AstroPaper I18n](/xi-shi-and-the-zuili-plum.png)
+
+
+
+
+ Author: Chunlei
+There is a plum garden in Taoyuan Village, Baitao Township, Tongxiang City. This plum grown in Li Yuan is huge, has a red skin color, an unusual fragrance, and is sweet and delicious. It ranks first among all plums. There is a slight dent on the top of the plum fruit, which looks like a nail being pinched by a fingernail. According to rumors, this is a mark left by the beautiful woman Shih Tzu.
+A long time ago, in spring and autumn, the Baidao area was originally a border area between Wu and Vietnam. Here, Vietnam has a castle famous for itself. Spring and autumn are eventful. Wu Yue often fought. Vietnam was defeated by Wu Guo, and Yue Wang Goujian had to retreat and make fun of Wu. He was extremely humiliated and humiliated. He tried to be brave and vowed to take revenge on Xue Shame. When he learned that Wu Wangfu was obscene and lustful, he decided to adopt the “Beauty Plan” offered by the minister. He sent the wise man Fan Li to Zhuji Village to visit a smart, beautiful, and very patriotic Shih Tzu girl to prepare to dedicate her to Wang Wu.
+Shih Tzu understood Yue Wang's intention. In order to wash away the shame of a dead country, she resolutely committed to seeking perfection and married an enemy country far away. She studied court manners and Sizhu singing and dancing for three years in Huiji. In the spring of this year, under the escort of a group of maids, she rode a BMW car, set out from Huiji, crossed Qiantang, and headed north along the ancient road. Along the way, I saw willows as green as smoke, and spring flowers as fire. When they passed by Li Cheng, they saw plum trees everywhere, snow-white plum blossoms gathered in clusters and branches bloomed all over the place, like a sea of snow. Seeing this beautiful scenery, Shih Tzu evoked a feeling of nostalgia for her hometown. She couldn't help but whisper, “Plums in my hometown cause homesickness. When will I return to the vast expanses?”
+When Shih Tzu entered Wu Palace, Wu Wangfu was certainly moved by her beauty and stayed with her all day long. In order to win Shih Tzu's heart, Wu Wang always caters to her needs. Tributes sent from all over must first be selected by Shih Tzu. In the summer of this year, Vietnam donated a batch of plums to Wu Wang. The husband ordered the princess to give these plums to Shih Tzu to taste. When Shih Tzu heard that it was a plum from her hometown, she was very emotional, and she also recalled the scene of wandering around Liyuan in spring. She really wanted to grow a pair of wings and fly back to Vietnam right away. She had no intention of tasting these plums.
+After a while, Wu Wang walked into the palace, saw the plums sent by the palace maiden, and put them on the case, pleasantly saying, “Ai Consort, why can't you taste such a good tribute?”
+Shih Tzu replied, “It's been too long since these plums have been harvested; they don't taste good anymore.”
+“I ordered them to buy some fresh plums right away!” As soon as Wu Wang said it, he wanted to pass on the message.
+Shih Tzu shook his hand and said, “The two places are so far apart that it is difficult to keep fresh if there are delays along the way. I want to go to Li Yuan to pick and taste it myself.”
+I heard that Shih Tzu wanted to go on a trip to buy Li; Wu Wang should go along. As a result, they mobilized the crowd and selected a group of palace ladies to accompany Shih Tzu to Li Yuan. When Shih Tzu arrived in Licheng, he felt very comfortable returning to his hometown. I saw a row of plum trees in and outside the city. The trees were covered with red plums, and the scenery was beautiful and moving. Surrounded by a group of palace ladies, she walked to Li Yuan. Those ripe plums are bright red in green, densely covered with yellow spots, and covered with white powder. Their flavor is attractive. Shih Tzu picked one by hand and gently rubbed it on the top of the plum with her fingernails. The juice overflowed and the aroma penetrated the nose. When you put it in your mouth and take a breath, plum juice is like sweet wine. After taking a few tablets, Shih Tzu got drunk. Since then, people have named the plums here “drunken plums.” Since “drunk” is synonymous with “drunk,” and this castle is called plums, people later called plums here.
+Strangely enough, since Shih Tzu visited the Li Garden, the plums that have grown here all have a scar shaped like a claw mark on the top of the fruit. People say that this is a nail mark left by Shih Tzu when eating prunes. They call it a “Shih Tzu claw mark.” Just like peonies have finger marks of a royal princess, it has been passed down through the ages and has been talked about. Zhu Zhu Taishi of the Qing dynasty once wrote in the “Yuanhu Song”: “I heard that Shih Tzu once sang, but every trace has been added.”
+Chunlei collection and collation
+AI Translated   
+
+
+
+
+

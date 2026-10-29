@@ -1,0 +1,25 @@
+---
+pubDatetime: 2026-11-11 03:06:18
+title: "La légende des trois grandes murailles passe"
+featured: false
+draft: false
+description: "L'empereur Jade a vu le fils aîné du Roi Dragon dans la mer de Chine orientale faire le mal, a envoyé un soldat pour lui couper les membres et a lancé trois orbes d'affilée pour sécuriser la tête du dragon, la queue du dragon et le corps du dragon. Le dragon maléfique est complètement tombé au sol et les trois orbes se sont transformés en Shanhaiguan, Jiayuguan et Badaling North Gate. Yongzhen Haijiang était protégée."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-the-three-great-wall-passes.png)
+
+
+
+
+ Pourquoi l'imposante et majestueuse Grande Muraille de Chine se rend-elle à Shanhaiguan à l'est et à Jiayuguan à l'ouest, et possède-t-elle la clé de verrouillage de la porte nord de Badalingxa0? Il y a une légende incroyable là-dedans.
+La légende raconte que l'empereur Jade Emperor Gongli, l'immortel immortel, a soudainement fait flotter un groupe de fumée âcre devant le crime. Au milieu de l'étrangeté, l'empereur Yu Huang a aidé l'affaire et s'est penché sur le côté pour regarder le monde terrestre, seulement pour voir une épaisse fumée et de l'hydrogène partout dans la montagne, recouvrant le brouillard. En écoutant attentivement, il y avait aussi des cris de douleur et des cris d'appel du ciel vers la terre. Pourquoi çaxa0? L'empereur Jade a immédiatement ordonné à une petite fée d'enquêter sur tout. Pendant un moment, Xiao Xian a paniqué Zhang Huihui et a déclaré qu'il s'agissait du fils aîné de Dragon King dans la mer de Chine orientale. Non seulement cela n'a pas profité à la population, mais au contraire, cela a provoqué des tempêtes de grêle et de la pluie chaque annéexa0; de plus, cela a dévoré deux offrandes pour garçons et filles chaque jour. Pour survivre, les gens de Red Dust brûlent de l'encens et crient à l'aide, et demandent au fils aîné de Dragon King d'ouvrir les yeux et d'être heureux... Sans terminer les paroles de la fée, l'empereur Yu Huang était furieux et a commis un crimexa0: «xa0Quel méchant audacieux et arrogantxa0!xa0» Après tout, envoyez immédiatement Taibai et Tenbong pour tuer le dragon, sauver le peuple et sauver le monde.
+Le dragon maléfique ne savait pas qu'il avait enfreint les règles du ciel. Juste au moment où il dansait ses griffes et était heureux, il a entendu le son des tambours célestes et des nuages blancs flottaient partout. En un instant, divers généraux divins sont apparus des nuages. Ahhh, la terre a été choquée et est allée directement au dragon pour l'abattre. Le dragon a été pris au dépourvu et a crié. Deux de ses griffes antérieures ont été coupées par Tensei. En criant une fois de plus, leurs deux pattes arrière ont également été coupées... Au milieu de la douleur du dragon, la mauvaise conduite de Fang Zhi a provoqué la colère de l'empereur Jade. Il avait du mal à s'échapper vers la mer de Chine orientale pour échapper à la punition.
+À ce stade, l'Empereur de Jade, debout devant la porte de Nantianmen, l'a vu sérieusement. Il a sorti un globe de son chapeau et l'a giflé doucement, comme sur le dragon sur le point d'entrer dans la mer. Le dragon criait et il était difficile de bouger lorsqu'il s'est coincé la tête au bord de la mer. Les tambours du ciel ont retenti à nouveau et le Heavenly Soldier est retourné à Tiangong. Cependant, le dragon démon, qui avait peu de membres cassés, a désespérément affaissé sa queue et a choqué le monde, et les gens n'avaient toujours pas l'esprit tranquille. Pour arrêter le dragon, l'empereur Jade a levé la main et a retiré un orbe de son chapeau, l'a giflé et l'a jeté sur la queue du dragon. Le dragon n'arrivait plus à s'en remettre. Cependant, le bas de son dos soulève toujours son arc un par un. Chaque fois qu'il soulève sa proue, il souffle du vent noir et du sable dans le ciel. La population est toujours terrifiée et il leur est difficile de survivre. En regardant cette scène, l'empereur Jade réfléchit profondémentxa0: si les dragons maléfiques n'étaient pas complètement tués, il serait difficile pour les habitants du monde de vivre et de travailler en paix, sans parler d'ajuster le temps et la pluie et d'avoir beaucoup de céréalesxa0? D'ACCORDxa0! D'ACCORDxa0! D'ACCORDxa0! L'empereur Jade a pris une autre perle du bout de ses doigts et l'a jetée durement sur la poitrine du dragon. Il a vu que l'orbe entraînait une lumière dorée directement dans le cœur du dragon. Depuis, Evil Dragon s'est complètement stabilisé. Plus tard, les trois joyaux de l'empereur Yu Huang ont été verrouillés pour les portes nord de la Grande Muraille de Chine à Shanhaiguan, Jiayuguan et Badaling...
+Traduit par IA   
+
+
+
+
+

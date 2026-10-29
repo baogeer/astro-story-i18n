@@ -1,0 +1,24 @@
+---
+pubDatetime: 2026-11-21 13:05:01
+title: "La leyenda del pescado con vinagre de West Lake"
+featured: false
+draft: false
+description: "Durante la dinastía Song del Sur, los hermanos Song fueron incriminados por matones, y su hermano murió y su hermana le ordenó huir. Mi cuñada usó pescado agridulce para decir «dulce y amargo, no olvides el amargor», y el hermano menor regresó para castigar al culpable. Con este plato, volvió a encontrarse con su cuñada, de ahí el nombre de «tío y cuñada». También muestra la razón por la que lo bueno tiene buenas recompensas."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-west-lake-vinegar-fish.png)
+
+
+
+
+ El pescado con vinagre de West Lake es el plato más famoso de West Lake en Hangzhou. Se elaboró por primera vez en Gaozong durante la dinastía Song del Sur. Según registros antiguos, el plato de pescado con vinagre del Lago del Oeste proviene de «la leyenda del tío y la hermana».
+Cuenta la leyenda que durante la dinastía Song del Sur, había dos hermanos Song. Eran muy educados, pero no querían ser funcionarios, así que permanecieron recluidos y se ganaban la vida pescando. Hay un acosador local, el famoso oficial Zhao. Cuando vio que la hermana Song era joven y hermosa, planeó matar al hermano Song para apoderarse de la hermana Song. En ese momento, el tío y la cuñada de la familia Song cayeron del cielo sobre el tío y la cuñada de la familia Song, y el dolor fue abrumador. Para vengar la venganza de su hermano, el tío y la hermana acudieron a la oficina gubernamental para presentar una denuncia. Nadie sabía que la oficina gubernamental y las fuerzas del mal de la época se estaban volviendo locas. En vez de eso, fueron golpeados brutalmente y expulsados del gobierno. Cuando llegué a casa, mi cuñada no tuvo más opción que dejar que mi hermano menor huyera de su ciudad natal. Cuando mi tío y mi hermana se separaron, la hermana Song preparó especialmente un bol de caballa con azúcar y vinagre y le dijo a su hermano: «Este plato es agridulce. Espero que tengas un buen día, no olvides la amargura de hoy». Más tarde, Song Di salió y luchó contra Jin y el país. Regresó a Hangzhou para castigar al villano, pero nunca descubrió el paradero de su cuñada. Una vez que salí a cenar, aprendí sobre este plato durante la cena. Tras ser interrogada, la cuñada de Fang Zhi fue de incógnito a trabajar como cocinera aquí, así que empezaron a reunirse. Como resultado, el hermoso plato «Tío y hermana Chuan Zhen» se extendió como una leyenda entre la gente.
+Fang Hengtai, originario de la dinastía Qing, escribió el poema «Lago del Oeste», en el que decía: «Wuliuju, junto al lago Xiaopo, consigue pescado fresco cuando tengas un banquete. A Miso lo que más le gusta es el saurio plateado, y Kawari no es tan bueno como Kawagai». Muestra la cocina y la exquisitez del pescado con vinagre de West Lake. Hasta finales de la dinastía Qing, pescado en vinagre del Lago del Oeste, era famoso sobre todo por cocinarse en restaurantes situados fuera de la Torre del Lago del Oeste, y lo sigue siendo hoy en día.
+Traducido por IA   
+
+
+
+
+

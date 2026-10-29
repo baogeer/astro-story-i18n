@@ -1,0 +1,33 @@
+---
+pubDatetime: 2026-11-14 10:47:55
+title: "Le mythe de Ningguanwa, premier ancêtre du peuple Jingpo"
+featured: false
+draft: false
+description: "Ning Guanwa est le petit-fils du dieu Soleil. Ses parents lui ont donné des pouvoirs divins pour être la pionnière de la terre et utiliser des marteaux en pierre et des cônes de pierre pour créer des montagnes, des rivières, des rivières et des lacs. Utilisant la fausse mort comme test, ses parents lui ont appris à étoffer la terre, les plantes et les trésors, et à transmettre des techniques agricoles. Plus tard, elle a épousé une fille dragon, s'est mariée avec Bang Bang Cao et a donné naissance à tous les groupes ethniques. La tribu Jingpo était leur quatrième plus âgée. L'histoire décrit la Terre en tant que parents, et toutes les nations sont frères."
+---
+
+
+
+![AstroPaper I18n](/the-myth-of-ningguanwa-first-ancestor-of-the-jingpo-people.png)
+
+
+
+
+ Il était une fois, la terre était chaotique, sans terrain plat, sans rivières, sans océans, sans herbe, sans arbres, sans vent, seulement des pierres mélangées à de l'eau.
+Il y a un soleil dans le ciel et le dieu du soleil a deux enfants. Le nom masculin est Ning Guan Zhi Yi et le nom féminin est Ma Zhang Weishun. Ce sont les ancêtres du peuple Jingpo. Ils ont eu un fils nommé Ning Guanwa.
+Ning Guanwa a progressivement grandi et était déterminé à nettoyer la terre. Il a dit au revoir à ses parents et est parti travailler sur terre. Le Dieu Soleil lui a donné de la force. Il a martelé le sol avec une grosse pierre, a creusé une tranchée avec une pierre conique et a utilisé un serpent de chanvre comme règle pour mesurer le sol.
+Ning Guanwa a utilisé un cône de pierre pour creuser de nombreuses tranchées profondes, et l'eau s'est écoulée le long de ces tranchées profondes — il y avait des rivières sur le sol. L'eau a coulé jusqu'à son point le plus bas et s'est accumulée là où Ning Guanwa a le plus touchéxa0: elle est devenue un océan. Ning Guanwa a frappé la terre avec un marteau en pierre et la terre est devenue inégale. L'endroit où il était encastré est devenu un barrage et un sol plat, et l'endroit qui fait saillie est devenu de grandes, petites montagnes hautes et inégales. La zone trop basse était remplie d'eau et Ning Guanwa voulait l'assécher et la transformer en un sol plat.
+Ning Guanwa est occupé. Son père a envoyé Xinwabao appeler Ning Guanwa. Xinwaniao s'est envolé aux côtés de Ning Guanwa et a dit à Ning Guanwaxa0: «xa0Revenez bientôtxa0! Ta grand-mère est mortexa0!xa0» Ning Guanwa n'a été stupéfaite que lorsqu'elle l'a entendu, puis a réponduxa0: «xa0Je suis occupée. Grand-mère mourra à sa mort. Le nom de sa mère peut être remplacé par le nom de son pèrexa0!xa0» Après avoir parlé, j'ai enterré ma tête et je me suis occupé à travailler. À l'origine, Ning Guanwa était le nom de famille de sa mère, mais elle a ensuite changé pour le nom de famille de son père. Ning Guan Zhi Yi et Ma Zhang Weishun ont envoyé Xinwabao pour ramener Ning Guanwa chez lui. Cette fois, dès que Xinwabao s'est envolé aux côtés de Ning Guanwa, ils ont ditxa0: «xa0Revenez bientôtxa0! Ton père est mort aussixa0!xa0» Ning Guanwa a pleuré en apprenant la nouvelle de la mort de son pèrexa0: «xa0Tu ne peux pas changer le nom de ton pèrexa0!xa0» Je n'avais pas asséché toute l'eau accumulée, alors je me suis précipitée chez moi. Plus tard, l'eau accumulée qui n'a pas été drainée est devenue un lac.
+Ning Guanwa est rentré à la maison en pleurant. Voyant que ses deux parents étaient toujours en vie, elle a été surprise de demanderxa0: «xa0Yo, grand-mère, qu'est-ce qui se passe avec çaxa0?xa0» Grand-père et grand-mère lui ont ditxa0: «xa0Nous t'avons élevé en tant qu'adulte et nous avons fait de notre mieux. Maintenant tu es vieux et fragile, et tu vas bientôt mourir. Il y a encore beaucoup de choses que je dois vous dire avant d'envoyer Xinwaniao pour vous rappeler.xa0» Ning Guanwa a pleuré tristement et a demandéxa0: «xa0Vous êtes partis tous les deux, que dois-je fairexa0?xa0» Ning Guan Zhi Yi a déclaréxa0: «xa0Après notre mort, notre chair et notre sang se transformeront en terre, notre sueur et nos cheveux se transformeront en herbe et en arbres, et nos intestins et nos poumons deviendront toutes sortes de trésors. C'est à vous de faire prospérer ce monde. Dorénavant, la saleté sera tes parents. Pour vivre de la culture, il faut écouter les cris des oiseaux. Le sol est abattu en janvier, planté en mars, planté en mai et récolté en octobre. Ainsi, les générations futures n'auront pas faim.xa0» Ning Guanwa a sangloté et a ditxa0: «xa0Eh bien, à laquelle voulez-vous donner une ambiance de grand-père et de grand-mèrexa0?xa0» Ning Guan Zhi Yi a réponduxa0: «xa0Je veux laisser le sentiment de grand-père et de grand-mère à Qingfeng.xa0» Ma Zhang Weishun a poursuivi en disantxa0: «xa0La danse du dieu soleil, le cerveau en bois, est une danse célébrée par le ciel et la terre, et les oiseaux vous l'apprendront.xa0»
+Plus tard, Ning Guan Zhi Yi et Ma Zhang Wei Shun sont morts. Leur chair et leur sang sont devenus de la saleté, leur sueur et leurs cheveux se sont transformés en herbe et en arbres, leurs organes internes sont devenus toutes sortes de trésors et la brise fraîche était leur parfum.
+Ning Guanwa a rencontré Nong Ruo Mazabang, la fille de Dragon King, et ils envisagent de devenir mari et femme. Cependant, Nong Ruo Mazabong est une fille dragon et son corps sent le poisson comme un dragon. Ning Guanwa a demandé au Dieu Soleil. Suivant les instructions du Dieu Soleil, Nong Ruo Mazabang est passé devant Bang Bang Caobang. En traversant les fourrés de Bang Bang, l'odeur de poisson de Nong Jo Mazabon a disparu. Depuis cette époque jusqu'à aujourd'hui, lorsque les gens se marient, les Jingpo doivent conduire la mariée à travers la porte colorée faite d'herbe de Bang Bang, en la qualifiant de «xa0femme louchexa0» — Mu Nan Nong.
+Ningguanwa Mogan et Nong Ruo Mazabang ont donné naissance à de nombreux enfants, et ils sont devenus de toutes nationalités aujourd'hui. Les Jingpo sont des Madu, des personnes âgées. Les habitants de Jingpo considèrent l'endroit où vivent Ningguanwa Mogan et Nongjomazabong comme le centre. Tous les groupes ethniques se sont séparés de cet endroit et se sont répandus dans le monde entier.
+Par conséquent, le peuple Jingpo pense que les ancêtres du peuple Jingpo étaient Ningguanwamogan et Nongromajabang. Les parents de Ning Guanwa sont la terre recouverte de terrexa0; ils sont les enfants du dieu Soleil. Toutes les nations de la terre sont frères et sœurs.
+Recueilli et organisé parxa0: Mu Ran Nao Du
+Extrait de «xa0Jingpo Folk Talesxa0» de Ou Weibo, Yunnan People's Publishing House, édition 1983
+Traduit par IA   
+
+
+
+
+

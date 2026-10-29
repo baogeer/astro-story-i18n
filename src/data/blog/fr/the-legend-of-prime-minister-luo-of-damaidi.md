@@ -1,0 +1,26 @@
+---
+pubDatetime: 2026-11-04 15:58:11
+title: "La légende du Premier ministre Luo de Damaidi"
+featured: false
+draft: false
+description: "Le Premier ministre Luo a fait tout son possible, mais il a été piégé par ses traîtres alors qu'il était trop doué. L'empereur voulait être puni. Il a délibérément déclaré qu'il craignait que de nombreuses puces, poux et herbes ne mordent les habitants de Bijiguan, dans le Yunnan. En conséquence, l'empereur a prévu de le distribuer au Yunnan, ce qu'il voulait, et finalement toute la famille a déménagé à Liyang pour s'installer et se reproduire. L'histoire montre l'esprit du Premier ministre Luo et fait également la satire de l'ignorance de l'évanouissement du roi."
+---
+
+
+
+![AstroPaper I18n](/the-legend-of-prime-minister-luo-of-damaidi.png)
+
+
+
+
+ Je ne sais pas à quelle époque, il y avait un officiel surnommé Luo du village naturel de Daimaidi. Le fonctionnaire surnommé Luo était une personne intelligente, intelligente, capable et très bien informée. Grâce à ses excellentes compétences, il a organisé de nombreux événements majeurs pour l'empereur de l'époque. Il a effectué de nombreuses expéditions militaires, obtenu de brillants résultats et reçu de nombreuses récompenses pour son service militaire. L'empereur attachait une grande importance à l'empereur. Le fonctionnaire du Premier ministre est le bras gauche et le bras droit de l'empereur.
+L'un des traîtres voulait concourir pour la gloire, alors il a piégé le Premier ministre Luo. Le traître a dit à l'empereurxa0: «xa0Le prince héritier Luo a de mauvaises intentions et des complots...xa0; Lorsque l'empereur écoute la lettre, il doit punir le Premier ministre Luo et donner l'ordre de monter sur le trône.
+Lors de son ascension sur le trône, l'empereur a demandé et réfléchi à la manière de punir le Premier ministre Luoxa0! Cette personne a réussi à de nombreuses reprises et a été exécutée à mort. Il était intolérable et le crime d'avoir rejoint l'armée a été commué en crime d'enrôlement dans l'armée. L'empereur a demandéxa0: à quoi pensez-vousxa0? Le Premier ministre Luo lui-même n'arrivait pas à comprendre la punition et n'était pas convaincuxa0; il a remercié l'empereur pour la peine. Il voulait rester aussi loin que possible de l'empereur. Il ne lui serait plus fidèle. S'il voulait être envoyé au Yunnan, ce serait mieux. À cette époque, le Yunnan était peu peuplé, le climat était bon et riche en ressources. Luo Chengxiang était intelligent, intelligent et adaptable. Réponsexa0: Il peut parcourir 800 miles entre les plaines centrales, Mo Chong et Bijiguan dans le Yunnan. L'empereur a demandéxa0: Pourquoi n'allez-vous pas à Bijiguan. Il y a environ 10 kilomètres entre Bijiguan et Kunming. Il a réponduxa0: «xa0N'allez pas au Blue Chicken Pass pour les gens. Il y a quatre ou deux puces, une demi-livre de poux et l'herbe pique les gens. Je n'irai pas dans ce mauvais endroit.
+Le traître voulait tuer le Premier ministre Luo pour éviter de futurs problèmes. Parlez rapidement et silencieusement à l'empereur, et l'empereur a annoncé la visite du Premier ministre Ding Luo au Yunnan. Le plan de l'empereur était conforme à l'intention du Premier ministre Luo. Des membres du gouvernement impérial ont escorté le Premier ministre Luo, sa famille, trois proches et six proches pour s'installer dans le Yunnan. Vivez dans l'isolement et soutenez les générations futures dans le riche et magnifique pays de Yangyi Daimai, dans le Yunnan. Il existe encore des légendes et sa tombe à ce jour.
+Kollektionxa0: Luo Xianshun
+Traduit par IA   
+
+
+
+
+
