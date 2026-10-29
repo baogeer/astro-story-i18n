@@ -114,7 +114,7 @@ if __name__ == "__main__":
     # 方式 1：只列路径
     paths = list_images(FOLDER, recursive=False)
     print(f"共找到 {len(paths)} 张图片:")
-    for p in paths[:100]:
+    for p in paths[:200]:
         print("  ", p)
         add_caption_bottom_right(
             input_path=p,
